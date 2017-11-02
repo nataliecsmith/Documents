@@ -61,11 +61,11 @@
  <text>
   <body>
    <p>To His Excellency
-<lb/>B. Magoffin
-<lb/>Governor of Kentucky</p>
-<p>The undersigned would respectfully ask that he be appointed a Notary Public for Jefferson County Ky to fill the vacancy occasioned by the death of Q. C. <unclear>Geasty</unclear> dec<hi rend="sup">d</hi>.</p>
-<p><hi rend="underline">A. M. Gazlay</hi></p>
-<p>Louisville <date when="1860-10-30">Oct 30. 1860.</date><pb/>
+<lb/><persName ref="cwgk:N00000258">B. Magoffin
+</persName><lb/>Governor of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p>The undersigned would respectfully ask that he be appointed a Notary Public for <placeName ref="cwgk:P001005">Jefferson County Ky</placeName> to fill the vacancy occasioned by the death of Q. C. <unclear>Geasty</unclear> dec<hi rend="sup">d</hi>.</p>
+<p><persName ref="cwgk:N001782">A. M. Gazlay</persName></p>
+<p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1860-10-30">Oct 30. 1860.</date><pb/>
 <lb/><hi rend="underline">Jefferson Co</hi>
 <lb/>notary
 <lb/>A. M. Gazlay
@@ -74,7 +74,7 @@
 <lb/>His Excellency
 <lb/>B. Magoffin
 <lb/>Governor of Ky
-<lb/>Frankfort</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName></p>
   </body>
  </text>
 </TEI>
