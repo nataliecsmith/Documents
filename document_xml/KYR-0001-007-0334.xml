@@ -60,16 +60,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>St. Louis. Mo. <date when="1864-12-23">December 23, 1864</date>.
-<lb/>Secretary of State.
-<lb/>Frankfort Ky.
-<lb/>My dear Sir.</p>
+   <p><placeName ref="cwgk:P00003268">St. Louis. Mo</placeName>. <date when="1864-12-23">December 23, 1864</date>.
+<lb/><persName ref="cwgk:N001777">Secretary of State</persName>.<lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName>.<lb/>My dear Sir.</p>
 <p>Thanking you for your prompt Compliance with my "Commissioners" request, I herewith enclose the pre-requisites.</p>
 <p>Oath of Office.
 <lb/>Official Seal in impression</p>
-<p><figure type="seal"><ab>JOSEPH LATHROP
-<lb/>COMMISSIONER FOR THE STATE OF KENTUCKY
-<lb/>St. LOUIS. MISSOURI.</ab></figure></p>
+<p><persName ref="cwgk:N00003143">JOSEPH LATHROP
+</persName>COMMISSIONER FOR THE STATE OF KENTUCKY</p>
 <p>Official Signature
 <lb/>Joseph Lathrop, a Commissioner for Kentucky in Missouri.
 <lb/>Fll. of Five dollars.
