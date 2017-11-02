@@ -60,21 +60,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>FIRST NATIONAL BANK OF LEXINGTON
-<lb/>SUCCESSORS OF Bank of Kentucky,
-<lb/>Lexington, <date when="1865-03-25">Mar 25<hi rend="sup">th</hi> 1865</date>
-<lb/>Gov Tho E Bramlett Esq., <hi rend="str">Cashier</hi>,
+   <p><orgName ref="cwgk:O00006805">FIRST NATIONAL BANK OF LEXINGTON</orgName><lb/>SUCCESSORS OF <orgName ref="cwgk:O00006826">Bank of Kentucky</orgName>,<lb/><placeName ref="cwgk:P001002">Lexington</placeName>, <date when="1865-03-25">Mar 25<hi rend="sup">th</hi> 1865</date>
+<lb/>Gov <persName ref="cwgk:N001000">Tho E Bramlet</persName>t Esq., <hi rend="str">Cashier</hi>,
 <lb/>Yours of the <gap/> is received with enclosure as stated.</p>
 <p>Respectfully Yours,
 <lb/><gap/>
 <lb/>Cashier.</p>
 <p>I enclose</p>
-<p>Allow me to recommend for appointment as a Notary Public Mr E. S Duncanson, he is a BookKeeper of our Bank, and I will take it as a favor if you will appoint him</p>
+<p>Allow me to recommend for appointment as a Notary Public Mr <persName ref="cwgk:N00006558">E. S Duncanson</persName>, he is a BookKeeper of our Bank, and I will take it as a favor if you will appoint him</p>
 <p>Resplly
-<lb/>Tho Mitchell
-<lb/>Cashier,,<pb/></p>
-<p>Fayette Co
-<lb/>Notary Public
+<lb/><persName ref="cwgk:N00006560">Tho Mitchell</persName><lb/>Cashier,,<pb/></p>
+<p><placeName ref="cwgk:P001031">Fayette Co</placeName><lb/>Notary Public
 <lb/>E. L. Duncanson
 <lb/>appt<hi rend="sup">d</hi>
 <lb/><date when="1865-03-29">29<hi rend="sup">th</hi> Mch 1865</date></p>
