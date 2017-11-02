@@ -60,18 +60,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Georgetown Ky <date when="1864-01-22">Jany 22nd 1864</date>
+   <p><placeName ref="cwgk:P001838">Georgetown Ky</placeName> <date when="1864-01-22">Jany 22nd 1864</date>
 <lb/>To His Excellency
-<lb/>Thomas E. Bramlett
-<lb/>Governor of the Commonwealth of Ky
-<lb/>Dear Sir</p>
+<lb/><persName ref="cwgk:N001000">Thomas E. Bramlett
+</persName><lb/>Governor of the <orgName ref="cwgk:O001025">Commonwealth of Ky
+</orgName><lb/>Dear Sir</p>
 <p><note place="left margin">100</note>
-<lb/>Whereas it is Represented to me that a murder has been committed ^in Scott County^ on the person of Jeremiah Martin under agravated circumstances, implicating in unmistakable grounds of suspicion that the same was commited by a slave belonging to W B Galaway ^named Rial^ who has fled from Justice.</p>
+<lb/>Whereas it is Represented to me that a murder has been committed ^in <placeName ref="cwgk:P001030">Scott County</placeName>^ on the person of <persName ref="cwgk:N00005212">Jeremiah Martin</persName> under agravated circumstances, implicating in unmistakable grounds of suspicion that the same was commited by a slave belonging to <persName ref="cwgk:N00005213">W B Galaway</persName> ^named <persName ref="cwgk:N00005214">Rial</persName>^ who has fled from Justice.</p>
 <p><note place="margin"><hi rend="underline">2 S.V.</hi></note>
-<lb/>And whereas a murder was also committed in said county by John Spencer on the person of David C Covington a union soldier from Said county, your excellency is most respectfully requested to offer a Reward for the aprehension of both the parties implicated, both of whom have fled from Justice</p>
+<lb/>And whereas a murder was also committed in said county by <persName ref="cwgk:N00005215">John Spencer</persName> on the person of <persName ref="cwgk:N00005216">David C Covington</persName> a union soldier from Said county, your excellency is most respectfully requested to offer a Reward for the aprehension of both the parties implicated, both of whom have fled from Justice</p>
 <p>Respectfully
-<lb/><hi rend="underline">J G Morrison</hi>
-<lb/>Presiding Judge Scott Co Ky.<pb/></p>
+<lb/>
+<persName ref="cwgk:N00005217">J G Morrison</persName><lb/>Presiding Judge Scott Co Ky.<pb/></p>
 <p>The Slave Rial is about 35 years old 5 feet 8 high rather small black with the front lower foretooth out -- speaks slow and low and has an humble appearance</p>
 <p>Reward
 <lb/>Scott Co
