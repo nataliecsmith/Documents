@@ -60,15 +60,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Nashville Tennessee <date when="1860-12-17">Decr 17<hi rend="sup">th</hi> 1860</date>
-<lb/>To his Excellincy the Governor of Kentucky</p>
+   <p><placeName ref="cwgk:P001004">Nashville Tennessee</placeName> <date when="1860-12-17">Decr 17<hi rend="sup">th</hi> 1860</date>
+<lb/>To<persName ref="cwgk:N00000258"> his Excellincy</persName> the Governor of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
 <p>Sir being about to change my residence I deem it my duty to apprize you of it, after tendering you my unfeigned thanks for your Kind patronage, I herewith hand you my resignation as Commissioner of deeds &amp;c for your State, which you will please accept.</p>
-<p>And being aware of the desire of the citizens of this City, that a Successor Should be immediately appointed I hope you will not think it presumption in me to name as my Successor, Col Hardin P Bostick, a gentleman every way qualified to discharge the duties of the office with Satisfaction to his Constitutents and <hi rend="str">to</hi> with credit to himself, and whose application accompanies this communication</p>
+<p>And being aware of the desire of the citizens of this City, that a Successor Should be immediately appointed I hope you will not think it presumption in me to name as my Successor, <persName ref="cwgk:N00002060">Col Hardin P Bostick</persName>, a gentleman every way qualified to discharge the duties of the office with Satisfaction to his Constitutents and <hi rend="str">to</hi> with credit to himself, and whose application accompanies this communication</p>
 <p>Your favorable consideration, will confer upon him a lasting favor, and I Know will meet the approbation of the citizens of this city and State</p>
 <p>With high regard I am
 <lb/>Your obt Servt
-<lb/>Egbert A Raworth<pb/></p>
-<p>Tennessee<figure type="hr"/>
+<lb/><persName ref="cwgk:N00002061">Egbert A Raworth</persName><pb/></p>
+<p><placeName ref="cwgk:P001001">Tennessee</placeName><figure type="hr"/>
 <lb/>Com<hi rend="sup">r</hi>. of Deeds
 <lb/>H. P. Bostick
 <lb/>Nashville
