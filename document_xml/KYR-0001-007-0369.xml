@@ -60,13 +60,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Pennsylvania
-<lb/>City &amp; County of Philad" } SS.</p>
-<p>Joshua Spering being duly sworn according to law, doth say, that he will well and truly execute and perform all the duties of the office of Commissioner of Deeds for the State of Kentucky</p>
+   <p><placeName ref="cwgk:P001006">State of Pennsylvania
+</placeName><lb/><placeName ref="cwgk:P00001701">City &amp; County of Philad</placeName>" } SS.</p>
+<p><persName ref="cwgk:N00002560">Joshua Spering</persName> being duly sworn according to law, doth say, that he will well and truly execute and perform all the duties of the office of Commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName></p>
 <p>Joshua Spering</p>
 <p>Sworn to and subscribed before me <date when="1865-02-17">February 17 1865</date>.</p>
-<p>John White
-<lb/>An alderman and Ex officio
+<p><persName ref="cwgk:N00005453">John White</persName><lb/>An alderman and Ex officio
 <lb/>Justice of the Peace -- <pb/></p>
 <p>Pennsylvania
 <lb/>Com<hi rend="sup">r</hi> Deeds
