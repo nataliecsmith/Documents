@@ -60,13 +60,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Pennsylvania
-<lb/>City &amp; County of Philad<hi rend="sup">a</hi> } S. S.</p>
-<p>I. W<hi rend="sup">m</hi> V Archer duly appointed by the Governer of the state of Kentucky a Commissioner for the state of Kentucky resident at Philadelphia in the state of Pennsylvania; do Solemnly swear that I will well and faithfully execute and perform all the duties of such Commissioner under and by virtue of the Land of the said state of Kentucky</p>
+   <p><placeName ref="cwgk:P001006">State of Pennsylvania</placeName><lb/>City &amp; County of Philad<hi rend="sup">a</hi> } S. S.</p>
+<p>I. W<hi rend="sup">m</hi> V Archer duly appointed by the <persName ref="cwgk:N001000">Governer of the state of Kentucky</persName> a Commissioner for the state of Kentucky resident at Philadelphia in the state of Pennsylvania; do Solemnly swear that I will well and faithfully execute and perform all the duties of such Commissioner under and by virtue of the Land of the said <orgName ref="cwgk:O001025">state of Kentucky</orgName></p>
 <p><hi rend="underline">Wm V Archer</hi></p>
-<p><figure type="seal"><ab>Arthur M, Burton
-<lb/>Commissioner
-<lb/>Philadelphia Penny</ab></figure></p>
+<p><persName ref="cwgk:N001781">Arthur M, Burton</persName></p>
 <p>Sworn and subscribed be me this <date when="1860-09-17">seventeenth day of september AD 1860</date></p>
 <p>Arthur M. Burton
 <lb/>Commissioner for Kentucky
