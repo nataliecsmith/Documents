@@ -60,16 +60,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Office of the Adjutant General,
-<lb/>Frankfort, Ky., <date when="1860-12-19">Dec 19<hi rend="sup">t</hi>, 1860</date>.
+   <p>Office of the <orgName ref="cwgk:O00000388">Adjutant General</orgName>,<lb/><placeName ref="cwgk:P00000308">Frankfort, Ky</placeName>., <date when="1860-12-19">Dec 19<hi rend="sup">t</hi>, 1860</date>.
 <lb/>Sir</p>
 <p>The Contents of this letter having been noticed I answered as follows </p>
-<p>Ample Proof to your showing cause of an insurrection by your order upon the Quarter Master General the arms would be furnished</p>
+<p>Ample Proof to your showing cause of an insurrection by your order upon the <orgName ref="cwgk:O00000389">Quarter Master General</orgName> the arms would be furnished</p>
 <p>Respectfully
-<lb/><hi rend="str">John</hi>Scott Brown</p>
+<lb/><hi rend="str">John</hi><persName ref="cwgk:N00000390">Scott Brown</persName></p>
 <p>To
 <lb/>His Excetency
-<lb/>Gov Magoffin</p>
+<lb/>Gov <persName ref="cwgk:N00000258">Magoffin</persName></p>
   </body>
  </text>
 </TEI>
