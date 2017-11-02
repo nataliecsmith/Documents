@@ -61,12 +61,11 @@
  <text>
   <body>
    <p>Office Chief of Police,
-<lb/>Louisville, Ky., <date when="1863-09-05">Sept 5<hi rend="sup">th</hi> 1863</date>.
-<lb/>Friend Prewett Esq
-<lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>Enclosed you will find warrant &amp; affidavit in case of Comwlth vs Christian Hafner from which you will please obtain for me an Requisition on the state of Indiana, appointing Delos T. Bligh Agent, By so doing you will Much Oblige</p>
+<lb/><placeName ref="cwgk:P00000337">Louisville, Ky</placeName>., <date when="1863-09-05">Sept 5<hi rend="sup">th</hi> 1863</date>.
+<lb/><persName ref="cwgk:N00005179">Friend Prewett </persName>Esq<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>Enclosed you will find warrant &amp; affidavit in case of <orgName ref="cwgk:O001025">Comwlth </orgName>vs <persName ref="cwgk:N00006286">Christian Hafner</persName> from which you will please obtain for me an Requisition on the state of <placeName ref="cwgk:P001818">Indiana</placeName>, appointing <persName ref="cwgk:N00005178">Delos T. Bligh</persName> Agent, By so doing you will Much Oblige</p>
 <p>Your friend
-<lb/><hi rend="underline"><unclear>J. T</unclear> B. Ehrich</hi></p>
+<lb/>J. <persName ref="cwgk:N00005177">[J. T] B. Ehrich</persName></p>
   </body>
  </text>
 </TEI>
