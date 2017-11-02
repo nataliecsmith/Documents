@@ -60,19 +60,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>North Middletown
-<lb/>Bourbon Co Ky
-<lb/><date when="1860-12-04">Decr 4. 1860</date>
+   <p><placeName ref="cwgk:P00001851">North Middletown</placeName><lb/><placeName ref="cwgk:P00000515">Bourbon Co Ky
+</placeName><lb/><date when="1860-12-04">Decr 4. 1860</date>
 <lb/>To his Excellency
-<lb/>Beriah Magoffin
-<lb/>Govenor of Ky.</p>
-<p>I hereby tender my resignation as Justice of the Peace for said county in District N<hi rend="sup">o</hi>. 4. &amp; Recommend William R Gorham as a fit &amp; suitable person to fill my place.</p>
+<lb/><persName ref="cwgk:N00000258">Beriah Magoffin</persName><lb/>Govenor of Ky.</p>
+<p>I hereby tender my resignation as Justice of the Peace for said county in District N<hi rend="sup">o</hi>. 4. &amp; Recommend <persName ref="cwgk:N00001852">William R Gorham</persName> as a fit &amp; suitable person to fill my place.</p>
 <p>very Resp:
-<lb/><hi rend="underline">Ben. F. Harris</hi></p>
+<lb/><persName ref="cwgk:N00001853">Ben. F. Harris</persName></p>
 <p>we citizens of said Precinct also endorse the Recommendation of said Harris</p>
-<p>B. F. Hart
-<lb/>J B Rankins
-<lb/>Joseph Scott<pb/></p>
+<p><persName ref="cwgk:N00001854">B. F. Hart
+</persName><lb/><persName ref="cwgk:N00001855">J B Rankins
+</persName><lb/><persName ref="cwgk:N00001856">Joseph Scott</persName><pb/></p>
 <p>Issue Commission
 <lb/>B. M</p>
   </body>
