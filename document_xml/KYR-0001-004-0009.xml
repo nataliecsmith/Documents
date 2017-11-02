@@ -60,12 +60,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Maysville Ky <date when="1863-09-03">Sept 3<hi rend="sup">d</hi> 1863</date></p>
+   <p><placeName ref="cwgk:P00001219">Maysville</placeName> Ky <date when="1863-09-03">Sept 3<hi rend="sup">d</hi> 1863</date></p>
 <p>Dr. Sir</p>
-<p>By request of Mr Edward Fleming I Enclose you a petetion to your Excellency Signed by Several of our Best Citizens asking you to remit a fine of 20$ Your Early attention to the request of Friends &amp; addressing your reply to</p>
+<p>By request of Mr <persName ref="cwgk:N00002803">Edward Fleming</persName> I Enclose you a petetion to your Excellency Signed by Several of our Best Citizens asking you to remit a fine of 20$ Your Early attention to the request of Friends &amp; addressing your reply to</p>
 <p>Yours Truly
-<lb/>A. J. Nervell
-<lb/>Will be Duly reciprocated</p>
+<lb/><persName ref="cwgk:N00002804">A. J. Nervell</persName><lb/>Will be Duly reciprocated</p>
   </body>
  </text>
 </TEI>
