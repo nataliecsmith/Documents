@@ -60,14 +60,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1861-01-04">4 January 1861</date>
-<lb/>H I Todd Esq
-<lb/>Frankfort</p>
-<p>Dear Sir We are very much annoyed in the Pay Department of the Army in preparing papers of dismissed, discharged and resigned officers and soldiers, having no Notary Public convenient. We want one constantly in the office. Will you do me the favor to ask the Gov to appoint Mr Charles Freedly whose business requires his constant attention at the Head Quarters of the Pay Department. He is a worthy man and well qualified for the place. and his appointment will give personal satisfaction. My friend Judge Bullitt, is in Frankfort, will. I am sure. join you in requesting the Early appointment of Mr Freedly. I enclose note from <unclear>Mr Harris</unclear></p>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-01-04">4 January 1861</date>
+<lb/><persName ref="cwgk:N00000230">H I Todd </persName>Esq<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName></p>
+<p>Dear Sir We are very much annoyed in the Pay Department of the <orgName ref="cwgk:O00001186">Army </orgName>in preparing papers of dismissed, discharged and resigned officers and soldiers, having no Notary Public convenient. We want one constantly in the office. Will you do me the favor to ask the <persName ref="cwgk:N00000258">Gov</persName> to appoint Mr <persName ref="cwgk:N00002031">Charles Freedly</persName> whose business requires his constant attention at the Head Quarters of the Pay Department. He is a worthy man and well qualified for the place. and his appointment will give personal satisfaction. My friend Judge <persName ref="cwgk:N00002032">Bullitt</persName>, is in Frankfort, will. I am sure. join you in requesting the Early appointment of Mr Freedly. I enclose note from <persName ref="cwgk:N00008303">Mr Harris</persName></p>
 <p>Your friend
-<lb/>L T Thustin<pb/></p>
-<p>Jefferson Co
-<lb/>Notary Public<figure type="hr"/>
+<lb/><persName ref="cwgk:N00002033">L T Thustin</persName><pb/></p>
+<p><placeName ref="cwgk:P001005">Jefferson Co
+</placeName><lb/>Notary Public<figure type="hr"/>
 <lb/>Cha<hi rend="sup">s</hi>. Freedley
 <lb/>Com<hi rend="sup">d</hi>. <date when="1861-01-06">Jany 6. 1861</date></p>
   </body>
