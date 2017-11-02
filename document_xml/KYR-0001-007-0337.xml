@@ -60,14 +60,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Kentucky Cumberland County Court at <date when="1864-11">November Term 1864</date>
+   <p><placeName ref="cwgk:P001800">Kentucky</placeName> <persName ref="cwgk:N00000612">Cumberland County Court</persName> at <date when="1864-11">November Term 1864</date>
 <lb/>The following order was made, to wit,</p>
-<p>It is ordered by the court that B C Greer be recomended to the Governor of Kentucky as a Suitable person to fill the in this county in Distrct N<hi rend="sup">o</hi> 5 to fill the vacancy of Phillip Shive, who refuses to qualify as Justice of the peace</p>
+<p>It is ordered by the court that <persName ref="cwgk:N00003310">B C Greer</persName> be recomended to the <persName ref="cwgk:N001000">Governor of Kentucky </persName>as a Suitable person to fill the in this county in Distrct N<hi rend="sup">o</hi> 5 to fill the vacancy of <persName ref="cwgk:N00003312">Phillip Shive</persName>, who refuses to qualify as Justice of the peace</p>
 <p>A copy
-<lb/>Att N B Cheatham clk<pb/></p>
+<lb/>Att <persName ref="cwgk:N00001748">N B Cheatham </persName>clk<pb/></p>
 <p>Justice Peace
-<lb/>Cumberland Co
-<lb/>Appt<hi rend="sup">d</hi>
+<lb/><placeName ref="cwgk:P001829">Cumberland Co</placeName><lb/>Appt<hi rend="sup">d</hi>
 <lb/><date when="1864-12-09">9<hi rend="sup">th</hi> Dec/64</date></p>
   </body>
  </text>
