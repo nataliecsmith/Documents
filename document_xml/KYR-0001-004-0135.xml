@@ -60,11 +60,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1863-09-23">Septr 23 1863</date>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1863-09-23">Septr 23 1863</date>
 <lb/>To his Excelency
-<lb/>Gov Bramblette
-<lb/>Frankfort</p>
-<p>This will be handed you by my friend J Hoss Price Esqr. an attorney of this city I commend him to you</p>
+<lb/><persName ref="cwgk:N001000">Gov Bramblette</persName><lb/><placeName ref="cwgk:P00000308">Frankfort</placeName></p>
+<p>This will be handed you by my friend <persName ref="cwgk:N002014">J Hoss Price</persName> Esqr. an attorney of this city I commend him to you</p>
 <p>Very Respectfuly
 <lb/>W<hi rend="sup">m</hi> F. Barret</p>
   </body>
