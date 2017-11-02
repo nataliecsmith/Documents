@@ -60,14 +60,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Spingfield Ky <date when="1865-02-20">Feb 20 1865</date>
+   <p><placeName ref="cwgk:P00001847">Spingfield Ky</placeName> <date when="1865-02-20">Feb 20 1865</date>
 <lb/>To his Excellency
-<lb/>Govr. Thos E Bramlette</p>
-<p>Wm R Casey a justice of the peace for the 1<hi rend="sup">st</hi> District of Springfield Washington County Ky having resigned his said office, we hereby recommend to your excellency C. J. Borley as a suitable person to fill said office</p>
+<lb/><persName ref="cwgk:N001000">Govr. Thos E Bramlette</persName></p>
+<p><persName ref="cwgk:N00005028">Wm R Casey</persName> a justice of the peace for the 1<hi rend="sup">st</hi> District of Springfield <placeName ref="cwgk:P00005027">Washington County Ky</placeName> having resigned his said office, we hereby recommend to your excellency <persName ref="cwgk:N00005123">C. J. Borley</persName> as a suitable person to fill said office</p>
 <p>Respectfully
 <lb/>W R Casey J P W C</p>
 <p>Said Basley is a Good union man
-<lb/>John McIntire County Judge</p>
+<lb/><persName ref="cwgk:N00005031">John McIntire</persName> County Judge</p>
   </body>
  </text>
 </TEI>
