@@ -60,11 +60,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Glasgow <date when="1860-10-27">October 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1860</date>
-<lb/>To the Govenor of the Commonwealth of Kentucky</p>
-<p>I hereby tender to you my resignation <hi rend="str">as</hi> of the office of Justice of the Peace for Barren County Dist N<hi rend="sup">o</hi> 9</p>
+   <p><placeName ref="cwgk:P00000336">Glasgow</placeName> <date when="1860-10-27">October 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1860</date>
+<lb/>To the <persName ref="cwgk:N00000258">Govenor </persName>of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName></p>
+<p>I hereby tender to you my resignation <hi rend="str">as</hi> of the office of Justice of the Peace for <orgName ref="cwgk:O00000597">Barren County</orgName> Dist N<hi rend="sup">o</hi> 9</p>
 <p>very respectfully yours &amp;c
-<lb/>John T. Peden<pb/></p>
+<lb/><persName ref="cwgk:N00001714">John T. Peden</persName><pb/></p>
 <p>Barren<figure type="hr"/>
 <lb/>J. P. Dist
 <lb/>N<hi rend="sup">o</hi>.
