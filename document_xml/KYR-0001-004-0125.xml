@@ -60,13 +60,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1863-09-20">Sept 20<hi rend="sup">th</hi> 63</date>
-<lb/>Governor Bramlett
-<lb/>Dear Sir</p>
+   <p><placeName ref="cwgk:P00000337">Louisville </placeName><date when="1863-09-20">Sept 20<hi rend="sup">th</hi> 63</date>
+<lb/><persName ref="cwgk:N001000">Governor Bramlett
+</persName><lb/>Dear Sir</p>
 <p>I am requested to state to you who M<hi rend="sup">r</hi> Raymon Lynch is. He has been employed in the Journal office about thirty years &amp; is now my first clerk. There is no more reliable gentleman in Kentucky than he.</p>
 <p>Very Truly
 <lb/>Yours
-<lb/>Geo. D. Prentice</p>
+<lb/><persName ref="cwgk:N00000262">Geo. D. Prentice</persName></p>
   </body>
  </text>
 </TEI>
