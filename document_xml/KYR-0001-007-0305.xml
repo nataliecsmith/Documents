@@ -60,17 +60,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Washington City D. C.
-<lb/><date when="1864-10-11">October 11, 1864</date>
-<lb/>Hon James R. Page
-<lb/>Asst Secy of State
-<lb/>Frankfort Ky.
-<lb/>Sir:</p>
+   <p><placeName ref="cwgk:P00001134">Washington City D. C.</placeName><lb/><date when="1864-10-11">October 11, 1864</date>
+<lb/>Hon <persName ref="cwgk:N001778">James R. Page</persName><lb/>Asst Secy of State
+<lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName>.<lb/>Sir:</p>
 <p>I have the honor to acknowledge the receipt of your communication of <date when="1864-10-07">7<hi rend="sup">th</hi> inst</date>. And would state in reply that I do desire to have my Commission as Commissioner of Deeds, renewed and herewith enclose five dollars ($5.00) the amount of the state Tax on said commission.</p>
 <p>I have the honor to be,
 <lb/>Very Respectfully
 <lb/>Your Obt Servt
-<lb/>John S. Hollingshead<pb/></p>
+<lb/><persName ref="cwgk:N00000531">John S. Hollingshead</persName><pb/></p>
 <p>Comr Deeds
 <lb/>Dis of Columbia
 <lb/>Washington City
