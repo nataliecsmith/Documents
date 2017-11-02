@@ -60,13 +60,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort
-<lb/><date when="1865-02-21">February 21<hi rend="sup">st</hi> 1865</date>
-<lb/>To his Ecelency the Governor of Ky
-<lb/>Dear Sir</p>
-<p>I most respectfully ask the appointment of James L. Conner and Henry T. Snyder Justices of the peace in the 4 district of Boone County in the place of Ben Lindsey resigned and Paschal Conner removed from Boone County to the county of Kenton there being no Justice in said district those men are conservative responsible gentlemen</p>
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName><lb/><date when="1865-02-21">February 21<hi rend="sup">st</hi> 1865</date>
+<lb/>To his <persName ref="cwgk:N001000">Ecelency the Governor of Ky
+</persName><lb/>Dear Sir</p>
+<p>I most respectfully ask the appointment of <persName ref="cwgk:N00005098">James L. Conner</persName> and <persName ref="cwgk:N00005104">Henry T. Snyder</persName> Justices of the peace in the 4 district of Boone County in the place of<persName ref="cwgk:N00005122"> Ben Lindsey</persName> resigned and<persName ref="cwgk:N00005108"> Paschal Conner</persName> removed from <placeName ref="cwgk:P00001194">Boone County</placeName> to the <placeName ref="cwgk:P00000937">county of Kenton</placeName> there being no Justice in said district those men are conservative responsible gentlemen</p>
 <p>Yours truly
-<lb/>James Calvert<pb/></p>
+<lb/><persName ref="cwgk:N00000221">James Calvert</persName><pb/></p>
 <p>Boone Co
 <lb/>Justice Peace
 <lb/>appt<hi rend="sup">d</hi>
