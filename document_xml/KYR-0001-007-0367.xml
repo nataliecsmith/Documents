@@ -60,14 +60,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Ohio
-<lb/>Hamilton County } SS.
-<lb/>City of Cincinnati</p>
-<p>I, Howard Douglass, a resident of the City of Cincinnati, having been appointed by the Governor of the State of Kentucky a commissioner, in and for said City, to take the acknowledgement and proof of the execution of deeds and other instruments in writing under seal, to be used or recorded in said State of Kentucky, pursuant to an act of the General Assembly of the State of Kentucky under Chapter 70 entitled "an act to adopt the revised statutes" approved <date when="1852-01-07">January 7" 1852</date>, do solemnly swear that I will well and faithfully execute and perform the duties of such Commissioner, under and by virtue of the laws of the said State of Kentucky.</p>
+   <p><placeName ref="cwgk:P001036">State of Ohio
+</placeName><lb/><placeName ref="cwgk:P00001873">Hamilton County</placeName> } SS.<lb/><placeName ref="cwgk:P00001208">City of Cincinnati</placeName></p>
+<p>I, <persName ref="cwgk:N00005352">Howard Douglass</persName>, a resident of the City of Cincinnati, having been appointed by the <persName ref="cwgk:N001000">Governor of the State of Kentucky</persName> a commissioner, in and for said City, to take the acknowledgement and proof of the execution of deeds and other instruments in writing under seal, to be used or recorded in said State of Kentucky, pursuant to an act of the General Assembly of the <orgName ref="cwgk:O001025">State of Kentucky</orgName> under Chapter 70 entitled "an act to adopt the revised statutes" approved <date when="1852-01-07">January 7" 1852</date>, do solemnly swear that I will well and faithfully execute and perform the duties of such Commissioner, under and by virtue of the laws of the said <orgName ref="cwgk:O001025">State of Kentucky</orgName>.</p>
 <p><hi rend="underline">Howard Douglass</hi></p>
 <p>Sworn to and subscribed before me by the said Howard Douglass this <date when="1865-02-16">Sixteenth day of February A D 1865</date>.</p>
-<p>John W. Carter
-<lb/>Justice of the Peace in and for Cincinnati Township
+<p><persName ref="cwgk:N00005363">John W. Carter</persName><lb/>Justice of the Peace in and for Cincinnati Township
 <lb/><stamp type="revenue"/><note place="stamp">J W C
 <lb/><date when="1865-02-16">Feby 16
 <lb/>1865</date></note><pb/></p>
