@@ -60,13 +60,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1860-11-30">Novr 30 1860</date>
-<lb/>Gov Magoffin
-<lb/>Frankfort
-<lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>will you please have the kindness to send us a commission for Henry V Sanders as Notary Public for Jefferson County He is Teller in the Merchants Bank is in every respect worthy</p>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1860-11-30">Novr 30 1860</date>
+<lb/><persName ref="cwgk:N00000258">Gov Magoffin</persName><lb/><placeName ref="cwgk:P00000308">Frankfort
+</placeName><lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>will you please have the kindness to send us a commission for <persName ref="cwgk:N00001849">Henry V Sanders</persName> as Notary Public for <placeName ref="cwgk:P001005">Jefferson County</placeName> He is Teller in the <orgName ref="cwgk:O00001850">Merchants Bank</orgName> is in every respect worthy</p>
 <p>Your friends
-<lb/>Speed &amp; Basset<pb/></p>
+<lb/><orgName ref="cwgk:O00008126">Speed &amp; Basset</orgName><pb/></p>
 <p>Jefferson co<figure type="hr"/>
 <lb/>Notary
 <lb/>H V. Sanders
