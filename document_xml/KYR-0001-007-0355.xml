@@ -60,14 +60,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Brownsville <date when="1865-02-16">Feb 16 /65</date>
+   <p><placeName ref="cwgk:P00003745">Brownsville</placeName> <date when="1865-02-16">Feb 16 /65</date>
 <lb/>Dear</p>
-<p>Sir yours of the <date when="1865-02-03">3<hi rend="sup">d</hi> inst</date> came duly to hand after some inqury and from my <unclear>acquain</unclear> in that part of the county I think that Robert M Davis is the most available man that I can think of</p>
+<p>Sir yours of the <date when="1865-02-03">3<hi rend="sup">d</hi> inst</date> came duly to hand after some inqury and from my <unclear>acquain</unclear> in that part of the county I think that<persName ref="cwgk:N00005018"> Robert M Davis</persName> is the most available man that I can think of</p>
 <p>Respectfully yours
-<lb/>J E Bacon
-<lb/>Pre J E C C<pb/></p>
-<p>Edmonson Co
-<lb/>Justice Peace
+<lb/><persName ref="cwgk:N00005019">J E Bacon
+</persName><lb/>Pre J E C C<pb/></p>
+<p><placeName ref="cwgk:P00000441">Edmonson Co</placeName><lb/>Justice Peace
 <lb/>appt
 <lb/><date when="1864-02-21">21<hi rend="sup">st</hi> Feby/65</date></p>
   </body>
