@@ -60,17 +60,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Independence Ky
-<lb/><date when="1863-08-28">August 28th 1863</date>
+   <p><placeName ref="cwgk:P00000565">Independence Ky</placeName><lb/><date when="1863-08-28">August 28th 1863</date>
 <lb/>His Excellency
-<lb/>James F Robinson
-<lb/>Governor of Ky
-<lb/>Sir</p>
-<p>John W Swain Indicted for the murder of Peter Finley made his escape from the Covington Jail some four weeks since -- It was an atrocious murder and he has not been arrested -- I recommend the highest reward allowed by law should be offered by your Excellency for his arrest</p>
+<lb/><persName ref="cwgk:N001004">James F Robinson</persName><lb/>Governor of <orgName ref="cwgk:O001025">Ky
+</orgName><lb/>Sir</p>
+<p><persName ref="cwgk:N00007718">John W Swain </persName>Indicted for the murder of <persName ref="cwgk:N00000965">Peter Finley</persName> made his escape from the Covington Jail some four weeks since -- It was an atrocious murder and he has not been arrested -- I recommend the highest reward allowed by law should be offered by your Excellency for his arrest</p>
 <p>Very Respcty
 <lb/>Your obt servt
-<lb/>L Shane P J K C C<pb/></p>
-<p>Kenton Co<figure type="hr"/>
+<lb/><persName ref="cwgk:N00000964">L Shane</persName> P J <orgName ref="cwgk:O00000410">K C C</orgName><pb/></p>
+<p><placeName ref="cwgk:P00000937">Kenton Co</placeName><figure type="hr"/>
 <lb/>Offer of Reward for John W. Swain (murder)
 <lb/>$250.
 <lb/>Iss<hi rend="sup">d</hi> <date when="1863-09-02">Sept. 2. 1863</date></p>
