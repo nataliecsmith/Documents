@@ -60,14 +60,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Shelbyville Kentucky
-<lb/><date when="1861-01-17">Jany 17<hi rend="sup">th</hi> 1861</date>
-<lb/>To His Excellency Beriah Magoffin
-<lb/>Governor of Ky</p>
-<p>Please find enclosed the resignation of J. W. Crawford Justice of the Peace of the 4<hi rend="sup">th</hi> Dist Shelby County -- Jacob E Sodousky is the only one spoken of <hi rend="str">who</hi> <hi rend="str">will</hi> as his successor -- who will accept the place -- Mr Sodousky is competent -- </p>
+   <p><placeName ref="cwgk:P00002066">Shelbyville Kentucky
+</placeName><lb/><date when="1861-01-17">Jany 17<hi rend="sup">th</hi> 1861</date>
+<lb/>To His Excellency <persName ref="cwgk:N00000258">Beriah Magoffin</persName><lb/>Governor of <orgName ref="cwgk:O001025">Ky</orgName></p>
+<p>Please find enclosed the resignation of <persName ref="cwgk:N00008306">J. W. Crawford</persName> Justice of the Peace of the 4<hi rend="sup">th</hi> Dist <placeName ref="cwgk:P001013">Shelby County</placeName> -- <persName ref="cwgk:N00002292">Jacob E Sodousky </persName>is the only one spoken of <hi rend="str">who</hi> <hi rend="str">will</hi> as his successor -- who will accept the place -- Mr Sodousky is competent -- </p>
 <p>Yrs &amp;C -- 
-<lb/>J. L. Caldwell
-<lb/>Judge Shelby County Court -- <pb/></p>
+<lb/><persName ref="cwgk:N00002293">J. L. Caldwell
+</persName><lb/>Judge <orgName ref="cwgk:O00000714">Shelby County Court </orgName>-- <pb/></p>
 <p>Issue commission
 <lb/>B. M</p>
 <p>resignation rc<hi rend="sup">d</hi> -- </p>
