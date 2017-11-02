@@ -60,18 +60,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky
-<lb/><date when="1863-10-30">Oct 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+   <p><placeName ref="cwgk:P00000337">Louisville Ky
+</placeName><lb/><date when="1863-10-30">Oct 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
 <lb/>His Excellency
-<lb/>Thos E. Bramlette
-<lb/>Gov of Ky
+<lb/><persName ref="cwgk:N001000">Thos E. Bramlette
+</persName><lb/>Gov of Ky
 <lb/>Dear Sir</p>
-<p>Col Frank Gorin an old and highly esteemed citizen of this city sometime ago became engaged in an unfortunate difficulty with W. C. Wood Esq which resulted in a enconter in which the col shot Wood the ball taking effect in the jaw of the face and inflicting a slight wound.</p>
+<p><persName ref="cwgk:N00000330">Col Frank Gorin</persName> an old and highly esteemed citizen of this city sometime ago became engaged in an unfortunate difficulty with <persName ref="cwgk:N00000770">W. C. Wood Esq</persName> which resulted in a enconter in which the col shot Wood the ball taking effect in the jaw of the face and inflicting a slight wound.</p>
 <p>The matter has been amicably arranged between the parties but the witness having been recognised to go before the grand jury an indictment has been found and returned against the Col. This is rergarded so seriously by the Col that he is almost mad. The difficulty occurring without previous ill-will the wound having been but slight indeed the parties having amicably arranged the matter between themselvs and the effect of the indictment beeing so sorrowfull a one upon the mind of the Col: then things considered together with the great age standing deserved respectability of <hi rend="str">the</hi> Col Gorin induced<pb/>
 <lb/>me to join with other citizens in petitioning your Excelency to grant a full and complete pardon to this aged friend</p>
 <p>I am Gov very respy
 <lb/>Your obedient Servant
-<lb/>W. K. Thomas</p>
+<lb/><persName ref="cwgk:N00000994">W. K. Thomas</persName></p>
   </body>
  </text>
 </TEI>
