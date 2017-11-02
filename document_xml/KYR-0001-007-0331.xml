@@ -60,10 +60,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky <date when="1864-11">Nov 1864</date>
-<lb/>To His Excelency Gov. T. E. Bramlete
-<lb/>Sir</p>
-<p>M<hi rend="sup">r</hi> W<hi rend="sup">m</hi>. A. Yantis of Garrard County has concented to act as my agent and <hi rend="str">will</hi> wishes an apointimet from you as Notrie Public which I hope you will grant if concistent &amp;C</p>
+   <p><placeName ref="cwgk:P00000337">Louisville Ky</placeName> <date when="1864-11">Nov 1864</date>
+<lb/>To His Excelency <persName ref="cwgk:N001000">Gov. T. E. Bramlete</persName><lb/>Sir</p>
+<p>M<hi rend="sup">r</hi> W<hi rend="sup">m</hi>. A. Yantis of <placeName ref="cwgk:P001011">Garrard County</placeName> has concented to act as my agent and <hi rend="str">will</hi> wishes an apointimet from you as Notrie Public which I hope you will grant if concistent &amp;C</p>
 <p>I am respectfully your
 <lb/>obedent servant
 <lb/>Ja<hi rend="sup">s</hi>. P. Flint
@@ -72,11 +71,11 @@
 <p>Notaries Public
 <lb/>State at Large
 <lb/>Jas P. Flint
-<lb/>Saml M Bomard
-<lb/>W<hi rend="sup">m</hi> A Yantis
+<lb/><persName ref="cwgk:N00002481">Saml M Bomard
+</persName><lb/>W<hi rend="sup">m</hi> A Yantis
 <lb/>appt<hi rend="sup">d</hi>
 <lb/><date when="1864-11-18">18<hi rend="sup">th</hi> Nov/64</date></p>
-<p>&amp; James R Page</p>
+<p>&amp; <persName ref="cwgk:N001778">James R Page</persName></p>
   </body>
  </text>
 </TEI>
