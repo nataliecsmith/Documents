@@ -60,14 +60,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville, <date when="1863-09-19">Septr 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date> -- 
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName>, <date when="1863-09-19">Septr 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date> -- 
 <lb/>Dear Sir,</p>
-<p>This will make you acquainted with J. Hop. Price, Esq, of this city. M<hi rend="sup">r</hi> Price is taking a most laudable &amp; active interest in the fate of the negro woman who is under sentence of death in the Jefferson Circuit Court. I know that you will give him a most anxious hearing the cause he engaged in will commend to you more than any words of mine. He is perfectly persuaded that she is innocent</p>
+<p>This will make you acquainted with <persName ref="cwgk:N002014">J. Hop. Price, Esq</persName>, of this city. M<hi rend="sup">r</hi> Price is taking a most laudable &amp; active interest in the fate of the negro woman who is under sentence of death in the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName>. I know that you will give him a most anxious hearing the cause he engaged in will commend to you more than any words of mine. He is perfectly persuaded that she is innocent</p>
 <p>I am sir most 
 <lb/>truly yr fr<hi rend="sup">d</hi>
-<lb/>James Speed</p>
-<p>Gov. Th. E. Bramlette,
-<lb/>Frankfort,</p>
+<lb/><persName ref="cwgk:N00000205">James Speed</persName></p>
+<p><persName ref="cwgk:N001000">Gov. Th. E. Bramlette,</persName><lb/>Frankfort,</p>
   </body>
  </text>
 </TEI>
