@@ -60,15 +60,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Samuel Knox.
-<lb/>Irwin Z. Smith
-<lb/>KNOX &amp; SMITH,
-<lb/>ATTORNEYS AT LAW,
+   <p><persName ref="cwgk:N00003144">Samuel Knox</persName>.<lb/><persName ref="cwgk:N00003142">Irwin Z. Smith</persName><lb/><orgName ref="cwgk:O00003271">KNOX &amp; SMITH</orgName>,<lb/>ATTORNEYS AT LAW,
 <lb/>OFFICE, DARBY'S BUILDING, S. W. COR. FIFTH AND OLIVE STREETS.
-<lb/>Saint Louis, <date when="1864-11-30">Nov. 30<hi rend="sup">th</hi> 1864</date>
+<lb/><placeName ref="cwgk:P00003268">Saint Louis</placeName>, <date when="1864-11-30">Nov. 30<hi rend="sup">th</hi> 1864</date>
 <lb/>To His Excellency
-<lb/>The Governor of the State of Kentucky,</p>
-<p>I am acquainted with Joseph Lathrop Esq, who desires the appointment of Commissioner of deeds of the state of Kentucky for Missouri. I can endorse his loyalty, and his qualifications for the appointment he seeks.</p>
+<lb/><persName ref="cwgk:N001000">The Governor of the State of Kentucky</persName>,</p>
+<p>I am acquainted with<persName ref="cwgk:N00003143"> Joseph Lathrop</persName> Esq, who desires the appointment of Commissioner of deeds of the <orgName ref="cwgk:O001025">state of Kentucky</orgName> for <placeName ref="cwgk:P00001883">Missouri</placeName>. I can endorse his loyalty, and his qualifications for the appointment he seeks.</p>
 <p>Resply
 <lb/>Irwin Z Smith</p>
 <p>I fully endorse and concur in the above statement and cheerfully recommend Mr Lathrop for the appointment asked</p>
