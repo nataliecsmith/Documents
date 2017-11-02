@@ -60,17 +60,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville, Ky. <date when="1863-10-30">Octo 30<hi rend="sup">th</hi> '63</date>
-<lb/>Gov. Bramlette
-<lb/>Dear Sir.</p>
-<p>I am sure the public good will be promoted by the prompt exercise of executive clemency in the case of Frank Gorin Esqr indicted in the Jefferson Circuit Court.</p>
+   <p><placeName ref="cwgk:P00000337">Louisville, Ky</placeName>. <date when="1863-10-30">Octo 30<hi rend="sup">th</hi> '63</date>
+<lb/><persName ref="cwgk:N001000">Gov. Bramlette
+</persName><lb/>Dear Sir.</p>
+<p>I am sure the public good will be promoted by the prompt exercise of executive clemency in the case of <persName ref="cwgk:N00000330">Frank Gorin</persName> Esqr indicted in the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName>.</p>
 <p>It is unnecessary to comment on the character and history of Gorin -- He is proud of his state, and has been ever ready to strike for his county -- </p>
 <p>You know him well, and as the party aggreived M<hi rend="sup">r</hi> Wood is satisfied, a great state has no reason to prosecute such citizens</p>
 <p>I hope you will find it consistent with you duty to interfere -- </p>
 <p>I am
 <lb/>with great respect
 <lb/>Your obt. servt
-<lb/>Joshua Tevis</p>
+<lb/><persName ref="cwgk:N00000232">Joshua Tevis</persName></p>
   </body>
  </text>
 </TEI>
