@@ -60,16 +60,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Banking Office of Shreve &amp; Tucker
-<lb/>Louisville <date when="1860-11-27">Nov 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1860</date>
+   <p><orgName ref="cwgk:O00001780">Banking Office of Shreve &amp; Tucker
+</orgName><lb/><placeName ref="cwgk:P00000337">Louisville </placeName><date when="1860-11-27">Nov 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1860</date>
 <lb/>To his Exelncy
-<lb/>Beriah Magoffin Eq
-<lb/>Gov. of Kentucky
-<lb/>Dear Sir</p>
-<p>Will you be kind enough to forward me a commission entitling me to become a Notary public for the city of Louisville and Jefferson County. I refer you to my employers,</p>
+<lb/><persName ref="cwgk:N00000258">Beriah Magoffin</persName> Eq<lb/>Gov. of <orgName ref="cwgk:O001025">Kentucky
+</orgName><lb/>Dear Sir</p>
+<p>Will you be kind enough to forward me a commission entitling me to become a Notary public for the city of Louisville and <placeName ref="cwgk:P001005">Jefferson County</placeName>. I refer you to my employers,</p>
 <p>Very Respt yurs</p>
-<p>R H Higgins
-<lb/>Teller at Ex Bk of
+<p><persName ref="cwgk:N00001781">R H Higgins</persName><lb/>Teller at Ex Bk of
 <lb/>Shreve &amp; Tucker<pb/></p>
 <p><hi rend="underline">Jefferson Co</hi>
 <lb/>Notary
