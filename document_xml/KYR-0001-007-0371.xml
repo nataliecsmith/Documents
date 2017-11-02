@@ -60,21 +60,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Baltimore
-<lb/><date when="1865-02-13">February 13th 1865</date>
+   <p><placeName ref="cwgk:P00003303">Baltimore
+</placeName><lb/><date when="1865-02-13">February 13th 1865</date>
 <lb/>To His Excellency
-<lb/>The Governor of Kentucky
-<lb/>Sir</p>
-<p>I have the ^honor^ to make application to your Excellency for the appointment, as Commissioner of Deeds for the State of Kentucky, residence at Baltimore City, and have the honor to submit the endorsement of the Honorable Reverdy Johnson in my behalf -- </p>
+<lb/><persName ref="cwgk:N001000">The Governor of Kentucky</persName><lb/>Sir</p>
+<p>I have the ^honor^ to make application to your Excellency for the appointment, as Commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName>, residence at Baltimore City, and have the honor to submit the endorsement of the Honorable<persName ref="cwgk:N00005351"> Reverdy Johnson</persName> in my behalf -- </p>
 <p>Very Respectfully
 <lb/>Your Obt Servant
-<lb/>William P. Eaton</p>
+<lb/><persName ref="cwgk:N00005646">William P. Eaton</persName></p>
 <p>I am satisfied that Mr Eaton will prove a good Comr</p>
 <p>Revdy Johnson
 <lb/><date when="1865-02-18">18 Fby '65</date><pb/>
 <lb/>Comr Deeds
-<lb/>Maryland
-<lb/>W<hi rend="sup">m</hi> P. Eaton
+<lb/><placeName ref="cwgk:P00001160">Maryland</placeName><lb/>W<hi rend="sup">m</hi> P. Eaton
 <lb/>appt<hi rend="sup">d</hi> <date when="1865-02-27">27<hi rend="sup">th</hi> Feby/65</date></p>
   </body>
  </text>
