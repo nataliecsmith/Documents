@@ -60,18 +60,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort <date when="1865-02-17">Feby 17<hi rend="sup">th</hi> 1865</date>
-<lb/>To his Excellency The Governor of Kentucky</p>
-<p>I respectfully beg leave to offer my resignation to you of the Office of Police Judge of the City of Frankfort to take effect <date when="--03-01">1<hi rend="sup">st</hi> March</date> next. And solicit the appointment of John J. Quin of the City to fill the vacancy</p>
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName> <date when="1865-02-17">Feby 17<hi rend="sup">th</hi> 1865</date>
+<lb/>To his Excellency The <persName ref="cwgk:N001000">Governor of Kentucky</persName></p>
+<p>I respectfully beg leave to offer my resignation to you of the Office of Police Judge of the City of Frankfort to take effect <date when="--03-01">1<hi rend="sup">st</hi> March</date> next. And solicit the appointment of <persName ref="cwgk:N00006357">John J. Quin</persName> of the City to fill the vacancy</p>
 <p>Respectfully
 <lb/>Your Ob<hi rend="sup">t</hi> Humb<hi rend="sup">le</hi> Sevt
-<lb/>John R Graham</p>
-<p>We the undersigned as members of the board of councilmen of the city of Frankfort and also as citizens of said city, take pleasure in recommending to your favorable consideration, Mr. J. J. Quin as a suitable person to fill the office of Police Judge of the City of Frankfort</p>
-<p>G. W. Gwin
-<lb/>R Runegan
-<lb/>J. Baltzell
-<lb/>James M. Todd
-<lb/>A H Rennick</p>
+<lb/><persName ref="cwgk:N00001647">John R Graham</persName></p>
+<p>We the undersigned as members of the<orgName ref="cwgk:O00008002"> board of councilmen of the city of Frankfort</orgName> and also as citizens of said city, take pleasure in recommending to your favorable consideration, Mr. J. J. Quin as a suitable person to fill the office of Police Judge of the City of Frankfort</p>
+<p><persName ref="cwgk:N00002995">G. W. Gwin</persName><lb/><persName ref="cwgk:N00006610">R Runegan</persName><lb/><persName ref="cwgk:N00006545">J. Baltzell</persName><lb/><persName ref="cwgk:N00001132">James M. Todd</persName><lb/><persName ref="cwgk:N00001633">A H Rennick</persName></p>
   </body>
  </text>
 </TEI>
