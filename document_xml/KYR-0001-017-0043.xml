@@ -60,11 +60,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bowling green Ky <date when="1861-01-07">January 7th 1861</date>
-<lb/>To His Excellency Hon. B. Magoffin</p>
-<p>Dear sir your humble petitioner is a man 24 years old that has bin afflicted all off his Life with the asthma and has just got cured of that and is not able to perform manuel Labor I have ben a Reading Law for some time I ask the appointment of Notary Public for to take Deppositions for Bowling green and Warren county if the recommendations that I send are all Right in your Judgment I would bee glad to Receive the appointment direct yours to me at Bowling green Ky</p>
+   <p><placeName ref="cwgk:P00000560">Bowling green Ky</placeName> <date when="1861-01-07">January 7th 1861</date>
+<lb/>To His Excellency Hon. <persName ref="cwgk:N00000258">B. Magoffin</persName></p>
+<p>Dear sir your humble petitioner is a man 24 years old that has bin afflicted all off his Life with the asthma and has just got cured of that and is not able to perform manuel Labor I have ben a Reading Law for some time I ask the appointment of Notary Public for to take Deppositions for Bowling green and <placeName ref="cwgk:P001020">Warren county</placeName> if the recommendations that I send are all Right in your Judgment I would bee glad to Receive the appointment direct yours to me at Bowling green Ky</p>
 <p>yours truly
-<lb/>W. P. Hays<pb/></p>
+<lb/><persName ref="cwgk:N00002035">W. P. Hays</persName><pb/></p>
 <p>A</p>
   </body>
  </text>
