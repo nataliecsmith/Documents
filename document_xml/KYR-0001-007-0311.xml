@@ -60,12 +60,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Somerset, Ky., <date when="1864-10-29">Oct 29th 1864</date>.
-<lb/>Thos. E Bramlette, Governor,
-<lb/>Dear Sir:</p>
-<p>Enclosed you will please find one order adopted by the "Board of Trustees" of the town of Somerset, recommending to your Excellency, James M Sandifer, for Commission as Police Judge of said town</p>
+   <p><placeName ref="cwgk:P00001061">Somerset, Ky</placeName>., <date when="1864-10-29">Oct 29th 1864</date>.
+<lb/><persName ref="cwgk:N001000">Thos. E Bramlette</persName>, Governor,<lb/>Dear Sir:</p>
+<p>Enclosed you will please find one order adopted by the "<orgName ref="cwgk:O00001081">Board of Trustees" of the town of Somerset</orgName>, recommending to your Excellency, <persName ref="cwgk:N00001066">James M Sandifer</persName>, for Commission as Police Judge of said town</p>
 <p>Respectfully
-<lb/>R. S. Barron</p>
+<lb/><persName ref="cwgk:N00001078">R. S. Barron</persName></p>
   </body>
  </text>
 </TEI>
