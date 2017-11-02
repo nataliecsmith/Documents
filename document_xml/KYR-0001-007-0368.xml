@@ -60,17 +60,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of New York
-<lb/>City &amp; County of New York
-<lb/>SS:</p>
-<p>I, Christian Von Hesse do solemnly swear, that I will well and truly execute and perform all the duties of the office of a Commissioner of Deeds for the State of Kentucky, within the State of New York, So help me God</p>
+   <p><placeName ref="cwgk:P001007">State of New York</placeName><lb/><placeName ref="cwgk:P00002569">City &amp; County of New York</placeName><lb/>SS:</p>
+<p>I, <persName ref="cwgk:N00004998">Christian Von Hesse</persName> do solemnly swear, that I will well and truly execute and perform all the duties of the office of a Commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName>, within the State of New York, So help me God</p>
 <p>Christian Von Hesse</p>
 <p><stamp type="revenue"/><note place="stamp">C. V. H.
 <lb/><date when="1865-02-13">Febt 13
 <lb/>1865</date></note></p>
 <p>Sworn to before me this <date when="1865-02-13">13th day of February 1865</date></p>
-<p>M. S. Updyke
-<lb/>Notary Public
+<p><persName ref="cwgk:N00006548">M. S. Updyke</persName><lb/>Notary Public
 <lb/>New York County<figure type="seal"/><pb/></p>
 <p>Com<hi rend="sup">r</hi> Deeds
 <lb/>New York
