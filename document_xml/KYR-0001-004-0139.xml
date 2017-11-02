@@ -60,18 +60,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville, <date when="1863-10-29">Oct 29<hi rend="sup">th</hi> 1863</date>.
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName>, <date when="1863-10-29">Oct 29<hi rend="sup">th</hi> 1863</date>.
 <lb/>Dear Sir.</p>
-<p>Excuse me if I presume to urge upon you the pardon of Col<hi rend="sup">o</hi> Franklin Gorin, before trial on an indictment for maliciously shooting W C. Wood, Esqr.</p>
+<p>Excuse me if I presume to urge upon you the pardon of Col<hi rend="sup">o</hi> <persName ref="cwgk:N00000330">Franklin Gorin,</persName> before trial on an indictment for maliciously shooting <persName ref="cwgk:N00000770">W C. Wood,</persName> Esqr.</p>
 <p>I have <hi rend="str">the</hi> known the Col<hi rend="sup">o</hi> for many a year, &amp; am sure he never did shoot M<hi rend="sup">r</hi>. Wood maliciously -- The Col<hi rend="sup">o</hi> is earnestly loyal, excitable, but kind generous &amp; noble.</p>
 <p>The <unclear/> cordially prays upon him &amp; <unclear>I. See its</unclear>. <unclear>Indded</unclear> all his friends see it, &amp; no one regrets the act more than he does. Allow me to ask, therefore, Your Kind interference.</p>
 <p>I have the honor to be,
 <lb/>Very res,
 <lb/>Yr obt Sevt,
-<lb/>Hamilton Pope</p>
+<lb/><persName ref="cwgk:N001010">Hamilton Pope</persName></p>
 <p>His Excellency,
-<lb/>Gov Bramlette,
-<lb/>Frankfort,
+<lb/><persName ref="cwgk:N001000">Gov Bramlette</persName>,<lb/>Frankfort,
 <lb/>Ky</p>
   </body>
  </text>
