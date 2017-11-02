@@ -60,12 +60,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Jackson County Court
-<lb/><date when="1865-01">January Term 1865</date></p>
-<p>Ordered that M. C. Hughs be and he is hereby recommended to His excellency Thomas E Bramlet Governor of the Commonwealth of Kentucky as a suitable person for Justice of the Peace in District No 6 in Jackson County Kentucky. in Room of John Parker removed from the District</p>
+   <p><placeName ref="cwgk:P001800">State of Kentucky
+</placeName><lb/><orgName ref="cwgk:O00000642">Jackson County Court</orgName><lb/><date when="1865-01">January Term 1865</date></p>
+<p>Ordered that <persName ref="cwgk:N00003418">M. C. Hughs</persName> be and he is hereby recommended to His excellency <persName ref="cwgk:N001000">Thomas E Bramlet</persName> Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> as a suitable person for Justice of the Peace in District No 6 in <placeName ref="cwgk:P00003363">Jackson County Kentucky</placeName>. in Room of <persName ref="cwgk:N00003422">John Parker</persName> removed from the District</p>
 <p>A copy attest
-<lb/>J M Wood Clerk</p>
+<lb/><persName ref="cwgk:N00003359">J M Wood</persName> Clerk</p>
   </body>
  </text>
 </TEI>
