@@ -60,14 +60,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Pennsylvania
-<lb/>County of Allegheny
-<lb/>City of Pittsburg } S.S</p>
-<p>On this <date when="1865-01-27">27<hi rend="underline"><hi rend="sup">th</hi></hi> day of January A. D. 1865</date>, before me a Notary Public in and for said City, personally appeared Henry Holdship, to me well known, who having been duly sworn, doth depose and say: That having been appointed by "Letters Patent" dated <date when="1865-01-16">January 16<hi rend="underline"><hi rend="sup">th</hi></hi> A. D. 1865</date> issued by the Governor of the State of Kentucky, a commissioner of Deeds for the State of Kentucky, in and for the State of Pennsylvania, he will well and truly, execute and perform all the duties of his station under said appointment -- </p>
+   <p><placeName ref="cwgk:P001006">State of Pennsylvania
+</placeName><lb/><placeName ref="cwgk:P00004916">County of Allegheny</placeName><lb/><placeName ref="cwgk:P001033">City of Pittsburg</placeName> } S.S</p>
+<p>On this <date when="1865-01-27">27<hi rend="underline"><hi rend="sup">th</hi></hi> day of January A. D. 1865</date>, before me a Notary Public in and for said City, personally appeared <persName ref="cwgk:N00004917">Henry Holdship</persName>, to me well known, who having been duly sworn, doth depose and say: That having been appointed by "Letters Patent" dated <date when="1865-01-16">January 16<hi rend="underline"><hi rend="sup">th</hi></hi> A. D. 1865</date> issued by the <persName ref="cwgk:N001000">Governor of the State of Kentucky</persName>, a commissioner of Deeds for the<orgName ref="cwgk:O001025"> State of Kentucky</orgName>, in and for the State of Pennsylvania, he will well and truly, execute and perform all the duties of his station under said appointment -- </p>
 <p>Henry Holdship</p>
 <p>Sworn and subscribed to on the day above written in testimony whereof I have hereunto placed my hand and affixed my seal of office.</p>
-<p>C H ISRAELL
-<lb/>Notary Public</p>
+<p><persName ref="cwgk:N00004918">C H ISRAELL</persName><lb/>Notary Public</p>
 <p><figure type="seal"><ab>NOTARY PUBLIC, ALLEGHENY CO. PA.
 <lb/>C. H. ISRAELL</ab></figure><pb/></p>
 <p>Comr of Deeds
