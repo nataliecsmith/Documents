@@ -60,12 +60,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Brownsville Ky <date when="1865-02-01">Feb 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1865</date>
-<lb/>Mr Ths E Bramlet
-<lb/>Gov of Ky</p>
-<p>Sir I Tender this as my resignation as a Justice of the peace for Edmonson County Ky in District known as the <unclear>Meardith</unclear> Precinct</p>
+   <p><placeName ref="cwgk:P00003745">Brownsville Ky</placeName> <date when="1865-02-01">Feb 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1865</date>
+<lb/>Mr<persName ref="cwgk:N001000"> Ths E Bramlet</persName><lb/>Gov of Ky</p>
+<p>Sir I Tender this as my resignation as a Justice of the peace for <placeName ref="cwgk:P00000441">Edmonson County Ky</placeName> in District known as the <unclear>Meardith</unclear> Precinct</p>
 <p>Your Respetifuly
-<lb/>P. P. Pace<pb/>
+<lb/><persName ref="cwgk:N00005030">P. P. Pace</persName><pb/>
 <lb/>Justice Peace
 <lb/>Edmonson Co
 <lb/>Resignation
