@@ -60,11 +60,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Jackson County Court } SSt
-<lb/><date when="1865-01">January Term 1865</date></p>
-<p>Ordered that William Rader be and he is here by Recommended to His Excellency Thomas E Bramlet Governor of the Commonwealth of Kentucky as a suitable person for Justice of the Peace in District no 6 Jackson County Kentucky in room of Elijah Parson removed from the District</p>
-<p>A Copy Attest J. M. Wood Clerk</p>
+   <p><placeName ref="cwgk:P001800">State of Kentucky</placeName><lb/><orgName ref="cwgk:O00000642">Jackson County Court</orgName> } SSt<lb/><date when="1865-01">January Term 1865</date></p>
+<p>Ordered that <persName ref="cwgk:N00003387">William Rader</persName> be and he is here by Recommended to His Excellency <persName ref="cwgk:N001000">Thomas E Bramlet</persName> Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> as a suitable person for Justice of the Peace in District no 6 <placeName ref="cwgk:P00003363">Jackson County Kentucky</placeName> in room of<persName ref="cwgk:N00003378"> Elijah Parson</persName> removed from the District</p>
+<p>A Copy Attest <persName ref="cwgk:N00003359">J. M. Wood </persName>Clerk</p>
   </body>
  </text>
 </TEI>
