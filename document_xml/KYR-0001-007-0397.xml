@@ -60,24 +60,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Milwaukee <date when="1865-03-01">March 1<hi rend="sup">st</hi> 1865</date>
+   <p><placeName ref="cwgk:P00005575">Milwaukee</placeName> <date when="1865-03-01">March 1<hi rend="sup">st</hi> 1865</date>
 <lb/>To His Excellency
-<lb/>Thos. E. Bramlette
-<lb/>Gov of Kentucky
+<lb/><persName ref="cwgk:N001000">Thos. E. Bramlette</persName><lb/>Gov of Kentucky
 <lb/>sir</p>
-<p>From our acquaintance with ^Mr^ Francis Bloodgood, we are Enabled to endorse his accompanying application for appointment as Commissioner of Deeds from your state; and recommend that it be granted.</p>
+<p>From our acquaintance with ^Mr^ <persName ref="cwgk:N00005578">Francis Bloodgood</persName>, we are Enabled to endorse his accompanying application for appointment as Commissioner of Deeds from your <orgName ref="cwgk:O001025">state</orgName>; and recommend that it be granted.</p>
 <p>Respectfully
 <lb/>Your obdt Sevts.
-<lb/>A. G. Miller
-<lb/>U S. Judge
+<lb/><persName ref="cwgk:N00005588">A. G. Miller</persName><lb/>U S. Judge
 <lb/>Arthurt M<hi rend="sup">c</hi>Authur
 <lb/>Circuit Judge
-<lb/>John B. D. Cozswell
-<lb/>U S Atty
-<lb/>Winfield Smith
-<lb/>Atty. Genl. Wisconsin<pb/></p>
-<p>Wisconsin
-<lb/>Comr Deeds
+<lb/><persName ref="cwgk:N00005606">John B. D. Cozswell
+</persName><lb/>U S Atty
+<lb/><persName ref="cwgk:N00005591">Winfield Smith</persName><lb/>Atty. Genl. Wisconsin<pb/></p>
+<p><placeName ref="cwgk:P00002521">Wisconsin
+</placeName><lb/>Comr Deeds
 <lb/>F. Bloodgood
 <lb/>com<hi rend="sup">d</hi>
 <lb/><date when="1865-03-08">8<hi rend="sup">th</hi> Mch 1865</date></p>
