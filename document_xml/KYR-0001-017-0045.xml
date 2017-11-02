@@ -60,16 +60,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Paducah <date when="1861-01-03">Jany 3<hi rend="sup">d</hi>/61</date>
+   <p><placeName ref="cwgk:P00001227">Paducah</placeName> <date when="1861-01-03">Jany 3<hi rend="sup">d</hi>/61</date>
 <lb/>Hon
-<lb/>B Magoffin
-<lb/>Frankfort
-<lb/>Dear Sir</p>
+<lb/><persName ref="cwgk:N00000258">B Magoffin
+</persName><lb/><placeName ref="cwgk:P00000308">Frankfort
+</placeName><lb/>Dear Sir</p>
 <p>That no trouble may ensue I write asking you for a commission as <hi rend="underline">Notary Public</hi> being a member of the <hi rend="underline">Bar</hi> I am at some inconvenience, at times getting my Cliants Sworn to legal pleadings -- </p>
-<p>My References, for all thats required are Judge<hi rend="sup">s</hi> Williams, Bigger, <unclear>Trinden</unclear>, and also John Q A King A. P. Thompson, <unclear>L M<hi rend="sup">c</hi>Henry</unclear> <unclear>Dalliam</unclear> &amp; others</p>
+<p>My References, for all thats required are Judge<hi rend="sup">s</hi> <persName ref="cwgk:N00000883">Williams</persName>, <persName ref="cwgk:N00002047">Bigger</persName>, , and also <persName ref="cwgk:N00002051">John Q A King</persName> <persName ref="cwgk:N00002052">A. P. Thompson</persName>, <persName ref="cwgk:N00005723">Trinden</persName> <persName ref="cwgk:N00008304">L McHenry</persName> &amp; others<persName ref="cwgk:N00003273">Dalliam</persName></p>
 <p><unclear>Comply</unclear> at your earliest convenience Obliging</p>
 <p>Yours with Respect:
-<lb/>Josiah Harris Jr<pb/></p>
+<lb/><persName ref="cwgk:N00002058">Josiah Harris Jr</persName><pb/></p>
 <p>M<hi rend="sup">c</hi>Cracken Co<figure type="hr"/>
 <lb/>Notary
 <lb/>Josiah Harris Jr
