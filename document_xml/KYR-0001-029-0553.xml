@@ -60,15 +60,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>New Liberty Ky
-<lb/><date when="1863-08-19">Aug 19<hi rend="sup">th</hi> 1863</date>
-<lb/>His Excellency James F. Robinson
-<lb/>Govedrnor of Kentucky
-<lb/>Sir</p>
-<p>At the Term of the Carroll Circuit Court a judgment was rendered in favor of the Commonwealth of Ky vs Lewis E Krutz for selling Liquor without a License -- There happened an interim <hi rend="str">between after</hi> from the expiration of his License to the procurement of another for which he was fined -- </p>
-<p>His neighbors have sent a petition to your Honor praying a remittance of the fine -- Mr. Krutz is a poor man with a large family of helpless children &amp; is a <hi rend="underline">Loyal</hi> <hi rend="underline">Union</hi> man -- He is now a resident of Owen County -- If not incompatible with the interest of the state it would be an act of charity &amp; mercy to remit his fine</p>
+   <p><placeName ref="cwgk:P00004758">New Liberty Ky</placeName><lb/><date when="1863-08-19">Aug 19<hi rend="sup">th</hi> 1863</date>
+<lb/>His Excellency <persName ref="cwgk:N001004">James F. Robinson</persName><lb/>Govedrnor of <orgName ref="cwgk:O001025">Kentucky</orgName><lb/>Sir</p>
+<p>At the Term of the <orgName ref="cwgk:O00000365">Carroll Circuit Court</orgName> a judgment was rendered in favor of the Commonwealth of Ky vs <persName ref="cwgk:N00004757">Lewis E Krutz</persName> for selling Liquor without a License -- There happened an interim <hi rend="str">between after</hi> from the expiration of his License to the procurement of another for which he was fined -- </p>
+<p>His neighbors have sent a petition to your Honor praying a remittance of the fine -- Mr. Krutz is a poor man with a large family of helpless children &amp; is a <hi rend="underline">Loyal</hi> <hi rend="underline">Union</hi> man -- He is now a resident of <placeName ref="cwgk:P00004760">Owen County</placeName> -- If not incompatible with the interest of the state it would be an act of charity &amp; mercy to remit his fine</p>
 <p>Respty your svt
-<lb/>J. B, English -- </p>
+<lb/><persName ref="cwgk:N00004759">J. B, English</persName> -- </p>
   </body>
  </text>
 </TEI>
