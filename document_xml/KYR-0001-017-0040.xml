@@ -60,20 +60,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>Burlington <date when="1861-01-01">January 1. 1861</date>
+   <p><placeName ref="cwgk:P00002010">Burlington</placeName> <date when="1861-01-01">January 1. 1861</date>
 <lb/>His Excellency Beriah M<hi rend="sup">c</hi>Goffen
-<lb/>Gov<hi rend="sup">r</hi>. of Kentucky</p>
-<p>I hereby respectfully resign the Office of Justice of the Peace for Boone county to take effect on the <date when="1861-01-15">15<hi rend="sup">th</hi> January 1861</date></p>
+<lb/>Gov<hi rend="sup">r</hi>. of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p>I hereby respectfully resign the Office of Justice of the Peace for <placeName ref="cwgk:P00001194">Boone county </placeName>to take effect on the <date when="1861-01-15">15<hi rend="sup">th</hi> January 1861</date></p>
 <p>Respectfully your most obt
-<lb/>N. E. Hawes</p>
+<lb/><persName ref="cwgk:N00002011">N. E. Hawes</persName></p>
 <p>Burlington <date when="1860-12-31">31 Decr 1860</date></p>
 <p>To His Excellency
 <lb/>B. Magoffin Gov Ky.
 <lb/>Sir</p>
-<p>N. E. Hawes Justice of the Peace for Boone County in district No. one having resigned the office of Justice of the Peace aforesaid to take effect on the <date when="1861-01-15">15 January 1861.</date> You are respectfully requested to appoint Reuben Clark Green in the place and stead of said Hawes</p>
+<p>N. E. Hawes Justice of the Peace for Boone County in district No. one having resigned the office of Justice of the Peace aforesaid to take effect on the <date when="1861-01-15">15 January 1861.</date> You are respectfully requested to appoint <persName ref="cwgk:N00008302">Reuben Clark Green</persName> in the place and stead of said Hawes</p>
 <p>Respectfully
-<lb/>Milton Hamilton<pb/></p>
-<p>Boone Co<figure type="hr"/>
+<lb/><persName ref="cwgk:N00002013">Milton Hamilton</persName><pb/></p>
+<p><orgName ref="cwgk:O00000599">Boone Co</orgName><figure type="hr"/>
 <lb/>J. P.
 <lb/>Dist No 1.
 <lb/>R. C. Green
