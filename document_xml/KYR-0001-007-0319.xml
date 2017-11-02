@@ -60,20 +60,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>City and County of San Francisco
-<lb/>State of California } SS.
-<lb/><stamp type="revenue"/><note place="stamp"><date when="1864-11-09">Nov 9/64</date>
+   <p><placeName ref="cwgk:P00006526">City and County of San Francisco</placeName><lb/><placeName ref="cwgk:P00002428">State of California</placeName> } SS.<lb/><stamp type="revenue"/><note place="stamp"><date when="1864-11-09">Nov 9/64</date>
 <lb/>E D S
 <lb/>29</note></p>
-<p>I, N. Proctor Smith, duly appointed by the Governor of the State of Kentucky, a Commissioner for the State of Kentucky, resident at the City and County of San Francisco, in the State of California, do Solemnly swear, that I will well and faithfully execute and perform all the duties of Such Commissioner under and by virtue of the laws of Said State of Kentucky.</p>
+<p>I, <persName ref="cwgk:N00001139">N. Proctor Smith</persName>, duly appointed by the <persName ref="cwgk:N001000">Governor of the State of Kentucky</persName>, a Commissioner for the State of Kentucky, resident at the City and County of San Francisco, in the State of California, do Solemnly swear, that I will well and faithfully execute and perform all the duties of Such Commissioner under and by virtue of the laws of Said <orgName ref="cwgk:O001025">State of Kentucky</orgName>.</p>
 <p>N. Proctor Smith</p>
 <p>Sworn and Subscribed before me this the <date when="1864-11-09">Ninth day of November A. D. 1864</date></p>
 <p><figure type="seal"><ab>N. PROCTOR SMITH COMMISSIONER 
 <lb/>FOR THE STATE OF KENTUCKY
 <lb/>STATE OF CALIFORNIA</ab></figure></p>
-<p>E. D. Sawyer
-<lb/>District Judge
-<lb/>Fourth Judicial District<pb/></p>
+<p><persName ref="cwgk:N00001138">E. D. Sawyer</persName><lb/>District Judge
+<lb/><orgName ref="cwgk:O00001137">Fourth Judicial District</orgName><pb/></p>
 <p>Com<hi rend="sup">r</hi> of Deeds
 <lb/>Oath of N. Proctor Smith
 <lb/>California
