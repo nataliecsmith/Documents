@@ -60,23 +60,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Christian von Hesse,
-<lb/>Attorney &amp; Counsellor. Notary Public.
+   <p><persName ref="cwgk:N00004998">Christian von Hesse</persName>,<lb/>Attorney &amp; Counsellor. Notary Public.
 <lb/>39 Nassau Street, New York, <date when="1865-01-16">Jan 16, 1865</date></p>
 <p>To his Excellency
-<lb/>Thos. E Bramlette
-<lb/>Governor of the State
+<lb/><persName ref="cwgk:N001000">Thos. E Bramlette</persName><lb/>Governor of the State
 <lb/>of Kentucky</p>
-<p>I hereby apply to your Excellency to appoint me a Commissioner for the State of Kentucky residing in the City of New York</p>
+<p>I hereby apply to your Excellency to appoint me a Commissioner for the State of Kentucky residing in the <placeName ref="cwgk:P00002569">City of New York</placeName></p>
 <p>I have the honor to remain
 <lb/>Your Excellencys
 <lb/>most obedient servant</p>
 <p>Christian von Hesse</p>
-<p>Albany <date when="1865-02-03">Febry 3<hi rend="sup">d</hi> 1865</date></p>
+<p><placeName ref="cwgk:P00004971">Albany</placeName> <date when="1865-02-03">Febry 3<hi rend="sup">d</hi> 1865</date></p>
 <p>Mr Von Hesse is highly<pb/>
-<lb/>recommended to me by my friend Mr. Hall of New York City</p>
-<p>R E Fulton
-<lb/>Governor of N. Y.<pb/></p>
+<lb/>recommended to me by my friend <persName ref="cwgk:N00004968">Mr. Hall</persName> of New York City</p>
+<p><persName ref="cwgk:N00004984">R E Fulton
+</persName><lb/>Governor of N. Y.<pb/></p>
 <p>Com<hi rend="sup">r</hi> Deeds
 <lb/>Christian von Hesse
 <lb/>New York
