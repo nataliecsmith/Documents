@@ -60,12 +60,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Marion Ky <date when="1863-10-19">Oct 19<hi rend="sup">th</hi> 1863</date>
-<lb/>Govenor Bramlet
-<lb/>Dr Sir</p>
-<p>I send you writs against Reddick Nichol he is indicted here for horsestealing and I am his bail he joined the Guerrillas here and went off= was captured and sent a prisoner to Fort Delaware and was there a short time since he is a dirty Scamp and I desire that you should demand him as a fugative from Justice in Ky and have him returned if possible here for trial</p>
+   <p><placeName ref="cwgk:P00001367">Marion Ky</placeName> <date when="1863-10-19">Oct 19<hi rend="sup">th</hi> 1863</date>
+<lb/><persName ref="cwgk:N001000">Govenor Bramlet
+</persName><lb/>Dr Sir</p>
+<p>I send you writs against <persName ref="cwgk:N00001373">Reddick Nichol</persName> he is indicted here for horsestealing and I am his bail he joined the Guerrillas here and went off= was captured and sent a prisoner to <placeName ref="cwgk:P00001381">Fort Delaware</placeName> and was there a short time since he is a dirty Scamp and I desire that you should demand him as a fugative from Justice in <placeName ref="cwgk:P001800">Ky</placeName> and have him returned if possible here for trial</p>
 <p>I am Sir your obt servt
-<lb/>Manering Lowery</p>
+<lb/><persName ref="cwgk:N00001393">Manering Lowery</persName></p>
   </body>
  </text>
 </TEI>
