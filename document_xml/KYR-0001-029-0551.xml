@@ -60,15 +60,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1863-08-13">August 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1863-08-13">August 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.
 <lb/>His Excellency
-<lb/>James F. Robinson
-<lb/>Dear Sir.</p>
-<p>This will be presented by Mr Jefferson Williams a citizen of this county who has some business which he wishes to present for your consideration. Mr. Williams is a gentleman of high respectability &amp; his statements are entitled to your confidence, We respectfully ask your kind attention to such matters as M<hi rend="sup">r</hi> Williams may present.</p>
+<lb/><persName ref="cwgk:N001004">James F. Robinson</persName><lb/>Dear Sir.</p>
+<p>This will be presented by Mr <persName ref="cwgk:N00002656">Jefferson Williams</persName> a citizen of this county who has some business which he wishes to present for your consideration. Mr. Williams is a gentleman of high respectability &amp; his statements are entitled to your confidence, We respectfully ask your kind attention to such matters as M<hi rend="sup">r</hi> Williams may present.</p>
 <p>Very respectfully
 <lb/>Your ob<hi rend="underline"><hi rend="sup">t</hi></hi> serv<hi rend="underline"><hi rend="sup">t</hi></hi> &amp; Friends
-<lb/>Geo W Johnston
-<lb/>W, G, Reasor</p>
+<lb/><persName ref="cwgk:N00001155">Geo W Johnston</persName><lb/><persName ref="cwgk:N002029">W, G, Reasor</persName></p>
   </body>
  </text>
 </TEI>
