@@ -60,14 +60,13 @@
  </teiHeader>
  <text>
   <body>
-   <p><hi rend="underline">United States of America</hi>
-<lb/>State of California
-<lb/><hi rend="underline">City and County of San Francisco</hi> } S.S:</p>
-<p><hi rend="underline">I</hi>, <hi rend="underline">F. J. Thibault</hi>, residing in the city and county of San Francisco, in the State of California, appointed by the Governor of the Commonwealth of Kentucky, a Commissioner to take the acknowledgement and proof of the execution of deeds and other instruments in writing to be used or recorded in the Said Commonwealth of Kentucky and to administer oaths affirmations &amp;<hi rend="sup">c</hi> do solemnly swear that I will faithfully perform all the duties of such commission under and by virtue of the laws of said Commonwealth of Kentucky according to the best of my ability.</p>
+   <p>
+<placeName ref="cwgk:P001802">United States of America</placeName><lb/><placeName ref="cwgk:P00002428">State of California</placeName><lb/> } S.S:<placeName ref="cwgk:P00006526">City and County of San Francisco</placeName></p>
+<p><hi rend="underline">I</hi>, , residing in the city and county of San Francisco, in the State of California, appointed by the <persName ref="cwgk:N00003289">F. J. Thibault</persName><persName ref="cwgk:N001000">Governor of the Commonwealth of Kentucky</persName>, a Commissioner to take the acknowledgement and proof of the execution of deeds and other instruments in writing to be used or recorded in the Said <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> and to administer oaths affirmations &amp;<hi rend="sup">c</hi> do solemnly swear that I will faithfully perform all the duties of such commission under and by virtue of the laws of said <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> according to the best of my ability.</p>
 <p>F. J. Thibault</p>
 <p>Subscribed and Sworn to before me this <date when="1864-11-15">Fifteenth day of November A D 1864</date>.</p>
-<p>Samuel Condy
-<lb/>County Judge</p>
+<p><persName ref="cwgk:N00006525">Samuel Condy
+</persName><lb/>County Judge</p>
 <p><stamp type="revenue"/><note place="stamp">S. C.
 <lb/><date when="1864-11-15">Nov
 <lb/>15.64</date></note></p>
