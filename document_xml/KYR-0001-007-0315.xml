@@ -59,12 +59,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Feeble M. Institute
-<lb/>S. C. Bull
-<lb/>appt<hi rend="sup">d</hi>
+   <p><orgName ref="cwgk:O00001133">Feeble M. Institute</orgName><lb/><persName ref="cwgk:N00001131">S. C. Bull
+</persName><lb/>appt<hi rend="sup">d</hi>
 <lb/>Commissioner
 <lb/><date when="1864-10-19">19<hi rend="sup">th</hi> Nov/64</date><pb/></p>
-<p>"Appoint Saml C Bull Commissioner of Feeble Minded Institute vice Jas M. Todd Resigned</p>
+<p>"Appoint Saml C Bull Commissioner of Feeble Minded Institute vice <persName ref="cwgk:N00001132">Jas M. Todd</persName> Resigned</p>
   </body>
  </text>
 </TEI>
