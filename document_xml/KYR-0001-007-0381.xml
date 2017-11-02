@@ -60,21 +60,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1865-03-18">Mch= 18th 1865</date>=
-<lb/>E. L. VanWinkle, Sec. of State,
-<lb/>Frankfort
-<lb/>Kentucky
-<lb/>Dear Sir:</p>
-<p>We take pleasure in recommending Mr. T. G. Parsons of this city, as a young man of good moral character in every regard competent to discharge the duties of a Notary Public. Enclosed find fee for issuing commission ($1.00/100)</p>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1865-03-18">Mch= 18th 1865</date>=
+<lb/><persName ref="cwgk:N001777">E. L. VanWinkle</persName>, Sec. of State,<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName><lb/><placeName ref="cwgk:P001800">Kentucky
+</placeName><lb/>Dear Sir:</p>
+<p>We take pleasure in recommending Mr. <persName ref="cwgk:N00007807">T. G. Parsons</persName> of this city, as a young man of good moral character in every regard competent to discharge the duties of a Notary Public. Enclosed find fee for issuing commission ($1.00/100)</p>
 <p>Your Respectfully
 <lb/>Bush &amp; Shivell</p>
 <p>N. B.
 <lb/>Please direct commission to us=
-<lb/>Bush &amp; Shivell<pb/></p>
+<lb/><orgName ref="cwgk:O00006809">Bush &amp; Shivell</orgName><pb/></p>
 <p>Notary Public
 <lb/>T. G. Parson
-<lb/>Jefferson Co
-<lb/>appt<hi rend="sup">d</hi>
+<lb/><placeName ref="cwgk:P001005">Jefferson Co</placeName><lb/>appt<hi rend="sup">d</hi>
 <lb/><date when="1865-03-20">20<hi rend="sup">th</hi> Mch/65</date></p>
   </body>
  </text>
