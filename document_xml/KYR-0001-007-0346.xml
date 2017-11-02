@@ -60,16 +60,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>United States of America
-<lb/>Commonwealth of <hi rend="underline">Pennsylvania</hi>
-<lb/>City of Philadelphia } S.</p>
-<p>I Anson N Hoskins duly appointed and commissioned by the Governor of the state of Kentucky a Commissioner for the said state of Kentucky resident in the City of Philadelphia in the said Commonwealth of Pennsylvania do solemnly affirm I will well and faithfully execute and perform all the duties of said Commissioner of Deeds &amp;c under and by virtue of the Laws of the said State of Kentucky.</p>
+   <p><placeName ref="cwgk:P001802">United States of America</placeName><lb/>Commonwealth of <hi rend="underline">Pennsylvania</hi>
+<lb/><placeName ref="cwgk:P00001701">City of Philadelphia</placeName> } S.</p>
+<p>I <persName ref="cwgk:N00004914">Anson N Hoskins</persName> duly appointed and commissioned by the <persName ref="cwgk:N001000">Governor of the state of Kentucky</persName> a Commissioner for the said <orgName ref="cwgk:O001025">state of Kentucky </orgName>resident in the City of Philadelphia in the said Commonwealth of Pennsylvania do solemnly affirm I will well and faithfully execute and perform all the duties of said Commissioner of Deeds &amp;c under and by virtue of the Laws of the said State of Kentucky.</p>
 <p>A N Hoskins</p>
 <p><figure type="seal"><ab>A N HOSKINS
 <lb/>COMMISSIONER
 <lb/>OF DEEDS &amp;C</ab></figure></p>
 <p>Affirmed and subscribed before me this <date when="1865-01-31">31<hi rend="underline"><hi rend="sup">st</hi></hi> day of January 1865</date>. -- </p>
-<p>Fred G Nolbert</p>
+<p><persName ref="cwgk:N00004915">Fred G Nolbert</persName></p>
 <p><stamp type="revenue"/>
 <lb/><figure type="seal"><ab>A N HOSKINS
 <lb/>COMMISSIONER
