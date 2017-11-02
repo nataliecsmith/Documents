@@ -60,14 +60,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky
-<lb/><date when="1863-09-19">Sept 19 1863</date>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> Ky<lb/><date when="1863-09-19">Sept 19 1863</date>
 <lb/>Dear Governor,</p>
-<p>The enclosed peition of Nancy Allen has merit in it. Hoping That it may meet the Executive clemency and that you will remit the fines to the commonwealth. I am most truly your friend.</p>
-<p>S. A. Atchison<pb/></p>
+<p>The enclosed peition of <persName ref="cwgk:N00004815">Nancy Allen</persName> has merit in it. Hoping That it may meet the Executive clemency and that you will remit the fines to the <orgName ref="cwgk:O001025">commonwealth</orgName>. I am most truly your friend.</p>
+<p><persName ref="cwgk:N00001123">S. A. Atchison</persName><pb/></p>
 <p>His Exce<hi rend="sup">l</hi>. Gov<hi rend="sup">r</hi>.
 <lb/>Tho<hi rend="sup">s</hi>. E. Bramlet
-<lb/>Frankfort Ky</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> Ky</p>
   </body>
  </text>
 </TEI>
