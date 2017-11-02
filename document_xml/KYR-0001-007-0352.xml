@@ -60,15 +60,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort, <date when="1865-01-16">January 16<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>.
+   <p><placeName ref="cwgk:P00000308">Frankfort</placeName>, <date when="1865-01-16">January 16<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>.
 <lb/>To His Excellency
-<lb/>Gov. Thomas E. Bramlette
-<lb/>Dear Sir,</p>
-<p>The undersigned desires to obtain the appointment of Commmisioner of Deeds for Kentucky. Residence at Pittsburg, Pennsylvania.</p>
-<p>Henry Holdship
-<lb/>for H. Veeder</p>
-<p>George R Price
-<lb/>Metcalfe<pb/></p>
+<lb/>Gov. <persName ref="cwgk:N001000">Thomas E. Bramlette
+</persName><lb/>Dear Sir,</p>
+<p>The undersigned desires to obtain the appointment of Commmisioner of Deeds for <orgName ref="cwgk:O001025">Kentucky</orgName>. Residence at <placeName ref="cwgk:P001033">Pittsburg</placeName>, <placeName ref="cwgk:P001006">Pennsylvania</placeName>.</p>
+<p><persName ref="cwgk:N00004917">Henry Holdship</persName><lb/>for <persName ref="cwgk:N00004950">H. Veeder</persName></p>
+<p><persName ref="cwgk:N00004948">George R Price
+</persName><lb/><placeName ref="cwgk:P00004949">Metcalfe</placeName><pb/></p>
 <p>Com<hi rend="sup">r</hi> of Deeds
 <lb/>Pennsylvania
 <lb/>Henry Holdship
