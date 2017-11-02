@@ -60,13 +60,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisvill <date when="1863-09-04">September 4<hi rend="sup">th</hi> 1863</date>
-<lb/>To his Excellency Thomas E. Bramblette
-<lb/>Dear Sir</p>
-<p>I take the liberty of introducing to you M<hi rend="sup">r</hi> J. H. Price, a practicing Lawyer of this place, and a member of the City Council of Louisvill.</p>
-<p>M<hi rend="sup">r</hi> Price goes to Frankfort, as I understand, to solicit the pardon of a negro woman who stands convicted of a capital crime by the Judgment of the Jefferson Circuit Court. I know nothing of the merits of the case, but M<hi rend="sup">r</hi> Price seems to be very confident of the innocence of the woman, and therefore seeks the relieve her from the sentence against her. He will of course make known the grounds of his believe.</p>
+   <p><placeName ref="cwgk:P00000337">Louisvill</placeName> <date when="1863-09-04">September 4<hi rend="sup">th</hi> 1863</date>
+<lb/>To his Excellency <persName ref="cwgk:N001000">Thomas E. Bramblette
+</persName><lb/>Dear Sir</p>
+<p>I take the liberty of introducing to you M<hi rend="sup">r</hi> <persName ref="cwgk:N002014">J. H. Price</persName>, a practicing Lawyer of this place, and a member of the <orgName ref="cwgk:O00001059">City Council of Louisvill</orgName>.</p>
+<p>M<hi rend="sup">r</hi> Price goes to <placeName ref="cwgk:P00000308">Frankfort</placeName>, as I understand, to solicit the pardon of<persName ref="cwgk:N002001"> a negro woman</persName> who stands convicted of a capital crime by the Judgment of the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName>. I know nothing of the merits of the case, but M<hi rend="sup">r</hi> Price seems to be very confident of the innocence of the woman, and therefore seeks the relieve her from the sentence against her. He will of course make known the grounds of his believe.</p>
 <p>Yours with great respect &amp;c
-<lb/>T. A. Marshall</p>
+<lb/><persName ref="cwgk:N00000780">T. A. Marshall</persName></p>
   </body>
  </text>
 </TEI>
