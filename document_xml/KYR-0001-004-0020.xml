@@ -60,14 +60,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville, Ky. <date when="1863-09-09">Sept 9<hi rend="sup">th</hi> 1863</date>
-<lb/>To His Excellency the Hon. Governor of the Commonwealth of Kentucky</p>
-<p>Your Excellency, will permit me Respectfully to Solicit your clemency on behalf of your humble petitioners mentioned. On the documents presented to you by Joseph Henin. I know that he has acted in this case, as well as his Security Mr. Cha<hi rend="sup">s</hi> Dupuy, with disinterestidness, and, if one or the other were obliged to pay the fine mentioned, they would be reduced to misfortune. I respectfully solicit in their favor And Hope that your Excellency will take the case of the applicant into full consideration.</p>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName>, Ky. <date when="1863-09-09">Sept 9<hi rend="sup">th</hi> 1863</date>
+<lb/>To His Excellency the Hon. Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName></p>
+<p>Your Excellency, will permit me Respectfully to Solicit your clemency on behalf of your humble petitioners mentioned. On the documents presented to you by <persName ref="cwgk:N00004234">Joseph Henin</persName>. I know that he has acted in this case, as well as his Security Mr. Cha<hi rend="sup">s</hi> Dupuy, with disinterestidness, and, if one or the other were obliged to pay the fine mentioned, they would be reduced to misfortune. I respectfully solicit in their favor And Hope that your Excellency will take the case of the applicant into full consideration.</p>
 <p>Very Respectfully:
 <lb/>Your most &amp; obed servant
-<lb/>J.J. Perrin
-<lb/>Asst Vice Consul of France</p>
-<p>To His Excellency Governor Bramlette.</p>
+<lb/><persName ref="cwgk:N00004703">J.J. Perrin</persName><lb/>Asst Vice Consul of <orgName ref="cwgk:O00006538">France</orgName></p>
+<p>To His Excellency <persName ref="cwgk:N001000">Governor Bramlette</persName>.</p>
   </body>
  </text>
 </TEI>
