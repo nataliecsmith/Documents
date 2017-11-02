@@ -60,14 +60,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Henderson Ky. <date when="1863-10-12">12 Oct. 1863</date>
-<lb/>Thos. E. Bramlette Esqr
-<lb/>Gov. of Kentucky
-<lb/>Frankfort Ky
-<lb/>Dear Sir -- </p>
-<p>We enclose you herewith a petition signed by sundry of our citizens, asking the remission of a judgment in the Henderson Circuit Court, against Mrs. Mariah Dixon, rendered upon a forfeiture of her recognizance as <hi rend="str">it</hi> to witness. Also the affidavit of Mrs Dixon and T. M. Dixon. There papers were prepared in some haste, but we are satisfied that if you will have patience to give them a careful examination. They will present a case calling for the interposition of your Executive Clemency. If you think proper to remit the judgment, you will please forward your order to that effect. to ourselves or to the clerk of the Henderson Circuit Court.</p>
+   <p><placeName ref="cwgk:P001815">Henderson</placeName> Ky. <date when="1863-10-12">12 Oct. 1863</date>
+<lb/><persName ref="cwgk:N001000">Thos. E. Bramlette</persName> Esqr<lb/>Gov. of <orgName ref="cwgk:O001025">Kentucky
+</orgName><lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> Ky<lb/>Dear Sir -- </p>
+<p>We enclose you herewith a petition signed by sundry of our citizens, asking the remission of a judgment in the <orgName ref="cwgk:O00000397">Henderson Circuit Court</orgName>, against Mrs. <persName ref="cwgk:N00002903">Mariah Dixon</persName>, rendered upon a forfeiture of her recognizance as <hi rend="str">it</hi> to witness. Also the affidavit of Mrs Dixon and <persName ref="cwgk:N00002902">T. M. Dixon</persName>. There papers were prepared in some haste, but we are satisfied that if you will have patience to give them a careful examination. They will present a case calling for the interposition of your Executive Clemency. If you think proper to remit the judgment, you will please forward your order to that effect. to ourselves or to the clerk of the <orgName ref="cwgk:O00000397">Henderson Circuit Court</orgName>.</p>
 <p>Very Respectfully
-<lb/>H. &amp; M. Yeaman</p>
+<lb/><persName ref="cwgk:N00003051">H. </persName>&amp; <persName ref="cwgk:N00003050">M. Yeaman</persName></p>
   </body>
  </text>
 </TEI>
