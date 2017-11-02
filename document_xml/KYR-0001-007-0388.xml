@@ -60,20 +60,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Pennsylvania
-<lb/>County of Allegheny } SS.</p>
-<p>On this <date when="1865-03-16">sixteenth day of March A.D. 1865</date> -- before me personally appeared John J. Mitchel appointed Commissioner for the State of Kentucky who having been duly sworn defines and says that he would well and truly perform All the duties of his said Station</p>
+   <p><placeName ref="cwgk:P001006">State of Pennsylvania</placeName><lb/><placeName ref="cwgk:P00004916">County of Allegheny</placeName> } SS.</p>
+<p>On this <date when="1865-03-16">sixteenth day of March A.D. 1865</date> -- before me personally appeared <persName ref="cwgk:N00005573">John J. Mitchel</persName> appointed Commissioner for the <orgName ref="cwgk:O001025">State of Kentucky</orgName> who having been duly sworn defines and says that he would well and truly perform All the duties of his said Station</p>
 <p>John J. Mitchel</p>
 <p>Sworn and subscribed to this <date when="1865-03-16">16th day of March A.D. 1865</date> before me</p>
-<p>W. A. Henin Clerk
-<lb/>Court of Marta Sessions</p>
+<p><persName ref="cwgk:N00005574">W. A. Henin Clerk</persName><lb/>Court of Marta Sessions</p>
 <p><stamp type="revenue"/><note place="stamp">W. A. H
 <lb/><date when="1865-03-16">Mar 16
 <lb/>1865</date></note></p>
-<p><figure type="seal"><ab>COMMISSIONER FOR THE STATE
-<lb/>JOHN J. MITCHEL
-<lb/>PITTSBURGH P<hi rend="underline"><hi rend="sup">A</hi></hi>
-<lb/>KENTUCKY</ab></figure></p>
+<p><placeName ref="cwgk:P001033">PITTSBURGH PA</placeName></p>
 <p>My official Seal
 <lb/>John J. Mitchel
 <lb/>Commissioner for
