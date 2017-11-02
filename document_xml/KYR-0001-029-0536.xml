@@ -60,14 +60,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hopkinsville Kentucky
-<lb/><date when="1863-08-21">Augt 21<hi rend="sup">st</hi> 1863</date>
+   <p><placeName ref="cwgk:P00002431">Hopkinsville Kentucky</placeName><lb/><date when="1863-08-21">Augt 21<hi rend="sup">st</hi> 1863</date>
 <lb/>His Excellency
-<lb/>James F Robinson
-<lb/>Dear Sir</p>
-<p>I am well acquainted with the Petitioner Mistress Sarah Ann Myres and am satisfied she never kept liquor for sale -- I heard the testamony of the witnesses in Court and their manner of testimony satisfied me they were governed by a malicious motive in bringing the affair into Court, there seemed not to be a good feeling on the part of the Witness towards Mistress Myres, -- I want all Just fines (then War times) collected but I am so littled Satisfied of the unjustness of this one that I would humbly ask for executive clemency</p>
+<lb/><persName ref="cwgk:N001004">James F Robinson</persName><lb/>Dear Sir</p>
+<p>I am well acquainted with the Petitioner Mistress <persName ref="cwgk:N00000435">Sarah Ann Myres</persName> and am satisfied she never kept liquor for sale -- I heard the testamony of the witnesses in Court and their manner of testimony satisfied me they were governed by a malicious motive in bringing the affair into Court, there seemed not to be a good feeling on the part of the Witness towards Mistress Myres, -- I want all Just fines (then War times) collected but I am so littled Satisfied of the unjustness of this one that I would humbly ask for executive clemency</p>
 <p>Your friend &amp;c
-<lb/>D. S. Hays</p>
+<lb/><persName ref="cwgk:N00000439">D. S. Hays</persName></p>
   </body>
  </text>
 </TEI>
