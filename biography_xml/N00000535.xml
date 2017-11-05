@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000535">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George W. Williams</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000535">
+                    <persName>
+                      George W. Williams
+                        (Paris, Kentucky, attorney and politician)
+                    </persName>
+                      <birth when="1801-10-07"></birth>
+                      <death when="1870-01-30"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Paris, Kentucky, attorney and politician. Bourbon County, Kentucky, native. Son of Roger Williams and Mary Kerfoot Williams. Married to Winifred Ware Webb Williams on March 24, 1824. Father of Ben F. Williams, Nancy Williams, Nancy Williams, Winifred Williams, George Ann Williams, Louisa K. Williams, Fanny Conn Williams, and Charles Anna Williams. Graduated from Transylvania University. Studied law under Judge Benjamin Mills and admitted to the bar in Bourbon County. Member of the House of Representatives of the Commonwealth of Kentucky from 1829 to 1830, and in 1836 and 1850. Member of the Senate of the Commonwealth of Kentucky from 1846 to 1850.  Member of the Whig Party. Bourbon County Representative to the Kentucky Constitutional Convention of 1849. Founder and president of the Deposit Bank of Paris in 1851. Attorney in Bourbon County in 1850. Rejected the nomination of the Prohibitionists Party for governor of the Commonwealth of Kentucky in 1855. Member of the American (&quot;Know Nothing&quot;) Party. Attorney in Paris in 1860. Law partner of John A. Prall in Bourbon County. Owned four enslaved persons in 1850 and twenty in 1860. Member of the Republican Party. President of the first Republican Party State Convention in 1864. Member of the Disciples Church.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 98-101; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, KY: Collins &amp; Co., 1878), p. 771-72; &quot;An Act to Incorporate the Deposit Bank of Paris, Bourbon County,&quot; <em>Acts of the General Assembly of the Commonwealth of Kentucky</em>, vol. 2 (Frankfort, Ky.: A. G. Hodges &amp; Co., State Printer, 1851), 273-281.; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Bourbon County, District 1, p. 271; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Bourbon County, District 1, p. 271; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bourbon County, Paris, p. 17; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Bourbon County, Paris, p. 7; Jordan Dodd, <em>Kentucky Marriages, 1802-1850</em>, Ancestry, Bourbon County, Kentucky, March 25, 1824; <em>Find A Grave</em>, &quot;George W. Williams (1801-1870),&quot; Memorial #130074484, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=130074484 (accessed May 19, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
