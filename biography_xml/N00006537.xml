@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006537">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Daniel Stevenson</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006537">
+                    <persName>
+                      Daniel Stevenson
+                        (Kentucky minister and teacher.)
+                    </persName>
+                      <birth when="1823-11-12"></birth>
+                      <death when="1897-01-02"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Kentucky minister and teacher. Versailles, Kentucky native. Married to Sarah A. Corwine Stevenson. Father of Lucy Stevenson. Graduated from Transylvania University in 1847. Teacher in Mississippi in Winter 1847. Studied law in Mississippi. Teacher in Clark County, Kentucky, in 1848. Professor at Whitewater Female College in Centerville, Indiana from 1848 to 1850. Returned to Versailles to open a school for girls. Methodist Episcopal minister in Kenton County in 1850. Member of the Kentucky Conference of the Methodist Episcopal Church, South starting in 1851. Served in Orangeburg, Taylorsville, Danville, Newport, Carrollton, Millersburg, Shelbyville, and Frankfort. Lived in Danville, Kentucky, in 1853. Lived in Franklin County in 1863. Member of the Union Party. Superintendent of Public Instruction for Kentucky from 1863 to 1867.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedule, Kentucky, Kenton County, p. 18; &quot;Rev. Daniel Stevenson, D.D.,&quot;<em>Western Christian Advocate</em> (Cincinnati, Ohio), vol. LXIV, no. 2, January 13, 1897, p. 58; &quot;Kentucky Conference,&quot; <em>The Kentucky Tribune</em> (Danville, Ky.), September 30, 1853, p. 2; &quot;Union State Convention,&quot; <em>Maysville Weekly Bulletin</em> (Maysville, Ky.), March 26, 1863, p. 2; <em>Find A Grave</em>, &quot;Rev. Daniel Stevenson (1823-1897),&quot; Memorial #71438125, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=71438125&amp;ref=acom (accessed May 24, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
