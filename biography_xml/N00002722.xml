@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002722">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Charles Slaughter Morehead</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002722">
+                    <persName>
+                      Charles Slaughter Morehead
+                        (1855-59 Gov)
+                    </persName>
+                      <birth when="1802-07-07"></birth>
+                      <death when="1868-12-21"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Governor of the Commonwealth of Kentucky from 1855 to 1859. Nelson County, Kentucky native. Married to Amanda Leavy in 1823. Married to Margaret Levy in 1831. Graduated from Transylvania University. Practiced law in Christian County and Franklin County.  Served in the House of Representatives of the Commonwealth of Kentucky from 1828 to 1829, from 1838 to 1842, and in 1844. Speaker of the House of Representatives of the Commonwealth of Kentucky from 1840 to 1841 and in 1844. Attorney General of Kentucky from 1830 to 1835. Served as a Whig in the U.S. House of Representatives from 1847 to 1851. Elected governor as on the American Party ticket in 1855 and served until 1859. Practiced law in Louisville from 1859 to 1861. Attended the Washington Peace Conference in February 1861 and the Border State Convention in May 1861. Arrested on suspicion of pro-Confederate sedition from September 1861 to January 1862. Fled into exile in Canada, Europe, and Mexico until the end of the Civil War. </p>
+
+    </body>
+    <back>
+        <ab><bibl><p>James A. Ramage, &quot;Charles Slaughter Morehead (1855-1859)&quot; in <em>Kentucky&#39;s Governors</em>, Updated Edition, Lowell H. Harrison, ed. (Lexington: University Press of Kentucky, 2004), 75-77.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
