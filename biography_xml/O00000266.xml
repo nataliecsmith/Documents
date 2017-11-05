@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00000266">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Kentucky State Penitentiary</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00000266">
+                    <orgName>Kentucky State Penitentiary</orgName>
+                      <event type="begun" when="1798">1798</event>
+                      <event type="ended" when="1884">1884</event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>State prison of the Commonwealth of Kentucky. Located in Frankfort, Kentucky. Keeper(s): Jeremiah W. South (1858-1863) and Harry I. Todd (1863-1867).</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>William C. Sneed, <em>A Report on the History and Mode of Management of the Kentucky Penitentiary from its Origin, in 1798, to March 1, 1860</em> (Frankfort: Senate of Kentucky, 1860); <em>Report of the Special Committee on the Penitentiary to the Senate of Kentucky, February 26, 1880, Legislative Document No. 18</em> (Frankfort: E. H. Porter, 1880); Calvin Fairbank, <em>Rev. Calvin Fairbank During Slavery Times: How he “Fought the Good Fight” to Prepare “The Way”</em> (Chicago: R. R. McCabe &amp; Co., 1890), 54-56, 104-117, 139-146.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
