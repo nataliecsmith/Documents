@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005587">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Edwin H. Stowe</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005587">
+                    <persName>
+                      Edwin H. Stowe
+                        (Allegheny County, Pennsylvania, attorney and judge)
+                    </persName>
+                      <birth when="1826-01-02"></birth>
+                      <death when="1913-02-10"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Allegheny County, Pennsylvania, attorney and judge. Pennsylvania native. Married to Caroline Stowe. Admitted to the Pennsylvania bar. Attorney in Laurenceville, Pennsylvania, in 1860. Judge of the Allegheny County Court of Common Pleas from 1862 to 1902.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Pennsylvania, Allegheny County, Borough of Laurenceville, p. 33; &quot;Edwin H. Stowe,&quot; <em>Pittsburgh Post Gazette</em> (Pittsburgh, Pa.), February 11, 1913, p. 4; &quot;Our Candidates,&quot; <em>Pittsburgh Post Gazette</em> (Pittsburgh, Pa.), October 13, 1862, p. 2; <em>Find A Grave</em>, &quot;Judge Edwin H. Stowe (1826-1913),&quot; Memorial #122537769, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=122537769&amp;ref=acom (accessed May 10, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
