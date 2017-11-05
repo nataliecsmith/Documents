@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005588">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Andrew G. Miller</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005588">
+                    <persName>
+                      Andrew G. Miller
+                        (Wisconsin associate justice and judge)
+                    </persName>
+                      <birth when="1801-09-18"></birth>
+                      <death when="1874-09-30"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Wisconsin associate justice and judge. Carlisle, Pennsylvania, native. Married to Caroline Miller. Father of Caroline E. Miller, John M. Miller, and Mary Alice Miller. Educated at Dickinson College. Graduated from Washington College in 1819. Studied law in 1822. Attorney in Gettysburg, Pennsylvania, from 1822 to 1838. Deputy attorney general for Adams County, Pennsylvania. Associate justice of the Supreme Court of the Wisconsin Territory from 1838 to 1848. Judge for the U.S. District Court of Wisconsin from 1848 to 1870.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Wisconsin, Milwaukee County, Milwaukee, Ward 7, p. 35; Federal Judicial Center, History of the Federal Judiciary, Judges, &quot;Miller, Andrew Galbraith,&quot; (https://www.fjc.gov/history/judges/miller-andrew-galbraith) (accessed May 10, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
