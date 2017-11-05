@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO001005">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Southern Bank of Kentucky</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Tyler Campbell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Tyler Campbell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Tyler Campbell</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O001005">
+                    <orgName>Southern Bank of Kentucky</orgName>
+                      <event type="begun" when="1850">1850</event>
+                      <event type="ended" when="1866">1866</event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>The Southern Bank of Kentucky granted a charter in 1850. It was based in Russellville, Kentucky. In 1860 the state purchased $600,000 in bonds from the bank for war preparations. It Liquidated its assets and dissolved in 1866. President: George Washington Norton.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Adelaide Rossalia Hasse, <em>Index of Economic Material in Documents of the State of the United States: Kentucky, 1792 – 1904</em> (Baltimore, The Lord Baltimore Press, 1910), 100; <em>Journal of the House of Representatives of the Commonwealth of Kentucky</em> (Frankfort: State Printing Office, 1865), 357; E. Polk Johnson, 948.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
