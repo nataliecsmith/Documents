@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000813">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Francis Marion Bristow</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000813">
+                    <persName>
+                      Francis Marion Bristow
+                        (Todd County Representative)
+                    </persName>
+                      <birth when="1804-08-11"></birth>
+                      <death when="1864-06-10"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>A Kentucky attorney and politician. Educated in preparatory school. Studied law and admitted to the bar. Practiced law in Elkton, Kentucky. Married to Emily Helm Bristow. Father of Mary Margaret  Bristow, Margaret Mary Bristow, Benjamin Helm Bristow, and Frank H. Bristow. Elected as a member of the Kentucky House of Representatives from 1831 to 1833. Elected as a member of the Kentucky Senate in 1846. Served as a delegate to the Kentucky Constitution Convention in 1849. Served the Third Congressional District of Kentucky as Whig member of the United States House of Representative from December 1854 to March 1855. And again as an Opposition Party member from 1859 to 1861. Served as a member of the House Committee of Thirty-three in December 1860. Served as a member of the delegation to the 1861 Peace Convention in Washington, D.C. and the 1861 Border States convention in Frankfort, Ky.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Biographical Directory of the United States Congress</em>, s.v. “Francis Marion Bristow,” (http://bioguide.congress.gov/scripts/biodisplay.pl?index=B000842) (accessed December 5, 2016); “Bristow, Francis Marion,” The Kentucky Encyclopedia, ed. John E. Kleber (Lexington: University Press of Kentucky, 1992), 124-125; Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Todd County, District No 1, p. 20; Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Todd County.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
