@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000750">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James W. Ingels</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000750">
+                    <persName>
+                      James W. Ingels
+                        (Paris, Kentucky, resident)
+                    </persName>
+                      <birth when="1810-05-06"></birth>
+                      <death when="1887-07-02"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Paris, Kentucky, resident. Kentucky native. Son of Boone Ingels. Married to Amanda Crose Ingels in 1835. Father of Benjamin Ingels, Wilson H. Ingels, Boone Ingels, Ella Ingels, Mary E. Ingels, Alice Ingels, Isabella Ingels, and George A. Ingels. Married to Mary E. Davis Ingels on January 20, 1857. Father of Lizzie Ingels. Relocated to Jacksonville, Illinois, in 1832. Employee of Fosythe &amp; Butler from 1832 to 1834. Resident of Bourbon County, Kentucky, in 1850 and 1860. Owned eight enslaved persons in 1850 and nine in 1860. His wife, Mary, owned four additional enslaved persons in 1860. Member of the Christian Church in Bourbon County.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Bourbon County, District 2, p. 264; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Bourbon County, District 2; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bourbon County, Paris, p. 31; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Bourbon County, Paris, p. 6; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Bourbon County, Paris, Ward 1, p. 2; William Henry Perrin, ed., <em>History of Bourbon, Scott, Harrison, and Nicholas Counties, Kentucky</em> (Chicago, IL: O. L. Baskin and Company, 1882), p. 472-473; <em>Kentucky Birth, Marriage, and Death Records, 1852-1910</em>, Ancestry, Marriages, Bourbon County, Kentucky, January 20, 1857.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
