@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00007616">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Robert Payne</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00007616">
+                    <persName>
+                      Robert Payne
+                        (Breckinridge County, Kentucky, farmer)
+                    </persName>
+                      <birth when="1813-12-05"></birth>
+                      <death when="1897-09-08"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Breckinridge County, Kentucky, farmer. Franklin County, Virginia native. Son of Moses Payne and Judith Beard Payne. Married to Nancy Scott Payne on November 17, 1836. Father of Willis G. Payne, Samuel H. Payne, James N. Payne, Thomas H. Payne, Artemisia Payne, Virginia Payne, Priscilla Payne, Minor P. Payne, Lewis C. Payne,  Moses G. Payne, John A. Payne, Letitia Payne, Simeon B. Payne, and Mathew P. Payne. Overseer, on the Moorman plantation, in Breckinridge County from 1834 to 1835. Principal manager of the tobacco warehouse of McClarty &amp; Fitzgerald in Stephensport, Kentucky. Farmer in Breckinridge County from 1836 to 1887.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em> (Louisville: F. A. Battey and Company, 1887), 1080. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breckinridge County, District 1, p. 35. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 3. <em>Find A Grave</em>, &quot;Robert Payne (1813-1897),&quot; Memorial #86871829, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86871829&amp;ref=acom (accessed June 25, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
