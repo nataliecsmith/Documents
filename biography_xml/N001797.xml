@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN001797">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Boyd Huston</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N001797">
+                    <persName>
+                      John Boyd Huston
+                        (Winchester, Kentucky, and Lexington, Kentucky, attorney and politician)
+                    </persName>
+                      <birth when="1813-10-01"></birth>
+                      <death when="1881-11-14"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Winchester, Kentucky, and Lexington, Kentucky, attorney and politician. Nelson County, Kentucky, native. Son of James Huston and Mary McKee Huston. Married to Mary J. Allen Huston on September 21, 1836. Married to Elizabeth Jackson Huston on December 21, 1854. Graduated from Centre College in 1833. Teacher at Walnut Hill in Fayette County, Kentucky. Assistant Instructor at Center College. Studied law under Judge Daniel Mayers and Joshua F. Bell. Graduated from Transylvania University in 1835. Admitted to bar. Practiced law in Winchester from 1837 to 1864. Member of the Whig Party. Member of the House of Representatives of the Commonwealth of Kentucky in Clark County, Kentucky, in 1839 and from 1855 to 1859 and 1861 to 1863. Member of the Democratic Party. Speaker of the House of Representatives of the Commonwealth of Kentucky from 1855 to 1857. Member of the Board State Convention in 1861. Relocated to Lexington in 1864. Continued practice of law with William S. Downey.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Clark County, District 2, p. 41. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Clark County, Winchester, District 2, p. 86. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 76. Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, KY: Collins &amp; Co., 1878), 130, 774. ewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 1 (Covington, KY: Collins &amp; Co., 1878), 364. <em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 298-99. H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 595-96. <em>Find A Grave</em>, &quot;John Boyd Huston (1813-1881),&quot; Memorial #48379493, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=48379493 (accessed September 8, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
