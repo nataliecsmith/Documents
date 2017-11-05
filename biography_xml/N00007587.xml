@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00007587">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Elijah R. Eskridge</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00007587">
+                    <persName>
+                      Elijah R. Eskridge
+                        (Breckinridge County, Kentucky, cabinet maker)
+                    </persName>
+                      <birth when="1813-09-19"></birth>
+                      <death when="unknown"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Breckinridge County, Kentucky, cabinetmaker. Grayson County, Kentucky, native. Son of George Eskridge and Elizabeth Robinson Eskridge. Married to Elizabeth M. Taylor Eskridge in January 1832. Father of Letitia Eskridge, James G. Eskridge, Morris Eskridge, Marian Eskridge, Roscoe Eskridge, Alfred Eskridge, Jennie F. Eskridge, Melville Eskridge, and Henry M. Eskridge. Cabinetmaker in Breckinridge County from 1827 to 1872. Justice of the peace in Breckinridge County from 1837 to 1862. Owned two enslaved persons in 1850 and five in 1860. U.S. Commissioner in Breckinridge County during the Civil War. Judge of the Breckinridge County Court from 1862 to 1866.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em> (Louisville: F. A. Battey and Company, 1887), 1057-1058. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Breckinridge County, District 1, p. 114. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Breckinridge County, District 1. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 23. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 478. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 1.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
