@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000994">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William K. Thomas</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000994">
+                    <persName>
+                      William K. Thomas
+                        (Jailer of Jefferson Co.)
+                    </persName>
+                      <birth when="1816-11-01"></birth>
+                      <death when="1870-09-11"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Kentucky, jailer. Kentucky native. Married to Elizabeth Thomas. Father of Catharine Thomas, Mary Thomas, Henry C. Thomas, Ellen Thomas, and William K. Thomas. Owned eleven enslaved persons in 1850. Arrested and charged with being a member of the &quot;Sons of Liberty&quot; in August, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>The American Annual Cyclopaedia and Register of Important Events of the Year 1864</em> (New York: D. Appleton &amp; Company, 1865), 453. “W. K. Thomas, Deceased: Tribute of Respect to His Memory,” <em>Courier-Journal</em> (Louisville, Ky.), September 14, 1870, p. 4. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District 1, hand written p. 224. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Jefferson County, Louisville, District 1, p. 749. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, 9th Ward, p. 58. <br>
+<em>Find A Grave</em>, &quot;William K. Thomas, Sr (1816-1870),&quot; Memorial #143115367, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=143115367&amp;ref=acom (accessed August, 07, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
