@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00007258">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Stephen Henry Doom</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00007258">
+                    <persName>
+                      Stephen Henry Doom
+                        (Lyon County, Kentucky, farmer)
+                    </persName>
+                      <birth when="1825-10-02"></birth>
+                      <death when="1893-04-19"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lyon County, Kentucky, farmer. Kentucky native. Married to Emily W. Roaker Doom. Father of William P. Doom, Isaac H. Doom, Edney L. Doom, and Mary A. Doom. Farmer in Lyon County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Lyon County, p. 24; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Lyon County, District 1, p. 64; <em>Find A Grave</em>, &quot;Stephen Henry Doom (1825-1893),&quot; Memorial #131676332, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=131676332 (accessed June 18, 2017); &quot;Kentucky Death Records, 1911-1962,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:NSW9-WQW : 20 October 2016), Stephen Doom in entry for William P. Doom, 1933; citing , Muhlenberg, Kentucky, United States, Office of Vital Statistics, Frankfort; FHL microfilm 1,913,113.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
