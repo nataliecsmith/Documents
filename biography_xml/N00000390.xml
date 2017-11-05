@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000390">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Scott Brown</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Christina Adkins</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Christina Adkins</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Christina Adkins</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Christina Adkins</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Christina Adkins</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Christina Adkins</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Christina Adkins</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Christina Adkins</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Christina Adkins</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Christina Adkins</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Christina Adkins</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Christina Adkins</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Christina Adkins</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Christina Adkins</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Christina Adkins</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Tyler Campbell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Tyler Campbell</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000390">
+                    <persName>
+                      Scott Brown
+                        (Kentucky Adjutant General)
+                    </persName>
+                      <birth when="c1819-20"></birth>
+                      <death when="1891-12-28"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Adjutant General of the Commonwealth of Kentucky from 1859 to 1861. Franklin County, Kentucky, native. Educated at Centre College. </p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, District 2, p.10;</p>
+
+<p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Franklin County, Bridgeport Precinct, p. 7;</p>
+
+<p>Federal Writers&#39; Project of the Work Projects Administration for the State of Kentucky, <em>Military History of Kentucky, Chronologically Arranged</em> (Frankfort, Ky: The State journal, 1939), 169-170;</p>
+
+<p>Governor&#39;s Executive Journal, 12 Sept 1859, Office of the Governor, Beriah Magoffin: Governor&#39;s Official Correspondence File, Executive Journal, 1859-1862, Kentucky Department for Libraries and Archives, Frankfort, KY, https://dspace.kdla.ky.gov/jspui/handle/10602/6773;</p>
+
+<p>KYR-0001-025-0244;</p>
+
+<p>&quot;GEN. SCOTT BROWN.: Death of a Prominent and Well-Known Citizen at His Home Near Frankfort,&quot; <em>Courier-Journal</em> (Louisville, Ky.), December 29, 1891, p. 3.</p>
+
+<p><em>The Frankfort Roundabout</em> (Frankfort, Ky.), January 2, 1892, p. 4.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
