@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005640">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George L. Crawford</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005640">
+                    <persName>
+                      George L. Crawford
+                        (Philadelphia, Pennsylvania, attorney and entrepreneur)
+                    </persName>
+                      <birth when="1832-05-01"></birth>
+                      <death when="1908-05-06"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Philadelphia, Pennsylvania, attorney and entrepreneur. Delaware native. Son of William H. Crawford and Lydia L. Prettyman Crawford. Married to Lizzie Crawford. Father of George D. Crawford. Attorney in Philadelphia in 1860. Founding member of the Hardwick Oil Company in Philadelphia, Pennsylvania, in 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 13, p. 61; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 8, District 22, p. 126-27; <em>Find A Grave</em>, &quot;George Lewis Crawford (1832-1908),&quot; Memorial #126476755, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=126476755&amp;ref=acom (accessed May 10, 2017); KYR-0001-007-0332.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
