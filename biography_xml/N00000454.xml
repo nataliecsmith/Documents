@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000454">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William A. Brooks</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000454">
+                    <persName>
+                      William A. Brooks
+                        (Mount Vernon, Kentucky, hotel keeper)
+                    </persName>
+                      <birth when="1830-10-28"></birth>
+                      <death when="1871-04-24"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Mount Vernon, Kentucky, hotel keeper. Rockcastle County native. Son of Richard Brooks, Sr. and Nancy Brooks. Married Sarah E. Carson Brooks on May 17, 1858. Father of James W. Brooks, Mollie Brooks, and John C. Brooks. Hotel Keeper in Mount Vernon in 1860 and 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Rockcastle County, Southern Division, p. 164. <em>Kentucky Birth, Marriage, and Death Records, 1852-1910</em>, Ancestry, Marriages, Rockcastle County, 1858. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Rockcastle County, Mt. Vernon, p. 583. <em>Consolidated Lists of Civil War Draft Registrations, 1863-1865</em>, Kentucky, Eighth Congressional District, Rockcastle County, Ky, 1863, p. 41. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Rockcastle County, Mount Vernon, p. 7. <em>Find A Grave</em>, &quot;William A. Brooks (1830-1871),&quot; Memorial #115344223, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=115344223 (accessed May, 30, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
