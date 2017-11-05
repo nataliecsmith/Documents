@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001049">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James Henry Garrard</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001049">
+                    <persName>
+                      James Henry Garrard
+                        (Kentucky state treasurer)
+                    </persName>
+                      <birth when="1810-10-23"></birth>
+                      <death when="1865-08-12"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Kentucky state treasurer. Kentucky native. Married to Lettitia J. Garrard. Father of Daniel Garrard, James L. Garrard, Lucy J. Garrard, Florence Garrard, Ellen W. Garrard, and Mittie Garrard. Treasurer of the Commonwealth of Kentucky from 1857 to 1865. Owned two enslaved persons in 1860. Member of the Democratic Party in 1857. Ran as a pro-Union candidate in 1861. Died in Frankfort, Kentucky, in August 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>&quot;Election Returns,&quot; <em>Louisville Daily Courier</em> (Louisville, Ky.), August 16, 1861, p. 1; <em>Louisville Daily Courier</em> (Louisville, Ky.), June 27, 1857, p. 2; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Franklin County, Frankfort, p. 82; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedule, Franklin County, Frankfort, p. 2; <em>Find A Grave</em>, &quot;James H. Garrard (1810-1865),&quot; Memorial #95589594, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=95589594&amp;ref=acom (accessed May 23, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
