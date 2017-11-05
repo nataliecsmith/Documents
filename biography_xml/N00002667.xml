@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002667">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Richard &quot;Dick&quot; J. Littlepage</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002667">
+                    <persName>
+                      Richard &quot;Dick&quot; J. Littlepage
+                        (Hopkins County, Kentucky, county clerk)
+                    </persName>
+                      <birth when="1841-06-10"></birth>
+                      <death when="1874-03-14"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hopkins County, Kentucky, county clerk.. Married to Sarah Grace Cloyd Littlepage. Clerk of the Hopkins County Court in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>&quot;Majority and Minority Reports in the Contested Election Case of Morton against Gregory, made to the House or Representatives, December 18, 1865,&quot; in <em>Legislative Document, No. 13</em>, (Frankfort, Ky.: George D. Prentice, State Printer, 1865), 43-46; <em>Find A Grave</em>, &quot;Richard J. Littlepage (1841-1874),&quot; Memorial #32458575, (http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=32458575&amp;ref=acom) (accessed March 22, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
