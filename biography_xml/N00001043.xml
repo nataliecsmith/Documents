@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001043">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Wiley Oren Davis</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001043">
+                    <persName>
+                      Wiley Oren Davis
+                        (Breathitt County, Kentucky, farmer, soldier, and justice of the peace)
+                    </persName>
+                      <birth when="c1832"></birth>
+                      <death when="c1898"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Breathitt County, Kentucky, farmer, soldier, and justice of the peace. North Carolina native. Married to Susan Davis. Father of Calvin Davis, William Davis, Thoms J. Davis, John W. Davis, Hopkins Davis, Wiley Davis, Jr., and Sarah Davis. Farmer in Breathitt County in 1860. Private in the 13th Kentucky Volunteer Cavalry Regiment (CSA) from October 1862 to December 1862. Justice of the pace in Breathitt County in 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</em>, NARA RG 109, Microfilm Series M319, Roll 0066; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Breathitt County, District 1, p. 59; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Kentucky, Breathitt County, Precinct No. 3, p. 2; <em>Find A Grave</em>, &quot;Pvt. Wiley Oren Davis (1832-1898),&quot; Memorial #36694749, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=DAVI&amp;GSfn=W&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=19&amp;GScntry=4&amp;GSsr=241&amp;GRid=36694749&amp; (accessed March 23, 2017); KYR-0001-007-0308.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
