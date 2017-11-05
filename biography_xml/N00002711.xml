@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002711">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Granville Pearl</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002711">
+                    <persName>
+                      Granville Pearl
+                        (London, Kentucky, attorney and judge)
+                    </persName>
+                      <birth when="1817-03-19"></birth>
+                      <death when="1887"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>London, Kentucky, attorney and judge. Laurel County, Kentucky, native. Married Elizabeth Adams Pearl in 1860. Father of John Pearl, Helen Pearl, and Sallie Pearl. Owned twenty-six enslaved persons in 1860. Admitted to the bar in 1842. Attorney in Laurel County in 1850. Commonwealth’s Attorney from 1850 to 1856. Judge of the Twelfth Judicial District Circuit Court  from 1856 to 1867. Arrested by General James S. Brisbin on November 3, 1865, for ordering the sale of the family of a soldier in the United States Colored Troops.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Laurel County, London, p. 135. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Laurel County, unknown district, stamped p. 49. Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Laurel County, London, p. 3. Ninth Manuscript Census of the United States (1870), Population Schedules, Kentucky, Laurel County, London, p. 4. Tenth Manuscript Census of the United States (1880), Population Schedules, Kentucky, Laurel County, London, p. 46. Find A Grave, Entry for George Granville Pearl (1817-1887), Find A Grave Memorial #30091437, Craft Family Cemetery, Laurel County, Kentucky, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=30091437&amp;ref=acom (accessed 14 June 2016). E. Polk Johnson, <em>A History of Kentucky and Kentuckians: The Leaders and Representative Men in Commerce, Industry and Modern Activities</em>, vol. 1 (Chicago and New York: Lewis Publishing Company, 1912), 383. M. Secrist, <em>Laurel County, Kentucky: History Revealed through Biographical and Genealogical Sketches of its Ancestors</em> (n.p., 2012), p. 99. Thomas S. Page, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1859</em> (Frankfort, KY: John B. Major, 1860), p. 289. Grant Green, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1861</em> (Frankfort, KY: John B. Major, 1862), p. 304. William T. Samuels, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1865</em> (Frankfort, KY: George D. Prentice, 1866), p. 10. William T. Samuels, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1867</em> (Frankfort, KY: John H. Harney, 1867), p. 354.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
