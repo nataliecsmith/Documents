@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000205">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James Speed</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000205">
+                    <persName>
+                      James Speed
+                        (U.S. Atty. General)
+                    </persName>
+                      <birth when="1812-03-11"></birth>
+                      <death when="1887-06-25"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>United States Attorney General. Louisville native. Married to Jane L. Cochran on April 23, 1840. Father of John Speed, Henry Pirtle Speed, Charles Speed, Breckinridge Speed, James Speed, Jr., Joshua Fry Speed, Jr., and Edward Shippen Speed. Graduated from St. Joseph&#39;s College in Bardstown in 1828. Studied law under Worden Pope in Louisville before graduating from law school at Transylvania University in Lexington in 1833.  Represented Louisville as a Whig in the House of Representatives of the Commonwealth of Kentucky from 1847 to 1848. Stood as an unsuccessful emancipationist candidate for the 1849 state constitutional convention. Served on the City Council and on the Board of Aldermen of the City of Louisville. Served on the University of Louisville law department board of trustees in 1848 and taught law in the department from 1856 to 1858. Appointed the mustering officer for Kentucky Union volunteers in 1861 and commanded the local home guard. Elected to represent Louisville in the Senate of the Commonwealth of Kentucky in 1861 and served until 1863. In December 1864, Abraham Lincoln appointed Speed Attorney General, in which position he served into the Andrew Johnson administration, resigning on July 16, 1866.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>James J. Holmberg, &quot;James Speed&quot; in John E. Kleber, ed., <em>The Encyclopedia of Louisville</em> (Lexington: University Press of Kentucky, 2001), 842.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
