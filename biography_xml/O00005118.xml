@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00005118">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">United States War Department</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00005118">
+                    <orgName>United States War Department</orgName>
+                      <event type="begun" when="1789">1789</event>
+                      <event type="ended" when="unknown">unknown</event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Created in 1789 upon the inauguration of President George Washington. Responsible for oversight of all military departments. Led by the Secretary of War. Secretary of War: John B. Floyd, Joseph Holt, Simon Cameron, and Edwin M. Stanton.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Kenneth W. Munden and Henry Putney Beers, <em>The Union: A Guide to the Federal Archives Relating to the Civil War</em> (Washington, D.C.: National Archives and Records Administration, 1962, reprinted 1986), 242-44. L. D. Ingersoll, <em>A History of the War Department of the United States</em> (Washington, D.C.: Francis B. Mohun, 1880). Frank J. Welcher, <em>The Union Army, 1861—1865: Organization and Operations, vol. 1</em>, The Eastern Theatre (Bloomington: Indiana University Press, 1989). Frank J. Welcher, <em>The Union Army, 1861—1865: Organization and Operations</em>, vol. 2, The Western Theatre (Bloomington: Indiana University Press, 1993).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
