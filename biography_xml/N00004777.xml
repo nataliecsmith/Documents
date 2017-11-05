@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00004777">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Hunt Morgan</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00004777">
+                    <persName>
+                      John Hunt Morgan
+                        (Lexington, Kentucky, hemp manufacturer and soldier)
+                    </persName>
+                      <birth when="1825-06-01"></birth>
+                      <death when="1864-09-04"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lexington, Kentucky, hemp manufacturer and soldier. Huntsville, Alabama native. Son of Calvin Morgan and Henrietta Hunt Morgan. Married to Rebecca Bruce Morgan on November 21, 1848. Married Martha Ready Morgan on December 14, 1862. Moved to Lexington in 1831. Attended Transylvania University from 1842 to 1844. First lieutenant in the Kentucky Mounted Volunteers in the Mexican-American War from 1846 to 1847. Returned to Lexington to engage in hemp manufacturing. Member of the Masonic Order at Daviess Lodge #22 in Lexington from 1846 to 1864.  Captain of a state militia artillery company in Lexington from 1852 to 1854. Captain of the Lexington Rifles of the Kentucky State Guard from 1857 to 1861. Colonel and brigadier general of the 2nd Kentucky Cavalry of the Confederate States of America from 1861 to 1864. Led a series of raids into Kentucky, Indiana, and Ohio between July 1862 and July 1863. Captured at West Point, Ohio, on July 26, 1863 and sent to the Ohio State Penitentiary. Escaped on November 27, 1863, and returned to his command. Led on last raid in June 1864. Commander of the Department of the Western Virginia and East Tennessee from June 1864 to August 1864. Suspended from his command in August 1864. Killed at Greeneville, Tennessee, on September 4, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>James A. Ramage, “Morgan, John Hunt,” in <em>The Kentucky Encyclopedia</em>, ed. John E. Kleber (Lexington: University Press of Kentucky, 2015), p. 650-651; James A. Ramage, <em>Rebel Raider: The Life of General John Hunt Morgan</em> (Lexington: University Press of Kentucky, 1986).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
