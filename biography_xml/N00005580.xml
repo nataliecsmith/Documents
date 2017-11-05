@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005580">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Wheeler H. Peckham</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005580">
+                    <persName>
+                      Wheeler H. Peckham
+                        (New York, Wisconsin, and Minnesota, attorney)
+                    </persName>
+                      <birth when="1833-01-01"></birth>
+                      <death when="1905-09-27"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>New York, Wisconsin, and Minnesota, attorney. Albany, New York, native. Son of Rufus W. Peckham. Married to Annie A. Peckham. Attended the Albany Boys&#39; Academy from 1841 to 1849. Attended a French boarding school in Utica, New York, in 1849. Attended Union College in 1851. Traveled in Europe in 1852 and 1853. Read law at his father&#39;s law firm, Peckham &amp; Colt, in Albany. Studied law at the Albany School of Law in 1853. Admitted to the New York Bar in 1854. Partner in the law firm of Peckham &amp; Bloodgood in Milwaukee, Wisconsin, in 1854. Attorney in St. Paul, Minnesota, in 1860. Relocated to Albany in 1864. Partner in a law firm with George M. Miller and John A. Stoutenburg in New York City, New York, in 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Minnesota, Ramsey County, St. Paul, p. 79; Edward Patterson, <em>Memorial of Wheeler Hazard Peckham,</em> Association of the Bar of the City of New York, May 8, 1906.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
