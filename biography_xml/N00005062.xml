@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005062">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William H. Yancy</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005062">
+                    <persName>
+                      William H. Yancy
+                        (Marshall Co. postmaster/ livingston Co. farmer)
+                    </persName>
+                      <birth when="1828-03-25"></birth>
+                      <death when="1878-04-24"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Marshall County, Kentucky, farmer. Alabama native. Married to Susan A. E. Walker Yancy. Father of John T. Yancy, Edward O. Yancy, and William D. Yancy. Appointed postmaster of Briensburg, Marshall County, Kentucky, on May 1, 1856.  </p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</em>, Kentucky Department for Libraries and Archives, Frankfort, Kentucky, Roll #994048, Marshall County Marriages, p. 1. <em>Record of Appointment of Postmasters, 1832-1971</em> (National Archives Microfilm Publication, M841, Roll 47: Kentucky, Knox - Marshall Counties), Records of the Post Office Department, Record Group Number 28, NARA., p. 673. <em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Livingston County, Division 3, p. 129. <em>Find A Grave</em>, &quot;W. H. Yancy (1828-1878),&quot; Memorial #48427892, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=48427892&amp;ref=acom (accessed 14 June 2016).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
