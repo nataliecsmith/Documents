@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN002010">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John G. Barret</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N002010">
+                    <persName>
+                      John G. Barret
+                        ()
+                    </persName>
+                      <birth when="1829-08-27"></birth>
+                      <death when="1890-05-14"></death>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Kentucky, banker and lawyer. Greensburg, Kentucky native. Married to Ann E. Rodes Barret. Father of Amanda Barret, Rhodes Barret, and Henrie W. Barret. Graduated from University of Louisville with a degree in law. Organized the Citizens National Bank.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Kentucky, County Marriages, 1783-1965</em>, Ancestry, Boyle County, 1855. <em>Find A Grave</em>, &quot;John G. Barret (1829-1890),&quot; Memorial #100675135, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=100675135&amp;ref=acom (accessed June, 29, 2017). &quot;Eminent Citizens Dead.&quot; <em>Courier-Journal,</em>  May 15, 1890, p. 6.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
