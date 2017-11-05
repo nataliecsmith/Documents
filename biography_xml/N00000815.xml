@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000815">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Young Brown</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000815">
+                    <persName>
+                      John Young Brown
+                        (Hardin County, Kentucky, attorney and politician)
+                    </persName>
+                      <birth when="1835-06-28"></birth>
+                      <death when="1904-01-11"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hardin County, Kentucky, attorney and politician. Hardin County native. Educated at Centre College in Danville, Kentucky. Studied law and admitted to the bar in 1857. Practiced law in Elizabethtown, Kentucky, and Louisville, Kentucky. Married twice to Lucy Barbee Brown. Married to Rebecca Dixon Brown. Father of Elizabeth Cabell Brown, Archibald Dixon Brown, John Young Brown, Jr., Virginia Singleton Brown Humphrey, Susan Dixon Brown, and Evelyn Brown Rodman. Served the Fifth Congressional District of Kentucky as a Democratic member of the United States House of Representative from 1860 to 1861, not serving until the second session due to the House age requirement. Served as a member of the Stephen A. Douglas National Committee in 1860. Elected to the Second Congressional District of Kentucky as a Democratic member of the United States House of Representative from 1866, but denied his seat due to a charge of disloyalty during the Civil War.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Biographical Directory of the United States Congress</em>, s.v. “Brown, John Young,” (http://bioguide.congress.gov/scripts/biodisplay.pl?index=B000933) (accessed December 9, 2016); “Brown, John Young,” <em>The Kentucky Encyclopedia</em>, ed. John E. Kleber (Lexington: University Press of Kentucky, 1992), 129-30; “Ex-Gov. John Young Brown,” <em>Courier-Journal</em> (Louisville, Ky.), January 12, 1904; “Sleep: Of Dealth Fall Upon Hon. John Young Brown. . .,” <em>Courier-Journal</em> (Louisville, Ky.), January 12, 1904; Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Hardin County, 3rd District, p. 91; Ninth Manuscript Census of the United States (1870), Population Schedules, Kentucky, Henderson County, 3rd Ward City Henderson, p. 16; Tenth Manuscript Census of the United States (1880), Population Schedules, Kentucky, Henderson County, City of Henderson 2d Ward, p. 11.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
