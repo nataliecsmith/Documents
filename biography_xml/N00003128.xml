@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00003128">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Kennedy Blackburn</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00003128">
+                    <persName>
+                      Kennedy Blackburn
+                        (Pendleton County, Kentucky, farmer)
+                    </persName>
+                      <birth when="c1800"></birth>
+                      <death when="unknown"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Pendleton County, Kentucky, farmer. Kentucky native. Married to Nancy Smith Blackburn on September 29, 1825. Father of John Blackburn, Allison Blackburn, and A. K. Blackburn. Farmer in Pendleton County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Pendleton County, District No. 2, p. 333B; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Pendleton County, p. 79; <em>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</em>, KDLA, Roll #994038, Pendleton County Marriages.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
