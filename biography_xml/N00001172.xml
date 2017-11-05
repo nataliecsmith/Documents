@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001172">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Patrick Upshire Major</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001172">
+                    <persName>
+                      Patrick Upshire Major
+                        (Frankfort, Kentucky, attorney and commonwealth&#39;s attorney)
+                    </persName>
+                      <birth when="c1822"></birth>
+                      <death when="1903-07-03"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Frankfort, Kentucky, attorney and commonwealth&#39;s attorney. Frankfort native. Son of Samuel I. M. Major and Martha H. Bohannan Major. Member of the Episcopal Church in Frankfort. Educated in Frankfort in the private academy of Burwell B. Sayre. Graduated from Union College in Schenectady, New York in 1842. Founding member of Chi Psi fraternity. Returned to Frankfort. Studied law with Thomas B. Monroe, Sr. and Charles S. Morehead. Admitted to the bar in 1844. Member of the Democratic Party. County attorney for Franklin County from 1852 to 1856. Commonwealth&#39;s attorney for the Eighth Judicial District of the Commonwealth of Kentucky from 1856 to 1862. Member of the Masonic Order in Kentucky.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 122-24; Franklin County, Frankfort, page 80; &quot;Kentucky Election,&quot; <em>The Louisville Daily Courier</em> (Louisville, Ky.), August 20, 1856, p. 3; &quot;Grand Barbecue at Palsgrove Landing,&quot; <em>The Louisville Daily Courier</em> (Louisville, Ky.), September 8, 1860, p. 1; <em>Find A Grave</em>, &quot;Judge Patrick Upshire Major (1822-1903),&quot; Memorial #69442556, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=69442556&amp;ref=acom (accessed March 3, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
