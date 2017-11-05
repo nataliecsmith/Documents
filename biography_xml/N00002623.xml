@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002623">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Alfred Allen</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002623">
+                    <persName>
+                      Alfred Allen
+                        (Breckinridge County, Kentucky, attorney and politician)
+                    </persName>
+                      <birth when="c1815"></birth>
+                      <death when="unknown"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Breckinridge County, Kentucky, attorney and politician. Kentucky native. Son of Joseph Allen and Margaret Crawford Allen. Married to Mary E. Jennings in 1853. Father of Horace Allen and Mary Allen. Member of the House of Representatives of the Commonwealth of Kentucky in Breckinridge County from 1838 to 1839 and 1861 to 1866. Commonweath&#39;s attorney for the First Kentucky Judicial District from 1839 to 1856. Unsuccessful candidate for lieutenant governor of the Commonwealth of Kentucky, on Joshua F. Bell&#39;s ticket, in 1859. Attorney in Breckinirdge County in 1860. Recruited five companies of the 27th Kentucky Regiment Volunteer Infantry in 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Breckinridge County, District 1, p. 113. Thomas Marshall Green, <em>Historic Families of Kentucky: With Special Reference to Stocks Immediately Derived from the Valley of Virginia</em> (Cincinnati: Robert Clarke &amp; Co., 1889), 278. <em>The Union Army: States and Regiments</em> vol. 4 (Madison, Wis.: Federal Publishing Company, 1908), 337.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
