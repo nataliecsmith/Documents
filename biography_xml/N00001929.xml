@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001929">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Isham Green Harris</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001929">
+                    <persName>
+                      Isham Green Harris
+                        (Gov of Tennessee)
+                    </persName>
+                      <birth when="1818-02-10"></birth>
+                      <death when="1897-07-08"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Memphis, Tennessee, attorney and Governor of Tennessee. Franklin County, Tennessee, native. Son of Isham Harris and Lucy Davidson Harris. Attended Winchester Academy in Winchester, Tennessee. Married Martha Mariah Travis Harris in 1843. Father of Eugene Harris, James Harris, Edwin Harris, Charles Harris, and Isham Harris. Clerk in Paris, Tennessee, in 1832. Merchant in Ripley, Mississippi. Attorney in Paris in 1841. Elected to the Tennessee State Senate in 1847. Elected to the House of Representatives of the United States in 1848 and 1850. Elected Governor of Tennessee in 1857, 1859, and 1861. Memphis resident in 1860. Owned five enslaved people in Memphis in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Leonard Schulp, &quot;Isham Green Harris&quot; in <em>The Tennessee Encyclopedia of History and Culture</em>, version 2.0, http://tennesseeencyclopedia.net/entry.php?rec=608, (accessed September 18, 2017); Sam Davis Elliott, <em>Isham G. Harris of Tennessee: Confederate Governor and United States Senator</em> (Baton Rouge: Louisiana State University Press, 2010); <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Tennessee, Shelby County, 14th District, p. 143; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Tennessee, Shelby County, 14th District, p. 21.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
