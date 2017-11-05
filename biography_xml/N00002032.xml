@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002032">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Joshua Fry Bullitt</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002032">
+                    <persName>
+                      Joshua Fry Bullitt
+                        (Louisville. Ct. of Appeals Judge)
+                    </persName>
+                      <birth when="1821-02-22"></birth>
+                      <death when="1898-02-16"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, attorney and Judge of the Third District Court of Appeals. Jefferson County, Kentucky, native. Married Elizabeth B. Smith in 1846. Father of Joshsua Fry Bullitt, Jr. Attended Centre College in Danville, Kentucky. Studied law at the University of Virginia in Charlottesville, Virginia. Admitted to the bar in Kentucky in 1844. Elected to the House of Representatives of the Commonwealth of Kentucky from Louisville in 1851 and 1853. Practiced law in partnership with S. B. Smith in 1859. Owned five enslaved people in Jefferson County in 1860. Elected Judge of the Third District of the Kentucky Court of Appeals in 1861. Served as Chief Justice of the Kentucky Court of Appeals from 1864 to June 3, 1865. Arrested in July 1864 for his sympathy to the Confederacy. Exiled to Memphis, Tennessee until November 22, 1864. Returned to Louisville on December 6, 1864. Fled to Canada to avoid arrest on December 27, 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>John J. McAfee, <em>Kentucky Politicians: Sketches of Representative Corncrackers and Other Miscellany</em> (Louisville, Kentucky: Press of the Courier-Journal job printing company, 1866), 36–40. John Livingston, <em>Livingston’s United States Law Register and Official Directory</em> (New York: John A. Gray, 1859), 300; H. Levin, ed., <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago, IL: Lewis Publishing Company, 1897),87-89; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District 2, p. 195; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Jefferson County, District 2, p. 4; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Jefferson County, St. Matthews, Gillmans Precinct, p. 35; “Judge Joshua Fry Bullitt,” <em>Find A Grave</em>, &quot;Judge Joshua Fry Bullitt, (1821 - 1898),&quot; Memorial #52166895, (accessed September 22, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
