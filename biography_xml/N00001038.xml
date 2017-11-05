@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001038">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Curtis Jett</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001038">
+                    <persName>
+                      Curtis Jett
+                        (Breathitt County, Kentucky, farmer, justice of the peace, and soldier)
+                    </persName>
+                      <birth when="1818-01-15"></birth>
+                      <death when="1878-05-14"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Breathitt County, Kentucky, farmer, justice of the peace, and soldier. Perry County, Kentucky, native. Married to Nancy Bryant Jett. Father of Ellen Jett, Eliza J. Jett, Stephen Jett, Hiram Jett, Curtis Jett, Jr., Sarah Jett, Samuel Jett, Babe Jett, Nancy Jett, and Shelby Jett. Owned four enslaved persons in 1860. Farmer and merchant in Breathitt County in 1860. Justice of the peace in Breathitt County in 1864. Private in the Three Forks Infantry Battalion in July 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Report of the Adjutant General of the State of Kentucky</em>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), p. 790; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Breathitt, District 1, p. 9; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedule, Kentucky, Breathitt, District 1, p. 1; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Breathitt County, Precinct No. 7, p. 13; <em>Find A Grave</em>, &quot;Curtis Jett (1818-1878),&quot; Memorial #40640513, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=40640513&amp;ref=acom (accessed March 23, 2017); KYR-0001-007-0308.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
