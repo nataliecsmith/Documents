@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000233">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Daniel Carmichael Wickliffe</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000233">
+                    <persName>
+                      Daniel Carmichael Wickliffe
+                        (Lexington, Kentucky, attorney, editor and secretary of state)
+                    </persName>
+                      <birth when="1810-03-15"></birth>
+                      <death when="1870-05-03"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lexington, Kentucky, attorney, editor and secretary of state. Lexington native. Married to Virginia Cooper Wickliffe on November 25, 1844. Graduated from Transylvania University in 1827. Admitted to the bar and began practicing in Winchester, Kentucky. Editor and proprietor of the <em>Observer and Reporter</em> in Lexington, Kentucky, from 1838 to 1865. Member of the Whig Party. Owned seven enslaved persons in 1860. Member of the Democratic Party. Secretary of State for the Commonwealth of Kentucky, under Governors James F. Robinson, from 1862 to 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 348; H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 630-31; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Fayette County, City of Lexington, 3rd Ward, p. 150; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Fayette County, City of Lexington, 3rd Ward, p. 67; &quot;The Late D. C. Wickliffe,&quot; <em>Courier-Journal (Louisville, Ky.), May 5, 1870, p. 2; _Find A Grave</em>, &quot;Daniel Carmichael Wickliffe (1810-1870),&quot; Memorial #65784654, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=65784654 (accessed August 28, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
