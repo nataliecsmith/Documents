@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008033">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">W. L. Jermane</title>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008033">
+                    <persName>
+                      W. L. Jermane
+                        (Frankfort, Kentucky, Minister)
+                    </persName>
+                      <birth when="unknown"></birth>
+                      <death when="unknown"></death>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Minister of the Baptist Church in Frankfort in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>&quot;The Late Rev. D. R. Campbell, D. D.–,&quot; <em>The Frankfort Commonwealth</em> (Frankfort, Ky.), August 25, 1865, p. 3; &quot;Married,&quot; <em>The Frankfort Commonwealth</em> (Frankfort, Ky.), June 6, 1865; Lewis F. Johnson, <em>The History of Franklin County, Ky.</em> (Frankfort, Ky.: Robert Printing Co., 1912), p. 169; KYR-0001-007-0364; KYR-0001-004-3293.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
