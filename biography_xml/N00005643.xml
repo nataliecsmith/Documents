@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005643">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Morton M. Price</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005643">
+                    <persName>
+                      Morton M. Price
+                        (Irvine, Kentucky, jailor, deputy marshal, and county clerk)
+                    </persName>
+                      <birth when="c1808"></birth>
+                      <death when="unknown"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Irvine, Kentucky, jailor, deputy marshal, and county clerk. Kentucky native. Married to Francis Price. Father of Emma Price, Taylor Price, Edwin Price, Mary Price, and Joseph Price. Jailor of Estill County in 1850. Deputy marshal in Estill County for the Census of the United States in 1850. County commissioner in Estill County in 1860. Hired two enslaved persons in 1860. County clerk of Estill County from 1862 to 1866.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedule, Estill County, Irvine, p. 2; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Estill County, Irvine, p. 160-61.; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedule, Estill County, Irvine, p. 7; <em>The Louisville Daily Courier</em> (Louisville, Ky.), July 1, 1850, p. 3; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1862,” in 1863 <em>Kentucky Documents, Legislative Document No. 24</em>. (Frankfort, Ky.: Wm. E. Hughes, State Printer, 1863), 298-306; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1863,” in <em>1864 Kentucky Documents, Legislative Document No. 10</em>. (Frankfort, Ky.: Wm. E. Hughes, State Printer, 1864), 301-306; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1864,” in <em>1865 Kentucky Documents, Legislative Document No. 1</em>. (Frankfort, Ky.: George D. Prentice, State Printer, 1865), 9-12; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1865,” in <em>1865/66 Kentucky Documents, Legislative Document No. 1</em>. (Frankfort, Ky.: George D. Prentice, State Printer, 1866), 9-12; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1866,” in <em>1866 Kentucky Documents, Legislative Document No. 1</em>. (Frankfort, Ky.: John H. Harney, Public Printer, 1866), 347-350; KYR-0001-007-0332.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
