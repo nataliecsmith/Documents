@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005469">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Washington Patterson</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005469">
+                    <persName>
+                      George Washington Patterson
+                        (New York farmer, manufacturer, and politician)
+                    </persName>
+                      <birth when="1799-11-11"></birth>
+                      <death when="1879-10-15"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>New York farmer, manufacturer, and politician. Londonberry, New Hampshire, native. Married to Hannah W. Patterson. Father of Hannah W. Patterson and George W. Patterson, Jr. Graduated from Pinkerton Academy. Relocated to manufacture fanning mills Genessee County, New York, in 1818. Relocated to Leicester, New York, in 1825. Farmer and manufactured farm implements. Commissioner of highways in Leicester. Justice of the peace in Leicester. Member of the House of Representatives of New York State from 1832 to 1833 and 1835 to 1840. Member of the Whig Party. Relocated to Westfield, New York, in 1841. Land agent for the Chautauqua Land Office in 1841. Delegate to the New York Constitutional Convention in 1846. Lieutenant governor of New York from 1848 to 1850. Commissioner of New York Harbor from 1855 to 1857. Delegate to the Republican National Conventions representing New York in 1856 and 1860. Member of the Republican Party.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, New York, Chautauqua County, p. 84; Patterson Family Papers, 1825-1931, University of Michigan, Bentley Library, Ann Arbor, Michigan, (https://quod.lib.umich.edu/b/bhlead/umich-bhl-852119?view=text) (accessed on May 8, 2017); Biographical Directory of the United States Congress, &quot;George Washington Patterson,&quot; (http://bioguide.congress.gov/scripts/biodisplay.pl?index=P000116) (accessed on May 8, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
