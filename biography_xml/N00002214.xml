@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002214">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Charles S. Marshall</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Tyler Campbell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Tyler Campbell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Krista Kinslow</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002214">
+                    <persName>
+                      Charles S. Marshall
+                        (Ballard County, Kentucky, lawyer and circuit judge)
+                    </persName>
+                      <birth when="1821-01-19"></birth>
+                      <death when="1896-11-13"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Ballard County, Kentucky, attorney and circuit judge. Kentucky native. Married to Emily V. Marshall in 1848. Father of Mary E. Marshall, Thomas C. Marshall, Lucy E. Marshall, and Jacob Marshall. Educated at Transylvania University. Studied law under his father, Thomas A. Marshall in Lexington, Kentucky. Graduated from the Transylvania University Law Department in 1842. Attorney in Ballard County from 1842 to 1868. Partner at Marshall &amp; Corbett, with Thomas H. Corbett, in 1854. County attorney for Ballard County in 1856. Judge of the Ballard County Court. Judge of the First Judicial District of Kentucky from 1862 to 1867. Founding member of  Lodge No. 147 of the Independent Order of Odd Fellows at Blandville, Kentucky, in 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>J. H. Battle, W. H. Perrin, and G. C. Kniffin, <em>Kentucky: A History of the State</em>, Part II (Louisville: F. A. Battey Publishing Company, 1885), p. 307. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, Blandville district, p. 1. &quot;An Act to Incorporate Lodge No. 147, Indepdenent Order of Odd Fellows, in the town of Blandville, Kentucky,&quot; <em>Acts of the General Assembly of the Commonwealth of Kentucky</em> (Frankfort: John B. Major, Public Printer and W. R. Hughes, Public Printer, 1861, 1862, and 1863), 7. John Livingston, <em>Livingston&#39;s United States Law Register</em> (New York: Monthly Law Magazine, 1854), 106. <em>Find A Grave</em>, &quot;Judge Charles S. Marshall (1821-1896),&quot; Memorial #84223356, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=84223356&amp;ref=acom (accessed September 20, 2017). KYR-0001-004-0073. KYR-0001-004-0098. KYR-0001-020-1457.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
