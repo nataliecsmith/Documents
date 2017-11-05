@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002292">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Jacob E. Sandusky (Sodowsky)</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002292">
+                    <persName>
+                      Jacob E. Sandusky (Sodowsky)
+                        (Shelby county farmer)
+                    </persName>
+                      <birth when="1808-06-16"></birth>
+                      <death when="1898-01-03"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Shelby County, Kentucky, resident. Also known as Jacob E. Sodowsky. Jessamine County, Kentucky, native. Son of Ephraim Sandusky and Annie Evans Sandusky. Married Hannah Middleton Sandusky in Jessamine County on February 14, 1831. Father of George S. Sandusky, William B. Sandusky, Thomas C. Sandusky, Richard R. Sandusky, and Mary J. Sandusky.Purchased land in Clark County, Missouri, in 1835. Moved to Shelby County in 1836. Owned four enslaved people in Shelby County in 1850. Farmer in Shelby County in 1860. Owned six enslaved people in Shelby County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Shelby County, District No. 1; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Shelby County, District No. 1, p. 33; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Shelby County, District No. 1, p. 4; Walter Williams, <em>History of Northwest Missouri</em> vol. 2 (Chicago: Lewis Publishing Co., 1915), 702-704; W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em>, 6th ed. (Louisville and Chicago: F. A. Battey and Company, 1888), 844-45; <em>Find A Grave</em>, &quot;Jacob E. Sandusky (1808 - 1898),&quot; Memorial #32833911, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=32833911 (accessed September 28, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
