@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00004216">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas Scudder Page</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00004216">
+                    <persName>
+                      Thomas Scudder Page
+                        (Frankfort, farmer &amp; former asst state auditor )
+                    </persName>
+                      <birth when="1800-04-19"></birth>
+                      <death when="1877-04-17"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Frankfort, Kentucky, farmer. New York native. Son of John Page and Eliza Harriet Rothwell. Virginia resident in 1802. Married Sophia Western Woolfolk Page. Married Jane Briggs Julian in 1828. Second State Auditor in Franfort in 1850. Farmer in Franklin County, Kentucky, in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Franklin County, Frankfort, District 2, p. 54B. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, District 2, p. 7. <em>Find A Grave</em>, &quot;Thomas Scudder Page (1800-1877),&quot; Memorial #79947618, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=page&amp;GSfn=thomas&amp;GSmn=scudder&amp;GSbyrel=all&amp;GSdyrel=all&amp;GSob=n&amp;GRid=79947618&amp;df=all&amp; (accessed April 10, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
