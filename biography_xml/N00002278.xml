@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002278">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Canning Drane</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002278">
+                    <persName>
+                      George Canning Drane
+                        (Henry County, Kentucky, attorney and circuit judge)
+                    </persName>
+                      <birth when="1827-11-17"></birth>
+                      <death when="1898-01-01"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Henry County, Kentucky, attorney and circuit judge. New Castle, Kentucky, native. Son of E. C. Drane and Cora Drane. Married to Mary Shipman Drane in 1861. Father of Paul S. Drane. Educated at the University of Louisville and Hanover College. Graduated from the University of Louisville Law Department in 1849. Partner in the law firm of Pryor &amp; Drane from 1849 to 1859. Resident of Henry County in 1850. Attorney in New Castle in 1860. Circuit judge of the Eighth Kentucky Judicial District from 1862 to 1868.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 30-31. &quot;Judge Drane Dead,&quot; <em>Courier-Journal</em> (Louisville, Ky.), January 2, 1898, p. 5. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Henry County, District 1, p. 395. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Henry County, New Castle, p. 247. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, p. 148. <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Henry County, KY, August 1863, p. 221, (Accessed via ancestry.com). “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1862,” in 1863 Kentucky Documents, Legislative Document No. 24. (Frankfort, Ky.: Wm. E. Hughes, State Printer, 1863), 298-306; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1863,” in 1864 Kentucky Documents, Legislative Document No. 10. (Frankfort, Ky.: Wm. E. Hughes, State Printer, 1864), 301-306; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1864,” in 1865 Kentucky Documents, Legislative Document No. 1. (Frankfort, Ky.: George D. Prentice, State Printer, 1865), 9-12; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1865,” in 1865/66 Kentucky Documents, Legislative Document No. 1. (Frankfort, Ky.: George D. Prentice, State Printer, 1866), 9-12; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1866,” in 1866 Kentucky Documents, Legislative Document No. 1. (Frankfort, Ky.: John H. Harney, Public Printer, 1866), 347-350.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
