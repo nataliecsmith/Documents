@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008309">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Harrison Taylor</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008309">
+                    <persName>
+                      Harrison Taylor
+                        (Speaker State House, Mason Co.)
+                    </persName>
+                      <birth when="1810-08-10"></birth>
+                      <death when="1876-11-28"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Mason County, Kentucky, attorney and politician. Lewis County, Kentucky, native. Son of Joseph Taylor and Elizabeth Harrison Taylor. Married Charlotte Jane Duke Taylor on January 14, 1840. Deputy clerk in the Mason County Court and Mason Circuit Court from 1825 to 1829. Attorney in Washington, Kentucky, in 1833. Law partner of John A. McClung from 1835 to 1850. Member of the House of Representatives of the Commonwealth of Kentucky from Mason County in 1836. Commonwealth&#39;s Attorney from 1839 to 1850. Member of the Senate of the Commonwealth of Kentucky from Mason County from 1857 to 1861. Member of the House of Representatives of the Commonwealth of Kentucky in 1861 to 1867. Speaker of the House of Representatives of the Commonwealth of Kentucky from 1863 to 1867.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>W. M. Paxton, <em>The Marshall Family: Or a Genealogical Chart of the Descendants of John Marshall and Elizabeth Markham, His Wife, Sketches of Individuals and Notices of Families Connected with Them</em> (Cincinnati: Robert Clarke &amp; Co., 1885), 182-83; <em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 215.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
