@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002299">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Lovell H. Rousseau</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Tyler Campbell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002299">
+                    <persName>
+                      Lovell H. Rousseau
+                        (Louisville attorney | Col. 5th KY)
+                    </persName>
+                      <birth when="1818-08-04"></birth>
+                      <death when="1869-01-07"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, attorney, soldier, and Congressman. Lincoln County, Kentucky, native. Admitted to the bar in 1841. Attorney in Bloomfield, Indiana. Member of Indiana State House of Representatives from 1844 to 1845. Captain in the Mexican-American War. Member of the the Indiana State Senate from 1847 to 1849. Practiced law in Louisville after 1849. Member of the Senate of the Commonwealth of Kentucky from 1860 to 1861. Resigned his position in the Kentucky Legislature to join the Confederate Army. Commissioned Colonel of the 5th Kentucky Volunteer Infantry Regiment on September 9, 1861. Promoted to Brigadier General on October 5, 1861. Promoted to Major General in October 22, 1862. Commanded a division in the Army of the Ohio and in the Army of the Cumberland until November 17, 1865. Elected as an Unconditional Unionist to the Thirty-ninth Congress and served from March 4, 1865, to July 21, 1866.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Ezra J. Warner, <em>Generals in Blue: Lives of the Union Commanders</em> (Baton Rouge: Louisiana State University Press, 1964), 412-13. Joseph G. Dawson, <em>General Lovell H. Rousseau and Louisiana Reconstruction</em> Louisiana History 20 (Fall 1979): 373-91.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
