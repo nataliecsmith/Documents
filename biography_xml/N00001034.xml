@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001034">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Cardwell</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001034">
+                    <persName>
+                      John Cardwell
+                        (Breathitt County, Kentucky, farmer, postmaster, and justice of the peace)
+                    </persName>
+                      <birth when="1790-01-17"></birth>
+                      <death when="1877-02-11"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Breathitt County, Kentucky, farmer, postmaster, and justice of the peace.Virginia native. Married to Araminta W. Watkins Cardwell on May 13, 1823. Father of John W. Cardwell, William D. Cardwell, Maranda Cardwell, Isaac N. Cardwell, Thomas Cardwell, A. Edward Cardwell, and Araminta Cardwell. Private in Captain John Brock&#39;s Company of the 4th Regiment of East Tennessee Militia during the War of 1812. U.S. postmaster in Breathitt County from 1849 to 1851 and 1853 to 1857. Owned one enslaved person in 1860. Merchant in Breathitt County in 1860. Tavern house keeper in Breathitt County in 1860. Justice of the peace in Breathitt County in 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Breathitt County, District No. 1; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breathitt County, District 1, p. 119; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Breathitt County, p. 3; <em>War of 1812 Pension Applications</em>. Washington D.C.: National Archives. NARA Microfilm Publication M313, 102 rolls. Records of the Department of Veterans Affairs, M313, Roll 15; <em>Record of Appointment of Postmasters, 1832-1971</em>. NARA Microfilm Publication, M841, 145 rolls. <em>Records of the Post Office Department</em>, RG 28. Washington, D.C.: National Archives, Breathitt County, KY, Jackson, p. 52-53; <em>Find A Grave</em>, &quot;John Cardwell (1790-1876),&quot; Memorial #39042397, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=39042397&amp;ref=acom (accessed March 23, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
