@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006587">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John N. Furber</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006587">
+                    <persName>
+                      John N. Furber
+                        (Brooksville, Kentucky, and Covington, Kentucky, attorney)
+                    </persName>
+                      <birth when="1813-02-28"></birth>
+                      <death when="1878-07-21"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Brooksville, Kentucky, and Covington, Kentucky, attorney. Northwood, New Hampshire native. Son of Joshua Furber and Alcey Neally Furber. Married to Margaret A. Linn Furber in 1845. Father of Neally L. Furber. Married to Martha M. Smith Furber on July 23, 1857. Father of Charles S. Furber, Anna M. L. Furber, and Martha L. Furber. Moved to Mason County, Kentucky, in 1837. Teacher at a private school in Mason County in the late-1830s. Moved to Brooksville in 1840. Admitted to the bar in Bracken County, Kentucky, in 1840. Delegate to the National Democratic Convention in 1844. Attorney in Bracken County in 1850 and 1860. Moved to Covington in 1865. Attorney in Covington in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State (seventh edition; Louisville, KY: F. A. Battey and Company, 1887), p. 797-798; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Bracken County, p. 477; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bracken County, Brooksville, p. 1; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Kenton County, Covington, Ward 6, p. 1; *Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</em>, Microfilm rolls #994027-994058, Bracken County, Kentucky, July 23, 1857, Kentucky Department for Libraries and Archives, Frankfort, Kentucky; <em>Find A Grave</em>, &quot;John Neally Furber (1813-1878),&quot; Memorial #112864989, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=112864989 (accessed May 26, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
