@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006964">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John T. Clark</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006964">
+                    <persName>
+                      John T. Clark
+                        (Powell County, Kentucky, physician)
+                    </persName>
+                      <birth when="1826-01-18"></birth>
+                      <death when="1888-02-18"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Powell County, Kentucky, physician. Clark County, Kentucky native. Married to Jincy Stewart Clark on October 14, 1852. Father of Sarah F. Clark, Zeldah L. Clark, William M. Clark, and Vernon Clark. Owned one enslaved person in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Powell County, p. 52. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Powell County, p. 2. <em>Tenth Manuscript Census of the United States</em> (1880), Population Schedules, Kentucky, Clark County, Blue Ball, p. 41. Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910), Powell County, Marriages, 1852 Microfilm rolls #994027-994058, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. <em>Find A Grave</em>, &quot;Dr. J. T. Clark (1826-1888),&quot; Memorial #25031650, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=25031650&amp;ref=acom (accessed June 11, 2017). KYR-0001-029-0570.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
