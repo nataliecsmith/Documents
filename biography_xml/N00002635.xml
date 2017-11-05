@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002635">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Marshall Harlan </title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Krista Kinslow</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002635">
+                    <persName>
+                      John Marshall Harlan 
+                        (Kentucky politician, soldier, and attorney)
+                    </persName>
+                      <birth when="1833-06-01"></birth>
+                      <death when="1911-10-14"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Kentucky politician, soldier, and attorney. Boyle County, Kentucky, native. Son of James L. Harlan, Sr. and Eliza S. Davenport Harlan. Married to Malvina French Shanklin Harlan in 1856. Graduated from Centre College in 1850. Studied law at Transylvania University. Adjutant General of the Commonwealth of Kentucky from 1851 to 1859. Admitted to the Kentucky bar in 1853. Member of the Whig Party. Frankfort City Attorney from 1854 to 1856. Judge of the Frankfort County Court from 1858 to 1859. Relocated to Louisville, Kentucky in 1861 and worked as an attorney in Louisville, with William F. Bullock. Colonel of the 10th Kentucky Volunteer Infantry Regiment from 1861 to 1863. Member of the Union Party. Attorney General of Kentucky from 1863 to 1867.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Franklin County, District 2, p. 54; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, District 1, p. 82; H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 151-55; <em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 31-32; Lorren P. Beth, John Marshall Harlan: The Last Whig Justice (Lexington: University Press of Kentucky, 1992). &quot;John Marshall Harlan, 1877-1911,&quot; <em>The Supreme Court Historical Society</em> (http://supremecourthistory.org/timeline<em>harlan</em>1877_1911.html) (accessed on July 19, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
