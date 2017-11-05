@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000824">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Harrison Randall</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000824">
+                    <persName>
+                      William Harrison Randall
+                        (London, Kentucky attorney, politician, and judge)
+                    </persName>
+                      <birth when="1812-07-15"></birth>
+                      <death when="1881-08-01"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>London, Kentucky attorney, politician, and judge. Kentucky native. Married to Martha Jane Randall. Father of Richard Randall, Julia Randall, William H. Randall, Jr., James S. Randall, Sarah “Sallie” E. Randall, and Charles M. Randall. Studied law and admitted to the bar in 1835.  Practiced law in London. Served as Laurel County Circuit Court clerk and Laurel County clerk from 1836 to 1851. Attorney and law partner of Judge Robert Boyd in London in 1863. Served the Eighth Congressional District of Kentucky as a Unconditional Unionist member of the United States House of Representative from 1863 to 1867.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Biographical Directory of the United States Congress</em>, s.v. “Randall, William Harrison,” (http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000040) (accessed December 19, 2016); Charles Lanman, <em>Biographical Annals of the Civil Government of the United States</em> (Washington: J. M. Morrison, 1887), 410; H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 559; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Laurel County; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Laurel County, London, p. 137; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Laurel County, The Town of London, p. 1; <em>Find A Grave</em>, &quot;William Harrison Randall (1812-1881),&quot; Memorial #7499285, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=7499285 (accessed December 19, 2016).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
