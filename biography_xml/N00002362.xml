@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002362">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Overton P. Billiter</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002362">
+                    <persName>
+                      Overton P. Billiter
+                        (Grant County carpenter)
+                    </persName>
+                      <birth when="1832-05-16"></birth>
+                      <death when="1901-05-15"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Williamstown, Kentucky, carpenter. Williamstown native. Married Mollie Simmons on February 16, 1864. Carpenter in Williamstown in 1860 and 1863. Arrested in Grant County, Kentucky, for Confederate sympathies on July 16, 1862. Imprisoned in Camp Chase, Ohio, until November 7, 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, <br>
+Kentucky, Grant County, Williamstown, p. 162. <em>Selected Records of the War Department Relating to Confederate Prisoners of War, 1861-1865</em>, Roll M598<em>24, pp 238-239, “U.S., Civil War Prisoner of War Records, 1861-1865” database, ancestry.com. _Find A Grave</em>, &quot;Overton P Billiter (1832 - 1901),&quot; Memorial #21377961, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=21377961&amp;ref=acom (accessed Mar 14, 2017). <em>Consolidated Lists of Civil War Draft Registrations, 1863-1865</em>, NM-65, entry 172, 620 volumes. NAI: 4213514. Records of the Provost Marshal General’s Bureau (Civil War), RG 110, NARA, Vol 1, “U.S., Civil War Draft Registration Records, 1863-1865,” Grant County, KY, 20 Jul 1863, Vol 1, p. 45,(Accessed via Ancestry.com).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
