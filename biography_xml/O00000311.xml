@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00000311">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Kentucky Court of Appeals</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00000311">
+                    <orgName>Kentucky Court of Appeals</orgName>
+                      <event type="begun" when="1792">1792</event>
+                      <event type="ended" when="unknown">unknown</event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>The Supreme Court in the Commonwealth of Kentucky, with appellate jurisdiction and four appellate districts. Under the Third Constitution of Kentucky (1850) an elected judge served an eight year term, the first six years as an associate justice and the remaining two years as chief justice. Judge(s): Henry J. Stites, Alvin Duvall, Zachariah Wheat, Henry C. Wood, Belvard J. Peters, Joshua F. Bullitt, Rufus K. Williams, George Robertson, and William Sampson. Clerk(s): Leslie Combs.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Lewis Collins and Richard H. Collins, <em>Collins’ Historical Sketches of Kentucky: History of Kentucky</em>, vol. 1 (Collins &amp; Company, 1874), 84, 500; John E. Kleber, ed., <em>The Kentucky Encyclopedia</em> (Lexington: University Press of Kentucky, 1992), 219.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
