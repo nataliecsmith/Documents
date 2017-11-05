@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00007721">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James G. Haswell</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00007721">
+                    <persName>
+                      James G. Haswell
+                        (Breckinridge County, Kentucky, attorney)
+                    </persName>
+                      <birth when="1815-09-22"></birth>
+                      <death when="1890"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Breckinridge County, Kentucky, attorney. Providence, Rhode Island, native. Son of James Haswell and Hannah Knowles Haswell. Married to Miriam Taylor Haswell in 1842. Father of Theodore Haswell and Josephine Haswell. Married to Anna Bowden Haswell in 1854. Father of John Haswell. Married to Fannie Hull Bassett Haswell, in Seymour, Connecticut, in 1859. Father of Hattie Haswell and Lenny Haswell. Relocated with family to Ohio in 1816. Attended the common schools in Circleville, Ohio. Apprenticed as a saddler. Relocated to Louisville, Kentucky, in 1835, and then to Hardinsburg, Kentucky. Saddler in Breckinridge County from 1835 to 1854. Read law and admitted to the bar, in Breckinridge County, in 1854. Member of the Whig Party. Member of the Republican Party. Provost-marshal for Breckinridge County during the Civil War. United States commissioner in Breckinridge County.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em> (Louisville: F. A. Battey and Company, 1887), 1062-1063. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Breckinridge County, District 1, p. 113. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Breckinridge County, Town of Hardinsburg, p. 2. <em>Find A Grave</em>, &quot;James G. Haswell (1815-1890),&quot; Memorial #86712207, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86712207&amp;ref=acom (accessed June 27, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
