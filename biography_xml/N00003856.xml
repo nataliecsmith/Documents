@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00003856">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Drury M. Kevil</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00003856">
+                    <persName>
+                      Drury M. Kevil
+                        (Princeton, Kentucky, farmer)
+                    </persName>
+                      <birth when="1808-12-25"></birth>
+                      <death when="1898-10-18"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Princeton, Kentucky, farmer. Kentucky native. Married to Lucretia K. Mitchusson Kevil on September 16, 1830. Father of Clarinda Kevil, Thomas R. Kevil, Uriah L. Kevil, James W. Kevil, Mary L. Kevil, Jesse P. Kevil, and Clarissa M. Kevil. Farmer in Caldwell County, Kentucky, in 1850. Farmer in Princeton in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 74; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Caldwell County, Princeton, p. 24; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Caldwell County, Harmony, p. 5; <em>Find A Grave</em>, &quot;Drury M Kevil (1808-1898),&quot; Memorial #124712918, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=124712918 (accessed April 7, 2017); KYR-0001-029-0539.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
