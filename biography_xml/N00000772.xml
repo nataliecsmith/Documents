@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000772">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">R. H. Cochrell</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000772">
+                    <persName>
+                      R. H. Cochrell
+                        (Louisville, Kentucky, attorney)
+                    </persName>
+                      <birth when="c1829"></birth>
+                      <death when="1867-06-08"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, attorney. Virginia native. Attorney in Louisville. Produce broker and commission merchant in Louisville in 1862. Notary public in Jefferson County, Kentucky in 1863. Member of the Louisville Chancery Court bar in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Rules of the Louisville Chancery Court</em> (Louisville: John P. Morton &amp; Co., 1865), 26; &quot;R. H. Cochrell, Produce Broker,&quot; <em>Louisville Daily Express</em> (Louisville, Ky.), June 12, 1862, p. 1; <em>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</em>, Microfilm rolls #994027-994058. Kentucky Department for Libraries and Archives, Frankfort, Kentucky, Louisville, Jefferson County, KY, Books 1-4, p. 33; KYR-0001-031-0257; KYR-0001-031-0255.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
