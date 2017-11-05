@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005008">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Marion Gray</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005008">
+                    <persName>
+                      John Marion Gray
+                        (Fleming County Farmer/JP)
+                    </persName>
+                      <birth when="1794-06-15"></birth>
+                      <death when="1881-01-16"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Kentucky native. Married to Elizabeth Seamands Gray. Father of James M. Gray, George W. Gray, Fielding &quot;Fielder&quot; W. Gray, Madison H. Gray, and Elizabeth M. Gray. Veteran of the War of 1812. Farmer in Fleming County in 1860. Owned two enslaved persons in 1850 and four in 1860. Justice of the peace for Hillsboro District No. 4 in Fleming County in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Fleming County, 2nd Division, p. 390A-B; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Fleming County, 2nd Division; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Fleming County, District 1, p. 63; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedule, Kentucky, Fleming County, District 1, p. 10; <em>Find A Grave</em>, &quot;John Marion Gray (1794-1881),&quot; Memorial #21149797, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=GRAY&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=19&amp;GScntry=4&amp;GSsr=1601&amp;GRid=21149797&amp; (accessed May 4, 2017); KYR-0001-007-0354.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
