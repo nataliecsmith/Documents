@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008301">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William A. Moody </title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008301">
+                    <persName>
+                      William A. Moody 
+                        (Fairview KY)
+                    </persName>
+                      <birth when="1810-09-24"></birth>
+                      <death when="1860-08"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Christian County, Kentucky, farmer. Halifax County, Virginia, native. Married Margaret A. Mosely Moody. Father of F. B. Moody, Joseph B. Moody, Virginia L. Moody, Susanna Moody, Martha E. Moody, Margaret M. Moody, James E. Moody, John W. Moody, and Fleming R. Moody. Farmer in Christian County in 1860. Owned fifteen enslaved people in Christian County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Christian County, District No. 2, p. 53; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Christian County, District No. 2, p. 36; W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em>, 1st ed., pt. 2 (Louisville and Chicago: F. A. Battey and Company, 1888), 203-.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
