@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006536">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">David Glass Venable</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006536">
+                    <persName>
+                      David Glass Venable
+                        (Frankfort, Kentucky, student and soldier)
+                    </persName>
+                      <birth when="c1838"></birth>
+                      <death when="1881-03-20"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Frankfort, Kentucky, student and soldier. Kentucky native. Married to Mary Katherine &quot;Kate&quot; Reading Venable. Father of Mittie S. Venable. First Lieutenant and quarter master in the 30th Kentucky Volunteer Infantry Regiment from Auguat 1862 to October 1862. Student in Frankfort in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Kentucky, Franklin County, Frankfort, p. 12; <em>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</em>, NARA RG 94, Microfilm Series M397, Roll 0400; <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Franklin County, KY, July 1863, p. 27, (Accessed via ancestry.com); <em>Find A Grave</em>, &quot;David Glass Venable (1838-1881),&quot; Memorial #60996678, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=VE&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=19&amp;GScntry=4&amp;GSsr=761&amp;GRid=60996678&amp; (accessed May 24, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
