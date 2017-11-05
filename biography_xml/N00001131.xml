@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001131">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Samuel Corbin Bull</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001131">
+                    <persName>
+                      Samuel Corbin Bull
+                        (Frankfort, Kentucky, merchant, soldier, and commissioner)
+                    </persName>
+                      <birth when="1834-09-19"></birth>
+                      <death when="1905-01-19"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Frankfort, Kentucky, merchant, soldier, and commissioner. Shelby County, Kentucky, native. Married to Jacqueline Page Bull. Father of Jennie Page Bull and Annie Tilford Bull. Merchant in Frankfort in 1860. Clerk for James M. Todd in Frankfort. Second lieutenant in the Frankfort Union Guard from July 1862 to August 1862. Sergeant in the 36th Regiment of Enrolled Militia in June 1864. Commissioner of the Kentucky Institute for the Feeble Minded in 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Report of the Adjutant General of the State of Kentucky</em>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 869 and 897; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Franklin County, Frankfort, p. 81; &quot;Death of Samuel C Bull,&quot; <em>The Courier-Journal</em> (Louisville, Ky.), January 20, 1905, p. 7; <em>Find A Grave</em>, &quot;Samuel Corbin Bull (1834-1905),&quot; Memorial #79950446, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=79950446&amp;ref=acom (accessed March 29, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
