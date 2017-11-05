@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001634">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Albert Gallatin Hodges</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001634">
+                    <persName>
+                      Albert Gallatin Hodges
+                        (Frankfort Commonwealth owner/editor)
+                    </persName>
+                      <birth when="1802-10-08"></birth>
+                      <death when="1881-03-16"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Frankfort, Kentucky, newspaper editor. Madison County, Virginia native. Son of Francis Hodges and Mary Brock Hodges. Fayette County, Kentucky, resident in 1810. Office boy for the <em>Kentucky Reporter</em> in Lexington, Kentucky, in 1815. Editor of the <em>Lancaster Kentuckian</em> in 1822. Editor of the <em>Lexington Semi-Weekly Morning Post</em> in partnership with D. C. Pinkham and William Tanner from 1824 to 1826. Owned the <em>Kentucky Whig</em> in Lexington in 1826. Owned the <em>Frankfort Commentator</em> in Frankfort in 1826. Published <em>Lights and Shadows</em> in Louisville, Kentucky, in 1832. Partner with Orlando Brown in the <br>
+ <em>Frankfort Commonwealth</em> in Frankfort from 1833 to 1872.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Frank F. Mathias, &quot;Albert Gallatin Hodges,&quot; in John E. Kleber, ed., <em>The Kentucky Encyclopedia</em> (Lexington: University Press of Kentucky, 1992), 435-36.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
