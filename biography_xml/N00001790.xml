@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001790">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Davis L. Adair</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001790">
+                    <persName>
+                      Davis L. Adair
+                        (Hawesville newspaper editor)
+                    </persName>
+                      <birth when="1824-11-26"></birth>
+                      <death when="unknown"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hawesville, Kentucky, newspaper editor and attorney. Hardin County, Kentucky, native. Son of Isaac C. Adair and Milly Edwards Adair. Married Sarah Ann Sterett Adair in Hancock County, Kentucky, on December 20, 1849. Father of Milly Adair, Eliza E. Adair, W. S. Adair, and John S. Adair. Studied law under Morris &amp; Wintersmith in Hodgenville, Kentucky, from 1839 to 1842. Admitted to the bar in LaRue County, Kentucky, in 1845. Practiced law in Hawesville, Kentucky, in 1845. Enlisted in the Fourth Kentucky Volunteer Infantry Regiment during the U.S.-Mexican War in 1848. Appointed public school commissioner in Hancock County. Became editor of the <em>Spirit of Enterprise</em> newspaper in Hawesville. Attorney in Hancock County in 1850. Owned one enslaved person in Hancock County in 1850. Became editor of the <em>Pick and Plow</em> newspaper in Hawesville in 1851. Farmer in Hancock County in 1860. Owned five enslaved people in Hancock County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>J. H. Battle, W. H. Perrin, &amp; G. C. Kniffin, <em>Kentucky: A History of the State</em>, 2nd ed. (Louisville and Chicago: F. A. Battey Publishing, 1885), 742; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 269 B; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Hancock County, Unnamed District, p. 256; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 102-3; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Hancock County, Unnamed District, p. 9.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
