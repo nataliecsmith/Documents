@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006573">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James G. Terhune</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006573">
+                    <persName>
+                      James G. Terhune
+                        (Mercer County, Kentucky, farmer)
+                    </persName>
+                      <birth when="1826-07-23"></birth>
+                      <death when="1870-05-21"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Mercer County, Kentucky, farmer. Kentucky native. Son of Stephen Terhune and Elizabeth Terhune. Married Mary J. Terhune. Father of Victoria Terhune, Mary Jane Terhune, and Martha Terhune. Resident of Mercer Count yin 1850. Farmer in Mercer County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, District 2, p. 337; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Mercer County, District 2, p. 78; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Mercer County, Precinct 5, p. 20; <em>Find A Grave</em>, &quot;James G. Terhune (1826-1870),&quot; Memorial #38469756, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=38469756 (accessed May 25, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
