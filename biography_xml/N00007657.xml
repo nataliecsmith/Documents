@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00007657">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William C. Simpson</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00007657">
+                    <persName>
+                      William C. Simpson
+                        (Grayson County, Kentucky, farmer)
+                    </persName>
+                      <birth when="1811-11-12"></birth>
+                      <death when="1898-09-18"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Grayson County, Kentucky, farmer. Virginia native.Son of Asel Simpson and Polly Simpson. Married to Mary J. Denton Simpson on October 4, 1838. Father of Mary E. Simpson, George Ann Simpson, Francis M. Simpson, Mildred F. Simpson, Sarah J. Simpson, William W. Simpson, Nathan A. Simpson, Jonathan A. Simpson, Louisa Simpson, Charles Simpson, Lynn B. Simpson, Leah Simpson, and Emily J. Simpson. Moved to Warren County, Kentucky, with his family. Lived in Warren County until 1848. Farmer in Edmonson County from 1848 to 1860. Relocated to Grayson County. Farmer in Grayson County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em> (Louisville: F. A. Battey and Company, 1887), 1120-1121. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Edmonson County, p. 28. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Grayson County, p. 92. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Grayson County, Cany, p. 48. <em>Find A Grave</em>, &quot;William C. Simpson (1811-1898),&quot; Memorial #5054025, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=5054025 (accessed June 26, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
