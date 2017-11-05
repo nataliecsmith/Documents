@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006607">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Winford Green Bailey</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006607">
+                    <persName>
+                      Winford Green Bailey
+                        (Lincoln County, Kentucky, politician and county judge)
+                    </persName>
+                      <birth when="1803-03-16"></birth>
+                      <death when="1883-04-19"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Lincoln County, Kentucky, politician and county judge. Lincoln County native. Son of Elijah Bailey. Married to Catharine J. Bailey. Member of the House of Representatives of the Commonwealth of Kentucky for Lincoln County in 1836 and 1837. Member of the Senate of the Commonwealth of Kentucky from Lincoln County and Garrard County, Kentucky from 1840 to 1844. Member of the Whig Party. Member of the Democratic Party. Farmer in Lincoln County in 1850 and 1860. Owned two enslaved persons in 1850 and seven in 1860. Judge of the Lincoln County Court in 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>&quot;Deaths: Judge Winfred G. Baily,&quot; <em>Semi-weekly Interior Journal (Stanford, Ky.), April 20, 1883, p. 3; Lewis Collins and Richard H. Collins, _History of Kentucky</em>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1878), 468; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Lincoln County, District No. 2, p. 302B; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Lincoln County, District No. 2; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Lincoln County, Stanford, p. 5; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Lincoln County, Stanford, p. 2; <em>Find A Grave</em>, &quot;Winford Green Bailey (1803-1883),&quot; Memorial #32023772, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=32023772 (accessed May 26, 2017); Folklife Archives, Manuscripts &amp; Folklife Archives, &quot;Bailey, Winford Green, 1803-1883 (SC 2243)&quot; (2010). <em>MSS Finding Aids.</em> Paper 1287 (http://digitalcommons.wku.edu/dlsc<em>mss</em>fin_aid/1287).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
