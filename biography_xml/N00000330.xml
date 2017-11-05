@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000330">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Franklin Gorin</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000330">
+                    <persName>
+                      Franklin Gorin
+                        (Barren County)
+                    </persName>
+                      <birth when="1798-05-03"></birth>
+                      <death when="1877-12-08"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, attorney. Kentucky native. Married to Louisa Frances Underwood Gorin, Frances Cuthbert Guillod Gorin, and Deborah Putnam Campbell Gorin in 1852. Father of Maria Louisa Gorin Proctor, Eliza Frances Gorin, Malvina Underwood Gorin Wintersmith, Franklin Gorin, Underwood Gorin, Alice Ann Guillod Gorin Taylor, Louisa Frances Gorin , Campbell Gorin, Henry Campbell Gorin, and Annie Weisiger Gorin. Practiced law in partnership with Addison M. Gazlay and Jack Fry in 1865. </p>
+
+    </body>
+    <back>
+        <ab><bibl><p>E. Polk Johnson, <em>A History of Kentucky and Kentuckians: The Leaders and Representative Men in Commerce, Industry and Modern Activities, Vol. III</em> (Chicago and New York: Lewis Publishing, 1912), 1673-74. <em>Tanner’s Louisville Directory, and Business Advertiser for 1861</em>(Louisville: Henry Tanner, 1861), 102. <em>Edwards’ Annual Directory to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, Business Firms, Etc., Etc., in the City of Louisville for 1865-6</em> (Louisville: Maxwell &amp; Co., 1866), 323. <em>Find A Grave</em>, &quot;Franklin Gorin (1798-1877),&quot; Memorial #7181990, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=7181990 (accessed June, 26, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
