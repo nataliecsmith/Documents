@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN001789">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Cabell Breckinridge</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N001789">
+                    <persName>
+                      John Cabell Breckinridge
+                        (Senator, former U.S. Vice President, &amp; Confederate General)
+                    </persName>
+                      <birth when="1821-01-16"></birth>
+                      <death when="1875-05-17"></death>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>A Kentucky attorney, soldier, and politician. Attended Pisgah Academy and graduated from Centre College in 1838. Attended Princeton University and studied law at Transylvania University. Admitted to the bar in 1838. Practiced law in Lexington, Kentucky. Married to Mary Cyrene Burch Breckinridge. Father of Joseph Cabell Breckinridge, Clifton Rodes Breckinridge, Frances Breckinridge Steele, John Milton Breckinridge, John Witherspoon Breckinridge, and Mary Desha Breckinridge Maltby. Served as a major in the 3rd Kentucky Infantry during the Mexican War. Served as a member of the Kentucky House of Representatives in 1849. Served the Eighth Congressional District of Kentucky as a Democratic member of the United States House of Representative from 1851 to 1855. Elected and served in the James Buchanan administration as vice president of the United States from 1856 to 1860. Ran unsuccessfully for President of the United States as a Southern Democrat in 1860. Served the Commonwealth of Kentucky as a Democratic member of the United States Senate from March 1861 to December 1861. Expelled from the Senate in December 1861. Served as a brigadier general and major general in the Confederate Army during the Civil War from 1861 to 1865. Served as secretary of war for the Confederate States of America from January 1865 to April 1865. Fled to Cuba after the war and took up residence in Europe.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Biographical Directory of the United States Congress</em>, s.v. “Breckinridge, John Cabell,” (http://bioguide.congress.gov/scripts/biodisplay.pl?index=B000789) (accessed January 10, 2017); Charles Lanman, <em>Biographical Annals of the Civil Government of the United States</em> (Washington: J. M. Morrison, 1887), 55-56; “John Cabell Breckinridge,” (http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=132) (accessed January 10, 2017); James C. Kotter, <em>The Breckinridges of Kentucky 1760-1981</em> (Lexington: The University Press of Kentucky, 1986), 95-136; “John C. Breckinridge,” <em>Courier-Journal</em> (Louisville, Ky.), May 18, 1875; “Breckinridge, John Cabell,” <em>The Kentucky Encyclopedia</em>, ed. John E. Kleber (Lexington: University Press of Kentucky, 1992), 117-118; Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Fayette County, 4th Ward City of Lexington, p. 108.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
