@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00004850">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">David Cloyd James</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00004850">
+                    <persName>
+                      David Cloyd James
+                        (Union Circuit Court clerk)
+                    </persName>
+                      <birth when="1828-12-21"></birth>
+                      <death when="1915-01-18"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Union County, Kentucky, attorney and court clerk. Nashville, Tennessee native. Son of William James and Martha Cloyd James. Married Sarah A. Nunn James in Crittenden County, Kentucky. Married Frances B. Cary James. Married Martha A. Kirk James. Married Amanda Morris James on September 28, 1865 in Webster County, Kentucky. Father of Morris James, Harry James, Lucy A. James, and Martha James. Joined the Methodist Church in 1842. Managed mines in Crittenden County from 1847 to 1854. Joined the Masonic Lodge in Morganfield, Kentucky, in 1852. Farmer in Union County in 1854. Manager and book-keeper at Curlew Mines in Union County from 1857 to 1860. Farmer in Union County from 1860 to 1863. Clerk of the Union Circuit Court from 1863 to 1868.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Find A Grave</em>, &quot;David C. James (1828-1915),&quot; Memorial # 06628135, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=106628135&amp;ref=acom (accessed April 28, 2017). <em>History of Union County, Kentucky</em>, (Evansville, IN: Courier Co., Printers, Binders, and Engravers, 1886), 470-472.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
