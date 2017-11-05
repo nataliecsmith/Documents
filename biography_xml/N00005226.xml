@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005226">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">R. B. Carpenter</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Stephen Powell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Stephen Powell</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005226">
+                    <persName>
+                      R. B. Carpenter
+                        (Covington, Kentucky, commonwealth&#39;s attorney)
+                    </persName>
+                      <birth when="c1824"></birth>
+                      <death when="unknown"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Covington, Kentucky, commonwealth&#39;s attorney. Vermont native. Married to Elizabeth A. Carpenter. Father of Julius Carpenter and Mary E. Carpenter. Attorney in Covington in 1850. Commonwealth&#39;s attorney for the Ninth Judicial District of the Commonwealth of Kentucky from 1862 to 1865. Investigated for bribery, embezzlement, and failing to appear at court in 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Kenton County, Covington, p. 318B; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1862,” in 1863 Kentucky Documents, Legislative Document No. 24. (Frankfort, Ky.: Wm. E. Hughes, State Printer, 1863), 298-306; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1863,” in 1864 Kentucky Documents, Legislative Document No. 10. (Frankfort, Ky.: Wm. E. Hughes, State Printer, 1864), 301-306; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1864,” in 1865 Kentucky Documents, Legislative Document No. 1. (Frankfort, Ky.: George D. Prentice, State Printer, 1865), 9-12; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1865,” in 1865/66 Kentucky Documents, Legislative Document No. 1. (Frankfort, Ky.: George D. Prentice, State Printer, 1866), 9-12; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1866,” in 1866 Kentucky Documents, Legislative Document No. 1. (Frankfort, Ky.: John H. Harney, Public Printer, 1866), 347-350; &quot;Report on the Committee of Circuits on the case of R. B. Carpenter, Esq., Attorney of the Ninth Judicial District,&quot; in 1865 Kentucky Documents, Legislative Document No. 24. (Frankfort, Ky.: George D. Prentice, State Printer, 1865).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
