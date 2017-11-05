@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002046">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Washington Williams</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Tyler Campbell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Tyler Campbell</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002046">
+                    <persName>
+                      George Washington Williams
+                        (Hawesville attorney)
+                    </persName>
+                      <birth when="1814-11-27"></birth>
+                      <death when="1890-09-29"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hancock County, Kentucky, attorney. Breckinridge County, Kentucky, native. Married Mary W. Hamilton Williams. Father of Hamilton Williams, Ione Williams Baker, James Russell Williams, Mary Ruth Williams Crutcher, and Hugh A. Williams. Taught school in Helena, Arkansas in 1837. Studied law with the firm of Thomasson and Boon in Louisville, Kentucky,  in 1838. Admitted to the bar in 1840 in Hawesville. Member of the House of Representatives of the Commonwealth of Kentucky from Hancock and Ohio counties from 1850 to 1851. Owned four enslaved people in Hancock County in 1850. Unsuccessful Democratic candidate for Senate of the Commonwealth of Kentucky in 1857. Elector for the Democratic presidential ticket of James Buchanan in 1856. Owned eight enslaved people in Hancock County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 319-322; <em>An Illustrated Historical Atlas of Daviess County, Ky. : carefully compiled from personal examinations and surveys</em> (Utica: Leo McDonough &amp; Co., 1876); Tallaferro P. Shaffner, ed., <em>Kentucky Annual State Register, 1847</em> (Louisville: Morton and Griswold, 1847), 93; <em>Find A Grave</em>, &quot;George Washington WIlliams (November 27, 1814 - September 29, 1890),&quot; Memorial #57361824, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=57361824&amp;ref=acom (accessed June 27, 2017).; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hancock County; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Hancock County; <em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Hancock County, p. 40; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Hancock County, p. 3; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Davies County, 1st Ward City of Owensboro, p. 257; <em>Collins’ Historical Sketches of Kentucky: History of Kentucky</em>, vol. 2 (Collins &amp; Company, 1878), 305.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
