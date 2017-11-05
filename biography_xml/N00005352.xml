@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005352">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Howard Douglass</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005352">
+                    <persName>
+                      Howard Douglass
+                        (Cincinnati, Ohio, soldier and commissioner of deeds)
+                    </persName>
+                      <birth when="1846-01-21"></birth>
+                      <death when="1908-07-18"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Cincinnati, Ohio, soldier and commissioner of deeds. Ohio native. Son of John G. Douglass and Mary Douglass. Educated in the public schools of Cincinnati. Corporal in the 2nd Regiment of the Cincinnati Guard from August 1862 to May 1865. Commissioner of deeds for the Commonwealth of Kentucky in Ohio in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Ohio, Hamilton County, Cincinnati, Ward 14, p. 9; <em>Eleventh Manuscript Census of the United States</em> (1890),  Veterans Schedule, Ohio, Hamilton County, Cincinnati, p. 2; &quot;Pythian of Note Dies at 62,&quot; <em>The Chicago Tribune</em> (Chicago, Ill.), July 18, 1902, p. 4; &quot;To Rest,&quot; <em>The Cincinnati Enquirer</em> (Cincinnati, O.), July 24, 1908, p. 7; KYR-0001-007-0367; KYR-0001-007-0373; KYR-0001-007-0375.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
