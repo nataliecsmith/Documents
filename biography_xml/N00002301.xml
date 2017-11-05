@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002301">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Edward F. de Selding</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002301">
+                    <persName>
+                      Edward F. de Selding
+                        (New York City, New York, attorney)
+                    </persName>
+                      <birth when="1828-08-10"></birth>
+                      <death when="unknown"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>New York City, New York, attorney. Brooklyn, New York, native. Married to Elizabeth Monroe Shrewsbury on September 18, 1855. Father of Hermann de Selding, Joel S. de Selding, and Julia de Selding. Educated at St. Mary’s College in Baltimore, Maryland. Educated in Carlisle, Pennsylvania. Relocated to California in 1849 as part of the “East Tennessee Gold Mining Company”. Worked in the San Francisco post office. Relocated to Virginia in 1851. Admitted to the bar in 1854. Member of the Democratic Party. Moved to New York City in 1860. Attorney in New York City from 1860 to 1869.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Peter Ross, <em>A History of Long Island: From its Earliest Settlement to the Present Time, Vol. 2</em>(Long Island: Lewis Publishing Company, 1902), 467-68; KYR-0001-007-0399.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
