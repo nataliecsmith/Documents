@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005022">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William H. Hancock</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005022">
+                    <persName>
+                      William H. Hancock
+                        (Henderson County, Kentucky, farmer and justice of the peace)
+                    </persName>
+                      <birth when="1824-06-12"></birth>
+                      <death when="1911-06-07"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Henderson County, Kentucky, farmer and justice of the peace. Kentucky native. Married to Minerva J. Hancock. Father of P. E. Hancock, Francis M. Hancock, E. H. Hancock, Eva J. Hancock, Lilly B. Hancock, Sally L. Hancock, Mattie Hancock, and Addie Hancock. Farmer in Henderson County in 1860. Owned three enslaved persons in 1860. Justice of the peace for the Corydon District of Henderson County from 1863 to 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Henderson County, Division 1, p. 73; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedule, Kentucky, Henderson County, Division 1, p. 6; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Kentucky, Henderson County, Corydon, p. 3-4; <em>Find A Grave</em>, &quot;William Harrison Hancock (1824-1911),&quot; Memorial #74598808, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=HAN&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=19&amp;GScntry=4&amp;GSsr=1561&amp;GRid=74598808&amp; (accessed May 4, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
