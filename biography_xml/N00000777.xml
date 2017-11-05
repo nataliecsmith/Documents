@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000777">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Henry Grider</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000777">
+                    <persName>
+                      Henry Grider
+                        (Garrard County attorney)
+                    </persName>
+                      <birth when="1796-07-16"></birth>
+                      <death when="1866-09-07"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Garrard County, Kentucky, attorney. Garrard County native. Married to Sallie Grider. Father of Daniel Grider, Rachel Grider, Virginia Bryant Grider. Admitted to the bar around 1810 and became a practicing attorney in Bowling Green. Served in the War of 1812 as a Corporal in Payne&#39;s Company of the Kentucky Mounted Volunteer Militia. Member of the Kentucky state house of representatives in 1827 and 1831. Served in the Kentucky state senate 1833-1837. Elected as a Whig to the Twenty-eighth and Twenty-ninth Congresses (March 4, 1843-March 3, 1847). Elected as a Unionist to the Thirty-seventh and Thirty-eighth Congresses and as a Democrat to the Thirty-ninth Congress and served from March 4, 1861, until his death in 1866.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Warren County, p. 134. &quot;Grider, Henry - Biographical Information,” <em>Biographical Directory of the United States Congress</em>, accessed December 25, 2016, http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000455. <em>Find A Grave</em>, &quot;Henry Grider (1798-1866),&quot; Memorial #7781206, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=7781206 (accessed June, 29,2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
