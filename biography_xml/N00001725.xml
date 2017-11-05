@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001725">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John E. Hamilton</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001725">
+                    <persName>
+                      John E. Hamilton
+                        (Covington atty)
+                    </persName>
+                      <birth when="1838-08-01"></birth>
+                      <death when="unknown"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Covington, Kentucky, attorney. Pennsylvania native. Moved to New Castle, Kentucky, as an infant. Educated at the grammar school of Columbia College in New York, New York. Graduated from Kenyon College in Gambier, Ohio, in 1856. Read law with Mengies &amp; Pryor in Covington in 1858. Graduated Cincinnati Law School in Cincinnati, Ohio, and passed the bar in 1860. Married [Unknown] Winston Hamilton in 1861. Father of J. E. Hamilton and E. C. Hamilton. Attorney in Covington in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>J. H. Battle, W. H. Perrin, &amp; G. C. Kniffin <em>Kentucky: A History of the State 7th ed.</em> (Louisville: Battey Publishing, 1887), 810-11. KYR-0001-017-0009.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
