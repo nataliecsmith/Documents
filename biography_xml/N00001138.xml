@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001138">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Ebenezer Davis Sawyer</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001138">
+                    <persName>
+                      Ebenezer Davis Sawyer
+                        (San Francisco, California, attorney and judge)
+                    </persName>
+                      <birth when="c1825"></birth>
+                      <death when="1902-06-20"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>San Francisco, California, attorney and judge. New York native. Married Lavinia T. Sawyer. Father of Anna L. Sawyer, William T. Sawyer, Carrie M. Sawyer, and Edely E. Sawyer. Moved to California in 1851. Attorney in San Francisco from 1852 to 1902. District judge for the 4th Judicial District of California in 1863 and 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, California, San Francisco, District 8, p. 21; &quot;Judge E.D. Sawyer Dead,&quot; <em>The San Francisco Chronicle</em> (San Francisco, Calif.), June 21, 1902, p. 8; &quot;The Templar Guard,&quot; <em>Santa Cruz Weekly Sentinel</em> (Santa Cruz, Calif.), July 02, 1864, p. 2; <em>Find A Grave</em>, &quot;Ebenezer Davis Sawyer (1825-1902),&quot; Memorial #XXXXXXXX, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=SAW&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=6&amp;GScntry=4&amp;GSsr=561&amp;GRid=14026028&amp; (accessed March 29, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
