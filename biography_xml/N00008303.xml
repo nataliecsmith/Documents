@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008303">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Hopkins Harney</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008303">
+                    <persName>
+                      John Hopkins Harney
+                        (Lou. Democrat publisher)
+                    </persName>
+                      <birth when="1806-02-20"></birth>
+                      <death when="1868-01-26"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, newspaper editor. Kentucky native. Married Martha Rankin Wallace Harney. Father of Benjamin Mills Harney, William Wallace Harney, Selby T. Harney, Ellen Martha Harney Lawson, and John Hopkins Harney, Jr. Graduated from Miami University in Oxford, Ohio, in 1827. Mathematics professor at Indiana University in Bloomington, Indiana from 1827 to 1833. Mathematics professor at Hanover College in Hanover, Indiana from 1833 to 1838. President of the Louisville Collegiate Institute in Louisville from 1838 to 1840. Author of <em>An Algebra Upon the Inductive Method of Instruction</em> in 1840. President of Louisville College in Louisville from 1840 to 1844. Publisher of the <em>Louisville Democrat</em> in Louisville from 1844 to 1868. Partner in publishing firm of Harney, Hughes, &amp; Co. with William E. Hughes and John H. Bowman in Louisville in 1860. Member of the House of Representatives of the Commonwealth of Kentucky from Louisville from 1861 to 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Dwayne D. Cox and William J. Morrison, <em>The University of Louisville</em> (Lexington: University Press of Kentucky, 2000), 20-22; John H. Harney, <em>An Algebra Upon the Inductive Method of Instruction</em> (Louisville: Morton &amp; Griswold, 1840); Henry Tanner, ed., <em>Tanner’s Louisville Directory and Business Advertiser for 1861</em> (Louisville: Directory Publication and Advertising Agency, 1861), 112; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, KY: Collins &amp; Co., 1874), 357; <em>Find A Grave</em>, &quot;John Hopkins Harney, Sr. (1806 - 1868),&quot; Memorial #81660175, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=81660175 (accessed September 22, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
