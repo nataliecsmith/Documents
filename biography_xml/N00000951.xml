@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000951">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Dollins, Sr.</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000951">
+                    <persName>
+                      William Dollins, Sr.
+                        (Garrard County, Kentucky, overseer and farmer)
+                    </persName>
+                      <birth when="1836-01-23"></birth>
+                      <death when="1922-06-21"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Garrard County, Kentucky, overseer and farmer. Kentucky native. Son of James Dollins and Eliza Dollins. Married to Mary &quot;Polly&quot; A. Yater Dollins. Father of William Dollins, Jr. Resident of Garrard County in 1850. Overseer in Garrard County, for John Henderson, in 1860. Henderson owned fourteen enslaved persons in 1860. Farmer in  Garrard County in 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Garrard County, Division 1, p. 217; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Garrard County, p. 50; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Garrard County, p. 17; Ninth Manuscript Census of the United States_ (1870), Population Schedules, Kentucky, Garrard County, Brandy Spring District 1, p. 3; <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Taylor County, KY, July 1863, p. 94, (Accessed via ancestry.com); <em>Find A Grave</em>, &quot;William Dollins (1836-1922),&quot; Memorial #91122153, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=91122153&amp;ref=acom (accessed July 20, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
