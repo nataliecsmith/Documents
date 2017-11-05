@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000444">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Aaron Lawson</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000444">
+                    <persName>
+                      Aaron Lawson
+                        (Edmonson County, Kentucky, farmer and court clerk)
+                    </persName>
+                      <birth when="1833-01-31"></birth>
+                      <death when="1913-10-18"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Edmonson County, Kentucky, farmer and court clerk. Barren County, Kentucky, native. Married to Ursula A. Walker Lawson in August 1858. Father of Sarah A. Lawson, Robert N. Lawson, and Emer Lawson. Apprentice tanner, under William H. Clark, in Barren County in 1850. Farmer in Edmonson County in 1860. Clerk of the Edmonson Circuit Court from 1863 to 1867. Clerk of the Edmonson County Court from 1863 to 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Barren County, Division 2, p. 461; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Edmonson County, p. 109; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hart County, Caverna, p. 3; <em>Kentucky Birth, Marriage, and Death Records, 1852-1910</em>, Ancestry, Marriages, Edmonson County, Kentucky, August 1858; William T. Samuels, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1865</em> (Frankfort, KY: George D. Prentice, 1866), p. 11; William T. Samuels, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1867 (Frankfort, KY: John H. Harney, 1867)</em>, p. 355; <em>Kentucky Vital Statistics Original Death Certificates (1911-1955)</em>, 1913, Warren County, Kentucky, File no. 28121; <em>Find A Grave</em>, &quot;Judge Aaron Lawson (1833-1913),&quot; Memorial #83391663, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=83391663 (accessed August 16, 2017); KYR-0001-029-0479; KYR-0001-029-0531.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
