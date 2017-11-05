@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001915">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Walter Newman Haldeman</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001915">
+                    <persName>
+                      Walter Newman Haldeman
+                        (editor, Louisville Courier)
+                    </persName>
+                      <birth when="1821-04-27"></birth>
+                      <death when="1902-05-13"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, editor of the <em>Louisville Courier</em>. Maysville, Kentucky, native. Son of John Haldeman and Elizabeth Newman Haldeman. Attended the Maysville Academy in Maysville. Married Elizabeth Metcalfe Haldeman in October 1844. Father of William B. Haldeman, John A. Haldeman, Lizzie Haldeman, Bruce Haldeman, and Isabelle Haldeman. Clerk for the <em>Louisville Journal</em> in Louisville in 1840. Founded the <em>Louisville Courier</em> in 1843. Fled Louisville under threat of arrest in September 1861. Published the <em>Louisville Courier</em> in Nashville, Tennessee, from September 1861 to February 1862. Published the <em>Louisville Courier</em> from various locations in the Confederate States of America from 1862 to 1865. Published the <em>Louisville Courier</em> in Louisville beginning on December 5, 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Lewis Collins and Richard H. Collins, <em>Collins’ Historical Sketches of Kentucky</em>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1874), 391-92; Dennis Cusick, &quot;Walter Newman Haldeman&quot; in <em>The Kentucky Encyclopedia</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 398.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
