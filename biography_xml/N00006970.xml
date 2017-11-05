@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006970">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George M. Pettit</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006970">
+                    <persName>
+                      George M. Pettit
+                        (Powell County, Kentucky, merchant and postmaster)
+                    </persName>
+                      <birth when="c1837"></birth>
+                      <death when="unknown"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Powell County, Kentucky, merchant and postmaster. Kentucky native. Son of Asda T. Pettit and Sarah A. Pettit. Married to Priscilla W. Wills Pettit on September 20, 1858. Father of Mary T. Pettit, William Pettit, and Lura Pettit. Resident of Montogmery County, Kentucky, in 1850. Merchant in Stanton, Kentucky, in 1860. Postmaster in Stanton from 1860 to 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Montgomery County, District 2, p. 71. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Powell County, Stanton, p. 53. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Powell County, Precinct 4, p. 2. Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910), Powell County, Marriages, 1858, Microfilm rolls #994027-994058, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. <em>Record of Appointment of Postmasters, 1832-1971</em>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28, Powell County, Kentucky, p. 108, (accessed via Ancestry.com).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
