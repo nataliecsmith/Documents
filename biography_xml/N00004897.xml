@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00004897">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Andrew Monroe</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00004897">
+                    <persName>
+                      Andrew Monroe
+                        (Jefferson County, Kentucky, attorney and judge)
+                    </persName>
+                      <birth when="c1820"></birth>
+                      <death when="c1868"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Kentucky, attorney and judge. Frankfort, Kentucky native. Son of Judge Ben Monroe. Attorney in Louisville, Kentucky from 1852 to 1855. Member of the Louisville City Council for the 5th Ward from 1856 to 1857. President of the Louisville Board of Councilman in 1857. Judge of the Jefferson County Court from 1858 to 1866.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>&quot;Andrew Monroe&quot; in <em>The Encyclopedia of Louisville</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 2001), 625; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, 6th Ward City of Louisville, p. 119; &quot;Judge Andrew Monroe,&quot; <em>The Louisville Daily Journal</em> (Louisville, Ky.), May 29, 1868, p. 4.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
