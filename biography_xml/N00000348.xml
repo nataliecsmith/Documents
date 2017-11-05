@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000348">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">F. S. J. Ronald</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000348">
+                    <persName>
+                      F. S. J. Ronald
+                        (Louisville tobacco merchant &amp; postmaster)
+                    </persName>
+                      <birth when="1812"></birth>
+                      <death when="1893-10-31"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, tobacco merchant and postmaster. Virginia native. Deputy Sheriff of Jefferson County, Kentucky, in 1847. Owned Louisville Tobacco and Cotton Warehouse Co. Incorporated 1854. Postmaster in Louisville from 1856 to 1861. Partner in the tobacco firm of Ronald &amp; Brent in 1860 and 1861 in partnership with John W. Brent.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>&quot;Kentucky Deaths and Burials, 1843-1970,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FWTP-TXM, F. S. J. Ronald; p 120 ln 84450; FHL microfilm 2,022,071; <em>Acts of the General Assembly of the Commonwealth of Kentucky, Passed. Volume 1</em> (Frankfort: A.G. Hodges and Company, 1849); <em>Eighth Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Sixth Ward, p. 2. Henry Tanner, ed., <em>Tanner’s Louisville Directory and Business Advertiser for 1861</em> (Louisville: Directory Publication and Advertising Agency, 1861), 209. <em>Record of Appointment of Postmasters, 1832-1971</em> (National Archives Microfilm Publication, M841, Roll 46: Kentucky, Grayson - Knott Counties), Records of the Post Office Department, Record Group Number 28, National Archives, Washington D.C., p. 102.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
