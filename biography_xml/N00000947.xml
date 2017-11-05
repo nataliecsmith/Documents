@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000947">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George W. Payne, Sr.</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000947">
+                    <persName>
+                      George W. Payne, Sr.
+                        (Rockcastle County, Kentucky, plasterer, soldier, and jailer)
+                    </persName>
+                      <birth when="1829-11-30"></birth>
+                      <death when="1906-09-28"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Rockcastle County, Kentucky, plasterer, soldier, and jailer. Tennessee native. Married to Elizabeth Sowder Payne on May 27, 1858. Father of David C. Payne, Moses Payne, Reuben Payne, and Nancy B. Payne. Plasterer in Rockcastle County in in 1860. Corporal and private in the 3rd Kentucky Volunteer Infantry Regiment from October 1861 to October 1864. Reduction in rank to private in February 1862. Captured at the Battle of Stones River in December 1862 and paroled January 1863. Jailer in Rockcastle County from 1863 to 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Rockcastle County, p. 37; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Rockcastle County, Voting District 1, p. 49; <em>Kentucky Birth, Marriage, and Death Records, 1852-1910</em>, Ancestry, Marriages, Rockcastle County, Kentucky, May 27, 1858; <em>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</em>, NARA RG 94, Microfilm Series M397, Roll 0175; <em>Find A Grave</em>, &quot;George W. Payne (1829-1906),&quot; Memorial #6990735, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=6990735 (accessed August 24, 2017); KYR-0001-029-0544; KYR-0001-007-0219; KYR-0001-004-0707.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
