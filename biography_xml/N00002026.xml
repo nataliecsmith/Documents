@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002026">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Alexander Barnett Baird</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002026">
+                    <persName>
+                      Alexander Barnett Baird
+                        (Ohio Co. Ct. Judge)
+                    </persName>
+                      <birth when="1821-02-12"></birth>
+                      <death when="1892-03-20"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Ohio County, Kentucky, farmer and county judge. Ohio County native. Son of James and Rebecca Barnett Baird. Married Sallie M. Barnett Baird on December 24, 1844. Father of Laura Baird Purcell, Clinton T. Baird, Naomi Baird Hill, Prudie Baird Taylor, Alexander B. Baird, Jr., Lillie Baird, and Ada Baird. Deputy Sheriff of the Ohio County Court in 1843. Operated flatboats on the Ohio River and Mississippi River to New Orleans from 1844 to 1846. County assessor of the Ohio County Court in 1847. Magistrate of the Ohio County Court in 1851. County Judge of the Ohio County Court from 1854 to 1862. Hotel keeper in Hartford, Kentucky, in 1860. Tobacco agent for a New York, New York, firm from 1861 to 1870.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>J. H. Battle, W. H. Perrin, &amp; G. C. Kniffin. <em>Kentucky: A History of the State</em> ,<br>
+ 2nd ed. (Louisville and Chicago: F. A. Battey and Company, 1885), 929-30; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ohio County, Town of Hartford, p. 201;  <em>Find A Grave</em>, &quot;Alexander Barnett Baird (1821 - 1892),&quot; Memorial #32065367, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=32065367 (accessed September 21, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
