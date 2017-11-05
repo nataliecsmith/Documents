@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00003088">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas Todd</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00003088">
+                    <persName>
+                      Thomas Todd
+                        (Shelby County, Kentucky, farmer, soldier, and politician)
+                    </persName>
+                      <birth when="1820-12-20"></birth>
+                      <death when="1909-04-29"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Shelby County, Kentucky, farmer, soldier, and politician. Lincoln County, Kentucky, native. Son of Charles S. Todd and Letitia Shelby Todd. Married to Jane Smith Todd on January 14, 1841. Father of Charles S. Todd and Henry S. Todd. Married to Susie H. Jacobs Todd on October 21, 1851. Married to Elizabeth D. Bonney on May 10, 1860. Father of Katherine S. Todd, C. D. Bonney Todd, Bessie V. Todd, Charles S. Todd, and Letitia S. Todd. Captain in the 3rd Kentucky Regiment in the Mexican-American War in 1847. Member of the Masonic Order in Kentucky from 1842 to 1909. Member the House of Representatives of the Kentucky General Assembly in Shelby County in 1850. Managed his mother&#39;s Stockdale farm, with his brother Shelby Todd, buying it outright in 1858. Owned eight enslaved persons in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>E. Polk Johnson, <em>A History of Kentucky and Kentuckians: The Leaders and Representative Men in Commerce, Industry, and Modern Activities, Volume 3</em> (Chicago, IL: Lewis Publishing Company, 1912), p. 1501-03; Lewis Collins and Richard H. Collins, <em>History of Kentucky, Volume II</em> (Covington, KY: Collins and Company, 1878), p. 709; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Shelby County, District 1, p. 59; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Shelby County, District 1, p. 27; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Shelby County, Shelby County, Precinct 1, p. 1; &quot;Kentucky, County Marriages, 1797-1954,&quot; database with images, FamilySearch (https://familysearch.org/ark:/61903/1:1:QKJ9-LKQ2 : accessed 21 July 2017), Thomas Todd and Jane Smith, 14 Jan 1841; citing Shelby, Kentucky, United States, Madison County Courthouse, Richmond; FHL microfilm 259, 288; &quot;Kentucky Marriages, 1785-1979,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FWTY-HZD : 4 December 2014), Thomas Todd and Susan H. Jacobs, 21 Oct 1851; citing Boyle, Kentucky, reference Pg88 VoL2; FHL microfilm 191, 806; &quot;Kentucky Marriages, 1785-1979,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:F4WD-9BW : 4 December 2014), Thomas Todd and Elizabeth D. Bonney, 10 May 1860; citing , Shelby, Kentucky, reference ; FHL microfilm 259, 292.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
