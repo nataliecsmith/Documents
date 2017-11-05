@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN002002">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James Robert Dupuy</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N002002">
+                    <persName>
+                      James Robert Dupuy
+                        (Commonwealth&#39;s Atty Louisville (7th) district)
+                    </persName>
+                      <birth when="1831-08-04"></birth>
+                      <death when="1912-05-17"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, attorney. Shelby County, Kentucky, native. Married to Florence Low Dupuy. Father of in Andrew L. Dupuy, Robert Y. Dupuy, and Florence Dupuy. Attended law school at Harvard University in Cambridge, Massachusetts, from 1856 to 1857 and at Transylvania University in Lexington, Kentucky in 1857.  Elected Commonwealth&#39;s Attorney for the Seventh Judicial District of Kentucky in 1862. </p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Roger M. Grace, “J. R. Dupuy: Most Obscure DA in Los Angeles County’s History,” <em>Perspectives, Los Angeles Metropolitan News-Enterprise</em>, p. 7, November 4, 2006. <em>A Catalogue of the Officers and Students of Harvard University, for the Academical Year 1856-57: Second Term</em> (Cambridge, Mass.: John Bartlett, 1857), 51. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 9, p. 2. California Department of Health and Welfare, <em>California, Death Index, 1905-1939</em>, p. 752. Available online via California Vital Records-Vitalsearch (www.vitalsearch-worldwide.com), The Vitalsearch Company Worldwide, Inc., Pleasanton, California (accessed June 18, 2016). <em>Find A Grave</em>, &quot;James Robert Dupuy (1831-1912),&quot; Memorial #90140026, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=90140026 (accessed August, 8, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
