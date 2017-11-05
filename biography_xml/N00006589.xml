@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006589">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Charles H. Lee, Sr.</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006589">
+                    <persName>
+                      Charles H. Lee, Sr.
+                        (Mason County, Kentucky, farmer and attorney)
+                    </persName>
+                      <birth when="1818-06-20"></birth>
+                      <death when="1891-12-16"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Mason County, Kentucky, farmer and attorney. Leaverett, Massachusetts, native. Son of Charles and Sarah Hobart Lee. Married to Caroline Dudley Lee in 1843. Father of Rosa M. Lee and Charles H. Lee, Jr. Married to Martha Thomas Less in 1854.  Married to Julia C. Ball Lee in 1859. Father of George Dudley Lee and Fannie S. Lee. Moved to Vermont in 1829 to pursue education. Teacher in Vermont, Massachusetts, and New Jersey. Moved to Mason County in 1841. Teacher in Mason County from 1841 to 1846. County surveyor in Bracken County, Kentucky. from 1846 to 1850. Farmer in Bracken County in 1850. Read law and admitted to the bar in 1851. Attorney in Bracken County from 1851 to 1857. Judge of the Bracken County Court from 1857 to 1861. Returned to practicing law in Bracken County. Moved to Falmouth, Kentucky, in 1865, and continued work as an attorney. Member of the Presbyterian Church.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Bracken County, p. 438B-439A; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Pendleton County, Falmouth, p. 2; <em>Find A Grave</em>, &quot;Charles H. Lee (1818-1891),&quot; Memorial #54424197, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=54424197&amp;ref=acom (accessed August 25, 2017); W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em> (Louisville: F. A. Battey and Company, 1887), 834.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
