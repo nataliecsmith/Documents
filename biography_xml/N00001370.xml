@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001370">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Z. Westley Bugg</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001370">
+                    <persName>
+                      Z. Westley Bugg
+                        (Ballard County, Kentucky, attorney)
+                    </persName>
+                      <birth when="1830-01-16"></birth>
+                      <death when="unknown"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Ballard County, Kentucky, attorney. Sumner County, Tennessee, native. Son of Richard F. Bugg and Prudence M. Chappell Bugg. Married to Mary A. Jackson Bugg. Father of Lucy P. Bugg, and Richard Bugg. Relocated with family to Trigg County, Kentucky, in 1839. Teacher in the Christian County, Kentucky, common schools. Read law under Judge Charles S. Marshall in Ballard County. Admitted to the bar in 1856 and pursued his legal practice in Ballard County. Attorney in Ballard County in 1860. Secretary of the Masonic Order of Kentucky at Blandville Lodge, No. 142, in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, Blandville, p. 2. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Ballard County, Blandville, p. 1-2. J. H. Battle, W. H. Perrin, and G. C. Kniffin, <em>Kentucky: A History of the State</em>, Part II (Louisville: F. A. Battey Publishing Company, 1885), p. 115. <em>Proceedings of the Grand Lodge of Kentucky, at a Grand Annual Communication, Held in the City of Louisville, on Monday, the 16th Day of October, 1860</em> (Frankfort, Ky.: A. G. Hodges &amp; Co., 1860), p. 124.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
