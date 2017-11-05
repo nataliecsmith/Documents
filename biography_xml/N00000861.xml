@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000861">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas B. Monroe, Sr.</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000861">
+                    <persName>
+                      Thomas B. Monroe, Sr.
+                        (Provisional Congress of the Confederate States)
+                    </persName>
+                      <birth when="1791-10-27"></birth>
+                      <death when="1865-12-23"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>A Virginia-born attorney and politician. Family moved to Scott County, Kentucky circa 1793 and, upon reaching adulthood, he settled in Barren County. Served as a member of the Kentucky House of Representatives in 1816. Studied law and began law practice. Moved to Frankfort, Kentucky. Graduated from the law department of Transylvania University in 1821. Married to Eliza Palmer Adair Monroe. Father of Victor Monroe, Katherine “Kitty” Adair Monroe, Polly/Mary Hardin Monroe, Elizabeth Adair Monroe Leovy, Thomas Bell Monroe, Jr., Benjamin James Monroe, and William W. Monroe. Owned three enslaved persons in 1850. Served as Kentucky Secretary of State from 1823 to 1824. Served as reporter for the Kentucky Court of Appeals in 1825. Served as U.S. District Attorney for the District of Kentucky from 1831 to 1834. Served as U.S. District Judge for the District of Kentucky from 1834 until 1861. Engaged as professor of law for the University of Louisiana, Transylvania University, and the Western Military Academy. Taught private law classes at his Frankfort, Kentucky estate—Montrose. Served as a member of the Provisional Congress of the Confederate States from 1861 to 1862. Lived as a refugee throughout the South from 1861 to 1865, living in Canton, Mississippi; Marietta Georgia; Abbeville, South Carolina; and Pass Christian, Mississippi. Died on December 23, 1865 in Pass Christian, Mississippi.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Ezra J. Warner and W. Buck Yearns, <em>Biographical Register of the Confederate Congress</em> (Baton Rouge: Louisiana State University Press, 1975), 177-178; <em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 547-548; H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 158; “Intelligence and Miscellany: Appointments,” <em>The American Jurist</em>, vol 6 (Freeman &amp; Bolles, 1831), 234; Lewis Collins and Richard Collins, <em>History of Kentucky</em>, vol. 1 (Collins &amp; Company, 1882), 353; “Death of Hon. Thos. B. Monroe,” <em>Daily Courier</em> (Louisville, Ky.), January 4, 1866; “Judge Thomas Bell Monroe,” (https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=11347241) (accessed January 26, 2017); Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Franklin County, District No 2; Seventh Manuscript Census of the United States (1850), Slave Schedules, Kentucky, Franklin County, District No. 2; Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Franklin County, District No 2, p. 96-97.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
