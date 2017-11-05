@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002581">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas Bell Monroe, Jr.</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002581">
+                    <persName>
+                      Thomas Bell Monroe, Jr.
+                        (Sec State - Magoffin)
+                    </persName>
+                      <birth when="1833-07-03"></birth>
+                      <death when="1862-04-06"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Frankfort, Kentucky, attorney, politician, and soldier. Frankfort native. Son of Judge Thomas Bell Monroe, Sr. Educated at the University of Louisiana in New Orleans, Louisiana. Married Elizabeth C. Grier on November 15, 1859. Practiced law in Lexington, Kentucky, in 1849. Editor of the the <em>Kentucky Statesman</em> in Lexington in 1856. Elected mayor of Lexington in 1859. Secretary of State under Beriah Magoffin from August 30, 1859, to October 1, 1861. Major of the 4th Kentucky Volunteer Infantry (C.S.A.). Killed in Action on April 6, 1862 at the Battle of Shiloh.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Ed Porter Thompson, <em>History of the Orphan Brigade</em>, (Louisville: Lewis N. Thompson, 1898), 458-66.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
