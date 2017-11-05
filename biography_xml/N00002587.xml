@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002587">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas Tyler Alexander</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002587">
+                    <persName>
+                      Thomas Tyler Alexander
+                        (Adair County, Kentucky, attorney, politician, judge, and provost marshal)
+                    </persName>
+                      <birth when="1823-07-30"></birth>
+                      <death when="1888-03-24"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Adair County, Kentucky, attorney, politician, judge, and provost marshal. Henry County, Virginia, native. Son of Joseph Alexander and Sarah Bouldin Alexander. Married to Ellen C. Alexander. Graduated from Princeton College and the University of Louisville Law School. Attorney in Burksville, Kentucky, in 1850. Owned one enslaved person in 1850. Member of the Senate of the Commonwealth of Kentucky in Adair County from 1859 to 1862 and 1863 to 1865. Attorney in Adair County in 1860. Owned seven enslaved persons in 1860. Provost marshal of the fourth district of the Commonwealth of Kentucky from May 1863 to December 1863. Judge of Fifteenth Judicial District of the Commonwealth of Kentucky from 1864 to 1874.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Cumberland County, Burkesville, p. 279. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Cumberland County, Cumberland, p. 369. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Adair County, District 1, page 61. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Adair County, District 1, page 1. Lewis Collins and Richard H. Collins, History of Kentucky, Volume II (Covington, KY: Collins and Company, 1878) p. 32. &quot;Will Arrive To-day: The Remains of Judge Alexander to be Interred in Cave Hill,&quot; <em>Courier-Journal</em> (Louisville, Ky.), March 26, 1888, p. 5. <em>Reports of Bvt. Brig. Gen. D. C. McCallum, Director and General manager of the Military Railroads of the United States, and The Provost Marshal General</em> (Washington: Government Printing Office, 1866), p. 151. Michael C. Watson, comp., <em>An Adair County, Kentucky History</em> (Columbia, Ky.: Watson Publications, 2001), p. 56. <em>Find A Grave</em>, &quot;Thomas Tyler Alexander (1823-1888),&quot; Memorial #88555432, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=88555432 (accessed March 16, 2017). KYR-0001-004-1309. KYR-0001-029-0557.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
