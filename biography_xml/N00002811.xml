@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002811">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Michael Henry Owsley</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name></name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002811">
+                    <persName>
+                      Michael Henry Owsley
+                        (Cumberland County, Kentucky, attorney and soldier)
+                    </persName>
+                      <birth when="1834-12-10"></birth>
+                      <death when="1891"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Cumberland County, Kentucky, attorney and soldier. Native of Cumberland County. Married Ellen Letcher in 1865. Graduated from Centre College in 1854 and the University of Louisville in 1856.  Family owned seventeen enslaved persons in 1860. Captain in the First Kentucky Volunteer Cavalry Regiment in 1861. Major of Fifth Kentucky Volunteer Calvary Regiment from 1861 to 1862. Commonwealth&#39;s attorney for the Eighth Judicial District from 1862 to 1868.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>John J. McAfee, <em>Kentucky Politicians. Sketches of Representative Corncrackers and other Miscellany</em> (Louisville, KY: The Courier Journal Job Printing Company, 1886), 128-130; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Cumberland County, Burkesville, p. 279; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Cumberland County, Burkesville, District 1, p. 72; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Garrard County, Lancaster, District 3, p. 72; <em>Find A Grave</em>, &quot;Judge Michael Henry Owsley (1834-1891),&quot; Memorial #91718641, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=91718641 (accessed May, 25, 2017); Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Cumberland County, District 2, p. 2; Francis B. Heitman, <em>Historical Register and Dictionary of the United States Army</em> (Washington, D.C.: Government Printing Office, 1903), volume 2, p. 134; <em>Organization Index to Pension Files of Veterans who served between 1861 and 1900</em>, Civil War Pensions Index, roll no. 171</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
