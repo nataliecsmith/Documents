@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000526">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William H. Towne</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000526">
+                    <persName>
+                      William H. Towne
+                        (Boston, MA Deeds Commissioner)
+                    </persName>
+                      <birth when="c1840"></birth>
+                      <death when="c1924"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Boston, Massachusetts, clerk. Massachusetts native. Son of C. F. Towne. Commissioner of Deeds for the Commonwealth of Kentucky in Massachusetts in 1864.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Consolidated Lists of Civil War Draft Registration Records</em> (<em>Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865</em>); Record Group: 110, Records of the Provost Marshal General&#39;s Bureau (Civil War); Collection Name: Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records); NAI: 4213514; Archive Volume Number: 2 of 4, Massachusetts, Suffolk County, Fourth District, May/June 1863, p. 653; Department of Public Health, Registry of Vital Records and Statistics. Massachusetts Vital Records Index to Deaths [1916–1970]. Volumes 66–145, p. 223; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Massachusetts, Boston Ward 10, p. 109.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
