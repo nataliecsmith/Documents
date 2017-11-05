@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005489">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">William Henry Seward</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005489">
+                    <persName>
+                      William Henry Seward
+                        (New York governor, attorney and politician)
+                    </persName>
+                      <birth when="1801-05-16"></birth>
+                      <death when="1872-10-10"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>New York governor, attorney and politician. Florida, New York, native. Married to Frances A. Seward. Father of Augustus H. Seward, Frederick W. Seward, William H. Seward, Jr., and Frances A. Seward. Graduated from Union College in 1820. Pursued legal education in Goshen, New York, and New York City, New York. Admitted to the bar in 1823 and commenced practice in Auburn, New York, with Judge Elijah Miller. Member of the Senate of New York State from 1830 to 1834. Member of the Anti-Masonic Party. Governors of New York State from 1839 to 1843. Member of the Whig Party. Member of the Senate of the United States of America  from 1849 to 1861. Member of the Republican Party after 1855. Unsuccessful candidate for president on the Republican Party ticket at the Chicago Convention in 1860. Secretary of State of the United States of America, under President Abraham Lincoln and President Andrew Johnson, from 1861 to 1869.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Peter Wisbey, &quot;William (Henry) Seward&quot; in <em>The Encyclopedia of New York</em>, Peter R. Eisenstadt and Laura-Eve Moss, eds. (Syracuse, N.Y.: Syracuse University Press, 2005), 1404-1405; Biographical Directory of the United States Congress, &quot;Seward, William H,&quot; (http://bioguide.congress.gov/scripts/biodisplay.pl?index=S000261) (accessed June 21, 2017); <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, New York, Cayuga County, Auburn 2d Ward, p. 250A-B; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, New York, Cayuga County, Second Ward City of Auburn, p. 30.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
