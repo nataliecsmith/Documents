@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008071">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Samuel W. Owens</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Jesse Nasta</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008071">
+                    <persName>
+                      Samuel W. Owens
+                        (Clerk Mason Cir. Ct.)
+                    </persName>
+                      <birth when="1821"></birth>
+                      <death when="1888-02-16"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Maysville, Kentucky, attorney. Kentucky native. Married Julia Owens. Father of Sally Owens and Alice Owens. Attorney in Maysville in 1850. Clerk of the Mason Circuit Court in Maysville in 1860. Employed Margaret Callaghan and Salan Rue as domestic servants in Maysville in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Acts of the General Assembly of the Commonwealth of Kentucky Passed at the Adjourned (January, 1869) Session of the General Assembly</em>, (Frankfort, KY: S.I.M. Major, Public Printer, 1869), 331; <em>Find A Grave</em>, &quot;Samuel W. Owens (1821 - 1888),&quot; Memorial #94102566, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=94102566&amp;ref=acom (accessed 21 Jul 2017); <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Mason County, City of Maysville District No. 1, p. 47; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Mason County, 2nd Ward Maysville, p. 45.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
