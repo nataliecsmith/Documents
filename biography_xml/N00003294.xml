@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00003294">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James P. Flint</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00003294">
+                    <persName>
+                      James P. Flint
+                        (Hopkinsville, Kentucky, merchant, tailor, and state agent)
+                    </persName>
+                      <birth when="c1816"></birth>
+                      <death when="unknown"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hopkinsville, Kentucky, merchant, tailor, and state agent. Virginia native. Married to Fannie N. Flint. Father of Bryan Y. Flint, George A. Flint, Emma P. Flint, John T. Flint, and Eliza Flint, James B Flint. Merchant and tailor in Hopkinsville in 1860. Notary public in Louisville in 1864. Commissioner and Agent for the Commonwealth of Kentucky from April 1864 to 1866. Lived in Louisville in 1865. Author of the December 20, 1865, report entitled, &quot;Report of the State Agent for Kentucky, in Regard to Credits on Drafts and Certificates for Slaves Mustered into the U.S. Service.&quot;</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Christian County, Hopkinsville, p. 22; <em>Edwards&#39; Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, Business firms, Etc., Etc., in the City of Louisville, For 1865-6</em> (Louisville: Edwards, Greenough &amp; Deved, 1866), p. 302; Tony Curtis, &quot;Black Enlistment: Kentucky Was Against it, Before it Was Mostly Against it,&quot; <em>Civil War Governors of Kentucky</em> (blog), Kentucky Historical Society, January 8, 2015, (http://civilwargovernors.org/black-enlistment-kentucky-was-against-it-before-it-was-mostly-against-it/); KYR-0001-007-0339.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
