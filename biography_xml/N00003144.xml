@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00003144">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Samuel Knox, Sr.</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00003144">
+                    <persName>
+                      Samuel Knox, Sr.
+                        (St. Louis, Missouri, attorney, councilman, and politician/US Congress)
+                    </persName>
+                      <birth when="1815-03-21"></birth>
+                      <death when="1905-03-07"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>St. Louis, Missouri, attorney, councilman, and politician. Blandford, Massachusetts, native. Graduated from Williams College in 1836. Graduated from Harvard Law School in 1838. Moved to St. Louis in 1838. Married to Mary Kurr Knox on March 18, 1845. Father of Samuel Knox, Jr., Hannah S. Knox, Reuben Knox, Henry Knox, and Mary Knox. City Councilman in St. Louis in 1845. Attorney in St. Louis. Partner at the law firm of Knox &amp; Smith in 1864, 1865, and 1866. Member of the United States House of Representatives from the first district of Missouri from 1864 to 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Biographical Directory of the United States Congress</em>, s.v. “Knox, Samuel,” (http://bioguide.congress.gov/scripts/biodisplay.pl?index=K000297) (accessed March 30, 2017); <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Massachusetts, Hampden, Springfield, p. 223; <em>St. Louis, Missouri, City Director, 1866</em>, Edward, Greenough, &amp; Deved, pub. (St. Louis: Edwards, Greenough, &amp; Deved, 1866), p. 516 (accessed via Ancestry.com); <em>Missouri Marriage Records</em>, Jefferson City, MO, USA: Missouri State Archives. Microfilm, 1845, p. 156 (accessed via Ancestry.com); <em>Find A Grave</em>, &quot;Samuel Knox (1815-1905),&quot; Memorial #7481758, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=7481758&amp;ref=acom (accessed March 30, 2017); KYR-0001-007-0321.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
