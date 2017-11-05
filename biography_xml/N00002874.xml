@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002874">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Ephraim Whitesides</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Krista Kinslow</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Krista Kinslow</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Krista Kinslow</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Krista Kinslow</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002874">
+                    <persName>
+                      Ephraim Whitesides
+                        (Frankfort, Kentucky, carpenter and assistant keeper of the penitentiary)
+                    </persName>
+                      <birth when="1815-09-14"></birth>
+                      <death when="1886-01-23"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Frankfort, Kentucky, carpenter and assistant keeper of the penitentiary. Oldham County, Kentucky, native. Married Martha Rankin Whitesides on January 1, 1837. Father of Addie Whitesides, Neville Whitesides, and Allen Whitesides. Relocated to Frankfort in 1851.  Assistant keeper of the State Penitentiary of the Commonwealth of Kentucky from 1851 to 1870. Member and deacon of the Baptist Church in Frankfort. Carpenter in Frankfort in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, Frankfort district, p. 112; &quot;Death of Mr. E. Whitesides,&quot; <em>Frankfort Roundabout</em> (Frankfort, Ky.), January 30, 1886; <em>Find A Grave</em>, &quot;Ephraim Whitesides (1815-1886),&quot; Memorial #57969701, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=57969701 (accessed July 19, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
