@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000959">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Benjamin Singleton</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000959">
+                    <persName>
+                      Benjamin Singleton
+                        (Marshall County, Indiana, farmer and soldier)
+                    </persName>
+                      <birth when="c1838"></birth>
+                      <death when="1862-12-16"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Marshall County, Indiana, farmer and soldier. Indiana native. Married to Dovey Elizabeth Singleton on September 13, 1859. Father of Francis L. Singleton and Niles A. Singleton. Farm laborer in Marshall County, Indiana, in 1860. Private in the 73rd Indiana Volunteer Infantry Regiment from August 1862 to December 1862. Died of disease at Nashville, Tennessee, on December 17, 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Marshall County, p. 477; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marshall County, Polk, p. 10; <em>Organization Index to Pension Files of Veterans who served between 1861 and 1900,</em> Civil War Pensions Index, Ancestry;  <em>U.S. National Cemetery Interment Control Forms, 1928-1962</em>, Ancestry, Nashville, Tennessee National Cemetery, 1862; <em>Case Files of Approved Pension Applications of Widows and Other Dependents of Civil War Veterans, ca. 1861 - ca. 1910</em>, NARA RG 15, NARA Catalog ID 300020, Roll WC134434-WC134466; <em>Report of the Adjutant General of the State of Indiana</em>, vol. VI (Indianapolis: samuel M. Douglass, State Printer, 1866), 191.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
