@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00003273">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Francis Henry Dallam</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Krista Kinslow</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Krista Kinslow</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00003273">
+                    <persName>
+                      Francis Henry Dallam
+                        (attorney, henderson )
+                    </persName>
+                      <birth when="1812"></birth>
+                      <death when="1866-03-31"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Henderson, Kentucky, attorney. Hopkinsville, Kentucky, native. Son of Nathan Smith Dallam and Sarah Hicks Dallam. Married Camilla Barbour Dallam. Studied law under Frank Blair in Frankfort, Kentucky. Admitted to the bar in Frankfort in 1833. Practiced law in Livingston County, Kentucky, from 1833 to 1853. Member of the House of Representatives of the Commonwealth of Kentucky from Livingston County from 1844 to 1845. Practiced law in Henderson from 1853 to 1866. Partner in the law firm of Hughes, Dallam, and Hughes with Willis G. Hughes and Samuel Casey Hughes.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 888-89; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, KY: Collins &amp; Co., 1874), 479; <em>History of Union County, Kentucky</em> (Evansville, In: Courier Co., Printers, Binders and Engravers, 1886), 193; &quot;Union Meeting,&quot; <em>Louisville Daily Courier</em>, November 15, 1860. </p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
