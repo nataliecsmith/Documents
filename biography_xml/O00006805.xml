@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00006805">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">First National Bank of Lexington</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00006805">
+                    <orgName>First National Bank of Lexington</orgName>
+                      <event type="begun" when="1865-01-26">1865-01-26</event>
+                      <event type="ended" when="c1913">c1913</event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Chartered on January 26, 1865. Opened for business on March 13, 1865. First president was Jacob Hughes. First cashier was Thomas D. Mitchell. Board of directors included Jacob Hughes, William R. Estill, William Warfield, Stanley F. Tebbs, and Benjamin F. Buckner. First national banking association established in Lexington.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>William M. Ambrose, First Security National Bank &amp; Trust Company, (Lexington: Limestone Press, 2007); Lexington History Museum, &quot;First National Bank of Lexington,&quot; (http://lexhistory.org/wikilex/first-national-bank-1865-1913) (accessed June 1, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
