@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002285">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Chapeze</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002285">
+                    <persName>
+                      John Chapeze
+                        (Ohio County, Kentucky, attorney and Commonwealth&#39;s Attorney for the 3rd Judicial District of Kentucky)
+                    </persName>
+                      <birth when="1816-12-14"></birth>
+                      <death when="1882-05-09"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Ohio County, Kentucky, attorney. Bardstown, Kentucky native. Married to Rachel Anna Grider Chapeze. Father of Elizabeth Chapeze. Attorney in Muhlenberg County, Kentucky, in 1850. Attorney in Ohio County in 1860. Commonwealth&#39;s attorney for the 3rd Judicial District of the Commonwealth of Kentucky from 1862 to 1866.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Muhlenberg County; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ohio County, Hartford, p. 197; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Ohio County, Town of Hartford, p. 9; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1862,” in <em>1863 Kentucky Documents, Legislative Document No. 24</em>. (Frankfort, Ky.: Wm. E. Hughes, State Printer, 1863), 298-306; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1863,” in <em>1864 Kentucky Documents, Legislative Document No. 10</em>. (Frankfort, Ky.: Wm. E. Hughes, State Printer, 1864), 301-306; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1864,” in <em>1865 Kentucky Documents, Legislative Document No. 1</em>. (Frankfort, Ky.: George D. Prentice, State Printer, 1865), 9-12; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1865,” in <em>1865/66 Kentucky Documents, Legislative Document No. 1</em>. (Frankfort, Ky.: George D. Prentice, State Printer, 1866), 9-12; “Annual Report of the Auditor of Public Accounts of the State of Kentucky, for the Fiscal Year Ending October 10, 1866,” in <em>1866 Kentucky Documents, Legislative Document No. 1</em>. (Frankfort, Ky.: John H. Harney, Public Printer, 1866), 347-350; <em>Find A Grave</em>, &quot;Col. John Crozier Chapeze (1816-1882),&quot; Memorial #32141216, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=32141216 (accessed August 2, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
