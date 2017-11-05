@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002051">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John Quincy Adams King</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Patrick A. Lewis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Hannah M. O&#39;Daniel</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Courtney Buchkoski</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002051">
+                    <persName>
+                      John Quincy Adams King
+                        (Paducah State Rep)
+                    </persName>
+                      <birth when="1825-05-26"></birth>
+                      <death when="1880-02-28"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Paducah, Kentucky, attorney and politician. Burkesville, Kentucky, native. Son of Milton King and Susan Wiles King. Married Leann Sophia King in 1854. Father of Mary Elizabeth King, Nancy Susan King, Ellen King, Leann Quincy King, and Goode King. Member of the House of Representatives of the Commonwealth of Kentucky from Cumberland County, Kentucky, in 1849 and from 1853 to 1855. Member of the Senate of the Commonwealth of Kentucky from McCracken County, Kentucky, from 1855 to 1859. Speaker of the Senate of the Commonwealth of Kentucky in 1857. Member of the House of Representatives of the Commonwealth of Kentucky from McCracken County from 1861 to 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>John Quincy Adams King Papers, 1847-1874, SC 66, Martin F. Schmidt Research Library, Kentucky Historical Society; G. Glenn Clift, <em>Governors of Kentucky, 1792-1942</em> (Cynthiana, Ky.: Hobson Press, 1942), 193-95; <em>Find A Grave</em>, &quot;John Quincy Adams King (1825 - 1880),&quot; Memorial #142491188, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=142491188 (accessed September 27, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
