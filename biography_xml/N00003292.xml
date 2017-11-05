@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00003292">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Charles A. Hollister Fletcher</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00003292">
+                    <persName>
+                      Charles A. Hollister Fletcher
+                        (Ohio and Iowa soldier)
+                    </persName>
+                      <birth when="1837-09-07"></birth>
+                      <death when="1877-01-02"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Ohio and Iowa soldier. Ohio native. Son of John C. Fletcher and Sarah Terrell Anthony Fletcher. Cadet at the United States Military Academy at West Point from January 1857 to 1861. Captain in the 1st Iowa Battery from August 1861 to January 1862. 2nd lieutenant, first lieutenant, captain and brevet major in the 1st United States Infantry. Officer of the Mustering and Dispersing Office in Louisville from 1864 to 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>U.S. Military Academy Cadet Application Papers, 1805-1866; (National Archives Microfilm Publication M688, 1 roll), Iowa, p. 78 (accessed via Ancestry.com); Francis B. Heitman, <em>Historical Register and Dictionary of the United States Army from its Organization</em>, Vol. 1, Section II, p. 277; <em>Find A Grave</em>, &quot;Charles Hollister Fletcher (1837-1877),&quot; Memorial #117842698, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=117842698&amp;ref=acom (accessed March 30, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
