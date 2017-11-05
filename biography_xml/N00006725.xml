@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006725">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Archibald Carson</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006725">
+                    <persName>
+                      Archibald Carson
+                        (Crab Orchard, Kentucky, constable, soldier, and justice of the peace)
+                    </persName>
+                      <birth when="c1821"></birth>
+                      <death when="1897-06-18"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Crab Orchard, Kentucky, constable, soldier, and justice of the peace. Kentucky native. Married to Elizabeth S. Carson. Father of Mary A. Carson, Samuel S. Carson, Elizabeth C. Carson, William Archibald Carson, Stewart M. Carson, and James H. Carson. Hotel keeper in Lincoln County in 1850. Constable in Crab Orchard in 1860. Corporal in the Rockcastle &amp; Lincoln Co. Home Guards from May 1862 to July 1862. Second lieutenant with the 8th Kentucky Volunteer Cavalry Regiment from September 1862 to September 1863. Justice of the peace for the Crab Orchard precinct of Lincoln County, Kentucky, in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedule, Kentucky, Lincoln County, District 2, p. 49.; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Lincoln County, Crab Orchard, p. 1; <em>Ninth Manuscript Census of the United States</em> (1870), Population schedule, Kentucky, Lincoln County, Crab Orchard, p. 5; <em>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</em>, NARA RG 94, Microfilm Series M397, Roll 0472; <em>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</em>, NARA RG 94, Microfilm Series M397, Roll 0088; <em>Find A Grave</em>, &quot;Arch Carson (1821-1897),&quot; Memorial #95240322, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=95240322&amp;ref=acom (accessed May 30, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
