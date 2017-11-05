@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005351">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Reverdy Johnson</title>
+          <respStmt>
+                <resp n="edited">Edited by:</resp>
+              <name>Anthony P. Curtis</name>
+            </respStmt>
+          <respStmt>
+                <resp n="created">Created by:</resp>
+              <name>Samuel T. Whittaker</name>
+            </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005351">
+                    <persName>
+                      Reverdy Johnson
+                        (Baltimore, Maryland, attorney and politician)
+                    </persName>
+                      <birth when="1796-05-21"></birth>
+                      <death when="1876-02-10"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Baltimore, Maryland, attorney and politician. Annapolis, Maryland, native. Married to Mary M. Johnson. Father of Camilla Johnson, Matilda Johnson, Emily C. Johnson, Reverdy Johnson, Jr., Louis E. Johnson, Ella Johnson, Bowie Johnson, and Edward C. Johnson. Graduate of St. John&#39;s College (Annapolis) in 1811. Admitted to the Maryland bar in 1815. Deputy attorney general for the state of Maryland from 1816 to 1817. Member of the Maryland State Senate from 1821 to 1829. Member of the Senate of the United States of America from 1845 to 1849. Member of the Whig Party. Attorney General of the United States, under President Zachary Taylor, from 1849 to 1850. Attorney in Baltimore in 1850 and 1860. Member of the Senate of the United States of America from Maryland from 1863 to 1868.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Biographical Directory of the United States Congress, &quot;Johnson, Reverdy,&quot; (http://bioguide.congress.gov/scripts/biodisplay.pl?index=j000169) (accessed May 8, 2017); <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Baltimore County, 10th Ward Baltimore City, p. 100B;<em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Baltimore County, 1st District, p. 174.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
