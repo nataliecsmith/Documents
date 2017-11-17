@@ -5,25 +5,17 @@
     <titleStmt>
         <title level="a" type="main">Marshall County, Kentucky</title>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name></name>
-            </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>        
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name></name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name></name>
-            </respStmt>
-          <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name>Patrick A. Lewis</name>
-            </respStmt>
-          <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>Anthony P. Curtis</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -56,7 +48,7 @@
                 <place xml:id="P00000910">
                     <placeName>
                         <location>
-                              <geo>36.85528 -88.35417</geo>
+                              <geo>36.8573 -88.3503</geo>
                             <settlement>Marshall County, Kentucky</settlement>
                         </location>
                     </placeName>
@@ -66,11 +58,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Seat at Benton. Located on the Tennessee River.</p>
+        <p>Seat at Benton, Kentucky. Located on the Tennessee River.</p>
 
     </body>
     <back>
-        <ab><bibl><p>Robert M. Rennick, <em>Kentucky Place Names</em> (Lexington: University Press of Kentucky, 1984), 189; “Graves County,” <em>The Kentucky Encyclopedia</em>, ed. John E. Kleber (Lexington: University Press of Kentucky, 1992), 611.</p>
+        <ab><bibl><p>Robert M. Rennick, <em>Kentucky Place Names</em> (Lexington: University Press of Kentucky, 1984), 189.</p>
 </bibl></ab>
     </back>
 </text>
