@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00007962">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">James Lindsey, Sr.</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00007962">
+                    <persName>
+                      James Lindsey, Sr.
+                        (Marshall County DOC clergyman)
+                    </persName>
+                      <birth when="1804-05-14"></birth>
+                      <death when="1891-03-28"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Marshall County, Kentucky, clergyman. North Carolina native. Married Tabitha Lindsey. Father of John S. Lindsey, Cornelius Lindsey, Allen K. Lindsey, Elisha Lindsey, Marlin Lindsey, and Noris Lindsey. Clergy of the Christian Church (Disciples of Christ) in Marshall County in 1850 and 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Marshall County, Unnamed District, p. 474 B; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marshall County, Unnamed District, p. 108; <em>Find A Grave</em>, &quot;Elder James William Lindsey (1804 - 1891),&quot; Memorial #31227860, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=31227860 (accessed October 25, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
