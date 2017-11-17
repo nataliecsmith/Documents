@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000267">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Calvin Fairbank</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000267">
+                    <persName>
+                      Calvin Fairbank
+                        (Abolitionist)
+                    </persName>
+                      <birth when="1816-11-03"></birth>
+                      <death when="1898-10-12"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Born in Pike, New York, in 1816. Began abolitionist activities while working on the Ohio River in 1837 in conjunction with Levi Coffman. Ordained by the Methodist Episcopal Church in 1842. Enrolled at Oberlin College in 1844. In conjunction with Delia Webster, Fairbank began planning to help enslaved people escape from the Lexington, Kentucky, area in 1844. Fairbank and Webster successfully transported the family of Lewis and Harriet Hayden from Lexington to Ripley, Ohio, in 1844, but were arrested when they returned to Kentucky. Fairbank was sentenced to fifteen years in the Kentucky State Penitentiary, but was pardoned after serving five years in 1849. In 1851, Fairbank helped another enslaved person escape from Kentucky into Indiana, but was arrested in Indiana by Kentucky officials. In 1852, Fairbank was again sentenced to fifteen years in the Kentucky State Penitentiary. In 1864, acting and Lieutenant Governor Richard T. Jacob pardoned Fairbank after a sustained petitioning campaign. Upon his release, Fairbank married his long-time fiancée Mandana Tileston.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Calvin Fairbank, <em>Rev. Calvin Fairbank During Slavery Times: How he “Fought the Good Fight” to Prepare “The Way”</em> (Chicago: R. R. McCabe &amp; Co., 1890). Randolph Paul Runyon, <em>Delia Webster and the Underground Railroad</em> (Lexington: University of Kentucky Press, 1998).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
