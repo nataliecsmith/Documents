@@ -5,13 +5,17 @@
     <titleStmt>
         <title level="a" type="main">James Downing</title>
           <respStmt>
-                <resp n="edited">Edited by:</resp>
-              <name></name>
-            </respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>        
           <respStmt>
-                <resp n="created">Created by:</resp>
-              <name>Patrick A. Lewis</name>
-            </respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -44,9 +48,9 @@
                 <person xml:id="N00005107">
                     <persName>
                       James Downing
-                        (Marshall co?)
+                        (Marshall co)
                     </persName>
-                      <birth when="unknown"></birth>
+                      <birth when="c1820"></birth>
                       <death when="unknown"></death>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -56,11 +60,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed the Marshall County, Kentucky, petition of John H. Dix in 1858.</p>
+        <p>Marshall County, Kentucky, farmer. Kentucky native. Son of William Downing and Elizabeth Downing. Farmer in Marshall County in 1850.</p>
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-020-1401.</p>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Marshall County, p. 483 B.</p>
 </bibl></ab>
     </back>
 </text>
