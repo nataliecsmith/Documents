@@ -4,6 +4,10 @@
       <fileDesc>
     <titleStmt>
         <title level="a" type="main">Greenup Circuit Court</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -35,13 +39,15 @@
             <particDesc>
                 <org xml:id="O00000383">
                     <orgName>Greenup Circuit Court</orgName>
+                      <event type="begun" when="unknown">unknown</event>
+                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Located in the 10th Judicial District of the Commonwealth of Kentucky. <em>Judge(s)</em>:  E. C. Phister and L. W. Andrews. <em>Commonwealth’s Attorney(s)</em>: R. H. Stanton and George M. Thomas. <em>Clerk(s)</em>: William Corum.</p>
+        <p>Located in the 10th Judicial District of the Commonwealth of Kentucky. Judge(s): E. C. Phister and L. W. Andrews. Commonwealth’s Attorney(s): R. H. Stanton and George M. Thomas. Clerk(s): William Corum.</p>
 
     </body>
     <back>
