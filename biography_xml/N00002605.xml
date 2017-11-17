@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002605">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Richard Henry Stanton</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hannah M. O&#39;Daniel</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hannah M. O&#39;Daniel</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002605">
+                    <persName>
+                      Richard Henry Stanton
+                        (Maysville, Kentucky, attorney and legal writer)
+                    </persName>
+                      <birth when="1812-09-09"></birth>
+                      <death when="1891-03-20"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Maysville, Kentucky, attorney and legal writer. Alexandria, District of Columbia, native. Married to Asenath Throop Stanton in 1833. Father of Henry Thompson Stanton, Clarence L. Stanton, Asenath Stanton, Charlotte E. Stanton, Ella Stanton, Richard Henry Stanton, Jr., and Maria Stanton. Attended Hallowell Academy in Alexandria. Worked as a bricklayer with his father, Richard H. Stanton. Moved to Kentucky in 1835. Studied law and admitted to the bar in 1839. Editor of the <em>Maysville Monitor</em> from 1839 to 1841. Member of the Democratic Party. Member of the Democratic Convention at Baltimore in 1844 and 1852. Postmaster of Maysville from 1845 to 1849. Owned one enslaved person in 1850. Member of the House of Representatives of the United States from 1849 to 1855. Presidential elector for James Buchanan in 1856. Commonwealth&#39;s attorney for the Tenth Judicial District of the Commonwealth of Kentucky from 1857 to 1862. Owned one enslaved person and hired one enslaved person in 1860. Compiled <em>The Revised Statutes of Kentucky, Volume II</em>, published in 1860. Arrested for disloyalty by General Nelson in October 1861 and released from custody in December 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>&quot;Judge Stanton,&quot; <em>The Evening Bulletin</em> (Maysville, Ky.), March 21, 1891. Lewis Collins and Richard H. Collins, <em>History of Kentucky, Volume II</em> (Covington, KY: Collins and Company, 1878), p. 561. J. Stoddard Johnson, “Henry T. Stanton,” <em>Register of the Kentucky State Historical Society</em> 14 (May 1916): p. 9. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Mason County, Maysville, District 2, p. 118. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Mason County, Maysville, District 2. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Mason County, Maysville, District 2, p. 166. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Mason County, Maysville, District 2, p. 21. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Mason County, Maysville, Ward 5, p. 5. Richard H. Stanton, compl., <em>The Revised Statutes of Kentucky, Approved and Adopted by the General Assembly, 1851 and 1852, and in Force from July 1, 1852; With all the Amendments Subsequently Enacted, and Notes of the Decisions of the Court of Appeals of Kentucky. And an Appendix, Containing All the Enactments of the Legislature Passed During the Session of 1859 and 1860, Volume II</em> (Cincinnati, OH: Robert Clarke and Co, 1860). Daniel S. Lamont, <em>The War of the Rebellion: A Compilation of the Official Records of the Union and Confederate Armies, Series II, Volume II</em> (Washington, D. C.: Government Printing Office, 1897), p. 913-914.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
