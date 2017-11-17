@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001597">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">George Washington Craddock, Sr.</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Courtney Buchkoski</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001597">
+                    <persName>
+                      George Washington Craddock, Sr.
+                        (Hart County, Kentucky, attorney and newspaperman)
+                    </persName>
+                      <birth when="1814-06-07"></birth>
+                      <death when="1896-04-08"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Hart County, Kentucky, attorney and newspaperman. Son of Jesse Craddock and Drusilla Earles Craddock. Married to Mary T. Murray Craddock on April 22, 1835. Father of Charles F. Craddock. Married to Harriet W. Theobald Craddock in January 1841. Father of Nannie T. Craddock, Laura Craddock, George Washington Craddock, Jr., Thomas J. Craddock, Samuel T. Craddock, and Hallie Craddock. Deputy Clerk of the Hart County Court and Hart Circuit Court in 1830. Admitted to the bar in 1835. Member of the House of Representatives of the Commonwealth of Kentucky from 1840 to 1842. Member of the Whig Party. Partner of James Harlan in Frankfort, Kentucky, in 1842. Attorney in Frankfort in 1850 and 1860. Owned three enslaved persons in 1850 and six in 1860. Co-owner of the Democratic newspaper <em>Kentucky Yeoman</em>, with S. I. M. Major, during the Civil War.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 88-90. Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, KY: Collins &amp; Co., 1874), 332.<em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Franklin County, District No. 2, p. 52A. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Franklin County, District No. 2. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 110. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Franklin County, Frankfort, p. 17. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, p. 46. “Passed Away: Death of the Venerable Judge G. W. Craddock,” <em>Courier-Journal</em> (Louisville, Ky.), April 9, 1896, p. 3.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
