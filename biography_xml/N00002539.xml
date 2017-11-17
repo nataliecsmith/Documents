@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002539">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Thomas N. Lindsey</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hannah M. O&#39;Daniel</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hannah M. O&#39;Daniel</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002539">
+                    <persName>
+                      Thomas N. Lindsey
+                        (Frankfort, Kentucky, attorney, politician, and paymaster general)
+                    </persName>
+                      <birth when="1808-12-22"></birth>
+                      <death when="1877-11-22"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Frankfort, Kentucky, attorney, politician, and paymaster general. Campbell County, Kentucky, native. Son of John B. Lindsey. Married to Isabella P. Weisiger Lindsey in 1834. Father of Daniel W.Lindsey, John B. Lindsey, Maria Lindsey, Lucy W. Lindsey, Thomas N. Lindsey, Mary B. Lindsey, and Joseph W. Lindsey. Married to Lucy Benham Applegate Lindsey. Educated at Augusta College in Augusta, Kentucky. Studied law under Richard Southgate in Newport, Kentucky. Admitted to the bar in 1832 and practiced in Newport. Relocated to Frankfort in 1835. Member of the House of Representatives of the Commonwealth of Kentucky in Franklin County from 1843 to 1845. Commonwealth&#39;s attorney in the Eighth Judicial District from 1845 to 1848. Member of the Whig Party. Representative for Franklin County at the 1849 Kentucky Constitutional Convention. Member of the Senate of the Commonwealth of Kentucky in Franklin County in 1850 and from 1855 to 1857. Member of the Democratic Party. Paymaster General of the Commonwealth of Kentucky in 1861.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 125-126. <em>Find A Grave</em>, &quot;Thomas N. Lindsey (1808-1877),&quot; Memorial #68194527, http://www.findagrave.com/memorial/68194527/thomas-noble-lindsey (accessed November 9, 2017). KYR-0001-019-0141. KYR-0001-029-0576.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
