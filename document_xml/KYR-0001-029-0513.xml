@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,9 +68,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>W. E. Ashbrook
-<lb/>Sheriff Kenton County
-<lb/>Rev <date when="1860">1860</date></p>
+   <p><persName ref="cwgk:N00000465">W. E. Ashbrook</persName><lb/>Sheriff <orgName ref="cwgk:O00000645">Kenton County</orgName><lb/>Rev <date when="1860">1860</date></p>
 <p><table rend="rules">
 <row>
 	<cell>Amt of Judgment for</cell>
@@ -86,8 +92,7 @@
 <lb/><date when="1863-08-14">Aug 14 1863</date>
 <lb/>Damages Remitted
 <lb/>J F Robinson<pb/></p>
-<p>Franklin Cir. Ct
-<lb/>$998.18 } Damages
+<p><orgName ref="cwgk:O00000376">Franklin Cir. Ct</orgName><lb/>$998.18 } Damages
 <lb/>W. E Ashbrook
 <lb/>Shff of Kenton
 <lb/>Remission Iss<hi rend="sup">d</hi>
