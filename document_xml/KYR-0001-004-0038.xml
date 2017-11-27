@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -61,9 +69,9 @@
  <text>
   <body>
    <p><date when="1863-09-06">Sept 6<hi rend="sup">th</hi> 1863</date>
-<lb/>Ripley Ohio</p>
-<p>Sir I Wish to know where to direct my letters to I want to rite to my husband and I want to know how long you think it will be before you can get my husband repreved I have a very hard time a getting a long with my poor little children I have no dipendence in the world only him and I am very anksus to have him out please ansure amediatley</p>
-<p>Sara E Bartley</p>
+<lb/><placeName ref="cwgk:P00005430">Ripley Ohio</placeName></p>
+<p>Sir I Wish to know where to direct my letters to I want to rite to my husband and I want to know how long you think it will be before you can get my <persName ref="cwgk:N00005427">husband</persName> repreved I have a very hard time a getting a long with my poor little children I have no dipendence in the world only him and I am very anksus to have him out please ansure amediatley</p>
+<p><persName ref="cwgk:N00005423">Sara E Bartley</persName></p>
   </body>
  </text>
 </TEI>
