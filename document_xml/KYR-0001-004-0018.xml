@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,24 +68,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>To Hon. Thomas E. Bramlette, Governor of Kentucky. Your Petitioner Joseph Henin and Charles Dupere, residents of Jefferson County Kentucky, most respectfully petition and state that One Paul DeGaris, a Frenchman and resident of the County of Nelson was indicted upon the charge attempting to runaway a negro girl, the property of Jack Dawson. He states that knowing the circumstances the said Joseph Henin was induced to go upon the bail bond of the said DeGarris, for his appearance at the next circuit court. He states that said Dawson was reputed to have the said girl as his mistress, where De Garis was suspected of having become too intimate with her, said Dawson resorted to this mode of procedure Viz of informing on him, in order to get rid of him, and drive him, either out of the country or in jail. The petitioner knowing, this would be the evidence in the case, and knowing the prosecution would fall to the ground he was induced to go on the bail bond. <hi rend="str">This was her</hi> The said De Garis being a millwright by profession, shortly after was induced to go to Memphis, <hi rend="str">and</hi> where he was injured in his business, when the war broke out he was included the Confederate States. He has not since then been able to find him. For ought he knows to the contrary he may have been killed long before judgement was taken on the forfeiture. When De Garis left here, he said he would<pb/></p>
-<p>without fail return and stand his trial. He states that last spring ^a year ago^ judgement having been rendered upon the bail bonds, he paid in same the sum of 30 per cent, the attorneys fee, and <unclear/> the remainder with the above named Chas Dupere as his surety. He states that on the <date when="1863-07-23">23 day of July 1863</date>, two exicutives Nos 632, &amp; 633, were issued from the Nelson Circuit Court ^one^ for $440.41 with a credit of $155.51 paid <date when="1862-05-31">31 May 1862</date> and the other for $524.84, at same date with credit of $169.84 paid <date when="1862-05-31">31 May 1862</date>. which credits are the payments for the 30 per cent for Commts atty fee.</p>
+   <p>To Hon. <persName ref="cwgk:N001000">Thomas E. Bramlette</persName>, Governor of <orgName ref="cwgk:O001025">Kentucky</orgName>. Your Petitioner Joseph Henin and <persName ref="cwgk:N00004235">Charles Dupere</persName>, residents of <placeName ref="cwgk:P001005">Jefferson County Kentucky</placeName>, most respectfully petition and state that One <persName ref="cwgk:N00003057">Paul DeGaris</persName>, a Frenchman and resident of the <placeName ref="cwgk:P001012">County of Nelson</placeName> was indicted upon the charge attempting to runaway a <persName ref="cwgk:N00002938">negro girl</persName>, the property of <persName ref="cwgk:N00003058">Jack Dawson</persName>. He states that knowing the circumstances the said <persName ref="cwgk:N00004234">Joseph Henin</persName> was induced to go upon the bail bond of the said DeGarris, for his appearance at the next circuit court. He states that said Dawson was reputed to have the said girl as his mistress, where De Garis was suspected of having become too intimate with her, said Dawson resorted to this mode of procedure Viz of informing on him, in order to get rid of him, and drive him, either out of the country or in jail. The petitioner knowing, this would be the evidence in the case, and knowing the prosecution would fall to the ground he was induced to go on the bail bond. <hi rend="str">This was her</hi> The said De Garis being a millwright by profession, shortly after was induced to go to <placeName ref="cwgk:P001003">Memphis</placeName>, <hi rend="str">and</hi> where he was injured in his business, when the war broke out he was included the <orgName ref="cwgk:O00003030">Confederate States</orgName>. He has not since then been able to find him. For ought he knows to the contrary he may have been killed long before judgement was taken on the forfeiture. When De Garis left here, he said he would<pb/></p>
+<p>without fail return and stand his trial. He states that last spring ^a year ago^ judgement having been rendered upon the bail bonds, he paid in same the sum of 30 per cent, the attorneys fee, and <unclear/> the remainder with the above named Chas Dupere as his surety. He states that on the <date when="1863-07-23">23 day of July 1863</date>, two exicutives Nos 632, &amp; 633, were issued from the <orgName ref="cwgk:O00000479">Nelson Circuit Court</orgName> ^one^ for $440.41 with a credit of $155.51 paid <date when="1862-05-31">31 May 1862</date> and the other for $524.84, at same date with credit of $169.84 paid <date when="1862-05-31">31 May 1862</date>. which credits are the payments for the 30 per cent for Commts atty fee.</p>
 <p>The state that they are poor men and if they are compelled to pay the above executives it will oppress them very much. The pray that you will interpose with your Executive clemency and remit the above forfeiture, and they will ever pray.</p>
 <p>J Henin
 <lb/>Charles Duperé</p>
-<p>State of Kentucky
-<lb/>Jefferson County</p>
+<p><placeName ref="cwgk:P001800">State of Kentucky
+</placeName><lb/>Jefferson County</p>
 <p>Sworn to before me by Joseph Henin and Charles Depere this <date when="1863-09-07">7 day of September 1863</date>.</p>
-<p>Jeff Brown
-<lb/>Notary Public Jeff. Co. Ky.<pb/></p>
-<p>To Hon Thos E. Bramlette, Governor of Ky, the Undersigned residents and citizens ^of Louisville^ of the city, &amp; of Jefferson County, respectfully petition unto your Excellency, that they have read the forgoing petition and affidavit of Jos Henin and Chas Dupere, and that they believe that it contains a true statement of the case mentioned. They state that they know the said peitioners, and that they are respectable and worthy gentlemen, and that they are poor and if compelled to pay said judgements and executors, it will oppress them very much. They pray that you will in the exercise of your Executive clemency, remit said forfeiture.
-<lb/>This <date when="1863-09-07">7 September 1863</date></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>T. Jack Conn
-<lb/>clk Jeff. Co. Court
-<lb/>State of Kentucky
-<lb/><cb n="2"/>Jeff. Brown
-<lb/>Lytle Buchanan
-<lb/>John Mumphoff</p>
+<p><persName ref="cwgk:N00004236">Jeff Brown
+</persName><lb/>Notary Public Jeff. Co. Ky.<pb/></p>
+<p>To Hon Thos E. Bramlette, Governor of Ky, the Undersigned residents and citizens ^of <orgName ref="cwgk:O001028">Louisville</orgName>^ of the city, &amp; of Jefferson County, respectfully petition unto your Excellency, that they have read the forgoing petition and affidavit of Jos Henin and Chas Dupere, and that they believe that it contains a true statement of the case mentioned. They state that they know the said peitioners, and that they are respectable and worthy gentlemen, and that they are poor and if compelled to pay said judgements and executors, it will oppress them very much. They pray that you will in the exercise of your Executive clemency, remit said forfeiture.<lb/>This <date when="1863-09-07">7 September 1863</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N002025">T. Jack Conn</persName><lb/>clk <orgName ref="cwgk:O001839">Jeff. Co. Court
+</orgName><lb/>State of Kentucky
+<lb/><cb n="2"/><persName ref="cwgk:N00004236">Jeff. Brown</persName><lb/><persName ref="cwgk:N00004689">Lytle Buchanan
+</persName><lb/><persName ref="cwgk:N00004688">John Mumphoff</persName></p>
 <p>I cheerfully join in this peitition</p>
 <p>Lovell H Rouseau
 <lb/>R H Rousseau
