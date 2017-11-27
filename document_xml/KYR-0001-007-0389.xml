@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -61,7 +69,7 @@
  <text>
   <body>
    <p><placeName ref="cwgk:P001006">State of Pennsylvania</placeName><lb/><placeName ref="cwgk:P00002584">City &amp; County of Philadelphia</placeName> } ss</p>
-<p>I, <persName ref="cwgk:N00002508">Theodore D. Rand</persName> a Commissioner of Deeds for the State of Kentucky, duly appointed and commissioned by the Governor thereof for the State of Pennsylvania, resident in the said City and County, do solemnly swear that I will well and faithfully and truly execute and perform all the duties of my station as such Commissioner under and by virtue of the Laws of the <orgName ref="cwgk:O001025">State of Kentucky</orgName></p>
+<p>I, <persName ref="cwgk:N00002508">Theodore D. Rand</persName> a Commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName>, duly appointed and commissioned by the Governor thereof for the State of Pennsylvania, resident in the said City and County, do solemnly swear that I will well and faithfully and truly execute and perform all the duties of my station as such Commissioner under and by virtue of the Laws of the <orgName ref="cwgk:O001025">State of Kentucky</orgName></p>
 <p>Theo D Rand</p>
 <p>Sworn and subscribed before me this <date when="1865-03-15">15<hi rend="sup">th</hi> day of March A. D 1865</date></p>
 <p><placeName ref="cwgk:P00001701">PHILADELPHIA PENNA</placeName>:</p>
