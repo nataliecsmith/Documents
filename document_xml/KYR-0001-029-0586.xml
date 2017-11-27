@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,40 +68,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency James F Robinson
-<lb/>Governor of the Commonwealth of Kentucky</p>
-<p>Your petitioners, being Jurors, officers of the Campbell Circuit Court, and others would respectfully represent that at the <date when="1862-02">Febuary term 1862</date> ^of said court^ James Johnson was put upon trial under an indictment charging him with being accessory to the crime of another having counterfeit money in possession with intent to pass the same &amp;c. That the verdict of the Jury was against him and he was adjudged to confinemet in the Penitentiary for two years and that he is now suffering that penalty,</p>
-<p>Your petitioners would state that s<hi rend="underline"><hi rend="sup">d</hi></hi> Johnson is an old man with a family ^consists^ of his wife and several children, That the proof though considered strong enough to <hi rend="str">him guilty</hi> authorize the verdict against him was not <hi rend="str">of</hi> conclusive against him,</p>
-<p>In consideration of his age, and of the wants and condition of his family who we understand to be desirous to move to ^the state of^ Pennsylvania and of the possibility of his being innocent of the charge the undersigned would most earnestly but respectfully urge <hi rend="str">upon</hi> the exercise of executive clemancy in his case and grant his pardon and restoration to liberty.</p>
-<p>Jas Artman Clk C. C. Ct
-<lb/><hi rend="underline">W I, Berry</hi> Atty<pb/>
-<lb/>J Berry Atty</p>
-<p>Joseph Eichelberger
-<lb/>Tho M<hi rend="underline"><hi rend="sup">c</hi></hi>Gideor Juror
+   <p>To his Excellency <persName ref="cwgk:N001004">James F Robinson</persName><lb/>Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName></p>
+<p>Your petitioners, being Jurors, officers of the <orgName ref="cwgk:O00000361">Campbell Circuit Court</orgName>, and others would respectfully represent that at the <date when="1862-02">Febuary term 1862</date> ^of said court^ <persName ref="cwgk:N00006779">James Johnson</persName> was put upon trial under an indictment charging him with being accessory to the crime of another having counterfeit money in possession with intent to pass the same &amp;c. That the verdict of the Jury was against him and he was adjudged to confinemet in <orgName ref="cwgk:O00000266">the Penitentiary</orgName> for two years and that he is now suffering that penalty,</p>
+<p>Your petitioners would state that s<hi rend="underline"><hi rend="sup">d</hi></hi> Johnson is an old man with a family ^consists^ of <persName ref="cwgk:N00006780">his wife</persName> and several children, That the proof though considered strong enough to <hi rend="str">him guilty</hi> authorize the verdict against him was not <hi rend="str">of</hi> conclusive against him,</p>
+<p>In consideration of his age, and of the wants and condition of his family who we understand to be desirous to move to ^the state of^ <placeName ref="cwgk:P001006">Pennsylvania</placeName> and of the possibility of his being innocent of the charge the undersigned would most earnestly but respectfully urge <hi rend="str">upon</hi> the exercise of executive clemancy in his case and grant his pardon and restoration to liberty.</p>
+<p><persName ref="cwgk:N00006781">Jas Artman</persName> Clk C. C. Ct<lb/> Atty<persName ref="cwgk:N00004739">W I, Berry</persName><pb/>
+<lb/><persName ref="cwgk:N00006782">J Berry</persName> Atty</p>
+<p><persName ref="cwgk:N00006783">Joseph Eichelberger</persName><lb/>Tho M<hi rend="underline"><hi rend="sup">c</hi></hi>Gideor Juror
 <lb/>Tho<hi rend="sup">s</hi> Shinks
-<lb/>Abram Garrison
-<lb/>Henry Shrimp
-<lb/>Jas Haner
-<lb/>F Null
-<lb/>G W Gay
-<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> H. Peters
-<lb/>John Kents } Jurors</p>
-<p>H. M. Webster Attoy
-<lb/>Geo R Fearnons Atty at Law
-<lb/>J, B, Payne J, P, C, C
-<lb/>J. Hawthorn
-<lb/>H E Spilman (Deputy Sherriff)
-<lb/>C. W. Kavanaugh Atto
-<lb/>Ira Root Attorney at law</p>
-<p>Jno,, C,, Mead
-<lb/>Sam Moore
-<lb/>Henry Wendt
-<lb/>J. C. D. Geode
-<lb/>Jno C Thomas } City Councilman<pb/></p>
+<lb/><persName ref="cwgk:N00006786">Abram Garrison</persName><lb/><persName ref="cwgk:N00006785">Henry Shrimp</persName><lb/><persName ref="cwgk:N00006788">Jas Haner</persName><lb/><persName ref="cwgk:N00006789">F Null</persName><lb/><persName ref="cwgk:N00006791">G W Gay</persName><lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> H. Peters
+<lb/><persName ref="cwgk:N00006794">John Kents</persName> } Jurors</p>
+<p><persName ref="cwgk:N00004738">H. M. Webster</persName> Attoy<lb/><persName ref="cwgk:N00006795">Geo R Fearnons</persName> Atty at Law<lb/><persName ref="cwgk:N00006798">J, B, Payne</persName> J, P, <orgName ref="cwgk:O00000606">C, C</orgName><lb/><persName ref="cwgk:N00004721">J. Hawthorn</persName><lb/><persName ref="cwgk:N00006799">H E Spilman</persName> (Deputy Sherriff)<lb/><persName ref="cwgk:N00006796">C. W. Kavanaugh</persName> Atto<lb/><persName ref="cwgk:N00004727">Ira Root</persName> Attorney at law</p>
+<p><persName ref="cwgk:N00006797">Jno,, C,, Mead</persName><lb/><persName ref="cwgk:N00006800">Sam Moore</persName><lb/><persName ref="cwgk:N00006801">Henry Wendt</persName><lb/><persName ref="cwgk:N00006802">J. C. D. Geode</persName><lb/><persName ref="cwgk:N00006803">Jno C Thomas</persName> } <placeName ref="cwgk:P00004717">City</placeName> Councilman<pb/></p>
 <p>Jas Johnsons Pett for Pardon<figure type="hr"/></p>
 <p>No good reason observed for pardon in this case</p>
 <p>Grant Pardon
-<lb/>Thos E Bramlette</p>
+<lb/><persName ref="cwgk:N001000">Thos E Bramlette</persName></p>
   </body>
  </text>
 </TEI>
