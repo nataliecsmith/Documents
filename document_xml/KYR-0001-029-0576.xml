@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -59,16 +67,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Gov Robinson</p>
-<p>The enclosed letter is from the sons of an old Citizen who died in this county a few years since</p>
-<p>I volunteered to defend him at Williamstown &amp; finding he had been caught in bad company &amp; had offered to pass Counterfeit money I advised him to confess which he did</p>
-<p>I was satisfied that a man who was in company with him &amp; who had been acquitted was the real rascal but there was no means of proving the fact -- The fellow was a shrewd sharp rascal &amp; had in my opinion put forward Herndon to pass the Bank notes which he furnished him with</p>
+   <p>To His Excellency Gov <persName ref="cwgk:N001004">Robinson</persName></p>
+<p>The enclosed letter is from the sons of an old Citizen who died in this <placeName ref="cwgk:P00000938">county</placeName> a few years since</p>
+<p>I volunteered to defend him at <placeName ref="cwgk:P00002296">Williamstown</placeName> &amp; finding he had been caught in bad company &amp; had offered to pass Counterfeit money I advised him to confess which he did</p>
+<p>I was satisfied that a man who was in company with him &amp; who had been acquitted was the real rascal but there was no means of proving the fact -- The fellow was a shrewd sharp rascal &amp; had in my opinion put forward <persName ref="cwgk:N00002536">Herndon</persName> to pass the Bank notes which he furnished him with</p>
 <p>He has been pretty severely punished by the service rendered the state</p>
 <p>I have an impression that I wrote out the facts which came out on the trial &amp; afterwards leading me to the belief of his having been a mere instrument in the hands of the others &amp; that the statement was filed in the secy office I cannot now recall the facts but will see about my conclusion -- If consistent with the public good I will be glad<pb/>
 <lb/>to see the poor being have a chance for reformation</p>
 <p>I will recollect at the trial that he was in a miserable state of health from having been a hard drinker</p>
 <p>Resply
-<lb/><hi rend="underline">Tho N Lindsey</hi></p>
+<lb/><persName ref="cwgk:N00002539">Tho N Lindsey</persName></p>
 <p>T N Lindsey pettn for pardon of Harndon</p>
 <p>See no sufficient ground</p>
   </body>
