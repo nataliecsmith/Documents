@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -59,130 +67,28 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency James F. Robinson Governor of the Commonwealth of Kentucky -- </p>
-<p>Your petitioner L. S. Lee late sheriff of Ballard County, will respectfully represent that owing to the state of the Country during the year <date when="1861">1861</date> and the early part of the year <date when="1862">1862</date>, <hi rend="str">that</hi> the revenue from <date when="1861">1861</date> was not collected during that time and of course not paid into the treasury of the state as required by law, in consequence of which failure, ^at the <gap/> term of the Franklin Circt Ct^ a judgment was rendered against your petitioner and his sureties for the amount of the revenue unpaid, and damages theron, the damages amounting to $<gap/>. Since the rendition of said judgment your petitioner has paid the revenue due from Ballard County for the year <date when="1861">1861</date> in full -- The damages still remaining unpaid. Your petitiner will briefly recur to the condition of affairs in Ballard County during the year <date when="1861">1861</date>. The people of the county during the whole year were intensely excited, a large majority of them southern in their feelings, about the <date when="--09-01">1<hi rend="sup">st</hi> of September</date> the Rebel army took possession Columbus, about 4 miles from the southern boundary line of Ballard County, and 16 or 18 miles from the county seat. From that time during the whole of the Fall and winter Scouting parties of cavalry<pb/>
-<lb/>traversed, continually the length and breath of Ballard County -- Then had been set up a provisional Government of Kentucky which claimed the revenue collectted from the people from the State -- Your petitioner had been notified to report himself at Columbus, and refused to do so and expected every day to be arrested and taken there by force. The people too as your petitioner believed were in a poor condition to pay the revenue or have it forced from them. They had been cut off from their usual markets, what products they had sold had been principally to the Rebel army for which they had been paid in the depreciated currency of the South. Under these circumstances your petitioner believed that prudence required him not to collect the revenue from the people, that it would be safer in their hands than in his. He did not collect it, and consequently the judgment for damages as above stated. He states, that he has paid off the whole of the revenue proper for that year. He respectfully asks your Excellency to remit the damages assessed against him as aforesaid</p>
-<p>L. S. Lee Late S B C<pb/></p>
+   <p>To his Excellency <persName ref="cwgk:N001004">James F. Robinson</persName> Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> -- </p>
+<p>Your petitioner<persName ref="cwgk:N00002188"> L. S. Lee</persName> late sheriff of <placeName ref="cwgk:P001035">Ballard County</placeName>, will respectfully represent that owing to the state of the Country during the year <date when="1861">1861</date> and the early part of the year <date when="1862">1862</date>, <hi rend="str">that</hi> the revenue from <date when="1861">1861</date> was not collected during that time and of course not paid into the treasury of the state as required by law, in consequence of which failure, ^at the <gap/> term of the <orgName ref="cwgk:O00000376">Franklin Circt Ct</orgName>^ a judgment was rendered against your petitioner and his sureties for the amount of the revenue unpaid, and damages theron, the damages amounting to $<gap/>. Since the rendition of said judgment your petitioner has paid the revenue due from <placeName ref="cwgk:P001035">Ballard County</placeName> for the year <date when="1861">1861</date> in full -- The damages still remaining unpaid. Your petitiner will briefly recur to the condition of affairs in <placeName ref="cwgk:P001035">Ballard County</placeName> during the year <date when="1861">1861</date>. The people of the county during the whole year were intensely excited, a large majority of them southern in their feelings, about the <date when="--09-01">1<hi rend="sup">st</hi> of September</date> <orgName ref="cwgk:O00000506">the Rebel army</orgName> took possession <placeName ref="cwgk:P00006216">Columbus</placeName>, about 4 miles from the southern boundary line of <placeName ref="cwgk:P001035">Ballard County</placeName>, and 16 or 18 miles from <placeName ref="cwgk:P00002006">the county seat</placeName>. From that time during the whole of the Fall and winter Scouting parties of cavalry<pb/>
+<lb/>traversed, continually the length and breath of <placeName ref="cwgk:P001035">Ballard County</placeName> -- Then had been set up a <orgName ref="cwgk:O00003448">provisional Government of Kentucky</orgName> which claimed the revenue collectted from the people from the State -- Your petitioner had been notified to report himself at <placeName ref="cwgk:P00006216">Columbus</placeName>, and refused to do so and expected every day to be arrested and taken there by force. The people too as your petitioner believed were in a poor condition to pay the revenue or have it forced from them. They had been cut off from their usual markets, what products they had sold had been principally to <orgName ref="cwgk:O00000506">the Rebel army</orgName> for which they had been paid in the depreciated currency of <orgName ref="cwgk:O00003030">the South</orgName>. Under these circumstances your petitioner believed that prudence required him not to collect the revenue from the people, that it would be safer in their hands than in his. He did not collect it, and consequently the judgment for damages as above stated. He states, that he has paid off the whole of the revenue proper for that year. He respectfully asks your Excellency to remit the damages assessed against him as aforesaid</p>
+<p>L. S. Lee Late S <orgName ref="cwgk:O00000601">B C</orgName><pb/></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Subscribers Names
-<lb/>J. N. Smith
-<lb/>Oscar Turner
-<lb/>J. M. Bigger
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Seavell
-<lb/>S W Owens
-<lb/>B F <unclear/>
-<lb/>A, W, Violett
-<lb/>C, S, Cate
-<lb/>G B Rey
-<lb/>W H Reeves
-<lb/>B. F. Fraser
-<lb/>Z W Brigg
-<lb/>P C Oneal
-<lb/>J R Trafford
-<lb/>J N Neal
-<lb/>H S Pickett
-<lb/>M, F, Fields
-<lb/>S M Norton
-<lb/><hi rend="underline">H,, Angler</hi>
-<lb/>W. L. Scott
-<lb/>A Bowman
-<lb/>N S Preston
-<lb/>Thos. P Hays
-<lb/>Wm Hall
-<lb/>Jas Z Terrell.
-<lb/>Tho<hi rend="sup">s</hi> A Cortrill
-<lb/>W. L. Skinner
-<lb/><cb n="2"/>J A Brackin
-<lb/>J A Carpenter
-<lb/>J. J. Hall --  -- 
-<lb/>W, L, Stevenson
-<lb/>Asa Richardson
-<lb/>J D White
-<lb/>W S. Watson
-<lb/>D Glanton
-<lb/>J. C. Sulivan
-<lb/>A M Stully
-<lb/>G, W Marke
-<lb/>O, F, Nichols
-<lb/>J, H, Stovall
-<lb/>C. S. Marshall
-<lb/>J,, B,, Ross
-<lb/>W P Harkless
-<lb/>E J Bullock
-<lb/>D, P Juett
-<lb/>W R McGee
-<lb/>A J Smith
-<lb/>W, G, Westen
-<lb/>G T Johnson
-<lb/>J Corbett
-<lb/>D, T Williams
-<lb/>D. S. Dalton
-<lb/>C, C, Terrell
-<lb/>W Taylor
-<lb/>A D Smyth
-<lb/>Thomas Flood
-<lb/>William Webb
-<lb/>Joseph Evans
-<lb/>Charles Mabruy<pb/>
-<lb/><cb n="1"/>Joseph Kimmell
-<lb/>G W Utterback
-<lb/>W<hi rend="sup">m</hi> White
-<lb/>A Bodkin
-<lb/>W<hi rend="sup">m</hi> H Shepherd
+<lb/><persName ref="cwgk:N00007394">J. N. Smith</persName><lb/><persName ref="cwgk:N00007396">Oscar Turner</persName><lb/><persName ref="cwgk:N00002047">J. M. Bigger</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Seavell
+<lb/><persName ref="cwgk:N00001450">S W Owens</persName><lb/>B F <unclear/>
+<lb/><persName ref="cwgk:N00007400">A, W, Violett</persName><lb/><persName ref="cwgk:N00005443">C, S, Cate</persName><lb/><persName ref="cwgk:N00007401">G B Rey</persName><lb/><persName ref="cwgk:N00001471">W H Reeves</persName><lb/><persName ref="cwgk:N00001320">B. F. Fraser</persName><lb/><persName ref="cwgk:N00001370">Z W Brigg
+</persName><lb/><persName ref="cwgk:N00001336">P C Oneal</persName><lb/><persName ref="cwgk:N00007403">J R Trafford</persName><lb/><persName ref="cwgk:N00007404">J N Neal</persName><lb/><persName ref="cwgk:N00007405">H S Pickett</persName><lb/><persName ref="cwgk:N00007420">M, F, Fields</persName><lb/><persName ref="cwgk:N00001344">S M Norton</persName><lb/>
+<persName ref="cwgk:N00007421">H,, Angler</persName><lb/><persName ref="cwgk:N00007422">W. L. Scott</persName><lb/><persName ref="cwgk:N00007423">A Bowman</persName><lb/><persName ref="cwgk:N00002170">N S Preston</persName><lb/><persName ref="cwgk:N00001356">Thos. P Hays</persName><lb/><persName ref="cwgk:N00007425">Wm Hall</persName><lb/><persName ref="cwgk:N00002099">Jas Z Terrell</persName>.<lb/>Tho<hi rend="sup">s</hi> A Cortrill
+<lb/><persName ref="cwgk:N00002259">W. L. Skinner</persName><lb/><cb n="2"/><persName ref="cwgk:N00007467">J A Brackin</persName><lb/><persName ref="cwgk:N00002028">J A Carpenter</persName><lb/><persName ref="cwgk:N00007468">J. J. Hall</persName> --  -- <lb/><persName ref="cwgk:N00007469">W, L, Stevenson</persName><lb/><persName ref="cwgk:N00001452">Asa Richardson</persName><lb/><persName ref="cwgk:N00001447">J D White</persName><lb/><persName ref="cwgk:N00007146">W S. Watson</persName><lb/><persName ref="cwgk:N00002140">D Glanton</persName><lb/><persName ref="cwgk:N00007470">J. C. Sulivan</persName><lb/><persName ref="cwgk:N00007471">A M Stully</persName><lb/><persName ref="cwgk:N00007472">G, W Marke</persName><lb/><persName ref="cwgk:N00002210">O, F, Nichols</persName><lb/><persName ref="cwgk:N00007473">J, H, Stovall</persName><lb/><persName ref="cwgk:N00002214">C. S. Marshall</persName><lb/><persName ref="cwgk:N00007475">J,, B,, Ross</persName><lb/><persName ref="cwgk:N00007480">W P Harkless</persName><lb/><persName ref="cwgk:N00007481">E J Bullock</persName><lb/><persName ref="cwgk:N00007484">D, P Juett
+</persName><lb/><persName ref="cwgk:N00007490">W R McGee</persName><lb/><persName ref="cwgk:N00007492">A J Smith</persName><lb/><persName ref="cwgk:N00007498">W, G, Westen</persName><lb/><persName ref="cwgk:N00001485">G T Johnson
+</persName><lb/><persName ref="cwgk:N00001313">J Corbett
+</persName><lb/><persName ref="cwgk:N00007502">D, T Williams</persName><lb/><persName ref="cwgk:N00002181">D. S. Dalton</persName><lb/><persName ref="cwgk:N00007509">C, C, Terrell</persName><lb/><persName ref="cwgk:N00007514">W Taylor</persName><lb/><persName ref="cwgk:N00007518">A D Smyth</persName><lb/><persName ref="cwgk:N00007519">Thomas Flood
+</persName><lb/><persName ref="cwgk:N00001467">William Webb</persName><lb/><persName ref="cwgk:N00002133">Joseph Evans</persName><lb/><persName ref="cwgk:N00007521">Charles Mabruy</persName><pb/>
+<lb/><cb n="1"/><persName ref="cwgk:N00002258">Joseph Kimmell</persName><lb/><persName ref="cwgk:N00007427">G W Utterback</persName><lb/>W<hi rend="sup">m</hi> White
+<lb/><persName ref="cwgk:N00002059">A Bodkin</persName><lb/>W<hi rend="sup">m</hi> H Shepherd
 <lb/>W<hi rend="sup">m</hi>, J, Galt
-<lb/>Thomas H Richardson
-<lb/>H. T. Jennings
-<lb/>R J Dudley
-<lb/>W C Hendricks
-<lb/>S S Kilgore
-<lb/>S Overley
-<lb/>S S Thurmond
-<lb/>S M Edmund M. D
-<lb/>John. C. Simmons
-<lb/>W. B. Middleton
-<lb/>J. A. Calhoon
-<lb/>R, H, Simpkins
-<lb/>J N Bondurant
-<lb/>J. S. Petrie
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Penn
-<lb/>Benjm Hall
-<lb/>O. C. Unsell
-<lb/>D Storn
-<lb/>M L. Stahl
-<lb/>J H Miles
-<lb/>P O Harkless
-<lb/>Donel Onsell
-<lb/>P, H, M, Billington
-<lb/><cb n="2"/>A, W, Stratton
-<lb/>N Y Black
-<lb/>D. T. Wright
-<lb/>Joseph Pain
-<lb/>L. R. Rich
-<lb/>John Armistead
-<lb/>C, P, Ray
-<lb/>Laf Rich
-<lb/>L, W, Weaver
-<lb/>J. P. Paecock
-<lb/>E, W, Gerrell
-<lb/>J W Madole
-<lb/>J H Gannett
-<lb/>William,, Dida
-<lb/>James H Terrell
-<lb/>James L. Nowles
-<lb/>W. B. Shelton
-<lb/>James M<hi rend="underline"><hi rend="sup">c</hi></hi>calley
-<lb/>D B Frank
-<lb/>J W Lane
-<lb/>G W Sullivan
-<lb/>Isac Edgin
-<lb/>Z Eliott
-<lb/>H, Palbetton
-<lb/>A Cail
-<lb/>E Higgs
-<lb/>A Woolfolk
-<lb/>T R Furk
-<lb/>J, W, Dalton
-<lb/>Eli Evans
-<lb/><unclear/> mosebreyr</p>
+<lb/><persName ref="cwgk:N00007431">Thomas H Richardson</persName><lb/><persName ref="cwgk:N00001402">H. T. Jennings</persName><lb/><persName ref="cwgk:N00007433">R J Dudley</persName><lb/><persName ref="cwgk:N00001472">W C Hendricks</persName><lb/><persName ref="cwgk:N00007434">S S Kilgore</persName><lb/><persName ref="cwgk:N00007435">S Overley</persName><lb/><persName ref="cwgk:N00007436">S S Thurmond</persName><lb/><persName ref="cwgk:N00007437">S M Edmund M. D</persName><lb/><persName ref="cwgk:N00007441">John. C. Simmons</persName><lb/><persName ref="cwgk:N00007442">W. B. Middleton</persName><lb/><persName ref="cwgk:N00002124">J. A. Calhoon</persName><lb/><persName ref="cwgk:N00007443">R, H, Simpkins</persName><lb/><persName ref="cwgk:N00007445">J N Bondurant</persName><lb/><persName ref="cwgk:N00002125">J. S. Petrie</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Penn
+<lb/><persName ref="cwgk:N00007450">Benjm Hall
+</persName><lb/><persName ref="cwgk:N00002167">O. C. Unsell</persName><lb/><persName ref="cwgk:N00007446">D Storn</persName><lb/><persName ref="cwgk:N00007451">M L. Stahl</persName><lb/><persName ref="cwgk:N00007453">J H Miles</persName><lb/><persName ref="cwgk:N00007458">P O Harkless</persName><lb/><persName ref="cwgk:N00007454">Donel Onsell</persName><lb/><persName ref="cwgk:N00002022">P, H, M, Billington</persName><lb/><cb n="2"/><persName ref="cwgk:N00002136">A, W, Stratton</persName><lb/><persName ref="cwgk:N00007525">N Y Black</persName><lb/><persName ref="cwgk:N00007526">D. T. Wright</persName><lb/><persName ref="cwgk:N00007527">Joseph Pain</persName><lb/><persName ref="cwgk:N00001437">L. R. Rich</persName><lb/><persName ref="cwgk:N00002195">John Armistead</persName><lb/><persName ref="cwgk:N00001422">C, P, Ray</persName><lb/><persName ref="cwgk:N00002104">Laf Rich</persName><lb/><persName ref="cwgk:N00007528">L, W, Weaver</persName><lb/><persName ref="cwgk:N00007529">J. P. Paecock</persName><lb/><persName ref="cwgk:N00001330">E, W, Gerrell</persName><lb/><persName ref="cwgk:N00001495">J W Madole</persName><lb/><persName ref="cwgk:N00007531">J H Gannett</persName><lb/><persName ref="cwgk:N00007530">William,, Dida</persName><lb/><persName ref="cwgk:N00007532">James H Terrell</persName><lb/><persName ref="cwgk:N00007533">James L. Nowles</persName><lb/><persName ref="cwgk:N00007534">W. B. Shelton</persName><lb/>James M<hi rend="underline"><hi rend="sup">c</hi></hi>calley
+<lb/><persName ref="cwgk:N00007535">D B Frank</persName><lb/><persName ref="cwgk:N00001506">J W Lane</persName><lb/><persName ref="cwgk:N00007536">G W Sullivan</persName><lb/><persName ref="cwgk:N00007537">Isac Edgin</persName><lb/><persName ref="cwgk:N00002024">Z Eliott</persName><lb/><persName ref="cwgk:N00002116">H, Palbetton</persName><lb/><persName ref="cwgk:N00001295">A Cail</persName><lb/><persName ref="cwgk:N00007538">E Higgs</persName><lb/><persName ref="cwgk:N00007539">A Woolfolk</persName><lb/><persName ref="cwgk:N00007540">T R Furk</persName><lb/><persName ref="cwgk:N00007541">J, W, Dalton</persName><lb/><persName ref="cwgk:N00001482">Eli Evans</persName><lb/><unclear/> mosebreyr</p>
   </body>
  </text>
 </TEI>
