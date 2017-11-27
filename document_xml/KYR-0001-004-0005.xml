@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -59,30 +67,27 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Gen Bramlette Govenor of Kentucky the Undersigned petitioners Would Respectfully Represent. that at the <gap/> Term of MLean Circuit Court. Judgement. Was Renderd against J W. Taylor. On a forfited Recognizance as a Witness in a Cause he Was attached in and that R. A. Hunt. Replied the same for J W. Taylor that Said Taylor has since gone South and has no property Out of Which the Debt. Can be made and your petitions Would &amp; Respectfully ask that the fine be Remitted as to R. A. Hunt as it Will be a great Hardship for him to pay the same and We think in Justice the same should be Remitted</p>
+   <p>To his Excellency <persName ref="cwgk:N001000">Gen Bramlette</persName> Govenor of <orgName ref="cwgk:O001025">Kentucky </orgName>the Undersigned petitioners Would Respectfully Represent. that at the <gap/> Term of <orgName ref="cwgk:O00000433">MLean Circuit Court</orgName>. Judgement. Was Renderd against J W. Taylor. On a forfited Recognizance as a Witness in a Cause he Was attached in and that R. A. Hunt. Replied the same for <persName ref="cwgk:N00002786">J W. Taylor</persName> that Said Taylor has since gone South and has no property Out of Which the Debt. Can be made and your petitions Would &amp; Respectfully ask that the fine be Remitted as to <persName ref="cwgk:N00002788">R. A. Hunt</persName> as it Will be a great Hardship for him to pay the same and We think in Justice the same should be Remitted</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Names
-<lb/>Thoas M Shackilford Sheriff M<hi rend="sup">c</hi>Lean
-<lb/>M. J. Keplinger
-<lb/>A. Dyer
-<lb/>G. G. Jones
-<lb/>Levi Howard
-<lb/>W T Owen
-<lb/>Louis L Moore clk
-<lb/>John W Moore Dept clk
-<lb/>A F. Watkins
-<lb/>James Landram
-<lb/>Benj. H. Franklin
-<lb/>A. T. Coffman
-<lb/>Isaac Calhoon
-<lb/>James M. Cosly
-<lb/>D. Little presiding Judge for <hi rend="underline">Sd County</hi>
+<lb/><persName ref="cwgk:N00002679">Thoas M Shackilford</persName> Sheriff M<hi rend="sup">c</hi>Lean
+<lb/><persName ref="cwgk:N00002789">M. J. Keplinger
+</persName><lb/><persName ref="cwgk:N00002790">A. Dyer
+</persName><lb/><persName ref="cwgk:N00002680">G. G. Jones</persName><lb/><persName ref="cwgk:N00002681">Levi Howard
+</persName><lb/><persName ref="cwgk:N00001115">W T Owen
+</persName><lb/><persName ref="cwgk:N00002791">Louis L Moore clk</persName><lb/><persName ref="cwgk:N00002792">John W Moore Dept clk
+</persName><lb/><persName ref="cwgk:N00002793">A F. Watkins
+</persName><lb/><persName ref="cwgk:N00002794">James Landram
+</persName><lb/><persName ref="cwgk:N00002795">Benj. H. Franklin
+</persName><lb/><persName ref="cwgk:N00002796">A. T. Coffman
+</persName><lb/><persName ref="cwgk:N00001109">Isaac Calhoon
+</persName><lb/><persName ref="cwgk:N00002797">James M. Cosly
+</persName><lb/><persName ref="cwgk:N00001093">D. Little</persName> presiding Judge for <hi rend="underline">Sd County</hi>
 <lb/><cb n="2"/>Names
-<lb/>D C Turner
-<lb/>W<hi rend="sup">m</hi> H. Williams P.M.
-<lb/>E H Mosely Jailor M.C
-<lb/>William Humfrey
-<lb/>J M Shutt
-<lb/>H.D. Bunett<milestone unit="column" n="1"/><pb/></p>
+<lb/><persName ref="cwgk:N00002798">D C Turner
+</persName><lb/>W<hi rend="sup">m</hi> H. Williams P.M.
+<lb/><persName ref="cwgk:N00001116">E H Mosely</persName> Jailor M.C<lb/><persName ref="cwgk:N00002800">William Humfrey
+</persName><lb/><persName ref="cwgk:N00002801">J M Shutt
+</persName><lb/><persName ref="cwgk:N00002802">H.D. Bunett</persName><milestone unit="column" n="1"/><pb/></p>
 <p>McLean Ct Ct
 <lb/>vs
 <lb/>R. A. Hunt
