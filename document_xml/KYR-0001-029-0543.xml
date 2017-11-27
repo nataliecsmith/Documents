@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,38 +68,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency J F Robinson -- 
-<lb/>Governor of the State of Kentucky:</p>
-<p>Your Petitioner, Charles Donnelly, respectfully represents that he was tried before the Kenton Circuit Court at Covington at its <date when="1863-06">June Term 1863</date> for a Breach of the Peace and fined $25 and costs. Your Petitioner is a laboring man with a family and a resident of the City of Covington. The proof in the case showed that Petitioner at the time of the offence was a hostler at the Drover's Inn and that the difficulty was not begun by himself and that he took no part in it until his brother was knocked down and lying upon the floor when he attacked the assailant as he believed he ought to do in defence of his brother. The assailant of his brother had first offered to strike Petitioner but had been prevented, and Petitioner had gone to another part of the room and was engaged in settling his accounts with the Landlord of the Hotel when he heard the noise of the assault upon his brother and then rushed forward to protect him. Your Petitioner respectfully represents that so much of the fine as goes to the Commonwealth's Attorney together with the costs<pb/>
+   <p>To His Excellency <persName ref="cwgk:N001004">J F Robinson</persName> -- <lb/>Governor of the <orgName ref="cwgk:O001025">State of Kentucky</orgName>:</p>
+<p>Your Petitioner, <persName ref="cwgk:N00006810">Charles Donnelly</persName>, respectfully represents that he was tried before the <orgName ref="cwgk:O00000410">Kenton Circuit Court</orgName> at <placeName ref="cwgk:P00000936">Covington</placeName> at its <date when="1863-06">June Term 1863</date> for a Breach of the Peace and fined $25 and costs. Your Petitioner is a laboring man with a family and a resident of the City of <placeName ref="cwgk:P00000936">Covington</placeName>. The proof in the case showed that Petitioner at the time of the offence was a hostler at the <orgName ref="cwgk:O00006811">Drover's Inn</orgName> and that the difficulty was not begun by himself and that he took no part in it until his brother was knocked down and lying upon the floor when he attacked the assailant as he believed he ought to do in defence of his brother. The assailant of his brother had first offered to strike Petitioner but had been prevented, and Petitioner had gone to another part of the room and was engaged in settling his accounts with the <persName ref="cwgk:N00008296">Landlord of the Hotel w</persName>hen he heard the noise of the assault upon <persName ref="cwgk:N00006813">his brother</persName> and then rushed forward to protect him. Your Petitioner respectfully represents that so much of the fine as goes to the Commonwealth's Attorney together with the costs<pb/>
 <lb/>will be sufficient punishment in any view of his conduct, and he prays a remission of the remainder of the fine, or that the Executive clemency should be extended to him in some form.</p>
 <p>C, Donnelly,</p>
 <p>Covington Ky <date when="1863-08-01">August 1, 1863</date></p>
 <p>We, the undersigned citizens of Covington respectfully join in the prayer of the petitioner,</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>W M Kettell
-<lb/>Geo. F Cooke
-<lb/>Geo James
-<lb/>Thad Reed
-<lb/>S K Hathaway
-<lb/>Capt. Lewis
-<lb/>Col. Stricklands
-<lb/>Chas Barlow
-<lb/>G, F, Cook
-<lb/>Michael Roads
-<lb/>T. Edsell
-<lb/>H Edwards
-<lb/>J. Garrison
-<lb/>W, J, Donnelly
-<lb/>Geo Brown
-<lb/>Jas. Sands
-<lb/>Dr. E. U. Jonston
-<lb/>Capt. Thomas</p>
-<p><cb n="2"/>A H Bowen
-<lb/>John Herold
-<lb/>B. B Weidler
-<lb/>J C Bryan
-<lb/><unclear/>
-<lb/>Geo H. Kole
-<lb/>Emanuel Wolf } Jurors</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00006814">W M Kettell</persName><lb/><persName ref="cwgk:N00006815">Geo. F Cooke</persName><lb/><persName ref="cwgk:N00006816">Geo James</persName><lb/><persName ref="cwgk:N00006819">Thad Reed</persName><lb/><persName ref="cwgk:N00006820">S K Hathaway
+</persName><lb/><persName ref="cwgk:N00006821">Capt. Lewis</persName><lb/><persName ref="cwgk:N00006823">Col. Stricklands</persName><lb/><persName ref="cwgk:N00006830">Chas Barlow</persName><lb/><persName ref="cwgk:N00006832">G, F, Cook</persName><lb/><persName ref="cwgk:N00006831">Michael Roads</persName><lb/><persName ref="cwgk:N00006833">T. Edsell</persName><lb/><persName ref="cwgk:N00006834">H Edwards</persName><lb/><persName ref="cwgk:N00006835">J. Garrison</persName><lb/><persName ref="cwgk:N00006836">W, J, Donnelly</persName><lb/><persName ref="cwgk:N00006854">Geo Brown</persName><lb/><persName ref="cwgk:N00006855">Jas. Sands</persName><lb/><persName ref="cwgk:N00006856">Dr. E. U. Jonston</persName><lb/><persName ref="cwgk:N00006857">Capt. Thomas</persName></p>
+<p><cb n="2"/><persName ref="cwgk:N00006078">A H Bowen</persName><lb/><persName ref="cwgk:N00005625">John Herold</persName><lb/><persName ref="cwgk:N00004621">B. B Weidler</persName><lb/><persName ref="cwgk:N00006858">J C Bryan</persName><lb/><unclear/>
+<lb/><persName ref="cwgk:N00006859">Geo H. Kole</persName><lb/><persName ref="cwgk:N00006860">Emanuel Wolf</persName> } Jurors</p>
   </body>
  </text>
 </TEI>
