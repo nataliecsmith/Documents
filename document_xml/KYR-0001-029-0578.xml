@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,23 +68,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>The following is a copy of the verdict of the Jury <hi rend="str">verdict</hi> rendered at the <date when="1863-05">May Term 1863</date> of the Jefferson Circuit Court in the case of Commonwealth of Ky against W<hi rend="underline"><hi rend="sup">m</hi></hi> J Tice alias Steele. towit</p>
-<p>"We of the Jury find the defendant guilty as charged in the within indictment and say that he shall be confined in the Penitentiary for one year, recommending him to the mercy of the Executive</p>
-<p>Ben Cassseday, foreman"
-<lb/>A Copy
-<lb/>Attest Jas P Chambers C J C C</p>
-<p>Hon Jas F. Robinson
-<lb/>Dear Sir</p>
+   <p>The following is a copy of the verdict of the Jury <hi rend="str">verdict</hi> rendered at the <date when="1863-05">May Term 1863</date> of the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName> in the case of <orgName ref="cwgk:O001025">Commonwealth of Ky</orgName> against W<hi rend="underline"><hi rend="sup">m</hi></hi> J Tice alias Steele. towit</p>
+<p>"We of the Jury find the defendant guilty as charged in the within indictment and say that he shall be confined in <orgName ref="cwgk:O00000266">the Penitentiary</orgName> for one year, recommending him to the mercy of the Executive</p>
+<p><persName ref="cwgk:N00002546">Ben Cassseday</persName>, foreman"<lb/>A Copy
+<lb/>Attest <persName ref="cwgk:N002041">Jas P Chambers</persName> C J C C</p>
+<p>Hon <persName ref="cwgk:N001004">Jas F. Robinson</persName><lb/>Dear Sir</p>
 <p>W J. Tice the person convicted as the above verdict sets forth, is a mere boy, his age does not exceed fifteen years, He is hansom &amp; well disposed; every thing about him indicates that he has been well raised. We earnestly unite with the Jury &amp; request your Excellency to grant him a pardon.</p>
-<p>If your Excellency could see the boy after he arrives at Frankfort his extreme youth &amp; gentle manners would induce a pardon.</p>
+<p>If your Excellency could see the boy after he arrives at <placeName ref="cwgk:P00000308">Frankfort</placeName> his extreme youth &amp; gentle manners would induce a pardon.</p>
 <p>If your Excellency should grant the pardon you will find the boy in<pb/>
 <lb/>states prison as he will be carried there by the sheriff on Monday next</p>
 <p>Very Respectfully
-<lb/>Baird &amp; Price
-<lb/>Attorneys at Law</p>
+<lb/><orgName ref="cwgk:O001006">Baird &amp; Price</orgName><lb/>Attorneys at Law</p>
 <p>Baird &amp; Price pettn for Pardon of W. J. Tice</p>
 <p>Pardon granted having seen this boy find and <unclear/> with</p>
-<p>He seemed to be very <unclear/> represented. He in two days after with my pardon now has <unclear/> move to Covington state two watches and is again arrested</p>
+<p>He seemed to be very <unclear/> represented. He in two days after with my pardon now has <unclear/> move to <placeName ref="cwgk:P00000936">Covington</placeName> state two watches and is again arrested</p>
   </body>
  </text>
 </TEI>
