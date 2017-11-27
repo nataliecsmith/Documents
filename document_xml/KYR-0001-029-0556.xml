@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,35 +68,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency James F. Robinson
-<lb/>Govenor of Kentucky</p>
-<p>Your Petitioner, James Donahoe, would most respectfully submit the following statement of facts. At the <date when="1862-02">February term 1862</date> of the Fayette Circuit Court, two judgments were rendered against him, one for $300 &amp; the other for $150. The one judgment was rendered upon the charge of keeping a disorderly House, and the other for suffering gaming. The last indictment was sustained by a witness of great prejudices against petitioner, and your petitioner knows said witness' statement to have been false in every respect.</p>
+   <p>To his Excellency <persName ref="cwgk:N001004">James F. Robinson</persName><lb/>Govenor of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p>Your Petitioner, <persName ref="cwgk:N00004805">James Donahoe</persName>, would most respectfully submit the following statement of facts. At the <date when="1862-02">February term 1862</date> of the <orgName ref="cwgk:O00000377">Fayette Circuit Court</orgName>, two judgments were rendered against him, one for $300 &amp; the other for $150. The one judgment was rendered upon the charge of keeping a disorderly House, and the other for suffering gaming. The last indictment was sustained by a witness of great prejudices against petitioner, and your petitioner knows said witness' statement to have been false in every respect.</p>
 <p>By the remission of the foregoing fines your Petitioner will ever pray &amp;c.</p>
 <p>James Donaho<pb/></p>
 <p>The undersigned would request the remission of foregoing fines, believing, as they do, that James Donahoe has abandoned the grocery business &amp; is a quiet &amp; peacible citizen.</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Cha<hi rend="sup">s</hi> J. Bradley
 <lb/>Sheriff
-<lb/><cb n="2"/>Jno. C. Hansbro
-<lb/><hi rend="underline">Speed J. Goodloe</hi>
-<lb/>H, G, Williams
-<lb/>R Cox
-<lb/>C D Carr
-<lb/>Tho<hi rend="sup">s</hi> Sadler
-<lb/>C T Worley
-<lb/>E Brennan
-<lb/>J. B Norton C F C C
-<lb/>H. T. Duncan Jr
-<lb/>Tho J. Nichols
-<lb/>Deputy Sheriff
-<lb/>Z. Gibbons
-<lb/>J. H. Harrison
-<lb/>John B Payne Jr.
-<lb/>Thos. D Carr
-<lb/>W H Lusby
-<lb/>R, D, Malone
-<lb/>Hunter <unclear>N Band</unclear>
-<lb/>John T. Miller
-<lb/>J B <hi rend="underline">Wilgus &amp; Co</hi><pb/></p>
+<lb/><cb n="2"/><persName ref="cwgk:N00003232">Jno. C. Hansbro</persName><lb/>
+<persName ref="cwgk:N00004016">Speed J. Goodloe</persName><lb/><persName ref="cwgk:N00004807">H, G, Williams</persName><lb/><persName ref="cwgk:N00003320">R Cox</persName><lb/><persName ref="cwgk:N00004809">C D Carr</persName><lb/>Tho<hi rend="sup">s</hi> Sadler
+<lb/><persName ref="cwgk:N00004822">C T Worley</persName><lb/><persName ref="cwgk:N00004823">E Brennan</persName><lb/><persName ref="cwgk:N00004824">J. B Norton</persName> C F C C<lb/><persName ref="cwgk:N00004826">H. T. Duncan Jr</persName><lb/><persName ref="cwgk:N00004827">Tho J. Nichols</persName><lb/>Deputy Sheriff
+<lb/><persName ref="cwgk:N00004828">Z. Gibbons</persName><lb/><persName ref="cwgk:N00003318">J. H. Harrison</persName><lb/><persName ref="cwgk:N00004829">John B Payne Jr.</persName><lb/><persName ref="cwgk:N00004830">Thos. D Carr</persName><lb/><persName ref="cwgk:N00002067">W H Lusby</persName><lb/><persName ref="cwgk:N00004832">R, D, Malone</persName><lb/>Hunter <unclear>N Band</unclear>
+<lb/><persName ref="cwgk:N00004836">John T. Miller</persName><lb/>J B <hi rend="underline">Wilgus &amp; Co</hi><pb/></p>
 <p><milestone unit="column" n="1"/>Fayette Cir Ct
 <lb/>Jas. Donahue Pettn to remit fines
 <lb/>$300
