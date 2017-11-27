@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,65 +68,45 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency the Governor of K.y</p>
-<p>At the <date when="--08">August term of the Bracken Circuit Court</date> George S. Kimberly was found guilty of permitting gameing in his house in Foster Bracken County and was fined Two Hundred Dollars We the citizens of Foster and vicinity would respectfully State that we have known Mr Kimberly for several years ever since his residence amongst us and believe there is no man who stands higher among his Neighbors and acquaintances for integrity Industry and good citizenship. and we believe, the House where the gameing occured although owned by him" <hi rend="underline">was under the control</hi> and in the occupation of a man by the name of M<hi rend="sup">c</hi>Gill. They State that the proof before the Jury was conflicting upon this point and we believe Satisfactory (or at least ought to have been so) that he was not <hi rend="underline">at the time</hi> the offense was committed the occupant or had the control of the House They <hi rend="underline">know</hi> he could have adduced <hi rend="underline">from his Neighbors</hi> an abundance of proof to have established his Innocence but his inexperience was the cause of his not being more fully prepared Mr Kimberly is a poor man and a mechanic who we take pleasure in saying always bore a good moral and exemplary character.. we are fully aware of our deep Interest in the preservation of the morals of the community where <hi rend="underline">we live</hi> and in view of that fact believing with out a doubt that Kimberly is innocent we respectfully but earnestly ask your intervention in his behalf, we believe it eminently a case demanding executive clemency we have too lively an Interest in the welfare and morals<pb/></p>
+   <p>To <persName ref="cwgk:N001000">his Excellency</persName> the <orgName ref="cwgk:O001025">Governor of K.y</orgName></p>
+<p>At the August term of the  <orgName ref="cwgk:O00000347">Bracken Circuit Court</orgName><persName ref="cwgk:N00008057">George S. Kimberly</persName> was found guilty of permitting gameing in his house in Foster <placeName ref="cwgk:P00000319">Bracken County</placeName> and was fined Two Hundred Dollars We the citizens of <placeName ref="cwgk:P00008058">Foster</placeName> and vicinity would respectfully State that we have known Mr Kimberly for several years ever since his residence amongst us and believe there is no man who stands higher among his Neighbors and acquaintances for integrity Industry and good citizenship. and we believe, the House where the gameing occured although owned by him" <hi rend="underline">was under the control</hi> and in the occupation of a man by the name of M<hi rend="sup">c</hi>Gill. They State that the proof before the Jury was conflicting upon this point and we believe Satisfactory (or at least ought to have been so) that he was not <hi rend="underline">at the time</hi> the offense was committed the occupant or had the control of the House They <hi rend="underline">know</hi> he could have adduced <hi rend="underline">from his Neighbors</hi> an abundance of proof to have established his Innocence but his inexperience was the cause of his not being more fully prepared Mr Kimberly is a poor man and a mechanic who we take pleasure in saying always bore a good moral and exemplary character.. we are fully aware of our deep Interest in the preservation of the morals of the community where <hi rend="underline">we live</hi> and in view of that fact believing with out a doubt that Kimberly is innocent we respectfully but earnestly ask your intervention in his behalf, we believe it eminently a case demanding executive clemency we have too lively an Interest in the welfare and morals<pb/></p>
 <p>of our children and Neighbors to ask your Excellency to Interfere infavor of a man whose guilt of such a charge was even doubtful all of which we respectfully submit</p>
 <p><date when="1863-09-18">Sept 18<hi rend="sup">th</hi> 1863</date>
 <lb/><milestone unit="column" n="2"/><cb n="1"/>Names
-<lb/>1 Jonah E. Redmon
-<lb/>2 Gory Marshall
-<lb/>3 S F Taylor
-<lb/>4 Mullin Metzger
-<lb/>5 R. F. Watson
-<lb/>6 G W Lake
-<lb/>7 J B Pribbb
-<lb/>8 Samuel Colvill
-<lb/>9 W<hi rend="sup">m</hi> F. Nickson
-<lb/>10 Jos. H. Reeit (M Town Council)
-<lb/>11 J. F. Thomas
-<lb/>12 Robert Barnes
-<lb/>13 Henry Boserne
-<lb/>14 Geo T. Schoolfield Jr.
-<lb/>15 Tho<hi rend="sup">s</hi>. P. Morris
-<lb/>16 J. B. Gillaspe
-<lb/>17 N. P. Shane
-<lb/>18 James L. McConacke
-<lb/>19 G W Yelton
-<lb/>20 G T Schoolfield, Sen
-<lb/>21 W<hi rend="sup">m</hi> Norris
-<lb/>22 Peter Demoss (Bracken Co Correner)
-<lb/>23 J. M. Montgomery
-<lb/>24 John CH Haney
-<lb/>25 J. C. M<hi rend="sup">c</hi>Canh
-<lb/>Henry C Taylor
-<lb/><cb n="2"/>Names
-<lb/>45 H. H Agrue
-<lb/>46 J M Hannah
-<lb/>47 David Smith
-<lb/>48 James Henderson
-<lb/>49 W<hi rend="sup">m</hi> J. Scott
-<lb/>50 A. W. Schoolfield (Member Town Council)
-<lb/>51 S. J. Waters
-<lb/>52 Asahe D. Neal
-<lb/>53 H. J. Carness
-<lb/>54 A T Leen
-<lb/>55 Edward <unclear>^robet^ Ceyt</unclear>
-<lb/>56 Levi T Dix
-<lb/>57 W<hi rend="sup">m</hi> Smith
-<lb/>58 G. G. Watson (Police Jude Foster)
-<lb/>59 Jas. W. Kendall (Justice Peace ^Foster Precinct^)
-<lb/>60 John B Schoolfield
-<lb/>61 John M<hi rend="sup">c</hi>Grane
+<lb/>1 <persName ref="cwgk:N00008314">Jonah E. Redmon</persName><lb/>2 <persName ref="cwgk:N00007977">Gory Marshall</persName><lb/>3 <persName ref="cwgk:N00007978">S F Taylor</persName><lb/>4 <persName ref="cwgk:N00007979">Mullin Metzger</persName><lb/>5 <persName ref="cwgk:N00007980">R. F. Watson
+</persName><lb/>6 <persName ref="cwgk:N00007981">G W Lake
+</persName><lb/>7 <persName ref="cwgk:N00007982">J B Pribbb
+</persName><lb/>8 <persName ref="cwgk:N00007984">Samuel Colvill</persName><lb/>9 W<hi rend="sup">m</hi> F. Nickson
+<lb/>10 <persName ref="cwgk:N00007986">Jos. H. Reeit</persName> (M <orgName ref="cwgk:O00008311">Town Council</orgName>)<lb/>11 <persName ref="cwgk:N00008003">J. F. Thomas
+</persName><lb/>12 <persName ref="cwgk:N00008004">Robert Barnes
+</persName><lb/>13 <persName ref="cwgk:N00008005">Henry Boserne
+</persName><lb/>14 <persName ref="cwgk:N00008006">Geo T. Schoolfield Jr.
+</persName><lb/>15 Tho<hi rend="sup">s</hi>. P. Morris
+<lb/>16 <persName ref="cwgk:N00008008">J. B. Gillaspe</persName><lb/>17 <persName ref="cwgk:N00008021">N. P. Shane
+</persName><lb/>18 <persName ref="cwgk:N00008022">James L. McConacke
+</persName><lb/>19 <persName ref="cwgk:N00008023">G W Yelton
+</persName><lb/>20 <persName ref="cwgk:N00008024">G T Schoolfield</persName>, Sen<lb/>21 W<hi rend="sup">m</hi> Norris
+<lb/>22 <persName ref="cwgk:N00008026">Peter Demoss</persName> (Bracken Co Correner)<lb/>23 <persName ref="cwgk:N00008027">J. M. Montgomery</persName><lb/>24 <persName ref="cwgk:N00008028">John CH Haney</persName><lb/>25 J. C. M<hi rend="sup">c</hi>Canh
+<lb/><persName ref="cwgk:N00006586">Henry C Taylor
+</persName><lb/><cb n="2"/>Names
+<lb/>45 <persName ref="cwgk:N00008030">H. H Agrue
+</persName><lb/>46 <persName ref="cwgk:N00008031">J M Hannah</persName><lb/>47 <persName ref="cwgk:N00008032">David Smith</persName><lb/>48 <persName ref="cwgk:N00008035">James Henderson
+</persName><lb/>49 W<hi rend="sup">m</hi> J. Scott
+<lb/>50 <persName ref="cwgk:N00008037">A. W. Schoolfield</persName> (Member <orgName ref="cwgk:O00008311">Town Council</orgName>)<lb/>51 <persName ref="cwgk:N00008038">S. J. Waters</persName><lb/>52 <persName ref="cwgk:N00008039">Asahe D. Neal
+</persName><lb/>53 <persName ref="cwgk:N00008040">H. J. Carness
+</persName><lb/>54 <persName ref="cwgk:N00008041">A T Leen</persName><lb/>55 Edward <unclear>^robet^ Ceyt</unclear>
+<lb/>56 <persName ref="cwgk:N00008043">Levi T Dix
+</persName><lb/>57 W<hi rend="sup">m</hi> Smith
+<lb/>58 <persName ref="cwgk:N00008045">G. G. Watson</persName> (<orgName ref="cwgk:O00008312">Police Jude Foster</orgName>)<lb/>59 <persName ref="cwgk:N00001713">Jas. W. Kendall</persName> (Justice Peace ^Foster Precinct^)<lb/>60 <persName ref="cwgk:N00008046">John B Schoolfield
+</persName><lb/>61 John M<hi rend="sup">c</hi>Grane
 <lb/>62 Pa<hi rend="sup">tk</hi> Callan
-<lb/>63 L M Summers
-<lb/>64 W B McCormick M.D.
-<lb/>65 Daniel M<hi rend="underline"><hi rend="sup">c</hi></hi>Math
+<lb/>63 <persName ref="cwgk:N00008049">L M Summers
+</persName><lb/>64 <persName ref="cwgk:N00008050">W B McCormick M.D.
+</persName><lb/>65 Daniel M<hi rend="underline"><hi rend="sup">c</hi></hi>Math
 <lb/>66 Ja<hi rend="sup">s</hi>. W. Mifford
-<lb/>67 Robert Neal (Member Town Council)
-<lb/>68 W. B. Waters
-<lb/>69 George W Speer
-<lb/>70 W<hi rend="sup">m</hi> Garvey
-<lb/>71 J. A. Taylor<milestone unit="column" n="1"/><pb/></p>
+<lb/>67 <persName ref="cwgk:N00001711">Robert Neal</persName> (Member <orgName ref="cwgk:O00008311">Town Council</orgName>)<lb/>68 <persName ref="cwgk:N00008053">W. B. Waters</persName><lb/>69 <persName ref="cwgk:N00008054">George W Speer
+</persName><lb/>70 W<hi rend="sup">m</hi> Garvey
+<lb/>71 <persName ref="cwgk:N00008056">J. A. Taylor</persName><milestone unit="column" n="1"/><pb/></p>
 <p>Bracken Cir
 <lb/>Court
 <lb/>vs.
