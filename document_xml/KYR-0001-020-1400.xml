@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,58 +68,31 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency The Honorable Beriah M<hi rend="sup">c</hi>Goffin Governor of the state of Kentucky Your petitioner William M Bowman humbly complaining would most respectfully represent and state to your excellency that at the last August Term of the Marion Circuit Court he was fined the Sum of fifty dollars for carrying concealed a deadly weapon, he would further state that he is poor and in <hi rend="str">a</hi> needy circumstances and is entirely unable to pay the same he is married and has a family dependent upon his labor for support and the fine which if not paid in a short time he is informed by authority he will be taken to Jail, he therefore in consideration of the facts above represented and hardnes<hi rend="str">t</hi>s of the times humbly supplicates your Excellencys interposition in his behalf and that you will grant a remysion of the fine, Entreating I remain your most Obedient and humble Servant
+   <p>To his Excellency The Honorable Beriah M<hi rend="sup">c</hi>Goffin Governor of the <orgName ref="cwgk:O001025">state of Kentucky</orgName> Your petitioner <persName ref="cwgk:N00003052">William M Bowman</persName> humbly complaining would most respectfully represent and state to your excellency that at the last August Term of the <orgName ref="cwgk:O00000425">Marion Circuit Court</orgName> he was fined the Sum of fifty dollars for carrying concealed a deadly weapon, he would further state that he is poor and in <hi rend="str">a</hi> needy circumstances and is entirely unable to pay the same he is married and has a family dependent upon his labor for support and the fine which if not paid in a short time he is informed by authority he will be taken to Jail, he therefore in consideration of the facts above represented and hardnes<hi rend="str">t</hi>s of the times humbly supplicates your Excellencys interposition in his behalf and that you will grant a remysion of the fine, Entreating I remain your most Obedient and humble Servant
 <lb/><date when="1861-09-11">Sept 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date></p>
 <p>W, M, Bowman</p>
 <p>Sworn to before me this <date when="1861-09-12">12th day of Sept 1861</date></p>
-<p>L. H. Noble P. J. M. C. C.</p>
+<p><persName ref="cwgk:N00000470">L. H. Noble</persName> P. J. M. C. C.</p>
 <p>We the undersigned believe the statements<pb/>
 <lb/>above to be true</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Signed
 <lb/>Tho<hi rend="sup">s</hi> H. Chandler
 <lb/>Cha<hi rend="sup">s</hi>. Savage
-<lb/>A Caleys
-<lb/>Felix Smith
-<lb/>R C Harris
-<lb/>Joseph Spalding
-<lb/>W. C. Jarboe
-<lb/>William Spalding
-<lb/><hi rend="underline">H. H. </hi><hi rend="underline">Hughes</hi>
-<lb/>Jas J Sartin
-<lb/>John Severance
-<lb/>John M Wilkinson
-<lb/>F, M, Hawkins
-<lb/>Anthony Watson
-<lb/>James Pruitt
-<lb/>W, W, Purdy
-<lb/>A S Hardy
-<lb/>P_ B_ Reffe
-<lb/>W, W, Wathen
-<lb/>J B wathen
-<lb/><unclear/> <unclear/>
-<lb/>C. S. Stoy
-<lb/>J O Kirkland
-<lb/>James Adams
-<lb/>James Edmonds
-<lb/>R A Wilkinson
-<lb/>Ja<hi rend="sup">s</hi>. G. Bree
+<lb/><persName ref="cwgk:N00004988">A Caleys</persName><lb/><persName ref="cwgk:N00004987">Felix Smith
+</persName><lb/><persName ref="cwgk:N00000248">R C Harris</persName><lb/><persName ref="cwgk:N00004990">Joseph Spalding
+</persName><lb/><persName ref="cwgk:N00004991">W. C. Jarboe</persName><lb/><persName ref="cwgk:N00004992">William Spalding</persName><lb/><hi rend="underline">H. H. </hi><hi rend="underline">Hughes</hi>
+<lb/><persName ref="cwgk:N00004993">Jas J Sartin</persName><lb/><persName ref="cwgk:N00004995">John Severance</persName><lb/><persName ref="cwgk:N00004974">John M Wilkinson</persName><lb/><persName ref="cwgk:N00004976">F, M, Hawkins</persName><lb/><persName ref="cwgk:N00000249">Anthony Watson
+</persName><lb/><persName ref="cwgk:N00004975">James Pruitt</persName><lb/><persName ref="cwgk:N00000250">W, W, Purdy</persName><lb/><persName ref="cwgk:N00000256">A S Hardy</persName><lb/><persName ref="cwgk:N00000257">P_ B_ Reffe</persName><lb/><persName ref="cwgk:N00000255">W, W, Wathen</persName><lb/><persName ref="cwgk:N00004978">J B wathen</persName><lb/><unclear/> <unclear/>
+<lb/><persName ref="cwgk:N00004980">C. S. Stoy</persName><lb/><persName ref="cwgk:N00004981">J O Kirkland</persName><lb/><persName ref="cwgk:N00004982">James Adams
+</persName><lb/><persName ref="cwgk:N00004983">James Edmonds</persName><lb/><persName ref="cwgk:N00004985">R A Wilkinson</persName><lb/>Ja<hi rend="sup">s</hi>. G. Bree
 <lb/><cb n="2"/>Signed
-<lb/>J M Martin
-<lb/>Joseph Miller
-<lb/>Albert J Jenkins
-<lb/>A S Walle
-<lb/>Ben S Bradshare
-<lb/>W M Rickets
-<lb/>N T Berry
-<lb/>John Shuck
-<lb/>Thos. C. Woods
-<lb/>W B Harrison
-<lb/>L. H. Noble
-<lb/>James A Grah
-<lb/>F B Johnson
-<lb/>J. W. Chandler
-<lb/><unclear/> <unclear/>
-<lb/>James M Fogle<milestone unit="column" n="1"/><pb/></p>
+<lb/><persName ref="cwgk:N00003053">J M Martin</persName><lb/><persName ref="cwgk:N00003054">Joseph Miller</persName><lb/><persName ref="cwgk:N00003055">Albert J Jenkins</persName><lb/><persName ref="cwgk:N00003667">A S Walle
+</persName><lb/><persName ref="cwgk:N00004969">Ben S Bradshare</persName><lb/><persName ref="cwgk:N00003056">W M Rickets
+</persName><lb/><persName ref="cwgk:N00003083">N T Berry</persName><lb/><persName ref="cwgk:N00004970">John Shuck</persName><lb/><persName ref="cwgk:N00003085">Thos. C. Woods
+</persName><lb/><persName ref="cwgk:N00003086">W B Harrison</persName><lb/>L. H. Noble
+<lb/><persName ref="cwgk:N00004972">James A Grah</persName><lb/><persName ref="cwgk:N00004973">F B Johnson
+</persName><lb/><persName ref="cwgk:N00003087">J. W. Chandler</persName><lb/><unclear/> <unclear/>
+<lb/><persName ref="cwgk:N00003089">James M Fogle</persName><milestone unit="column" n="1"/><pb/></p>
 <p>Remitted 
 <lb/>B. M. 
 <lb/>Marion Cir. Ct.
