@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -59,18 +67,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his excellency James F. Robinson governor of the Commonwealth of Ky</p>
-<p>We the undersigned citizen of Carroll &amp; Owen counties -- would most respectfu<hi rend="str">f</hi>lly represent to your excellency that some time during the spring term of the Carroll circuit court that L. E. Krutz (who had resided in Carroll Co but for some time past in Owen) <hi rend="str">or</hi> was fined for selling whiskey in quantity contrary to law -- The scircumstances as we understand and believe are these -- Krutz had obtained licenses for a year -- he through forgetfulness and neglect let his licenses run out a few day it seems he sold some whiskey during the interim we know Mr. Krutz to be a good orderly quiet citizen a poor man with a large family -- in view of the scircumstance attending Mr. Krutz ^case^ <hi rend="str">fine</hi> we would most ^irnestly^ <hi rend="str">gereatfully</hi> request your excellency to remit his fine ^$42^ <date when="1863-06-29">June 29 1863</date></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>J. B. English
-<lb/>J. P. Orr Jr
-<lb/>Jas M Brown sheriff
-<lb/>Philips Edmondson
-<lb/><cb n="2"/>Jo. C. Kevell
-<lb/>George K. Sanders
-<lb/>Joel Williams
-<lb/>Charley Breede
-<lb/>J. B. Beiden
-<lb/>John T. Ralston<pb/></p>
+   <p>To his excellency <persName ref="cwgk:N001004">James F. Robinson</persName> governor of the <orgName ref="cwgk:O001025">Commonwealth of Ky</orgName></p>
+<p>We the undersigned citizen of <placeName ref="cwgk:P00000682">Carroll</placeName> &amp; <placeName ref="cwgk:P00004760">Owen counties</placeName> -- would most respectfu<hi rend="str">f</hi>lly represent to your excellency that some time during the spring term of the <orgName ref="cwgk:O00000365">Carroll circuit court</orgName> that <persName ref="cwgk:N00004757">L. E. Krutz</persName> (who had resided in <placeName ref="cwgk:P00000682">Carroll</placeName> Co but for some time past in Owen) <hi rend="str">or</hi> was fined for selling whiskey in quantity contrary to law -- The scircumstances as we understand and believe are these -- Krutz had obtained licenses for a year -- he through forgetfulness and neglect let his licenses run out a few day it seems he sold some whiskey during the interim we know Mr. Krutz to be a good orderly quiet citizen a poor man with a large family -- in view of the scircumstance attending Mr. Krutz ^case^ <hi rend="str">fine</hi> we would most ^irnestly^ <hi rend="str">gereatfully</hi> request your excellency to remit his fine ^$42^ <date when="1863-06-29">June 29 1863</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00004759">J. B. English</persName><lb/><persName ref="cwgk:N00004766">J. P. Orr Jr</persName><lb/><persName ref="cwgk:N00004775">Jas M Brown</persName> sheriff<lb/><persName ref="cwgk:N00004768">Philips Edmondson</persName><lb/><cb n="2"/><persName ref="cwgk:N00004769">Jo. C. Kevell</persName><lb/><persName ref="cwgk:N00004770">George K. Sanders</persName><lb/><persName ref="cwgk:N00004771">Joel Williams</persName><lb/><persName ref="cwgk:N00004772">Charley Breede</persName><lb/><persName ref="cwgk:N00004773">J. B. Beiden</persName><lb/><persName ref="cwgk:N00004774">John T. Ralston</persName><pb/></p>
 <p><milestone unit="column" n="1"/>Carroll Cir. Ct
 <lb/>$60 } Tipling
 <lb/>Fine Remitted
