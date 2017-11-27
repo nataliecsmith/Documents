@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,7 +71,7 @@
    <p><placeName ref="cwgk:P00006526">City and County of San Francisco</placeName><lb/><placeName ref="cwgk:P00002428">State of California</placeName> } SS.<lb/><stamp type="revenue"/><note place="stamp"><date when="1864-11-09">Nov 9/64</date>
 <lb/>E D S
 <lb/>29</note></p>
-<p>I, <persName ref="cwgk:N00001139">N. Proctor Smith</persName>, duly appointed by the <persName ref="cwgk:N001000">Governor of the State of Kentucky</persName>, a Commissioner for the State of Kentucky, resident at the City and County of San Francisco, in the State of California, do Solemnly swear, that I will well and faithfully execute and perform all the duties of Such Commissioner under and by virtue of the laws of Said <orgName ref="cwgk:O001025">State of Kentucky</orgName>.</p>
+<p>I, <persName ref="cwgk:N00001139">N. Proctor Smith</persName>, duly appointed by the <persName ref="cwgk:N001000">Governor of the State of Kentucky</persName>, a Commissioner for the <orgName ref="cwgk:O001025">State of Kentucky</orgName>, resident at the City and County of San Francisco, in the State of California, do Solemnly swear, that I will well and faithfully execute and perform all the duties of Such Commissioner under and by virtue of the laws of Said <orgName ref="cwgk:O001025">State of Kentucky</orgName>.</p>
 <p>N. Proctor Smith</p>
 <p>Sworn and Subscribed before me this the <date when="1864-11-09">Ninth day of November A. D. 1864</date></p>
 <p><figure type="seal"><ab>N. PROCTOR SMITH COMMISSIONER 
