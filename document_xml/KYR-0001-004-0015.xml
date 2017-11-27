@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -59,25 +67,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>To The Governor of Kentucky:</p>
-<p>Your Petitioner, John Lillis, represents, that the Police Court of the City of Frankfort recently imposed two separate fines upon him of $10. each and costs, for selling liquour without license.</p>
+   <p>To The Governor of <orgName ref="cwgk:O001025">Kentucky</orgName>:</p>
+<p>Your Petitioner, <persName ref="cwgk:N00003911">John Lillis</persName>, represents, that the <orgName ref="cwgk:O00003470">Police Court of the City of Frankfort</orgName> recently imposed two separate fines upon him of $10. each and costs, for selling liquour without license.</p>
 <p>He states that he gave some liquor to a sick man, but refused to take pay for it. The sick man insisted on paying him for the liquor; but he refused to receive it- The sick man then threw a piece of money on the floor and started out, and your Petitioner started about the same time to the cards that were just coming in, and cannot say what became of the piece of money -- he is certain however that he never received it. He gave this same sick man something to eat at the same time, but charged him nothing for what he eat or drank. For this he has been fined. He prays to be relieved from this fine. He has four orphan children to raise, and is quite poor, and unable to pay these fines.</p>
 <p>John Lillis</p>
 <p>We recommend the Governor to pardon Lillis.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>W A Gaines
-<lb/><hi rend="underline">A. G. Hodges</hi>
-<lb/>Geo Wythe Lewis
-<lb/>A H. McClure
-<lb/><hi rend="underline">Tho. S. Page</hi>
-<lb/><cb n="2"/>Edmond Burns
-<lb/>A. E. Carmouth
-<lb/>John Watson
-<lb/>P. Swigert<milestone unit="column" n="1"/><pb/></p>
-<p>Franklin Co
-<lb/>City Court
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00003912">W A Gaines
+</persName><lb/>
+<persName ref="cwgk:N00001634">A. G. Hodges</persName><lb/><persName ref="cwgk:N00004183">Geo Wythe Lewis
+</persName><lb/><persName ref="cwgk:N00004200">A H. McClure
+</persName><lb/>
+<persName ref="cwgk:N00004216">Tho. S. Page</persName><lb/><cb n="2"/><persName ref="cwgk:N00001649">Edmond Burns</persName><lb/><persName ref="cwgk:N00004232">A. E. Carmouth
+</persName><lb/><persName ref="cwgk:N00004230">John Watson
+</persName><lb/><persName ref="cwgk:N00002747">P. Swigert</persName><milestone unit="column" n="1"/><pb/></p>
+<p><placeName ref="cwgk:P001019">Franklin Co
+</placeName><lb/>City Court
 <lb/>Respite 6 mos
-<lb/>T E Bramlette
-<lb/>vs
+<lb/><persName ref="cwgk:N001000">T E Bramlette
+</persName><lb/>vs
 <lb/>John Lillis
 <lb/>Respited
 <lb/>6 months
