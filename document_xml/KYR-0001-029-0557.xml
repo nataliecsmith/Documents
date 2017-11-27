@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,7 +71,7 @@
    <p><placeName ref="cwgk:P001024">Greenburg Ky</placeName><lb/><date when="1863-08-25">August 25<hi rend="sup">th</hi> 1863</date>
 <lb/>To his Excellency
 <lb/>Gov. <persName ref="cwgk:N001004">Robinson</persName> or Gov. <persName ref="cwgk:N001000">Bramlette</persName>.<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName></p>
-<p>Accompanying this letter will be an application of the <persName ref="cwgk:N00000472">Rev. W H Woods</persName> to be relieved of two fines each of $50. <unclear/> of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> against him for Solemnizing the rights of Matrimony without having taken the Oath required in Such Cases -- I am cognizant of the facts in the cases and am Satisfied they are Such as to call for Executive interposition -- The act of <orgName ref="cwgk:O00000923">the Legislature</orgName> aforesaid was passsed at a time when this portion of the state was overrun with <orgName ref="cwgk:O00000506">Confederate troops</orgName> and it was not until long after the passage of the act that there was official notice of it in this part of <placeName ref="cwgk:P001800">the state</placeName> and as was proven in these trials there was no one could have administered the Oath for the want of a knowledge of its requirements -- M<hi rend="underline"><hi rend="sup">r</hi></hi> Woods is a Preacher of standing &amp; character in the Presbyterian Church, has a family of children and not well able to pay the fine<hi rend="underline"><hi rend="sup">s</hi></hi> aforesaid, I therefore urgently request that the aforesaid fines be remitted.</p>
+<p>Accompanying this letter will be an application of the <persName ref="cwgk:N00000472">Rev. W H Woods</persName> to be relieved of two fines each of $50. <unclear/> of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> against him for Solemnizing the rights of Matrimony without having taken the Oath required in Such Cases -- I am cognizant of the facts in the cases and am Satisfied they are Such as to call for Executive interposition -- The act of <orgName ref="cwgk:O00000923">the Legislature</orgName> aforesaid was passsed at a time when this portion of <placeName ref="cwgk:P001800">the state</placeName> was overrun with <orgName ref="cwgk:O00000506">Confederate troops</orgName> and it was not until long after the passage of the act that there was official notice of it in this part of <placeName ref="cwgk:P001800">the state</placeName> and as was proven in these trials there was no one could have administered the Oath for the want of a knowledge of its requirements -- M<hi rend="underline"><hi rend="sup">r</hi></hi> Woods is a Preacher of standing &amp; character in the Presbyterian Church, has a family of children and not well able to pay the fine<hi rend="underline"><hi rend="sup">s</hi></hi> aforesaid, I therefore urgently request that the aforesaid fines be remitted.</p>
 <p>I remain Very Resp &amp;c
 <lb/><persName ref="cwgk:N00002587">T T Alexander</persName><pb/></p>
 <p>Greensburg Ky <date when="1863-08-25">Aug 25 -- 1863</date>.</p>
