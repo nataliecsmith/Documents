@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -59,29 +67,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency B. Magoffin Governor of the Commonwealth of Kentucky,</p>
-<p>The Undersigned Citizens of Spencer county in District N<hi rend="sup">o</hi> One would respectfully state that the office of Justice of the peace has become vacant by the permanent removal of Nathan Beauchamp Esq to the state of Missouri, We therefore petition your Excellency to appoint ^x^John Henry to fill said vacancy until the next August Election, <date when="1860-12-17">Decr. 17<hi rend="sup">th</hi> 1860.</date></p>
+   <p>To His Excellency <persName ref="cwgk:N00000258">B. Magoffin</persName> Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>,</p>
+<p>The Undersigned Citizens of <placeName ref="cwgk:P00001881">Spencer county</placeName> in District N<hi rend="sup">o</hi> One would respectfully state that the office of Justice of the peace has become vacant by the permanent removal of <persName ref="cwgk:N00001882">Nathan Beauchamp</persName> Esq to the state of <placeName ref="cwgk:P00001883">Missouri,</placeName> We therefore petition your Excellency to appoint ^x^<persName ref="cwgk:N00001884">John Henry</persName> to fill said vacancy until the next August Election, <date when="1860-12-17">Decr. 17<hi rend="sup">th</hi> 1860.</date></p>
 <p><milestone unit="column" n="2"/><cb n="1"/> x John Henry
-<lb/><cb n="2"/>John Cochran
-<lb/>George Stone
-<lb/>R Cochran
-<lb/>Almanzo Allen
-<lb/>Thomas H Hughes
-<lb/>James A Martin
-<lb/>John C. Van Dike
-<lb/><unclear>F M</unclear> <unclear/>
-<lb/>J M Heady<lb/>
+<lb/><cb n="2"/><persName ref="cwgk:N00001885">John Cochran</persName><lb/><persName ref="cwgk:N00001886">George Stone</persName><lb/><persName ref="cwgk:N00001887">R Cochran
+</persName><lb/><persName ref="cwgk:N00001888">Almanzo Allen</persName><lb/><persName ref="cwgk:N00001890">Thomas H Hughes
+</persName><lb/><persName ref="cwgk:N00001891">James A Martin
+</persName><lb/><persName ref="cwgk:N00001892">John C. Van Dike</persName><lb/><unclear>F M</unclear> <unclear/>
+<lb/><persName ref="cwgk:N00001894">J M Heady</persName><lb/>
 <lb/><unclear>J L</unclear> Boswell
-<lb/>W S Davis
-<lb/>Charles W Perry
-<lb/>James <unclear>Van Dyke</unclear>
+<lb/><persName ref="cwgk:N00001896">W S Davis</persName><lb/><persName ref="cwgk:N00001897">Charles W Perry
+</persName><lb/>James <unclear>Van Dyke</unclear>
 <lb/>George <unclear>Reynolds</unclear>
-<lb/><unclear>J. James D. Overbie</unclear>
-<lb/>David <unclear/>
+<lb/>J. 
+<persName ref="cwgk:N00001898">James [Van Dyke]</persName>. Overbie<lb/>David <unclear/>
 <lb/><unclear/> <unclear/>
 <lb/>Thomas <unclear/>G. <unclear>Gilbert</unclear>
-<lb/>James Van Dyke Sen.
-<lb/>Stephen D. Martin<milestone unit="column" n="1"/><pb/></p>
+<lb/><persName ref="cwgk:N00008299">James Van Dyke Sen</persName>.<lb/><persName ref="cwgk:N00001903">Stephen D. Martin</persName><milestone unit="column" n="1"/><pb/></p>
 <p>Spencer
 <lb/>Issue Commission
 <lb/>B. M</p>
