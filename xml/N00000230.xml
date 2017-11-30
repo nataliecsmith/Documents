@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Harry Innes Todd</title>
+        <title level="a" type="main">Harry Innes Todd, Sr.</title>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
@@ -30,7 +30,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -43,7 +43,7 @@
         <particDesc>
                 <person xml:id="N00000230">
                     <persName>
-                      Harry Innes Todd
+                      Harry Innes Todd, Sr.
                         (Frankfort, Kentucky, merchant and penitentiary keeper)
                     </persName>
                       <birth when="c1818"></birth>
@@ -56,7 +56,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Frankfort, Kentucky, merchant and penitentiary keeper. Kentucky native. Married Jane B. Todd. Father of Harriet D. Todd, Ann Innes Todd, John H. Todd, Chapman C. Todd, Harry Innes Todd, Jr., George Todd, Julia Todd, and Maria Todd. Owned seven enslaved persons in 1850 and five in 1860. Keeper of the Kentucky State Penitentiary from 1863 to 1871.</p>
+        <p>Frankfort, Kentucky, merchant and penitentiary keeper. Kentucky native. Married to Jane B. Todd. Father of Harriet D. Todd, Ann Innes Todd, John H. Todd, Chapman C. Todd, Harry Innes Todd, Jr., Julia R. Todd, Maria Todd, George Todd, Jennie L. Todd, Mary H. Todd, Kitty Todd, and Crittenden Todd. Owned seven enslaved persons in 1850 and five in 1860. Keeper of the Kentucky State Penitentiary from 1863 to 1871.</p>
 
     </body>
     <back>
