@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000228">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John William Finnell</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000228">
+                    <persName>
+                      John William Finnell
+                        (TAG, Kenton Co. State Rep)
+                    </persName>
+                      <birth when="1821-12-24"></birth>
+                      <death when="1888-01-25"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Covington, Kentucky, attorney, politician, and soldier. Winchester, Kentucky, native. Son of Nimrod L. Finnell. Graduated from Transylvania University in Lexington, Kentucky, in 1838. Employed by Nimrod L. Finnell at the Lexington <em>Daily Intelligencer</em> in Lexington in 1840. Read law with Richard H. Menefee. Graduated from law school at Transylvania University in 1841. Practiced law in Carlisle, Kentucky. Member of the House of Representatives of the Commonwealth of Kentucky from Nicholas County, Kentucky, in 1843. Editor of the Frankfort <em>Commonwealth</em> in Frankfort, Kentucky, from 1844 to 1848. Appointed secretary of state of the Commonwealth of Kentucky by John J. Crittenden in 1848. Appointed secretary of state of the Commonwealth of Kentucky by John LaRue Helm in 1850. Practiced law in Covington from 1852 to 1861. Represented Archibald Gaines in the fugitive slave case of Margaret Garner in Cincinnati, Ohio, in 1856. Delegate to the Constitutional Union Party national convention in Baltimore in 1860. Owned two enslaved people in Covington in 1860. Member of the House of Representatives of the Commonwealth of Kentucky from Kenton County, Kentucky, from 1861 to 1863. Adjutant General of the Commonwealth of Kentucky from October 12, 1861 to September 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Kenton County, City of Covington, p. 2; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, KY: Collins &amp; Co., 1874), 421, 437-38; Mark Reinhardt, <em>Who Speaks for Margaret Garner?</em> (Minneapolis and London: University of Minnesota Press, 2010); <em>Find A Grave</em>, &quot;John William Finnell (1821-1888),&quot; Memorial #13775594, https://www.findagrave.com/memorial/13775594 (accessed November 20, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
