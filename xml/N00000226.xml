@@ -6,6 +6,10 @@
         <title level="a" type="main">Henry Davis McHenry</title>
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
           </respStmt>
           <respStmt>
@@ -30,7 +34,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -56,7 +60,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Hartford, Kentucky, attorney and politician. Hartford native. Son of John Hardin McHenry. Graduated from law school at Transylvania University in 1845. Married Jennie Taylor McHenry on January 26, 1856. Attorney in Hartford in 1845. Member of the House of Representatives of the Commonwealth of Kentucky from 1851 to 1853. Member of the Senate of the Commonwealth of Kentucky from 1861 to 1865.</p>
+        <p>Hartford, Kentucky, attorney and politician. Hartford native. Son of John Hardin McHenry. Graduated from law school at Transylvania University in Lexington, Kentucky, in 1845. Married to Jennie Taylor McHenry on January 26, 1856. Attorney in Hartford in 1845. Member of the House of Representatives of the Commonwealth of Kentucky from 1851 to 1853. Member of the Senate of the Commonwealth of Kentucky from 1861 to 1865.</p>
 
     </body>
     <back>
