@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>
     </titleStmt>
@@ -30,7 +34,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -56,11 +60,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Born in Maryland in 1793, Mariah Dixon lived in Henderson county. </p>
+        <p>Henderson County, Kentucky, resident. Maryland native. Married William Q. Dixon. Mother of Thomas W. Dixon, John Dixon, George Dixon, and Harvey Dixon. Resident of Henderson County in 1850 and 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><p>Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Henderson County, district 1, p. 71. </p>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Henderson County, District No. 2, p. 342. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Henderson County, Division No. 1, p. 71. </p>
 </bibl></ab>
     </back>
 </text>
