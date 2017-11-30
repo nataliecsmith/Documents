@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
           </respStmt>
     </titleStmt>
@@ -30,7 +34,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -44,7 +48,7 @@
                 <person xml:id="N00004780">
                     <persName>
                       Thomas Turner
-                        (Montgomery County, Kentucky, attorney)
+                        (Montgomery Co. State Rep)
                     </persName>
                       <birth when="1821-09-10"></birth>
                       <death when="1900-09-11"></death>
@@ -56,11 +60,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Montgomery County, Kentucky, attorney. Madison County, Kentucky native. Son of Squire Turner and Elizabeth Turner. Married to Henrietta Robinson Turner on December 31, 1857. Father of Mary E. Turner, Ben Turner, Squire Turner, and Charlie Turner. Attorney in Richmond, Kentucky, in 1850. Attorney in Montgomery County in 1860. Owned nineteen enslaved persons in 1860.</p>
+        <p>Montgomery County, Kentucky, attorney. Madison County, Kentucky native. Son of Squire Turner and Elizabeth Turner. Married Mary B. Everitt Turner on October 25, 1857. Married Henrietta Robertson Turner on December 31, 1857. Father of Mary E. Turner, Ben Turner, Squire Turner, and Charlie Turner. Graduated from Centre College in Danville, Kentucky, in 1840. Graduated from law school at Transylvania University in Lexington, Kentucky, in 1842. Served in the 1st Kentucky Volunteer Cavalry Regiment during the Mexican-American War from 1846 to 1848. Attorney in Richmond, Kentucky, in 1850. Attorney in Montgomery County in 1860. Owned nineteen enslaved people in Montgomery County in 1860. Member of the House of Representatives of the Commonwealth of Kentucky from Montgomery County from 1861 to 1863.</p>
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Madison County, Richmond, p. 252. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Montgomery County, p. 100. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Montgomery County, p. 83. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Montgomery County, Mt. Sterling, p. 5. &quot;Kentucky Marriages, 1785-1979,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:F4HD-PMF : 4 December 2014), Thomas Turner and Henrietta Robertson, 31 Dec 1857; citing Montgomery,Kentucky, reference ; FHL microfilm 0216835 IT 1. <em>Find A Grave</em>, &quot;Thomas Turner (1821-1900),&quot; Memorial #6868728, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=6868728 (accessed April 23, 2017).</p>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Madison County, Richmond, p. 252; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Montgomery County, p. 100; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Montgomery County, p. 83; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Montgomery County, Mt. Sterling, p. 5; <em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 328; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 632; <em>Find A Grave</em>, &quot;Thomas Turner (1821-1900),&quot; Memorial #6868728, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=6868728 (accessed April 23, 2017).</p>
 </bibl></ab>
     </back>
 </text>
