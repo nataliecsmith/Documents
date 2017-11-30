@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name></name>
           </respStmt>
           <respStmt>
@@ -34,7 +38,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -60,7 +64,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Henderson County, Kentucky, sheriff, constable, and surveyor. Henderson County native. Married Martha A. Wheatley Walden on October 4, 1852. Father of Josephine Walden. Constable in Henderson County in 1850. Surveyor in Henderson County in 1860. Sheriff in Henderson County in 1863-64.</p>
+        <p>Henderson County, Kentucky, sheriff, constable, and surveyor. Henderson County native. Married Martha A. Wheatley Walden on October 4, 1852. Father of Josephine Walden. Constable in Henderson County in 1850. Surveyor in Henderson County in 1860. Sheriff of Henderson County from 1863 to 64.</p>
 
     </body>
     <back>
