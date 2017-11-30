@@ -3,7 +3,11 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R. J. Browne</title>
+        <title level="a" type="main">Richard J. Browne</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
@@ -30,7 +34,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -43,10 +47,10 @@
         <particDesc>
                 <person xml:id="N00000220">
                     <persName>
-                      R. J. Browne
-                        (washington county attorney)
+                      Richard J. Browne
+                        (Washington co. State Rep &amp; lawyer)
                     </persName>
-                      <birth when="c1822"></birth>
+                      <birth when="c1821"></birth>
                       <death when="unknown"></death>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -56,11 +60,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Washington County, Kentucky, attorney. Kentucky native. Married Harriet Browne. Attorney and farmer in Washington County in 1860. Practiced law with John W. Lewis.</p>
+        <p>Springfield, Kentucky, attorney. Kentucky native. Married to Harriet Browne. Attorney in Springfield in 1850. Attorney and farmer in Washington County, Kentucky, in 1860. Owned eighteen enslaved people in 1850 and 1860. Practiced law with John W. Lewis. Member of the House of Representatives of the Commonwealth of Kentucky from Washington County from 1862 to 1863.</p>
 
     </body>
     <back>
-        <ab><bibl><p><em>History of the Ohio Falls Cities and Their Counties: General history. History of Jefferson County, Ky. The history of Louisville</em>(Clark County, Indiana: L. A. Williams &amp; Company, 1882), 504; <em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century, Volume 1</em> (Cincinnati: J. M. Armstrong, 1878), 336. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Washington County, District No. 2, p. 1.</p>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Washington County, Town of Springfield, p. 238 B; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Washington County, Town of Springfield; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Washington County, District No. 2, p. 1;  Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 749; <em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, Vol. 1 (Cincinnati: J. M. Armstrong, 1878), 336. </p>
 </bibl></ab>
     </back>
 </text>
