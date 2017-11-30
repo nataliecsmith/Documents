@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Patrick A. Lewis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -26,7 +30,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -52,7 +56,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Born in Pike, New York, in 1816. Began abolitionist activities while working on the Ohio River in 1837 in conjunction with Levi Coffman. Ordained by the Methodist Episcopal Church in 1842. Enrolled at Oberlin College in 1844. In conjunction with Delia Webster, Fairbank began planning to help enslaved people escape from the Lexington, Kentucky, area in 1844. Fairbank and Webster successfully transported the family of Lewis and Harriet Hayden from Lexington to Ripley, Ohio, in 1844, but were arrested when they returned to Kentucky. Fairbank was sentenced to fifteen years in the Kentucky State Penitentiary, but was pardoned after serving five years in 1849. In 1851, Fairbank helped another enslaved person escape from Kentucky into Indiana, but was arrested in Indiana by Kentucky officials. In 1852, Fairbank was again sentenced to fifteen years in the Kentucky State Penitentiary. In 1864, acting and Lieutenant Governor Richard T. Jacob pardoned Fairbank after a sustained petitioning campaign. Upon his release, Fairbank married his long-time fiancée Mandana Tileston.</p>
+        <p>Abolitionist. Pike, New York, native. Began abolitionist activities while working on the Ohio River in 1837 in conjunction with Levi Coffman. Ordained by the Methodist Episcopal Church in 1842. Enrolled at Oberlin College in 1844. In conjunction with Delia Webster, Fairbank began planning to help enslaved people escape from the Lexington, Kentucky, area in 1844. Fairbank and Webster successfully transported the family of Lewis Hayden and Harriet Hayden from Lexington to Ripley, Ohio, in 1844, but were arrested when they returned to Kentucky. Fairbank was sentenced to fifteen years in the Kentucky State Penitentiary, but was pardoned after serving five years in 1849. In 1851, Fairbank helped another enslaved person escape from Kentucky into Indiana, but was arrested in Indiana by Kentucky officials. In 1852, Fairbank was again sentenced to fifteen years in the Kentucky State Penitentiary. In 1864, acting and Lieutenant Governor Richard T. Jacob pardoned Fairbank. Upon his release, Fairbank married his long-time fiancée Mandana Tileston.</p>
 
     </body>
     <back>
