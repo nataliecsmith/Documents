@@ -6,6 +6,10 @@
         <title level="a" type="main">James Speed</title>
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name></name>
           </respStmt>
           <respStmt>
@@ -30,7 +34,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -56,7 +60,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>United States Attorney General. Louisville native. Married to Jane L. Cochran on April 23, 1840. Father of John Speed, Henry Pirtle Speed, Charles Speed, Breckinridge Speed, James Speed, Jr., Joshua Fry Speed, Jr., and Edward Shippen Speed. Graduated from St. Joseph&#39;s College in Bardstown in 1828. Studied law under Worden Pope in Louisville before graduating from law school at Transylvania University in Lexington in 1833.  Represented Louisville as a Whig in the House of Representatives of the Commonwealth of Kentucky from 1847 to 1848. Stood as an unsuccessful emancipationist candidate for the 1849 state constitutional convention. Served on the City Council and on the Board of Aldermen of the City of Louisville. Served on the University of Louisville law department board of trustees in 1848 and taught law in the department from 1856 to 1858. Appointed the mustering officer for Kentucky Union volunteers in 1861 and commanded the local home guard. Elected to represent Louisville in the Senate of the Commonwealth of Kentucky in 1861 and served until 1863. In December 1864, Abraham Lincoln appointed Speed Attorney General, in which position he served into the Andrew Johnson administration, resigning on July 16, 1866.</p>
+        <p>Attorney General of the United States. Louisville, Kentucky, native. Married to Jane L. Cochran on April 23, 1840. Father of John Speed, Henry Pirtle Speed, Charles Speed, Breckinridge Speed, James Speed, Jr., Joshua Fry Speed, Jr., and Edward Shippen Speed. Graduated from St. Joseph&#39;s College in Bardstown in 1828. Studied law under Worden Pope in Louisville before graduating from law school at Transylvania University in Lexington in 1833.  Member of the House of Representatives of the Commonwealth of Kentucky from Louisville from 1847 to 1848. Member of the Whig Party. Unsuccessful emancipationist candidate for the 1849 Kentucky Constitutional Convention. Served on the City Council and on the Board of Aldermen of the City of Louisville. Member of the Board of Trustees of the University of Louisville law department in 1848. Lecturer in the University of Louisville law department from 1856 to 1858. Appointed the mustering officer for Kentucky Union volunteers in 1861 and commanded the local home guard. Elected to represent Louisville in the Senate of the Commonwealth of Kentucky in 1861 and served until 1863. In December 1864, Abraham Lincoln appointed Speed Attorney General, in which position he served into the Andrew Johnson administration, resigning on July 16, 1866.</p>
 
     </body>
     <back>
