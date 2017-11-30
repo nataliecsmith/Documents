@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00002697">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Joseph W. Bartlett</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hannah M. O&#39;Daniel</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hannah M. O&#39;Daniel</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00002697">
+                    <persName>
+                      Joseph W. Bartlett
+                        (Todd County, Kentucky, physician)
+                    </persName>
+                      <birth when="1833-07-27"></birth>
+                      <death when="1911-02-09"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Todd County, Kentucky, physician. Robinson, Tennessee native. Son of Joseph S. Bartlett and Manda Porter Bartlett. Married to Moody Ann Coffman Bartlett in September 1859. Father of Eusebia A. Bartlett, Walter E. Bartlett, Sallie Bartlett, Susie E. Bartlett, and Willie L. Bartlett. Physician in Todd County in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Todd County, p. 773. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Todd County, Kirkmansville, p. 7. “Aged Physician Dies,” <em>The Courier-Journal</em> (Louisville, Ky.), February 10, 1911, p. 8. <em>Kentucky Vital Statistics Original Death Certificates (1911-1955)</em>, Ancestry, 1911, Todd County, Kentucky, file no. 4947. <em>Kentucky Birth, Marriage, and Death Records, 1852-1910</em>, Ancestry, Marriages, Todd County, Kentucky, 1859.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
