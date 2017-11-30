@@ -10,11 +10,11 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name></name>
+            <name>Patrick A. Lewis</name>
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Patrick A. Lewis</name>
+            <name></name>
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
@@ -42,7 +42,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -72,7 +72,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Kentucky, McLean County, Town of Calhoon, p. 1. <em>Ninth Manuscript Census of the United States (1870)</em>, Population Schedules, Kentucky, McLean County, Calhoun, p. 50. <em>Find A Grave</em>, &quot;Douglass Little (1810-1877),&quot; Memorial #37676990, https://findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=37676990 (accessed March 22, 2017).</p>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Kentucky, McLean County, Town of Calhoon, p. 1. <em>Ninth Manuscript Census of the United States (1870)</em>, Population Schedules, Kentucky, McLean County, Calhoun, p. 50. <em>Find A Grave</em>, &quot;Douglass Little (1810-1877),&quot; Memorial #37676990, https://www.findagrave.com/memorial/37676990 (accessed March 22, 2017).</p>
 </bibl></ab>
     </back>
 </text>
