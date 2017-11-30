@@ -4,6 +4,10 @@
       <fileDesc>
     <titleStmt>
         <title level="a" type="main">McLean Circuit Court</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -22,7 +26,7 @@
 
         <encodingDesc>
             <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
                 </prefixDef>
             </listPrefixDef>
         </encodingDesc>
@@ -41,7 +45,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Located in the 3rd Judicial District of the Commonwealth of Kentucky. <em>Judge(s)</em>: James Stewart. <em>Commonwealth’s Attorney(s)</em>: Cicero Maxwell and John Chapeze. <em>Clerk(s)</em>: Alfred C. Tanner and Louis L. Moore.</p>
+        <p>Located in the 3rd Judicial District of the Commonwealth of Kentucky. Judge(s): James Stewart. Commonwealth’s Attorney(s): Cicero Maxwell and John Chapeze. Clerk(s): Alfred C. Tanner and Louis L. Moore.</p>
 
     </body>
     <back>
