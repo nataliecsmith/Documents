@@ -34,7 +34,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -60,7 +60,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>London, Kentucky, attorney and judge. Laurel County, Kentucky, native. Married Elizabeth Adams Pearl in 1860. Father of John Pearl, Helen Pearl, and Sallie Pearl. Owned twenty-six enslaved persons in 1860. Admitted to the bar in 1842. Attorney in Laurel County in 1850. Commonwealth’s Attorney from 1850 to 1856. Judge of the Twelfth Judicial District Circuit Court  from 1856 to 1867. Arrested by General James S. Brisbin on November 3, 1865, for ordering the sale of the family of a soldier in the United States Colored Troops.</p>
+        <p>London, Kentucky, attorney and judge. Laurel County, Kentucky, native. Married to Elizabeth Adams Pearl in 1860. Father of John Pearl, Helen Pearl, and Sallie Pearl. Admitted to the bar in 1842. Attorney in Laurel County in 1850. Commonwealth’s Attorney from 1850 to 1856. Judge of the Twelfth Judicial District Circuit Court  from 1856 to 1867. Owned twenty-six enslaved persons in 1860. Arrested by General James S. Brisbin on November 3, 1865, for ordering the sale of the family of a soldier in the United States Colored Troops.</p>
 
     </body>
     <back>
