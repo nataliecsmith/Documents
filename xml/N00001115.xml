@@ -10,11 +10,11 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name></name>
+            <name>Patrick A. Lewis</name>
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Patrick A. Lewis</name>
+            <name></name>
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
@@ -42,7 +42,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -68,7 +68,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Calhoun, McLean County, Kentucky, attorney. Kentucky native. Married to Virginia R. Fleming Owen in December 1858. Father of William W. Owen and Thomas F. Owen.</p>
+        <p>Calhoun, Kentucky, attorney. Kentucky native. Married Virginia R. Fleming Owen in December 1858. Father of William W. Owen and Thomas F. Owen. Attorney in Calhoun in 1860.</p>
 
     </body>
     <back>
