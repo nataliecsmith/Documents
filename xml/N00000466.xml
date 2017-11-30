@@ -10,11 +10,11 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
+            <name>Patrick A. Lewis</name>
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Patrick A. Lewis</name>
+            <name>Anthony P. Curtis</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -34,7 +34,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -60,11 +60,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Frankfort, Kentucky, attorney, Secretary of State, and Auditor of Public Accounts. Henderson County, Kentucky, native. Married to Catharine Smith Overton Green. Father of Eliza Green. Member of the House of Representatives of the Commonwealth of Kentucky from 1851 to 1852. Owned eight enslaved persons in 1860. Auditor of Public Accounts of the Commonwealth of Kentucky from 1860 to 1865. Secretary of State of the Commonwealth of Kentucky from 1863 to 1865. Vestryman at the Ascension Church in Frankfort from 1863 to 1898.</p>
+        <p>Frankfort, Kentucky, attorney, Secretary of State, and Auditor of Public Accounts. Henderson County, Kentucky, native. Married Catharine Smith Overton Green. Father of Eliza Green. Member of the House of Representatives of the Commonwealth of Kentucky from 1851 to 1852. Owned eight enslaved persons in 1860. Auditor of Public Accounts of the Commonwealth of Kentucky from 1860 to 1865. Secretary of State of the Commonwealth of Kentucky from 1863 to 1865. Vestryman at the Ascension Church in Frankfort from 1863 to 1898.</p>
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Henderson County, Henderson, District 1, p. 280. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, District 1, p. 77. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Franklin County, Frankfort, District 1, p. 18. <em>Consolidated Lists of Civil War Draft Registrations, 1863-1865</em>, Kentucky, Seventh Congressional District, Franklin County, 1863, p. 5. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, p. 8. <em>Find A Grave</em>, “Grant Green (1826 - 1898),”  Memorial no. 63467817, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=63467817 (accessed May 24, 2017).</p>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Henderson County, Henderson, District 1, p. 280. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, District 1, p. 77. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Franklin County, Frankfort, District 1, p. 18. <em>Consolidated Lists of Civil War Draft Registrations, 1863-1865</em>, Kentucky, Seventh Congressional District, Franklin County, 1863, p. 5. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, p. 8. <em>Find A Grave</em>, “Grant Green (1826 - 1898),”  Memorial No. 63467817, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=63467817 (accessed May 24, 2017).</p>
 </bibl></ab>
     </back>
 </text>
