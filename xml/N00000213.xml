@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000213">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">John R. Thomas</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000213">
+                    <persName>
+                      John R. Thomas
+                        (Marion Co. State rep)
+                    </persName>
+                      <birth when="1828-02-05"></birth>
+                      <death when="1892"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Marion County, Kentucky, attorney. Marion County native. Son of Owen Davies Thomas and Emily Lindsey Thomas. Married to Susan Shuck Thomas on February 21, 1859. Married to Maria Lindsey Thomas. Graduated from St. Mary&#39;s College in Lebanon, Kentucky. Attorney in Marion County in 1860. Owned thirteen enslaved people in 1860. Member of the House of Representatives of the Commonwealth of Kentucky from Marion County from 1861 to 1867.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marion County, District One, p. 74; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marion County, District One, p. 21; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 539; W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em>, 4th ed. (Louisville and Chicago: F. A. Battey and Company, 1887), 1019-20; <em>Find A Grave</em>, &quot;John Richard Thomas (1828-1892),&quot; Memorial #101218770, https://www.findagrave.com/memorial/101218770 (accessed November 21, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
