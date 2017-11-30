@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000225">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Martin Pickett Marshall</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000225">
+                    <persName>
+                      Martin Pickett Marshall
+                        (Mason Co. State Senator)
+                    </persName>
+                      <birth when="1798-02-10"></birth>
+                      <death when="1883-06-08"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Mason County, Kentucky, attorney, farmer, and politician. Warrenton, Virginia, native. Son of Charles Marshall and Lucy P. Marshall. Married to Elizabeth Colston Marshall. Father of Charles Marshall, Frances Jane Marshall, Lucy Marshall, Mary Marshall, Robert Morris Marshall, Susan Marshall, and Phoebe Marshall. Studied under John Marshall in Richmond, Virginia, until 1816. Studied law with Alexander K. Marshall. Began practicing law in Paris, Kentucky, in 1818. Practiced law in Cincinnati, Ohio. Practiced law in Washington, Kentucky. Began practicing law in Fleming County, Kentucky, in 1823. Member of the House of Representatives of the Commonwealth of Kentucky from Fleming County in 1825. Member of the Kentucky Constitutional Convention of 1849 from Fleming County. Farmer in Fleming County in 1850. Owned thirty-three enslaved people in Fleming County in 1850. Farmer in Washington in 1860. Owned eight enslaved people in Washington in 1860. Member of the Senate of the Commonwealth of Kentucky from Mason County from 1861 to 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Fleming County, District No. 1, p. 348; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Fleming County, District No. 1;  <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Mason County, District No. 2 Town of Washington, p. 104; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Mason County, District No. 2 Town of Washington, p. 18; <em>Journal and Proceedings of the Convention of the State of Kentucky</em> (Frankfort: A. G. Hodges &amp; Co, 1849), 4; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 231, 547; <em>Find A Grave</em>, &quot;Martin Pickett Marshall (1798-1883),&quot; Memorial #80285931, https://www.findagrave.com/memorial/80285931 (accessed November 21, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
