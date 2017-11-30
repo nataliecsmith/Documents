@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Thomas Dixon</title>
+        <title level="a" type="main">Thomas W. Dixon</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Krista Kinslow</name>
@@ -30,7 +34,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -43,11 +47,12 @@
         <particDesc>
                 <person xml:id="N00002902">
                     <persName>
-                      Thomas Dixon
+                      Thomas W. Dixon
                         (farmer, henderson county)
                     </persName>
-                      <birth when="1813"></birth>
-                      <death when="unknown"></death>
+                      <birth when="1821"></birth>
+                      <death when="1908"></death>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -55,11 +60,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Born in Kentucky in 1813, Thomas Dixon was a farmer in Henderson county. </p>
+        <p>Henderson County, Kentucky, farmer. Kentucky native. Son of Thomas Q. Dixon and Mariah Dixon. Married Lydia Dixon. Father of George Washington Dixon, Charles F. Dixon, Harvey Dowen Dixon, and James D. Dixon. Farmer in Henderson County in 1850 and 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><p>Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Henderson County, division 1, p. 71.</p>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Henderson County, District No. 2, p. 342. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Henderson County, Division No. 1, p. 71. <em>Find A Grave</em>, &quot;Thomas W Dixon (1821-1908),&quot; Memorial #105345665, https://www.findagrave.com/memorial/105345665 (accessed November 30, 2017).</p>
 </bibl></ab>
     </back>
 </text>
