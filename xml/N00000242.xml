@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000242">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">J. D. Osborne</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000242">
+                    <persName>
+                      J. D. Osborne
+                        (Louisville, Kentucky, newspaper editor and owner)
+                    </persName>
+                      <birth when="c1823"></birth>
+                      <death when="unknown"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Louisville, Kentucky, newspaper editor and owner. Virginia native. Married to Harriet Osborne. Father of William J. E. Osborne, Emily Osborne, Jane M. Osborne, and Hattie Osborne. Editor at the <em>Louisville Journal</em> in 1860. Partner in the <em>Louisville Journal</em> with George D. Prentice and Isham Henderson. President of the Western Associated Press in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>&quot;An Act to incorporate the Louisville Journal Company,&quot; March 9, 1867, in Acts of the Commonwealth of Kentucky Passed by the General Assembly at the Adjourned Session (January 3, 1867) which was Begun and Held in the City of Frankfort, on Monday, the 4th Day of December, 1865 (Frankfort: Kentucky Yeoman Office, 1867), 437-38. A. T. Andreas, History of Chicago: from the Earliest Period to the Present Time, v. II From 1857 Until the Fire of 1871 (Chicago: A. T. Andreas Company, 1885), 500. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, 5th Ward, p. 144145.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
