@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00004024">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Braxton Small </title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Krista Kinslow</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00004024">
+                    <persName>
+                      Braxton Small 
+                        (Paducah, Kentucky, county court clerk and circuit court clerk)
+                    </persName>
+                      <birth when="c1798"></birth>
+                      <death when="1868-08-02"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Paducah, Kentucky, county court clerk and circuit court clerk. Kentucky native. Married to Grace Waterson Small on March 1, 1831. Father of Adelaide Small, J. C. Small, and Madora Small. Clerk of the McCracken County Court from 1831 to 1854. Clerk of the McCracken Circuit Court from 1831 to 1865. Treasurer of the Exchange Bank of Paducah in 1837. Manager of the Paducah Male and Female Academy in 1839.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, McCracken county, Paducah  district 2, p.134. <em>Find A Grave</em>, &quot;Braxton Small (1798-1868),&quot; Memorial #66577021, http://www.findagrave.com/memorial/66577021/braxton-small (accessed November 20, 2017). &quot;An Act Authorizing a Fund to be Raised by Lottery, for the Endowment of a Male and Female Academy, in the town of Paducah, and for Other Purposes,&quot; <em>Acts of the General Assembly of the Commonwealth of Kentucky</em> (Frankfort, Ky.: A. G. Hodges, State Printer, 1839), 139-141. John E. L. Robertson, <em>Paducah, Kentucky: A History</em> (Charleston, SC: The History Press, 2014), 153. <em>History and Families, McCracken County, Kentucky, 1824-1989</em> (McCracken County Genealogical and Historical Society, 1989), 29.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
