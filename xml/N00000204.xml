@@ -6,6 +6,14 @@
         <title level="a" type="main">John B. Bruner</title>
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name></name>
           </respStmt>
     </titleStmt>
@@ -26,7 +34,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -40,10 +48,11 @@
                 <person xml:id="N00000204">
                     <persName>
                       John B. Bruner
-                        ()
+                        (Breckinridge Co. State Sen)
                     </persName>
                       <birth when="1825-08-07"></birth>
                       <death when="1876-05-29"></death>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -51,11 +60,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Breckinridge County, Kentucky, attorney. Kentucky native. Served as a member of the Senate of the Commonwealth of Kentucky from 1857-1861 and 1865-1869.</p>
+        <p>Breckinridge County, Kentucky, attorney. Kentucky native. Member of the Senate of the Commonwealth of Kentucky from Breckinridge County from 1857 to 1861 and from 1865 to 1869. Attorney in Hardinsburg, Kentucky, in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breckinridge, District 1, p. 111. Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, KY: Collins &amp; Co., 1878), 96. <em>Find A Grave</em>, &quot;John B. Bruner (1825-1876),&quot; Memorial #33933100, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=33933100&amp;ref=acom (accessed August, 3, 2017).</p>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breckinridge, District 1, p. 111; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, KY: Collins &amp; Co., 1878), 96. <em>Find A Grave</em>, &quot;John B. Bruner (1825-1876),&quot; Memorial #33933100, https://www.findagrave.com/memorial/33933100 (accessed August, 3, 2017); John B. Bruner Papers, 1848-1876, Filson Historical Society, Louisville, Kentucky.</p>
 </bibl></ab>
     </back>
 </text>
