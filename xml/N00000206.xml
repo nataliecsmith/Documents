@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000206">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Isaac Price Miller</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000206">
+                    <persName>
+                      Isaac Price Miller
+                        (Jefferson co. farmer &amp; politician)
+                    </persName>
+                      <birth when="1817-12-19"></birth>
+                      <death when="1865-10-22"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Jefferson County, Kentucky, planter and politician. Kentucky native. Married to Anna Miller. Father of Alice Miller, Robert Miller, Isaac Miller, Florence Miller, and Juliet Miller. Member of the House of Representatives of the Commonwealth of Kentucky from Jefferson County in 1842, 1845, and 1847. Owned twenty-six enslaved people in 1850. Member of the Senate of the Commonwealth of Kentucky from Jefferson County from 1851 to 1855. Farmer in Jefferson County in 1860. Owned twenty-six enslaved people in 1860. Member of the Senate of the Commonwealth of Kentucky from Jefferson County from August 1862 to March 1863.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Jefferson County, District No. 2; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, District No. 1, p. 195; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Jefferson County, District No. 1, p. 22; <em>Journal of the Senate of the Commonwealth of Kentucky Begun and Held in the Town of Frankfort, on Monday, the Second Day of September, in the Year of Our Lord 1861, and of the Commonwealth the Seventieth</em> (Frankfort: Jno. B. Major, State Printer, 1861), 619; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 357; Miller-Thum Family Collection, 990PC47, Filson Historical Society, Louisville, Kentucky; <em>Find A Grave</em>, &quot;Isaac Price Miller (1817-1865),&quot; Memorial #166626317, https://www.findagrave.com/memorial/166626317 (accessed November 21, 2017).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
