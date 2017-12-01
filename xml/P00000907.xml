@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Mount Vernon, Rockcastle County, Kentucky</title>
+        <title level="a" type="main">Mount Vernon, Kentucky</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
@@ -38,7 +38,7 @@
 
         <encodingDesc>
             <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
                 </prefixDef>
             </listPrefixDef>
         </encodingDesc>
@@ -53,7 +53,7 @@
                     <placeName>
                         <location>
                               <geo>37.3529 -84.3405</geo>
-                            <settlement>Mount Vernon, Rockcastle County, Kentucky</settlement>
+                            <settlement>Mount Vernon, Kentucky</settlement>
                         </location>
                     </placeName>
                 </place> 
@@ -62,7 +62,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Seat of Rockcastle County. </p>
+        <p>Seat of Rockcastle County, Kentucky.</p>
 
     </body>
     <back>
