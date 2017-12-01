@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006801">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Henry Wendt</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hannah M. O&#39;Daniel</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Hannah M. O&#39;Daniel</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006801">
+                    <persName>
+                      Henry Wendt
+                        (Newport, Kentucky, blacksmith and city councilman)
+                    </persName>
+                      <birth when="1823"></birth>
+                      <death when="1901"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Newport, Kentucky, blacksmith and city councilman. Native of Prussia. Married to Louisa Wendt. Father of Amelia Wendt, Anna Wendt, Emma Wendt, and Edward Wendt. Blacksmith in Newport in 1850 and 1860. City councilman in Newport in 1862.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Ohio, Hamilton County, Cincinnati, Ward 5, p. 418. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Campbell County, Newport, p. 154. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Campbell County, Newport, p. 8. <em>Find A Grave</em>, &quot;Heinrich ‘Henry’ Wendt (1823-1901),&quot; Memorial #107226889, http://www.findagrave.com/memorial/107226889/heinrich-wendt (accessed June 1, 2017). KYR-0001-029-0586.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
