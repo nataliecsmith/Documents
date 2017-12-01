@@ -1,88 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0019"> 
- <teiHeader>
-  <fileDesc>
-   <titleStmt>
-    <title level="a" type="main">Grant Green to Thomas E. Bramlette</title>
-    <title level="a" type="parallel">CWG4138</title>
-    <respStmt>
-     <resp n="transcriber">Transcribed by:</resp>
-     <name>Anthony P Curtis</name>
-    </respStmt>
-    <respStmt>
-     <resp n="proof_1">Single Proof by:</resp>
-     <name>Whitney R Smith</name>
-    </respStmt>
-    <respStmt>
-     <resp n="encoding">Markup by:</resp>
-     <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Jesse Nasta</name>
-</respStmt>
-
-   </titleStmt>
-   <publicationStmt>
-    <publisher>Kentucky Historical Society</publisher>
-    <pubPlace>Frankfort, Kentucky</pubPlace>
-    <availability>
-     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
-    </availability>
-   </publicationStmt>
-   <seriesStmt>
-    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
-    <respStmt>
-     <resp>Project Director</resp>
-     <name>Patrick A. Lewis</name>
-    </respStmt>
-   </seriesStmt>
-   <sourceDesc>
-    <msDesc>
-    <msIdentifier>
-      <country>UNITED STATES</country>
-      <region>KY</region>
-      <settlement>Frankfort</settlement>
-      <repository>Kentucky Department for Libraries and Archives</repository>
-      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
-      <idno>BR8-29</idno>
-     </msIdentifier>
-    </msDesc>
-   </sourceDesc>
-  </fileDesc>
-  <profileDesc>
-   <creation>
-    <placeName>Frankfort, Franklin County, Kentucky</placeName>
-    <date when="1863-09">September 1863</date>
-   </creation>
-   <textClass>
-    <keywords>
-     <term type="genre">Correspondence</term>
-    </keywords>
-   </textClass>
-  </profileDesc>
- </teiHeader>
- <text>
-  <body>
-   <p><orgName ref="cwgk:O00004702">Auditors office Ky.</orgName><lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> <date when="1863-09">Septr 1863</date>.
-<lb/>Gov<hi rend="sup">r</hi> <persName ref="cwgk:N001000">Bramlette
-</persName><lb/>Dear Sir.</p>
-<p>The state has a judgement ^by the <orgName ref="cwgk:O00000376">Franklin Circuit Court</orgName>,^ against <persName ref="cwgk:N00004701">Ben Botts</persName> Sheriff of <orgName ref="cwgk:O00000623">Fleming County</orgName>, and his Sureties for a balance are upon the revenue of <placeName ref="cwgk:P00000542">Fleming Co</placeName> for <date when="1862">1862</date>. of $2073 <hi rend="sup">68</hi>/<hi rend="sub">100</hi> principal, $414.<hi rend="underline"><hi rend="sup">73</hi></hi> Damages and $7 <hi rend="sup">45</hi>/<hi rend="sub">100</hi> Costs of Sev't. The Sheriff has paid the pricial and costs &amp;c as required by law, and beliving that his case is one for Executive Clemency I respectfully ask that you will remit the Damages of $414 <hi rend="sup">73</hi>/<hi rend="sub">100</hi>.</p>
-<p>Respectfully
-<lb/><persName ref="cwgk:N00000466">Grant Green
-</persName><lb/>Aud<hi rend="sup">r</hi></p>
-<p>Remit the damages above stated <date when="1863-09-14">Sept 14<hi rend="sup">th</hi> 1863</date></p>
-<p>Tho E Bramlette<pb/></p>
-<p>Franklin
-<lb/>Cir Ct
-<lb/>vs
-<lb/>Ben Botts
-<lb/>$414.<hi rend="sup">73</hi> damages
-<lb/><date when="1863-09-14">14<hi rend="sup">th</hi> Sept/63</date></p>
-  </body>
- </text>
-</TEI>
+﻿<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0019">  <teiHeader>  <fileDesc>   <titleStmt>    <title level="a" type="main">Grant Green to Thomas E. Bramlette</title>    <title level="a" type="parallel">CWG4138</title>    <respStmt>     <resp n="transcriber">Transcribed by:</resp>     <name>Anthony P Curtis</name>    </respStmt>    <respStmt>     <resp n="proof_1">Single Proof by:</resp>     <name>Whitney R Smith</name>    </respStmt>    <respStmt>     <resp n="encoding">Markup by:</resp>     <name>Matthew C Hulbert</name>    </respStmt>    <respStmt>     <resp n="proof_2">Double Proof by:</resp>     <name>Patrick A Lewis</name>    </respStmt>   </titleStmt>   <publicationStmt>    <publisher>Kentucky Historical Society</publisher>    <pubPlace>Frankfort, Kentucky</pubPlace>    <availability>     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>    </availability>   </publicationStmt>   <seriesStmt>    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>     <title level="s" type="sub">Early Access</title>    <respStmt>     <resp>Project Director</resp>     <name>Patrick A. Lewis</name>    </respStmt>   </seriesStmt>   <sourceDesc>    <msDesc>    <msIdentifier>      <country>UNITED STATES</country>      <region>KY</region>      <settlement>Frankfort</settlement>      <repository>Kentucky Department for Libraries and Archives</repository>      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>      <idno>BR8-29</idno>     </msIdentifier>    </msDesc>   </sourceDesc>  </fileDesc>  <profileDesc>   <creation>    <placeName>Frankfort, Franklin County, Kentucky</placeName>    <date when="1863-09">September 1863</date>   </creation>   <textClass>    <keywords>     <term type="genre">Correspondence</term>    </keywords>   </textClass>  </profileDesc> </teiHeader> <text>  <body>   <p>Auditors office Ky,<lb/>Frankfort <date when="1863-09">Septr 1863</date>.<lb/>Gov<hi rend="sup">r</hi> Bramlette<lb/>Dear Sir.</p><p>The state has a judgment ^by the Franklin Circuit Court,^ against Ben Botts Sheriff of Fleming County, and his Sureties for a balance due upon the revenue of Fleming Co for <date when="1862">1862</date>. of &#36;2073 <hi rend="sup">68</hi>/<hi rend="sub">100</hi>. principal, &#36;414<hi rend="underline"><hi rend="sup">73</hi></hi> Damages and &#36;7 <hi rend="sup">45</hi>/<hi rend="sub">100</hi> costs of Sev't. The sheriff has paid the pricial and costs &amp;<hi rend="sup">c</hi> as required by law, and beliveing that his case is one for Executive Clemency, I respectfully ask that you will remit the Damages of &#36;414 <hi rend="sup">73</hi>/<hi rend="sub">100</hi>.</p><p>Respectfully<lb/>Grant Green<lb/>Aud<hi rend="sup">r</hi></p><p>Remit the damages above stated <date when="1863-09-14">Sept 14<hi rend="sup">th</hi> 1863</date></p><p>Tho E Bramlette<pb/></p><p>Franklin Cir Ct<lb/>vs<lb/>Ben Botts<lb/>&#36;414.<hi rend="underline"><hi rend="sup">73</hi></hi> damages<lb/><date when="1863-09-14">14<hi rend="sup">th</hi> Sept/63</date></p>  </body> </text></TEI>
