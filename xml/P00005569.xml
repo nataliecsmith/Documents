@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Crab Orchard, Lincoln County, Kentucky</title>
+        <title level="a" type="main">Crab Orchard, Kentucky</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Samuel T. Whittaker</name>
@@ -30,7 +30,7 @@
 
         <encodingDesc>
             <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
                 </prefixDef>
             </listPrefixDef>
         </encodingDesc>
@@ -45,7 +45,7 @@
                     <placeName>
                         <location>
                               <geo>37.4645 -84.5066</geo>
-                            <settlement>Crab Orchard, Lincoln County, Kentucky</settlement>
+                            <settlement>Crab Orchard, Kentucky</settlement>
                         </location>
                     </placeName>
                 </place> 
