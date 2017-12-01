@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006781">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Gustavus Artsman</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Hannah M. O&#39;Daniel</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00006781">
+                    <persName>
+                      Gustavus Artsman
+                        (Newport, Kentucky, attorney, and circuit court clerk)
+                    </persName>
+                      <birth when="1829-10-06"></birth>
+                      <death when="1902"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Newport, Kentucky, attorney, and circuit court clerk. Native of Saxony. Married to Sarah &quot;Sallie&quot; Artsman. Father of Jeanne Artsman, Augusta Artsman, Josie Artsman, Sussie Artsman, and Sallie Artsman. Clerk of the Campbell Circuit Court from 1858 to 1863. Attorney in Newport in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Campbell County, Newport, p. 182. <em>Tenth Manuscript Census of the United States</em> (1880), Population Schedules, Kentucky, Campbell County, Newport, p. 2. <em>Passport Applications, 1795-1905</em>, Roll 229, May 23, 1879, no. 12656, National Archives and Records Administration, Washington, D.C. Thomas S. Page, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1859</em> (Frankfort, KY: John B. Major, 1860), p. 290. Grant Green, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1861</em> (Frankfort, KY: John B. Major, 1862), p. 305. <em>Find A Grave</em>, &quot;Gustavus Artsman (1829-1902),&quot; Memorial #90113818, http://www.findagrave.com/memorial/90113818/gustavus-artsman (accessed June 1, 2017). KYR-0001-029-0586.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
