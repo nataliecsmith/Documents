@@ -1,1 +1,106 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0008">  <teiHeader>  <fileDesc>   <titleStmt>    <title level="a" type="main">C. B. Anderson et al. to James F. Robinson</title>    <title level="a" type="parallel">CWG4127</title>    <respStmt>     <resp n="transcriber">Transcribed by:</resp>     <name>Anthony P Curtis</name>    </respStmt>    <respStmt>     <resp n="proof_1">Single Proof by:</resp>     <name>Whitney R Smith</name>    </respStmt>    <respStmt>     <resp n="encoding">Markup by:</resp>     <name>Matthew C Hulbert</name>    </respStmt>    <respStmt>     <resp n="proof_2">Double Proof by:</resp>     <name>Patrick A Lewis</name>    </respStmt>   </titleStmt>   <publicationStmt>    <publisher>Kentucky Historical Society</publisher>    <pubPlace>Frankfort, Kentucky</pubPlace>    <availability>     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>    </availability>   </publicationStmt>   <seriesStmt>    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>     <title level="s" type="sub">Early Access</title>    <respStmt>     <resp>Project Director</resp>     <name>Patrick A. Lewis</name>    </respStmt>   </seriesStmt>   <sourceDesc>    <msDesc>    <msIdentifier>      <country>UNITED STATES</country>      <region>KY</region>      <settlement>Frankfort</settlement>      <repository>Kentucky Department for Libraries and Archives</repository>      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>      <idno>BR8-12</idno>     </msIdentifier>    </msDesc>   </sourceDesc>  </fileDesc>  <profileDesc>   <creation>    <placeName>Maysville, Mason County, Kentucky</placeName>    <date when="1863-08-26">26 August 1863</date>   </creation>   <textClass>    <keywords>     <term type="genre">Petition</term>    </keywords>   </textClass>  </profileDesc> </teiHeader> <text>  <body>   <p>Maysville Ky, <date when="1863-08-26">Aug<hi rend="underline"><hi rend="sup">t</hi></hi> 26. 1863</date>.<lb/>To his Excellency,<lb/>The Governor of Kentucky<lb/>Sir:</p><p>On the <date when="1863-06-13">13th of last June</date>, Edward Fleming, of our City, a very poor man, and so crippled as to disable him (physically) to maintain his family, which is quite large, was fined by our Mayor &#36;20. &amp; costs, for selling a drink of liquor.</p><p>Under all the circumstances of the case, we respectfully ask your Excellency to remit the fine; feeling that you would be doing justice to his wife and children.</p><p><milestone unit="column" n="2"/><cb n="1"/>C. B, Anderson,<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> C Jenkins<lb/>Ryan and Batty.<lb/>H, Ryan.<lb/>W, F, Wilson<lb/>R. G. January<lb/>Lewis Dessar<lb/>H Bertram<lb/>James Shackleford<lb/><hi rend="underline">H. Taylor.</hi><lb/><cb n="2"/>Ross &amp; Newell<lb/>Saml W. Owens<lb/>Henry L. Newell<lb/>J, H, Rains<lb/>C G Cady<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Parker<lb/>Charles Phister.<lb/>J. Wormald<lb/>W<hi rend="sup">m</hi> Davis<lb/>Thos, K, Ricketts<lb/>N. Cooper<lb/>David Clark J<hi rend="underline"><hi rend="sup">r</hi></hi><cb n="1"/><pb/></p><p>Edward Fleming<lb/>Pet for Remission of fine &#36;20 -- for retailing<lb/>Refused<lb/>Tho E Bramlette<lb/><date when="1863-09-07">Sept 7<hi rend="sup">th</hi> 1863</date></p><p>Maysville<lb/>Mayor<lb/>Edward Fleming<lb/>Tipling</p>  </body> </text></TEI>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0008"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">C. B. Anderson et al. to James F. Robinson</title>
+    <title level="a" type="parallel">CWG4127</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR8-12</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Maysville, Mason County, Kentucky</placeName>
+    <date when="1863-08-26">26 August 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Maysville Ky, <date when="1863-08-26">Aug<hi rend="underline"><hi rend="sup">t</hi></hi> 26. 1863</date>.
+<lb/>To his Excellency,
+<lb/>The Governor of Kentucky
+<lb/>Sir:</p>
+<p>On the <date when="1863-06-13">13th of last June</date>, Edward Fleming, of our City, a very poor man, and so crippled as to disable him (physically) to maintain his family, which is quite large, was fined by our Mayor &#36;20. &amp; costs, for selling a drink of liquor.</p>
+<p>Under all the circumstances of the case, we respectfully ask your Excellency to remit the fine; feeling that you would be doing justice to his wife and children.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>C. B, Anderson,
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> C Jenkins
+<lb/>Ryan and Batty.
+<lb/>H, Ryan.
+<lb/>W, F, Wilson
+<lb/>R. G. January
+<lb/>Lewis Dessar
+<lb/>H Bertram
+<lb/>James Shackleford
+<lb/><hi rend="underline">H. Taylor.</hi>
+<lb/><cb n="2"/>Ross &amp; Newell
+<lb/>Saml W. Owens
+<lb/>Henry L. Newell
+<lb/>J, H, Rains
+<lb/>C G Cady
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Parker
+<lb/>Charles Phister.
+<lb/>J. Wormald
+<lb/>W<hi rend="sup">m</hi> Davis
+<lb/>Thos, K, Ricketts
+<lb/>N. Cooper
+<lb/>David Clark J<hi rend="underline"><hi rend="sup">r</hi></hi><cb n="1"/><pb/></p>
+<p>Edward Fleming
+<lb/>Pet for Remission of fine &#36;20 -- for retailing
+<lb/>Refused
+<lb/>Tho E Bramlette
+<lb/><date when="1863-09-07">Sept 7<hi rend="sup">th</hi> 1863</date></p>
+<p>Maysville
+<lb/>Mayor
+<lb/>Edward Fleming
+<lb/>Tipling</p>
+  </body>
+ </text>
+</TEI>

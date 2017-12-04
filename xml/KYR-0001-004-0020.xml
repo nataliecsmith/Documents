@@ -1,1 +1,77 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0020">  <teiHeader>  <fileDesc>   <titleStmt>    <title level="a" type="main">J. J. Perrin to Thomas E. Bramlette</title>    <title level="a" type="parallel">CWG4139</title>    <respStmt>     <resp n="transcriber">Transcribed by:</resp>     <name>Anthony P Curtis</name>    </respStmt>    <respStmt>     <resp n="proof_1">Single Proof by:</resp>     <name>Whitney R Smith</name>    </respStmt>    <respStmt>     <resp n="encoding">Markup by:</resp>     <name>Matthew C Hulbert</name>    </respStmt>    <respStmt>     <resp n="proof_2">Double Proof by:</resp>     <name>Patrick A Lewis</name>    </respStmt>   </titleStmt>   <publicationStmt>    <publisher>Kentucky Historical Society</publisher>    <pubPlace>Frankfort, Kentucky</pubPlace>    <availability>     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>    </availability>   </publicationStmt>   <seriesStmt>    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>     <title level="s" type="sub">Early Access</title>    <respStmt>     <resp>Project Director</resp>     <name>Patrick A. Lewis</name>    </respStmt>   </seriesStmt>   <sourceDesc>    <msDesc>    <msIdentifier>      <country>UNITED STATES</country>      <region>KY</region>      <settlement>Frankfort</settlement>      <repository>Kentucky Department for Libraries and Archives</repository>      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>      <idno>BR8-30 to BR8-31</idno>     </msIdentifier>    </msDesc>   </sourceDesc>  </fileDesc>  <profileDesc>   <creation>    <placeName>Louisville, Jefferson County, Kentucky</placeName>    <date when="1863-09-09">9 September 1863</date>   </creation>   <textClass>    <keywords>     <term type="genre">Petition</term>    </keywords>   </textClass>  </profileDesc> </teiHeader> <text>  <body>   <p>Louisville, Ky. <date when="1863-09-09">Sept. 9<hi rend="sup">th</hi> 1863</date>.<lb/>To His Excellency, the Hon. Governor of the Commonwealth of Kentucky</p><p>Your Excellency, will permit me Respectfully to Solicit your clemency on behalf of your humble petitioners mentioned on the <hi rend="str">p</hi>documents presented to you by Joseph Henin, I Know that he has acted in this case, as well as his Security Mr Ch<hi rend="sup">s</hi> Dupuy, with disinterestidness, and, if one or the other were obliged to pay the fine mentioned, they would be reduced to misfortune. I respectfully solicit in their favor, And Hope that your Excellency, will take the case of the applicant, into full consideration,</p><p>Very Respectfully:<lb/>Your most obed Servant<lb/>J. J. Perrin<lb/>asst Vice Consul of France</p><p>To His Excellency Governor Bramlette:</p>  </body> </text></TEI>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0020"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">J. J. Perrin to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG4139</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Matthew C Hulbert</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Early Access</title>
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's official correspondence file, petitions for pardons, remissions, and respites 1863-1867</collection>
+      <idno>BR8-30 to BR8-31</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <date when="1863-09-09">9 September 1863</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p>Louisville, Ky. <date when="1863-09-09">Sept. 9<hi rend="sup">th</hi> 1863</date>.
+<lb/>To His Excellency, the Hon. Governor of the Commonwealth of Kentucky</p>
+<p>Your Excellency, will permit me Respectfully to Solicit your clemency on behalf of your humble petitioners mentioned on the <hi rend="str">p</hi>documents presented to you by Joseph Henin, I Know that he has acted in this case, as well as his Security Mr Ch<hi rend="sup">s</hi> Dupuy, with disinterestidness, and, if one or the other were obliged to pay the fine mentioned, they would be reduced to misfortune. I respectfully solicit in their favor, And Hope that your Excellency, will take the case of the applicant, into full consideration,</p>
+<p>Very Respectfully:
+<lb/>Your most obed Servant
+<lb/>J. J. Perrin
+<lb/>asst Vice Consul of France</p>
+<p>To His Excellency Governor Bramlette:</p>
+  </body>
+ </text>
+</TEI>
