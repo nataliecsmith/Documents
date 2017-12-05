@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0021"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Jesse Nasta</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>Patrick A Lewis</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,15 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000936">Covington Ky</placeName> <date when="1863-09-01">Sept 1, 1863</date>
+   <p>Covington Ky <date when="1863-09-01">Sept 1, 1863</date>
 <lb/>To His Excellency
-<lb/>The Governor of <orgName ref="cwgk:O001025">Kentucky</orgName>:</p>
-<p>The accompanying Petition prepared to forward to forward to <persName ref="cwgk:N001004">Governor Robinson</persName> has been delayed and it is now enclosed to your Excellency as his successor. I heard the entire proof in the case and the Petition sets the<hi rend="str">n</hi> ^facts^ forth very fairly. The Petitioner was indicted with several others which may be the reason his fine was so severe. I am acquainted with the Petitioner and recommend him to Executive clemency. With assurances of high Esteem.</p>
-<p>Your Obt Servant
-<lb/><persName ref="cwgk:N00000459">John P. Harrison
-</persName><lb/>P.S. Please address reply to Box 303. Covington, Ky.<pb/></p>
+<lb/>The Governor of Kentucky:</p>
+<p>The accompanying Petition prepared to forward to forward to Governor Robinson has been delayed and it is now enclosed to your Excellency as his successor. I heard the entire proof in the case and the Petition sets the<hi rend="str"><unclear>se</unclear></hi> ^facts^ forth very fairly, The Petitioner was indicted with several others which may be the reason his fine was so severe. I am acquainted with the Petitioner and recommend him to Executive clemency. With assurances of high esteem,</p>
+<p>Your obt servant
+<lb/>John. P. Harrison.</p>
+<p>P.S. Please address reply to Box 303. Covington, Ky,<pb/></p>
 <p>To His Excellency
-<lb/><persName ref="cwgk:N001000">Governor Bramlette</persName></p>
+<lb/>Governor Bramlette</p>
   </body>
  </text>
 </TEI>
