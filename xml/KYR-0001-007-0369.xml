@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0369"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,15 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P001006">State of Pennsylvania
-</placeName><lb/><placeName ref="cwgk:P00001701">City &amp; County of Philad</placeName>" } SS.</p>
-<p><persName ref="cwgk:N00002560">Joshua Spering</persName> being duly sworn according to law, doth say, that he will well and truly execute and perform all the duties of the office of Commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName></p>
+   <p>State of Pennsylvania
+<lb/>City &amp; County of Philad<hi rend="sup">a</hi> &#125; Ss.</p>
+<p>Joshua Spering being duly sworn according to law, doth say, that he will well and truly execute and perform all the duties of the office of Commissioner of Deeds for the State of Kentucky</p>
 <p>Joshua Spering</p>
-<p>Sworn to and subscribed before me <date when="1865-02-17">February 17 1865</date>.</p>
-<p><persName ref="cwgk:N00005453">John White</persName><lb/>An alderman and Ex officio
-<lb/>Justice of the Peace -- <pb/></p>
+<p>Sworn to and subscribed before me <date when="1865-02-17">February 17-- 1865--</date></p>
+<p>John White
+<lb/>An alderman and ex officio
+<lb/>Justice of the Peace--<pb/></p>
 <p>Pennsylvania
-<lb/>Com<hi rend="sup">r</hi> Deeds
+<lb/>Comr Deeds
 <lb/>Oath of Joshua Spering
 <lb/>Filed <date when="1865-02-20">20<hi rend="sup">th</hi> Feby 1865</date></p>
   </body>

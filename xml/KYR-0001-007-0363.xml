@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0363"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,15 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00003745">Brownsville Ky</placeName> <date when="1865-02-01">Feb 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1865</date>
-<lb/>Mr<persName ref="cwgk:N001000"> Ths E Bramlet</persName><lb/>Gov of Ky</p>
-<p>Sir I Tender this as my resignation as a Justice of the peace for <placeName ref="cwgk:P00000441">Edmonson County Ky</placeName> in District known as the <unclear>Meardith</unclear> Precinct</p>
-<p>Your Respetifuly
-<lb/><persName ref="cwgk:N00005030">P. P. Pace</persName><pb/>
-<lb/>Justice Peace
-<lb/>Edmonson Co
-<lb/>Resignation
-<lb/>Accepted
+   <p>Brownsville Ky <date when="1865-02-01">Feb 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1865</date>
+<lb/>M<hi rend="underline">r</hi> Ths E Bramlet
+<lb/>Gov of Ky</p>
+<p>Sir I Tender this as my resignation as a Justice of the peace for Edmondson County Ky in District known as the <unclear>Meardith</unclear> Precinct</p>
+<p>Yours Respectifuly
+<lb/><hi rend="underline">P, P, Pace</hi><pb/></p>
+<p>Justice Peace
+<lb/>Edmondson Co
+<lb/>Resignation Accepted
 <lb/><date when="1865-02-03">3<hi rend="sup">d</hi> Feby/65</date></p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0368"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,18 +63,24 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P001007">State of New York</placeName><lb/><placeName ref="cwgk:P00002569">City &amp; County of New York</placeName><lb/>SS:</p>
-<p>I, <persName ref="cwgk:N00004998">Christian Von Hesse</persName> do solemnly swear, that I will well and truly execute and perform all the duties of the office of a Commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName>, within the State of New York, So help me God</p>
-<p>Christian Von Hesse</p>
-<p><stamp type="revenue"/><note place="stamp">C. V. H.
-<lb/><date when="1865-02-13">Febt 13
+   <p>State of New York
+<lb/>City &amp; County of New York &#125; Ss:</p>
+<p>I, Christian Von Hesse do solemnly swear, that I will well and truly execute and perform all the duties of the office of a Commissioner of Deeds for the State of Kentucky, within the State of New York, So help me God</p>
+<p>Christianvon Hesse</p>
+<p><stamp type="revenue"/><note place="stamp">C, V, H,
+<lb/><date when="1865-02-13">Febr 13
 <lb/>1865</date></note></p>
 <p>Sworn to before me this <date when="1865-02-13">13th day of February 1865</date></p>
-<p><persName ref="cwgk:N00006548">M. S. Updyke</persName><lb/>Notary Public
-<lb/>New York County<figure type="seal"/><pb/></p>
+<p>W. S. Opdyke
+<lb/>Notary Public
+<lb/>New York County</p>
+<p><figure type="seal"><ab>WILLIAM S. OPDYKE
+<lb/>NOTARY
+<lb/>PUBLIC
+<lb/>NEW YORK</ab></figure><pb/></p>
 <p>Com<hi rend="sup">r</hi> Deeds
 <lb/>New York
-<lb/>Oath of C. Von Hesse filed <date when="1865-02-20">20<hi rend="sup">th</hi> Feby 1865</date></p>
+<lb/>Oath of C. Von Jesse filed <date when="1865-02-20">20<hi rend="sup">th</hi> Feby 1865</date></p>
   </body>
  </text>
 </TEI>

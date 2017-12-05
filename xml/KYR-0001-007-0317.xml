@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0317"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,14 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00001134">District of Columbia</placeName><lb/>County of Washington } SS</p>
-<p>I <persName ref="cwgk:N00000531">John S. Hollingshead</persName> of Washington City and District of Columbia, having been appointed a Commissioner Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName>, in and for the District of Columbia, do solemnly swear that I will faithfully, well and truly execute and perform the duties of said station to the best of my skill and ability so help me God.</p>
+   <p>District of Columbia
+<lb/>County of Washington &#125; S S</p>
+<p>I John S. Hollingshead of Washington City and District of Columbia, having been appointed a Commissioner Deeds for the State of Kentucky, in and for the District of Columbia, do solemnly swear that I will faithfully, well and truly execute and perform the duties of said station to the best of my skill and ability so help me God.</p>
 <p>John S. Hollingshead</p>
-<p>Sworn and subscribed to before me this <date when="1864-11-21">21<hi rend="sup">st</hi> day of November A. D. 1864</date>.</p>
-<p><persName ref="cwgk:N00001135">Chs. P. Wannace</persName> J.P.<lb/>Justice of the Peace<pb/></p>
+<p>Sworn and subscribed to before me this <date when="1864-11-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> day of November A. D. 1864</date>.</p>
+<p>Chs. P. Wannall J. P.
+<lb/>Justice of the Peace<pb/></p>
 <p>Com<hi rend="sup">r</hi> of Deeds
 <lb/>Oath of J. S. Hollingshead
-<lb/>Washington City D. C.
+<lb/>Washington City D. C
 <lb/>Filed <date when="1864-11-26">26<hi rend="sup">th</hi> Nov/64</date></p>
   </body>
  </text>

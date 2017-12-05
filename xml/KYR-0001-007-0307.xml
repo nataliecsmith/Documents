@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0307"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -57,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Independence, Kenton County, Kentucky</placeName>
-    <date when="1864-10-17">17 October 1864</date>
+    <date when="1864-10-12">12 October 1864</date>
    </creation>
    <textClass>
     <keywords>
@@ -68,23 +63,28 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000565">Independence
-</placeName><lb/><date when="1864-10-17">Oct 17<hi rend="sup">th</hi> 1864</date>
-<lb/>To his Excellency<persName ref="cwgk:N001000"> Govr Bramblette</persName>,</p>
-<p>I herewith tender my resignation as Majistrate of the 3<hi rend="sup">d</hi> Majisterial district of <placeName ref="cwgk:P00000937">Kenton County</placeName>,,, and recomend to you as my sucessor, <persName ref="cwgk:N00000532">Aaron Striger</persName>; who is a good Loyal Citizen and in every way capable of discharging the duties of the office</p>
-<p><persName ref="cwgk:N00000533">William Brown</persName> J. P.</p>
-<p>We the undersigned citizens of the 3<hi rend="sup">d</hi> Majisterial district fully concur in the above recommendation</p>
-<p>This <date when="1864-10-12">12<hi rend="sup">th</hi> day of October 1864</date>
-<lb/><persName ref="cwgk:N00000964">L Shaun</persName> P J K c c<lb/><persName ref="cwgk:N00000534">C W Cain</persName><lb/><persName ref="cwgk:N00000543">B Wilshine
-</persName><lb/><persName ref="cwgk:N00002720">L. A. Wilson</persName><lb/><persName ref="cwgk:N00000546">L. Brbymer</persName> D. S.<lb/><persName ref="cwgk:N00002719">G Higgins</persName> c k c<lb/><persName ref="cwgk:N00000536">Moses West</persName><lb/><persName ref="cwgk:N00000540">E. J. McCollum</persName></p>
+   <p>Independence
+<lb/><date when="1864-10-12">Oct 12<hi rend="sup">th</hi> 1864</date>
+<lb/>To his Excellency, Gov<hi rend="sup">r</hi> Bramblette,</p>
+<p>I herewith tender my resignation as Majistrate of the 3<hi rend="sup">d</hi> Majisterial district of Kenton County,,, and recomend to you as my sucessor, Aaron Striger. who is a good Loyal Citizen and in every way Capable of discharging the duties of the office</p>
+<p>William Brown J. P.</p>
+<p>We the undersigned Citizens of the 3<hi rend="sup">d</hi> Majisterial district fully Concur in the above recommendation</p>
+<p>This <date when="1864-10-12">12<hi rend="sup">th</hi> day of October 1864</date></p>
+<p>L Shaw P J K c c
+<lb/>C W Cain
+<lb/>B Wilshire
+<lb/>L. A. Wilson
+<lb/>L. B' Hymer D. S.
+<lb/>G Higgins c k c
+<lb/>Moses West
+<lb/>E, J, M<hi rend="sup">c</hi>Collum</p>
 <p>Dear Sir</p>
-<p>You will please attend to this at the earliest time as the present incumbent is about to remove from the state.</p>
+<p>You will please attend to this at the earliest time, as the present incumbent is about to remove from the state,</p>
 <p>Yours Respectfully
-<lb/>William Brown<pb/></p>
+<lb/><hi rend="underline">William Brown</hi><pb/></p>
 <p>Kenton County
 <lb/>Justice Peace
-<lb/>Resignation of W<hi rend="sup">m</hi> Brown accepted &amp; Aaron Striger appt<hi rend="sup">d</hi>
-<lb/><date when="1864-10-15">15<hi rend="sup">th</hi> Oct/<hi rend="underline">64</hi></date></p>
+<lb/>Resignation of W<hi rend="sup">m</hi> Brown accepted &amp; Aaron Striger appt<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1864-10-15">15<hi rend="sup">th</hi> Oct/<hi rend="underline">64</hi></date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0354"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,17 +63,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of <placeName ref="cwgk:P001800">Kentucky</placeName><lb/><placeName ref="cwgk:P00000542">Fleming County</placeName> Sct<lb/><date when="1864-10">October Term 1864</date></p>
-<p>It appearing to the satisfaction of the court that <persName ref="cwgk:N00005014">Joseph B. Northcott</persName> Esq a Justice of the Peace for the<placeName ref="cwgk:P00005015"> Hillsboro </placeName>District No 4 in this county has vacated his office by his removal from the District and County It is ordered that <persName ref="cwgk:N00005008">John Gray</persName>, be recommended to the <persName ref="cwgk:N001000">governor of Kentucky</persName> as a suitable person to fill said vacancy until the regular Election.</p>
-<p>A copy attest
-<lb/>W<hi rend="sup">m</hi>. T. Dudley clerk
-<lb/>of the Fleming County Court<pb/></p>
+   <p>State of Kentucky
+<lb/>Fleming County Sct
+<lb/><date when="1864-10">October Term 1864</date></p>
+<p>It appearing to the satisfaction of the Court that Joseph B. Northcott Esq<hi rend="sup">r</hi> a Justice of the Peace for the Hillsboro District No 4 in this county has vacated his office by his removal from the District and County It is ordered that John Gray, be recommended to the governor of Kentucky as a suitable person to fill said vacancy until the regular Election.</p>
+<p>A copy Attest
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> T. Dudley clerk
+<lb/>of the Fleming County court<pb/></p>
 <p>Fleming Co
 <lb/>Justice Peace
 <lb/>Dis N<hi rend="sup">o</hi> 4
 <lb/>John Gray
-<lb/>appt<hi rend="sup">d</hi>
-<lb/><date when="1865-01-05">5<hi rend="sup">th</hi> Jany/65</date></p>
+<lb/>appt<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1865-01-05">5<hi rend="sup">th</hi> Jany/65</date></p>
   </body>
  </text>
 </TEI>

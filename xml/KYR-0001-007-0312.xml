@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0312"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">George W. Hall to Thomas E. Bramlette</title>
+    <title level="a" type="main">George W. Hull to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG1977</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,17 +64,17 @@
  <text>
   <body>
    <p>Louisville Ky <date when="1864-10-15">Octbr 15/64</date>
-<lb/>To His Excellency Governor Thomas E. Bramlette, Frankfort, Ky.
+<lb/>To His Excellency Governor Thomas E. Bramlette, Frankfort. Ky,
 <lb/>Dear Sir</p>
 <p>I am desirous of obtaining a commission as Notary Public for this (Jefferson) County. I am a practicing lawyer of this city and the office above mentioned will be of convenience to me and of some advantage to the Public. I call your Excellencys attention to the enclosed card for reference, etc.</p>
 <p>Very Respectfully
-<lb/>I remain yours
-<lb/>Geo. W. Hull<pb/></p>
+<lb/>I remain Yours
+<lb/>Geo. W, Hull<pb/></p>
 <p>Jefferson Co
 <lb/>Notary Public
-<lb/>G W Hull
-<lb/>appt<hi rend="sup">d</hi>
-<lb/><date when="1864-10-21">21<hi rend="sup">st</hi> Oct/64</date></p>
+<lb/>G W Hull appt<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1864-10-21">21<hi rend="sup">st</hi>, Oct/64</date></p>
+<p><hi rend="underline">158</hi>
+<lb/>1328</p>
   </body>
  </text>
 </TEI>

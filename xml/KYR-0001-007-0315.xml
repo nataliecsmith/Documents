@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0315"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -67,11 +62,10 @@
  </teiHeader>
  <text>
   <body>
-   <p><orgName ref="cwgk:O00001133">Feeble M. Institute</orgName><lb/><persName ref="cwgk:N00001131">S. C. Bull
-</persName><lb/>appt<hi rend="sup">d</hi>
-<lb/>Commissioner
-<lb/><date when="1864-10-19">19<hi rend="sup">th</hi> Nov/64</date><pb/></p>
-<p>"Appoint Saml C Bull Commissioner of Feeble Minded Institute vice <persName ref="cwgk:N00001132">Jas M. Todd</persName> Resigned</p>
+   <p>Feeble M. Institute
+<lb/>S. C. Bull
+<lb/>appt<hi rend="underline"><hi rend="sup">d</hi></hi> Commissioner <date when="1864-10-19">19<hi rend="sup">th</hi> Nov/64</date><pb/></p>
+<p>"Appoint Sam C Bull Commissioner of Fe<hi rend="str">a</hi>eble Minded Institute vice Jas M. Todd Resigned</p>
   </body>
  </text>
 </TEI>

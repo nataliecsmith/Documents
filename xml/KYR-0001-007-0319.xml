@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0319"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,19 +63,23 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00006526">City and County of San Francisco</placeName><lb/><placeName ref="cwgk:P00002428">State of California</placeName> } SS.<lb/><stamp type="revenue"/><note place="stamp"><date when="1864-11-09">Nov 9/64</date>
+   <p><stamp type="revenue"/><note place="stamp"><date when="1864-11-09">Nov 9/64</date>
 <lb/>E D S
 <lb/>29</note></p>
-<p>I, <persName ref="cwgk:N00001139">N. Proctor Smith</persName>, duly appointed by the <persName ref="cwgk:N001000">Governor of the State of Kentucky</persName>, a Commissioner for the <orgName ref="cwgk:O001025">State of Kentucky</orgName>, resident at the City and County of San Francisco, in the State of California, do Solemnly swear, that I will well and faithfully execute and perform all the duties of Such Commissioner under and by virtue of the laws of Said <orgName ref="cwgk:O001025">State of Kentucky</orgName>.</p>
+<p>City and County of San Francisco
+<lb/>State of California &#125; S S.</p>
+<p>I, N. Proctor Smith, duly appointed by the Governor of the State of Kentucky, a Commissioner for the State of Kentucky, resident at the City and County of San Francisco, in the State of California. do Solemnly Swear, that I will well and faithfully execute and perform all the duties of Such Commissioner under and by virtue of the laws of Said State of Kentucky,</p>
 <p>N. Proctor Smith</p>
 <p>Sworn and Subscribed before me this the <date when="1864-11-09">Ninth day of November A. D. 1864</date></p>
-<p><figure type="seal"><ab>N. PROCTOR SMITH COMMISSIONER 
-<lb/>FOR THE STATE OF KENTUCKY
-<lb/>STATE OF CALIFORNIA</ab></figure></p>
-<p><persName ref="cwgk:N00001138">E. D. Sawyer</persName><lb/>District Judge
-<lb/><orgName ref="cwgk:O00001137">Fourth Judicial District</orgName><pb/></p>
+<p>E, D, Sawyer
+<lb/>District Judge
+<lb/>Fourth Judicial District</p>
+<p><figure type="seal"><ab>N. PROCTOR SMITH, COMMISSIONER
+<lb/>FOR THE STATE OF
+<lb/>KENTUCKY
+<lb/>STATE OF CALIFORNIA.</ab></figure><pb/></p>
 <p>Com<hi rend="sup">r</hi> of Deeds
-<lb/>Oath of N. Proctor Smith
+<lb/>Oath of N Proctor Smith
 <lb/>California
 <lb/>filed <date when="1864-12-06">6<hi rend="sup">th</hi> Dec/64</date></p>
   </body>

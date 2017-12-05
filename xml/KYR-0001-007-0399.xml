@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0399"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -56,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>New York, New York</placeName>
+    <placeName>New York, New York County, New York</placeName>
     <date when="1865-03-06">6 March 1865</date>
    </creation>
    <textClass>
@@ -68,24 +63,25 @@
  </teiHeader>
  <text>
   <body>
-   <p><persName ref="cwgk:N00002301">EDWARD F. DE SELDING</persName>,<lb/>Attorney and Counselor at Law,
+   <p>EDWARD F. DE SELDING,
+<lb/>Attorney and Counselor at Law,
 <lb/>COMMISSIONER OF DEEDS for most of the STATES,
 <lb/>No.<hi rend="str"> 39 WILLIAM STREET.</hi>
 <lb/>1 Park Place
-<lb/><placeName ref="cwgk:P001007">New York</placeName>, <date when="1865-03-06">March 6<hi rend="sup">th</hi> 1865</date>
-<lb/><persName ref="cwgk:N001778">James R. Page</persName> Esqr.<lb/>Asst: Secy of State of Ky:
+<lb/>New York, <date when="1865-03-06">March 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>James R. Page Esq<hi rend="underline"><hi rend="sup">r</hi></hi>
+<lb/>Asst: Secy of State of Ky:
 <lb/>Dear Sir</p>
-<p>Your favor of the <date when="1865-01-09">9th January</date> was received at my office during my absence from the City, and mislaid by my clerk in consequence of which I did not get it 'till this morning.</p>
-<p>I hasten to comply with the requirement named, by inclosing the State tax. Five dollars and would respectfully request that the commission may be dated <date when="1865-03-04">March 4<hi rend="underline"><hi rend="sup">th</hi></hi></date> for the reason, that inadvertently, on that day. I took the acknowledgment of a party to a power of attorney as Comr for <orgName ref="cwgk:O001025">Ky</orgName>:</p>
+<p>Your favor of the <date when="1865-01-09">9th January</date> was received at my office during my absence from the City, and mislaid by my Clerk- in consequence of which I did not get it 'till this morning.</p>
+<p>I hasten to comply with the requirement named, by inclosing the State tax, Five dollars and would respectfully request that the commission may be dated <date when="1865-03-04">March 4<hi rend="underline"><hi rend="sup">th</hi></hi></date> for the reason that inadvertently, on that day I took the acknowledgment of a party to a Power of attorney as Com<hi rend="underline"><hi rend="sup">r</hi></hi> for Ky:</p>
 <p>Soliciting your kind attention to this
-<lb/>I am Very Respectfully
-<lb/>Your Obty Sevt
-<lb/>Edw<hi rend="sup">d</hi> F. deSelding<pb/></p>
+<lb/>I am, Very Respectfully
+<lb/>Your Obt Servt
+<lb/><hi rend="underline">Edw</hi><hi rend="underline"><hi rend="sup">d</hi></hi><hi rend="underline"> F. deSelding</hi><pb/></p>
 <p>Comr Deeds
 <lb/>New York
-<lb/>E. F. <hi rend="str">Ed</hi>de Selding
-<lb/>appt<hi rend="sup">d</hi> &amp; com<hi rend="sup">d</hi>
-<lb/><date when="1865-03-10">10<hi rend="sup">th</hi> Mch 1865</date></p>
+<lb/>E. F. <hi rend="str">Ed</hi>De Selding
+<lb/>appt<hi rend="underline"><hi rend="sup">d</hi></hi> &amp; com<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1865-03-10">10<hi rend="sup">th</hi> Mch 1865</date></p>
   </body>
  </text>
 </TEI>

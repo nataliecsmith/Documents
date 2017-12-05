@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0351"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -70,24 +65,25 @@
   <body>
    <p>Philad<hi rend="sup">a</hi> <date when="1865-01-14">Jan 14<hi rend="sup">th</hi> 1865</date>
 <lb/>My Dear Sir</p>
-<p>I desire the appointment of Commissioner of the<orgName ref="cwgk:O001025"> State of Kentucky</orgName> Resident in the City of Philadelphia <placeName ref="cwgk:P001006">State of Pennsylvania</placeName> to take the acknowledgements of Deeds &amp;c I am a commissioner for several of the states &amp; should be obliged to you for your Commissioner as such</p>
+<p>I desire the appointment of Commissioner of the State of Kentucky Resident in the City of Philadelphia State of Pennsylvania to take the acknowledgements of Deeds &amp;c I am a commissioner for several of the states &amp; should be obliged to you for your Commission as such</p>
 <p>Your Obt Servant
-<lb/><persName ref="cwgk:N00004914">A N Hoskins
-</persName><lb/>N<hi rend="sup">o</hi> 1130 Girard St</p>
+<lb/><hi rend="underline">A N Hoskins</hi>
+<lb/>N<hi rend="sup">o</hi> 1130 Girard st</p>
 <p>To/
 <lb/>His Excellency
-<lb/><persName ref="cwgk:N001000">Governor Bramlette</persName><lb/>Gvernor of Kentucky
+<lb/>Governor Bramlette
+<lb/>Governor of Kentucky
 <lb/>Frankfort
 <lb/>Ky</p>
-<p>Anson N Hoskins</p>
-<p><figure type="seal"><ab>A. N. HOSKINS
-<lb/>COMMISSIONER OF DEEDS &amp;C</ab></figure><pb/></p>
-<p>Com<hi rend="sup">r</hi> of Deeds
-<lb/>for
-<lb/>Pennsylvania
+<p><hi rend="underline">Anson N Hoskins</hi></p>
+<p><figure type="seal"><ab>A N HOSKINS
+<lb/>OF
+<lb/>DEEDS
+<lb/>&amp;C
+<lb/>COMMISSIONER </ab></figure><pb/></p>
+<p>Com<hi rend="sup">r</hi> of Deeds for Pennsylvania
 <lb/>A. N Hoskins
-<lb/>Com<hi rend="sup">d</hi>
-<lb/><date when="1865-01-25">25<hi rend="sup">th</hi> Jany/65</date></p>
+<lb/>Com<hi rend="sup">d</hi> <date when="1865-01-25">25<hi rend="sup">th</hi> Jany/65</date></p>
   </body>
  </text>
 </TEI>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0375"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">J. T. Metcalfe to Thomas E. Bramlette</title>
+    <title level="a" type="main">J. P. Metcalfe to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG2040</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,12 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00001208">Cincinnati Ohio</placeName><lb/><date when="1865-02-11">Feby 11<hi rend="sup">th</hi>. 1865</date>
-<lb/>Hon <persName ref="cwgk:N001000">Thos E. Bramlette</persName> -- <lb/>Dear sir:</p>
-<p><persName ref="cwgk:N00005352">Howard Douglass</persName> of this city desires the appointment of Commissioner of Deeds for Ohio in <placeName ref="cwgk:P001800">Kentucky</placeName>. He is the son of <persName ref="cwgk:N00005358">John G. Douglass</persName> Esq, a lawyer of this city, and is a young gentleman of good habits attentive to business, and would make a good commissioner. I deem it proper to state that he is about nineteen years of age; but I suppose the statute does not fix the age at which a person is competent.</p>
-<p>I am satisfied that M<hi rend="sup">r</hi>. Douglass would make a capabale commissioner, and would be gratified at his appointment.</p>
+   <p>Cincinnati Ohio
+<lb/><date when="1865-02-11">Feby. 11<hi rend="sup">th</hi>. 1865</date>
+<lb/>Hon Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette -- 
+<lb/>Dear Sir:</p>
+<p>Howard Douglass of this city desires the appointment of Commissioner of Deeds for Ohio in Kentucky. He is the son of John G. Douglass Esq, a lawyer of this city, and is a young gentleman of good habits attentive to business, and would make a good commissioner. I deem it proper to state that he is about nineteen years of age; but I suppose the statute does not fix the age at which a person is competent.</p>
+<p>I am satisfied that M<hi rend="underline"><hi rend="sup">r</hi></hi> Douglass would make a capabale commissioner, and would be gratified at his appointment.</p>
 <p>Yours truly
-<lb/><persName ref="cwgk:N00005362">J. P. Metcalfe</persName></p>
+<lb/><hi rend="underline">J. P. Metcalfe</hi></p>
 <p>Gov. Bramlette
 <lb/>Frankfort
 <lb/>Kentucky</p>

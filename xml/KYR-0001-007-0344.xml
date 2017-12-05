@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0344"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">George W. Swoops to Thomas E. Bramlette</title>
+    <title level="a" type="main">George W. Swoope to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG2009</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,11 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Owensboro <orgName ref="cwgk:O001025">Ky</orgName><lb/><date when="1865-01-04">Jany 4<hi rend="sup">th</hi> 1865</date>
-<lb/><persName ref="cwgk:N001000">Thos E Bramlette</persName><lb/>Governor of <orgName ref="cwgk:O001025">Ky</orgName></p>
-<p>Dr Sir -- : Enclosed I send you a petition signed by some of the most responsible &amp; best citizens of our <placeName ref="cwgk:P001811">county</placeName> the object of which is Set forth in the petition. I can say to you that Mr <persName ref="cwgk:N00004904">I P Washburn</persName> will answer the purpose he is an aged man and has filed more important positions than the one he applies for now. Among the Signatures to his peitition you will find that of <persName ref="cwgk:N00004900">Jesse Moon</persName> Post Master of our town. W. P. M<hi rend="sup">c</hi>Farland County Atty. and <orgName ref="cwgk:O00007050">Ray D Hardin Attys</orgName> of some reputation I mention this for the reason that since M<hi rend="sup">r</hi> Washburn has applied Mr <persName ref="cwgk:N00004899">A. G. Botts</persName> has written you on the subject and annother appointment</p>
-<p>Very Respectfully
-<lb/><persName ref="cwgk:N00004901">Geo. W. Swoops</persName></p>
+   <p>Owensboro Ky
+<lb/><date when="1865-01-04">Jany 4<hi rend="sup">th</hi> 1865</date>
+<lb/>Tho<hi rend="sup">s</hi> E Bramlette
+<lb/>Governor of Ky</p>
+<p>Dr Sir-: Enclosed I send you a petition signed by some of the most responsible &amp; best Citizens of our County the object of which is Set forth in the petition -- I can say to you that M<hi rend="sup">r</hi> I P Washburn will answer the purpose he is an aged man and has filed more important positions than the one he applies for now -- Among the Signatures to his peitition you will find that of Jessee Moore Post Master of our town -- W. S. M<hi rend="sup">c</hi>Farland County atty. and Ray &amp; Hardin attys of some reputation I mention this for the reason that since M<hi rend="sup">r</hi> Washburn has applied one A. G. Botts has written you on the subject and annother appointment</p>
+<p>Very Respectifully
+<lb/><hi rend="underline">Geo. W. Swoope</hi></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0371"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,19 +63,21 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00003303">Baltimore
-</placeName><lb/><date when="1865-02-13">February 13th 1865</date>
+   <p>Baltimore
+<lb/><date when="1865-02-13">February 13th 1865</date>
 <lb/>To His Excellency
-<lb/><persName ref="cwgk:N001000">The Governor of Kentucky</persName><lb/>Sir</p>
-<p>I have the ^honor^ to make application to your Excellency for the appointment, as Commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName>, residence at Baltimore City, and have the honor to submit the endorsement of the Honorable<persName ref="cwgk:N00005351"> Reverdy Johnson</persName> in my behalf -- </p>
-<p>Very Respectfully
+<lb/>The Governor of Kentucky
+<lb/>Sir</p>
+<p>I have the ^honor^ to make application to your Excellency for the appointment, as Commissioner of Deeds for the State of Kentucky, resident at Baltimore City, and have the honor to submit the endorsement of the Honorable Reverdy Johnson in my behalf -- </p>
+<p>Very Respectively
 <lb/>Your Obt Servant
-<lb/><persName ref="cwgk:N00005646">William P. Eaton</persName></p>
-<p>I am satisfied that Mr Eaton will prove a good Comr</p>
+<lb/><hi rend="underline">William P, Eaton</hi></p>
+<p>I am satisfied that M<hi rend="sup">r</hi> Eaton will prove a good comr</p>
 <p>Revdy Johnson
-<lb/><date when="1865-02-18">18 Fby '65</date><pb/>
-<lb/>Comr Deeds
-<lb/><placeName ref="cwgk:P00001160">Maryland</placeName><lb/>W<hi rend="sup">m</hi> P. Eaton
+<lb/><date when="1865-02-18">18 Fby '65</date><pb/></p>
+<p>Com<hi rend="sup">r</hi> Deeds
+<lb/>Maryland
+<lb/>W<hi rend="sup">m</hi> P, Eaton
 <lb/>appt<hi rend="sup">d</hi> <date when="1865-02-27">27<hi rend="sup">th</hi> Feby/65</date></p>
   </body>
  </text>

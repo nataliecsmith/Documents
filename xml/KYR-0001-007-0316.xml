@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0316"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,30 +63,31 @@
  </teiHeader>
  <text>
   <body>
-   <p>
-<placeName ref="cwgk:P001802">United States of America</placeName><lb/><placeName ref="cwgk:P00002428">State of California</placeName><lb/> } S.S:<placeName ref="cwgk:P00006526">City and County of San Francisco</placeName></p>
-<p><hi rend="underline">I</hi>, , residing in the city and county of San Francisco, in the State of California, appointed by the <persName ref="cwgk:N00003289">F. J. Thibault</persName><persName ref="cwgk:N001000">Governor of the Commonwealth of Kentucky</persName>, a Commissioner to take the acknowledgement and proof of the execution of deeds and other instruments in writing to be used or recorded in the Said <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> and to administer oaths affirmations &amp;<hi rend="sup">c</hi> do solemnly swear that I will faithfully perform all the duties of such commission under and by virtue of the laws of said <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> according to the best of my ability.</p>
-<p>F. J. Thibault</p>
+   <p><hi rend="underline">United States of America,</hi>
+<lb/>State of California
+<lb/><hi rend="underline">City and county of San Francisco</hi> &#125; S. S:</p>
+<p><hi rend="underline">I</hi>, <hi rend="underline">F. J. Thibault</hi>, residing in the city and County of San Francisco, in the State of California, appointed by the Governor of the Commonwealth of Kentucky, a Commissioner to take the acknowledgement and proof of the execution of deeds and other instruments in writing to be used or recorded in the said Commonwealth of Kentucky and to administer oaths affirmations &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> do solemnly swear that I will faithfully perform all the duties of such commission under and by virtue of the laws of said Commonwealth of Kentucky according to the best of my ability.</p>
+<p><hi rend="underline">F. J. Thibault</hi></p>
 <p>Subscribed and Sworn to before me this <date when="1864-11-15">Fifteenth day of November A D 1864</date>.</p>
-<p><persName ref="cwgk:N00006525">Samuel Condy
-</persName><lb/>County Judge</p>
-<p><stamp type="revenue"/><note place="stamp">S. C.
+<p>Samuel Cowly
+<lb/>County Judge</p>
+<p><stamp type="revenue"/><note place="stamp">S. C,
 <lb/><date when="1864-11-15">Nov
-<lb/>15.64</date></note></p>
-<p><figure type="seal"/></p>
+<lb/>15. 64</date></note></p>
+<p><figure type="seal"><ab>COUNTY COURT OF SAN FR<unclear/>
+<lb/>CALIFO<unclear/></ab></figure></p>
 <p>official seal
-<lb/><figure type="seal"><ab><unclear>F. J. THIBAULT.</unclear>
+<lb/><figure type="seal"><ab>F. J. THIBAULT.
 <lb/>COMMISSIONER
 <lb/>FOR KENTUCKY
-<lb/><unclear>UNITED WE STAND DIVIDED WE FALL</unclear>
+<lb/>UNITED WE STAND DIVIDED WE FALL
 <lb/>CITY &amp; COUNTY OF SAN FRANCISCO STATE OF CALIFORNIA.</ab></figure></p>
 <p>Signature
 <lb/>F. J. Thibault
 <lb/>Commissioner for Kentucky in California<pb/></p>
-<p>Comr Deeds
+<p>Com<hi rend="sup">r</hi> Deeds
 <lb/>California
-<lb/>Oath of Office of F. J. Thibault
-<lb/>filed <date when="1864-12-15">15<hi rend="sup">th</hi> Dec/64</date></p>
+<lb/>Oath of Office of F. J. Thibault filed <date when="1864-12-15">15<hi rend="sup">th</hi> <hi rend="str">J</hi>Dec/64</date></p>
   </body>
  </text>
 </TEI>

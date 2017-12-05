@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0391"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -56,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Milwaukee, Milwaukee County, Wisconsin</placeName>
+    <placeName>Milwaukee County, Wisconsin</placeName>
     <date when="1865-03-11">11 March 1865</date>
    </creation>
    <textClass>
@@ -68,33 +63,34 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P001802">United States of America</placeName><lb/><placeName ref="cwgk:P00002521">State of Wisconsin</placeName><lb/><placeName ref="cwgk:P00005576">County of Milwaukee</placeName> SS.</p>
-<p>I <persName ref="cwgk:N00005578">Francis Bloodgood</persName> a commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName> duly appointed do solemnly swear that I will well and truly execute and perform all the duties of that office and station</p>
+   <p>United States of America
+<lb/>State of Wisconsin
+<lb/>County of Milwaukee ss.</p>
+<p>I Francis Bloodgood a commissioner of Deeds for the state of Kentucky duly appointed do solemnly swear, that I will well and truly execute and perform all the duties of that office and station</p>
 <p>Francis Bloodgood</p>
-<p>Sworn to and subscribed before me this <date when="1865-03-11">11th day of March A.D. 1865</date></p>
-<p><persName ref="cwgk:N00005579">James Hickcox</persName><lb/>Clerk <orgName ref="cwgk:O00005577">Circt Ct Mi</orgName>l <unclear/></p>
-<p><stamp type="revenue"/><note place="stamp"><date when="1865-03-11">March
-<lb/>11/65</date>
-<lb/>J.H</note></p>
+<p>Sworn to and subscribed before me this <date when="1865-03-11">11th day of March A. D. 1865</date></p>
+<p>James Hickcox
+<lb/>Clerk Circt Ct Mil Co Wis</p>
+<p><stamp type="revenue"/><note place="stamp"><date when="1865-03-11">March 11/65</date>
+<lb/>J. H.</note></p>
 <p>Below is my signature and the impression of my official seal as Commissioner of Deeds of the State of Kentucky in Wisconsin.</p>
-<p><figure type="seal"><ab>FRANCIS BLOODGOOD
-<lb/>* COMMISSIONER * WISCONSIN *</ab></figure></p>
 <p>Francis Bloodgood
-<lb/>Comr of Deeds for Kentucky
-<lb/><placeName ref="cwgk:P00005575">Milwaukee, Wisc</placeName><pb/></p>
+<lb/>Com<hi rend="sup">r</hi> of Deeds for Kentucky
+<lb/>Milwaukee Wisc</p>
+<p><figure type="seal"><ab>FRANCIS BLOODGOOD
+<lb/>COMMISSIONER WISCONSIN</ab></figure><pb/></p>
 <p>State of Wisconsin,
-<lb/>Circuit Court, Milwaukee County. } SS.</p>
-<p><hi rend="italic">I</hi>, JAMES HICKCOX, <hi rend="italic">Clerk of said Court, do hereby certify, that</hi> I James Hickcox<hi rend="italic"> Esq., whose name appears above, and before whom the foregoing</hi> affifant or oath was taken <hi rend="italic">was, at the date thereof</hi>, <hi rend="str">an acting Justice of the Peace,</hi> ^Clerk of said Court^ <hi rend="italic">in and for said County, duly elected and qualified and authorized to administer Oaths, and take acknowledgements of Deeds and other Instrument</hi>. <hi rend="str">Further, that I am acquainted with the handwriting of said Justice, and verily believe the signature purporting to be his, is genuine, and that said Instrument is executed and acknowledged to the Laws of this State.</hi></p>
-<p><figure type="seal"/></p>
-<p><stamp type="revenue"/><note place="stamp"><date when="1865-03-11">March
-<lb/>11/65</date>
-<lb/>J.H.</note></p>
-<p>In Testimony Whereof,<hi rend="italic"> I have hereunto set my Hand and affixed the Seal of said Court, this</hi> <date when="1865-03-11">Eleventh <hi rend="italic">day of</hi> March <hi rend="italic">A. D. 186</hi>5</date></p>
+<lb/>Circuit Court, Milwaukee County. &#125; SS.</p>
+<p>I, JAMES HICKCOX, Clerk of said Court, do hereby certify, that I James Hickcox Esq., whose name appears above, and before whom the foregoing affidavit or oath was taken was, at the date thereof, <hi rend="str">an acting Justice of the Peace,</hi> ^clerk of said Court^ in and for said County, duly elected and qualified and authorized to administer Oaths, and take Acknowledgements of Deeds and other Instruments. <hi rend="str">Further, that I am acquainted with the handwriting of said Justice, and verily believe the signature purporting to be his, is genuine, and that said Instrument is executed and acknowledged according to the Laws of this State.</hi></p>
+<p>In Testimony Whereof,<hi rend="italic"> </hi>I have hereunto set my Hand and affixed the Seal of said Court, this <date when="1865-03-11">Eleventh day of March A. D. 1865</date></p>
 <p>James Hickcox
 <lb/>Clerk</p>
-<p>Comr of Deeds
+<p><figure type="seal"/></p>
+<p><stamp type="revenue"/><note place="stamp"><date when="1865-03-11">March 11/65</date>
+<lb/>J. H.</note></p>
+<p><hi rend="str">F</hi>Comr of Deeds
 <lb/>Wisconsin
-<lb/>Oath of Office of F. Bloodgood
+<lb/>oath of office of F. Bloodgood
 <lb/>filed <date when="1865-03-16">16<hi rend="sup">th</hi> Mch 1865</date></p>
   </body>
  </text>

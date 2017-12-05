@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0384"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,12 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00005571">Stanford Ky</placeName> <date when="1865-03-10">March 10<hi rend="sup">th</hi> 1865</date>
-<lb/><persName ref="cwgk:N001000">Gov. Bramlette</persName></p>
-<p><persName ref="cwgk:N00006724">S. P. Higens</persName> has resigned his office as justice of the peace in and for <placeName ref="cwgk:P00005395">Lincoln County</placeName> he lived in the<placeName ref="cwgk:P00005569"> Crab Orchard</placeName> precinct.</p>
-<p>The people of that precinct have recommended -- to me <persName ref="cwgk:N00006725">Archabald Cussan</persName> as a suitable person to fill the vacancy of said office and requested me to advise you of their selection; if you shall so think I trust you will commission Mr A Cussan at your earliest conveinence as the Crab orchard people say they are much in need of a justice of the peace</p>
-<p>I am &amp;c <persName ref="cwgk:N00006607">W. S. Bailey</persName> County Judge<lb/>&amp;c</p>
-<p>Dis No 3<pb/></p>
+   <p>Stanford Ky <date when="1865-03-10">March 10<hi rend="sup">th</hi> 1865</date>
+<lb/>Gov, Bramlett</p>
+<p>S G Higens has resigned his office as justice of the peace in and for Lincoln county he lived in the craborchard precinct.</p>
+<p>The people of that precinct have recommended to me Archabald Cussan as a suitable person to fill the vacancy of said office and requested me to advise you of their selection; if you shall so think I trust you will commission M<hi rend="sup">r</hi> A Cussan at your earliest conveinence as the craborchard people say they are much in need of a justice of the peace</p>
+<p>I am &amp;c W S Bailey county Judge &amp;c</p>
+<p>Dis. N<hi rend="sup">o</hi> 3<pb/></p>
 <p>Lincoln Co
 <lb/>Justice Peace
 <lb/>Resignation &amp; appointment

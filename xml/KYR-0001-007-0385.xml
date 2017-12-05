@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0385"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -56,6 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
+    <placeName>Madisonville, Hopkins County, Kentucky</placeName>
     <date when="1865-03-31">31 March 1865</date>
    </creation>
    <textClass>
@@ -67,15 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency <persName ref="cwgk:N001000">Thomas E. Bramlette</persName><lb/>Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>.</p>
-<p>Sir I hereby tender to you this my resignation of the Office of Justice of the peace for <placeName ref="cwgk:P00002615">Hopkins County Kentucky</placeName> in District N<hi rend="underline"><hi rend="sup">o</hi></hi> 2 and request you to accept the Same -- </p>
-<p>I would suggest the name of <persName ref="cwgk:N00005508">John N. Taliaferro</persName> of said District as a suitable one for successor for several reasons -- he lives at the seat of Justice for said County &amp; there is no other Justice within easy reach of it -- which is a cause of serious delay &amp; inconvenience frequently. Given under my hand at <placeName ref="cwgk:P00002614">Madisonville Ky</placeName> this <date when="1865-03-31">31st day of March 1865</date></p>
-<p><persName ref="cwgk:N00005509">C. A. Smith</persName> J. P.</p>
+   <p>To his Excellency Thomas E. Bramlette
+<lb/>Governor of the Commonwealth of Kentucky-</p>
+<p>Sir I hereby tender to you this my resignation of the Office of Justice of the peace for Hopkins County Kentucky in District N<hi rend="underline"><hi rend="sup">o</hi></hi> 2 and request you to accept the Same -- </p>
+<p>I would suggest the name of John N. Taliaferro, of said District as a suitable one for successor for several reasons- he lives at the seat of Justice for said County &amp; there is no other Justice within easy reach of it -- which is a cause of serious delay &amp; inconvenience frequently- Given under my hand at Madisonville Ky this <date when="1865-03-31">31st day of March 1865</date></p>
+<p>C A. Smith J. P.</p>
 <p>witness
-<lb/><persName ref="cwgk:N00002667">Dick Littlepage</persName></p>
-<p>I concur in the above recommendation
-<lb/>Dick Littlepage Deputy
-<lb/>Clerk <orgName ref="cwgk:O00000632">Hopkins County Court</orgName><pb/></p>
+<lb/>Dick Littlepage</p>
+<p>I Concur in the above recommendation</p>
+<p>Dick Littlepage Deputy Clerk Hopkins County Court<pb/></p>
 <p>Hopkins Co
 <lb/>Justice Peace
 <lb/>Resignation &amp; Appointment

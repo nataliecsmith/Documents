@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0332"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">William V. Archer, Oath</title>
+    <title level="a" type="main">William V. Archer, Affidavit</title>
     <title level="a" type="parallel">CWG1997</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,48 +63,54 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P001006">State of Pennsylvania</placeName><lb/><placeName ref="cwgk:P00001701">City and County of Philadelphia</placeName> } SS.</p>
-<p>I <persName ref="cwgk:N001780">William V. Archer</persName> Commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName> duly appointed and commissioned by the <persName ref="cwgk:N001000">Governor</persName> thereof for the State of Pennsylvania and authorized to take the acknolwdgements of Deeds and other writings, do certify that these Articels of Association of "<orgName ref="cwgk:O00006529">The Hardwick Oil Company</orgName>" were this day produced to me by <persName ref="cwgk:N00005636">Nelson Yocum</persName>, <persName ref="cwgk:N00005639">Stephen Benton</persName>, <persName ref="cwgk:N00005629">Joseph Pancoast</persName>, <persName ref="cwgk:N00005638">Marmaduke Moore</persName>, <persName ref="cwgk:N00005640">George S. Crawford</persName>, <persName ref="cwgk:N00005632">J Edgar Thompson</persName>, <persName ref="cwgk:N00005634">Lewis L. Houpt</persName>, <persName ref="cwgk:N00006527">H. C. Yarrow</persName>, <persName ref="cwgk:N00005641">Phillip Wilson</persName> and <persName ref="cwgk:N00006530">W. Williamson</persName> the corporators therein named and by them then and there acknowleged before me to be their and each of their several acts and deeds for the uses and purposes therein mentioned.</p>
-<p><figure type="seal"><ab><unclear> WM. V. ARCHER.</unclear> COMMISSIONER
+   <p>State of Pennsylvania
+<lb/>City and County of Philadelphia &#125; SS.</p>
+<p>I William V. Archer Commissioner of Deeds for the State of Kentucky duly appointed and commissioned by the Governor thereof for the State of Pennsylvania and authorized to take the acknolwdgements of Deeds and other writings, do certify that these Articles of Association of "The Hardwick Oil Company" were this day produced to me by Nelson Yocum, Stephen Benton, Joseph Pancoast, Marmaduke Moore, George S Crawford, J Edgar Thompson, Lewis. L. Houpt, H. C. Yarrow, Phillip Wilson and W. Williamson the corporators therein named and by them then and there acknowleged before me to be their and each of their several acts and deeds for the uses and purposes therein mentioned.</p>
+<p><figure type="seal"><ab>WM. V. ARCHER. COMMISSIONER
 <lb/>OF DEEDS.
-<lb/>PHILADELPHIA
-<lb/><unclear>KENTUCKY</unclear></ab></figure></p>
-<p>In witness whereof I have hereunto set my hand and affixed my official seal <date when="1864-11-19">this nineteenth day of November A.D. 1864</date>.</p>
-<p>W<hi rend="sup">m</hi>. V. Archer
-<lb/>Commissioner for Kentucky
-<lb/>in Philadelphia Penna.<pb/></p>
+<lb/>PHILADELPHIA.
+<lb/>PENNSYLVANIA</ab></figure></p>
+<p>In witness whereof I have hereunto set my hand and affixed my Official Seal <date when="1864-11-19">this nineteenth day of November A.D. 1864</date>.</p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> V. Archer
+<lb/>Commissioner for Kentucky in Philadelphia Penna.<pb/></p>
 <p>State of Kentucky
-<lb/><placeName ref="cwgk:P00004776">Estill County</placeName> } Sct</p>
-<p>I <persName ref="cwgk:N00005643">Morton M Price</persName> Clerk of the <orgName ref="cwgk:O00000619">County Court of Estill County</orgName> do Certify that this article of association of the Hardswicks,, Oil Company was this day produced to me in my office and by me Recorded Govr under my hand and seal office this <date when="1864-12-09">9th day of December 1864</date></p>
+<lb/>Estill County &#125; Sct</p>
+<p>I Morton M Price Clerk of the County Court of Estill County do Certify that this article of association of the Hardswicks,, Oil Company was this day produced to me in my office and by me Recorded given under my hand and seal office this <date when="1864-12-09">9th day of December 1864</date></p>
 <p>Morton M Price C E C C</p>
-<p><figure type="seal"><ab><unclear>ESTILL COUNTY</unclear> COURT
-<lb/><unclear>KENTUC</unclear>KY</ab></figure></p>
-<p>Articles of Incorporation of "The Hardwick Oil Company
-<lb/>Recorded in deed
-<lb/>Book M page
-<lb/>422 M M Price
-<lb/>filed <date when="1864-12-16">16th Dec/64</date>
-<lb/>Recorded<pb/>
-<lb/>We Nelson Yocum Setephen Benton Marmaduke Moore H. C. Yarrow George L. Crawford J. Edgar Thompson Joseph Pancoast Lewis L Houpt Philip Wilson and W Williamson
-<lb/><gap/> all citizens of the United States, being desirous of forming a Company, for the purpose of carrying on the business of mining or boring for Petroleum or Rock oil, under the laws of the Commonwealth of Kentucky, do hereby, in accordance with the said laws, certify the terms and conditions upon which we are associated as follows, viz -- </p>
-<p><note place="left margin">Name.</note> 1. The corporate name of said Company shall be "The Hardwick Oil Company."
-<lb/><note place="left margin">Objects.</note> 2. The objects of the formation of the said company are the searching and mining for Petroleum and other minerals, and producing, refining and vending the same.
-<lb/><note place="left margin">Capital Stock.</note> 3. The Capital Stock of the said Company shall be the sum of One million dollars divided into Forty thousand Shares of Twent five Dol-<pb/>
+<p><figure type="seal"><ab>ESTILL COUNTY COURT
+<lb/><unclear>KENTUCKY</unclear></ab></figure></p>
+<p>Articles of Incorporation of "The Hardwick Oil Company</p>
+<p>Recorded in deed Book M page 422 </p>
+<p>M M Price<figure type="hr"/></p>
+<p>filed <date when="1864-12-16">16<hi rend="sup">th</hi> Dec/64</date>
+<lb/>Recorded<pb/></p>
+<p>WE Nelson Yocum Stephen Benton Marmaduke Moore. H. C. Yarrow George L. Crawford J. Edgar Thompson Joseph Pancoast Lewis L Houpt Philip Wilson and W Williamson
+<lb/><gap/> all citizens of the United States, being desirous of forming a Company, for the purpose of carrying on the business of mining or boring for Petroleum or Rock oil, under the laws of the Commonwealth of Kentucky, do hereby, in accordance with the said laws, certify the terms and conditions upon which we are associated as follows, viz-</p>
+<p><note place="left margin">Name.</note> 
+<lb/>1. The corporate name of said Company shall be "The Hardwick Oil Company."
+<lb/><note place="left margin">Objects.</note> 
+<lb/>2. The objects of the formation of the said Company are the searching and mining for Petroleum and other minerals, and producing, refining and vending the same.
+<lb/><note place="left margin">Capital Stock.</note>
+<lb/>3. The Capital Stock of the said Company shall be the sum of One million dollars divided into Forty thousand Shares of Twent five dol-<pb/>
 <lb/>lars each.
-<lb/><note place="left margin">Directors.</note> 4. The affairs of the said company shall be managed by a Board of seven Directors to be chosen annually at the time and place specified in the By Laws. The Board for the first year shall consist of the following stockholders viz -- </p>
-<p>J. Edgar Thompson Joseph Pancoast Marmaduke Moore Stephen Benton Nelson Yocum George L Craw-ford and H. C. Yarrow</p>
-<p><note place="left margin">Operations.</note> 5. The Operations of the said Company are to be carried on in ^<placeName ref="cwgk:P001786">Clarke</placeName>^ Estill and <placeName ref="cwgk:P00001937">Powell Counties</placeName> Kentucky in the town of <placeName ref="cwgk:P00005642">Irvine</placeName> in said Estill County in the State aforesaid<lb/><note place="left margin">Existence.</note> 6. The duration of the existence of the said company shall be for the full term of Fifty years.</p>
-<p>In witness whereof we have hereunto to set our hands and seals this <date when="1864-11-19">Nineteenth day of November Anno Domini One thousand eight hundred and sixty four (AD 1864)</date></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>H C Yarrow seal
-<lb/>Philip Wilson seal
-<lb/>W. Williamson seal
-<lb/>Geo L Crawford seal
-<lb/><cb n="2"/>Nelson Yocum seal
-<lb/>Stephen Benton seal
-<lb/>Joseph Pancoast seal
-<lb/>Marmaduke Moore seal
-<lb/>J. Edgar Thomson seal
-<lb/>Lewis L. Houpt seal</p>
+<lb/><note place="left margin">Directors.</note>
+<lb/>4. The affairs of the said company shall be managed by a Board of seven Directors to be chosen annually at the time and place specified in the By Laws. The Board for the first year shall consist of the following stockholders viz-</p>
+<p>J. Edgar Thompson Joseph Pancoast Marmaduke Moore Stephen Benton Nelson Yocum George L Crawford and H. C. Yarrow<gap/>
+<lb/><note place="left margin">Operations.</note>
+<lb/>5. The Operations of the said Company are to be carried on in ^Clarke^ Estill and Powell Counties, Kentucky in the town of Irvine in said Estill County in the State aforesaid
+<lb/><note place="left margin">Existence.</note>
+<lb/>6. The duration of the existence of the said Company shall be for the full term of Fifty years.</p>
+<p>In witness whereof we have hereunto set our hands and seals this <date when="1864-11-19">Nineteenth day of November Anno Domini One thousand eight hundred and sixty four (AD 1864)</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>H C Yarrow <figure type="seal"/>
+<lb/>Philip Wilson <figure type="seal"/>
+<lb/>W. Williamson <figure type="seal"/>
+<lb/><hi rend="underline">Geo L Crawford</hi> <figure type="seal"/>
+<lb/><cb n="2"/>Nelson Yocum <figure type="seal"/>
+<lb/>Stephen Benton <figure type="seal"/>
+<lb/><hi rend="underline">Joseph Pancoast</hi> <figure type="seal"/>
+<lb/>Marmaduke Moore <figure type="seal"/>
+<lb/>J. <hi rend="underline">Edgar</hi> <hi rend="underline">Thomson</hi> <figure type="seal"/>
+<lb/>Lewis L. Houpt <figure type="seal"/></p>
   </body>
  </text>
 </TEI>

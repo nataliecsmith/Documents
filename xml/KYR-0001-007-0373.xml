@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0373"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,22 +63,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>Office of <persName ref="cwgk:N00005358">JOHN G. DOUGLASS</persName>,<lb/>Attorney &amp; Counsellor,
+   <p>Office of JOHN G. DOUGLASS,
+<lb/>Attorney &amp; Counsellor,
 <lb/>NO. 44 WEST FOURTH STREET.
-<lb/><placeName ref="cwgk:P00001208">Cincinnati</placeName>, <date when="1865-02-12">February 12" 1865</date>.
-<lb/>Hon Tho<hi rend="sup">s</hi> E. Bramlette
-<lb/><placeName ref="cwgk:P00000308">Frankfort Kentucky</placeName>.</p>
-<p>I am desirous of a commission for <orgName ref="cwgk:O001025">Kentucky </orgName>for the acknowledgment of deeds.</p>
+<lb/>Cincinnati, <date when="1865-02-12">February 12" 1865</date>.
+<lb/>Hon Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
+<lb/>Frankfort Kentucky.</p>
+<p>I am desirous of a commission for Kentucky for the acknowledgment of deeds.</p>
 <p>My father has been Commissioner for the last fifteen years.</p>
 <p>Being most of his time in Court it would be desirable that I should have a commission, in case your honor should think it advisable, as most of the Kentucky deeds are acknowledged in our office.</p>
 <p>I am studying law. If my age nineteen interferes I do not desire it.</p>
 <p>If it can be granted it will oblige</p>
-<p>Yours Respy
+<p>Yours Resp'y
 <lb/><hi rend="underline">Howard</hi> <hi rend="underline">Douglass</hi><pb/></p>
-<p><placeName ref="cwgk:P001036">Ohio</placeName><lb/>Comr Deeds
+<p>Ohio
+<lb/>Com<hi rend="sup">r</hi> Deeds
 <lb/>H. Douglass
-<lb/>Com<hi rend="sup">d</hi>
-<lb/><date when="1865-02-14">14<hi rend="sup">th</hi> Feby/65</date></p>
+<lb/>Com<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1865-02-14">14<hi rend="sup">th</hi> Feby/65</date></p>
   </body>
  </text>
 </TEI>

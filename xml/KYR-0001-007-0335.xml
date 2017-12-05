@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0335"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -70,22 +65,37 @@
   <body>
    <p>COLLECTION DEPARTMENT,
 <lb/>ASSOCIATED OFFICES
-<lb/><milestone unit="column" n="2"/><cb n="1"/>IN <placeName ref="cwgk:P001802">UNITED STATES</placeName>,<lb/><placeName ref="cwgk:P00002569">NEW YORK</placeName>,<lb/><placeName ref="cwgk:P00000524">BOSTON</placeName>,<lb/><placeName ref="cwgk:P00001701">PHILADELPHIA</placeName>,<lb/><placeName ref="cwgk:P00003303">BALTIMORE</placeName>,<lb/><placeName ref="cwgk:P00001215">CHICAGO</placeName>,<lb/><placeName ref="cwgk:P00001208">CINCINNATI</placeName>,<lb/><placeName ref="cwgk:P00003302">DETROIT</placeName>.<lb/><cb n="2"/>IN <placeName ref="cwgk:P001021">ENGLAND
-</placeName><lb/><placeName ref="cwgk:P00003297">LONDON</placeName>,<lb/><placeName ref="cwgk:P00003301">MANCHESTER</placeName>,<lb/><placeName ref="cwgk:P00003300">LIVERPOOL</placeName>.<lb/>IN <placeName ref="cwgk:P00003298">SCOTLAND</placeName><lb/><placeName ref="cwgk:P00003299">GLADGOW</placeName>,<lb/><placeName ref="cwgk:P00003296">EDINBURGH</placeName>.<lb/><milestone unit="column" n="1"/>ESTABLISHED IN
+<lb/><milestone unit="column" n="2"/><cb n="1"/>IN UNITED STATES,
+<lb/>NEW YORK,
+<lb/>BOSTON,
+<lb/>PHILADELPHIA,
+<lb/>BALTIMORE,
+<lb/>CHICAGO,
+<lb/>CINCINNATI,
+<lb/>DETROIT.
+<lb/><cb n="2"/>IN ENGLAND
+<lb/>LONDON,
+<lb/>MANCHESTER,
+<lb/>LIVERPOOL.
+<lb/>IN SCOTLAND
+<lb/>GLASGOW,
+<lb/>EDINBURGH.
+<lb/><milestone unit="column" n="1"/>ESTABLISHED IN
 <lb/><date when="1842">1842</date>.</p>
 <p>The Commercial Agency,
-<lb/>N. E. CORNER SECOND 7 PINE ST<hi rend="sup">S</hi>
-<lb/><placeName ref="cwgk:P00003268">St. Louis</placeName>, <date when="1864-12-09">Dec. 9<hi rend="sup">th</hi> 1864</date>
+<lb/>N. E. CORNER SECOND &amp; PINE ST<hi rend="underline"><hi rend="sup">s</hi></hi>
+<lb/>St. Louis, <date when="1864-12-09">Dec. 9<hi rend="sup">th</hi> 1864</date>
 <lb/>To his Excellency,
-<lb/><persName ref="cwgk:N001000">Governor Bramlett</persName>.<lb/><placeName ref="cwgk:P00000308">Frankfort, Ky</placeName>.<lb/>Respected Sir,</p>
-<p>If consistent with your feelings and existing appointments, I desire to be appointed a "Commissioner of Deeds" for your State, for <placeName ref="cwgk:P00001883">Missouri</placeName>. I enclose commendatory letter from <persName ref="cwgk:N00003144">our present member of Congress</persName> &amp; <persName ref="cwgk:N00003142">his associate</persName> in the practice of his profession. If no objection to the appointment, and your Secretary will state to me the pre-requisites, I will endeavor to comply with them; and also, be very much obliged to your.</p>
-<p>Very Resp<hi rend="sup">y</hi>.
-<lb/><persName ref="cwgk:N00003143">Joseph Lathrop</persName>.<pb/></p>
-<p>Comr of Deeds
+<lb/>Governor Bramlett,
+<lb/>Frankfort, Ky,
+<lb/>Respected Sir,</p>
+<p>If consistent with your feelings and existing appointments, I desire to be appointed a "Commissioner of Deeds" for your State, for Missouri. I enclose commendatory letter from our present member of Congress &amp; his associate in the practice of his profession. If no objection to the appointment, and your Secretary will state to me the pre-requisites, I will endeavor to comply with them; and also, be very much obliged to your.</p>
+<p>Very Resp<hi rend="sup">y</hi>,
+<lb/>Joseph Lathrop,<pb/></p>
+<p>Com<hi rend="sup">r</hi> of Deeds
 <lb/>Missouri
 <lb/>Joseph Lathrop
-<lb/>appt<hi rend="sup">d</hi>
-<lb/><date when="1864-12-13">13<hi rend="sup">th</hi> Dec 1864</date></p>
+<lb/>appt<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1864-12-13">13<hi rend="sup">th</hi> Dec 1864</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0381"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -57,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Louisville, Jefferson County, Kentucky</placeName>
-    <date when="1865-03-15">15 March 1865</date>
+    <date when="1865-03-18">18 March 1865</date>
    </creation>
    <textClass>
     <keywords>
@@ -68,19 +63,21 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1865-03-18">Mch= 18th 1865</date>=
-<lb/><persName ref="cwgk:N001777">E. L. VanWinkle</persName>, Sec. of State,<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName><lb/><placeName ref="cwgk:P001800">Kentucky
-</placeName><lb/>Dear Sir:</p>
-<p>We take pleasure in recommending Mr. <persName ref="cwgk:N00007807">T. G. Parsons</persName> of this city, as a young man of good moral character in every regard competent to discharge the duties of a Notary Public. Enclosed find fee for issuing commission ($1.00/100)</p>
+   <p>Louisville <date when="1865-03-18">Mch= 18th 1865</date>=
+<lb/>E. L. VanWinkle, Sec. of state,
+<lb/>Frankfort
+<lb/>Kentucky
+<lb/>Dear Sir:</p>
+<p>We take pleasure in recommending mr. T. G. Parsons of this city, as a young man of good moral character in every regard competent to discharge the duties of a Notary Public -- Enclosed find fee for issuing Commission &#36;1.<hi rend="sup">00</hi>/1<hi rend="sub">00</hi></p>
 <p>Your Respectfully
-<lb/>Bush &amp; Shivell</p>
+<lb/><hi rend="underline">Bush</hi> &amp; <hi rend="underline">Shivell</hi></p>
 <p>N. B.
-<lb/>Please direct commission to us=
-<lb/><orgName ref="cwgk:O00006809">Bush &amp; Shivell</orgName><pb/></p>
+<lb/>Please direct commission to us=</p>
+<p><hi rend="underline">Bush &amp; Shivell</hi><pb/></p>
 <p>Notary Public
-<lb/>T. G. Parson
-<lb/><placeName ref="cwgk:P001005">Jefferson Co</placeName><lb/>appt<hi rend="sup">d</hi>
-<lb/><date when="1865-03-20">20<hi rend="sup">th</hi> Mch/65</date></p>
+<lb/>T. G. Parsons
+<lb/>Jefferson Co
+<lb/>appt<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1865-03-20">20<hi rend="sup">th</hi> Mch/65</date></p>
   </body>
  </text>
 </TEI>

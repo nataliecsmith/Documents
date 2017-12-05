@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0328"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,20 +63,22 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1864-11-25">Nov 25<hi rend="sup">th</hi> 1864</date>
-<lb/><persName ref="cwgk:N001778">James R. Page</persName>, Esq.<lb/>Dr Sir</p>
-<p>Being desirous of obtaining a Commission as N. Public, I take the liberty of addressing you. <hi rend="str">in</hi> a few lines in order that through you as, Ass't -- Sec. State. I may be able to obtain s'd commission, you will confer a lasting favor by attending to it immediately, Enclosed please find $1.00, for your services or fee.</p>
-<p>I refer you to <persName ref="cwgk:N00000772">Mr. Cochrell</persName>'s note below.<lb/>Very Respct
-<lb/><persName ref="cwgk:N00002091">J. J. Allnutt</persName></p>
-<p>James R. Page
-<lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName></p>
+   <p>Louisville <date when="1864-11-25">Nov 25<hi rend="sup">th</hi> 1864</date>
+<lb/>James R, Page, Esq,
+<lb/>Dr Sir</p>
+<p>Being desirous of obtaining a Commission as N, Public, I take the liberty of addressing you, <hi rend="str">in</hi> a few lines in order that through you as Ass't Sec, State. I may be able to obtain s'd Commission, you will confer a lasting favor by attending to it immediately, Inclosed please find &#36;1.00, for your services or fee.</p>
+<p>I refer you to Mr Cochrell's note below,
+<lb/>very Respct
+<lb/>J. J. Allnutt</p>
+<p>James R, Page
+<lb/>Frankfort Ky</p>
 <p>J R Page
 <lb/>Dear Sir</p>
-<p>I am personally acquainted with J J Allnutt and take pleasure in recommending as a suitable person to be commissioned Notary Public for <placeName ref="cwgk:P001005">Jefferson County</placeName>, he is a young Lawyer in this city, yous truly R. H. Cockrell<pb/></p>
+<p>I am personally acquainted with J J Allnutt and take pleasure in recommending as a suitable person to be commissioned Notary public for Jefferson County, he is a young Lawyer in this City, yours truly R, H. Cockrell<pb/></p>
 <p>Jefferson Co
 <lb/>Notary Public
-<lb/>J J Allnutt
-<lb/>appt<hi rend="sup">d</hi> <date when="1864-11-26">26<hi rend="sup">th</hi> Nov/64</date></p>
+<lb/>J J Allenutt
+<lb/>appt<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1864-11-26">26<hi rend="sup">th</hi> Nov/64</date></p>
   </body>
  </text>
 </TEI>

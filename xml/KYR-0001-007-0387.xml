@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0387"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,23 +63,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>I <persName ref="cwgk:N00005494">John Francis</persName> residing in <placeName ref="cwgk:P00005493">Westfield</placeName>, <placeName ref="cwgk:P00005514">Chautauqua County</placeName> in the <placeName ref="cwgk:P001007">State of New York </placeName>appointed by the <persName ref="cwgk:N001000">Governor of the State of Kentucky</persName> a Commissioner in and for the <placeName ref="cwgk:P001007">State of New York </placeName>to take acknowledgement and proof of Deeds and instruments of Writing to be used and recorded in said <orgName ref="cwgk:O001025">State of Kentucky</orgName> and to administer oaths and affirmations pursuant to Chapter 40 of the Act of the <orgName ref="cwgk:O00000923">General Assembly of the Commonwealth of Kentuck</orgName>y entitiled "An act to adopt the revised statutes" approved <date when="1852-01-07">January 7<hi rend="sup">th</hi> 1852</date>, do solemnly swear that I will support the Constitution of the <orgName ref="cwgk:O00002945">United States</orgName> and the Constitution of the <orgName ref="cwgk:O001025">State of Kentucky</orgName>, and that I will well and faithfully execute perform and discharge all the duties of such commissioner under and by virtue of the laws of said State according to the best of my ability.</p>
+   <p>I John Francis residing in Westfield, Chautauqua County in the State of New York appointed by the Governor of the State of Kentucky a Commissioner in and for the State of New York to take acknowledgements and proof of Deeds and instruments of Writing to be used and recorded in said State of Kentucky and to administer oaths and affirmations pursuant to Chapter 40 of the Act of the General Assembly of the Commonwealth of Kentucky entitiled "An act to adopt the revised statutes" approved <date when="1852-01-07">January 7<hi rend="sup">th</hi> 1852</date>, do solemnly swear that I will support the Constitution of the United States and the Constitution of the State of Kentucky, and that I will well and faithfully execute perform and discharge all the duties of such commissioner under and by virtue of the laws of said State according to the best of my ability.</p>
 <p>John Francis</p>
 <p>State of New York
-<lb/>County of Chautauqua</p>
-<p>Sworn and subscribed before me this <date when="1865-03-16">16th day of March 1865</date>, and I certify that I know the said deponent to be the same person who executed the foregoing statement and acknowled the execution thereof.<pb/></p>
+<lb/>County of Chautauqua &#125; ss</p>
+<p>Sworn and subscribed before me this <date when="1865-03-16">16th day of March 1865</date>, and I certify that I Know the said deponent to be the same person who executed the foregoing statement and acknowled the execution thereof.<pb/></p>
 <p><figure type="seal"><ab>CHAUTAUQUA COUNTY
 <lb/>SEAL
 <lb/>N. Y.</ab></figure></p>
 <p>In testimony whereof I have hereunto set my hand and affixed the seal of said County and the Courts thereof this <date when="1865-03-29">29 day of March 1865</date></p>
-<p><persName ref="cwgk:N00006829">C. S. Norten Clerk</persName></p>
-<p><stamp type="revenue"/><note place="stamp">C S N
-<lb/><date when="1865-03-29">Mch 29
+<p>C. S. Norten Clerk</p>
+<p><stamp type="revenue"/><note place="stamp">C S. N
+<lb/><date when="1865-03-29">Mar 29
 <lb/>1865</date></note></p>
 <p>New York
-<lb/>Oath of Office
+<lb/>Oath of Office<figure type="hr"/>
 <lb/>John Francis
-<lb/>Com<hi rend="sup">r</hi> of Deeds for Kentucky
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds for Kentucky<figure type="hr"/>
 <lb/>filed <date when="1865-04-14">14<hi rend="sup">th</hi> Apl/65</date></p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0321"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -56,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>St. Louis, St. Louis County, Missouri</placeName>
+    <placeName>Saint Louis, Saint Louis County, Missouri</placeName>
     <date when="1864-11-30">30 November 1864</date>
    </creation>
    <textClass>
@@ -68,15 +63,18 @@
  </teiHeader>
  <text>
   <body>
-   <p><persName ref="cwgk:N00003144">Samuel Knox</persName>.<lb/><persName ref="cwgk:N00003142">Irwin Z. Smith</persName><lb/><orgName ref="cwgk:O00003271">KNOX &amp; SMITH</orgName>,<lb/>ATTORNEYS AT LAW,
-<lb/>OFFICE, DARBY'S BUILDING, S. W. COR. FIFTH AND OLIVE STREETS.
-<lb/><placeName ref="cwgk:P00003268">Saint Louis</placeName>, <date when="1864-11-30">Nov. 30<hi rend="sup">th</hi> 1864</date>
+   <p><milestone unit="column" n="2"/><cb n="1"/>Samuel Knox.
+<lb/><cb n="2"/>Irwin Z. Smith.
+<lb/><milestone unit="column" n="1"/>KNOX &amp; SMITH,
+<lb/>ATTORNEYS AT LAW,
+<lb/>OFFICE, DARBY'S BUILDING, S. W. COR. FIFTH AND OLIVE STREETS.<figure type="hr"/>
+<lb/>Saint Louis, <date when="1864-11-30">Nov. 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
 <lb/>To His Excellency
-<lb/><persName ref="cwgk:N001000">The Governor of the State of Kentucky</persName>,</p>
-<p>I am acquainted with<persName ref="cwgk:N00003143"> Joseph Lathrop</persName> Esq, who desires the appointment of Commissioner of deeds of the <orgName ref="cwgk:O001025">state of Kentucky</orgName> for <placeName ref="cwgk:P00001883">Missouri</placeName>. I can endorse his loyalty, and his qualifications for the appointment he seeks.</p>
+<lb/>The Governor of the State of Kentucky,</p>
+<p>I am acquainted with Joseph Lathrop Esq, who desires the appointment of Commissioner of deeds of<hi rend="str">or</hi> the state of Kentucky for Missouri, I can endorse his loyalty, and his qualifications for the appointment he seeks--</p>
 <p>Resply
-<lb/>Irwin Z Smith</p>
-<p>I fully endorse and concur in the above statement and cheerfully recommend Mr Lathrop for the appointment asked</p>
+<lb/>Irwin Z. Smith</p>
+<p>I fully endorse and concur in this above statement and cheerfully recommend Mr Lathrop for the appointment asked</p>
 <p>Samuel Knox M. C.</p>
   </body>
  </text>

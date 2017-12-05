@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0380"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,19 +63,20 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1865-03-28">March 28th 1865</date>
-<lb/>Dr Sir</p>
-<p>It was my intention during the sitting up the <orgName ref="cwgk:O00000923">Legislature</orgName> (but some how or other I neglected to do so) to send you the necessary fee for you to make out the papers to get me appointed Notary Public for <placeName ref="cwgk:P001005">Jefferson County</placeName>. A short term since the circuit Judge of this County appointed me examiner for this county. I now find it necessary that I be also a notary as since my appointment as examiner I have been applied to, to take depositions as Notary. I believe the <persName ref="cwgk:N001000">Governor</persName> if he so thinks proper can make such appointments during the recess between the sittings of the <orgName ref="cwgk:O00000923">Legislature</orgName> subject however to be acted upon at the next session thereof If his Excellency will be kind enough to appoint me Notary, I should pleased he would do so. Not wishing to appear any way urgent, will state the reason I make the request is that a member of the bar informed me that he had given notice to parties in the city of <placeName ref="cwgk:P001004">Nashvilee</placeName> he would take Sunday depositions at my office on next Monday to be read as evidence in a Suit defending in one of the courts in that city, at the same time he asked me if I were a Notary as well as examiner. Learning I was not he urged me to send<pb/>
-<lb/>up &amp; get myself appointed. ^as I would have to take them as Notary^ Will you, dear sir do me the favour to procure it for me &amp; if possible send it me so that I can qualify as such on Monday next which is the regular weekly sitting of the <orgName ref="cwgk:O001839">County Court in this County</orgName>. Enclosed please find $2.00 -- year fee. Your early attention will oblige</p>
+   <p>Louisville <date when="1865-03-28">March 28th 1865</date>
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>It was my intention during the sitting of the Legislature (but some how or other I neglected to do so) to send you the necessary fee for you to make out the papers to get me appointed Notary Public for Jefferson County. A short time since the circuit Judge of this County appointed me examiner for this county. I now find it necessary that I be also a notary. as since my appointment as examiner I have been applied to, to take depositions as Notary. I believe the Governor if he so thinks proper can make such appointments during the recess between the sittings of the Legislature subject however to be acted upon at the next session thereof If his Excellancy will be kind enough to appoint me Notary, I should pleased he would do so. Not wishing to appear any way urgent, will state the reason I make the request is that a member of the barr informed me that he <hi rend="str">g</hi>had given notice to parties in the City of Nashvilee he would take sundry depositions at my office on next Monday to be read as evidence in a suit depending in one of the courts in that City, at the same time he asked me if I were a Notary as well as examiner. Learning I was not he urged me to send<pb/>
+<lb/>up &amp; get myself appointed. ^as I would have to take them as Notary^ Will you, dear sir do me the favour to procure it for me &amp; if possible send it me so that I can qualify as such on Monday next which is the regular weekly sitting of the County Court in this County. Enclosed please find &#36;2.00 your fee. Your early attention will oblige</p>
 <p>Your Obdt Svt.
-<lb/><persName ref="cwgk:N00000792">C. T. Taylor</persName></p>
-<p><persName ref="cwgk:N001777">E. H. Vanwinkle</persName> Esqr<lb/>Secretary of State
-<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName><lb/>Ky</p>
+<lb/>C, T, Taylor</p>
+<p>E. H. Vanwinkle Esqr
+<lb/>Secretary of State
+<lb/>Frankfort
+<lb/>Ky</p>
 <p>Notary Public
 <lb/>Jefferson Co
 <lb/>C. T. Taylor
-<lb/>appt<hi rend="sup">d</hi>
-<lb/><date when="1865-03-29">29<hi rend="sup">th</hi> Mch 1865</date></p>
+<lb/>appt<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1865-03-29">29<hi rend="sup">th</hi> Mch 1865</date></p>
   </body>
  </text>
 </TEI>

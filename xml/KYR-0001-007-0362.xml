@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0362"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">W. R. Casey to Thomas E. Bramlette</title>
+    <title level="a" type="main">William R. Casey to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG2027</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,14 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00001847">Spingfield Ky</placeName> <date when="1865-02-20">Feb 20 1865</date>
+   <p>Spingfield Ky <date when="1865-02-20">Feb 20 1865</date>
 <lb/>To his Excellency
-<lb/><persName ref="cwgk:N001000">Govr. Thos E Bramlette</persName></p>
-<p><persName ref="cwgk:N00005028">Wm R Casey</persName> a justice of the peace for the 1<hi rend="sup">st</hi> District of Springfield <placeName ref="cwgk:P00005027">Washington County Ky</placeName> having resigned his said office, we hereby recommend to your excellency <persName ref="cwgk:N00005123">C. J. Borley</persName> as a suitable person to fill said office</p>
+<lb/>Govr. Thos E Bramlette</p>
+<p>Wm R Casey a justice of the peace for the 1<hi rend="sup">st</hi> District of Springfield Washington County Ky having resigned his said office, we hereby recommend to your excellency <hi rend="str"><unclear/></hi>C. I. Bosley as a suitable person to fill said office</p>
 <p>Respectfully
 <lb/>W R Casey J P W C</p>
 <p>Said Basley is a Good union man
-<lb/><persName ref="cwgk:N00005031">John McIntire</persName> County Judge</p>
+<lb/>John M<hi rend="sup">c</hi>Intire County Judge</p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0379"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,20 +63,23 @@
  </teiHeader>
  <text>
   <body>
-   <p><orgName ref="cwgk:O00006805">FIRST NATIONAL BANK OF LEXINGTON</orgName><lb/>SUCCESSORS OF <orgName ref="cwgk:O00006826">Bank of Kentucky</orgName>,<lb/><placeName ref="cwgk:P001002">Lexington</placeName>, <date when="1865-03-25">Mar 25<hi rend="sup">th</hi> 1865</date>
-<lb/>Gov <persName ref="cwgk:N001000">Tho E Bramlet</persName>t Esq., <hi rend="str">Cashier</hi>,
-<lb/>Yours of the <gap/> is received with enclosure as stated.</p>
+   <p>FIRST NATIONAL BANK OF LEXINGTON
+<lb/>SUCCESSORS OF Bank of Kentucky,
+<lb/>Lexington, <date when="1865-03-25">Mar 25<hi rend="sup">th</hi> 1865</date>
+<lb/>Govr Tho E Bramlett Esq., <hi rend="str">Cashier</hi>,</p>
+<p>Yours of the <gap/> is received with enclosure as stated.</p>
 <p>Respectfully Yours,
 <lb/><gap/>
-<lb/>Cashier.</p>
+<lb/>Cashier</p>
 <p>I enclose</p>
-<p>Allow me to recommend for appointment as a Notary Public Mr <persName ref="cwgk:N00006558">E. S Duncanson</persName>, he is a BookKeeper of our Bank, and I will take it as a favor if you will appoint him</p>
-<p>Resplly
-<lb/><persName ref="cwgk:N00006560">Tho Mitchell</persName><lb/>Cashier,,<pb/></p>
-<p><placeName ref="cwgk:P001031">Fayette Co</placeName><lb/>Notary Public
-<lb/>E. L. Duncanson
-<lb/>appt<hi rend="sup">d</hi>
-<lb/><date when="1865-03-29">29<hi rend="sup">th</hi> Mch 1865</date></p>
+<p>Allow me to recommend for appointment as a Notary Public Mr E S Duncanson, he is a Book Keeper of our Bank, and I will take it as a favor if you will appoint him</p>
+<p>Resptly
+<lb/>Tho Mitchell
+<lb/>Cash<hi rend="sup">r</hi>,,<pb/></p>
+<p>Fayette Co
+<lb/>Notary Public
+<lb/>E. S. Duncanson
+<lb/>appt<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1865-03-29">29<hi rend="sup">th</hi> Mch 1865</date></p>
   </body>
  </text>
 </TEI>
