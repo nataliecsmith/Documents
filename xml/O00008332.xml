@@ -43,8 +43,8 @@
             <particDesc>
                 <org xml:id="O00008332">
                     <orgName>H. &amp; M. Yeaman</orgName>
-                      <event type="begun" when="1863">1863</event>
-                      <event type="ended" when="unknown">unknown</event>
+                      <event type="begun" when="1863"><ab>1863</ab></event>
+                      <event type="ended"><ab>unknown</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +55,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Edmund Lyne Starling, <em>History of Henderson County, Kentucky</em> (Henderson, Ky.: n.p., 1887), 644-45.</p>
+        <ab><bibl>Edmund Lyne Starling, <hi rend="italic">History of Henderson County, Kentucky</hi> (Henderson, Ky.: n.p., 1887), 644-45.
 </bibl></ab>
     </back>
 </text>
