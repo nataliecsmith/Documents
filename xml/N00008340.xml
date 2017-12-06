@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Anthony P. Curtis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -51,7 +55,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Kentucky native. Resident of Graves County, Kentucky, in 1850.</p>
+        <p>Graves County, Kentucky, resident. Kentucky native. Son of David Graham and Martha Graham. Resident of Graves County in 1850.</p>
 
     </body>
     <back>
