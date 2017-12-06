@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Anthony P. Curtis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -51,7 +55,8 @@
     </teiHeader>
     <text>
     <body>
-        
+        <p>Kentucky resident. Signed a petition for Eli Smith in 1862.</p>
+
     </body>
     <back>
         <ab><bibl><p>KYR-0001-029-0595.</p>
