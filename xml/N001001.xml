@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN001001">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Richard Hawes</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N001001">
+                    <persName>
+                      Richard Hawes
+                        (Governor (So-Called, Bogus, Provisional))
+                    </persName>
+                      <birth when="1797-02-06"></birth>
+                      <death when="1877-05-25"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Second and last governor of the provisional Confederate government of the state of Kentucky. Married to Hetty Morrison Nicholas Hawes on November 13, 1818. Father of James Morrison Hawes, George N. Hawes, Samuel Hawes, Smith Nicholas Hawes, Cary Nicholas Hawes, Clara Hawes, Hettie Hawes, and Mariah J. Hawes.  Educated at Transylvania University in Lexington, Kentucky. Read law with Charles Humphreys and Robert Wickliffe. Served in the Black Hawk War. Practiced law and farmed in Fayette County, Kentucky, Clark County, Kentucky, and Bourbon County, Kentucky. Owned a ropewalk in Winchester, Kentucky, in partnership with Benjamin Hawes Buckner in 1825. Member of the Whig Party. Member of the House of Representatives of the Commonwealth of Kentucky from Clark County in 1828, 1829, and 1836. Member of the House of Representatives of the United States from the 7th District of Kentucky from 1837 to 1841. Member of the Democratic Party. Major in the Confederate Commissary Department in October 1861. Assumed office as Provisional Governor of the Provisional Confederate Government on Kentucky on May 31, 1862, after the death of George W. Johnson. Second and final Provisional Governor of the Provisional Confederate Government from October 4, 1862 and served until the collapse of the Confederacy in 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Lowell H. Harrison, “Richard Hawes (1862-1865)” in Lowell H. Harrison, Ed., <em>Kentucky’s Governors</em> (Lexington: University Press of Kentucky, 2004), 85-88; Biographical Directory of the United States Congress,  s.v. “Richard Hawes,” http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000363 (accessed on October 18, 2016); Find A Grave, s. v. “Richard Hawes,” http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=10040 (accessed on October 18, 2016); <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bourbon County, Paris, p. 14. Patrick A. Lewis, <em>For Slavery and Union: Benjamin Buckner and Kentucky Loyalties in the Civil War</em> (Lexington: University Press of Kentucky, 2015), 20.</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
