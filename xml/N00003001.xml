@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00003001">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Braxton Bragg</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00003001">
+                    <persName>
+                      Braxton Bragg
+                        (CS General)
+                    </persName>
+                      <birth when="1817-03-22"></birth>
+                      <death when="1876-09-27"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Confederate general. Warrenton, North Carolina, native. Married Eliza Brooks Ellis Bragg on June 7, 1849. Graduated from the United States Military Academy, in West Point, New York, in 1837. Lieutenant in the Third United States Artillery Regiment in Florida during the Second Seminole War and later with the same unit in the Mexican-American War under Zachary Taylor. Resigned his commission on December 31, 1855 and purchased a sugar plantation near Thibodaux, Louisiana. On December 12, 1860, Louisiana Governor Thomas O. Moore appointed Bragg to the state military board. Appointed a Major General by the state of Louisiana on February 20, 1861. Appointed Brigadier General in the Confederate States Army on March 7, 1861. Commanded troops in Pensacola, Florida through the end of 1861. Moved with his command to Corinth, Mississippi to join the forces of Albert Sidney Johnston, under whom he commanded a corps at the Battle of Shiloh on April 6 and 7, 1862. After the battle, on April 12, 1862, Bragg was appointed a full general in the Confederate States Army. On June 17, 1862, he assumed command of the Army of Mississippi from P. G. T. Beauregard and led that force into Kentucky to join Edmund Kirby Smith in August 1862. Reorganized his forces after the battle of Perryville and established the Army of Tennessee, which he would command in the Murfreesboro, Tullahoma, and Chickamauga campaigns and the siege of Chattanooga until relieved of command on November 29, 1864. Military adviser to Jefferson Davis until taking command of coastal defenses near Wilmington, North Carolina, in October 1864, a responsibility which grew to eventually include the defenses of Augusta and Savannah, Georgia, as well as Charleston, South Carolina. After the fall of these ports to the armies of William T. Sherman, Bragg commanded a corps in North Carolina under Joseph Johnston until his capture and parole on May 9, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Earl J. Hess, <em>Braxton Bragg: The Most Hated Man of the Confederacy</em> (Chapel Hill: University of North Carolina Press, 2016).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
