@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN001760">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Abraham Lincoln</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N001760">
+                    <persName>
+                      Abraham Lincoln
+                        (Railsplitter)
+                    </persName>
+                      <birth when="1809-02-12"></birth>
+                      <death when="1865-04-15"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Sixteenth president of the United States. Hardin County, Kentucky, native. Married to Mary Ann Todd Lincoln in 1842. Father of Robert Todd Lincoln, Edward Baker Lincoln, William Wallace Lincoln, and Thomas “Tad” Lincoln. No formal education. Private and captain in the Illinois Militia during the Black Hawk War. Postmaster and county surveyor of New Salem, Illinois. Practiced law with John T. Stuart, Stephen T. Logan, and William Herndon in Illinois. Member of the Whig Party. Member of the House of Representatives of the State of Illinois from Sangamon County, Illinois, from 1834 to 1842. Member of the United States House of Representatives from the 7th District of the State of Illinois from 1847 to 1849. Unsuccessful candidate for the United States Senate from Illinois in 1858. Member of the Republican Party. Member of the National Union Party. President of the United States from 1861 to 1865. Assassinated on April 14, 1865 at Ford’s Theatre in Washington, District of Columbia, by John Wilkes Booth. Interred in Oak Ridge Cemetery in Springfield, Illinois.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>The Papers of Abraham Lincoln, s.v. “Abraham Lincoln Chronology,” http://www.papersofabrahamlincoln.org/resources/abraham-lincoln-chronology (accessed October 24, 2016); Michael Burlingame, Abraham Lincoln: A Life (Baltimore: Johns Hopkins University Press, 2008); David Herbert Donald, Lincoln (New York: Simon &amp; Schuster, 1996); Ronald C. White, Jr., A. Lincoln: A Biography (New York: Random House, Inc., 2009).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
