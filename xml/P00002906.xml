@@ -10,11 +10,11 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name></name>
+            <name>Anthony P. Curtis</name>
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
+            <name></name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -44,7 +44,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00002906">
                     <placeName>
                         <location>
@@ -53,16 +53,16 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Seat of Hardin County.</p>
+        <p>Seat of Hardin County, Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl><p>Robert M. Rennick, <em>Kentucky Place Names</em> (Lexington: University Press of Kentucky, 1984), 90-91; “Elizabethtown,” <em>The Kentucky Encyclopedia</em>, ed. John E. Kleber (Lexington: University Press of Kentucky, 1992), 290.</p>
+        <ab><bibl>Robert M. Rennick, <hi rend=”italic”>Kentucky Place Names</hi> (Lexington: University Press of Kentucky, 1984), 90-91; “Elizabethtown,” <hi rend=”italic”>The Kentucky Encyclopedia</hi>, ed. John E. Kleber (Lexington: University Press of Kentucky, 1992), 290.
 </bibl></ab>
     </back>
 </text>
