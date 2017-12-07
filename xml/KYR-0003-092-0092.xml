@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,14 +68,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>E. Town <date when="1861-02-22">Feby 22 1861</date>
-<lb/>G W. Johnson Esqre
-<lb/>My dear Sir</p>
+   <p><placeName ref="cwgk:P00002906">E. Town</placeName> <date when="1861-02-22">Feby 22 1861</date>
+<lb/><persName ref="cwgk:N001002">G W. Johnson Esqre</persName><lb/>My dear Sir</p>
 <p>I receive your letter this moment. Would have written you sooner had the promise of Eight Thousand dollars. <unclear>Very</unclear> shortly when pd, shall be pd on your debt.</p>
 <p>I fear I shall not get any <unclear>think</unclear> from the South for some time, should things take a change I will <unclear/> <unclear/> of the debt than rest ashured my dear sir that every effort on my part shall be to pay you the balance at as early day as possible.</p>
 <p>I will a <unclear>join</unclear> you when I pay the 8000$ on the note.</p>
 <p>Truly Your Friend
-<lb/>S. B. Thomas<pb/></p>
+<lb/><persName ref="cwgk:N00008144">S. B. Thomas</persName><pb/></p>
 <p><table rend="rules">
 <row>
 	<cell>Calomel</cell>
