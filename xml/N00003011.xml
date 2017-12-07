@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00003011">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Edmund Kirby Smith</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00003011">
+                    <persName>
+                      Edmund Kirby Smith
+                        (CS General)
+                    </persName>
+                      <birth when="1824-05-16"></birth>
+                      <death when="1893-03-28"></death>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Confederate general. St. Augustine, Florida, native. Graduated from the United States Military Academy at West Point, New York, in 1845. Lieutenant in the Fifth and later the Seventh United States Infantry Regiments. Served in the Mexican-American War. Mathematics instructor at the United States Military Academy from 1849 to 1852.  Captain and later major in the Second United States Cavalry Regiment from 1855 until his resignation on April 6, 1861. Entered the Confederate service on March 16, 1861 and was promoted to Brigadier General on June 17, 1861. Commanded a brigade in the Army of the Shenandoah at the battle of First Bull Run on July 21, 1861, where he was wounded. Commanded the Department of Middle and East Florida while recuperating before returning to the field as a Major General and division commander in the Army of Northern Virginia on October 11, 1861. Took command of the Army of East Tennessee in February 1862. As commander of the newly created Army of Kentucky, Kirby Smith invaded Kentucky in August 1862, commanding troops at the Battle of Richmond, Kentucky on August 30, 1862. On January 14, 1863, Kirby Smith was transferred to the Trans-Mississippi Department and commanded troops in Louisiana, Texas, and Arkansas from headquarters in Shreveport, Louisiana, until surrendering his command on May 26, 1865. Fled from Galveston, Texas, to Mexico and Cuba under fear of arrest for treason before returning to take the amnesty oath at Lynchburg, Virginia, on November 14, 1865.</p>
+
+    </body>
+    <back>
+        <ab><bibl><p>Joseph Howard Parks, <em>General Edmund Kirby Smith, C.S.A.</em> (Baton Rouge: Louisiana State University Press, 1954).</p>
+</bibl></ab>
+    </back>
+</text>
+</TEI>
