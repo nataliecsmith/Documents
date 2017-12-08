@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,13 +68,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Elizabethtown <date when="1861-05-21">May 21<hi rend="underline"><hi rend="sup">st</hi></hi>/61</date>
-<lb/>George W Johnson Esqr
-<lb/>Dear Sir</p>
+   <p><placeName ref="cwgk:P00002906">Elizabethtown</placeName> <date when="1861-05-21">May 21<hi rend="underline"><hi rend="sup">st</hi></hi>/61</date>
+<lb/><persName ref="cwgk:N001002">George W Johnson</persName> Esqr<lb/>Dear Sir</p>
 <p>I just arrived from the South yesterday and found a letter hear from you</p>
 <p>I am very sorry to say that I made no collections was disappointed in every quarter Just as soon as I can collect I will hand it over to you but am unable to say when it will be I am sorry things have happened so that we could not meet our notes</p>
 <p>Yours Very Respectfully
-<lb/>C. T. Churchill<pb/></p>
+<lb/><persName ref="cwgk:N00008150">C. T. Churchill</persName><pb/></p>
 <p>C. T. Churchill
 <lb/><date when="1861-05-21">May 21. 1861.</date></p>
 <p><hi rend="underline">C. T. Churchill</hi></p>
