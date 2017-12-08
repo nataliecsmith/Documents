@@ -6,11 +6,11 @@
         <title level="a" type="main">Lexington, Kentucky</title>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Patrick A. Lewis</name>
+            <name>Anthony P. Curtis</name>
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
+            <name>Patrick A. Lewis</name>
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
@@ -44,16 +44,16 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P001002">
                     <placeName>
                         <location>
-                              <geo>38.047989 -84.50164</geo>
+                              <geo>38.0406 -84.5037</geo>
                             <settlement>Lexington, Kentucky</settlement>
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -62,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>John D. Wright, &quot;Lexington (City),&quot; in <em>The Kentucky Encyclopedia</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 549-51.</p>
+        <ab><bibl>John D. Wright, &quot;Lexington (City),&quot; in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 549-51.
 </bibl></ab>
     </back>
 </text>
