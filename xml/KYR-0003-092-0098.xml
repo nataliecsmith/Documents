@@ -16,7 +16,15 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -60,8 +68,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>E. Town <date when="1861-05-05">May 5.<hi rend="sup">th</hi> 1861</date>
-<lb/>Dr Sir</p>
+   <p><placeName ref="cwgk:P00002906">E. Town</placeName> <date when="1861-05-05">May 5.<hi rend="sup">th</hi> 1861</date>
+<lb/>Dr <persName ref="cwgk:N001002">Sir</persName></p>
 <p>We leave to night for the South to see if any way can be devised to get the money to pay you. never in my life have I been <unclear>this</unclear> troubled in not being able to pay a debt. Every <unclear>resort</unclear> of mine has been exercised to <unclear>raise</unclear> the money, and the first-time for Twenty five years I have failed rest ashured as son as. It can be got- by sale of. any property It shall come if not collected from others that owe me.</p>
 <p>Your Friend
 <lb/>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> B. Thomas<pb/></p>
