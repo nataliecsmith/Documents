@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0046"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">J. Pock et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">J. Zeck et al. to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4165</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,51 +63,52 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency the Governor of Kentucky:</p>
-<p>The undersigned Citizens of Dover Mason County and its vicinity, would respectfully represent that Samuel S True, in the year <date when="1859">1859</date>, being a grocer, obtained license from the town of Dover to sell spiritous liquours, (said Town being authorized by an act of the Legislature so to do) and believing the whole power of licensing to sell liquor was vested in the trustees of s<hi rend="sup">d</hi> town. He omitted to pay the usual county tax requred in such cases, and was indicted therefor in the Mason Circuit Court at the Spring Term <date when="1859">1859</date> and fined the sum of Sixty dollars and costs. Your Peitioners, believing that said True was entirely ignorant that he was committing any violation of the state law, and that he regarded his license from the Trustees of Dover as full authority for vending spiritous liquors would respectfully and ernestly petition your Excellency to remit said fine.</p>
+   <p>To His Excellency The Governor of Kentucky:</p>
+<p>The undersigned Citizens of Dover, Mason County and its vicinity, would respectfully represent that Samuel S True, in the year <date when="1859">1859</date>, being a grocer, obtained license from the town of Dover to sell spiritous liquors, (said Town being authorized by an act of the Legislature so to do) and believing the whole power of licensing to sell liquor was vested in the trustees of s<hi rend="sup">d</hi> town, He omitted to pay the usual County tax required in such cases, and was indicted therefor in the Mason Circuit Court at its Spring Term <date when="1859">1859</date> and fined the sum of Sixty dollars and costs. </p>
+<p>Your Petitioners, believing that said True was entirely ignorant that he was committing any violation of the state law, and that he regarded his license from the Trustees of Dover as full authority for vending spiritous liquors would respectfully and ernestly petition Your Excellency to remit said fine.</p>
 <p>Respectfully
-<lb/><milestone unit="column" n="2"/><cb n="1"/>J. Pock
+<lb/><milestone unit="column" n="2"/><cb n="1"/>J. Zeck
 <lb/>Ethan Anderson
-<lb/>M M Jennings
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Jennings
 <lb/>Marcus Anderson
-<lb/>P N Jennings
+<lb/><unclear/> N Jennings
 <lb/><cb n="2"/>M Smith
-<lb/>Willias D Lee<pb/>
-<lb/><cb n="1"/>Thos A Ressess
-<lb/>Thos P. Anderson
+<lb/>Willis D, Lee<pb/>
+<lb/><cb n="1"/>Th<hi rend="underline"><hi rend="sup">o</hi></hi> N Respass
+<lb/>Tho. P. Anderson
 <lb/>Rob Y. Evans
-<lb/>Jas M<hi rend="sup">c</hi>Millian
+<lb/>Ja<hi rend="sup">s</hi> McMillian
 <lb/>W F Thomas
 <lb/>Arthur F. Dobyns
-<lb/>A Rasses
-<lb/>Thos A Carran
-<lb/>Wm A Chalfont
-<lb/>J. C. Mitchell
-<lb/>Jas H Anderson
+<lb/>A Rogers
+<lb/>Tho A Curran
+<lb/>Wm O Chalfont
+<lb/>J, C, Mitchell
+<lb/><hi rend="underline">Ja</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> H Anderson</hi>
 <lb/>Leonard C Anderson
 <lb/>Jas M<hi rend="sup">c</hi>Donald
-<lb/>O Sulinar
+<lb/>O Sulivan
 <lb/>J. M. Thomas
 <lb/>A. D. Veach
-<lb/>Charles Sadenburger
+<lb/>Charles <unclear>S</unclear>adenburger
 <lb/>W E Tabb
-<lb/>P. C. Bullock
-<lb/>John L. Tabb
-<lb/>Jas. F. Lee
+<lb/>P, C, Bullock
+<lb/>John. L. Tabb
+<lb/>Jas, F, Lee
 <lb/>Peter S Anderson
-<lb/>A. F. Dobyns J<hi rend="sup">r</hi>
+<lb/>A, F, Dobyns J<hi rend="underline"><hi rend="sup">r</hi></hi>
 <lb/>Moses Moore
 <lb/>F Adams
 <lb/>J C Hess (Police Judge of Dover)
 <lb/><cb n="2"/>John Magilll
-<lb/>Jared <unclear>Drak</unclear>
-<lb/>Thomas Mooran<milestone unit="column" n="1"/><pb/></p>
-<p>Dover Ky. <date when="1863-09-30">Septr 30<hi rend="sup">th</hi> 1863</date></p>
+<lb/><unclear>Jared frak</unclear>
+<lb/>Thomas <unclear>Mooran</unclear><milestone unit="column" n="1"/><pb/></p>
+<p>Dover. Ky. <date when="1863-09-30">Septr. 30<hi rend="sup">th</hi> 1863.</date></p>
 <p>The facts as set forth in the above petition are to my knowledge true, and furnish a case deserving the Executive interposition</p>
 <p>M Smith</p>
 <p>Mason Cir Court
 <lb/>vs
-<lb/>S. S. True
+<lb/>S. S, True
 <lb/>Respited for 6 months
 <lb/><date when="1863-10-03">3<hi rend="sup">d</hi> Oct 1863</date></p>
   </body>

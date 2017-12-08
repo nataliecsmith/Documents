@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0106"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Sebastian Vick to Thomas E. Bramlette and John F. Boyle</title>
+    <title level="a" type="main">Sebastian C. Vick to Thomas E. Bramlette and John Boyle</title>
     <title level="a" type="parallel">CWG12029</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,32 +63,32 @@
  </teiHeader>
  <text>
   <body>
-   <p><date when="1863-12-04">Decem the 4<hi rend="sup">th</hi> 1863</date>
-<lb/>Greeneville, Ky.
+   <p><date when="1863-12-04">Decem The 4<hi rend="sup">th</hi> 1863</date>
+<lb/>Greeneville, Ky,
 <lb/>to his Excelency Thos E Bramlett
-<lb/>and John. F. Boyle
-<lb/>Adjut. gen. of. Ky.</p>
-<p>Sir, I have the honor to report to you that Last night myselfe and a few of the 35 ky mounted Infantry and my little, com.d, of State guards attacted the Infamous, Lutenant, Col, Robt, M. Martin guirillar that has Bin infestin Southern Ky, Ever since the Rebellion We over, took, them in greeneville about 9 oclock and drove them from the town it. Being dark we got mixt on the Streets and was unable to distinguish our own men<pb/>
-<lb/>from the guirilas we capturd Several guns and coats I capturd one of his officials which I Enclose to you that you may know how this Region is Empossd. upon By a Set of murdurous Robers tohoo would disgrace the Most Savage myscreants hells own dominon they have Rob,d. murder,d, and done all the out Rages to civilization that the fiends of hell, could Invent</p>
-<p>Sir I am working to organize the State guard acording to your orders well Report to you Soon</p>
-<p>Sir I will try to capture those guirilas Before. I they Escape from the county had I forty men I would drive them from the State or capture them<pb/>
-<lb/>I will soon Be able to Report you a full company In a few days Ready for their arms &amp;= <unclear/>=</p>
-<p>Sir in my Report to you on the Reception of my comission as colonel of the 71<hi rend="underline"><hi rend="sup">st</hi></hi>. Regt. Ky., <unclear/> jointed Saying to you that I presented M. Leff. Roark <hi rend="str">per</hi> comission to him as lutenant, Col he cant accept of his comission from the fact that he is comissioned to fill an office in the government of the U. S. etc Sir I take greate pleasure in Recomending. T. S. lewis as a Suitable apointment to that office &amp;. <unclear/>.=</p>
-<p>Your Respectfully
-<lb/>Sebastian.C. Vicks
-<lb/>Colonel, com.
+<lb/>and John, F, Boyle
+<lb/>adjnt, gen, <hi rend="str">B</hi>of, Ky,</p>
+<p>Sir, I. have the honor to report to you that Last night myselfe and a few of the 35 ky mounted Infantry and my little, com,d, of State guards attacted the Infamous, Lutenant, col, Robt,, M, Martin guirillar that has Bin infestin Southern, Ky, Ever since the Rebellion We over, took, them in greeneville about 9 oclock and drove them from the town It. Being dark we got mixt on the Streets and was unable to distinguish our own men<pb/>
+<lb/>from the guirilas we capturd <hi rend="str">t</hi>Several guns and coats. I. capturd one of his officials which, I, Enclose to you that you may know how this Region Is Empos,d, upon By a Set of murduroas Robers tohoo would disgrace the Most Savage myscreants hells own dominion they have Rob,d, murder,d, and done all the out Rages to civilization That the fiends of hell, could Invent</p>
+<p>Sir, I, am working to organize the States guard. acording to your orders will Report to you Soon</p>
+<p>Sir. I. will trey to capture thoes guirilas Before, <hi rend="str">I<unclear/></hi> they Escape from the county had, I, forty men I would drive them from the State or capture Them<pb/>
+<lb/>I will soon Be, able to Report you a full company In a few days Ready for their arms &amp;= <unclear/>=</p>
+<p>Sir in my Report to you on the Reception of my. comission as colonel of the 71<hi rend="underline"><hi rend="sup">st</hi></hi>, Regt, Ky, (Mia) jointed Saying to you that I presented M, Jeff, Roark <hi rend="str">pet</hi> comission to <hi rend="str"><unclear/></hi>him as lutenant, col he cant accept of his comission from the fact that he is comissiond to fill an office in the goverment of the U. S. A, Sir I take greate pleasure in Recomending, T. S, lewis as a Suitable apointment to that office &amp;, <hi rend="underline"><unclear/></hi>,=</p>
+<p>Yours Respectfuly
+<lb/>Sebastian, C, Vick
+<lb/>Colonel, com,
 <lb/>the 71<hi rend="underline"><hi rend="sup">st</hi></hi> Regt
-<lb/>ky. mia.<pb/></p>
-<p>Ky State Militia<figure type="hr"/>
-<lb/>Muhlenberg Co<figure type="hr"/>
-<lb/>S C Vick
+<lb/>ky (mia)<pb/></p>
+<p><hi rend="underline">Ky State Militia</hi>
+<lb/>Muhlenberg Co<figure type="hr"/></p>
+<p>S C Vick
 <lb/>Col 71<hi rend="sup">st</hi> Regt<figure type="hr"/>
-<lb/>Date <date when="--12-02">2<hi rend="sup">nd</hi> Dec</date><figure type="hr"/>
+<lb/>Date <date when="1863-12-02">2<hi rend="sup">nd</hi> Dec</date><figure type="hr"/>
 <lb/>Rec<hi rend="sup">d</hi> I G O
 <lb/><date when="1863-12-07">7 Dec 63</date></p>
-<p>Sir I hope that I will Be able to Send you a look of Rebell Boob marting hair By next mail</p>
-<p>Your, Respectfuly
-<lb/>S. C. Vick</p>
+<p>Sir, I, hope that I, will Be able to Send you a look of Rebell Boob marting hair By next mail</p>
+<p>Yours, Respectfuly
+<lb/>S, C, Vick</p>
   </body>
  </text>
 </TEI>

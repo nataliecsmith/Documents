@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0066"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,20 +66,20 @@
    <p>Stanford Ky <date when="1865-08-23">Aug 23<hi rend="underline"><hi rend="sup">rd</hi></hi> 1865</date>
 <lb/>Hon Thomas. E. Bramlet
 <lb/>Govenor of Kentucky</p>
-<p>My object of the enclosed few lines is simply for the benefit of others that is soldiers of Major Bridgewaters. Halls Gap Battalion who furnished their own Horses arming their <unclear/> the service <unclear/> paid their own money and was their own private <unclear>property</unclear> for the benifit of the above mentioned person I call upon your <hi rend="str">to</hi> Excellency for Information to know which steps will have to be taken to obtain their pay for their service of their Horses or whether it will be worthwhile to take any. That is may they expect to obtain anything.</p>
-<p>Enclosed find Stamp which you will confer a favor by answering immediately</p>
+<p>My object of the enclosed <unclear>find</unclear> lines is simply for the benefit of others. that is Soldiers of Major Bridgewaters. Halls Gap Battalion who furnished their own Horses assuring their time in the service who paid their own money and was their own private property. for the benifit of the above mentioned person I call upon your <hi rend="str">to</hi> Excellency. for Information to Know which steps will have to be taken. to obtain their pay for their service of their Horses. or whether it will be worthwhile to take any. That is may they expect to obtain anything.</p>
+<p>Enclosed find Stamp. which you will confer a favor by answering Immediately</p>
 <p>I am Respectfulley
 <lb/><hi rend="str">Yours</hi>
 <lb/>Mr. Presley Martin
 <lb/>Stanford Ky<pb/></p>
-<p>Stanford Ky
-<lb/><date when="1865-08-23">Aug 23" 1865</date><figure type="hr"/>
+<p>Stanford, Ky
+<lb/><date when="1865-08-23">Aug 23<hi rend="underline"><hi rend="sup">"</hi></hi> 1865</date><figure type="hr"/>
 <lb/>Martin Presley<figure type="hr"/></p>
-<p>Desires to Know if the soldiers of Maj Bridgewaters command who furnished their own horses -- will be paid for them.<figure type="hr"/></p>
+<p>Desires to know if the soldiers of Maj Bridgewaters command who furnished their own horses -- will be paid for them.<figure type="hr"/></p>
 <p>Adjt Genl</p>
-<p>Will answer immediately is the request This ex soldiers in distress</p>
+<p>Will answer immediately is the request This ex soldier in distress</p>
 <p>L B N<hi rend="sup">o</hi> 16 -- <date when="1865">1865</date> P. 304<figure type="hr"/>
-<lb/>Rec<hi rend="sup">d</hi> A. G. O <date when="1865-08-25">Aug 25" 1865</date></p>
+<lb/>Rec<hi rend="sup">d</hi> A. G O <date when="1865-08-25">Aug 25" 1865</date></p>
   </body>
  </text>
 </TEI>

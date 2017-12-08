@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0064"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,17 +66,17 @@
    <p>Dixon / Webster Co Ky <date when="1865-09-24">Sept 24<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
 <lb/>Mr Bramlett
 <lb/>Sir</p>
-<p>Our country having been over run by thieves and Robers for some time past ^By^ stealing Horses plundering and robing Houses almost every night we know the men they are scattered all through the country they have two trains we call them, one to run the Horses to illinois and the other to Run them to Tennessee they are so bad we cannot Stand them I have been requested by a Great many of our Best citizens to recruit a square for the purpose of putting down men of this character. I do not feel willing to make the attempt without some authority from the proper one and if you will Grant me the permition to recruit this squad I will faithfully discharge my duties as their commander I will arm and mount my men my self and will dispose of the prisoners as you think best</p>
+<p>Our country having been over run by thieves and Robers for some time past ^By^ stealing Horses plundering and robing Houses almost eve<hi rend="str"><unclear/></hi>ry <hi rend="str">t</hi>night we know the men they are scattered all through the country they have two trains we call them, one to run the Horses to illinois and the other to Run them to Tennessee they are so bad we cannot Stand them I have been requested by a Greatmany of our Best citizens to recruit a <hi rend="str"><unclear/></hi>squad for the purpose of putting down men of this c<hi rend="str">a</hi>haracter. I do not feel willing to make the attempt without some authority from the proper one and if you will Grant me the permition to recruit this squad I will faithfully discharge my duties as their commander I will arm ^and mount^ my men my self and will dispose of the prisoners as you think best</p>
 <p>yours truly
 <lb/>Thos. J. Trice</p>
 <p>we have no soldiers here now to protect us and we are Bound to do something or go by the Board<pb/></p>
 <p>Dixon Webster Co. Ky.
 <lb/><date when="1865-09-24">Sep. 24, '65</date><figure type="hr"/></p>
 <p>Trice, Thomas J.
-<lb/>To Govenor<figure type="hr"/></p>
-<p>States that that portion of the country is overrun by thieves and robbers, who are stealing houses, and robbing and plundering houses. Asks permission to raise a squad of men, who will arm and mount himself, for the purpose of bringing them to justice<figure type="hr"/></p>
-<p>Ans. <date when="1865-10-03">Oct 3<hi rend="underline"><hi rend="sup">d</hi></hi> 65</date>. Lt Bk B. p 294.<figure type="hr"/>
-<lb/>Rec I. G. O. <date when="1865-10-03">Oct 3<hi rend="sup">d</hi> 1865</date></p>
+<lb/>To Govener<figure type="hr"/></p>
+<p>States that that portion of the country is overrun by thieves and robbers, who are stealing horses, and robbing and plundering houses. Asks permission to raise a squad of men, who will arm and mount himself, for the purpose of bringing them to justice<figure type="hr"/></p>
+<p>Ans. <date when="1865-10-03">Oct 3<hi rend="sup">d</hi>, 65</date>. Lt Bk B, p 294.<figure type="hr"/>
+<lb/>Rec. I. G. O. <date when="1865-10-03">Oct 3<hi rend="sup">d</hi> 1865</date></p>
   </body>
  </text>
 </TEI>

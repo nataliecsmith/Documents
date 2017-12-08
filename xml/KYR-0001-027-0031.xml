@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0031"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,14 +65,15 @@
   <body>
    <p>Burksville Ky <date when="1862-08-25">Aug. 25/62</date>
 <lb/>Honerable J. F. Robinson
-<lb/>Governor of Ky -- </p>
-<p>honered sir I herewith enclose a few facts in regard to local affairs in this town. it is already known to you <hi rend="str">that</hi> (no doubt) that we are visited in this secsion with frequent Rades by our enemies from Tenn twice in the last week, have they swept over our county &amp; through our town, unmolested, &amp; no prospect of it being stoped, for about two months past, those bandshees ^not^ past through our town, untill ten days since, this is in acordance with an arrangement between them and some secesh Merchants in Our town (viz J. B. Alexander &amp;<hi rend="sup">co</hi> R. Cross &amp;<hi rend="sup">co</hi>, &amp; Ryan &amp;<hi rend="sup">co</hi> the sesh will not interrupt Our town, while, those men will<pb/>
-<lb/>keep this line of trade open to Tenn. as a strong evidence of this, there has been a heavy trade kept up with Tenn, by the above named men, dureing the time specified, &amp; goods of various kinds &amp; salt in abundence have been Run through in this way, by men who are known to be openly hostile to our cause, &amp; even some of those that have been here in arms, are still hostile to our state &amp; Government. they convey those goods farr out into the state of Tenn where every thing is under the controll of Rebels in arms. and, it is vain to suppose that a good union man (,that would not be alloud to slay in, Tenn), would be alloud to enter the state with goods that the Rebels kneed, without the same being seized, &amp; furthermore<pb/>
-<lb/>the vast quantity thus taken by known Rebels, &amp; from known Rebels, by unbroken boses and by waggon loads as many as 15 loads pr. day, there was 43 Rebs passed through here on saturday. I heard a conspicuous courier of this trading band, by the name of A. A. Norris, say to a union man, that they (the Rebels) would interrupt his (the union mans goods, he said they had concluded if they did, it would interrupt this trade south, this trad afforded them to much, to interrupt it by taking a few horse loads from a uninion merchant, this fellow is one of their express's, and dear sir let me say to you although this trade is connected with those 3 firms it is almost as one, it embraces palpably. the following men (at least) on the next page<pb/>
+<lb/>Governor of Ky -- 
+<lb/>honered sir</p>
+<p>I herewith enclose a few facts in regard to local affairs in this town. it is already known to you <hi rend="str">that</hi> (no doubt) that we are visited in this secsion with frequent Rades by our enemies from Tenn twice in the last week, have they swept over our county &amp; through our town, unmolested, &amp; no prospect of it being stoped, for about two months past, those bandshees ^not^ past through our town, untill ten days since, this is in accordance with an arrangement between them and some secesh Merchants in Our town (viz J. B. Alexander &amp;<hi rend="sup">co</hi> R. Cross &amp;<hi rend="sup">co</hi>, &amp; Ryan &amp;<hi rend="sup">co</hi> the sesh will not interrupt Our town, while, those men will -- <pb/>
+<lb/>keep this line of trade open to Tenn, as a strong evidence of this, there has been a heavy trade kept up with Tenn, by the above named men, dureing the time specified, &amp; goods of various kinds &amp; salt in abundence have been Run through in this way, by men who are known to be openly hostile to our cause, &amp; even some of those that have been here in arms, are still hostile to our state &amp; Government. they convey those goods farr out into the state of Tenn where every thing is under the controll of Rebels in arms. and, it is vain to suppose that a good Union man (,that would not be alloud to slay in, Tenn), would be alloud to enter the state with goods that the Rebels kneed, without the same being seized, &amp; furthermore<pb/>
+<lb/>the vast quantity thus taken by known Rebels, &amp; from known Rebels, by unbroken boxes and by waggon loads as many as 15 loads pr. day. there was 43 Rebs passed through here on saturday, I heard a conspiocous courier of this trading band, by the name of A. A. Norris, say to a union man, that they (the Rebels) would interrupt his (the Union mans goods, he said they had concluded if they did, it would interrupt this trade south, this trad afforded them to much. to interrupt it by taking a few horse loads from a uninion merchant, this fellow is one of their express's, and dear sir let me say to you although this trade is connected with those 3 firms it is almost as one, it embraces palpably the following men (at least) on the next page -- <pb/>
 <lb/>J. B. Alexander, Baker &amp; Co 
-<lb/>Messrs Ryan 's
+<lb/>Messrs Ryan's
 <lb/>Cross &amp; Long</p>
-<p>Ex Sennator S. H Boles &amp; bro &amp; some Professed union men who has vouched for those Merchants knowing al the time, that those goods we going, where our state authorities emphaticaly forbid I named those things to gen Boyle who checked it for a few days but throug some stratigy it is poreing in again, &amp; wagons here waiting for it, if they cannot get it no other way, they will find farmers who will go and buy it (salt) &amp; sell to them they care nothing for price, I name those things, that you may know how how times are here on the border it ought to be stoped. union men that aids Rebels (is a Rebel) </p>
+<p>Ex Sennator S. H Boles &amp; bro &amp; some Professed Union men who has vouched for those Merchants knowing at the time, that those goods we going, where our state authorities emphaticaly forbid I named those things to gen Boyle who checked it for a few days but throug some stratigy it is poreing in again, &amp; wagons here waiting for it, if they cannot get it no other way, they will find farmers who will go and buy it (salt) &amp; sell to them they care nothing for price, I name those things, that you may know how how times are here on the border it ought to be stoped. Union men that aids Rebels (is a Rebel) </p>
 <p>Taylor</p>
   </body>
  </text>

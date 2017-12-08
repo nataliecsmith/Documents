@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0009"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">S. Hastings Grant to Unknown</title>
+    <title level="a" type="main">S. Hastings Grant to James F. Robinson</title>
     <title level="a" type="parallel">CWG1242</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>New York City, New York County, New York</placeName>
+    <placeName>New York, New York County, New York</placeName>
     <date when="1862-08-20">20 August 1862</date>
    </creation>
    <textClass>
@@ -60,12 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Mercantile Library
+   <p>Mercantile Library,
 <lb/>NEW YORK CITY, 
 <lb/><date when="1862-08-20">Aug. 20, 1862</date>.
 <lb/>DEAR SIR:</p>
 <p>In view of the mighty influence of the present war on the future history of the human race, it would seem a duty we owe to posterity to leave them as perfect a record as possible of not only the actions but the motives and spirit of the times. In my capacity of librarian so many of the various publications on the subject have been brought before me, that the idea of collecting a more complete list of them for the aid of the coming historian has presented itself. With this purpose I have applied to various sources for assistance, and have met with encouraging success. An abstract of the results, thus far obtained, has appeared in the numbers of the <hi rend="italic">Historical Magazine</hi> for the months of April to August of the present year.</p>
-<p>To you, as one of the leaders of opinion, I appear for your kind aid in this undertaking by the contribution of a copy, or the title-page and scope, of any Sermon, Essay, or Discourse of your own, or another's, which has a bearing on any of the many phases of this pregnant crisis.</p>
+<p>To you, as one of the leaders of opinion, I appeal for your kind aid in this undertaking by the contribution of a copy, or the title-page and scope, of any Sermon, Essay, or Discourse of your own, or another's, which has a bearing on any of the many phases of this pregnant crisis.</p>
 <p>Respectfully Yours,
 <lb/>S. HASTINGS GRANT.</p>
 <p><hi rend="sup">*</hi><hi rend="sub">*</hi><hi rend="sup">*</hi> So soon as a degree of approximate completeness shall have been attained, it is the intention of the compileer to furnish those who have assisted him with a condensed statement of the information gathered.<pb/></p>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1499"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -65,14 +68,14 @@
 <lb/>October Term 1861
 <lb/><date when="1861-10-24">October 24<hi rend="sup">th</hi> 1861</date></p>
 <p>The Commonwealth Plff
-<lb/>against } Indict Felony
+<lb/>against &#125; Indict Felony
 <lb/>James Gorsuch Deft.</p>
-<p>The defendant being solemnly called to appear in discharge of the recognizance entered into by him in the City Court of Louisville on the <date when="1861-09-07">7 September 1861</date> came not, but made default. It is therefore considered by the Court that the Clerk of this Court issue a write of scire facias against the said James Gorsuch together with James G. Gorsuch, L. B. Bates, Abm. P. Gorsuch, H. F. Simrall, John Joyes &amp; Jeff Brown his bail returnable &amp;<hi rend="sup">c</hi> to shew cause <hi rend="str">why</hi> if any they have or can why the Commonwealth shall not have judgement and execution thereon against them for sixteen hundred Dollars the said James Gorsuch in Eight hundred dollars and the said James G. Gorsuch, L. B. Bates, Abm. P. Gorsuch, H. F. Simrall, John Joyes &amp; Jeff Brown in a like sum according to the form &amp; effect of said recognizance and for a breach of the conditions thereof. And on motion of plaintiff a capias is awarded her against the said James Gorsuch returnable &amp;<hi rend="sup">c</hi> which capias shall be endorsed bail in eight hundred dollars with good security in a like sum conditioned &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> And all further<pb/>
-<lb/>proceedings are continued until the next term of the Court.</p>
+<p>The defendant being solemnly called to appear in discharge of the recognizance entered into by him in the City Court of Louisville on the <date when="1861-09-07">7 September 1861</date> came not, but made default. It is therefore considered by the Court that the Clerk of this Court issue a writ of scire facias against the said James Gorsuch together with James G. Gorsuch, L. B. Bates, Abm. P. Gorsuch, H, F. Simrall, John Joyes &amp; Jeff Brown his bail returnable &amp;<hi rend="sup">c</hi> to shew cause <hi rend="str">why</hi> if any they have or can why the Commonwealth shall not have judgement and execution thereon against them for sixteen hundred Dollars the said James Gorsuch in Eight hundred dollars and the said James G. Gorsuch, L. B. Bates, Abm. P. Gorsuch, H. F. Simrall, John Joyes &amp; Jeff Brown in a like sum according to the form &amp; effect of said recognizance and for a breach of the conditions thereof. And on motion of plaintiff a capias is awarded her against the said James Gorsuch returnable &amp;<hi rend="sup">c</hi> which capias shall be endorsed bail in eight hundred dollars with good security in a like sum conditioned &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> And all further<pb/>
+<lb/>proceedings are continued until the next term of this Court.</p>
 <p>A Copy
-<lb/>Attest James P. Chambers</p>
+<lb/>attest James P. Chambers</p>
 <p>The Commonwealth
-<lb/>vs } Copy of Judgt
+<lb/>vs &#125; Copy of Judgt
 <lb/>James Gorsuch</p>
   </body>
  </text>

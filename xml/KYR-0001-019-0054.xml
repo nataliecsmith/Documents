@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0054"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Abm. G. Smith to Beriah Magoffin</title>
+    <title level="a" type="main">Abram G. Smith to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG1360</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,12 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Harrodsburg. <date when="1861-05-23">May. 23<hi rend="sup">rd</hi> 1861</date>
+   <p>Harrodsburg. <date when="1861-05-23">May. 23<hi rend="sup">rd</hi> <hi rend="underline">1861</hi></date>
 <lb/>Gov. Magoffin</p>
-<p>Dear Sir I have a company of forty men, organized for the state guard all of them stout healthy men, and I wish <hi rend="str">you</hi>to know if you will accept and arm them. They are as fine a company of men as old mercer can raise. will you please to let me know as soon as it is convenient whether you will accept them or not. The people are tolerably quiet in this section of country. very little excitement, trade of all kinds dull, Crops looking admirably well.</p>
+<p>Dear Sir. I have a company of forty men, organized for the state guard all of them stout healthy men, and I wish <hi rend="str">you</hi>to know if you will accept and arm them. They are as fine a company of men as <hi rend="underline">old</hi> <hi rend="underline">mercer</hi> can raise. will you please to let me know as soon as it is convenient. whether you will accept them or not. The people are tolerably quiet in this section of country. very little excitement, trade of all kinds dull, Crops looking admirably well.</p>
 <p>I remain respectfully
 <lb/>Yours
-<lb/>Abm. G. Smith</p>
+<lb/>Abrm. G. Smith</p>
 <p>To Gov Magoffin<pb/></p>
 <p>A. G. Smith
 <lb/>Harrodsburg

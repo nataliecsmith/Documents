@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-027-0001"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -41,7 +44,7 @@
       <settlement>Frankfort</settlement>
       <repository>Kentucky Historical Society</repository>
       <collection>Artificial Collection, Unrelated Items Dated 1830-1938</collection>
-      <idno/>
+      <idno></idno>
      </msIdentifier>
     </msDesc>
    </sourceDesc>
@@ -67,11 +70,10 @@
 <p>By the Governor:
 <lb/>D. C. WICKLIFFE, <hi rend="italic">Secretary of State.</hi><figure type="hr"/></p>
 <p>FUNERAL CEREMONIES OF JOHN J. CRITTENDEN.<figure type="hr"/></p>
-<p>
-<lb/>The body will be removed from the late residence of the deceased to the Presbyterian Church, where service will be performed, on Wednesday Morning, <date when="1863-07-29">July 29, '63</date>, at 10 o'clock, A. M.</p>
+<p>The body will be removed from the late residence of the deceased to the Presbyterian Church, where service will be performed, on Wednesday Morning, <date when="1863-07-29">July 29, '63</date>, at 10 o'clock, A. M.</p>
 <p>The procession will move from the Church south on Wilkerson to Wapping Street; east on Wapping to St. Clair; north on St. Clair to Main; east on Main to Cemetery.<figure type="hr"/></p>
 <p>ORDER OF PROCESSION.<figure type="hr"/></p>
-<p>1. GEN. J. T. BOYLE, Chief Marshal and Staff.
+<p>1. GEN. J. T. BOYLE, Chief Marshal, and Staff.
 <lb/>2. Military Escort, in command of Col. ALLARD, 2d Maryland Volunteers.
 <lb/>3. MUSIC.
 <lb/><milestone unit="column" n="3"/><cb n="1"/>4. PALL BEARERS.
@@ -79,11 +81,11 @@
 <lb/>BEN. GRATZ,
 <lb/>J. R. THORNTON,
 <lb/>TUCKER WOODSON,
-<lb/>SAM NUCKOLS,
+<lb/>SAM. NUCKOLS.
 <lb/><cb n="2"/>HEARSE.
 <lb/><cb n="3"/>PALL BEARERS.
 <lb/>GEN. PETER DUDLEY,
-<lb/>COL. ALEX H. RENNICK,
+<lb/>COL. ALEX. H. RENNICK,
 <lb/>JACOB SWIGERT,
 <lb/>E. H. TAYLOR,
 <lb/>MASON BROWN.<milestone unit="column" n="1"/>
@@ -104,10 +106,10 @@
 <lb/>Assistant Marshal, Maj. JOHN MASON BROWN.
 <lb/><milestone unit="column" n="3"/><cb n="1"/>15. Citizens on foot.
 <lb/><cb n="2"/>16. Citizens in Carriages.
-<lb/><cb n="3"/>17. Citizens on Horseback.<milestone unit="column" n="1"/></p>
+<lb/><cb n="3"/>17. Citizens on horseback.<milestone unit="column" n="1"/></p>
 <p>JAMES H. GARRARD,
 <lb/>ORLANDO BROWN,
-<lb/>JOHN W. FINNELL, } <hi rend="italic">Committee of Arrangements.</hi></p>
+<lb/>JOHN W. FINNELL, &#125; <hi rend="italic">Committee of Arrangements.</hi></p>
   </body>
  </text>
 </TEI>

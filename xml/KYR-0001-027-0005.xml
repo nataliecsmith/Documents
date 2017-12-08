@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0005"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Columbus, Ohio</placeName>
+    <placeName>Columbus, Franklin County, Ohio</placeName>
     <date when="1862-08-18">18 August 1862</date>
    </creation>
    <textClass>
@@ -66,18 +69,18 @@
 <lb/>James F. Robinson
 <lb/>Governor of Kentucky
 <lb/>Sir</p>
-<p><date when="1862-07-18">One month ago this day</date> I was arrested by one H. C. Gassaway who by some Military authority acts as Provost Marshal at Newport Campbell County Ky. the place of my residence. My arrest occurred late in the afternoon of said day, &amp; upon my demand, information of ^the cause of^ my arrest was refused me by the said Gassaway, who was assisted by a large body of armed regular soldiers from the U.S. Barracks at Newport. I was immediately taken by the said Gassaway guarded by the soldiers to the Barracks, Closely confined over night, &amp; and <date when="1862-07-19">the next morning</date> with other Citizens of Kentucky sent under a guard of soldiers, to this prison, where I have been closely confined ever since &amp; deprived of my liberty.</p>
-<p>I am informed by the Colonel Commanding this post, that I am charged in general terms with <hi rend="underline">disloyalty</hi>, to the United States Government but that no specific act or deed of disloyalty is urged against me.</p>
+<p><date when="1862-07-18">One month ago this day</date>, I was arrested by one H. C. Gassaway who by some Military authority acts as Provost Marshal at Newport Campbell County Ky. the place of my residence. My arrest occurred late in the afternoon of said day, &amp; upon my demand, information of ^the cause of^ my arrest was refused me by the said Gassaway, who was assisted by a large body of armed regular soldiers from the U.S. Barracks at Newport. I was immediately taken by the said Gassaway guarded by the soldiers to the Barracks, closely confined over night, &amp; <date when="1862-07-19">the next morning</date> with other citizens of Kentucky sent under a guard of soldiers, to this prison, where I have been closely confined ever since &amp; deprived of my liberty.</p>
+<p>I am informed by the Colonel Commanding this post, that I am charged in general terms with <hi rend="underline">disloyalty</hi>, to the United States Government but that no specific act or word of disloyalty is urged against me.</p>
 <p>Since my imprisonment here I have sought in vain for some tribunal either civil or military before<pb/>
-<lb/>which I could have my case investigated, &amp; with the evidence of my neighbors &amp; acquaintances, who best know my acts &amp; sentiments, purge myself of the false &amp; scandalous charge against, me, irregular as it is &amp; unsustained by any shadow of evidence. I have been told that the power to investigate the cases of political prisoners held here, has been retained by the War Department &amp; to that distant point, I have forwarded my petition under oath, asserting my entire <hi rend="str">entire</hi> loyalty corroborated by the affidavits of others, praying a speedy invetigation, but I suppose from the delay attending the receipt of an answer, that the Department is overwhelmed with business, that the matter has been overlooked to my great prejudice &amp; injury</p>
-<p>You have known me personally for twenty years, &amp; I feel confidant I am in your opinion, entitled to some sort of Credence when I positively &amp; solemnly assert that I have been guilty of no act or word disloyal to the Government under which I was born -- on the Contrary, since the rebellion began I have to the best of my ability &amp; opportunities sustained the cause of the Union &amp; abhored &amp; repudiated secession &amp; the rebellion My earnest wishes &amp; hopes are for the speedy crushing of the rebellion &amp; the restoration of the<pb/>
+<lb/>which I could have my case investigated, &amp; with the evidence of my neighbors &amp; acquaintances, who best know my acts &amp; sentiments, purge myself of the false &amp; scandalous charge against, me, irregular as it is &amp; unsustained by any shadow of evidence. I have been told that the power to investigate the cases of political prisoners held here, has been retained by the War Department &amp; to that distant point, I have forwarded my petition under oath, asserting my entire <hi rend="str">entire</hi> loyalty corroborated by the affidavits of others, praying a speedy invetigation; but I suppose from the delay attending the receipt of an answer, that the Department is so overwhelmed with business, that the matter has been overlooked, to my great prejudice &amp; injury</p>
+<p>You have known me personally for twenty years, &amp; I feel confidant I am in your opinion, entitled to some sort of credence when I positively &amp; solemnly assert that I have been guilty of no act or word disloyal to the Government under which I was born- on the contrary, since the rebellion began I have to the best of my ability &amp; opportunities sustained the cause of the Union &amp; abhored &amp; repudiated secession &amp; the rebellion My earnest wishes &amp; hopes are for the speedy crushing of the rebellion &amp; the restoration of the<pb/>
 <lb/>Union as it was. This I am able to make good by undoubted evidence</p>
-<p>My arrest &amp; imprisonment which can be no other than the result of private malice, has wrought great injury &amp; loss to me, &amp; each day I am imprisoned increases it. I think I am entitled to the protection of the Government, against an outrageous &amp; unwarranted persecution &amp; I know now of no better way to obtain it than through the consituted authorities of my state whose loyalty &amp; patriotism are now undoubted.</p>
-<p>I ask your intervention, either by application to the War Department or in such manner as will best suggest itself to your Excellency to secure me a hearing. I would willingly suffer if I could conceive of a single wilful act or thought of disloyalty on my part. I will refer to Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Finnell</p>
+<p>My arrest &amp; imprisonment, which can be no other than the result of private Malice, has wrought great injury &amp; loss to me, &amp; each day I am imprisoned increases it. I think I am entitled to the protection of the Government against an outrageous &amp; unwarranted persecution &amp; I know now, of no better way to obtain it than through the consituted authorities of my state whose loyalty &amp; patriotism are now undoubted.</p>
+<p>I ask your intervention, either by application to the War Department, or in such manner as will best suggest itself to your Excellency, to secure me a hearing. I would willingly suffer if I could conceive of a single wilful act or thought of disloyalty on my part. I will refer to Adj<hi rend="sup">t</hi> Genl. Finnell</p>
 <p>Very Respectfully
-<lb/>Your obt serv<hi rend="sup">t</hi>.
+<lb/>Your obt servt.
 <lb/>James R. Hallam</p>
-<p>May I beg if your leisure permits, an acknowledgement of the reception of this letter, &amp; what steps if any, you propose to take?</p>
+<p>May I beg if your leisure permits an acknowledgement of the reception of this letter, &amp; what steps if any, you propose to take?</p>
 <p>J. R. H.<pb/></p>
 <p>J R. Hallam
 <lb/>Columbus</p>

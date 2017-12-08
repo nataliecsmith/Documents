@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0188"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <date>n.d.</date>
+    <date when="1863-10-06">6 October 1863</date>
    </creation>
    <textClass>
     <keywords>
@@ -60,12 +63,12 @@
  <text>
   <body>
    <p>Samuel Duncan
-<lb/>Sheriff Lyon County</p>
-<p>Revenue <date when="1860">1860</date>
-<lb/><table rend="rules">
+<lb/>Sheriff Lyon County
+<lb/>Revenue <date when="1860">1860</date></p>
+<p><table rend="rules">
 <row>
 	<cell>Amount of Judgment for Principal</cell>
-	<cell>$1215.16</cell>
+	<cell>&#36;1.215.16</cell>
 </row>
 <row>
 	<cell>" " " " Damages</cell>
@@ -75,20 +78,20 @@
 	<cell>" " " " Cost</cell>
 	<cell>7.55</cell>
 </row>
-</table>
-<lb/>Paid in full except Damages
-<lb/><date when="1863-10-06">Oct 6 1863</date></p>
+</table></p>
+<p>Paid in full except Damages
+<lb/><date when="1863-10-06">Oct 6<hi rend="sup">th</hi> 1863</date></p>
 <p>Attest Grant Green
-<lb/>Aud<hi rend="sup">r</hi></p>
+<lb/><hi rend="underline">Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi></p>
 <p>Remit damages
 <lb/>Tho E Bramlette<pb/></p>
 <p>Franklin Circuit
 <lb/>vs
 <lb/>S. Duncan Shff
 <lb/>Lyon Co <date when="1860">1860</date>
-<lb/>$243 -- Damages
+<lb/>&#36;243 -- Damages
 <lb/>Remitted
-<lb/><date when="1863-10-08">8<hi rend="sup">th</hi> Oct/ 63</date></p>
+<lb/><date when="1863-10-08">8<hi rend="sup">th</hi> Oct/63</date></p>
   </body>
  </text>
 </TEI>

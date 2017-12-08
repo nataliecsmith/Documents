@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0009"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,11 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Petersburgh Boone Co Ky. <date when="1861-02-05">Feb 5/61</date>
-<lb/>Hon. Beriah M<hi rend="underline"><hi rend="sup">c</hi></hi>Goffin
-<lb/>Governor of Kentucky
+   <p>Petersburgh Boone Co Ky, <date when="1861-02-05">Feb 5/61</date>
+<lb/>Hon, Beriah M<hi rend="underline"><hi rend="sup">c</hi></hi>Goffin
+<lb/>Govenor of Kentucky.
 <lb/>Dear Sir</p>
-<p>I have just rcd. a letter from an old companion in arms, one who fought side by side with me on the Caledonia in the battle of lake Erie James Arters of Maysville. who informs me that the Legislature of this state last winter ^voted^ that a gold medal should be prepared by the Governor &amp; presented to each of the survivors of the battle in Lake Erie on the <date when="1813-09-10">10<hi rend="sup">th</hi> of Sept 1813</date>. Please inform me if the above information is correct &amp; what step will be necessary for me to take to obtain the medal. Yours with Respect</p>
+<p>I have just rcd. a letter from an old companion in arms, one who fought side by side with me on the Caledonia in the battle of Lake Erie James Artus of Maysville. who informs me that the Legislature of this state last winter ^voted^ that a gold medal should be prepared by the Govenor &amp; presented to each of the survivors of the battle in Lake Erie on the <date when="1813-09-10">10<hi rend="sup">th</hi> of Sept 1813</date>. Please inform me if the above information is correct &amp; what step will be necessary for me to take to obtain the medal, Your with Respect</p>
 <p>John Norris<pb/></p>
 <p>Lake Erie
 <lb/>Volunteer

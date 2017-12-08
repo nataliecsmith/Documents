@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0065"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,10 +66,10 @@
    <p>STATE OF KENTUCKY.
 <lb/>MAYOR'S OFFICE,
 <lb/>City of Covington.</p>
-<p>Isaac Sutton having produced to me the proper voucher that he has paid into the City Treasury the sum of $125 and <gap/> cents, is hereby licensed to keep a Coffee House in his home on 5<hi rend="sup">th</hi> street between Scott and Madison streets in the city of Covington for and until the <date when="1864-05-01">1<hi rend="sup">st</hi> day of May 1864</date></p>
+<p>Isaac Sutton having produced to me the proper voucher that he has paid into the City Treasury the sum of &#36;125 and <gap/> cents, is hereby licensed to Keep a Coffee House in his house on 5<hi rend="sup">th</hi> street between Scott and Madison streets in the city of Covington for and until the <date when="1864-05-01">1<hi rend="sup">st</hi> day of May 1864</date></p>
 <p>In Witness Whereof, I have hereunto set my hand and official seal, this <date when="1863-05-04">4<hi rend="sup">th</hi> day of May 1863</date></p>
 <p>C A Preston Mayor.<pb/></p>
-<p>Certificate of City Licence
+<p>Certificates of City Licence
 <lb/>Isaac Sutton</p>
   </body>
  </text>

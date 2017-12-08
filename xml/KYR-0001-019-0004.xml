@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0004"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,18 +63,20 @@
  <text>
   <body>
    <p>Know all Men by these Presents:</p>
-<p>That we, B D Lacy principal, and <gap/> Securities, all the County of Bath, and the State of Kentucky, are jointly and severally bound unto the Commonwealth of Kentucky, in the just full sum of <gap/> Dollars, for the payment of which, well and truly to be made, to the said Commonwealth, we bind ourselves, our heirs, executors, and administrators, by these presents, for value received.</p>
-<p>The condition of the above obligation is such, that whereas the above bound B D Lacy principal, now a Captain of <gap/> attached to the <gap/> Regiment, <gap/> Brigade, of Kentucky Militia, has received from the Quarter-Master General of Kentucky, in good order, the following described Arms, Accoutrements, &amp;c., &amp;c., viz:<gap/></p>
-<p>Now if the said B D Lacy shall truly, faithfully, and safely keep the aforesaid Arms and Accoutrements "at all times, (muster days excepted,) in a secure room or Arsenal prepared for that purpose, and in good order" and whenever called on by the Quarter=Master General shall, without delay, deliver to him at Frankfort, all of the aforesaid Arms and Accoutrements in good order, then this obligtation to be void, else to remain in full force and virtue. It is expressly declared, that the above named Arms, &amp;c., are the property of the said Commonwealth, and are loaned to the said B D Lacy and his Securities, to be used only in the Militia service the said Commonwealth. We further covenant, that the aforesaid Arms, &amp;c., are not to be transferred to a successor in office, or other person, only as provided for under the 5th section of an act approved <date when="1841-02-10">February 10th, 1841</date>.</p>
+<p>That we, B D Lacy principal, and <gap/> Securities, all of the County of Bath, and State of Kentucky, are jointly and severally bound unto the Commonwealth of Kentucky, in the just and full sum of <gap/> Dollars, for the payment of which, well and truly to be made, to the said Commonwealth, we bind ourselves, our heirs, executors, and administrators, by these presents, for value received.</p>
+<p>The condition of the above obligation is such, that whereas the above bound B D Lacy principal, now a Captain of <gap/> attached to the <gap/> Regiment, <gap/> Brigade, of Kentucky Militia, has received from the Quarter=Master General of Kentucky, in good order, the following described Arms, Accoutrements, &amp;c., &amp;c., viz:<gap/>
+<lb/><note place="body">Approved
+<lb/>B. Magoffin</note></p>
+<p>Now if the said B D Lacy shall truly, faithfully, and safely keep the aforesaid Arms and Accoutrements "at all times, (muster days excepted,) in a secure room or Arsenal prepared for that purpose, and in good order," and whenever called on by the Quarter=Master General shall, without delay, deliver to him at Frankfort, all of the aforesaid Arms and Accoutrements in good order, then this obligtation to be void, else to remain in full force and virtue. It is expressly declared, that the above named Arms, &amp;c., are the property of the said Commonwealth, and are loaned to the said B D Lacy and his Securities, to be used only in the Militia service the said Commonwealth. We further covenant, that the aforesrid Arms, &amp;c., are not to be transferred to a successor in office, or other person, only as provided for under the 5th section of an act approved <date when="1841-02-10">February 10th, 1841</date>.</p>
 <p>Witness our hands and seals, at <gap/> this <gap/> day of <gap/>, 18<gap/>. </p>
 <p>Witnesses:
 <lb/><milestone unit="column" n="2"/><cb n="1"/>V B Young
-<lb/>J M <unclear/>
+<lb/>J <unclear/>
 <lb/><cb n="2"/>B D Lacy [SEAL.]
 <lb/>G W Conner [SEAL.]
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Conner [SEAL.]
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Conner. [SEAL.]
 <lb/>J A J Lee [SEAL.]
-<lb/>J A <unclear/></p>
+<lb/>J, A, <unclear>Turner Jr</unclear></p>
 <p><milestone unit="column" n="1"/>&amp;#9758;NOTE. -- The Principal and Securities must be approved by some individual well known to the Governor before his approval can be had, and witnessed by one or more persons.<pb/></p>
 <p>Capt. Lacys bond.</p>
   </body>

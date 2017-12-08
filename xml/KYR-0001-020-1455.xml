@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1455"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,15 +62,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his excelancy Beriah M<hi rend="underline"><hi rend="sup">c</hi></hi>Goffin goveror of the Commonwealth of Ky. Your Petitioner <hi rend="str">Elliot</hi> W. H. Newman, J. W. Muir, W<hi rend="sup">m</hi> Murphy, J. C. Wickliffe &amp; W<hi rend="sup">m</hi> Wilson would respectfully state to your excelany that at the last term of the Nelson Circuit Court towit at its <date when="1861-09">september Term 1861</date> judgment was rendered against your petitioners for the sum of One thousand dollars upon the forfeited recognizance of one Henry Smith for whom they entered bail in said Court -- They charge that said Smith had been indicted in said court for Killing a man by the name of Burns and after laying in gail for about 12 months he was tried and there was a hung jury and he being a stranger and your petitioners having witnessed the trial and believing that the Killing had been down in self-defence and with a pen knife after Burns had first discharged a pistol at Smith, they were induced out of compassion for the accused to enter as his bail not doubting but he would appear in discharge of the said recognizance. They state that at the first term of the court after they entered as his bail as afsd the said Smith did promptly appear<pb/> 
-<lb/>and the cause was continued and they believe he would have appeared at the succeeding term at which the bond was forfeited had he not gone to another state &amp; there married. Your petitioners would state further that they are all young men with families to support and of but limited means and that if they have said judgment to pay owing to the scarcity of money and the present embarassed condition of the finances of the country they will have to make, and there will be sacrifices of their property, which they are wholy unable to stand -- The premises considered your petitioners thrown them-selves upon the clemency of your excelancy and pray to be discharged and released from the payment of said judgment and they in duty bound will ever pra &amp;c -- They state that this is a case that was before your excelancy upon a forman petition and upon which you granted your petitioners a respite for 12 months -- </p>
-<p><milestone unit="column" n="2"/><cb n="1"/>J. C. Wickliffe
+   <p>To his excalancy Buriah M<hi rend="underline"><hi rend="sup">c</hi></hi>Goffin govenor of the Commonwealth of Ky. Your Petitioner <hi rend="str">Elliot</hi>, W. H. Newman, J. W. Muir, W<hi rend="sup">m</hi> Murphy, J. C. Wickliffe &amp; W<hi rend="sup">m</hi> Wilson would respectfully state to your excalancy that at the last term of the Nelson Circuit Court towit at its <date when="1861-09">september term 1861</date> judgment was rendered against your petitioners for the sum of One thousand dollars upon the forfeited recognizance of one Henry Smith for whom they entered bail in said Court -- They charge that said Smith had been indicted in said court for killing a man by the name of Burns and after laying in gail for about 12 months he was tried and there was a hung jury and he being a stranger and your petitioners having witnessed the trial and believing that the killing had been done in self-defence and with a pen Knife after Burns had first discharged a pistol at Smith, they were induced out of compassion for the accused to enter as his bail <hi rend="str"><unclear/></hi>not doubting but <hi rend="str"><unclear/></hi>he would appear in discharge of the said recognizance. They state that at the first term of the court after they entered as his ba<hi rend="str">i</hi>il as afsd the said Smith did promptly appear<pb/> 
+<lb/>and the cause was continued and they believe he would have appeared at the succeeding term at which the bond was forfeited had he not gone to another state &amp; there married. Your petitioners would state further that they are all young men with families to support and of but limited means and that if they have said judgment to pay owing to the scarcity of money and the present embarassed condition of the finances of the county they will have to make, and there will be sacrifices of their property, which they are wholy unable to stand -- The premises considered you petitioners thrown them-selves upon the clemency of your excelancy and pray to be discharged and released from the payment of said judgment and they in duty bound will ever pray &amp;c -- They state that this is a case that was <hi rend="str"><unclear/></hi>before your excelancy upon a former petition and upon which you granted your petitioners a respite for 12 months -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J, C, Wickliffe
 <lb/>J. W. Muir
 <lb/>W H Newman
 <lb/><cb n="2"/>W<hi rend="sup">m</hi> Wilson
 <lb/>W<hi rend="sup">m</hi> Murphy
 <lb/><hi rend="str">A K Cox</hi><milestone unit="column" n="1"/><pb/> </p>
-<p>We the undersigned unite in the prayer of the foregoing Petition for a release of the petitioners from the Judgement refered to</p>
+<p>We the undersigned unite in the prayer of the foregoing Petition for a releasal of the petitioners from the Judgement refered to</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>S Humphrey
 <lb/>J. L. W. Ellis
 <lb/>A K Cox.
@@ -75,49 +78,49 @@
 <lb/><hi rend="underline">Wm H Slaughter</hi>
 <lb/><hi rend="underline">D. S. Slaughter</hi>
 <lb/>W. N. Beckham
-<lb/>W. K. Grigsby
-<lb/>T. P. Linthicum
+<lb/>W, K, Grigsby
+<lb/>T, P, Linthicum
 <lb/>Ben Ellis
-<lb/>Lew Troutman
+<lb/>Len Troutman
 <lb/><hi rend="underline">Peter</hi> <hi rend="underline">Abell</hi>
 <lb/>W. C. Price
-<lb/>W<hi rend="sup">m</hi> Sisco
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Sisco
 <lb/>J. A. Y. Humphry
-<lb/>Jo. Brown
-<lb/>N. <unclear/>. Beauchamp
-<lb/>Jams Caruther
+<lb/>Ja. Brown
+<lb/><unclear/>. <unclear/>. Beauchamp
+<lb/>Sam Caruther
 <lb/>W F M<hi rend="sup">c</hi>Gill
-<lb/>R. A. Lavely
+<lb/>R, A, Lavely
 <lb/>T. W. Samuels
 <lb/>Monroe Mattingly
 <lb/>Lewis Ritchie
 <lb/>J S Wilson
-<lb/>N M Spielding
+<lb/>N M Spalding
 <lb/>Joe Queen
-<lb/>L. Dragoo
+<lb/>L, Dragoo
 <lb/>Jas. S. Smith Jr
-<lb/>Thos. Newman
+<lb/>Tho<hi rend="sup">s</hi>, Newman
 <lb/>Moses Black
-<lb/>Thos. <unclear/>
-<lb/><cb n="2"/>Charles W Blandford
+<lb/>Thos. <unclear>Lowal</unclear>
+<lb/><cb n="2"/>Charles W. Blandford
 <lb/>J C Applegate
 <lb/>J. C Mattingly 
 <lb/>John Atkinson
-<lb/>John F Hickman
-<lb/>W. A. Hickman
+<lb/>John F. Hickman
+<lb/><hi rend="str"><unclear/></hi>W. A Hickman
 <lb/>William Johnson
-<lb/>S. M. Murphy
+<lb/><hi rend="underline">S, M. Murphy</hi>
 <lb/>W Quinn
-<lb/>Z F Hayden
+<lb/>Q F Hayden
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Ambrose
 <lb/>J F Queen
-<lb/><unclear/> <unclear/><milestone unit="column" n="1"/><pb/></p>
-<p>Nelson Cir. Ct
-<lb/>Remitted
-<lb/>B. M. 
-<lb/>$1000 } Recog
+<lb/>J H <unclear/><milestone unit="column" n="1"/><pb/></p>
+<p>Nelson Cir. Ct</p>
+<p>Remitted
+<lb/>B. M.</p>
+<p>&#36;1000 &#125; Recog
 <lb/>J. C. Wickliffe &amp; others
-<lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-10">Oct 10. 1861</date></p>
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-10-10">Oct 10. 1861</date></p>
   </body>
  </text>
 </TEI>

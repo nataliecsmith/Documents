@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0076"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,19 +63,19 @@
  </teiHeader>
  <text>
   <body>
-   <p><hi rend="underline">Col. Wickliffe to Adjutant General Brown</hi>.
-<lb/>Ballard County <date when="1861-06-06">June 6<hi rend="sup">th</hi> 1861</date>
+   <p><hi rend="underline">Col. Wickliffe to Adjutant General Brown.
+<lb/></hi>Ballard County <date when="1861-06-06">June 6<hi rend="sup">th</hi> 1861</date>
 <lb/>Sir</p>
-<p>I have the honor to report for the information of the Governor, that on yesterday I learned that a small party of men, citizens of Columbus, Ky. twelve in number, <hi rend="str"><unclear/>,</hi> were encamped at a point called the Bluff of Mayfield Creek, in this county, some nine miles from Cairo. My information was, that they were armed with rifles and were part of an independent company formed at Columbus. As they were encamped in my county, I went this morning, for prudential reasons, to their camping ground, to prevail upon them to disperse and return to their homes. Upon my arrival at the place I was informed that the party had left for Columbus late yesterday afternoon, and that during the night, the ground was visited by a detachment of United States Troops from Cairo, which had been landed in the bend of the River, below Island N<hi rend="sup">o</hi> one, and from there marched some two miles to the place above mentioned. I returned to my residence, and immediately went to Cairo to see Brig. General Prentiss and ask an explantion for this interference with our rights and jurisdiction, as it was in my power. I thought to cause those men to disperse if their motives or purposes were illegal. General Prentiss stated that on yesterday he received a petition, which he read to me, purporting to be signed by some fifteen or twenty citizens of Ballard County, residing near the Mississippi River, asking protection from him against apprehended<pb/>
-<lb/>violence by that party of men from Columbus: and that he had in accordance with the petition, sent last night to the place where those men were encamped, a company of soldiers from his command to capture the men and their horses and take them to Cairo; but that the men having left the ground his command returned this morning to Cairo. He said he had been applied to by "Union Men" at Paducah for protection and that he thought <hi rend="str">seriously</hi>of sending there a force from his command for that purpose I told General Prentiss that the civil Law was supreme in my state and that the men in my county who had applied to him for protection by military force, had not been harmed and would be protected from apprehended danger by the constituted authorities of the county if they would ask for it. I denied in appropriate language, his right to send a force into Kentucky for any such purpose, urging that the constituted authorities of the State and Counties could and would under the Law extend ample protection to every person, if any be needed and asked for. <hi rend="underline">He said however that he would send a Force into Kentucky whenever he thought proper to do so, regardless of the Governor's proclimation.</hi> Deeming it my duty to report the foregoing facts. I <hi rend="str">have the honor to be</hi></p>
-<p>Very Respectfully
+<p>I have the honor to report for the information of the Governor, that on yesterday I learned that a small party of men, citizens of Columbus, Ky. twelve in number, <hi rend="str"><unclear/></hi>, were encamped at a point called the Bluff of Mayfield creek, in this county, some nine miles from Cairo. My information was, that they were armed with rifles and were part of an independent company formed at Columbus. As they were encamped in my county, I went this morning, for prudential reasons, to their camping ground, to prevail upon them to disperse and return to their homes. Upon my arrival at the place I was informed that the party had left for Columbus late yesterday afternoon, and that during the night, the ground was visited by a detachment of United states Troops from Cairo, which had been landed in the bend of the River, below Island N<hi rend="sup">o</hi> one, and from there marched some two miles to the place above mentioned -- I returned to my residence, and immediately went to Cairo to see Brig. General Prentiss and ask an explantion for this interference with our rights and jurisdiction, as it was in my power. I thought to cause those men to disperse if their motives or purposes were illegal. General Prentiss stated that on yesterday he received a petition, which he read to me, purporting to be signed by some fifteen or twenty citizens of Ballard County, residing near the Mississippi river, asking protection from him against apprehended<pb/>
+<lb/>violence by that party of men from Columbus: and that he had in accordance with the petition, sent last night to the place where those men were encamped, a company of soldiers from his command to capture the men and their horses and take them to Cairo; but that the men having left the ground his command returned this morning to Cairo. He said he had been applied to by "Union Men" at Paducah for protection and that he thought <hi rend="str">seriously</hi>of sending there a force from his command for that purpose. I told General Prentiss that the civil Law was supreme in my state and that the men in my county who had applied to him for protection by military force, had not been harmed and would be protected from apprehended danger by the constituted authorities of the county if they would ask for it. I denied in appropriate language, his right to send a force into Kentucky for any such purpose, urging that the constituted authorities of the State and Counties could and would under the Law extend ample protection to every person, if any be needed and asked for. <hi rend="underline">He said however that he would send a Force into Kentucky whenever he thought proper to do so, regardless of the Governor</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> proclimation.</hi> Deeming it my duty to report the foregoing facts, I <hi rend="str">have the honor to be</hi></p>
+<p>very Respectfully
 <lb/>Y<hi rend="sup">r</hi> obt. servt
 <lb/>C. Wickliffe
 <lb/>Col. Bal. County Militia</p>
 <p>Genl. Scott Brown
 <lb/>Adjutant Genl. Ky. M.<pb/></p>
-<p>2
-<lb/>Co<hi rend="sup">l</hi> Wickliffe report</p>
+<p>2</p>
+<p>Co<hi rend="sup">l</hi> Wickliffe-- report</p>
   </body>
  </text>
 </TEI>

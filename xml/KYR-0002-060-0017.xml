@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0017"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,31 +63,31 @@
  </teiHeader>
  <text>
   <body>
-   <p>Head Quarters 1<hi rend="underline"><hi rend="sup">st</hi></hi> Regm. 3<hi rend="underline"><hi rend="sup">rd</hi></hi> Battalion of the Kentucky State Guard
+   <p>Head Quarters 1<hi rend="underline"><hi rend="sup">th</hi></hi> Regm. 3<hi rend="underline"><hi rend="sup">rd</hi></hi> Battalion of the Kentucky State Guard
 <lb/>Paducah Ky. <date when="1864-07-30">July 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.
 <lb/>His Excellency Thos. H. Bramlett
 <lb/>Governor of Kentucky
-<lb/>Frankfort Ky.
+<lb/>Frankfort ky.
 <lb/>Excellency!</p>
-<p>I take the liberty, though uncalled for from your part, to let you know, that I have succeeded so far very well in the start of raising a battalion for the Kentucky State Guard. -- The first company, organized <date when="1864-06-21">June 21<hi rend="underline"><hi rend="sup">st</hi></hi></date> numbers at this time nearly 90 members; besides which are five other companies recruiting rapidly. I have no hesitation in saying, that according to the present prospects, I will be able to organize a battalion in about 15 days. -- But there is one point in the transaction of the State Officers, with whom I had some intercourse in relation to the raising of this battalion, which is rather discouraging to me.</p>
-<p>I recieved one hundred stands of arms (Austrian rifles) and encoutrements, according to a requisition of Capt. T. J. Gregory of the<pb/>
-<lb/>Graves County Guard, to be forwarded to that gentlemen at Paducah Ky.</p>
-<p>At the time I passed through Louisville, apprehension was intertained, that guerilla's or some part of the rebel army might make an attack on Louisville or the adjacent country; so that I took a boat a the first opportunity to ascertain, if there was any danger or not; expecting the arms following me. No danger encountered or apprehended afterwards, I arrived at Paducah Ky, but no arms did follow me; I am here now four weeks, but the arms have not arrived jet. -- I telegraphed to the Q<hi rend="underline"><hi rend="sup">r</hi></hi> M. General Ky on <date when="1864-07-17">July 17<hi rend="underline"><hi rend="sup">th</hi></hi></date> to ascertain, what had become of the arms, and recieved on <date when="1864-07-23">July 23<hi rend="underline"><hi rend="sup">th</hi></hi></date> an answer to that effect, that the arms were at Louisville and could be received there, provided Capt. T. J. Gregory would come there and give receipt for same. -- This receipt I think, could not be asked for at Louisville, but at Paducah Ky the place of destination and direction.</p>
+<p>I take the liberty, though uncalled for from your part, to let you know, that I have succeeded so far very well in the start of raising a battalion for the Kentucky State Guard, -- The first company, organized <date when="1864-06-21">June 21<hi rend="underline"><hi rend="sup">st</hi></hi></date> numbers at this time nearly 90 members; besides which are five other companies recruiting rapidly. I have no hesitation in saying, that according to the present prospects, I will be able to organize a battalion in about 15 days. -- But there is one point in the transaction of the State Officers, with whom I had some intercourse in relation to the raising of this battalion, which is rather discouraging to me.</p>
+<p>I recieved one hundred stands of arms (Austrian rifles) and encoutrements, according to a requisition of Capt. T. T. Gregory of the<pb/>
+<lb/>Graves County Guard, to be forwarded to that gentlemen at Paducah ky.</p>
+<p>At the time I passed through Louisville, apprehension was intertained, that guerilla's or some part of the rebel army might make an attack on Louisville or the adjacent country; so that I took a boat a the first opportunity to ascertain, if there was any danger or not; expecting the arms following me. No danger encountered or apprehended afterwards, I arrived at Paducah Ky, but no arms did follow me; I am here now four weeks, but the arms have not arrived jet. -- I thelegraphed to the Q. M. General Ky on <date when="1864-07-17">July 17<hi rend="underline"><hi rend="sup">th</hi></hi></date> to ascertain, what had become of the arms, and recieved on <date when="1864-07-23">July 23<hi rend="underline"><hi rend="sup">rd</hi></hi></date> an answer to that effect, that the arms were at Louisville and could be received there, provided Capt. T. T. Gregory would come there and give receipt for same. -- This receipt I think, could not be asked for at Louisville, but at Paducah Ky the place of destination and direction.</p>
 <p>The transaction of the officers of the State Government has been so far very disheartening to me, as I can get every day, yes! every hour recruits for the State Guard; but what shall I do with the men, without arms? With spurs and hickory sticks, we can not fight the guerillas, armed with Guns, rifles and revolvers.</p>
 <p>I received clothing by assistance of General Paine of the Post<pb/>
 <lb/>Quarter Master at this place, after having written to the Adjt. General of Kentucky twice, without receiving one word in reply.</p>
 <p>I hope to see you in a short time, and expect that all those difficulties, which are surrounding me, will be cleared away. If the State would furnish me the Ballard Carabine for the arming of the Battalion; the Federal Government will furnish us with the metallic cartridges for same, calibre 56,</p>
 <p>Your Excellency
 <lb/>I remain
-<lb/>your obedient servant.
+<lb/>your obedient servant,
 <lb/>M. A. Payne</p>
-<p>Insp. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> office<pb/></p>
+<p>Insp Gen<hi rend="underline"><hi rend="sup">l</hi></hi> office<pb/></p>
 <p>Ky State Guard.
-<lb/>Paducah. McCracken Co. Ky.
-<lb/><date when="1864-07-30">July 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.<figure type="hr"/>
+<lb/>Paducah. M<hi rend="sup">c</hi>Cracken Co. Ky.
+<lb/><date when="1864-07-30">July 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
 <lb/>Payne M. A.<figure type="hr"/></p>
-<p>Says that the 1<hi rend="underline"><hi rend="sup">st</hi></hi> Co of his Bat. of State Guards was organized <date when="1864-06-21">June 21<hi rend="underline"><hi rend="sup">st</hi></hi></date>, and numbers about 90 men -- has five other comps recruiting rapidly. thinks his Bat. can be organized in about 15 days. Complains of not receiving his arms. If the state wll furnish him the Ballard Carabine, the Fed<hi rend="underline"><hi rend="sup">l</hi></hi> Gov. will furnish the cartridges for same. His Austrian Rifles which he drew from the State are detained at Louisville. They will not be shipped without Capt. Gregory give his Regt there for them. Is that right when Paducah is the place to which They were directed to be forwarded<figure type="hr"/></p>
-<p>Answered <date when="1864-08-05">Aug. 5 -- 1864</date> on L. Book. B. Page 11<figure type="hr"/>
+<p>Says that the 1<hi rend="underline"><hi rend="sup">st</hi></hi> Co of his Bat. of State Guards was organized <date when="1864-06-21">June 21<hi rend="underline"><hi rend="sup">st</hi></hi></date>, and numbers about 90 men- has five other comps recruiting rapidly. thinks his Bat. can be organized in about 15 days. Complains of not receiving his arms. If the state will furnish him the Ballard Carabine, the Fed<hi rend="underline"><hi rend="sup">l</hi></hi> Gov. will furnish the cartridges for same. His Austrian Rifles which he drew from the State are detained at Louisville. They will not be shipped without Capt. Gregory give his Recpt there for them. Is that right when Paducah is the place to which they were directed to be forwarded<figure type="hr"/></p>
+<p>Answered <date when="1864-08-05">Aug. 5- 1864</date> on L. Book. B. Page 11<figure type="hr"/>
 <lb/>Rec. I. G. O. <date when="1864-08-01">Aug. 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1864</date></p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0079"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,15 +65,15 @@
   <body>
    <p>Russellville Ky -- 
 <lb/><date when="1861-02-16">Feby 16/61</date>
-<lb/>Dear Sir</p>
-<p>a young friend of mine and a relative too, is willing to accept the position of aid to your Excellency as col is not inconsistent with your ideas of propriety. He is of good habits &amp; character &amp; withal handsome &amp; well raised &amp; a nephew of Alex<hi rend="sup">dr</hi>. churchill, about 21 years of age last summer or autumn His name is Henry <unclear>upshaw</unclear> M<hi rend="sup">c</hi>Kinney -- &amp; resides in this (Logan) county. send his appt-ment to me if made.</p>
-<p>Yours truly.
-<lb/><hi rend="underline">Geo. T. Edwards</hi></p>
-<p>Gov. mcGoffin<pb/></p>
+<lb/>Dear Sir,</p>
+<p>A young friend of mine and a relative too, is willing to accept the position of aid to your Excellency as co<hi rend="underline"><hi rend="sup">l</hi></hi> is not inconsistent with your ideas of propriety. He is of good habits &amp; character &amp; withal handsome &amp; well raised, &amp; a nephew of Alex<hi rend="underline"><hi rend="sup">dr</hi></hi> Churchill, about 21 years of age last summer o<hi rend="str">f</hi>r autumn His name is Henry <unclear>upshaw</unclear> M<hi rend="sup">c</hi>Kinney- &amp; resides in this (Logan) County. send his appt-mnt to me if made,</p>
+<p>Yours truly,
+<lb/><hi rend="underline">Geo, T. Edwards,</hi></p>
+<p>Gov= McGoffin<pb/></p>
 <p>Aid<figure type="hr"/>
-<lb/>H U. M<hi rend="sup">c</hi>Kinley
-<lb/>Ap<hi rend="sup">d</hi> <date when="1861-02-20">Feby 20. 1861</date></p>
-<p>Issue Commission
+<lb/>H. U. M<hi rend="sup">c</hi>Kinley
+<lb/>Ap<hi rend="sup">d</hi> <date when="1861-02-20">Feby 20, 1861</date></p>
+<p>Issue commission
 <lb/>B. M</p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0022"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Jesse Nasta</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,43 +63,47 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P001019">Franklin County</placeName><lb/><date when="1863-09-14">Sept<hi rend="sup">r</hi> 14" 1863</date>
+   <p>Franklin County
+<lb/><date when="1863-09-14">Septr. 14<hi rend="sup">th</hi> 1863</date>.
 <lb/>To
-<lb/><persName ref="cwgk:N001000">Governor Bramlette</persName></p>
-<p>Your petition <persName ref="cwgk:N00004783">Warren Parker</persName> who resides in Franklin County on Cedar Creek twelve miles from <placeName ref="cwgk:P00000308">Frankfort</placeName>, states that during the canvass of <date when="1861">1861</date>, he was induced to have a burgoo -- at which the offence hereinafter named was charged to have been committed. At the last term of the <orgName ref="cwgk:O00000376">Franklin Circuit Court</orgName> he was fined in the sum of sixty dollars for the offence of selling spirits at the burgoo. The only witness against him was <persName ref="cwgk:N00004785">Spencer Davidson</persName> with whom your petitioner was on ill terms, who stated that he had bought spirits from your petitioner; so far from this being so, he has never sold any ardent spirits of any kind to Davidson.</p>
+<lb/>Govenor Bramlette,</p>
+<p>Your petition Warren Parker who resides in Franklin County on Cedar Creek twelve miles from Frankfort, states that during the canvass of <date when="1861">1861</date>, he was induced to have a burgoo -- at which the offence hereinafter named was charged to have been committed. At the last term of the Franklin Circuit Court he was fined in the sum of sixty dollars for the offence of selling spirits at the burgoo. The only witness against him was Spencer Davidson with whom your petitioner was on ill terms, who stated that he had bought spirits from your petitioner; so far from this being so, he has never sold any ardent spirits of any kind to Davidson.</p>
 <p>There being no evidence against your petitioner until the last term of the Court, he supposed the prosecution was abandoned, and was not present, nor had he consulted with his lawyer on the subject.</p>
-<p>Your petitioner considers that he is a good citizen and a law abiding man.<pb/></p>
-<p>He hopes his <hi rend="str">peition</hi> fine will be remitted. Your petitioner is a man of humble means, which do not amount to over $200 -- all told.</p>
-<p>Warren ^his x mark^ Parker
-<lb/>witness</p>
-<p>Sworn to and subscribed before me this <date when="1863-09-14">14th day of September</date> by the above named Warren Parker.</p>
-<p><persName ref="cwgk:N00001647">John R Graham</persName> <orgName ref="cwgk:O00000620">C. J. C. S.</orgName></p>
+<p>Your petitioner considers that he is a good citizen and a law abiding man.<pb/>
+<lb/>He hopes his <hi rend="str">petition</hi> fine will be remitted. Your petitioner is a man of humble means, which do not amount to over &#36;300 -- all told.</p>
+<p>Warren ^his X mark^ Parker</p>
+<p>witness</p>
+<p>Sworn to and subscribed before me this <date when="1863-09-14">14<hi rend="sup">th</hi> day of September</date> by the above named Warren Parker -- </p>
+<p>John R Graham P. J. C. f.</p>
 <p>Franklin Co
-<lb/>Pet of Warren Parker for Remission of $60. fine in Franklin Circuit
-<lb/>No sufficient reason is presented for Executive interposition</p>
-<p><date when="1863-09-23">Sept<hi rend="sup">r</hi> 23<hi rend="sup">rd</hi> 1863</date>
-<lb/>Thos E Bramlette<pb/></p>
+<lb/>Pet of Warren Parker for Remission of &#36;60. fine in Franklin Circuit No sufficient reason is presented for executive interposition
+<lb/><date when="1863-09-23">Septr 23<hi rend="sup">rd</hi> 1863</date></p>
+<p>Tho E Bramlette<pb/></p>
 <p>The undersigned citizens of Frankfort and Franklin County, unite in the above petition of Warren Parker for a remission of his fine -- </p>
-<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00004786">G. W. Hall
-</persName><lb/><persName ref="cwgk:N00004787">Charles H Moss</persName><lb/><persName ref="cwgk:N00002930">H. B. Innes</persName><lb/><persName ref="cwgk:N00004788">Isaac Paul
-</persName><lb/>Sam<hi rend="sup">l</hi>. Hardy
-<lb/><persName ref="cwgk:N00004790">Robt. T. Penn
-</persName><lb/><persName ref="cwgk:N00001618">WH Gray
-</persName><lb/><persName ref="cwgk:N00002932">HR Miller
-</persName><lb/><persName ref="cwgk:N00004791">W. F. Parrent
-</persName><lb/><persName ref="cwgk:N00004792">J P Long
-</persName><lb/><persName ref="cwgk:N00004793">P. Joyce
-</persName><lb/><persName ref="cwgk:N00004795">W.B. Holeman
-</persName><lb/><persName ref="cwgk:N00004796">J. T. Graham</persName><lb/><persName ref="cwgk:N00004797">J A Long
-</persName><lb/><persName ref="cwgk:N00004798">M R Plien
-</persName><lb/><persName ref="cwgk:N00004799">E D Hensly</persName><lb/><persName ref="cwgk:N00004800">Whiffield West
-</persName><lb/><cb n="2"/></p>
-<p>I respectfully ask the Govr to grant the within petition</p>
-<p><persName ref="cwgk:N00001150">Jno. A. Crittenden
-</persName><lb/><persName ref="cwgk:N00001633">A H Rennull
-</persName><lb/><persName ref="cwgk:N00004812">C Warren
-</persName><lb/><persName ref="cwgk:N00004813">W. W. Graham
-</persName><lb/><persName ref="cwgk:N00004814">H I Morris</persName></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>G. W. Hall
+<lb/>Charles. H Moss
+<lb/>H. B. Innes
+<lb/>Isaac Paul
+<lb/>Saml, Hardy
+<lb/>Rob<hi rend="underline"><hi rend="sup">t</hi></hi> T, Penn
+<lb/>W H Gray
+<lb/>H R Miller
+<lb/>W. F Parrent
+<lb/>J P Long
+<lb/><hi rend="underline">P. Joyce</hi>
+<lb/>W. B. Holeman
+<lb/>J. T. Graham
+<lb/>J A Long
+<lb/>M R P<unclear/>
+<lb/>E D Hensly
+<lb/>Whitfield West
+<lb/><cb n="2"/>
+<lb/>I respectfully ask the Gov<hi rend="sup">r.</hi> to grant the within petition</p>
+<p>Jno, A, Crittenden
+<lb/>A H Rennick
+<lb/>C Warren
+<lb/>W. W. Graham
+<lb/>H J Morris</p>
   </body>
  </text>
 </TEI>

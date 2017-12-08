@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1494"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Caldwell County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -60,38 +62,38 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency the governor of Kentucky Your Petitioners would respectfully represent unto your Excellency that at the <date when="1858-03">march Term</date> of the Caldwell Circuit Court holden for the year 1858 That the commonwealth of Kentucky recovered a Judgement against Daniel. B. Calvert for Three hundred dollars upon an indictment for an offray --. From which Judgement said D. B Calvert prayed an appeal to to the Court of Appeals. That on <hi rend="str">friday</hi> saturday the <date when="1858-03-17">17<hi rend="sup">th</hi> day of March 1858</date> during the sitting of said court said D B Calvert entered into an appeal Bond with John T Calvert and George Jenkins his securities, and that on monday thereafter said D. B Calvert was Shot and Killed, That his surities to said Appeal Bond carryed up said case to the court of Appeals That said case was docketed upon the docket of said court for the Fall Term of said ^court^ to be holden for the year <date when="1858">1858,</date> and at said Fall Term of said court the death of said D B Calvert was suggested and said case abated, That John T Calvert who had lawfully Administered on the Estate of D B Calvert sent a copy of his letters of Administration to the<pb/>
-<lb/>court of Appeals and asked that said suit be revived in his name and the same was by order of said court revived in the name of John T Calvert Admr of D B Calvert and That at the <date when="1860-01">January Term of said court holden for the year 1860</date> said case was dismissed by said court on the grounds that the record of said case had not been filed in the time prescribed by law, Your petitioners further state John T Calvert Adminstrator of D B Calvert departed this life in <date when="1860-05">May 1860</date>, and that W H Calvert has been appointed Administrator of of John T and D B Calvert -- That after the mandate of the Court of Appeals in said case had been filed in the office of the clerk of the Caldwell circuit court The attorney for the Commonwealth brought suit in said court on said Appeal Bond and is attempting to coerse. the collection of the same and of the Representative of John T Calvert and said George Jenkins securities to said appeal Bond, Your Petitioners state that in the month of <date when="--07">July</date> last W H Calvert Admin as aforesaid believing there was some mistake in the Judgements of the court of Appeals in said case went to the city of Frankfort to look into<pb/>
-<lb/>and Examine said case and that after a long and careful Examination and search in the office of the clerk of the court of appeals he could not find the record of said case, That the record of said case has been lost or mislayed so that it could not be found, and whither said record was lost or <hi rend="str">not</hi> mislayed before or after the Judgement of the Court of Appeals dismissed said case, your petitioners know not, But that said Record was filed in the office of the clerk of the court of Appeals within the time prescribed by law your petitionors have no doubt Your Petitioners further state that W H Calvert Admr as aforesaid filed in the office of the clerk of the court of appeals on the day of <gap/> <date when="1860">1860</date> a petition stating that the record of said case had been filed in the office of the clerk of the court of Appeals within the time prescribed by law and that the same had been lost of mislayed together with coppys of the orders of the court of Appeals in said case also togeather with a new record of said case and the affidavit of E P Walkins clerk of the Caldwell Circuit court as ports of said petition praying<pb/>
-<lb/>the court to set aside the order dismissing said Appeal and to try said case upon its merits which petition was over ruled by said court, which Petition and copys of the orders of the court, Record, and affidavit of E P Watkins are on file in the office of the clerk of the court of Appeals and which your petitioners pray your Excellency to inspect for full proof of the facts stated in this petition That by the last order of said court all hopes of a legal remedy is at an end Your Petitioners state that D B Calvert died hopelessly insolvant and that John T Calvert one of his surities died leaving a helpless family and with verry limited means if any after the payment of his debts -- and that George Jenkins the other surity in said Bond is a poor man and hard pressed with his individual indebtedness Your Petitoners state that they believe if said case had been tried by the court upon its merits it would have been reversed and they therefore pray your Excellency to inspect the record of said case now on file. That they further believe that by accident or through neglect of the clerk of the court of Appleals that said<pb/>
-<lb/>record was lost or mislayed and that the same was not in the office of the clerk or in court at the time said Court dismissed said appeal, and that the payment of said fine under all the circumstances would be a greivous hardship They state that said D B Calvert was Killed withing two days after the Execution of said Bond That his securities and representatives have persued all the requirements of the law in order to have this case adjudicated in the Court of Appeals upon its merits -- That they verily believe there is enough ^error^ in said record to warrant a reversal of the same, and in consideration of the premisses your petitioners pray your Excellency to remit said fine and in duty bound will ever pray</p>
+   <p>To His Excellency the governor of Kentucky Your Petitioners would respectfully represent unto your Excellency that at the <date when="1858-03">march Term</date> of the caldwell circuit court holden for the year 1858 That the commonwealth of Kentucky recovered a Judgement against Daniel. B-- Calvert for Three hundred dollars upon an indictment for an offray --, From which Judgement Said D. B Calvert prayed an appeal to to the court of Appeals. That on <hi rend="str">friday</hi> ^saturday^ the <date when="1858-03-17">17<hi rend="sup">th</hi> day of March 1858</date> during the sitting of said court said D B Calvert entered into an appeal Bond with John T Calvert and George Jenkins his securities, and That on monday thereafter said. D. B Calvert was Shot and killed, That his surities to said Appeal Bond carryed up said case to the court of Appeals That said case was docketed upon the docket of said court for the Fall Term of said ^court^ to be holden for the year <date when="1858">1858,</date> and at said Fall Term of said court the death of said D B Calvert was suggested and said case abated, That John T Calvert who had lawfully Administered on the Estate of D B Calvert sent a copy of his letters of Administration to the<pb/>
+<lb/>court of Appeals and asked that said suit be revived in his name and the same was by order of said court revived in the name of John T Calvert Admr of D B Calvert and That at the <date when="1860-01">January Term of said court holden for the year 1860</date> said case was dismissed by said court on the grounds that the record of said case had not been filed in the time prescribed by law, Your petitioners further state John T Calvert Adminstrator of D B Calvert departed this life in <date when="1860-05">May 1860</date>, and that W H Calvert has been appointed Administrator of of John T and D. B Calvert -- That after the mandate of the court of Appeals in said case had been filed in the office of the clerk of the Caldwell circuit court The attorney for the commonwealth brought suit in said court on said Appeal Bond and is attempting to coerse. the collection of the same and of the Representative of John T Calvert and said George Jenkins securities to said appeal Bond, Your petitioners state that in the month of <date when="--07">July</date> last W H Calvert Admr as oforesaid believing there was some mistake in the Judgement of the court of Appeals in said case went to the city of Frankfort to look into<pb/>
+<lb/>and Examine said case and that after a long and careful Examination and search in the office of the clerk of the court of appeals he could not find the record of said case, That the record of said case has been lost or mislayed so that it could not be found, and whither said record was lost or <hi rend="str">not</hi> mislayed before or after the Judgement of the Court of Appeals dismissing said case, your petitioners know not, But that said Record was filed in the office of the clerk of the court of Appeals within the time prescribed by law your petitionors have no doubt Your Petitioners further state that W H Calvert Admr as aforesaid filid in the office of the clerk of the court of appeals on the <gap/> day of <gap/> <date when="1860">1860</date> a petition stating that the record of said case had been filed in the office of the clerk of the court of Appeals within the time prescribed by law and that the same had been lost or mislayed together with coppys of the orders of the court of Appeals in said case also togeather with a new record of said case and the affidavit of E P Walkins clerk of the caldwell circuit court as parts of said petition, praying<pb/>
+<lb/>the court to set aside the order dismissing said Appeal and to try said case upon its merits which petition was overruled by said court, which Petition and copys of the orders of the court, Record, and affidavit of E P Watkins are on file in the office of the clerk of the court of Appeals and which your petitioners pray your Excellency to inspect for full proof of the facts statid in this petition That by the last order of said court all hopes of a legal remedy is at an end Your Petitioners state that D B Calvert died hopelessly insolvant and that John T Calvert one of his surities died leaving a helpless family and with verry limited means if any after the payment of his debts-- and that George Jenkins <hi rend="str"><unclear/></hi>the other surity in said Bond is a poor man and hard pressed with his individual indebtedness Your Petitoners state that they believe <hi rend="str"><unclear/></hi>if said case had been tried by the court upon its merits it would have been reversed and they therefore pray your Excellency to inspect the record of said case now on file. That they further believe that by accident or through neglect of the clerk of the court of Appeals that said<pb/>
+<lb/>record was lost or mislayed and that the same was not in the office of the clerk or in court at the time said court dismissed said appeal, and that the payment of said fine under all the circumstances would be a greivous hardship They state that said D B Calvert was killed withing two days after the Execution of said Bond That his securities and representatives have persued all the requirements of the law in order to have this case adjudicated in the Court of Appeal upon its merits-- That they verily believe there is enough ^error^ in said record to warrant a reversal of the same, and in consideration of the premisses your petitioners pray your Excellency to remit said fine and in duty bound will ever pray</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>W Rucker
-<lb/>W. E. Mitchusson.
+<lb/>W, E, Mitchusson.
 <lb/>Jas M Perkins
 <lb/>L. Pepper
 <lb/>James C. Barnes
 <lb/>Y. W Rucker
 <lb/>Jerre Stevens
 <lb/>John, N, Estes
-<lb/>T R Withers
-<lb/>W. A. Estes
+<lb/>T R Wither
+<lb/>W, A. Estes
 <lb/>J. J. Wyler
-<lb/><cb n="2"/>B. D. Ferry
-<lb/><hi rend="underline">Jn</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> P Sasseen
+<lb/><cb n="2"/>B. D. Terry
+<lb/><hi rend="underline">Jn</hi><hi rend="underline"><hi rend="sup">o</hi></hi> <hi rend="underline">P Sasseen
 <lb/></hi>W. H. Baley
-<lb/>John Y. M<hi rend="sup">c</hi>Lin
+<lb/>John, Y. M<hi rend="sup">c</hi>Lin
 <lb/>J P Roscoe
 <lb/><unclear/> Hunter
-<lb/>H,, L,, Evans
-<lb/>R. Whittington
+<lb/>H,, C,, Evans
+<lb/>R, Whittington
 <lb/>Jas M Pearce
-<lb/>Ja<hi rend="sup">s</hi> F Ingram<pb/>
-<lb/><cb n="1"/>J. S Curry
+<lb/>Ja<hi rend="sup">s</hi> F, Ingram<pb/>
+<lb/><cb n="1"/>J, S Curry
 <lb/>John Wheatly
 <lb/>A. C. Thomson
 <lb/>R. H. Lander
 <lb/>W<hi rend="sup">m</hi> Cash
-<lb/>Tho<hi rend="sup">s</hi>. S. Johnson
+<lb/>Tho<hi rend="sup">s.</hi> S. Johnson
 <lb/>L J Cartwright
 <lb/>W. H. Mott Jr
 <lb/>A,, C,, Mayes
@@ -100,30 +102,30 @@
 <lb/>H M Witherspoon
 <lb/>M L Hopson
 <lb/>Joseph A mott
-<lb/>D. L. Black
-<lb/>C. T. Dabney
-<lb/>A. M. Barrett
-<lb/>W. W. Williams
+<lb/>D, L, Black
+<lb/>C. T, Dabney
+<lb/>A. M, Barnett
+<lb/>W, W, Williams<hi rend="str">on</hi>
 <lb/>Robert Wheatly
-<lb/>B Y Mason
+<lb/>B J Mason
 <lb/>J M Walton
-<lb/>Will MCarty
+<lb/>Will,, MCarty
 <lb/>John T Guess
-<lb/>John,, H,, Perkins
+<lb/>John,, V,, Perkins
 <lb/>H. Woodruff
-<lb/>B, Oneal
+<lb/>B, <hi rend="underline">Oneal</hi>
 <lb/>Enoch Hooper
 <lb/>J P Hollowell
 <lb/>James C Weller
-<lb/>Jas A Johnsons
-<lb/>Elijah sterny
-<lb/><cb n="2"/>John Y. Chambers
+<lb/>Jas A Johnson
+<lb/>Elijah stevens
+<lb/><cb n="2"/>John. Y. Chambers
 <lb/>Perry Blount
 <lb/>James,, Gale
-<lb/>James W Morse
+<lb/>James M Morse
 <lb/>W L Marlow
 <lb/>W<hi rend="sup">m</hi> H Edmunds
-<lb/>A. R. M<hi rend="sup">c</hi>Dowell
+<lb/>A, R. M<hi rend="sup">c</hi>Dowell
 <lb/>Jacob Morse
 <lb/>W. R. Gray
 <lb/>R. M. Calvert
@@ -131,65 +133,64 @@
 <lb/>E R Farrow
 <lb/>W<hi rend="sup">m</hi> N Gaither
 <lb/>G G Cash
-<lb/>John. C. Pettit
-<lb/>Irwin Hollowell Jr.
-<lb/>T J Corner
+<lb/>John, C, Pettit
+<lb/>Irvin Hollowell Jr.
+<lb/>T I Corner
 <lb/>James M Crow
 <lb/>J A Dunn
 <lb/>Eli Nichols
 <lb/>Aden ^his^ Q Jones
 <lb/><hi rend="underline">D Hillman
-<lb/></hi>J, R, Calvert
+<lb/></hi>J, H, Calvert
 <lb/>J T Evans
 <lb/>W, L, Barker
-<lb/>M. L. Edwards
-<lb/>J R Heulett
+<lb/>M, L, Edwards
+<lb/>J R <unclear>Heulett</unclear>
 <lb/>W<hi rend="sup">m</hi> Barnes
-<lb/>Moses Crow
+<lb/>Moses <unclear>Crow</unclear>
 <lb/><hi rend="underline">J.</hi> <hi rend="underline">Newt</hi>. <hi rend="underline">Turner</hi>
-<lb/>G. P. George<pb/>
+<lb/>E. P. George<pb/>
 <lb/><cb n="1"/>R. J M<hi rend="sup">c</hi>Carlin
-<lb/>W C Murrald
-<lb/>A. J. Kinsolving
+<lb/>W C Hurrald
+<lb/>A, J, Kinsolving
 <lb/>F M, Perkins
-<lb/>E M Cooley
-<lb/>W. H. Pool
+<lb/>E M, Cooley
+<lb/>W, H. Pool
 <lb/>E. M. Stevens
-<lb/>W. H. Carter
-<lb/>G. P. Darnell
+<lb/>W. H, Carter
+<lb/>G, P. Darnell
 <lb/>Jo<hi rend="sup">s</hi> H Meek
-<lb/>E. D. Younger
-<lb/>R. B. Ratliff
+<lb/>E, D, Younger
+<lb/>R. B, Ratliff
 <lb/>Nathaniel Nichols
 <lb/>Wright Nichols Jr
 <lb/>A M Orange
 <lb/>A C Meek
-<lb/>W. H. Calvert
+<lb/>W, H, Calvert
 <lb/>Wm. George
 <lb/><cb n="2"/>P,, A,, Mifflin
-<lb/>John,, N, Dorr, Sr.
-<lb/>Matthew Halesapple
+<lb/>John,, N, Dorr, <hi rend="str">J</hi>Sr.
+<lb/>Matthew Holesapple
 <lb/>Alfred Williamson
 <lb/>H, W, Cooksey
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> C. C. Jones
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> C. C, Jones
 <lb/>John Tavery
-<lb/>J. J. Chambers
+<lb/>J, J. Chambers
 <lb/>Roberson Crews 
-<lb/>S. P. Woodruff
+<lb/>S. P Woodruff
 <lb/>Tho<hi rend="sup">s</hi> B Copeland 
-<lb/>N. D. Gore
+<lb/>N.. D. Gore
 <lb/>W S Talbott
 <lb/>S R Perry
-<lb/>Robert Peyray
+<lb/>Robert P Gray
 <lb/>F M Dunn
-<lb/>Jas W Clurke<milestone unit="column" n="1"/><pb/> </p>
+<lb/>Jas W Cluke<milestone unit="column" n="1"/><pb/> </p>
 <p>Calvert<hi rend="sup">s</hi> Case 
 <lb/>Caldwell Cir Ct
-<lb/>$300 } Appr Bond<figure type="hr"/></p>
+<lb/>&#36;300 &#125; app Bond<figure type="hr"/></p>
 <p>Remitted 
-<lb/>B. M. </p>
-<p>Geo. Jenkins &amp; W. H. Calvert
-<lb/>Admr.
+<lb/>B M. </p>
+<p>Geo. Jenkins &amp; W. H Calvert Admr.
 <lb/>Is<hi rend="sup">d</hi> <date when="1861-10-26">Oct 26 1861</date></p>
   </body>
  </text>

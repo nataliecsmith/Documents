@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0046"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,16 +67,16 @@
 <lb/>Metcalfe Circuit Court
 <lb/><date when="1864-05">May (special called) term 1864</date>.
 <lb/>Commonwealth Plff
-<lb/>vs. } Indictment for Bigamy
+<lb/>vs. &#125; Indictment for Bigamy
 <lb/>Geo. W Polson Deft.</p>
 <p>On motion of the attorney for the Commonwealth, ordered that this prosecution be dismissed.</p>
-<p>A copy attest R H Young Clk.<pb/></p>
+<p>A copy attest. R H Young Clk.<pb/></p>
 <p>Commonwealth
-<lb/>vs } Indictment for Bigamy
+<lb/>vs &#125; Indictment for Bigamy
 <lb/>Geo W Polson.
-<lb/>Copy of order.<figure type="hr"/>
-<lb/>Pardon the offence<figure type="hr"/>
-<lb/><date when="1864-09-24">24<hi rend="sup">th</hi> Sept/64</date></p>
+<lb/>Copy of order.<figure type="hr"/></p>
+<p>Pardon the offence<figure type="hr"/></p>
+<p><date when="1864-09-24">24<hi rend="sup">th</hi> Sept/64</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0214"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,19 +63,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Boone Cir Court
+   <p>Boone Cir. Court
 <lb/>vs
-<lb/>N. Carpenter
+<lb/>W. Carpenter
 <lb/>Forfeiture
-<lb/>$100 -- 
-<lb/>Remt<hi rend="sup">d</hi> <date when="1863-10-07">7<hi rend="sup">th</hi> Oct/ 63</date></p>
+<lb/>&#36;100 -- 
+<lb/>Remt<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-10-07">7<hi rend="sup">th</hi> Oct/63</date></p>
 <p>Burlington Ky
 <lb/><date when="1863-10-03">Oct 3<hi rend="sup">d</hi> 1863</date>
 <lb/>His Excellency Tho<hi rend="sup">s</hi> E Bramlet Gov of Ky
 <lb/>Sir:</p>
-<p>Last winter a man by the name of Geo Smith was committed to the jail of Boone County on a charge of felony &amp; T J &amp; M Carpenter were recognized as witnesses to the <date when="1863-04">April term of the Court Court 1863</date> in bonds of one hundred dollars each A short time before the <date when="1863-04">April term</date> Smith was busted &amp; both the Carpenters attended at the County seat of said County on monday the commencement day of said term &amp; the judge failing to arrive during the day the witnesses afsd as well as the people generally left the county seat with the understanding there would be no court The judge arrived about nine oclock next morning when it was greed by the members of the bar remaining -- that failing to open court on the first day no court could be held for that term &amp; thereupon the judge issued an order giving a special term of said court <unclear/> the 3<hi rend="sup">d</hi> Monda in <date when="--05">May</date> at which time the Carpenters failing to appear their recognizance was forfeited &amp; summons against them to the <date when="--09">Sept term</date> when they appeared &amp; testified before the Grand Jury who failing to indict Smith he was discharged T J Carpenter answered to the summons that his family were sick at the time &amp; was exhonerated by the Court Woodford Carpenter the other witness was less fortunate &amp; simply<pb/>
-<lb/>gave an excuse for failing to attend the <date when="--05">May term</date> "that he had forgotten the time of holding the called term" The Judge thinking this an insufficient excuse witheld judgment against him for <hi rend="underline">one</hi> <hi rend="underline">hundred</hi> dollars &amp; cost Mr Carpenter came back on the <date when="---09">9<hi rend="sup">th</hi> day of the term</date> to ask the Court to set aside the judgment against but the court had then adjorned He says that upon reflection that he did not know or hear of the special tirm in <date when="--05">May</date> ^until the evening of the adjornment^ which I believe is true for he lives remotely from the Court house &amp; there were very few persons in his part of the county attending that term til thursday I believe the day the court was adjorned many of those coming in saying they had just hourd there was a court There were many not only in that portion of the County but in other portions men hostile to the <hi rend="underline">appointed</hi> Judge as they called Judge Drone who In my opinion did not to say the least wish to give much countenance to his Court &amp; would readily frame such excuses as want of knowledge of the time of holding the Court But Mr Carpenter does not belong to or sympathise with any such class or party I have known Mr Carpenter long &amp; intimately &amp; from knowledge of the man do not believe he would make a false statement intentionally to be relieved of such a fine &amp; when he now says that he did not know of the setting of the Court til the evening of its adjorunment I believe him &amp; so believing do not hesitate to ask you to believe him He certainly meant no contempt He is a law abiding Union man who suffered no little by Kirby Smith army while in our County. He has already paid J. L. Scott atty for the Commlth the amount going to him &amp; asks your excellency to relieve him from the ballance Before you determine please have a conversation with Mr Scott who will I am confident endorse my statement. I ask this because I may be said to be a stranger. <hi rend="str"><unclear/></hi> <unclear/> you til you came to our county during your late <unclear/></p>
-<p><unclear/> obntly
+<p>Last winter a man by the name of Geo Smith was committed to the jail of Boone County on a charge of felony &amp; T J &amp; W Carpenter were recognized as witnesses to the <date when="1863-04">April term of the Circut Court 1863</date> in bonds of one hundred dollars each A short time before the <date when="1863-04">April term</date> Smith was busted &amp; both the Carpenters attended at the County seat of said County on monday the commencement day of said term &amp; the judge failing to arrive during the day the witnesses afsd as well as the people generally left the County Seat with the understanding there would be no court The judge arrived about nine oclock next morning when it was greed by the members of the bar remaining -- that failing to open court on the first day- no court could be held for that term &amp; thereupon the judge issued an order giving a special term of said court commencing the 3<hi rend="sup">d</hi> Monday in <date when="--05">May</date> at which time the Carpenters failing to appear their recognizance was forfeited &amp; summons against them to the <date when="--09">Sept term</date> when they appeared &amp; testified before the Grand Jury- who failing to indict Smith he was discharged T J Carpenter answered to the summons that his family were sick at the time &amp; was exhonnerated by the Court Woodford Carpenter the other witness was less fortunate &amp; simply<pb/>
+<lb/>gave as excuse for failing to attend the <date when="--05">May term</date> "that he had forgotten the time of holding the called term" The Judge thinking this an insufficient excuse rendered judgment against him for <hi rend="underline">one</hi> <hi rend="underline">hundred</hi> dollars &amp; cost Mr Carpenter came back on the 9<hi rend="sup">th</hi> day of the term to ask the Court to set aside the judgment against- but the court had then adjorned He says that upon reflection that he did not know or hear of the special term in <date when="--05">May</date> ^til the evening of the adjornment^ which I believe is true for he lives remotely from the Court house &amp; there were very few persons in his part of the County attending that term til <hi rend="underline">thursday</hi> I believe the day the court was adjorned many of those coming in saying they had just learned there was a court There were many not only in that portion of the County -- but in other portions men hostile to the <hi rend="underline">appointed</hi> Judge as they called Judge Drane -- who in my opinion did not to say the least -- wish to give much countenance to his Court &amp; would readily frame such excuses as want of knowledge of the time of holding the Court But Mr Carpenter does not belong to or sympathise with any such class or party I have known Mr Carpenter long &amp; intimately &amp; from my knowledge of the man do not believe he would make a false statement intentionally to be relieved of such a fine &amp; when he now says that he did not know of the setting of the Court til the evening of its adjornment I believe him &amp; so believing, do not hesitate to ask you to believe him He certainly meant no contempt- He is a law abiding Union man who suffered no little by Kirby Smith army while in our County. He has already paid J L Scott atty for the Commwlth the amount going to him &amp; asks your excellency to relieve him from the ballance Before you determine please have a conversation with Mr Scott who will I am confident endorse my statement -- I ask this because I may be said to be a stranger -- <hi rend="str"><unclear/></hi> never meeting you til you came to our county during your late canvass</p>
+<p>Vy obntly
 <lb/>J W Calvert</p>
   </body>
  </text>

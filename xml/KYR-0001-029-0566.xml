@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0566"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Grayson County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -63,74 +65,75 @@
    <p><note place="header">H Carter
 <lb/>J H M<hi rend="sup">c</hi>Donal</note>
 <lb/>To His Excellency The Governor of Kentucky.</p>
-<p>The undersigned Mrs. Martha E. Butler, formerly Tucker, and your other Petitioners the undersigned; state, that at the <gap/> term of the Grayson Circuit Court, one Joseph Tucker, then her husband, was indicted for Felony, and that he entered into Bond with <gap/> as his sureties for his appearance at the <gap/> term of said Court. Your Petitioners further states that in order to save harmless said sureties on their said Bond, that the said Martha E. Butler then Tucker, and the said Joseph Tucker, then her husband, sold and conveyed, by deed of General Warranty <gap/> acres of land, the only real estate they had in the world, to the said sureties aforesaid, and that shortly thereafter the said Joseph left the State and forefeited said Bond, leaving the said Martha in abject poverty, and with seven children to support, one of whom is not of sound mind. Your Petitiner Martha states that a very short time after the conveyance aforesaid, she was ejected from the premises, by the grantees aforesaid, and has been shifting for herself ever since, as best she could, sometimes living in the deserted school houses of the country, She further states, that at the last April term of the Breckenridge Circuit Court, she applied for and obtained a Divorce from the said Joseph, and obtained a Decree for the same. She states that she is now a lone woman somewhat advanced in years with seven children to support, and that being deprived of<pb/>
-<lb/>her said land and home, entirely without other means of support, she may, despite all her exertions to the contrary, finally become a charge upon the county. she files herewith a copy of the <hi rend="str">indictments </hi>^Record^. <hi rend="str">Bond</hi> and Decree for Divorce, and prays with her other Petitioners, that your excellency remit whatever part of said recognizance is forfeited to the State in order that her friends may be able to put her in possession of her said land, buy releasing the sureties aforesaid. Your Petitoners pray for all proper relief. Martha E. Butler Ja<hi rend="underline"><hi rend="sup">s</hi></hi> G. Haswell</p>
+<p>The undersigned Mrs. Martha E. Butler, formerly Tucker, and your other Petitioners the undersigned; state, that at the <gap/> term of the Grayson Circuit Court, one Joseph Tucker, then her husband, was indicted for Felony, and that he entered into Bond with <gap/> as his sureties for his appearance at the <gap/> term of said Court. Your Petitioners further state that in order to save harmless said sureties on their said Bond, that the said Martha E. Butler- then Tucker, and the said Joseph Tucker, then her husband, sold and conveyed, by deed of General Warranty <gap/> acres of land, the only real estate they had in the world, to the said sureties aforesaid, and that shortly thereafter the said Joseph- left the State and forefeited said Bond, leaving the said Martha in abject poverty, and with seven children to support, one of whom is not of sound mind. Your Petitioner Martha states that a very short time after the conveyance aforesaid, she was ejected from the premises, by the grantee's aforesaid, and has been shifting for herself ever since, as best she could, sometimes living in the deserted school-houses of the country, She further states, that at the last April term of the Breckenridge Circuit Court, she applied for and obtained a Divorce from the said Joseph, and obtained a Decree for the same. She states that she is now a lone woman somewhat advanced in years, with seven children to support, and that being deprived of<pb/>
+<lb/>her said land and home, entirely without other means of support, she may, despite all her exertions to the contrary, finally become a charge upon the county. she files herewith a copy of the <hi rend="str">indictments</hi> Record, <hi rend="str">Bond</hi>, and Decree for Divorce, and prays with her other Petitioners, that your excellency remit whatever part of said recognizance is forfeited to the State in order that her friends may be able to put her in possession of her said land, by releasing the sureties aforesaid, Your Petitoners pray for all proper relief. </p>
+<p>Martha E. Butler Ja<hi rend="underline"><hi rend="sup">s</hi></hi> G. Haswell</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>James Stuart
 <lb/>Circuit Judge
-<lb/>Jesse W. Kincheloe
+<lb/>Jesse W, Kincheloe
 <lb/>John B Bruner
 <lb/>Alf Allen
 <lb/>Chas G. Wintersmith
-<lb/>J W Bozarth
+<lb/>J W Bozorth
 <lb/>J,, J,, Harrison
-<lb/>Henry Litsey
+<lb/>Henry <unclear>Gitsey</unclear>
 <lb/>John Galesbery
 <lb/>H C Thomas
-<lb/>Sam<hi rend="sup">l</hi> W Davis
-<lb/>John C. Mercer
+<lb/>Sam<hi rend="sup">l</hi> W. Davis
+<lb/>John, C, Mercer
 <lb/>L,, Green
 <lb/>H, C Crawford
 <lb/>Tho Patterson
-<lb/>Yeamer Barton
+<lb/>James Barton
 <lb/>Solomon Mercer
-<lb/>Garten Jutty
+<lb/>Garten petty
 <lb/><cb n="2"/>Wiliam Wilson
 <lb/>James Sips
 <lb/>Rufus Horn
 <lb/>W C Grayson
 <lb/>L R Clarke
-<lb/>J B Garmaway
-<lb/>H. J. Willis
+<lb/>J. B, Gannaway
+<lb/>H, J. Willis
 <lb/>H P Bozorth
-<lb/>John Nopes
+<lb/>John Roper
 <lb/>William Hackett
 <lb/>William Lanklin
 <lb/>R H Graham
-<lb/>Wm Saker
+<lb/>Wm Larue
 <lb/>A W England
-<lb/>James Johnson
-<lb/>J H Dewey
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> F Caplinger
-<lb/>W<hi rend="sup">m</hi> C Rice<pb/>
+<lb/>James. Johnson
+<lb/><hi rend="underline">J H Denny</hi>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> F, Caplinger
+<lb/>W<hi rend="sup">m</hi>. C. Rice<pb/>
 <lb/><cb n="1"/>E E Veech
-<lb/>C Bratchen
+<lb/>C Bratcher
 <lb/>J R Purcell
-<lb/>T J Bratchen
+<lb/>T J Bratcher
 <lb/>M P Clarkson
-<lb/>James R. Royalton
-<lb/>B Goode
+<lb/>James. R. Royalty
+<lb/>R Goode
 <lb/>W. C Simpson
 <lb/>J, C, Edelen
-<lb/>W<hi rend="sup">m</hi> Ingram
+<lb/>W<hi rend="sup">m</hi> <unclear>Ingram</unclear>
 <lb/>Reasor Laymon
 <lb/>Simon Probus
 <lb/>Jos M Morrison
 <lb/>Franklin Porter
-<lb/>John W Harrison
+<lb/>John Wm Harrison
 <lb/>Lot Salsman
 <lb/>Richard Kelly
 <lb/>James Nelson
-<lb/>N Winchel
-<lb/>R C Gabisran
-<lb/>Nicholas Maxfield
-<lb/>J H Owsley
+<lb/>U Winchel
+<lb/>R C <unclear>Jacsson</unclear>
+<lb/>Nicholas <unclear>Maxfield</unclear>
+<lb/>J H, Owsley
 <lb/>Luke Wood
-<lb/>Wm. H. Conklin Sen
+<lb/>Wm, H. Conklin Sen
 <lb/>Bartlet Decker
 <lb/>James Burtle
-<lb/>A. C. M<hi rend="sup">c</hi>Neath
-<lb/>County Judge
-<lb/><cb n="2"/>Andrew Pelty
+<lb/>A. C. M<hi rend="sup">c</hi>Beath
+<lb/>County Judge.
+<lb/><cb n="2"/>Andrew Petty
 <lb/>E R. Eskridge
 <lb/>Miles Johnson
 <lb/>D. O. Waide
@@ -143,55 +146,55 @@
 <lb/>G P Jolly Clerk Circuit Court
 <lb/>W Cox J. P.
 <lb/>S, E Mattingly
-<lb/>David Ames Jr
+<lb/>Daniel Arms Jr
 <lb/>W. B. Stith
-<lb/>J. A. Hambleton
+<lb/>J. A, Hambleton
 <lb/>Andrew Driskell
-<lb/>Samuel S. Grabfelder
-<lb/>Ritchard R Purbal
+<lb/>Samuel. S. Grabfelder
+<lb/>Ritchard R <unclear>Turbal</unclear>
 <lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> Hambleton
-<lb/>Nelson Jolly
+<lb/>Nelson Jolly-
 <lb/>Jas. D. Noblett
 <lb/>John DeHaven
 <lb/>Robert Payne
 <lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> J. Jolley
 <lb/>H R Henninger
 <lb/>M D Pumphrey
-<lb/>E, H, Mercer
+<lb/>E. H. Mercer
 <lb/>J. R. Mattingly
 <lb/>J. A. Hambleton<pb/>
 <lb/><cb n="1"/>John Frazer
-<lb/>David Frazer
-<lb/>William Brice
+<lb/>David Fraizr
+<lb/>William Bruce
 <lb/>Charles Mattingly
 <lb/>James B Howard
 <lb/>Josiah Spencer
-<lb/>Simon Preyer
+<lb/>Simon Pryer
 <lb/>Valentine Butler
 <lb/>Louis H Mattingly
-<lb/>Joseph Frazer
-<lb/>Herman P Pool
-<lb/>William Frazer
-<lb/>James H <unclear>Teavis</unclear>
-<lb/>William <unclear/>
-<lb/><unclear/> <unclear/>
+<lb/>Joseph Fraize
+<lb/>Warran P Pool
+<lb/>William Fraize
+<lb/>James H Lewis
+<lb/>William Parsons
+<lb/>Sandford P Pool
 <lb/>Gabriel Mattingly
-<lb/>Daniel R Snider
-<lb/>Samuel Frazer
-<lb/>Barnard Fraizer
-<lb/>Andrew Peifer
+<lb/>Daniel R Smith
+<lb/>Samuel Fraize
+<lb/>Barnard Fraize
+<lb/>Andrew <unclear>Peifer</unclear>
 <lb/>John H Donley
-<lb/>Harrison Ludlow
+<lb/>Harrison Fuller
 <lb/>William W R Bruce
 <lb/>Robert Spencer
 <lb/>Daniel Hicks
 <lb/>Johnson Dehaven
 <lb/>Samuel Spencer
 <lb/>Robert Spencer Sen
-<lb/>John McNutt
+<lb/>John McHutts
 <lb/>James P Wheeler
 <lb/>Foster Butler
-<lb/><cb n="2"/>Jos. R Mercer
+<lb/><cb n="2"/>Jos R Mercer
 <lb/>Thos Cannon
 <lb/>James H Dailey
 <lb/>James A Mattingly
@@ -200,7 +203,7 @@
 <lb/>James N Persons
 <lb/>Charles Tucker</p>
 <p>I am conversant with the facts stated in the within Petition and believe they are correctly set forth in this petition</p>
-<p>J B Bruner</p>
+<p><hi rend="underline">J B Bruner</hi></p>
 <p><milestone unit="column" n="1"/><note place="right margin">Petition</note></p>
   </body>
  </text>

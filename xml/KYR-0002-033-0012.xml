@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0012"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,13 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>SPEICAL ORDERS, No. 31.
-<lb/>WAR DEPARTMENT,
-<lb/>ADJUTANT GENERAL'S OFFICE
-<lb/><hi rend="italic">Washington, </hi><date when="1865-01-20"><hi rend="italic">January 20th</hi>, 1865</date></p>
-<p>(<hi rend="italic">Extract</hi>.)<figure type="hr"/>
-<lb/>19. Leave of absence for thirty days is hereby granted the following officers, paroled Prisoners of War, at the expiration of which they will report in person to the Commanding Officer of Camp Chase, Columbus, Ohio: -- 
-<lb/>Major <hi rend="italic">William N. Owens</hi>, 1st Kentucky Cavalry.<figure type="hr"/></p>
+   <p>WAR DEPARTMENT,
+<lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/><hi rend="italic">Washington, </hi><date when="1865-01-20"><hi rend="italic">January </hi>20<hi rend="italic">th</hi>, 1865.</date></p>
+<p>SPECIAL ORDERS,
+<lb/>No. 31.</p>
+<p>(<hi rend="italic">Extract</hi>.)<figure type="hr"/></p>
+<p>19. Leave of absence for thirty days is hereby granted the following officers, paroled Prisoners of War, at the expiration of which they will report in person to the Commanding Officer of Camp Chase, Columbus, Ohio: -- </p>
+<p>Major <hi rend="italic">William N. Owens</hi>, 1st Kentucky Cavalry.<figure type="hr"/></p>
 <p>By order of the Secretary of War:
 <lb/>E. D. TOWNSEND,
 <lb/><hi rend="italic">Assistant Adjutant General.</hi> </p>
@@ -75,12 +79,12 @@
 <lb/><hi rend="italic">Assistant Adjutant General.</hi> </p>
 <p>Governor of Kentucky<pb/></p>
 <p>War Department
-<lb/>Adj<hi rend="sup">t</hi> Genl<hi rend="sup">s.</hi> Office
-<lb/>Washington <date when="1865-01-20">Jany 20/65</date><figure type="hr"/>
-<lb/>Townsend E. D. A. A. G.<figure type="hr"/>
-<lb/><hi rend="underline">Order</hi>
-<lb/>granting 30 days leave of absence to Maj W. N. Owens 1' Cav<hi rend="sup">y</hi>.<figure type="hr"/>
-<lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1865-01-26">Jany 26. 1865</date></p>
+<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="underline"><hi rend="sup">ls</hi></hi> Office
+<lb/>Washington <date when="1865-01-20">Jan<hi rend="sup">y</hi> 20/65</date><figure type="hr"/>
+<lb/>Townsend E D, A. A, G, <figure type="hr"/>
+<lb/><hi rend="underline">Order</hi></p>
+<p>granting 30 days leave of absence to Maj W. N. Owens 1' Cav<hi rend="sup">y</hi>.<figure type="hr"/></p>
+<p>Rec<hi rend="sup">d</hi> A. G. O. <date when="1865-01-26">Jany 26. 1865</date></p>
   </body>
  </text>
 </TEI>

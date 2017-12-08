@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0041"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -70,21 +73,21 @@
 <p>I have the honor to be 
 <lb/>Your Excellency's
 <lb/>Most Obdt Serv<hi rend="sup">t</hi>
-<lb/>H. N. Oliver </p>
-<p>P.S. Absence from the City prevented me from communicating sooner</p>
+<lb/><hi rend="underline">H. N. Oliver</hi> </p>
+<p>P.S.- Absence from the City prevented me from communicating sooner</p>
 <p>Respectfully &amp;c.
 <lb/>H. N. O.<pb/></p>
-<p>2 Cav<hi rend="sup">y</hi>
-<lb/>Louisville Ky
-<lb/><date when="1864-11-20">Nov 20" 1864 -- </date><figure type="hr"/></p>
-<p>Oliver H. N -- <figure type="hr"/>
+<p>2 Cav<hi rend="sup">y</hi></p>
+<p>Louisville Ky
+<lb/><date when="1864-11-20">Nov 20" 1864 -- </date><figure type="hr"/>
+<lb/>Oliver H. N -- <figure type="hr"/>
 <lb/>To the Gov -- </p>
 <p>Acknowledges receipt of a commission appointing him 2" Lt in 2" Ky Cav -- On account of his health is compelled to decline the same -- <figure type="hr"/></p>
 <p>L B N<hi rend="sup">o</hi> 8 -- <date when="1864">1864</date> P. 135</p>
 <p>Cancel 
 <lb/>D W Lindsey
-<lb/>Insp &amp; Adj Gen<hi rend="sup">l</hi>.<figure type="hr"/>
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-11-21">Nov 21" 1864 -- </date></p>
+<lb/>Insp &amp; adj Gen<hi rend="underline"><hi rend="sup">l</hi></hi><figure type="hr"/>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-11-21">Nov 21" 1864-</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0040"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,34 +63,34 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency, T. E. Bramlette Governor of the State of Kentucky</p>
-<p>Your petitioner C. C. Webb would respectfully represent to your Excellency that at the last <date when="1863-09">Sept term of the Knox Circuit Court 1863</date>, he was indicted for permitting gaming in his house kept for a tavern in said county, and at the said term of the court, he confessed Judgement for the sum of two hundred dollars when he verily believes if he had tried the case he could have gotten clear of it but whether he could or not he implicitly relies upon your Excellency to relieve him after you hear the statement of the facts. He says that two soldiers, who were at home on furloughs, asked him if they might play a game of cards in the room and he told them yes but they must not play for any thing, and they said they would not, and he went off about his business, and directly he returned &amp; looked at them playing but the witness to the indictment says that he saw the money under one of their thighs, and would show that your petitioner was present.<pb/></p>
-<p>once at the time he confessed Judgement he thought that he could not get out of it. He says these are the facts in the case and he does think it very hard for him to pay that amout. He says that he is a very poor man with a family and he is a shoe &amp; hoop maker and has labored very hard all his life to make what little he has, and consequently, he does think that if there ever was a case for Executive clemency this is one of them. He says that if your Excellency will remit this fine he and his family will bless him as long as he lives. He says that he is a cripple, and when Kentucky was invaded by Zollicoffer, he was one among the twenty four who fought the rebels at the Barbourville bridge, it being the first fight in Kentucky. He says that he does not speak of this in a boasting spirit, although if the citizens every where had done as they did there, this portion of Kentucky would never have been laid waste, but he speaks of it alone to show your Excellency that he has been loyal to his<pb/>
-<lb/>government and although a cripple willing if need be to sacrifice his life for the good of his county. It is the intention that constitutes the crime and for that reason he does not think that he is guilty. If by a change in the affairs of life, I could be in your place, &amp; you in mine, and I knew the circumstances as well as I know it now. I would remit the fine and think that I was doing country good by so doing.</p>
-<p>C. C. Webb</p>
+   <p>To his Excellency, T. E. Bramlette Govenor of the State of Kentucky</p>
+<p>Your petitioner C. C. Webb would respectfully represent to your Excellency that at the last <date when="1863-09">Sept term of the Knox Circuit Court 1863</date>- he was indicted for permittg gaming in his house kept for a tavern in said county, and at the said term of the court, he confessed Judgment for the sum of two hundred dollars when he verily believes if he had tried the case he could have gotten clear of it. but whether he could or not. he implicitly reliers upon your Excellency to relieve him after your hear the statement of the facts. He says that two soldiers, who were at home on furloughs, <hi rend="str">p</hi>asked him if they might play a game of cards in the room. and he told them yes. but they must not play for any thing, and they said they would not, and he went off about his business. and directly he returned &amp; looked at them playing. but the witness to the indictment says that he saw the money under one of their thighs, and would show that your Petitioner was present-<pb/></p>
+<p>and at the time he confessed Judgment he thought that he could not get out of it. He says these are the facts in the case and he does think it very hard for him to pay that amout. He says that he is a very poor man with a family and <hi rend="str">i</hi>he is a shoe &amp; boot maker and has laboered very hard all his life to make what little he has, and Consequetly, he does think that if there ever was a case for Executive clemency this is one of them. He says that if your Excellency will remit this fine he and his family will bless him as long as he lives. He says that he is a cripple, and when Kentucky was invaded by Zollicoffer, he was one a mong the twenty four who fought the rebels at the Barbourville bridge- it being the first fight in Kentucky. He says that he does not speak of this in a boasting spirit, althogh if the citizens every where had done as they did there, this portion of Kentucky would never have been laid waste. but he speaks of it alone to show your Excellency that he has been loyal to his<pb/>
+<lb/>government and although a cripple willing if need be to sacrifice his life for the good of his county. It is the intention that constitutes the crime and for that reason he does not think that he is guilty- If by a change in the affairs of life, I could be in your place, &amp; you in mine, and I knew the circumstances as well as I know it now- I would remit the fine and think that I was doing country good by so doing.</p>
+<p>C. C. webb</p>
 <p>Knox County</p>
 <p>C C Webb says that he believes the statement in the foregoing petition are true</p>
-<p>C.C. Webb</p>
-<p>Sworn to before me by C C Webb this <date when="1863-09-29">29<hi rend="sup">th</hi> day of Sept 1863</date>.</p>
+<p>C.C. webb</p>
+<p>Sworn to before me by C C Webb this <date when="1863-09-29">29<hi rend="sup">th</hi> day of sept 1863</date>-</p>
 <p>James F Goshen J P<pb/></p>
-<p>We ask your Excellency to remit the within fine against C. C. Webb
-<lb/>Names</p>
-<p>J. W. Anderson
+<p>We ask your Excellency to remit the within fine against C. C. Webb-</p>
+<p>Names
+<lb/>J. W, Anderson
 <lb/>James F Goshen J P
-<lb/>O. P. Herndon
-<lb/>J F King D M 8 Coon District Ky
-<lb/>D. F. Davis
+<lb/>O, P, Herndon
+<lb/>J F King D M 8 <unclear>Coon</unclear> District Ky
+<lb/>D. F. Dorvis
 <lb/>J. W. Davis Representative
-<lb/>Thomas G Ritzr
+<lb/>Thomas J Ritzr
 <lb/>J R Helton
 <lb/>J H Davis
-<lb/>R Herndon</p>
-<p>Knox Co
-<lb/>Remit all except costs &amp; fees -- <date when="1863-10-07">Oct 7<hi rend="sup">th</hi> 1863</date>
-<lb/>T E Bramlette
-<lb/>enlcose to Barboursville, Knox Co Ky</p>
-<p>C C Webb
-<lb/>$200
+<lb/>R. Herndon</p>
+<p>Knox Co</p>
+<p>Remit all except costs &amp; fees -- <date when="1863-10-07">Oct 7<hi rend="sup">th</hi> 1863</date></p>
+<p>T E Bramlette<figure type="hr"/></p>
+<p>enlcose to Barboursville- Knox Co Ky</p>
+<p>C. C. Webb
+<lb/>&#36;200.
 <lb/>Gaming</p>
   </body>
  </text>

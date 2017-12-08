@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0033"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,39 +64,39 @@
  <text>
   <body>
    <p>To His Excellency Thomas E. Bramlette
-<lb/>Governor of kentucky:</p>
-<p>The undersigned Citizens of Ripley Ohio state: W<hi rend="sup">m</hi>. M. Bartley (called Bartlett), a citizen of this place was recently indicted in the Mason Circuit Court Ky and convicted of larceny and sent to the Penitentiary for one year. They have ascertained it as a fact and so state it that when the offence was committed he was in a state of intoxication. While in the condition, he is different from the generality of persons. he borders upon lunacy, and seems to have no consciousness of what he is doing. This is his first offence. He has a delicate wife and several children who are left in a state of utter destitution. In view of the circumstances the undersigned unite in what they understand was part of the verdict of the Jury and earnestly recommend your Excellency to pardon him
-<lb/><date when="1863-09-22">September 22<hi rend="sup">nd</hi> 1863</date></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Alexander Jolly Com Merchant
-<lb/>L. &amp; S. Jolly Greensware merchants
+<lb/>Governer of Kentucky:</p>
+<p>The undersigned Citizens of Ripley Ohio state: W<hi rend="sup">m</hi>. M. Bartley (called Bartlett), a citizen of this place was recently indicted in the Mason Circuit Court Ky and convicted of larceny and sent to the Penitentiary for one year. They have ascertained it as a fact and so state it that when the offence was committed he was in a state of intoxication. While in the condition, he is different from the generality of persons- he borders upon lunacy, and seems to have no consciousness of what he is doing- This is his first offence. He has a delicate wife and several children who are left in a state of utter destitution. In view of the circumstances the Undersigned unite in what they understand was part of the verdict of the Jury and earnestly recommend your Excellency to pardon him</p>
+<p><date when="1863-09-22">September 22<hi rend="sup">nd</hi> 1863</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Alexander Jolly Com Merchant<figure type="hr"/>
+<lb/>L. <unclear/>. S Jolly Greensware merchants<figure type="hr"/>
 <lb/>A R Davison Merchant
 <lb/><cb n="2"/>G Barcaw Merchant
-<lb/>Snider &amp; Busby hardward ^merchant^
+<lb/>Snider &amp; <unclear>Bensly</unclear> hardware merchant
 <lb/>H Thompson merchant
-<lb/>Jas W Frost merchant
-<lb/>E. Mckinley marchant<pb/>
+<lb/>Jno W Frost merchant
+<lb/>E. M<hi rend="underline"><hi rend="sup">c</hi></hi>Kinley marchant<pb/>
 <lb/><cb n="1"/>J. A. Williams merchant
 <lb/>Geo Pittenger merchant
 <lb/>N P Wiles merchant
-<lb/>J N Hunter Drugest
+<lb/>J V Hunter Drugest
 <lb/>W. S. Lain merchant
 <lb/>O C Ross merchant
-<lb/>W. A. Trigg merchant
+<lb/>W. A. Gregg merchant
 <lb/>Harvey Palmer
-<lb/>Jim <unclear>Harvey</unclear>
-<lb/>Fred <unclear/>
+<lb/>James Ha<unclear>rvey</unclear>
+<lb/>Fred F<unclear/>
 <lb/>W. M. Armstrong merchant
-<lb/>R Fulton Drugist
-<lb/>H B Zeller
-<lb/>T. Garvin merchant
+<lb/>R Fulton Drugest
+<lb/>H T Zeller
+<lb/>T Gavin merchant
 <lb/>C Shaw
-<lb/>P L Caldwell merchant
+<lb/><unclear>J J</unclear> Caldwell merchant
 <lb/>Henry Moore
 <lb/>Michael Crowe
 <lb/>Henry Corbin
 <lb/>Peter <unclear>Benua</unclear>
-<lb/>Samuel Lindey merchant
-<lb/>James Reynolds
+<lb/>Samuel <unclear>Sindry</unclear> merchant
+<lb/><hi rend="underline">James Reynolds</hi>
 <lb/>S. Moore
 <lb/>D B Evans merchant
 <lb/>M. A. Conley merchant
@@ -101,12 +104,11 @@
 <lb/>Robert Thompson
 <lb/>F. Taylor Liggett
 <lb/><cb n="2"/>A Masting merchant
-<lb/>C Winter Doctor
-<lb/>F. F. Shaw Notary Pubcli B. C. C.
-<lb/>L G Panner Builder
+<lb/>C Winter Docter
+<lb/>F. F. Shaw, Notary Public, B. C. C.
+<lb/>L. G. <unclear>Palmer</unclear> Builder
 <lb/>E. R. Ben M. D.
-<lb/>S. Hemphill</p>
-<p>I know nothing as to his condition when intoxicated</p>
+<lb/>S. Hemphill &#125; I know nothing as to his Condition when intoxicated</p>
   </body>
  </text>
 </TEI>

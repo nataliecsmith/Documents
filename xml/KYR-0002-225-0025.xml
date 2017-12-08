@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0025"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,6 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
+    <placeName>Irvine, Estill County, Kentucky</placeName>
     <date when="1863-02-05">5 February 1863</date>
    </creation>
    <textClass>
@@ -59,24 +63,28 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Exellency James F Robinson Governor of Kentucky.</p>
-<p>The undersigned members of the 2<hi rend="underline"><hi rend="sup">nd</hi></hi> &amp; 3<hi rend="underline"><hi rend="sup">rd</hi></hi> Battalion of the 14<hi rend="sup">th</hi> Reget of Cavalry for <hi rend="str">state</hi> <unclear/> service would most respectfully State to your Honor that the Counties of Breathitt, Owsley, Perry, and Letcher but more particularly the County Breathitt are now without any protection whatever and the union men of said County<hi rend="underline"><hi rend="sup">s</hi></hi> have nearly all enlisted and gone into the army of the U S <hi rend="str">Army</hi> and have left their Counties and homes unprotected and to the mercies of the Rebels who have robbed them of every thing we had took all of our Stock Corn &amp; Hay in short taken all we had and have stooped So low as to strip our wives and children of their wearing clothes, and in ther present Condition must now starve to death, and have their Houses burned unless your honor will send us Some protection, now we therefore would most earnestly pray your Honor to grant us Some releif and all we want is to be armed and equipt in good stile and then send us back to the <hi rend="underline">mountains</hi> from whence we came and we will protect the Countys above mentioned and our own homes. grant us this one request and it is all we ask. Irvine Ky <date when="1863-02-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> February 1863</date></p>
-<p>J C Eversole Majr 2 battalion 14th Ky cavalry commanding<pb/></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Thomas Arvis capt
-<lb/>John Arvis 1st Lieutenant
-<lb/>Will Arvis Second
+   <p>To His Exellency James F Robinson
+<lb/>Governeor of Kentucky.</p>
+<p>The undersigned members of the 2<hi rend="underline"><hi rend="sup">nd</hi></hi> &amp; 3<hi rend="underline"><hi rend="sup">rd</hi></hi> Battalion of the 14<hi rend="sup">th</hi> Reget of Cavalry for <hi rend="str">state</hi> ^mounted^ service would most respectfully state to your Honor that the Counties of Breathitt, Owsley, Perry, and Letcher but more particul<hi rend="str">l</hi>arly the County of Breathitt are now without any protection whatever. and the union men of said County<hi rend="underline"><hi rend="sup">s</hi></hi> have nearly all enlisted and gone into the army of the U S <hi rend="str">Army</hi> and have left their Counties and homes unprotected and to the mercies of the Rebels, who have robbed them of every thing we had took all of our Stock Corn &amp; Hay in short taken all we had and have st<hi rend="str">u</hi>ooped so low as to strip our wives and Children of their wearing clothes, and in ther present Condition must now starve to death, and have their Houses burned unless your honor will send us some protection, now we therefore would most earnestly pray your Honor to grant us Some releif and all we want is to be armed and equipt in good stile and then send us back to the <hi rend="underline">mountains</hi> from whence we came and we will protect the Countys above mentioned and our own homes. grant us this one request and it is all we ask,
+<lb/>Irvine Ky <date when="1863-02-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> February 1863</date></p>
+<p>J C Eversole majr
+<lb/><unclear/> Battalion 14<hi rend="sup">th</hi> Ky
+<lb/>cavalry commanding<pb/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>thomas Amis capt
+<lb/>John Amis 1st Lutenant
+<lb/>Wilie Amis Second
 <lb/>James Eversole Liut
-<lb/>Wm B Eversole Capt
-<lb/>Thomas Johnson 1st Lieut
-<lb/>Abner Eversole 2nd Lieut
-<lb/>William Shanes Capt
-<lb/>Andrew Herd Capt
-<lb/>Thomas Johnson 1st Liuet
-<lb/>John Little citisen
-<lb/>Harvey Lucas citisen
+<lb/>Wm B Eversole Cap,t
+<lb/>Thomas Johnson 1st Liut
+<lb/>Abner Eversole 2nd Liut
+<lb/>William Strong Capt
+<lb/>Andrew Herd capt
+<lb/>Thomas Johnson 1.st Lieut
+<lb/>John Little Citisen
+<lb/>Harvey Lucas Citisen
 <lb/>Anderson C,, Eversole Seg
-<lb/>Absolum Maintort
-<lb/><unclear>Pelley</unclear> Short
+<lb/>Apsolm M<hi rend="str">a</hi>cintosh
+<lb/>Riley Short
 <lb/>Alen R Hensley
 <lb/>Joseph Campbell
 <lb/>Samuel Couch
@@ -84,25 +92,25 @@
 <lb/>green Haladay
 <lb/>Abigah Smith
 <lb/>Franklin Johnson
-<lb/>Harison Fields Capt
+<lb/>Harison Field Capt
 <lb/>William Mosley
 <lb/>Lewis Smith
 <lb/>William Bishop
 <lb/>David Wilder
 <lb/>John Winkler
 <lb/>Sampson Couch
-<lb/>James A Knon
+<lb/>James A Knorr
 <lb/>John Harvey
 <lb/>M B Mosley
 <lb/>Elijah Cough
 <lb/><cb n="2"/>James Jessee
-<lb/>J, W, York
+<lb/><hi rend="underline">J, W</hi>, York
 <lb/>M. B. Woodward
-<lb/>John L Williams
-<lb/>Samuel Dawson
-<lb/><unclear/> Marred
+<lb/>John, L. Williams
+<lb/>Samuel Dawison
+<lb/>Larkin Murrell
 <lb/>James Parker
-<lb/>Logan Habker
+<lb/>Logan Hacker
 <lb/>Edward Marcum Lt
 <lb/>Jocah Rice
 <lb/>A B M<hi rend="sup">c</hi>guire
@@ -115,86 +123,86 @@
 <lb/>Samuel Johnson
 <lb/>Issac Boothe
 <lb/>Patrick Napier
-<lb/>William M <unclear/>
-<lb/>Jos <unclear/> Hoskins
+<lb/>William M Jones
+<lb/>John hoskins
 <lb/>John C Strong
-<lb/>Frankin Gadd
+<lb/>Franklin Garad
 <lb/>Jesse Gaye
-<lb/>G W <unclear/>
+<lb/>G M <unclear/>
 <lb/>Nelson Barger
-<lb/>Jonathan T tyson
-<lb/>Isaac Smith
-<lb/>Thos Tottern
-<lb/>Thos Campbell
+<lb/>Jonathan T. tyson
+<lb/><hi rend="underline">Isaac Smith</hi>
+<lb/>Tho<hi rend="sup">s</hi> <unclear/>
+<lb/>Tho<hi rend="sup">s</hi> Campbell
 <lb/>Lewis Cole
-<lb/>John Cole S, O, O,<pb/>
+<lb/>John Cole s, o, c,<pb/>
 <lb/><cb n="1"/>Daniel Duff
 <lb/>Washington Notler
 <lb/>William Campbell
-<lb/>Daniel Flinchem
+<lb/>Daniel Flinchum
 <lb/>Samuel Spicer
-<lb/>Samuel Morgan
-<lb/>Perry Bishop
+<lb/>Samuel Mareyan
+<lb/>perry Bishop
 <lb/>Wesley turner
 <lb/>Car helton
 <lb/>Alfred Little
 <lb/>William Smith
 <lb/>Wilis Sandlin
-<lb/>Anderson Surrey
-<lb/>Alfred <unclear/>
-<lb/>Morgan Hensley
-<lb/>Jesse Spoon
+<lb/>Anderson surrey
+<lb/>Alfred Amis
+<lb/>Mareyan Hensley
+<lb/>Jesse Spicer
 <lb/>Albert Stamper
-<lb/>Leander Hamblin
+<lb/>Leander Hamblen
 <lb/>E: W Smith
-<lb/>Delany Banger
+<lb/>Delany Barger
 <lb/>N. E. Arowood
 <lb/>Jesse Couch 
-<lb/>Wm J Arrowood
+<lb/>Wm F Arrowood
 <lb/>D Deaton
 <lb/>J C Duff
 <lb/>David Huff
-<lb/>Jesse P Turner
+<lb/>Jesse. P. Turner
 <lb/>Hugh Combs
 <lb/>Preston Turner
 <lb/>James Baker
 <lb/>Benj M<hi rend="sup">c</hi>Intosh
-<lb/>Alex Bishop
-<lb/><cb n="2"/>Abraham Winter
-<lb/><unclear/> Reynolds
-<lb/>Vard McIntosh
+<lb/>Alex.- Bishop
+<lb/><cb n="2"/>Abraham MCintos
+<lb/>Meridy Reynolds
+<lb/>Vand McIntosh
 <lb/>Squire Bishop
 <lb/>William stapleton
-<lb/>Simison Harper
+<lb/>Jimison Harper
 <lb/>Jesse Turner
 <lb/>Wm Mays
-<lb/>Charles elkton
+<lb/>Charles <unclear/>ton
 <lb/>Levi Calf
-<lb/>Anderson Clink
-<lb/>Alexander g. Duff
+<lb/>Anderson Clark
+<lb/>Alexande G. Duff
 <lb/>John S Morris
-<lb/>Hiram Campbell
+<lb/>Hiram Campbel
 <lb/>George W Baker
 <lb/>thomas morris
-<lb/>A B Major
+<lb/>O R Moyres
 <lb/>John Bishop
-<lb/>Jackson gabber
+<lb/>Jackson gabberd
 <lb/>Jno Blake
 <lb/>John Gilbert
 <lb/>James Hadox
-<lb/>G W Colins
+<lb/>J W Colins
 <lb/>Geo morgan
 <lb/>Enoch Combs
 <lb/>Henry Collins
-<lb/>Preston Comb
-<lb/>Thomas Morrison
-<lb/>Silvester Isaacs 1st Lt
-<lb/>Alfred Marcer<pb/></p>
-<p><milestone unit="column" n="1"/>Irvine Ky
+<lb/>Preston Campbell
+<lb/>Thomas Marcum
+<lb/>Silvester Isaacs 1<hi rend="sup">st</hi> Lt
+<lb/>Alfred Marcum<pb/></p>
+<p><milestone unit="column" n="1"/>Irvine Ky,
 <lb/><date when="1863-02-05">Feby 5/63</date>.<figure type="hr"/>
 <lb/>Eversole J. C.
-<lb/>Major 14<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavly<figure type="hr"/></p>
-<p>Unprotected condition of Breathitt and other Cos.<figure type="hr"/></p>
+<lb/>Major 14<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Cav<hi rend="sup">y</hi>.<figure type="hr"/></p>
+<p>Unprotected condition of Breathitt and other Co's.<figure type="hr"/></p>
 <p>Military
 <lb/>Pettn of 2 &amp; 3 Battn
 <lb/>14 Cavalry</p>

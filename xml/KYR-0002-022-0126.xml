@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0126"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,19 +64,19 @@
  <text>
   <body>
    <p>(Confidential)
-<lb/>Maysville Ky <date when="1863-10-19">Oct. 19<hi rend="sup">th</hi> 1863</date>
+<lb/>Maysville Ky <date when="1863-10-19">Oct. 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
 <lb/>His Excellency
-<lb/>Govr Bramlette.
-<lb/>Frankfort Ky
-<lb/>D<hi rend="sup">r</hi>. Sir</p>
-<p>There is an unfortunate state of things in the county of Lewis, adjoining this, requiring the greatest prudence in its management. We understand that efforts are being made to organize the state guard, in that county and that your Excellency will be applied to for the immediate appointment of Col. &amp; Lt. Col. We would respectfully suggest to you, that as your acquaintance with the people of that county is limited, that you withhold the appointment of there officers until you can learn something of the applicants from persons upon whom you ought to rely-</p>
-<p>The undersigned F. B. Trussell is a native of and recently a resident of that County, and is aware of the troubles that exist there &amp; of the necessity of having men of the very highest character, courage &amp; prudence to fill the military stations in the county. He is also deputy provost Marshal for 8 counties of this Congressional dsitrict, the county of Lewis being one of them. Today he telegraphed your Excellency that Thomas J Walker &amp; Amos Means of that County<pb/>
-<lb/>were excellent men for the places of Col &amp; Lieut Col. if they would accept. We both concur in the recommendation_ but do not know whether they would accept_ and intend to see them about the matter. Unless some such men are had for the places we anticipate trouble. Lieut. A. J. Farrow late of the 10. Ky Cavalry will recruit a company in that county for the state guard. He will make a good captain.</p>
-<p>We take the liberty of enclosing to you a letter from W. C. Halbert an esteemed citizen of that county to H. Taylor touching the matters of which we have been writing. From it, you will learn <hi rend="str">permit</hi> ^to some extent^ the nature of the troubles in that county. The persons alluded to in the letter of M<hi rend="sup">r</hi> Halbert are good men,, one of them (Farrow) the same alludes to above. We both think however that if Walker &amp; Means will consent to serve, their appointment will give universal satisfaction, except to the extreme radicals, who are as dangerous to the peace the country as the rebels themselves as we are some times led to believe..</p>
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramlette.
+<lb/>Frankfort, Ky
+<lb/>D<hi rend="underline"><hi rend="sup">r</hi></hi> Sir</p>
+<p>There is an unfortunate state of things in the county of Lewis, adjoining this, requiring the greatest prudence in its management. We understand that efforts are being made to organize the state guard, in that county and that your Excellency will be applied to for the immediate appointment of Col. &amp; Lt. Col. We would respectfully suggest to you, that as your acquaintance with the people of that county is limited, that you withhold the appointment of these officers until you can learn something of the applicants. from persons upon whom you ought to rely-</p>
+<p>The undersigned F. B, Trussell is a native of and recently a resident of that county, and is aware of the troubles that exist there &amp; of the necessity of having men of the very highest character, courage &amp; prudence to fill the military stations in the county -- He is also deputy provost Marshal<hi rend="str">l</hi> for 8 counties of this congressional district, the county of Lewis being one of them.. To day he telegraphed your Excellency that Thomas J Walker &amp; Amos Means of that county<pb/>
+<lb/>were excellent men for the places of Col &amp; Leuit Col. if they would accept- We both concur in the recommendation- but do not know whether they would accept- and intend to see them about the matter- Unless some such men are had for the places we anticipate trouble- Lieut. A. J. Farrow late of the 10. Ky Cavalry will recruit a company in that county for the state guard- He will make a good captain-</p>
+<p>We take the liberty of enclosing to you a letter from W. C. Halbert an esteemed citizen of that county to H. Taylor touching the matters of which we have been writing. From it, you will learn <hi rend="str">permit</hi> ^to some extent^ the nature of the troubles in that county. The persons alluded to in the letter of M<hi rend="underline"><hi rend="sup">r</hi></hi> Halbert= are good men,, one of them (Farrow) the same alludes to above. We both think however that if Walker &amp; Means will consent to serve, their appointment will give universal satisfaction, except to the extreme radicals, who are as dangerous to the peace the country as the rebels themselves as we are some times led to believe..</p>
 <p>We are very Respectfully
 <lb/>Your Obt Servts.
-<lb/><hi rend="underline">H. Taylor</hi>
-<lb/><hi rend="underline">F. B. Trussell</hi></p>
+<lb/><hi rend="underline">H, Taylor</hi>
+<lb/><hi rend="underline">F, B, Trussell.</hi></p>
   </body>
  </text>
 </TEI>

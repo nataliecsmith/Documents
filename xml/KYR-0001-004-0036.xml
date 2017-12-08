@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0036"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Sarah Bartley et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">Sarah Bartley to Unknown</title>
     <title level="a" type="parallel">CWG4155</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,29 +63,29 @@
  <text>
   <body>
    <p>To the Honorable, The Governor of the State of Kentucky.</p>
-<p>Your Petitioner respectfuly represents that she is the wife of William Bartley, lately convicted by the Mason County Court, now in the Penitentiary at Frankfort, Kentucky, that she, with two small children, have been left without any means of support whatever &amp; that her health does not admit of her working for a living</p>
-<p>She further represents, that, though in this instance her husband may have erred and deserved punishment, yet he has always been kind to his family &amp; supplied them with the necessaries of life</p>
-<p>The present, is the first time, that she has ever heard him charged with theft &amp; so far as she knows, he has heretofore bourn a good character for honesty.</p>
+<p>Your Petitioner respectfully represents that she is the wife of William Bartley, lately convicted by the Mason County Court, now in the Penitentiary at Frankfort, Kentucky, that she, with two small children, have been left without any means of support whatever &amp; that her health does not admit of her working for a living</p>
+<p>She furthur represents, that, though in this instance her husband may have erred and deserved punishment, yet he has always been kind to his family &amp; supplied them with the necessaries of life</p>
+<p>The present, is the first time, that she has ever heard him charged with theft &amp; so far as she knows, he has heretofore bourn a good character for honesty,</p>
 <p>She earnestly asks you to remember mercy, if not for his sake, at least for her sake &amp; for the sake of her two children &amp; grant him a pardon, in order that he may return home.</p>
-<p>Attest John M Cagen
-<lb/>Sarah ^her x mark^ Bartley</p>
-<p>The undersigned, represent that they are personally acquainted with William Bartley &amp; his wife Sarah Bartley and believe the statements made by her to be true or substantially true</p>
+<p>Sarah ^her X mark^ Bartley</p>
+<p>Attest
+<lb/>John M Cagen</p>
+<p><hi rend="str">We,</hi>The undersigned, represent that they are personally acquainted with William Bartley &amp; his wife Sarah Bartley and believe the statements made by her to be true or substantially true</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>John Thompson
-<lb/>John ^his x mark^ Furnel
-<lb/><cb n="2"/>
-<lb/>Jas S Harding
-<lb/>W<hi rend="sup">m</hi> Hood
+<lb/>John ^his X mark^ Fennel
+<lb/><cb n="2"/>Jas S Harding
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Hood
 <lb/>J M Justus
-<lb/>J. H. Thompson<milestone unit="column" n="1"/><pb/>
-<lb/>Lewis C Halliday
-<lb/>John P. Parker
-<lb/>William P. Marshall
+<lb/>J, H. Thompson<milestone unit="column" n="1"/><pb/>
+<lb/>Lewis c Halliday
+<lb/>John, P, Parker-
+<lb/>William. P. Marshall
 <lb/>George Thompson
-<lb/>Benj<hi rend="sup">n</hi> Smith
-<lb/>E. H. Morgan
-<lb/>Chambers Sharn
-<lb/>William Sowers
-<lb/>John Y. Crosby
+<lb/>Benj<hi rend="underline"><hi rend="sup">n</hi></hi> Smith
+<lb/>E, H, Morgan
+<lb/>Chambers Shaw
+<lb/>William, Sowers
+<lb/>John. Y. Crosby
 <lb/>E D Williams</p>
   </body>
  </text>

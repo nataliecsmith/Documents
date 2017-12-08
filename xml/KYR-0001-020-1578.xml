@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1578"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,8 +65,8 @@
   <body>
    <p>Midway <date when="1861-12-14">December 14<hi rend="sup">th</hi> 1861</date>
 <lb/>To His excellency
-<lb/>The Honorable Beriah Magoffin governor of the Commonwealth of kentucky</p>
-<p>you petitioners would Respectfully implore your Clemency in the case of John Ryan and peter senate. convicted and fined 50 Dollars and cost ^each^ for selling whiskey to slaves ^in the Town of Midway, Woodford County^ your petitioners Have every Reason to believe. that the object of the informers ^is^ to make money and it was proven that Ryan was not at Home and His wife give the whiskey the negro. presing His mision. as one of necesity.. M<hi rend="underline"><hi rend="sup">r</hi></hi> Ryan is a poor man the father of seven children. and is now in jail. would pay the fine if posible. but Has not the means, His wife is in Bad Health, expecting confinement every Day, and they are Distitute. His labor being all the support. we earnestly beseech your excellency. as an act of Humanity, and Charity. to Remit the above fines</p>
+<lb/>The Honorurable Beriah Magoffin governor of the Commonwealth of Kentucky</p>
+<p>your petitioners would Respectfully implore your Clemency in the Case of John Ryan and peter senate. convicted and fined 50 Dollars and cost ^each^ for selling whiskey to slaves ^in the Town of Midway, Woodford County^ your petitioners Have every Reason to believe, that the object of the informers ^is^ to make money and it was proven that Ryan was not at Home and His wife give the whiskey the negro. presing His mision, as one of necesity, M<hi rend="underline"><hi rend="sup">r</hi></hi> Ryan is a poor man the father of seven children. and is now in gail, would pay the fine if posible but Has not the means, His wife is in Bad Health, expecting confinement every Day, and they are Distitute. His labor being all the support, we earnestly beseech your Excellency, as an act of Humanity, and Charity, To Remit the above fines</p>
 <p>Wm. N. Thomasson
 <lb/><hi rend="str">Wm <unclear/> Buford
 <lb/></hi>John Coyle
@@ -73,11 +76,11 @@
 <p>The above is a true sate of the case<pb/></p>
 <p>Respite 12 mo
 <lb/>B. M.</p>
-<p>Midway Po. Ct
-<lb/>$50. each } liquor to slaves
-<lb/>Jno. Ryan
+<p>Midway Po. ct
+<lb/>&#36;50. each &#125; liquor to Slaves
+<lb/>Jno. Ryan.
 <lb/>Peter Senate
-<lb/>Iss<hi rend="sup">d</hi> <date when="1861-12-13">Dec<hi rend="sup">r.</hi> 13. 1861</date></p>
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-12-13">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 13. 1861</date></p>
   </body>
  </text>
 </TEI>

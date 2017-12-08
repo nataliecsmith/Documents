@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0594"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Logan County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -61,25 +63,25 @@
  <text>
   <body>
    <p>Gov Thos. E. Bramlitt</p>
-<p>The undersigned state that they are acquainted with Obediah Smith a resident of this Logan County Kentucky and Know him to be a prudent hard working industrious and good citizens and as we have understood that he has been severity for the appearance of his son Samuel Smith at the last Term of the Circuit Court to answer charges prefered against him and also that the Bail amounting to $450.<hi rend="underline"><hi rend="sup">00</hi></hi> 2 cases one $200 &amp; the other $250 has been forfeited by the non-appearance of the aforesaid Sam Smith We therefore petition your Honor to release the aforesaid Obediah Smith from Said bail because the said Smith property will not sell if sold now for more than $400<hi rend="underline"><hi rend="sup">00</hi></hi> and will leave him to support his family in these hard times without means to do it with and it will turn out an industrious and honest citizen upon the cold charities of an <hi rend="str">uncharitable</hi>unfeeling world to suffer beg &amp; Starve</p>
-<p>They state farther that nothing but a kind heart &amp; love for his wayward son believing him to be innocent has induced this old man to risk his loosing his home &amp; happiness and that he has now two sons in the Federal army battling for what they deem to be right We trust that your Honor will find it in accordance with your<pb/>
+<p>The undersigned state that they are acquainted with Obediah Smith a resident of this Logan County Kentucky and Know him to be a prudent hard working industrious and good citizens and as we have understood that he has been security for the appearance of his son Samuel Smith at the last Term of the Circuit Court to answer charges prefered against him and also that the Bail amounting to &#36;450,<hi rend="underline"><hi rend="sup">00</hi></hi> 2 cases one &#36;200 &amp; the other &#36;250 has been forfeited by the non-appearance of the aforesaid Sam Smith We therefore petition your Honor to release the aforesaid Obediah Smith from Said bail because the said Smith's property will not sell if sold now for more than &#36;400<hi rend="underline"><hi rend="sup">00</hi></hi> and will leave him to support his family in these hard times without means to do it with and it will turn out an industrious and honest citizen upon the cold charities of an <hi rend="str">uncharitable</hi>unfeeling world to suffer beg &amp; Starve</p>
+<p>They state farther that nothing but a kind heart &amp; love for his wayward son believing him to be inno<hi rend="str">s</hi>cent has induced this old man to risk his living his home &amp; happiness and that he has now two sons in the Federal army battling for what they deem to be right We trust that your Honor will find it in accordance with your<pb/>
 <lb/>duties as executive of this Commonwealth to release him entirely from the Bail or at least the greater part of it yours</p>
 <p>W W Smith
-<lb/>G, H, Glassgow
+<lb/>J, H, Glassgow
 <lb/>Las G Guffey
-<lb/>S. Z,, Hutcheson
-<lb/>W. C. Matlock
+<lb/>S, Z,, Hutchison
+<lb/>W. A. Matlock
 <lb/>J H Sawyer
-<lb/>R. Grintoe
-<lb/>G. M. Farmer
+<lb/>R,. Grintoe
+<lb/>G, M, Farmer
 <lb/>J, P, Ferguson
 <lb/>R L Allison
-<lb/>F W Covington
+<lb/>P W Covington
 <lb/>W N Roberts
 <lb/>A P Mansfield
-<lb/>R R M<hi rend="sup">c</hi>Mellene
+<lb/>R R M<hi rend="sup">c</hi><unclear/>
 <lb/>thomas Sanders
-<lb/>James M Gilsner
+<lb/>Jams M Gilmer
 <lb/><hi rend="str">Elli </hi>J A Williams
 <lb/>Dabner Collins
 <lb/>J M Henderson

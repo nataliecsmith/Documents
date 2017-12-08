@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0049"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,16 +64,16 @@
  <text>
   <body>
    <p><date when="1863-09-12">Louisville Sep. 12. 1863</date>
-<lb/>Gov. Bramblette</p>
-<p>Sir,</p>
-<p>This will introduce to you my brother Dr. Jacob &amp; James Cornell who will bring you a petition and hope you will give it a favorable consideration.</p>
+<lb/>Gov. Bramblette
+<lb/>Sir,</p>
+<p>This will introduce to you my brother D<hi rend="underline"><hi rend="sup">r</hi></hi> Jacob &amp; James Cornell who will bring you a petition and hope you will give it a favorable consideration.</p>
 <p>respectfully,
 <lb/>Richard T. Jacob</p>
 <p>Gov Bramlette
 <lb/>D Sir</p>
-<p>I am personally acquainted with Jas. Cornell Esq and know him to be an honest upright clever young man -- you can rely upon his statements. I know nothing of his case. But I believe in fact know him to be a law abing citizen</p>
+<p>I am personaly acquanted with Jas. Cornell Esq and know him to be an honest upright clever young man -- you can rely upon his statements, I know nothing of his case, But I belive, in fact know him to be a law abing citizen</p>
 <p>Respy
-<lb/>Robrt A Hamilton</p>
+<lb/><hi rend="underline">Robt A Hamilton</hi></p>
   </body>
  </text>
 </TEI>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0123"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">J. W. Cardwell to Beriah Magoffin et al.</title>
+    <title level="a" type="main">John W. Cardwell to Beriah Magoffin et al.</title>
     <title level="a" type="parallel">CWG12046</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,17 +63,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Harrodsburgh Ky
+   <p>Harrodsburg Ky
 <lb/><date when="1861-06-04">4th June 1861</date>
-<lb/>Gov. Magoffin S. Gill Dr Peyton Geo. L. Woods &amp; Genl Dudley
+<lb/>Gov. Magoffin S. Gill D<hi rend="sup">r</hi> Peyton Geo. T. Woods &amp; Genl Dudley
 <lb/>Com of Ky for Destributing Arms
 <lb/>Gent</p>
-<p>Referring you to accompanying Certificate of Presiding Judge showing that We Were organized under recent act of Asembly I make application for 100 stand of arms and &amp;c &amp; would like to have the Minnis rifle if on hand.</p>
-<p>Please give my application a favourable consideration<pb/></p>
+<p>Refering you to accompanying Certficate of Presiding Judge showing that we have organized under recent act of Asembly. I make application for 100 stand of arms and &amp;C, &amp; would like to have the Minnis rifle if on hand.</p>
+<p>Please give my application a favourable Consideration<pb/></p>
 <p>Please let me be informed of your decesion</p>
 <p>Very Respy
 <lb/>J. W. Cardwell
-<lb/>Capt. home Guard
+<lb/>Capt. Home Guard.
 <lb/>Harrodsburg
 <lb/>Ky</p>
 <p>My Company will soon reach 100 men</p>

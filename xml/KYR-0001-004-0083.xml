@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0083"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,8 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Jefferson County, Kentucky</placeName>
-    <date when="1863-08-31">31 August 1863</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -60,22 +62,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Thomas E. Bramlette Governor of Kentucky.</p>
-<p>Your petitioner James Harris Robert F. David and Jonathan H. Price most respectfully state that at the <date when="--01">January</date> Term of Jefferson Circuit they were taken as Bail for one Andrew Braden, who was indicted for Larceny. The ^Bond^ was three Hundred Dollars. Said Braden was a youth, and a soldier in the U.S. Army 2<hi rend="sup">nd</hi> Regiment Ohio Voluneteers. The charge against him, <hi rend="underline">Stealing a Pistol</hi>, from a fellow soldier. We refer to the statement of the Examining Justice appended hereto for the facts of the case. It will be perceived that Braden had never conceled the pistol; But had carried it openly for several days. The Justice out of abundant caution required him to appear and answer at the Circuit Court. Believing him to be perfectly innocent of crime, and thinking the country needed the services of as many men as could be obtained, and sympathising with his youth, your petitioners became his Bondsmen. We have not heard from young Braden since, but have reasons to believe that he went into his country's service again, and whether he is dead or alive they are unable to state. His Bond was forfeited and a judgement rendered against us and execution stayed that we might make our appeal to the justice and clemency of the Governor of the Commonwealth -- &amp;#9758;<pb/>
-<lb/>Believing therefore that it is a case in which the Executive might most properly exercise his prerogative, we most respectfully ask that a <hi rend="underline">Remission of the Forfeiture</hi> be granted; and as is duty bound will ever pray &amp;c -- </p>
+   <p>To His Excellency Thomas E. Bramlette Governor of Kentucky-</p>
+<p>Your petitioners James Harris Robert F. Baird and Jonathan H. Price most respectfully state that at the <date when="--01">January</date> Term of Jefferson Circuit they were taken as Bail for one Andrew Braden, who was indicted for Larceny- The ^Bond^ was three Hundred Dollars- Said Braden was a youth, and a soldier in the U.S. Army 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Regiment Ohio Volunteers. The charge against him, <hi rend="underline">Stealing a Pistol</hi>, from a fellow soldier. We refer to the statement of the Examining Justice appended hereto for the facts of the case. It will be perceived that Braden had never concealed the pistol; But had carried it openly for several days- The Justice out of abundant caution required him to appear and answer at the Circuit Court. Believing him to be perfectly innocent of crime, and thinking the country needed the services of as m<hi rend="str">en</hi>any men as could be obtained, and sympath<hi rend="str">s</hi>ising with his youth, your petitioners became his Bondsmen. We have not heard from young Braden since; but have reasons to believe that he went into his country's service again, and whether he is dead or alive they are unable to state. His Bond was forfeited and a judgement rendered against us and execution stayed that we might make our appeal to the justice and clemency of the Governor of the Commonwealth -- <note place="footer">&amp;#9758; - -- - </note><pb/>
+<lb/>Believing therefore that it is a case in which the Executive might most properly exercise his prerogative, we most respectfully ask that a <hi rend="underline">Remission</hi> <hi rend="underline">of</hi> <hi rend="underline">this</hi> <hi rend="underline">Forfeiture</hi> be granted; and as is duty bound will ever pray &amp;c -- </p>
 <p>James Harris
 <lb/>Robert F Baird
 <lb/>Jonathan H. Price</p>
-<p>I was one of the Examining Justices in this case but have not the testimony before me it having been lost in the Circuit Court. But from what I now recollect of the case I dont think there was much of it Braden was found with a pistol that another person said had been stated. Braden had had it for several days but had made no concealment of it. We held him over thinking there was probable cause, he was a soldier, and I am told went back to his Reg where he is now if not dead I think under all the circumstances the bail should be remited, as the army got the benefit of it as it sent the soldier back to his post.</p>
-<p>Jos Clement Justice of the peace Jeff Co K.Y.
-<lb/><date when="1863-08-31">Aug 31 1863</date><pb/></p>
+<p>I was one of the Examining Justices in this case but have not the testimony before me it having been lost in the Circuit Court But from what I now reccollect of the case I dont think there was much of it Bradeon was found with a pistol that another person said had been stolen. Braden had had it for several days but had made no concealment of it. We held him over thinking there was probable cause, he was a soldier, and I am told went back to his Reg where he is now if not dead I think under all the circumstances the bail should be remited, as the army got the benefit of it as it sent the soldier back to his post;</p>
+<p>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> Clement Justice of the peace Jeff Co K.Y.</p>
+<p><date when="1863-08-31">Aug 31 1863</date><pb/></p>
 <p>Jefferson Cir C
 <lb/>vs
-<lb/>Harris, Baird &amp; price
-<lb/>$300 -- </p>
-<p>Harris Baird &amp; Price Pets for remission of forfeiture</p>
-<p>Remit all except fees of officers &amp; costs &amp;c
-<lb/><date when="1863-09-14">Sept 14th 1863</date></p>
+<lb/>Harris, Baird &amp; Price
+<lb/>&#36;300 -- </p>
+<p>Harris- Baird &amp; Prices Pets for remission of forfeiture</p>
+<p>Remit all except fees of officers &amp; costs -- &amp;c</p>
+<p><date when="1863-09-14">Sept 14<hi rend="sup">th</hi> 1863</date></p>
   </body>
  </text>
 </TEI>

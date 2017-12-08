@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1519"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Simeon Growmamier et al. to Beriah Magoffin</title>
+    <title level="a" type="main">Simeon Growmamier to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG10987</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Owen County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -60,22 +62,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Beriah M<hi rend="sup">c</hi>Goffin Governor of Ky your petitioner <hi rend="str"><unclear/></hi> Simeon Grumamier respectfully represents that at the last May Term of the Owen Circuit court he was indicted for selling some whiskey to a boy who was under the age of 21 years and at the present <date when="1861-11">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> Term 186</date>1 of said Court your petitoner under advice plead guilty to the indictment and his fine was assessed to $50 and a judgt rendered therefor -- He says that he was altogether ignorant that such a law existed but in fact he did not sell the liquor to the boy: the boy asked for the whiskey alledging that he had been sent to get it by his father to put in a camphor bottle but your petitioner refused to let him have it and went out on his farm to work and in his abscence the boy previaled on the wife of petitioner who finally let him have it, and this is the whole offence:</p>
+   <p>To his <hi rend="str">Ca</hi>Excellency Beriah M<hi rend="sup">c</hi>Goffin Governor of Ky your petitioner <hi rend="str"><unclear/></hi> ^Simeon^ Grumamier respectfully represents that at the last <date when="1861-05">May</date> Term of the Owen Circuit Court he was indicted for selling some whiskey to a boy who was under the age of 21 years and at the present <date when="1861-11">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> Term 1861</date> of said Court your petitoner under advice plead guilty to the indictment and his fine was assessed to &#36;50 and a judgt rendered therefor -- He says that he was altogether ignorant that such a law existed but in fact he did not sell the liquor to the boy: the boy asked for the whiskey alledging that he had been sent to get it by his father to put in a camphor bottle but your petitioner refused to let him have it and went out on his farm to work and in his abscence the boy previaled on the wife of petitioner who fnially let him have it, and this is the whole offence:</p>
 <p>Your petitioner is poor &amp; the payment of this money will greatly embarrass him and he considers the circumstances such as justifies the interposition of the Executive and he prays for a remission of said fine &amp; he will &amp;C.</p>
 <p><hi rend="underline">Simeon Growmamier</hi></p>
-<p>We ask the Governor to grant the prayer of the above petition -- </p>
+<p>We ask the Governor to grant the prayer of the above petition-</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>W H Sandford Clk
-<lb/>J. B. Mordoff
-<lb/><cb n="2"/>Tho<hi rend="sup">s</hi>. A. Berryman
+<lb/>J, B, Mordoff
+<lb/><cb n="2"/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> A. Berryman
 <lb/>J A Duncan C<hi rend="underline"><hi rend="sup">o</hi></hi> Atty
-<lb/>P. U. Major Com'th Atty
+<lb/>P. U. Major Com'ths Atty
 <lb/>E F Nuttall<milestone unit="column" n="1"/><pb/></p>
-<p>Owen Cir. Ct.
-<lb/>S. Grumamier Petition<figure type="hr"/></p>
+<p>Owen Cir. ct
+<lb/>S. Grumamier 
+<lb/>petition<figure type="hr"/></p>
 <p>Remitted
 <lb/>B.M</p>
-<p>$50 } liquor to a minor
-<lb/>Iss<hi rend="sup">d</hi>. <date when="1861-11-19">Nov 19. 1861</date></p>
+<p>&#36;50. &#125; liquor to a minor
+<lb/>Issd <date when="1861-11-19">Nov 19. 1861</date></p>
   </body>
  </text>
 </TEI>

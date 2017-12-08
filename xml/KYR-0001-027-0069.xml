@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0069"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,26 +62,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency the
-<lb/>Governor of Ky</p>
-<p>The undersigned would respectfully recommend the Hon Albert A Curtis, as a gentlemen every way qualified to fill the office of agent, to receive monies from soldiers in service and transmit the same to their families -- His appointment would give great satisfaction. </p>
-<p>W. C. Ireland
+   <p>To his Excellency the Govenor of Ky</p>
+<p>The undersigned would respectfully recommend the Hon Albert A Curtis, as a gentlemen every way qualified to fill the office of agent, to receive monies from soldiers in service and transmit the same to their families-- His appointment would give great satisfaction. </p>
+<p><hi rend="underline">W. C. Ireland</hi>
 <lb/>F. L. Cleveland
 <lb/>Granville Pearl
 <lb/>Thos J. Frazier
-<lb/>Harrison Cockrill
+<lb/>Harrison Cockrell
 <lb/>H S Powell
-<lb/>C. F. Burnam
+<lb/><hi rend="underline">C. F. Burnam</hi>
 <lb/>Alex Lusk
 <lb/>Alex T White
 <lb/>D. W. Johns
 <lb/>E B Bacheller
 <lb/>W. C. Gilliss
-<lb/>Alhijah Gilbert<pb/></p>
-<p><unclear>Recomd</unclear>
-<lb/>of
-<lb/>Recieving Soldiers
-<lb/>Money -- </p>
+<lb/>Abijah Gilbert<pb/></p>
+<p><unclear>Recom</unclear> of Recieving Soldiers Money -- </p>
   </body>
  </text>
 </TEI>

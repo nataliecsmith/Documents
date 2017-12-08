@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0039"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">J. R Hampton and W. T. Casaday to Unknown</title>
+    <title level="a" type="main">J. R. Hampton and W. T. Casaday to Jeremiah T. Boyle</title>
     <title level="a" type="parallel">CWG1272</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,13 +63,12 @@
  <text>
   <body>
    <p><date when="1862-09-18">Sept the 18th 1862</date></p>
-<p>To the honor of Gov Boil we wish to inform your honor of the conduct and treatment of the so called 3 months men of Oldham CO Ky about 25 men in No with R. J. Sparks as there Captain came to us &amp; have taken one horse saddle &amp; bridle from J. R. Hampton &amp; also 2 fine mars from W. T. Casaday,, as he ^Sparks^ says under the order of Col Hunt of Lagrange of Ky and as we believe in direct oposition to your own proclimation if you doo not approve of sutch conduct and treatment you will pleas order the sd property to be returned to sd owners immediately;</p>
+<p>To the honor of Gov Boil we wish to inform your honor of the conduct and treatment of the so called 3 months men of Oldham CO Ky about 25 men in No with R. J. Sparks as there Captain came to us &amp; have taken one horse saddle &amp; bridle from J. R. Hampton &amp; also 2 fine mars from W. T. Casaday,, as he ^Sparks^ says under the order of Col Hunt of Lagrange of Ky and as we believe in direct oposition to your own proclimation if you doo not approve of s<hi rend="str">i</hi>utch conduct and treatment you will pleas order the s<hi rend="sup">d</hi> property to be returned to s<hi rend="sup">d</hi> owners immediately;</p>
 <p>Yours Respectfuly
 <lb/>J. R. Hampton
 <lb/>W. T. Casaday<pb/></p>
-<p>Hdqrs
-<lb/>Louisville <date when="1862-09-19">Sept 19/62</date>
-<lb/>Respectfully refd to Adt Genl Finnell
+<p>Hdqrs Louisville <date when="1862-09-19">Sept 19/62</date>
+<lb/>Respectfully refd to Adjt Genl Finnell
 <lb/>By order etc
 <lb/>H C Semple a a a g</p>
   </body>

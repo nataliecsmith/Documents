@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0058"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">D. R. Haggard to Thomas E. Bramlette</title>
+    <title level="a" type="main">David R. Haggard to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG11983</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,20 +66,21 @@
    <p>Louisville
 <lb/><date when="1864-06-23">June 23 1864</date>
 <lb/>Gov. T E Bramlette
-<lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>Edwin Vincent who is the bearer of this letter was one my Leiutenants in the old 5<hi rend="sup">th</hi> Ky -- And conducted himself with merit in the Camp on march and in all the trying incidents of my campaign- Showing entire willingness to lead his men when duty called him, regardless of danger &amp; fatigue -- He will give you the particulars of the condition of our country at this junction. He wants to raise one hundred men Which when done can clean out that country_ and keep it so. If it is your purpose to raise any force at all -- at this time He can raise the new and will load them to the point- And Captain those I can not also our town was striped in less than one week after Wetherford left</p>
+<lb/>D<hi rend="sup">r</hi>. Sir</p>
+<p>Edwin Vincent who is the bearer of this letter was one my Lieutenants in the old 5<hi rend="underline"><hi rend="sup">th</hi></hi> Ky -- And conducted himself with credit in the camp on march and in all the trying incidents of my campaign- showing entire willingness to lead his men when duty called him, regardless of danger &amp; fatigue- He will give you the particulars of the condition of our country at this juncture. He wants to raise one hundred men which when done can clean out that country -- and keep it so- If it is your purpose to raise any force at all -- at this time He can raise the men and will lead them to the point- and capture those scoundrals -- our town was striped in less than one week after Witherford left</p>
 <p>Respectfully
 <lb/>D R Haggard<pb/></p>
 <p>Ky State Guard.
 <lb/>Louisville Ky. <date when="1864-06-23">June 23<hi rend="underline"><hi rend="sup">rd</hi></hi> 1864</date><figure type="hr"/>
-<lb/>Cumberlan Co. Vincent Lt
-<lb/>Haggard. D. R.<figure type="hr"/></p>
-<p>To the Gov. and by him referred introduces Edward Vincent, formerly a Lieut in his Reg. the Lieut can give information touching the condition of things in Cumberland County.</p>
-<p>He desires to raise 100 men, which when done can "clean out" that country and keep it so.</p>
-<p>The Lieut can raise the men and with them can capture those scoundrels upon the border.</p>
-<p>Our town (Burksville) was stripped in less than a week after Wetherford left<figure type="hr"/>
-<lb/>Lieut Vincent called in person &amp; obtained authority to raise a State Guard &amp; Co<figure type="hr"/>
-<lb/>Rec. I. G. O. <date when="1864-06-24">June 24 -- 1864</date></p>
+<lb/>Cumberlan co. Vincent Lt
+<lb/>Haggard. D, R.<figure type="hr"/></p>
+<p>To the Gov. and by him referred. introduces Edward Vincent, formerly a Lieut in his Reg. 
+<lb/>the Lieut can give information touching the condition of things in Cumberland County.
+<lb/>He desires to raise 100 men, which when done can "clean out" that Country and keep it so.
+<lb/>The Lieut can raise the men and with them can Capture those scoundrels upon the border.
+<lb/>Our town (Burksville) was stripped in less than a week after Wetherford left<figure type="hr"/></p>
+<p>Lieut Vincent called in person &amp; obtained authority to raise a State Guard Co<figure type="hr"/></p>
+<p>Rec. I. G. O. <date when="1864-06-24">June 24 -- 1864</date></p>
   </body>
  </text>
 </TEI>

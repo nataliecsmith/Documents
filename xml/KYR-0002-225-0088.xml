@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0088"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,7 +63,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>Columbus Ky <date when="1865-01-31">Jan 31<hi rend="underline"><hi rend="sup">st</hi></hi> 1865</date>
+   <p>Columbus Ky <date when="1865-01-31">Jan 31<hi rend="underline"><hi rend="sup">st</hi></hi>-- 1865</date>
 <lb/>to his exelency
 <lb/>Tho<hi rend="sup">s</hi> E Bramlett
 <lb/>Frankfort</p>
@@ -68,18 +71,18 @@
 <p>I hav been solisited by a number of the loyal citizens here to rais and organize a company for that purpos pleas send me a recruiting commission for the same as soon as posable</p>
 <p>I wrote to T. P. Hays our representative to obtain an forward <hi rend="str">t</hi> to me the commission named a bove but I suppose from what I <hi rend="str">sh</hi> hav sinc learned he is too mutch engrossed with his brandy to attend to any thing I am extreamly sorry sutch is the case</p>
 <p>verry Respectfully
-<lb/>Leieut S Tolley<pb/></p>
-<p>P S the Rebes are roaming over this country at their leisure robing all <hi rend="str">to</hi> who hav any thing to be robed of I think I shal be able to obtain armes an amunition if so I shal arm each recruit as soon as he is sworn in so I hope I shal be able to make this region rather warm for small squad of them</p>
-<p>S, Tolley<pb/></p>
+<lb/>Lieu<hi rend="sup">t</hi> S Tolley<pb/></p>
+<p>P S the Rebes are roaming over this country at their leisure robing all <hi rend="str">to</hi> who hav any thing to be robed of I think I shal be a ble to obtain armes an amunition if so I shal arm each recruit as soon as he is sworn in so I hope I shal be able to make this region rather warm for small squad of them</p>
+<p>S. Tolley<pb/></p>
 <p>Columbus Ky
 <lb/><date when="1865-01-31">Jany. 31' 1865</date><figure type="hr"/>
 <lb/>Tolley S.
 <lb/>Lieut.<figure type="hr"/>
 <lb/>To The Gov -- <figure type="hr"/></p>
 <p>Desires authority to raise a Co. of Cavalry for protection of the country west of the Tennessee -- <figure type="hr"/></p>
-<p>on authy
-<lb/>L B. No 10 -- <date when="1865">1865</date> P 480
-<lb/><figure type="hr"/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-02-06">6 Feby 1865</date></p>
+<p>no authy</p>
+<p>L B. No 10-- <date when="1865">1865</date> P 480<figure type="hr"/>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-02-06">6 Feby 1865</date></p>
   </body>
  </text>
 </TEI>

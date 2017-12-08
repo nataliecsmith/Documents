@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1389"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">G. Robertson to Thomas E. Bramlette</title>
+    <title level="a" type="main">George Robertson to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG6026</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,19 +63,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington Ky. <date when="1864-12-01">1<hi rend="sup">st</hi> Dec. 1864</date>
-<lb/>To Gov<hi rend="sup">r</hi>. T. E. Bramlette -- 
+   <p>Lexington Ky. <date when="1864-12-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 1864</date>
+<lb/>To Gov<hi rend="underline"><hi rend="sup">r</hi></hi> T. E. Bramlette -- 
 <lb/>Sir -- </p>
-<p>William H. Keith, a citizen of Massachusetts, enlisted for ^three years,^ in that state <hi rend="str">at</hi> near the beginning of the existing war as a volunteer soldier in the army of the union. He fought under M.Clelland in all his Peninsular battles, and at Antietam, and also fought in several other Battles. His compy. being stationed near Lexington Ky. in <date when="1864-02">Fe<hi rend="sup">by</hi> 1864,</date> he was found on a stolen horse, was indicted for larceny in the Fayette circuit court -- and, on the exparte testimony proving that the horse had been stolen and that he was found riding it, the Grand Jury found a true Bill at the <date when="1864-02-23">February term of s<hi rend="sup">d</hi>. court on the 23<hi rend="sup">rd</hi>. day of that month</date> -- He was arrested on a Bench warrant next day and committed to Jail. The court required Bail in the penalty of $1,000 which Keith being "a stranger in a strange land," was unable to give on the <date when="1864-05-21">21<hi rend="sup">st</hi>. of May 1864,</date> while still in Jail, he volunteered as a substitute in the same army, was bailed out, and is now ^again^ in the United service for three Years from the <date when="1864-05-21">21.<hi rend="sup">st</hi> of May 1864.</date> He is a very intelligent. and apparently Candid man. He protested his innocence, and averred that another soldier in a frolic made him drunk and put him on the horse ^and in that condition the horse was found^ That he was ignorant of the ownerhsip or the stealing of the horse.</p>
-<p>On those facts -- considering the doubtfulness of his guilt and the value of his military services, and especially the fact that he is now a volunteer for three years to fight the battles of the union -- I presume to present him to your Executive clemency and discretion as a fit subject for an anticipating pardon.</p>
-<p>Resptly
+<p>William H. Keith, a citizen of Massachusetts, enlisted for three years, in that state <hi rend="str">at</hi> near the beginning of the existing war as a volunteer soldier in the army of the union. He fought under M<hi rend="underline"><hi rend="sup">c</hi></hi>Clelland in all his Peninsular battles, and at Antietam; and also fought in several other Battles. His comp<hi rend="underline"><hi rend="sup">y</hi></hi> being stationed near Lexington Ky. in <date when="1864-02">Fe<hi rend="underline"><hi rend="sup">by</hi></hi> 1864,</date> he was found on a stolen horse, was indicted for larceny in the Fayette circuit court and, on exparte testimony proving that the horse had been stolen and that he was found riding it, the Grand Jury found a true Bill at the <date when="1864-02-23">February term of s<hi rend="underline"><hi rend="sup">d</hi></hi> court on the 23<hi rend="underline"><hi rend="sup">rd</hi></hi> day of that month</date> -- He was arrested on a Bench warrant next day and committed to Jail. The court required Bail in the penalty of &#36;1,000 which Keith, being "a stranger in a strange land," was unable to give -- On the <date when="1864-05-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> of May 1864,</date> while still in Jail, he volunteered as a substitute in the same army, was bailed out, and is now ^again^ in the United service for three Years from the <date when="1864-05-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> of May 1864.</date> He is a very intelligent and apparently Candid man. He protested his innocence, and averred that another soldier, in a frolic, made him drunk and put him on the horse ^and in that condition the horse was found:^ That he was ignorant of the ownership or the stealing of the horse..</p>
+<p>On these facts -- considering the doubtfulness of his guilt and the value of his Military services, and especially the fact that he is now a volunteer for three years to fight the battles of the union -- I presume to present him to your Executive clemency and discretion as a fit subject for an anticipating pardon.</p>
+<p>Resp<hi rend="underline"><hi rend="sup">tly</hi></hi>
 <lb/>G Robertson<pb/></p>
 <p>Fayette Cir Ct
 <lb/>vs
-<lb/>W<hi rend="sup">m</hi> H Keith
-<lb/>Pardon
-<lb/>granted &amp; hand to Hon Geo Robertson
-<lb/><date when="1864-12-23">23<hi rend="sup">d</hi> Dec/64</date></p>
+<lb/>W<hi rend="sup">m</hi> H Keith</p>
+<p>Pardon granted &amp; hand to Hon Geo Robertson</p>
+<p><date when="1864-12-23">23<hi rend="sup">d</hi> Dec/64</date></p>
   </body>
  </text>
 </TEI>

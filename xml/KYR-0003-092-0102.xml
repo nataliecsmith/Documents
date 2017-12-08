@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0102"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,14 +64,14 @@
  <text>
   <body>
    <p>Oldtown Ridge
-<lb/><date when="1861-05-27">May 27<hi rend="underline"><hi rend="sup">th </hi></hi>1861</date>
+<lb/><date when="1861-05-27">May 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
 <lb/>George W. Johnson Esq
 <lb/>Georgetown Ky
 <lb/>Dr Sir</p>
 <p>I am just in receipt of a letter from the merchants of New Orleans John Watt &amp; Co, which they they say they are not willing to come under any obligations whatever, in the present unsettled condition of political &amp; commercial affairs, as I have no other means to fall back upon &amp; done my utmost to arrange it &amp; failed I am in hopes you will not think hard it.</p>
-<p>The river is getting very high against the Levee, It is within 8 to 10 inches of the last rise &amp; rising at the ^rate^ of three or inches in twenty four hours, but do not think it will ^rise^ much higher than the last rise, please give my respects to Wilha &amp; Stoddard.</p>
+<p>The river is getting very high against the Levee, It is with in 8 to 10 inches of the last rise &amp; rising at the ^rate^ of three or four inches in twenty four hours, but do not think it will rise much higher than the last rise, please give my respects to Wilha &amp; Stoddard.</p>
 <p>Yours Respectfully
-<lb/>John H. Yerby<pb/></p>
+<lb/>John. H. Yerby<pb/></p>
 <p>John H Yerby 
 <lb/><date when="1861-05-27">May 27 -- 1861</date></p>
 <p>in reference to non-payment of note over due, from him to G. W. J.</p>

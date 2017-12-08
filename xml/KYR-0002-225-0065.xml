@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0065"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Glasgow, Barren County, kentucky</placeName>
+    <placeName>Glasgow, Barren County, Kentucky</placeName>
     <date when="1865-09-06">6 September 1865</date>
    </creation>
    <textClass>
@@ -62,32 +65,30 @@
   <body>
    <p>Glasgow Ky
 <lb/><date when="1865-09-06">Sept. 6 1865</date>.
-<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramlette
+<lb/>Gov. Bramlette
 <lb/>My Dear Sir</p>
-<p>I held the August term of the Clinton Circuit Court last week, and at the instance of some of the officers in that county I will make a Suggestion or two in relation to Matters in that locality -- There are now in Clinton Near 200 soldiers, a large part of them are not necessary and indeed would be of little service any way -- If they were all Mustered out except about 25 picked Men and they put under the control of the sheriff I think Matters would be much better than at present. The people of that noble little<pb/>
-<lb/>County are struggling to reinstall themselves &amp; reestablish law &amp; order but as you Know they are on the confines of a bad population in Fintress &amp; Overton and need protection &amp; assistance -- <hi rend="underline">There is a set of scoundrels on the line that are increasing in number &amp; must be <unclear>formindable</unclear> to all law &amp; order if permitted</hi> to remain there -- all the Jail Breakers &amp; Other refugees from Justice go there for protection &amp; to depredate in good citizens -- you &amp; Gov. Brownlow will have to disperse &amp; capture this set of outlaws -- </p>
-<p>No News. -- heavy Docket here
-<lb/>Yours Truly
+<p>I held the August term of the Clinton Circuit Court last week, and at the instance of some of the officers in that county I will make a suggestion or two in relation to Matters in that locality -- There are now in Clinton Near 200 soldiers, a large part of them are not necessary and indeed would be of little service any way- If they were all Mustered out except about 25 picked Men and they put under the Control of the Sheriff. I think Matters would be much better than at present. The people of that Noble little<pb/>
+<lb/>County are struggling to reinstate themselves &amp; reestablish law &amp; order but as you Know they are on the confines of a bad population in Fintress &amp; Overton and Need protection &amp; assistance -- <hi rend="underline">There is a set of scoundrels on the line that are increasing in number. &amp; Must be formidable to all law &amp; order if permitted</hi> to remain there -- all the Jail Breakers &amp; Other refugees from justice go there for protection &amp; to depredate in good citizens -- you &amp; Gov. Brownlow will have to disperse &amp; Capture this set of Outlaws -- </p>
+<p>No News. -- heavy Docket here</p>
+<p>Yours Truly
 <lb/>T T Alexander</p>
-<p>you can get particulars, by writing to the shff &amp; clerk Clinton -- </p>
+<p>you can get particulars, by writing to the shff &amp; Clerk Clinton -- </p>
 <p>T T A.<pb/></p>
-<p>Gov. Tho E. Bramlette
-<lb/>Frankfort
-<lb/>Kenty. 
-<lb/><figure type="postmark"><listPlace><place><placeName>Glascow <date when="--09-07">Sep
+<p><figure type="postmark"><listPlace><place><placeName>GLASGOW 
+<lb/><date when="1865-09-07">SEP
 <lb/>7</date>
 <lb/>KY.</placeName></place></listPlace></figure>
 <lb/><stamp type="postage"/><figure type="postmark"/></p>
-<p>Adjt Gen -- </p>
-<p>I expect that this suggestion should be adopted a few picked men in Clinton &amp; Cumberland will no doubt be required for a time<pb/></p>
-<p>HEAD-QUARTERS KENT'Y STATE GUARD,
-<lb/>Inspector General's Office,
-<lb/>Frankfort Ky., <gap/>,<gap/></p>
+<p>Gov. Tho E Bramlette
+<lb/>Frankfort
+<lb/>Kenty. </p>
+<p>Adjt Genl -- </p>
+<p>I expect that this suggestion should be adopted A few picked men in Clinton &amp; Cumberland will no doubt be required for a time<pb/></p>
 <p>Glasgow Ky
 <lb/><date when="1865-09-06">Sep 6 1865</date><figure type="hr"/>
 <lb/>Alexander T. T.<figure type="hr"/>
 <lb/>To the Gov<figure type="hr"/></p>
-<p>Says he held <date when="--08">August</date> term of the Clinton Cir Ct. last week there are 200 soldiers in Clinton a large part of them are not necessary, Thinks if they were all mustered out except about 25 picked men &amp; they placed under the Control of the Sheriff matters would be much better, The people of that noble little Co are struggling to reinstate themselves, but they are on the Confines of a bad population in Fentress &amp; Overton and need assistance, There are a set of scoundrels on the line who are increasing all jail brakers &amp; other refugees from justice go there to depredate on good citizens. You &amp; Gov Brownlow will have to disperse &amp; Capture this set of scoundrels<figure type="hr"/></p>
+<p>Says he held <date when="--08">August</date> term of the Clinton Cir Ct. last week there are 200 soldiers in Clinton a large part of them are not necessary, Thinks if they were all mustered out except about 25 picked men &amp; they placed under the Control of the Sheriff matters would be much better, The people of that noble little Co are struggling to reinstate themselves, but they are on the Confines of a bad population in Fintress &amp; Overton and need assistance, There are a set of scoundrels on the line who are increasing all jail brakers &amp; other refugees from justice go there to depredate on good Citizens. You &amp; Gov Brownlow will have to disperse &amp; Capture this set of scoundrels<figure type="hr"/></p>
 <p>L B N<hi rend="sup">o</hi> 17 -- <date when="1865">1865</date> P 55<figure type="hr"/>
 <lb/>Recd A G O <date when="1865-09-08">Sep 8 1865</date></p>
   </body>

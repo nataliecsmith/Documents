@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0211"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">J. H. Lowry et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">J. H. Lowry, Ben T. Perkins, and J. G. Hollingsworth to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4330</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,19 +63,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Elkton <date when="1863-10-28">Oct. 28<hi rend="sup">th</hi> 1863</date>
-<lb/>Hon. Thos E Bramlette
-<lb/>Gov. of Kentucky
+   <p>Elkton <date when="1863-10-28">Oct. 28<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+<lb/>Hon. Thos E Bramleette
+<lb/>Gov- of Kentucky
 <lb/>Dear Sir:</p>
-<p>We would most respectfully represent to your honor that there are now pending in the Todd Circuit Court here ^Joint^ indictments against William Norman &amp; Elijah Jones one for "Trepass" and the other for a "Breach of the Peace;" which we would like for you with a flourish of your "Gubernatorial Pen" to "<hi rend="underline">wipe out</hi>." Justice and the promotion of good morals require it; as well as the protection of Loyal men, and the encouraging a pure patriotism and "undying devotion to the Union of our fathers &amp;c" in this geographically unfortunate portion of the Comth of Ky. The facts of the cases, briefly stated, are these. The said Norman &amp; Jones were members of a home guard company, men odious to traitors from their intense Loyal actions, feelings &amp; Sentiments; which later they took occasion frequently to express to the discomfiture of Rebels, and in terms that sometimes <hi rend="underline">Savored</hi> more of the "<hi rend="underline">fontiter in re quam Suaviter in modo,</hi>" So while Woodwards Guerillas ruled this country with a high hand, a Son of one of Normans neighbours Shouldered his old "walnut Stock" and in company with other<hi rend="str">s</hi> "Scions of Chivalry" went over to Norman's and robbed him of his gun, and otherwise maltreated misused and abused him the af<hi rend="sup">sd</hi> Normans and family. When the Army of the Union<pb/>
-<lb/>came with "Freedom on her banners," Norman and Jones went over to the af<hi rend="sup">sd</hi> Neighbour's and not finding his (Norman's) gun took possession of the af<hi rend="sup">sd</hi> "Walnut Stock" which was hanging quiet and hamless in the "<hi rend="underline">rack</hi>" and carried it off; Their idea of Loyalty being Such as not only Satisfied them that to disarm a Rebel was no offense, but their Solemn duty as good Loyal citizens So to do. And on these facts, Norman being at home sick at the time unable to have the matter explained the "Grand Jury of Todd County in the name &amp;c indicted them as aforesaid. At this term of the court Norman &amp; Jones were here ready for trial, but none of the witnesses made their appearance in the "Lincoln Court," against them; Wherefore we would most respectfully ask your Honor, if "not incompatible with the Public Safety" to "wipe out" as af<hi rend="sup">sd</hi>.</p>
-<p>We have the honor to be, in the bonds of "Loyalty and Union," Your most ob<hi rend="sup">dt</hi> and humble Ser<hi rend="sup">vts</hi> &amp; friends</p>
+<p>We would most respectfully represent to your honor; that there are now pending in the Todd Circuit Court two ^Joint^ indictments against William Norman &amp; Elijah Jones one for "Trepass" and the other for a "Breach of the Peace"; which we would like for you with a flourish of your "Gubernatorial Pen" to "<hi rend="underline">wipe out</hi>." Justice and the promotion of good morals require it; as well as the protection of Loyal men, and the encouraging a pure patriotism- and "undying devotion to the Union of our fathers &amp;C" in this geographically unfortunate portion of the Com<hi rend="underline">th</hi>. of Ky. The facts of the cases, briefly stated, are these. The Said Norman &amp; Jones were members of a home guard Company, men odious to traitors from their intense Loyal actions, feelings &amp; Sentiments; which latter they took occasion frequently to express to the discomfiture of Rebels, and in terms that sometimes <hi rend="underline">Savored</hi> more of the "<hi rend="underline">fortiter in re quam Suaviter in modo,</hi>" So while Woodwards Guerillas ruled this country with a high hand, a Son of one of Normans neighbours Shouldered his old "<hi rend="underline">walnut Stock</hi>" and in company with others "Scions of Chivalry" went over to Norman's and robbed him of his gun, and otherwise maltreated misused and abused him the af<hi rend="sup">sd</hi> Norman and family -- When the Army of the Union<pb/>
+<lb/>came with "Freedom on her banners", Norman and Jones went over to the af<hi rend="underline"><hi rend="sup">sd</hi></hi>. Neighbour's and not finding his (Norman's) gun took possession of the af<hi rend="sup">sd</hi> "Walnut Stock" which was hanging quiet and harmless in the "<hi rend="underline">rack</hi>" and carried it off; their idea of Loyalty being Such as not only Satisfied them that to disarm a Rebel was no offense, but their Solemn duty as good Loyal citizens So to do. And on these facts, Norman being at home sick at the time unable to have the matter explained- the "Grand Jury of Todd County in the name &amp;c indicted them as aforesaid- At this term of the court Norman &amp; Jones were here ready for trial, but none of the witnesses made their appearance in the "Lincoln Court," against them; Wherefore we would most respectfully ask your Honor, if "not incompatible with the Public Safety" to "wipe out" as af<hi rend="underline"><hi rend="sup">sd</hi></hi>-</p>
+<p>We have the honor to be, in the <hi rend="underline">bonds</hi> of "Loyalty and Union", Your most ob<hi rend="underline"><hi rend="sup">dt</hi></hi><hi rend="sup">,</hi> and humble Ser<hi rend="underline"><hi rend="sup">vts</hi></hi> &amp; friends</p>
 <p>J. H. Lowry
 <lb/>Ben T Perkins
 <lb/>J. G. Hollingsworth</p>
-<p>We are not intimately acquainted with the facts in regard to the indictment vs Norman &amp; Jones. We know they are both Union Men &amp; believe the offense is for taking <unclear>Stennets</unclear> gun just after Normans gun had been taken by <unclear>Stennets</unclear> son who was a rebel soldier</p>
+<p>We are not intimately acquainted with the facts in regard to the indictment vs Norman &amp; Jones We know they are both Union Men &amp; believe the offense is for taking Stennets gun just after Normans gun had been taken by Stennet's son who was a rebel soldier</p>
 <p>H G Petree
-<lb/>T M Purloin</p>
+<lb/>F M. <unclear>Bristow</unclear></p>
   </body>
  </text>
 </TEI>

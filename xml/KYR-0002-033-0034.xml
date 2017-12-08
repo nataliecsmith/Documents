@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0034"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,25 +64,26 @@
  <text>
   <body>
    <p>New-Market Tenn.
-<lb/><date when="1863-12-27">December 27" 1863.</date>
-<lb/>Governor Bramlette
+<lb/><date when="1863-12-27">December 27" 1863</date>.
+<lb/>Govenor Bramlette
 <lb/>Sir</p>
-<p>I have the honor to recommend to you for promotion, to fill the existing vacancies in Company "H" 1<hi rend="sup">st</hi> Ky Cav. 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt James G Dick to be made Captain Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Samuel,, Duncan to be made 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut all in Company "H" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav.</p>
+<p>I have the honor to recommend to you for promotion, to fill the existing vacancies in Company "H" 1<hi rend="sup">st</hi> Ky Cav. 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt James G Dick to be made Captain Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Samuel Duncan to be made 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut all in company "H" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav,</p>
 <p>I am very Resptly
-<lb/>Your Obt Servt
+<lb/>Your Ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
 <lb/>Frank Wolford Col
 <lb/>1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav.</p>
 <p>By 
 <lb/>W. D. Carpenter
 <lb/>Adjt</p>
-<p>1<hi rend="underline"><hi rend="sup">s</hi></hi> Cav<hi rend="sup">y</hi><figure type="hr"/>
-<lb/>1<hi rend="underline"><hi rend="sup">s</hi></hi> Lieut James G. Dick Co<hi rend="sup">y</hi> H, promo to Capt. same Co<hi rend="sup">y,</hi>. <date when="1863-12-27">Dec<hi rend="sup">r</hi> 27. 1863,</date> vice F. N. Alexander out of service
+<p>1<hi rend="underline"><hi rend="sup">st</hi></hi> Cav<hi rend="sup">y</hi><figure type="hr"/>
+<lb/>1<hi rend="underline"><hi rend="sup">s</hi></hi> Lieut James G. Dick Co<hi rend="sup">y</hi> H. promo to Capt. same Co<hi rend="sup">y</hi>, <date when="1863-12-27">Dec<hi rend="sup">r</hi> 27. 1863</date>, vice F. N. Alexander out of service
 <lb/><note place="left margin">1. 2. 3. 4. 5. 6. 7 8</note><figure type="hr"/></p>
-<p>Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Samuel Duncan com 1 Lieut Co<hi rend="sup">y</hi> H. <date when="1863-12-27">Dec<hi rend="sup">r</hi>. 27. 1863</date> Ja<hi rend="sup">s</hi> G Dick promo:
+<p>Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Samuel Duncan com 1 Lieut Co<hi rend="sup">y</hi> H. <date when="1863-12-27">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 27. 1863</date> vice Ja<hi rend="sup">s</hi> G Dick promo:
 <lb/><note place="left margin">1. 2. 3. 4. 5. 6.</note><pb/></p>
 <p>1<hi rend="underline"><hi rend="sup">s</hi></hi> Cav<hi rend="sup">y</hi><figure type="hr"/>
 <lb/>Capt. Dick &amp; Lt. Duncan<figure type="hr"/>
-<lb/>Coms iss<hi rend="sup">d</hi> &amp; fow<hi rend="sup">d</hi> <date when="1864-01-19">Jany 19. 1864</date></p>
+<lb/>Coms iss<hi rend="sup">d</hi> &amp; fow<hi rend="sup">d</hi>
+<lb/><date when="1864-01-19">Jany 19. 1864</date></p>
   </body>
  </text>
 </TEI>

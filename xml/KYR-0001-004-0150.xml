@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0150"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,68 +63,68 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bedford Timble Co. Kentucky
-<lb/><date when="1863-10-05">October 5<hi rend="sup">th</hi> 1863</date>
+   <p>Bedford Trimble co. Kentucky
+<lb/><date when="1863-10-05">October 5<hi rend="sup">th</hi> 1863 -- </date>
 <lb/>To His Excellency
-<lb/>Hon Thomas E. Bramlette Governor of the Commonwealth of Kentucky,</p>
-<p>Your petitioner a resident of Trimble County would most respectfully represent that, he was fined fifteen Dollars and costs of suit about <date when="1863-06-20">20<hi rend="sup">th</hi> June last</date> before Esquire John W Stewart a Justice of the peace for Timble county for striking James M. Branch.</p>
-<p>Your peitioner does not deny striking said Branch, but was excited from the fact that Branch used very insulting language, and he supposed that he might strike him, hence the blow.</p>
-<p>Your petitioner would further represent that he is poor and humble in life, has a small family, wife &amp; 2 children to support and also a very poor old widowed Mother who depends on my earnings for support.</p>
-<p>He further states hes sorry for his offence having been always a peacable well disposed person, he therefore prays your Honor to exercise that Clemency which his case seems to demand and as in duty bound will every pray &amp; c &amp;c</p>
+<lb/>Hon Thomas E. Bramlette Governor of the commonwealth of Kentucky,</p>
+<p>Your petitioner a resident of Trimble county would most respectfully represent that, he was fined fifteen Dollars and costs of suit about <date when="1863-06-20">20<hi rend="sup">th</hi> June last</date> before Esquire John W Stewart a Justice of the peace for Trmble county for striking James M. Branch.</p>
+<p>your peitioner does not deny striking said Branch; but was excited from the fact that Branch used very insulting language, and he supposed that he might strike him, hence the blow.</p>
+<p>your Petitioner would further represent that he is poor and humble in life, has a small family, wife &amp; 2 children to Support and also a very poor old widowed Mother who depends on my earnings for Support,</p>
+<p>He further states hes sorry for his offence having been always a peacable well disposed person, he therefore prays your Honor to exercise that Clemency which his case Seems to demand and as in duty bound will every pray &amp;C &amp;C</p>
 <p>J. Milton Moore<pb/></p>
-<p>We the undersigned citizens of Trimble County join the petitioner J. Milton Moore in his prayer and pray you to remit said fine or so much thereof as in your clemency you may see fit &amp;c</p>
+<p>We the undersigned citizens of Trimble county join the petitioner J. Milton Moore in his prayer and pray you to remit said fine or so much thereof as in your clemency you may See fit &amp;C</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Willis Oliver
 <lb/>Andrew Scott
-<lb/>S. Mead
+<lb/>S: Mead
 <lb/>James Sparkes
-<lb/>George M. Perkinson
+<lb/>George M Perkinson
 <lb/>George Orr
 <lb/>George Wright
-<lb/>L. Milner
+<lb/>L, Milner
 <lb/>Noah P. Chandler
 <lb/>F Crafton
 <lb/>William Bobbins
 <lb/>F. A. Speed
-<lb/>Benj Wiggistaten
+<lb/>Benj Wiggi<unclear>staten</unclear>
 <lb/>Jacob Downs
-<lb/>Stephen Geager
-<lb/>G <unclear>N Medley</unclear>
-<lb/>Charles Martin
-<lb/>John Law X
-<lb/>W W <unclear>Shea</unclear>
+<lb/>Stephen Yeager
+<lb/>T <unclear/>
+<lb/>Charles. Martin
+<lb/>John. Law X
+<lb/>W W Rhea
 <lb/><cb n="2"/>S. Gatewood
 <lb/>W P Adcock
-<lb/>T M McCarty (one of the Jury)
+<lb/>T M M<hi rend="sup">c</hi>Carty (one of the Jury)
 <lb/>Robert C Moreland
-<lb/>T. B. gatewood
-<lb/>P. R. Smith
-<lb/>F. T Shepherd
+<lb/>T. B gatewood
+<lb/>P, R, Smith.
+<lb/>J, T, Shepherd
 <lb/>F Calvert
 <lb/>J Lingale
 <lb/>A Mitchel
 <lb/>M. H. Hunt
-<lb/>J W Wilkins
+<lb/>J W Mulikin
 <lb/>Thomas Mitchell
 <lb/>William Hardin
 <lb/>T Colbert
 <lb/>C Colbert
-<lb/>H Forden
-<lb/>Harry F. Garriott
+<lb/>H Fonden
+<lb/>Harry. F. Garriott
 <lb/>William Shepherd
-<lb/>Brooks. P. Perkinson
+<lb/>Brooks. R. Perkinson
 <lb/>J M Colbert
 <lb/>Wm Stanley
 <lb/>B M Hunter
-<lb/>D T. Jones
+<lb/>D F Jones
 <lb/>James J James
-<lb/>John S Sinclair<milestone unit="column" n="1"/><pb/></p>
+<lb/>John S Sulivan<milestone unit="column" n="1"/><pb/></p>
 <p>Trimble Co
 <lb/>vs
-<lb/>J. M Moore</p>
+<lb/>J, M Moore</p>
 <p><hi rend="str">Breach peace</hi>
 <lb/>Assault
-<lb/>Respited 6 mos
-<lb/><date when="1863-11-10">10<hi rend="sup">th</hi> Nov/ 63</date></p>
+<lb/>Respited 6 Mos
+<lb/><date when="1863-11-10">10<hi rend="sup">th</hi> Nov/63</date></p>
   </body>
  </text>
 </TEI>

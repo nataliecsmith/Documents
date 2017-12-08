@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0116"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,17 +63,17 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000337">Louisville, Ky</placeName>. <date when="1863-10-30">Octo 30<hi rend="sup">th</hi> '63</date>
-<lb/><persName ref="cwgk:N001000">Gov. Bramlette
-</persName><lb/>Dear Sir.</p>
-<p>I am sure the public good will be promoted by the prompt exercise of executive clemency in the case of <persName ref="cwgk:N00000330">Frank Gorin</persName> Esqr indicted in the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName>.</p>
-<p>It is unnecessary to comment on the character and history of Gorin -- He is proud of his state, and has been ever ready to strike for his county -- </p>
-<p>You know him well, and as the party aggreived M<hi rend="sup">r</hi> Wood is satisfied, a great state has no reason to prosecute such citizens</p>
+   <p>Louisville, Ky, <date when="1863-10-30">Octo 30<hi rend="underline"><hi rend="sup">th</hi></hi> '53</date>
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramlette
+<lb/>Dear Sir.</p>
+<p>I am sure the public good will be promoted by the prompt exercise of executive clemency in the case of Frank Gorin Esq<hi rend="underline"><hi rend="sup">r</hi></hi> indicted in the Jefferson Circuit Court -- </p>
+<p>It is unnecessary to comment on the character and history of Gorin -- He is proud of his state, and has been ever ready to strike for his country -- </p>
+<p>You know him well, and as the party aggreived M<hi rend="underline"><hi rend="sup">r</hi></hi> Wood is satisfied, a great state has no reason to prosecute such citizens</p>
 <p>I hope you will find it consistent with you duty to interfere -- </p>
 <p>I am
 <lb/>with great respect
-<lb/>Your obt. servt
-<lb/><persName ref="cwgk:N00000232">Joshua Tevis</persName></p>
+<lb/>Your ob<hi rend="underline"><hi rend="sup">t</hi></hi> serv<hi rend="sup">t</hi>
+<lb/><hi rend="underline">Joshua Tevis</hi></p>
   </body>
  </text>
 </TEI>

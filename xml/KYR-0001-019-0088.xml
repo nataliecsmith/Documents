@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0088"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Flag Spring, Campbell County, Kentucky</placeName>
+    <placeName>Campbell County, Kentucky</placeName>
     <date when="1861-06-14">14 June 1861</date>
    </creation>
    <textClass>
@@ -61,10 +64,9 @@
  <text>
   <body>
    <p>To his excelency ^the^ Govenor Magoffin</p>
-<p>I herewith sind you the permit of the County Judge of Campbell County for the Flag Spring home guards to obtain arms please attend to this as soon as convenant that the guards may be furnished with arms we are located on the Ohio River in the uper end of Campbell Co our location and Suroundin elements across the River render it important for us to be armed If it is in your power to furnish arms Send by the way of <hi rend="str">Covington &amp; Lexing</hi> Lexington ^on^ Rail Road to Butler Station care of J M <hi rend="str">Jo</hi> Jolly Covington &amp; Lexington Rail Road</p>
-<p>if the arm can be furnished please notify J M Jolly Flagspring Ky</p>
+<p>I herewith Sind you the permit of the County Judge of Campbell County for the Flag Spring home guards to obtain arms please attend to this as soon as convenant that the guards may be furnished with arms we are located on the Ohio River in the uper end of Campbell Co our location and Suroundin elements across the River render it important for us to be armed If it is in your power to furnish arms Send by the way of <hi rend="str">Covington &amp; Lexing</hi> Lexington ^on^ Rail Road to Butler Station care of J M <hi rend="str">Ja</hi> Jolly Covington &amp; Lexington Rail Road if the arm can be furnished please notify J M Jolly Flagspring Ky</p>
 <p><hi rend="underline">J M Jolly</hi> / <hi rend="underline">Captain</hi> <hi rend="underline">Guards</hi>
-<lb/><date when="1861-06-14">June 14<hi rend="sup">t</hi> 1861</date></p>
+<lb/><date when="1861-06-14">June 14'1861</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1309"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,81 +67,82 @@
 <lb/>State of Kentucky
 <lb/>Adair County &amp; Circuit Sct</p>
 <p><note place="left margin">Court</note>
-<lb/>Pleas before The Hon. Thomas T Alexander Judge of the Adair Circuit Court at the Courthouse in Columbia on Saturday the <date when="1864-11-19">19<hi rend="sup">th</hi> day of November 1864</date></p>
+<lb/>Pleas before The Hon. Thomas T Alexander Judge of the Adair Circuit Court at the courthouse in Columbia on Saturday the <date when="1864-11-19">19<hi rend="sup">th</hi> day of November 1864</date></p>
 <p><note place="left margin">Parties</note>
 <lb/>The Commonwealth of Kentucky Plff
-<lb/>against } Indictment for Murder
+<lb/>against &#125; Indictment for Murder
 <lb/>Richard Smith Defendant
 <lb/>	
 <lb/><note place="left margin">Indictment</note>
-<lb/>The Grand Jury of Cumberland County in the name and by the authority of the Commonwealth of Kentucky accuse Richard Smith of the crime of Murder committed as follows, viz, the said Richard Smith <hi rend="str">did</hi> on the <date when="1864-04-16">16<hi rend="sup">th</hi> day of April 1864</date> in the County aforesaid did Feloniously and with Malice aforethought Kill and Murder Elzy Morgan by shooting him with a pistol against the peace and dignity of the Commonwealth of Kentucky,</p>
+<lb/>The Grand Jury of Cumberland County in the name and by the authority of the Commonwealth of Kentucky accuse Richard Smith of the crime of Murder committed as follows, viz, the said Richard Smith <hi rend="str">did</hi> on the <date when="1864-04-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> day of April 1864</date> in the County aforesaid did Feloniously and with Malice aforethoug<hi rend="str">t</hi>ht Kill and Murder Elzy Morgan by shooting him with a pistol against the peace and dignity of the Commonwealth of Kentucky,</p>
 <p>J. H. C Sandidge
 <lb/>Atty for the Commonwealth</p>
-<p><note place="left margin">Record of case in the Cumberland Cir. Ct.</note></p>
-<p>State of Kentucky
+<p><note place="left margin">Record of case in the Cumberland cir. ct.</note>
+<lb/>State of Kentucky
 <lb/>Cumberland Circuit Sct</p>
 <p>The Commonwealth of Ky
-<lb/>against} Indictmt. for Murder
+<lb/>against&#125; Indict<hi rend="sup">mnt</hi> for Murder
 <lb/>Richard Smith Defendant</p>
 <p>Be it remembered that on the <date when="1864-04-18">18<hi rend="sup">th</hi> day of April 1864</date> (April Term) the following Order was made towit,</p>
 <p>"The Grand Jury returned An Indictment against Richard Smith for Murder endorsed a "True Bill" and signed by David Williams foreman"<pb/>
-<lb/><note place="left margin">(2)</note>
+<lb/><note place="header">(2)</note>
 <lb/>And afterwards towit on the <date when="1864-04-18">18<hi rend="sup">th</hi> day of April 1864</date> the following order was made towit</p>
 <p>This day came the attorney for the Commonwealth and the Deft being brought to the bar and being unable to employ counsel, It is ordered that James A Rousseau &amp; M H Owsley be appointed attorneys to defend for him, and this Indictment is set for trial on the 3<hi rend="sup">rd</hi> day of the present Term and the prisoner was remanded to Jail.</p>
 <p>And afterwards towit on the <date when="1864-04-20">20<hi rend="sup">th</hi> day of April 1864</date> the following order was made towit</p>
-<p>This day came the attorney for the Commonwealth and the prisoner being brought to the bar, It is ordered that Tho C Winfrey be appointed attorney to assist in the defense of said prisoner -- and the prisoner waived an arraignment &amp; plead not guilty &amp; thereupon came the following jurors towit, James Garrett, W L Philpott, J E Frazier, M Mayo Asa Teal and John R Page and the Jury not being completed, the jurors were sworn &amp; charged &amp; by agreement were permitted to disperse until tomorrow Morning 9 Oclock and the prisoner was remand to Jail</p>
+<p>This day came the attorney for the Commonwealth and the prisoner being brought to the bar, It is ordered that Tho C Winfrey be appointed attorney to assist in the defense of said prisoner -- and the prisoner waived an arraignment &amp; plead not guilty &amp; thereupon came the following jurors towit, James Garrett, W L Philpott, J E Frazier, M Mays <hi rend="str"><unclear/></hi>Asa Teal and John R Page and the Jury not being completed, the jurors were sworn &amp; charged &amp; by agreement were permitted to disperse until tomorrow Morning 9 Oclock and the prisoner was remand to Jail</p>
 <p>And afterwards towit on the <date when="1864-04-21">21<hi rend="sup">st</hi> day of April 1864</date> the following order was made viz</p>
-<p>The Jurors empannelled &amp; sworn on yesterday returned into Court and James Murphy John Cloyd, Martin White, James Presley, S B Lewis &amp; S C Armstrong being elected tried &amp; sworn well &amp; truly to try the issue joined and the Deft waived an arraignment &amp; plead not guilty and the evidence<pb/>
+<p>The Jurors empannelled &amp; sworn on Yesterday returned into Court and James Murphy John Cloyd, Martin White, James Presley, S B Lewis &amp; S C Armstrong being elected tried &amp; sworn well &amp; truly to try the issue joined and the Deft waived an arraignment &amp; plead not guilty and the evidence<pb/>
 <lb/><note place="header">(3)</note>
 <lb/>&amp; arguments of Counsel not being fully heard the Jury under a charge from the court were permitted to disperse until tomorrow morning 9 Oclock until which time this prosecution is continued and the prisoner was remanded back to Jail.</p>
 <p>And afterwards, on the <date when="1864-04-22">22<hi rend="sup">nd</hi> day of April 1864</date> the following order was made towit</p>
-<p>This day again came the attorney for the Commonwealth and the prisoner being brought to the bar and the Jury after hearing the evidence and arguments of Counsel being unable to agree upon a verdict by agreement of parties the Jury is discharged and the prisoner is remanded to Jail and the Jail of Cumberland County being insecure and there being danger that said prisoner might be rescued by force or violence It is ordered that the Sheriff of this county with one guard carry said Smith to the Jail of Adair County Kentucky and deliver him to the Jailer of said County to be by him safley kept until the next term of this court -- </p>
+<p>This day again came the attorney for the Commonwealth and the prisoner being brought to the bar and the Jury after hearing the evidence and arguments of Counsel being unable to agree upon a verdict by agreement of parties the Jury is discharged and the prisoner is remanded to Jail and the Jail of Cumberland County being insecure and there being danger that said prisoner might be rescued by force or violence It is ordered that the Sheriff of this county with one guard carry said Smith to the Jail of Adair County Kentucky and deliver him to the Jailer of said County to be by him safely kept until the next term of this court -- </p>
 <p>And afterwards towit on the <date when="1864-04-23">23<hi rend="sup">rd</hi> day of April 1864</date> the following order was made towit</p>
 <p>John Cassiday and Levi Piles witnesses for Deft appeared in court &amp; acknowledged indebted to the Commonwealth in the sum of one hundred Dollars each to be <hi rend="str">void</hi> levied of their respective goods and chattles lands and tenements to the Commonwealth to be rendered, but to be void upon the condition that they personally appear in this court on the first day of the next October of said court to<pb/>
-<lb/><note place="left margin">(4)</note>
+<lb/><note place="header">(4)</note>
 <lb/>testify in behalf of Deft and not depart without leave of the court</p>
 <p>And afterwards towit on the <date when="1864-10-18">18<hi rend="sup">th</hi> day of October 1864</date> the following order was made towit</p>
-<p>This day came the attorney for the Commonwealth and the prisoner was brought into court in the Custody of the Jailer, and for cause shown it is ordered that this Indictment be continued &amp; by agreement of <hi rend="str">the</hi> parties It is ordered that the Venue in this cause be transfered to the Adair Circuit Court and that the clerk of this court transfer the papers &amp; a copy of the record to the Clerk of the Adair Circuit Court and said prisoner was delivered to the Jailer of Adair County, and remanded to the Jail of said County and It is further ordered that W. E. Russell and H. C. Baker be appointed attorneys to defend for said Smith and then appeared L Bennett, G W Overstreet, B. B. Vaughan, Milton Smiley, ^and^ R M Alexander witnesses for the Commonwealth and acknowledged themselves severally indebted to the Commonwealth in the sum of one hundred dollars each to be levied of their respective lands &amp; tenements goods &amp; chattles to the Commonwealth to be rendered but to be void upon the condition that they personally appear in the Adair Circuit Court on the 4<hi rend="sup">th</hi> day of its next <date when="1864-11">November</date>. Term &amp; not depart without leave of the court</p>
-<p>A Copy Att R C Logan Clk<pb/>
-<lb/><note place="header">(5)</note>
+<p>This day came the attorney for the Commonwealth and the prisoner was brought into court in the Custody of the Jailer, and for cause shown it is ordered that this Indictment be continued &amp; by agreement of <hi rend="str">the</hi> parties It is ordered that the Venue <hi rend="str">in</hi> this cause be transfered to the Adair Circuit Court and that the clerk of this court transfer the papers &amp; a copy of the record to the Clerk of the Adair Circuit Court and said prisoner was delivered to the Jailer of Adair County, and remanded to the Jail of said County and It is further ordered that W. E. Russell and H. C. Baker be appointed attorneys to defend for said Smith and then appeared L Bennett, G W Overstreet, B. B. Vaughan, Milton Smiley, ^and^ R M Alexander witnesses for the Commonwealth and acknowledged themselves severally indebted to the Commonwealth in the sum of one hundred dollars each to be levied of their respective lands &amp; tenements goods &amp; chattles to the Commonwealth to be rendered but to be void upon the condition that they personally appear in the Adair Circuit Court on the 4<hi rend="sup">th</hi> day of its next <date when="1864-11">November</date>. Term &amp; not depart without leave of the court</p>
+<p>A Copy Att R C Logan clk<pb/></p>
+<p><note place="header">(5)</note>
 <lb/><note place="left margin">Orders Court (viz)</note></p>
-<p>At a Circuit Court continued &amp; held for the County of Adair at the Courthouse in Columbia on Friday the <date when="1864-11-11">11<hi rend="sup">th</hi> day of November 1864</date></p>
-<p><note place="left margin">Counsel apptd. to assist in defense</note>
-<lb/>This day came the attorney for the Commonwealth and the prisoner was led to the bar in custody of the Jailer and the Deft being unable to employ counsel the court appointed Timoleon Cravens Esq <hi rend="str">to assist in the defense</hi> a member of the bar to assist in the defense of said prisoner -- <note place="left margin">Deft filed affidavit &amp; mo. for cont. &amp;c</note> Thereupon the Deft produced his affidavit which is ordered to be filed, and moved the court for a continuance the attorney for the Commonwealth offered to admit the truth of the Statements of the witness Thomas Turner &amp; thereupon the court overruled the motion for a continuance to which Deft excepts, <note place="left margin">Deft's demr. overrl<hi rend="sup">d</hi>.</note> Deft then offered his demurrer to the Indictment herein &amp; the matters of law being understood &amp;c the Indictment is considered good &amp; the demurrer is overruled to which defendant excepts -- <note place="left margin">plea of not guilty</note> By consent of the Defendant an arraignment is dispensed with and said Defendant pleads not guilty <note place="left margin">Jury or<hi rend="sup">d</hi>.</note> and thereupon came the following Jurors, towit, N M Collins, Henry J Payne, Josiah Frankum, James M. Wilson, Henry Logan &amp; Alexander Naylor and the jury not being completed, the Jurors were charged by the court &amp; by agreement permitted to disperse to meet again tomorrow morning 9 Oclock and the prisoner was remanded to Jail<pb/>
+<p>At a Circuit Court continued &amp; held for the County of Adair at the Courthouse in Columbia on Friday the <date when="1864-11-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1864</date></p>
+<p><note place="left margin">Counsel appt<hi rend="underline"><hi rend="sup">d</hi></hi> to assist in defense</note>
+<lb/>This day came the attorney for the Commonwealth and the prisoner was led to the bar in custody of the Jailer and the Deft being unable to employ counsel the court appointed Timoleon Cravens Esq <hi rend="str">to assist in the defense</hi> a member of the bar to assist in the defense of said prisoner -- <note place="left margin">Deft filed affidavit &amp; mo. for cont. &amp;c</note> Thereupon the Deft produced his affidavit which is ordered to be filed, and moved the court for a continuance the attorney for the Commonwealth offered to admit the truth of the Statements of the witness Thomas Turner &amp; thereupon the court overruled the motion for a continuance to which Deft excepts, <note place="left margin">Defts dem<hi rend="underline"><hi rend="sup">r</hi></hi> overrl<hi rend="underline"><hi rend="sup">d</hi></hi></note> Deft then offered his demurrer to the Indictment herein &amp; the matters of law being understood &amp;c, the Indictment is considered good &amp; the demurrer is overruled to which defendant excepts -- <note place="left margin">plea of not guilty</note> By consent of the Defendant an arraignment is dispensed with- and said Defendant pleads not guilty and thereupon came the following Jurors,<note place="left margin">Jury or<hi rend="underline"><hi rend="sup">d</hi></hi></note> (towit) N M Collins, Henry J Payne, Josiah Frankum, James M. Wilson, Henry Logan &amp; Alexander Naylor and the jury not being completed, the Jurors were charged by the court &amp; by agreement permitted to disperse to meet again tomorrow morning 9 Oclock and the prisoner was remanded to Jail<pb/>
 <lb/><note place="header">(6)</note>
 <lb/><note place="left margin">Affidavit of Deft</note>
-<lb/>The defendant says he not ready for trial in this case for the following reasons, Thomas Turner one of the<hi rend="str">s</hi> witnesses for Deft and for whom he has had a spa issued to Cumberland County where said Thomas Turner who is a soldier was at the time Dft last heard from him which spa has been returned not executed by A. G. Waggener Sheriff of Cumberland County Ky, Affiant further says that the Regt to which said Thomas Turner is on duty and posted in or near Burksville Cumberland County Ky that said Turner is a material witness for the defendant in this that said Turner will state that on the morning and before the Commission of the offense with which dft. stands charged, in this case -- that the said Turner and affiant had been for several days preceeding the commission of the offense on provost duty near the town of Burksville or therein and that said <hi rend="str">affidavit</hi> affiant had been drinking considerably for several days preceeding the time of the offense and looked Strange -- and looked about in a strange way and on the morning before and before affiant came to town where the offense was committed, Affiant said to said Turner that He affiant was going to Burksville to have a big spree with John Elder, and that said witness will state that John Elder was not and had not been in Burksville for several years -- and in fact does not live in the state of Ky -- That said witness will further state that after the dft came to town witness &amp; affiant<pb/>
+<lb/>The defendant says he not ready for trial in this case for the following reasons, Thomas Turner one of the<hi rend="str">s</hi> witnesses for Deft and for whom he has had a sfa issued to Cumberland County where said Thomas Turner who is a soldier was at the time Dft last heard from him which sfa has been returned not executed by A. G. Waggener Sheriff of Cumberland County Ky, Affiant further says that the Regt to which said Thomas Turner is on duty and posted in or near Burksville Cumberland, County Ky that said Turner is a material witness for the defendant in this that said Turner will state that on the morning and before the Commission of the offense with which dft stands charged, in this case -- that the said Turner and affiant had been for several days preceeding the commission of the offense on provost duty near the town of Burksville or therein and that said <hi rend="str">affidavit</hi> affiant had been drinking considerably for several days preceding the time of the offense and looked Strange -- and looked about in a strange way and, on the morning before and before affiant came to town where the offense was committed, Affiant said to said Turner that He affiant was going to Burksville to have a big spree with John Elder, and that said witness will state that John Elder was not and had not been in Burksville for several years -- and in fact does not live in the state of Ky -- </p>
+<p>That said witness will further state that after the dft came to town witness &amp; affiant<pb/>
 <lb/><note place="header">(7)</note>
-<lb/><note place="left margin">aff. ent<hi rend="sup">d</hi>.</note>
+<lb/><note place="left margin">aff. ent<hi rend="underline"><hi rend="sup">d</hi></hi></note>
 <lb/>went to a grocery and drank spiritous liquor and Dft asked said Turner where he could get some tobacco &amp; turned off suddenly &amp; soon after the killing occurred -- That Dr Bennett is a witness for the Commonwealth and recognized to appear here at this term of the Court by whom he can prove that he Dft at the time of the Commission of the offense was not in his right mind and that said Bennett will further state that said dft was and is morally insane that he has used due dilligence to obtain the appearance of said Turner and that the facts above witness will state are true</p>
 <p>Richard ^his X mark^ Smith</p>
 <p>Sworn to before me by Richard Smith this <date when="1864-11-11">11<hi rend="sup">th</hi> day of November 1864</date></p>
-<p>James T. Page C,A,C,C</p>
-<p><note place="left margin">Order Court</note>
-<lb/>At a Circuit Court continued &amp; held for the County of Adair at the Courthouse in Columbia on Saturday the <date when="1864-11-12">12<hi rend="sup">th</hi> day of November 1864</date></p>
-<p>This day came the attorney for the Comth and the prisoner was led to the bar in the custody of the Jailer and the Jurors selected herein on yesterday returned into court and also the following Jurors this day selected, towit, A. B. Williams Hugh K Walker Robert T. Bennett, H C White, Felix G. Royse &amp; J. R. Montgomery <note place="left margin">Jury Completed &amp; sworn</note> making together a full Jury who being elected tried &amp; sworn well and truly to try the issue Joined, and as the law directs who having heard part of the evidence &amp; not having time today to hear further were<pb/>
-<lb/><note place="left margin">8</note>
-<lb/>under a charge from the court permitted to dispose until Monday Morning 9 Oclock until which time this prosecution is continued and the prisoner was remanded back to Jail</p>
-<p>At a Circuit Court continued &amp; held for the County of Adair at the Courthouse in Columbia on Monay the <hi rend="str">the</hi> <date when="1864-11-14">14<hi rend="sup">th</hi> day of November 1864</date></p>
+<p>James T. Page C, A, C, C</p>
 <p><note place="left margin">Order court</note>
-<lb/>This day came the attorney for the Commonwealth and the prisoner was led to the bar in custody of the Jailer <note place="left margin">evidence heard &amp;c</note> and thereup came the same jury sworn herein on a former day of this term and having fully heard the evidence, and arguments of some of the Counsel and not having time to hear further today were after being charged by the court &amp; by agreement of the counsel permitted to disperse to meet again tomorow morning 9 Oclock until which time the prosecution is continued and the prisoner was remanded to Jail &amp; delivered to the custody of the Jailer</p>
-<p>At a Circuit Court continued &amp; held for the County of Adair at the Courthouse in Columbia on Tuesday the <date when="1864-11-15">15<hi rend="sup">th</hi> day of November 1864</date></p>
-<p><note place="left margin">Order Court</note>
-<lb/>This day came the attorney for the Commonwealth <hi rend="str">and</hi> the prisoner was led to the bar in <hi rend="str">the</hi> custody of the Jailer and thereupon came the same<pb/>
+<lb/>At a Circuit Court continued &amp; held for the County of Adair at the Courthouse in Columbia on Saturday the <date when="1864-11-12">12<hi rend="sup">th</hi> day of November 1864</date></p>
+<p>This day came the attorney for the Comth and the prisoner was led to the bar in the custody of the Jailer and the Jurors selected herein on yesterday returned into court and also the following Jurors this day selected (towit) A. B. Williams Hugh K Walker Robert T. Bennett, H C White, Felix G. Royse &amp; J. R. Montgomery <note place="left margin">Jury Completed &amp; sworn</note> making together a full Jury who being elected tried &amp; sworn well and truly to try the issue joined, and as the law directs who having heard part of the evidence &amp; not having time today to hear further were<pb/>
+<lb/><note place="header">8</note>
+<lb/>under a charge from the court permitted to disperse until Monday Morning 9 Oclock until which time this prosecution is continued and the prisoner was remanded back to Jail</p>
+<p>At a Circuit Court continued &amp; held for the County of Adair at the Courthouse in Columbia on Monday the <hi rend="str">the</hi> <date when="1864-11-14">14<hi rend="sup">th</hi> day of November 1864</date></p>
+<p><note place="left margin">Order court</note>
+<lb/>This day came the attorney for the Commonwealth and the prisoner was led to the bar in custody of the Jailer and <note place="left margin">evidence heard &amp;c</note> thereup came the same jury sworn herein on a former day of this term and having fully heard the evidence, and arguments of some of the Counsel and not having time to hear further today were after being charged by the court &amp; by agreement of the counsel permitted to disperse to meet again tomorow morning 9 Oclock until which time the prosecution is continued and the prisoner was remanded to Jail &amp; delivered to the custody of the Jailer</p>
+<p>At a Circuit Court continued &amp; held for the County of Adair at the Courthouse in Columbia on Tuesday the <date when="1864-11-15">15<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1864</date></p>
+<p><note place="left margin">Order court</note>
+<lb/>This day <hi rend="str">came</hi> the attorney for the Commonwealth <hi rend="str">and</hi> the prisoner was led to the bar in <hi rend="str">the</hi> custody of the Jailer and thereupon came the same<pb/>
 <lb/><note place="header">9</note>
-<lb/>Jury sworn herein on a former day of this Term <note place="left margin">Jury returned</note> (towit) N M Collins, Henry J Payne, Josiah Frankum James M Wilson, Henry Logan, Alexander Naylor, A B Williams, Hugh K Walker, Robert T. Bennett, H C White, Felix G Royse &amp; J. R. Montgomery who having fully heard the evidence and arguments of counsel retired to their room and after due deliberation upon their oaths returned their verdict in the words following, <note place="left margin">verdict</note> towit, "We the Jury find the Defendant guilty of the crime of Murder as charged in the within Indictment"</p>
-<p>A B Williams foreman"</p>
-<p>Whereupon the prisoner was remanded to Jail &amp; delivered to the custody of the Jailer until the further order of this court.</p>
+<lb/>Jury sworn herein on a former day of this Term <note place="left margin">Jury returned</note> (towit) N M Collins, Henry J Payne, Josiah Frankum James M Wilson, Henry Logan, Alexander Naylor, A B Williams, Hugh K Walker, Robert T. Bennett, H C White, Felix G Royse &amp; J. R. Montgomery who having fully heard the evidence and arguments of counsel retired to their room and after due deliberation upon their oaths returned their verdict in the words following (towit) <note place="left margin">verdict</note> "We the Jury find the Defendant guilty of the crime of Murder as charged in the within Indictment"
+<lb/>A B Williams foreman"
+<lb/>Whereupon the prisoner was remanded to Jail &amp; delivered to the custody of the Jailer until the further order of this court.</p>
 <p>At a Circuit Court continued &amp; held for the County of Adair at the courthouse in Columbia on Wednesday the <date when="1864-11-16">16<hi rend="sup">th</hi> day of November 1864</date></p>
-<p><note place="left margin">Order Court motion &amp; grounds filed for arrest of Jugt &amp; overrl<hi rend="sup">d</hi>. excepts</note>
-<lb/>This day came the parties by their attorneys and the Defendant moved the court for an arrest of Judgment &amp; filed his grounds for a new trial herein and after hearing the arguments of Counsel and the court being sufficiently advised, overruled the motion of Defendant in arrest of judgment and refused to set aside the verdict of the Jury &amp; grant a new trial to which the Defendant excepted and prayed an appeal to the court of Appeals, which is granted him according to law.</p>
-<p><note place="left margin">Motion of Deft</note></p>
-<p>The defendant moves to arrest the Judgment on the verdict against him in this case for the<pb/>
-<lb/><note place="left margin">10</note>
+<p><note place="left margin">Order Court motion &amp; grounds filed for arrest of Judgt &amp; overrl<hi rend="underline"><hi rend="sup">d</hi></hi> excepts</note>
+<lb/>This day came the parties by their attorneys and the Defendant moved the court for an arrest of judgment &amp; filed his grounds for a new trial herein and after hearing the arguments of Counsel and the court being sufficiently advised, overruled the motion of Defendant in arrest of judgment and refused to set aside the verdict of the Jury &amp; grant a new trial to which the Defendant excepted and prayed an appeal to the court of appeals, which is granted him according to law.</p>
+<p><note place="left margin">Motion of Deft</note>
+<lb/>The defendant moves to arrest the Judgment on the verdict against him in this case for the<pb/>
+<lb/><note place="header">10</note>
 <lb/>following reasons</p>
-<p>Because</p>
-<p>The Indictment does not show that the Grand Jury was empannelled sworn &amp; charged neither does the record of the case show such fact, or who they were -- </p>
-<p>2<hi rend="sup">nd</hi> That the facts stated in the Indictment do not constitute a public offense within the Jurisdiction of this court</p>
+<p>Because
+<lb/>The Indictment does not show that the Grand Jury was empannelled sworn &amp; charged neither does the record of the case show such fact, or who they were -- </p>
+<p>2<hi rend="sup">nd</hi> That the facts stated in the Indictment do not constitute a public offense within the jurisdiction of this court</p>
 <p>3<hi rend="sup">rd</hi> That the court erred in not sustaining the Demurrer to the Indictment</p>
 <p>Richard Smith</p>
 <p>By Owsley Russell &amp; Baker atys</p>
@@ -146,107 +150,111 @@
 <lb/>The defendant asks the court to set aside the verdict in this case and grant him a new trial for the following reasons towit</p>
 <p>1<hi rend="underline"><hi rend="sup">st</hi></hi> Because the finding of the Jury is contrary to the law and the testimony -- 
 <lb/>2<hi rend="sup">nd</hi> Because the Court erred in overruling the Demurrer to the indictment -- 
-<lb/>3<hi rend="underline"><hi rend="sup">rd</hi></hi> -- The court erred in forcing the defendant to trial on a part of his affidavit for a continuance being admitted to be true by the Commonwealth and in excluding the statements of Dr Bennett as set forth in said affidavit.
-<lb/><note place="left margin">These Instructions are inserted immediately after the grounds for new trial beginning on page 11 -- </note>
-<lb/>4<hi rend="underline"><hi rend="sup">th</hi></hi> The court erred in giving instructions for Plff to the Jury N<hi rend="sup">os</hi> 1, 2, 3, 4, 5, 6, 7, 8, &amp; A, B, C, D, because they were misleading and to the prejudice of deft and are not the law governing the case
-<lb/>4 Because the court erred in refusing instructinos N<hi rend="sup">os</hi> 1 &amp; 4 &amp; B asked for by the deft.
-<lb/>5<hi rend="underline"><hi rend="sup">th</hi></hi><hi rend="sup">h</hi> The court erred in permitting an illegal &amp; improper question to be asked and discussed<pb/>
+<lb/>3<hi rend="underline"><hi rend="sup">rd</hi></hi> -- The court erred in forcing the defendant to trial on a part of his affidavit for a continuance being admitted to be true by the Commonwealth and in excluding the statements of Dr Bennett as set-forth in said affidavit.
+<lb/><note place="left margin">These Instruction<hi rend="underline"><hi rend="sup">s</hi></hi> are inserted immediately after the grounds for new trial beginning on page 11 -- </note>
+<lb/>4<hi rend="underline"><hi rend="sup">th</hi></hi> The court erred in giving instructions for Plff to the Jury N<hi rend="sup">os</hi> 1, 2, 3, 4, 5, 6, 7, 8 &amp; A, B, C, D, because they were misleading and to the prejudice of deft and are not the law governing the case
+<lb/>4 Because the Court erred in refusing instructinos N<hi rend="sup">os</hi> 1 &amp; 4 &amp; B asked for by the deft.
+<lb/>5<hi rend="underline"><hi rend="sup">th</hi></hi> The Court erred in permitting an illegal &amp; improper question to be asked and discussed<pb/>
 <lb/><note place="header">(11)</note>
 <lb/>in the presence of the jury by counsel for the Commonwealth of Sam<hi rend="sup">l</hi> Wilburne after the deft had requested the Jury to be removed and that said question was prejudicial to his his case.
-<lb/>6<hi rend="underline"><hi rend="sup">th</hi></hi> For misconduct of the prevailing party in prosecuting the trial
+<lb/>6<hi rend="underline"><hi rend="sup">th</hi></hi> For misconduct of the prevailing party in prosecuting the trial. -- 
 <lb/>7<hi rend="underline"><hi rend="sup">th</hi></hi> For forcing him to <hi rend="str">execute</hi> accept the admissions of the atty for the Commonwealth. and not permitting him to have his witness face to face with the Jury -- </p>
 <p>Timoleon Cravens
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> E. Russell
-<lb/>H. C. Baker &amp;
+<lb/>H. C-- Baker &amp;
 <lb/>M. H Owsley
-<lb/>Attys. for Deft</p>
+<lb/>Attys, for Deft</p>
 <p><note place="left margin">Plffs Instructions <hi rend="underline">N</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> 1</hi></note>
-<lb/>At the instance of the attorney for the Commonwealth the court instructs the Jury 1<hi rend="sup">st</hi> That if they believe from the evidence that Richard Smith the prisoner at the bar Killed the Deceased, they must find him guilty of murder unless they believe from the evidence that at the time he did the act, he <hi rend="str">has</hi> was labouring under insanity of mind,</p>
+<lb/>At the instance of the attorney for the Commonwealth the court instructs the Jury 1<hi rend="underline"><hi rend="sup">st</hi></hi> That if they believe from the evidence that Richard Smith the prisoner at the bar killed the Deceased, they must find him guilty of murder unless they believe from the evidence that at the time he did the act, he <hi rend="str">has</hi> was labouring under insanity of mind,</p>
 <p><note place="left margin">N<hi rend="sup">o</hi> 2</note>
-<lb/>2<hi rend="sup">nd</hi> that if they believe from the evidence the prisoner did Kill Elzy Morgan and that he was labouring under insanity at the time yet if they believe from the evidence he had sufficient reason to Know he was doing wrong and would be liable to punishment, and that he had sufficient power to control his actions and refrain from Killing the said Morgan the law is against him and they must find him guilty<pb/>
+<lb/>2<hi rend="sup">nd</hi> that if they believe from the evidence the prisoner did kill Elzy Morgan and that he was labouring under insanity at the time yet if they believe from the evidence he had sufficient reason to Know he was doing wrong and would be liable to punishment, and that he had sufficient power to control his actions and refrain from Killing the said Morgain the law is against him and they must find him guilty<pb/>
 <lb/><note place="header">(12)</note></p>
 <p><note place="left margin"><hi rend="underline">N</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> 3</hi></note>
-<lb/>3<hi rend="underline"><hi rend="sup">rd</hi></hi> The court instructs the Jury that the law presumes every man to be sane until the contrary is shown by the evidence and before the prisoner can be excused for killing the deceased on the plea of insanity the jury must be satisfied from the evidence that the accused was labouring at the time the act was committed, under such a defect of reason as not to know it was wrong to commit murder</p>
+<lb/>3<hi rend="underline"><hi rend="sup">rd</hi></hi> The court instructs the Jury that the law presumes every man to be sane until the contrary is shown by the evidence and before the prisoner can be excused for killing the deceased on the plea of insanity the jury must be satisfied from the evidence that the accused was labouring at the time the act was committed, under such a defect of reason as not to know it was wrong to commit murder.</p>
 <p><note place="left margin"><hi rend="underline">N</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> 4</hi></note>
 <lb/>4<hi rend="underline"><hi rend="sup">th</hi></hi> That the true test of responsibility is whether the accused had sufficient reason to know <hi rend="str">it</hi> right from wrong and whether or not he had a sufficient power of control to govern his actions, that if they should believe from the evidence he was from any cause insane yet if they should believe from the evidence he knew it was wrong to kill and had sufficient power of control to govern his actions and to refrain from committing the homicide, then the law is against him and they must find him guilty,</p>
 <p><note place="left margin"><hi rend="underline">N</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> 5</hi></note>
 <lb/>5<hi rend="underline"><hi rend="sup">th</hi></hi> That if the Jury have a rational doubt as to the Guilt or innocence of the accused they must acquit him,</p>
 <p><note place="left margin"><hi rend="underline">N</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> 6</hi></note>
-<lb/>6<hi rend="underline"><hi rend="sup">th</hi></hi> That a rational doubt is one growing out of the evidence and not a mear chimera existing in the mind of the Juror, and to acquit on mear light and trivial doubts existing in the Jurors mind and not growing out of the evidence, tends to the encouragement of Malefactors is detrimental to the best interest of society and is a virtual violation of the Jurors oath, Given<pb/>
+<lb/>6<hi rend="underline"><hi rend="sup">th</hi></hi> That a rational doubt is one growing out of the evidence and not a mear chimera existing in the mind of the Juror, and to acquit on mear light and trivial doubts existing in the Jurors mind and not growing out of the evidence, tends to the encouragement of Malefactors is detrimental to the best interest of society and is a virtual violation of the Juror's oath,
+<lb/>Given<pb/>
 <lb/><note place="header">(13)</note>
-<lb/><note place="left margin">&gt;<hi rend="underline">N</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> 7</hi></note>
-<lb/>7 At the instance of the atty for the Commonwealth, the court instructs the Jury that if they believe from the evidence to the exclusion of a <hi rend="str">reasonable doubt</hi> rational do^u^bt that the prisoner suddenly and without any or a considerable provocation Killed the deceased the law implies malice, The court further instructs the Jury that Drunkenness does not extenuate excuse or justify crime,</p>
+<lb/><note place="left margin"><hi rend="underline">N</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> 7</hi></note>
+<lb/>7 At the instance of the atty for the Commonwealth, the court instructs the Jury that if they believe from the evidence to the exclusion of a <hi rend="str">reasonable doubt</hi> rational do^u^bt that the prisoner suddenly and without any or a considerable provocation killed the deceased the law implies malice, The court further instructs the Jury that Drunkenness does not extenuate excuse or justify crime,</p>
 <p><note place="left margin"><hi rend="underline">N</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> 8</hi></note>
-<lb/>8" That the unlawful wrongful deliberat<hi rend="str">ion</hi> use of a deadly weapon is prima facia evidence of malice, Given</p>
-<p><note place="left margin">Instr marked (A)</note>
-<lb/>^A^ If the Jury are satisfied from the testimony to the exclusion of a rational doubt that the accused did Kill Elzy Morgan by shooting him with a Pistol they ought to find him guilty of Murder Given</p>
+<lb/>8" That the unlawful wrongful deliberat<hi rend="str">ion</hi>e use of a deadly weapon is prima facia evidence of malice,
+<lb/>Given</p>
+<p><note place="left margin">Instr. marked (A)</note>
+<lb/>^A^ If the Jury are satisfied from the testimony to the exclusion of a rational doubt that the accused did kill Elzy Morgan by shooting him with a Pistol they ought to find him guilty of Murder
+<lb/>Given</p>
 <p><note place="left margin">(B)</note>
-<lb/>^B^ If the Jury have a reasonable doubt from the testimony of the guilt of the accused they ought to acquit him Given</p>
+<lb/>^B^ If the Jury have a reasonable doubt from the testimony of the guilt of the accused they ought to acquit him
+<lb/>Given</p>
 <p><note place="left margin">(C)</note>
 <lb/>^C^ The law presumes every man to be sane and accountable as such for the Commission of Crime, this presumption is as necessary and universal in its application in Criminal cases as the presumption of <hi rend="underline">innocence</hi>, the same amount of proof is required to rebut the one as the other and to support a plea of <hi rend="underline">insanity</hi> where a party has committed homicide the law demands such evidence as will satisfy the Jury that when he committed the act he was <hi rend="underline">insane</hi> and as an insane being<pb/>
 <lb/><note place="header">(14)</note>
-<lb/>not responsible for his acts
+<lb/>not responsible for his acts,
 <lb/>Given</p>
 <p><note place="left margin">(D)</note>
-<lb/>^D^ Moral insanity is no excuse in law for the Commission of crime unless the moral insanity overwhelmed and destroyed the faculties of the mind to such an extent as to render the accused incapable of governing his actions at the time of the Commission of the crime, which insanity must be proved and can not be presumed in the absence of proof Given -- </p>
+<lb/>^D^ Moral insanity is no excuse in law for the Commission of crime unless the moral insanity overwhelmed and destroyed the faculties of the mind to such an extent as to render the accused incapable of governing his actions at the time of the Commission of the crime, which insanity must be proved and can not be presumed in the absence of proof
+<lb/>Given -- </p>
 <p><note place="left margin">Defts Instr. N<hi rend="sup">o</hi> 1 refused</note>
-<lb/>^N<hi rend="sup">o</hi> 1^ If the Jury believe from the evidence in this case that the accused Killed Elzy Morgan without motive of revenge anger jealousy or other malevolent passion influencing him to the commission of the offense at the time it <hi rend="str">was is proper</hi> is competent and proper for them to consider such Killing together with the facts admitted to be true by the Commonwealth and all other facts &amp; circumstances proven in the case as evidence of the insanity of the accused at the time of the Commission of the offense</p>
+<lb/>^N<hi rend="sup">o</hi> 1^ If the Jury believe from the evidence in this case that the accused killed Elzy Morgan without motive of revenge anger jealousy or other malevolent passion influencing him to the Commission of the offense at the time it <hi rend="str">was is proper</hi> is competent and proper for them to consider such Killing together with the facts admitted to be true by the Commonwealth and all other facts &amp; circumstances proven in the case as evidence of the insanity of the accused at the time of the Commission of the offense</p>
 <p>This refused &amp; N<hi rend="sup">o</hi> 2 given in lieu of it</p>
 <p>T. T. Alexander</p>
 <p><note place="left margin">N<hi rend="sup">o</hi> 4 refused</note>
-<lb/>^N<hi rend="sup">o</hi> 4^ In determining the question of Malice the Jury may take into consideration the fact that the Prisoner was under the influence of intoxicating liquor together with all the other facts proven in the case, to determine whether the prisoner was actuated by malice or did the act in a sudden heat &amp; passion or without the intention of committing murder -- refused &amp; No 3 given in place of it</p>
-<p>T. T. Alexander<pb/></p>
-<p><note place="header">(15)</note></p>
-<p><note place="left margin">Instr marked (B) refused</note>
-<lb/>(B) The Court further instructs the Jury that although defendant may have retained the power of reasoning at the time the act was done and may have known right from wrong yet if the jury are satisfied from the testimony that deft. was impelled to the commission of the offense by such violent and ungovernable passions as could not be controlled or restrained by the accused they must find him not guilty
+<lb/>^N<hi rend="sup">o</hi> 4^ In determining the question of Malice the Jury may take into consideration the fact that the Prisoner was under the influence of intoxicating liquor together with all the other facts proven in the case, to determine whether the prisoner was actuated by malice or did the act in a sudden heat &amp; passion or without the intention of committing murder -- refused &amp; No. 3 given in place of it</p>
+<p>T. T. Alexander,<pb/></p>
+<p><note place="header">(15)</note>
+<lb/><note place="left margin">Instr marked (B) refused</note>
+<lb/>(B) The Court further instructs the Jury that although defendant may have retained the power of reasoning at the time the act was done and may have known right from rong yet if the jury are satisfied from the testimony that deft. was impelled to the commission of the offense by such violent and ungovernable passions as could not be controlled or restrained by the accused they must find him not guilty
 <lb/>refused</p>
+<p>At a Circuit Court continued &amp; held for the County of Adair at the courthouse in Columbia on Saturday the <date when="1864-11-19">19<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1864</date></p>
 <p><note place="left margin">Or<hi rend="sup">d</hi> court Judgt death</note>
-<lb/>At a Circuit Court continued &amp; held for the County of Adair at the courthouse in Columbia on Saturday the <date when="1864-11-19">19<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1864</date></p>
-<p>The Defendant Richard Smith was this day brought into court by the Jailer and being informed of the nature of the Indictment, plea, and verdict was asked if he had any legal cause to show why Judgment should not be pronounced against him; and none being shown, it is adjudged by the court that ^the^ Defendant Richard Smith, be taken to the Jail of Adair County and there safely kept until the <date when="1865-02-23">3<hi rend="sup">rd</hi> day of February 1865,</date> on which day between sun rise and sun set the Sheriff of Adair County shall hang him by the neck until he is dead.</p>
+<lb/>The Defendant Richard Smith was this day brought into court by the Jailer, and being informed of the nature of the Indictment, plea, and verdict was asked if he had any legal cause to show why Judgment should not be pronounced against him; and none being shown, it is adjudged by the court that ^the^ Defendant Richard Smith be taken to the Jail of Adair County, and there safely kept until the <date when="1865-02-23">3<hi rend="sup">rd</hi> day of February 1865,</date> on which day between sun rise and sun set the sheriff of Adair County shall hang him by the neck until he is dead.</p>
 <p>At a Circuit Court continued &amp; held for the County of Adair at the Courthouse in Columbia on Saturday the <date when="1864-11-19">19<hi rend="sup">th</hi> day of November 1864</date></p>
 <p><note place="left margin">Or<hi rend="sup">d </hi>court filing Bill Exceptions</note>
 <lb/>This day came the Deft in proper person and by his attorney and produced his<pb/>
 <lb/><note place="header">(16)</note>
 <lb/>Bill of Exceptions herein and the same being signed sealed and enrolled is ordered to be and is hereby made a part of the record in this case and prayed an appeal to the Court of Appeals which is granted him according to law.</p>
-<p><note place="left margin">Bill of Exceptions
-<lb/>See page (6) for this aff.</note>
-<lb/>Be it remembered that on the call of this case the Defendant produced his affidavit marked (A) (here insert it) and the Commonwealth admitted the statements of Thomas Turner in said affidavit to be true and refused to admit the statements of Bennett as set forth in said affidavit -- No further excuse appearing for a continuance the Court adjudged the Defendant should go into trial excluding the statements of said Dr Bennett in said affidavit -- The right of the Commonwealth to admit the statements of the said Thomas Turner as true and the ruling of the Court upon the affidavit the Defendant excepted to at the time -- filed his bill of exceptions and still excepts -- The Defendant then demurred to the indictment -- <note place="left margin">See Page (1) for this Indictmen<hi rend="sup">t</hi>.</note> (here insert indictment) This demurrer the court overruled to which said ruling of the court the Defendant excepted at the time -- filed his bill of exceptions and still excepts -- Then a Jury was sworn. The Commonwealth then introduced Milton M. Smiley as a witness who being sworn Stated that on Saturday before the <date when="1864-04">April Term of the Cumberland Circuit Court 1864</date> he was standing in front of the ^door of the^ store House of Ryan <pb/>
+<p><note place="left margin">Bill of Exceptions</note>
+<lb/>Be it remembered that on the call of this case the Defendant produced his affidavit marked (A) (here insert it) <note place="left margin">see page (6) for this aff.</note> and the Commonwealth admitted the statements of Thomas Turner in said affidavit to be true and refused to admit the statements of Bennett as set forth in said affidavit -- No further excuse appearing for a continuance the Court adjudged the Defendant should go into trial excluding the statements of said Dr Bennett in said affidavit -- The right of the Commonwealth to admit the statements of the said Thomas Turner as true and the ruling of the Court upon the affidavit the Defendant excepted to at the time -- filed his bill of exceptions and still excepts -- The Defendant then demurred to the indictment -- (here insert indictment) <note place="left margin">See page (1) for this Indictmen<hi rend="underline"><hi rend="sup">t</hi></hi></note> This demurrer the court overruled to which said ruling of the court the Defendant excepted at the time -- filed his bill of exceptions and still excepts -- Then a Jury was sworn-- The Commonwealth then introduced Milton M. Smiley as a witness who being sworn stated that on Saturday before the <date when="1864-04">April Term of the Cumberland Circuit Court 1864</date> he was standing in front of the ^door of the^ store House of Ryan &amp;<pb/>
 <lb/><note place="header">(17)</note>
-<lb/>Cross in Burksville Ky in conversation with Capt Watson some time about the middle of the day Deft Smith came along from behind him passing by him with a pistol in his hand cocked just as he passed witness Witness called Capt Watsons attention to the fact asking him if it was usual for Soldiers to go about town with pistols in their hands cocked -- That Watson remarked no -- damn him I will have him! and about the time Watson finished the remark the pistol fired and Morgan was shot -- That Morgan and Overstreet were standing on the path running from Ryan &amp; Cross Store House to the Courthouse <note place="left margin">See page (26) for this diagram marked (B)</note> (here insert diagram marked (B) about thirty five feet from witness -- Morgan was beyond Overstreet to the right of the path not far from the public well between the courthouse and Ryan &amp; Cross' Store -- but nearer the courthouse than the store. That Smith walked on with pistol in his hand cocked passed Overstreet put his hand around him Overstreet and shot Morgan and without stopping walked on through the crowd in direction of the courthouse entered into the South door of the Courthouse -- came out of the west door and went pretty fast to the Blacksmith shop back of Owsleys Store house -- Witness further stated that there were a good many people in town that day -- Saw Morgan after he was shot catch to Overstreet -- was carried into Owsleys store house -- heard his cries and groans and heard him state that he never had seen Smith before -- States that the ball<pb/>
+<lb/>Cross in Burksville Ky in conversation with Capt Watson some time about the middle of the day Deft Smith came along from behind him passing by him with a pistol in his hand cocked just as he passed witness Witness called Capt Watsons attention to the fact asking him if it was usual for Soldiers to go about town with pistols in their hands cocked-That Watson remarked no-damn him I will have him! and about the time Watson finished the remark the pistol fired and Morgan was shot -- That Morgan and Overstreet were standing on the path running from Ryan &amp; Cross Store House to the Courthouse <note place="left margin">See page (26) for this diagram marked (B)</note> (here insert diagram marked (B) about thirty five feet from witness -- Morgan was beyond Overstreet to the right of the path not far from the public well between the courthouse and Ryan &amp; Cross' Store-but nearer the courthouse than the store. That Smith walked on with pistol in his hand cocked passed Overstreet put his hand around him Overstreet and shot Morgan and without stopping walked on through the crowd in direction of the courthouse entered into the South door of the Courthouse -- came out of the west door and went pretty fast to the Blacksmith Shop back of Owsleys Store house -- Witness further stated that there were a good many people in town that day -- Saw Morgan after he was shot catch to Overstreet -- was carried into Owsleys store house -- heard his cries and groans and heard him state that he never had seen Smith before-States that the ball<pb/>
 <lb/><note place="header">(18)</note>
 <lb/>entered just above the hip -- Morgan suffered greatly he made great fuss groaning &amp; screaming that it is about 30 yards from Ryan &amp; Cross store to courthouse witness was present after Morgan was shot while the surgeons were probing &amp; dressing wound. Morgan suffered greatly, did not see Morgan after his death, did not see him die</p>
-<p>Commonwealth then introduced Benjamin B Vaughan who stated that he was standing near Smiley and Watson -- when Smith passed him he had his pistol cocked in his hand behind him near the middle of his back and was going in the direction of the Courthouse near which Morgan &amp; Overstreet were standing -- Did not see Smith when he shot Morgan -- heard the pistol fire and saw Morgan stagger -- Dont know where Smith came from -- came in from behind him -- he (witness) was standing between Smiley &amp; Overstreet near the walk when Smith passed him, Overstreet was between him &amp; Morgan &amp; on the walk or path, &amp; said Overstreet was nearer to Ryan &amp; Cross Store than Morgan,</p>
-<p>Commonwealth then introduced Geo W Overstreet who stated that he was standing 8 or 10 feet from the path on the south side in conversation with Morgan who was Standing on the side in the direction from which Smith was coming -- He spoke to Smith, but Smith did not recognize him -- He passed opposite then straightened his arm and fired and shot Morgan -- <pb/>
-<lb/><note place="header">(19)</note>
-<lb/>Morgan and witness facing Smith at the time -- At the time of the firing Morgan nearer Ryan &amp; Cross' Store than witness That Smith stopped and from his actions he thought he was going to fire again -- but he did not fire -- He then passed through the crowd into the South door of the courthouse and out of the west door where he was arrested and taken to the Black Smith shop and hand cuffed -- That he heard Morgan say after he was shot that he had never seen the man before -- He said that he saw accused after the shooting occurred and at the time and that he did not look right to him -- and looked strange and silly -- This occurred in Burksville Cumberland County Ky -- That witness did not and does not know whether Smith was shooting at him or Morgan -- This occurred on Saturday before the <date when="1864-04">last April</date> term of the Cumberland Circuit Court after 12 Oclock -- That the town was full of people citizens and soldiers</p>
-<p>The Commonwealth then introduced Reece Morgan who having been sworn stated that Elzy Morgan was dead -- that he brought him from Burksville the day after the shooting occurred a corpse -- </p>
-<p>Samuel Wilburne was then introduced and sworn and not examined -- </p>
+<p>Commonwealth then introduced Benjamin B Vaughan who stated that he was standing near Smiley and Watson-when Smith passed him he had his pistol cocked in his hand behind him near the middle of his back and was going in the direction of the Courthouse near which Morgan &amp; Overstreet were standing -- Did not see Smith when he shot Morgan -- heard the pistol fire and saw Morgan stagger -- Dont know where Smith came from-came in from behind him-he (witness) was standing between Smiley &amp; Overstreet near the walk when Smith passed him, Overstreet was between him &amp; Morgan &amp; on the walk or path, &amp; said Overstreet was nearer to Ryan &amp; Cross Store than Morgan,</p>
+<p>Commonwealth then introduced Geo W Overstreet who stated that he was standing 8 or 10 feet from the path on the south side in conversation with Morgan who was Standing on the side in the direction from which Smith was coming -- He spoke to Smith, but Smith did not recognize him-He passed opposite them straightened his arm and fired and shot Morgan-<pb/>
+<lb/><note place="header">(19)</note></p>
+<p>Morgan <hi rend="str">&amp;</hi>and witness facing Smith at the time -- At the time of the firing Morgan nearer Ryan &amp; Cross' Store than witness That Smith Stopped and from his actions he thought he was going to fire again- but he did not fire- He then passed through the crowd into the South door of the courthouse and out of the west door where he was arrested and taken to the Black Smith Shop and hand cuffed -- That he heard Morgan say after he was shot that he had never seen the man before -- He said that he saw accused after the shooting occurred and at the time and that he did not look right to him -- and looked strange and silly -- This occurred in Burksville Cumberland County Ky -- That witness did not and does not know whether Smith was shooting at him or Morgan -- This occurred on Saturday before the <date when="1864-04">last April</date> term of the Cumberland Circuit Court after 12 Oclock -- That the town was full of people citizens and soldiers</p>
+<p>The Commonwealth then introduced Reece Morgan who having been sworn stated that Elzy Morgan was dead-that he brought him from Burksville the day after the shooting occurred a corpse -- </p>
+<p>Saml Wilburne was then introduced and sworn and not examined -- </p>
 <p>Here the Commonwealth closed the examination in chief -- <pb/>
 <lb/><note place="header">(20)</note></p>
 <p><note place="left margin">See page (26) for ^this^ part aff. marked (C)</note>
 <lb/>The Defendant then introduced so much of the affidavit as was admitted by the Commonwealth to be true marked (C) (here insert it)</p>
-<p>Jane Smith was then introduced by Defendant and having been sworn stated that she was mother of accused -- that accused was about 37 or 38 years old -- That he has been subject to bad spells all his life that when in such spells he would try to Kill his father brothers and sisters with any thing that came into his reach -- That she frequently had to hold him until they could get out of the way -- that drinking liquors made him worse -- That she had had him shocked by Dr Beckett to see if it would improve him -- That he had spells both when he had been drinking and when he had not and during those spells he would use clubs -- an axe or anything he could kill with -- At the time he joined the army she objected to his joining -- and told Capt Wood that he was not right -- That an older brother of his was deranged -- That the accused had been married about 13 years and that she had been living close to him and with him most of the time -- </p>
-<p>On cross examination She said deft had had these spells all his life from his earliest infancy that he had no more than 500 perhaps 1000 such spells he would try to kill his father brothers mother &amp; sisters with rocks sticks knives fense rails guns pistols axes &amp; any &amp; every thing else<pb/>
+<p>Jane Smith was then introduced by Defendant and having been sworn stated that she was mother of accused -- that accused was about 37 or 38 years old -- That he has been subject to bad spells all his life that when in such spells he would try to kill his father brothers and sisters with any thing that came in his reach -- That she frequently had to hold him until they could get out of the way -- that drinking liquors made him worse-That she had had him shocked by Dr Beckett to see if it would improve him- That he had spells both when <hi rend="str">he</hi> had been drinking and when he had not and during those spells he would use clubs- an axe or anything he could kill with- At the time he joined the army she objected to his joining- and told Capt Wood that he was not right -- That an older brother of his was deranged -- That the accused had been married about 13 years and that she had been living close to him and with him the most of the time -- </p>
+<p>On cross examination She said deft had had these spells all his life from his earliest infancy, that he had more than 500 perhaps 1000 such spells he would try to kill his father brothers mother &amp; sisters with rocks sticks knives fense rails guns pistols axes &amp; any &amp; every thing else<pb/>
 <lb/><note place="header">(21)</note>
 <lb/>could get that he was mighty bad that she was 60 years old &amp; from her earliest recollection deft had been subject to these spells, that she was 30 years older than accused that accused would try to kill his father &amp; brothers &amp; she would hold him until they could get away &amp; then witness would go into the kitchen, she then enquired if the person questioning her was the atto. for the comth &amp; being informed it was she refused to answer further, but was required by the court to answer &amp; on further cross examination she could not tell when or where deft had ever had but 2 such spells and one of those two spells she only heard about &amp; was not present -- </p>
-<p>Capt Thomas Wood was then introduced by the Defendant who stated that he had known the accused all his life -- had seen him frequently and that he was a member of his Company he enlisted in his company about <date when="1863-08">August 1863</date> That accused was not a sharp man -- He saw him once near Columbia when he appeared to be not right -- Witness at the time attributed this to drunkenness &amp; thought deft was drunk -- He was threatening some of the men and from his appearanse he thought he was dangerous -- saw he was in earnest, and he had him disarmed and a watch placed over him -- He further stated that Mrs Smith mother of the accused met witness after he had enlisted accused in his company -- and told witness she did not want accused to join the army because he was not right -- The accused had already been enlisted and he did not want<pb/>
+<p>Capt Thomas Wood was then introduced by the Defendant who stated that he had known the accused all his life -- had seen him frequently and that he was a member of his Company he enlisted in his company about <date when="1863-08">August 1863</date> That accused was not a sharp man -- He saw him once near Columbia when he appeared to be not right -- Witness at the time attributed this to drunkenness &amp; thought deft was drunk- He was threatening some of the men and from his appearanse he thought he was dangerous- saw he was in earnest, and he had him disarmed and a watch placed over him -- He further stated that Mrs Smith mother of the accused met witness after he had enlisted accused in his company -- and told witness she did not want accused to join the army because he was not right- The accused had already been enlisted and he did not want<pb/>
 <lb/><note place="header">(22)</note>
-<lb/>to be troubled with her and went away and left her -- Witness thinks accused is between 30 and 40 years old -- He was not at Burksville when the Killing took place was crippled and away -- Witness and accused were both raised in Clinton Co Ky -- that he has been well acquainted with him all his life Witness further stated that the knowledge of an officer of his men related more to their qualities as a soldier than to his mental caliber -- On crossexamination he was aksed whether he had ever known or heard of accused being insane -- and in answer said that he had not known of his insanity or any thing wrong with him but had heard of it -- </p>
-<p>T. Q. Walker was then introduced by Defendant and stated that he had been a practicing physician since <date when="1832">1832</date> -- That he had attended on several cases of insanity in the course of his practice -- That moral insanity is a disease of the emotions and consists in a perversion of the affections, feelings and impulses -- That he had heard this case and if the facts detailed by the witnesses and admitted by the Commonwealth were all true that he would have serious doubts as to whether the accused was sane -- That he was in great doubt as to the manner in which he should express himself -- That if all the facts proven in this case were true that he would not be satisfied that deft was insane, or sane, and if any of the proof was untrue then he<pb/>
+<lb/>to be troubled with her and went away and left her -- Witness thinks accused is between 30 and 40 years old- He was not at Burksville when the Killing took place was crippled and away -- Witness and accused were both raised in Clinton Co Ky- that he has been well acquainted with him all his life Witness further stated that the knowledge of an officer of his men related more to their qualities as a soldier than to his mental caliber -- On cross examination he was asked whether he had ever known or heard of accused being insane- and in answer said that he had not known of his insanity or any thing wrong with him but had heard of it -- </p>
+<p>T. Q. Walker was then introduced by Defendant and stated that he had been a practicing physician since <date when="1832">1832</date>- That he had attended on several cases of insanity in the course of his practice -- That moral insanity is a disease of the emotions and consists in a perversion of the affections, feelings and impulses -- That he had heard this case and if the facts detailed by the witnesses and admitted by the Commonwealth were all true that he would have serious doubts as to whether the accused was sane -- That he was in great doubt as to the manner in which he should express himself- That if all the facts proven in this case were true that he would not be satisfied that deft was insane, or sane, and if any of the proof was untrue then he<pb/>
 <lb/><note place="header">(23)</note>
 <lb/>would have less doubts of the Defts sanity.</p>
-<p>Sam<hi rend="sup">l</hi>. Wilburn was recalled by the Commonwealth and asked if Smith did or did not stay at his house all night last winter and asked witness how far it was to Enos Morgans and if he could direct him the way to Enos Morgans -- That Enos Morgan had accused him of stealing a horse which was not true -- To which Defendant objected and requested that the Jury be removed during the discussion of the question -- The court sustained the objection but permitted the argument against the admissibility of this testimony to be made in the presence of the Jury -- To which last ruling of the court deft excepted at the time -- filed his bill of exceptions and still excepts, The court at the time told the Jury that nothing that had been said on this subject was to be considered by them, the witness was not permitted to &amp; did not answer the question and the question decided illegal -- </p>
-<p>The Commonwealth then introduced Mrs <gap/> Morgan widow of deceased who stated that she went to Burksville on the same evening and after Morgan was shot -- That he did next day about 18 hours after the shooting occurred from the effect of his wounds she saw him die the ball entered just above right hip &amp; lodged in the left hip Morgan suffered greatly all the time he lived after he was shot,<pb/>
+<p>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Wilburn was recalled by the Commonwealth and asked if Smith did or not stay at his house all night last winter and asked witness how far it was to Enos Morgans and if he could direct him the way to Enos Morgans -- That Enos Morgan had accused him of stealing a horse which was not true -- To which Defendant objected and requested that the Jury be removed during the discussion of the question. -- The court sustained the objection but permitted the argument against the admissibility of this testimony to be made in the presence of the Jury -- To which last ruling of the court deft excepted at the time- filed his bill of exceptions and still excepts, The court at the time told the Jury that nothing that had been said on this subject was to be considered by them, the witness was not permitted to &amp; did not answer the question and the question decided illegal -- </p>
+<p>The Commonwealth then introduced Mrs <gap/> Morgan widow of deceased who stated that she went to Burksville on the same evening and after Morgan was shot- That he did next day about 18 hours after the shooting occurred from the effect of his wounds she saw him die the ball entered just above right hip &amp; lodged in the left hip Morgan suffered greatly all the time he lived after he was shot,<pb/>
 <lb/><note place="header">(24)</note></p>
 <p><note place="left margin">See page (27) for this paper marked *)</note>
 <lb/>* Here Insert paper marked * (Overstreet recalled The foregoing was all the testimony in the case</p>
-<p><note place="left margin">See pages from (11) to (14) inclusive for these instructions marked No<hi rend="sup">s..</hi> 1. &amp;c, given</note>
-<lb/>The Commonwealths attorney then offered the following instructinos No<hi rend="sup">s</hi> 1, 2, 3, 4, 5, 6, 7, 8, and A, B, C, D -- (here insert them) which were given by the court to all of which the Defendants excepted at the time -- filed his bill of exceptions and still excepts.</p>
-<p><note place="left margin">See pages (14) &amp; (15) for these instructions marked N<hi rend="sup">o</hi> 1. &amp; N<hi rend="sup">o</hi> 4 &amp; (15) refused &amp; see pages (27) to (29) inclusive for these Instr<hi rend="sup">s</hi>. marked N<hi rend="sup">o</hi> 2. 3. 5. 6. A. B. C, D. given</note>
-<lb/>The Defendant then offered the following instructions No<hi rend="sup">s</hi> 1, 2, 3, 4, 5, 6, and A, B, C, D, (here insert them) all of which were given by the court except No<hi rend="sup">s</hi> 1, 4, and B which were refused by the Court -- To which ruling of the Court in refusing to give said instructions the Defendant excepted at the time filed his bill of exceptions and still excepts -- </p>
-<p>After the evidence as above was all heard &amp; the arguments of Counsel completed the Jury retired to their room and afterward returned a verdict of guilty (here insert it) <note place="left margin">See page (9) for this verdict</note> and at the instance of counsel of accused the Jury were polled and each <hi rend="str">Jury</hi> Juryman agreed to the verdict -- afterwards towit on the next day the Defts attorneys filed grounds &amp; moved the court to arrest the Judgment and set aside the verdict and grant accused a new trial (here insert them) <note place="left margin">see page (9) &amp; 10 for these grounds &amp; motions </note> which motion was overruled by the court to which the accused excepted at the time and still excepts and on Saturday the <date when="1864-11-19">19<hi rend="sup">th</hi> day of Nov<hi rend="sup">r</hi>. 1864</date> (it being the last day of the November term of the Adair<pb/>
+<p><note place="left margin">See pages from (11) to (14) inclusive for these instructions marked No<hi rend="underline"><hi rend="sup">s</hi></hi> 1. &amp;<hi rend="sup">c</hi>, given</note>
+<lb/>The Commonwealths attorney then offered the following instructinos No<hi rend="sup">s</hi> 1, 2, 3, 4, 5, 6, 7, 8, and A, B. C, D- (here insert them) which were given by the court to all of which the Defendants excepted at the time- filed his bill of exceptions and still excepts.</p>
+<p><note place="left margin">See pages (14) &amp; (15) for these instruction<hi rend="underline"><hi rend="sup">s</hi></hi> marked N<hi rend="sup">o</hi> 1. &amp; N<hi rend="sup">o</hi> 4 &amp; (B) refused &amp; see pages (27) to (29) inclusive for these Instr<hi rend="underline"><hi rend="sup">s</hi></hi> marked N<hi rend="sup">o</hi> 2. 3. 5. 6. A. B. C, D. given</note>
+<lb/>The Defendant then offered the following instructions No<hi rend="sup">s</hi> 1, 2, 3, 4, 5, 6, and A, B, C, D. (here insert them) all of which were given by the court except No<hi rend="sup">s</hi> 1, 4, and B which were refused by the Court -- To which ruling of the Court in refusing to give said instructions the Defendant excepted at the time filed his bill of exceptions and still excepts -- </p>
+<p>After the evidence as above was all heard &amp; the arguments of Counsel completed the Jury retired to their room and afterwards returned a verdict of guilty (here insert it) <note place="left margin">See page (9) for this verdict</note> and at the instance of counsel of accused the Jury were polled and each <hi rend="str">Jury</hi> Juryman agreed to the verdict -- afterwards towit on the next day the Defts attorneys filed grounds &amp; moved the court to arrest the Judgment and set aside the verdict and grant accused a new trial (here insert them) which motion <note place="left margin">see page (9) &amp; 10 for these grounds &amp; motion</note> was overruled by the court to which the accused excepted at the time and still excepts and on Saturday the <date when="1864-11-19">19<hi rend="sup">th</hi> day of Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 1864</date> (it being the last day of the November term of the Adair<pb/>
 <lb/><note place="header">(25)</note>
-<lb/>Circuit Court) the Deft Richard Smith was led to the bar of the court in custody of the Jailer and duly sentenced and the Judgment of the court was that said Richard Smith be hung by the neck until he is dead on Friday the <date when="1865-02-23">3<hi rend="sup">rd</hi> day of February 1865</date> by the Sheriff of Adair County to which Judgment &amp; Sentence of the court the Deft excepted at the time and still excepts, And thereupon the Deft prayed an Appeal to the Court of Appeals which is granted him according to law and the accused by his Attys. presented a Bill of Exceptions which contains all the testimony adduced on the trial which being examined is signed sealed and ordered to be filed and is made a part of the record and proceedings in this <hi rend="str">case</hi> prosecution In witness whereof I have hereunto set my hand &amp; seal as Judge of the 15<hi rend="sup">th</hi> Judicial District of Kentucky</p>
+<lb/>Circuit Court) the Deft Richard Smith was led to the bar of the court in custody of the Jailer and duly sentenced and the Judgment of the court was that said Richard Smith be hung by the neck until he is dead on Friday the <date when="1865-02-03">3<hi rend="sup">rd</hi> day of February 1865</date> by the Sheriff of Adair County to which Judgment &amp; Sentence of the court the Deft excepted at the time and still excepts, And thereupon the Deft prayed an Appeal to the Court of Appeals which is granted him according to law and the accused by his Attys. presented a Bill of Exceptions which contains all the testimony adduced on the trial which being examined is signed sealed and ordered to be filed and is made a part of the record and proceedings in this <hi rend="str">case</hi> prosecution In Witness whereof I have hereunto set my hand &amp; seal as Judge of the 15<hi rend="underline"><hi rend="sup">th</hi></hi> Judicial District of Kentucky</p>
 <p>T T Alexander <figure type="seal"/>
 <lb/>Judge of 15' Judicial Dist. of Ky<pb/>
 <lb/><note place="header">(26)</note></p>
@@ -254,68 +262,69 @@
 <lb/>S
 <lb/>Grocery
 <lb/>Road 
-<lb/>Road Morgan &amp; Overstreet
-<lb/>well Block Ryan &amp; Scross S. H.
 <lb/>Road
+<lb/>Morgan &amp; Overstreet
+<lb/>well
+<lb/>Block
+<lb/>Ryan &amp; Cross S. H,
 <lb/>a
-<lb/>B Owsleys Store
-<lb/>Road 
-<lb/>B Shop
-<lb/>Court House C. H.
+<lb/>B
+<lb/>C. H.
+<lb/>Court House
 <lb/>Road</p>
-<p>The letter (A) represents the walk from Ryan &amp; Cross Store to the Court house, and (B) the walk from Owsleys Store house to the court house</p>
+<p>The letter (A) represents the <hi rend="str">a</hi>walk from Ryan &amp; Cross Store to the court house. and (B) the walk from Owsleys Store house to the court house</p>
 <p><note place="left margin">Part of aff. admitted marked (C)</note>
-<lb/>^(C)^ It is admitted as true that on the morning and before the commission of the offense with which defendant stands charged in this case, that the defendant and one Thomas Turner had been for several days preceding the commission of the offense on provost duty near the town of Burksville or therein and that the defendant had been drinking considerably for several days preceding the time of the offense and looked strange, and looked about in strange way -- and on the morning before and before<pb/>
+<lb/>(C) It is admitted as true that on the morning and before the commission of the offense with which defendant stands charged in this case, that the defendant and one Thomas Turner had been for several days preceding the commission of the offense on provost duty near the town of Burksville or therein and that the defendant had been drinking considerably for several days preceding the time of the offense and looked strange, and looked about in strange way -- and on the morning before and before<pb/>
 <lb/><note place="header">(27)</note>
 <lb/>the defendant came to town where the offense was committed defendant said to Turner that he the defendant was going to Burksville to have a big spree with John Elder that said John Elder was not and had not been in Burksville for several years and in fact does not live in the state of Kentucky, That after the defendant came to town he went to grocery and drank spiritous liquors and asked Turner where he could get some tobacco and turned off suddenly &amp; soon after the killing of Morgan occurred,</p>
 <p><note place="left margin">paper marked (*)</note>
 <lb/>* George W Overstreet recalled by Dft said he* knew of no cause for anger or other malevolent passion on the part of accused towards witness and that John Elder was formerly a citizen of Clinton County Ky in which accused was raised Elder was a prominent man not in the habit of Spreeing is now &amp; has been for several years in the southern states &amp; there was no reasonable probability of his being in Burksville on the day of the killing did not know whether accused knew Elder</p>
-<p><note place="left margin">Defts Instrs marked (N<hi rend="sup">o</hi>2) given</note>
-<lb/>^N<hi rend="sup">o</hi> 2 Deft^ If the Jury believe from the evidence in this case that the accused Killed Morgan without Motive of revenge, anger Jealousy ^or other motive or malevolent passion^ influencing him to the commission of the offense at the time, it is competent and proper for them to consider such absence of motive together with all the facts admitted and proved in the case in determining the sanity or insanity of the accused
-<lb/>Given.<pb/>
+<p><note place="left margin">Defts Instrs marked (N<hi rend="sup">o </hi>2) given</note>
+<lb/>^N<hi rend="sup">o</hi> 2 Deft^ If the Jury believe from the evidence in this case that the accused Killed Morgan without Motive of revenge, anger Jealousy ^or other motive or malevolent passion^ influencing him to the Commission of the offense at the time, it is competent and proper for them to consider such absence of motive together with all the facts admitted and proved in the case in determining the sanity or insanity of the accused
+<lb/>Given,<pb/>
 <lb/><note place="header">(28)</note></p>
-<p><note place="left margin">Defts Inst<hi rend="sup">r</hi>. marked (N<hi rend="sup">o</hi> 3) given</note>
-<lb/>If the Jury believe from the evidence that the accused was at the time of shooting Elzy Morgan under the influence of intoxicating liquor this fact together with all others proven and admitted in the case is proper for their consideration in determining the question of Malice on the part of the accused towards Morgan N<hi rend="sup">o</hi> 3 Given</p>
+<p><note place="left margin">Defts Instr<hi rend="underline"><hi rend="sup">s</hi></hi> marked (N<hi rend="sup">o</hi> 3) given</note>
+<lb/>If the Jury believe from the evidence that the accused was at the time of shooting Elzy Morgan under the influence of intoxicating liquor this fact together with all others proven and admitted in the case is proper for their consideration in determining the question of Malice on the part of the accused towards Morgan N<hi rend="sup">o</hi> 3
+<lb/>Given</p>
 <p><note place="left margin">(N<hi rend="sup">o</hi> 5)</note>
-<lb/>5 The Court at the instance of Defts Counsel instruct the Jury that if they are satisfied from the evidence that the Prisoner at the Bar was at the time he shot Morgan insane and void of reason they should acquit him of the offense charged in the Indictment -- Given</p>
+<lb/>5 The Court at the instance of Defts Counsel instruct the Jury that if they are satisfied from the evidence that the Prisoner at the Bar was at the time he shot Morgan insane and void of reason they should acquit him of the offense charged in the Indictment -- 
+<lb/>Given</p>
 <p><note place="left margin">(N<hi rend="sup">o</hi> 6)</note>
-<lb/>6 If the Jury acquit the Prisoner on the ground of insanity they must so state the fact in their verdict -- Given</p>
+<lb/>6 If the Jury acquit the Prisoner on the ground of insanity they must so state the fact in their verdict -- 
+<lb/>Given</p>
 <p><note place="left margin">(A)</note>
-<lb/>(A) The Court instructs the Jury at the instance of Deft. that if they are satisfied from the testimony that defendant at the time of the Commission of the act was labouring under such mental derangement that he did not at the time know right from rong -- they should find him not guilty Given</p>
+<lb/>(A) The Court instructs the Jury at the instance of Deft. that if they are satisfied from the testimony that defendant at the time of the Commission of the act was labouring under such mental derangement that he did not at the time know <hi rend="str">w</hi>right from rong-- they should find him not guilty
+<lb/>Given</p>
 <p><note place="left margin">(C)</note>
 <lb/>(C) To Excuse the prisoner -- it is not necessary to show total derangement of the mental faculties, A man may reason well on all subjects and yet be so morrally insane that his passions and feelings entirely cease to be<pb/>
 <lb/><note place="header">(29)</note>
-<lb/>controlled or restrained by the faculties of the mind -- Given</p>
+<lb/>controlled or restrained by the faculties of the mind -- 
+<lb/>Given</p>
 <p><note place="left margin">(D)</note>
 <lb/>(D) The Court instructs the Jury that moral insanity most usually consists in a perversions of the passions feelings and affections which when proven to the satisfaction of the Jury excuses the commission of crime when it exists in such violence as to cease to be controlled by the action of the mind
 <lb/>Given</p>
 <p>State of Kentucky
-<lb/>County of Adair } Sct</p>
+<lb/>County of Adair &#125; Sct</p>
 <p>I James T. Page Clerk of the Circuit Court for the County aforesaid do hereby certify that the preceding twenty nine pages contain a full and complete transcript of the record and proceedings of the prosecution therein mentioned of The Commonwealth of Kentucky against Richard Smith -- </p>
-<p>Witness my hand this <date when="1864-11-26">26<hi rend="sup">th</hi> day of November 1864</date>
-<lb/>James T. Page C,A,C,C</p>
+<p>Witness my hand this <date when="1864-11-26">26<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1864</date></p>
+<p>James T. Page C, A, C, C</p>
+<p>Index</p>
 <p><table rend="rules">
-<row>
-	<cell>Index</cell>
-	<cell/>
-	<cell>Defts Instructinos marked<lb/>
-<lb/>No 2. 3. 5. 6. &amp; A. C. D. pages</cell>
-	<cell>27 to 29</cell>
-</row>
 <row>
 	<cell>Indictment Page</cell>
 	<cell>1</cell>
-	<cell>Certificate 29</cell>
-	<cell/>
+	<cell>Defts Instructions marked<lb/>
+<lb/>N<hi rend="sup">o</hi> 2. 3. 5. 6. &amp;. A. C. D. pages</cell>
+	<cell>27 to 29</cell>
 </row>
 <row>
-	<cell>Copy record from C.C.C.C.</cell>
+	<cell>Copy record from C. C. C. C.</cell>
 	<cell>1- to 4</cell>
-	<cell/>
-	<cell/>
+	<cell>Certificate</cell>
+	<cell>29</cell>
 </row>
 <row>
-	<cell>Order court aff. filed demr, &amp;c</cell>
+	<cell>Order court aff. filed dem<hi rend="underline"><hi rend="sup">r</hi></hi> &amp;c</cell>
 	<cell>5</cell>
 	<cell/>
 	<cell/>
@@ -334,7 +343,7 @@
 </row>
 <row>
 	<cell>Grounds &amp; motion of Deft</cell>
-	<cell>9 to 10</cell>
+	<cell>9. to 10</cell>
 	<cell/>
 	<cell/>
 </row>
@@ -345,7 +354,7 @@
 	<cell/>
 </row>
 <row>
-	<cell>Defts " No 1. 4 &amp; B refused</cell>
+	<cell>Defts " N<hi rend="sup">o</hi> 1. 4 &amp; B refused</cell>
 	<cell>14 to 15</cell>
 	<cell/>
 	<cell/>
@@ -380,16 +389,16 @@
 	<cell/>
 	<cell/>
 </row>
-</table>
-<lb/>J. T. Page Clk<pb/></p>
+</table></p>
+<p>J. T. Page Clk<pb/></p>
 <p>The Comth of Ky
-<lb/>vs } Transcript of Record
+<lb/>vs &#125; Transcript of Record
 <lb/>Richard Smith<figure type="hr"/></p>
-<p>An Appeal refused
+<p>An Appeal refused.
 <lb/>J. F. Bullitt
 <lb/><date when="1864-12-22">Dec<hi rend="sup">r</hi> 22, 1864</date></p>
-<p>Respited until <date when="1865-03-03">3<hi rend="sup">d</hi> day March 1865</date></p>
-<p><date when="1865-01-31">31<hi rend="sup">st</hi> Jany/65</date></p>
+<p>Respited until <date when="1865-03-03">3<hi rend="sup">d</hi> day March 1865</date>
+<lb/><date when="1865-01-31">31<hi rend="sup">st</hi> Jany/65</date></p>
   </body>
  </text>
 </TEI>

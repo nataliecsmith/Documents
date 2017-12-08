@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1561"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,17 +63,16 @@
  <text>
   <body>
    <p>To his excellency Chas A Morehead
-<lb/>Governor of the Commonwealth of Kentucky</p>
-<p>Whereas there will be a petition presented to your excellency, praying you to release my unfortunate husband from his presant miserable condition I would respectfully add my feeble testimony, and pray your excellency to give it a favorable hearing I am sister to Thomas Estes, who was the unfortunate man who was killed by C H Tomlinson my husband, and Sanford Tomlinson was the only person who was presant at the time, and who had any Knowledge of the material facts It happened on the road by my Brothers house, and near my mothers and in a thickly settled neighborhood, with verry few exceptions, every body for miles around are related to our family, and among them some verry bad people S Tomlinson my husband and Brother, that night came from the Stampingground together, my Brother was somwhat intoxicated It is known they rode out in their usual friendly manner when they arrived at my Brothers Charles passed a harmless joke which offended Tom who attempted to pull off his coat when<pb/>
-<lb/>Sanford Tomlinson, got off his hors and approached Bro Tom pulling his coat back and adjusting it on his shoulders speaking Kindly to him begged him not to get mad that Charles was joking Thinking he had quietted Brother Tom, Then turned to go to Charles and tell him to ride on, knowing that Tom was passionate and precipitate when drinking in order to prevent a disturbance when he turned round Bro Tom mad a sudden and unexpected attack on Charles, struck him a blow on the head by throw a stone then, seized him by the hair and struck him a severe blow on the side with a rock held in the hands, the effects of which no doubt is felt to this Day and to a great extent the cause of his bad health when a pistol fired Brother Tom is a large stout man and my husband a small slender person and possessed of a feeble constitution We live a little more than a quarter of a mile from where it occured and Charles came home and Sanford remained there until late he told the same thing to me and others that Sanford Tomlinson related to the people at Bro Toms, without any possibility of concert which enables me to Know almost as well as if I had bee an eye witness Charles came in the house bleding, and complaining of his side which<pb/>
-<lb/>which he never ceased to do when he was with us Enemies conspired and put forth false reports for the purpose of inflaming public opinion, and exciting prejudices against him for the purpose of encompassing his ruin They even vented their spleen against our two little children and turned my Brothers who were favorably disposed against him I am satisfied the operated on their feelings of cupidety They tried my youngest sister to turn witness against him knowing at the same time, that she as well as they had Knowledge of facts sufficient to clear him My husband and Sanford Tomlinson to my knowledge was the best if not the only friends Brother Tom had I know there was never any difference ^or^ unkind feelings between them as far as they were concerned But it is evident bad tales had been told Bro Tom for the ends of mischief which was consummated on account of his unfortunate condition I refer to the evedence of my sister who remained true and unshaken</p>
+<lb/>Governor of the commonwealth of Kentucky</p>
+<p>Whereas there will be a petition presented to your excellency, praying you to release my unfortunate husband from his presant miserable condition I would respectfully add my feeble testimony, and pray your excellency to give it a favorable hearing I am sister to Thomas Estes, who was the unfortunate man who was killed by C H Tomlinson my husband, and Sanford Tomlinson was the only person who was presant at the time, and who had any knowledge of the material facts It happened on the road by my Brothers house, and near my mothers and in a thickly settled neighborhood, with verry few exceptions, every body for miles around are related to our family, and among them some verry bad people S Tomlinson my husband and Brother, that night came from the Stampingground together, my Brother was somwhat intoxicated It is known they rode out in their usual friendly manner when they arrived at my Brothers Charles passed a harmless joke which offend Tom who attempted to pull off his coat when<pb/>
+<lb/>Sanford Tomlinson, got off his hors and approached Bro Tom pulling his coat back and adjusting it on his shoulders speaking kindly to him begged him not to get mad that Charles was joking Thinking he had quietted Brother Tom, Then turned to go to Charles and tell him to ride on, knowing that Tom was passionate and precipitate when drinking in order to prevent a disturbance when he turned round Bro Tom mad a sudden and unexpected attack on Charles, struck him a blow on the head by throw a stone then, Seized him by the hair and struck him a severe blow on the side with a rock held in the hands, the effects of which no doubt is felt to this Day and to a great extent the cause of his bad health when a pistol fired Brother Tom is a large stout man and my husband a small slender person and possessed of a feeble constitution We live a little more than a quarter of a mile from where it occured and Charles came home and Sanford remained there until late he told the same thing to me and others that Sanford Tomlinson related to the people at Bro Toms, without any possibility of concert which enables me to Know almost as well as if I had bee an eye witness Charles came in the house bleding, and complaining of his side which<pb/>
+<lb/>which he never ceased to do while he was with us Enemies conspired and put forth false reports for the purpose of inflaming public opinion, and exciting prejudices against him for the purpose of encompassing his ruin They even vented their spleen against our two little children and turned my Brothers who were favorably disposed against him I am satisfied the operated on their feelings of cupidety They tried my youngest sister to turn witness against him knowing at the same time, that she as well as they had knowledge of facts sufficient to clear him My husband and Sanford Tomlinson to my knowledge was the best if not the only friends Brother Tom had I know there was never any difference ^or^ unkind feelings between them as far as they were concerned But it is evident bad tales had been told Bro Tom for the ends of mischief which was consummated on account of his unfortunate condition I refer to the evedence of my sister who remained true and unshaken</p>
 <p>I therefore pray your excellency to release my husband from his presant confinement, he cannot remain there long and live, even if it had been done in great heat of passion caused during his<pb/>
 <lb/>condition he has suffered enough already But as it <hi rend="str">is</hi>was a case of self defense if not unintentional, from what I hear of your justice uprightness and benevolence you ^will^ consider my humble petition favorable we are poor, and he can be no benefit there By so doing I do not doubt but that your excellency will recieve the blessings of heaven for Your righteousness</p>
 <p>I remain your obedient servant
 <lb/>Sarah Ann Tomlinson</p>
-<p>I have read the above, and am well aquanited with all concerned, and believe everything stated am a near neighbor and believe it contains the <unclear/> sentiments of the country arround, if the would only come out and declare it</p>
-<p>Warren Parker
-<lb/>Senior</p>
+<p>I have read the above, and am well acquainted with all concerned, and believe everything stated am a near neighbor and believe it contains the given sentiments of the country arround, if the would only come out and declare it</p>
+<p>Warren Parker Senior</p>
   </body>
  </text>
 </TEI>

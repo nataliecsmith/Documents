@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0035"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -66,18 +69,18 @@
 <lb/>Gov<hi rend="sup">r</hi> of Ky
 <lb/>Dear Sir -- </p>
 <p>You have as I understand been informed by the Jailor of this County of the escape from Jail of <hi rend="str">Thomas</hi> Edward Maddox on the <gap/> day of <gap/> last, and thinking perhaps it my duty as County Judge to officially inform you of the fact in order that a reward may be offered for his arrest -- </p>
-<p>He was charged with killing W<hi rend="sup">m</hi> A Brothers of this County and was tried before an examining Court and refused bail and was consequently Confined in Jail, A party of lawless men came into town in the night and broke the Jail door open and took him out -- I am satisfied if a suitable reward was offered, he would be arrested,</p>
+<p>He was charged with killing W<hi rend="sup">m</hi> A Brothers of this County and was tried before an examining Court and refused bail and was Consequently Confined in Jail, A party of lawless men came into town in the night and broke the Jail door open and took him out -- I am satisfied if a suitable reward was offered, he would be arrested,</p>
 <p>He is about 5 feet 8 inches high, light complected, dark hair, about 45 or 50 years of age -- </p>
 <p>I understand that he is now in Capt Bells Company, 11<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavalry -- <pb/>
 <lb/>stationed at Halls Gap -- </p>
 <p>Respectfully -- 
 <lb/>John M<hi rend="sup">c</hi>Intire
 <lb/>Presiding Judge of the Washington County Court</p>
-<p>$200 Reward</p>
 <p>Washington Co
 <lb/>Reward
-<lb/>$200
+<lb/>&#36;200
 <lb/><date when="1864-05-11">11<hi rend="sup">th</hi> May 1864</date></p>
+<p>&#36;200 Reward</p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0250"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Union County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -62,34 +64,33 @@
   <body>
    <p>To his Excellency, Thomas E. Bramlett
 <lb/>Governor of Kentucky</p>
-<p>Your Petitioners, would respectfully represent, that, at the <date when="1863-04">April term last 1863</date>. Peter Yager, a free man of color, was sentenced to the Penetentiary, for one year, on a charge of Larceny, and he has now served out more than one half of said term would state that, this is a case in which we believe calls for the exercise of Executive clemency. Said Boy, Peter, was charged with stealing Tobacco, which was tied up in large hands &amp; handled indifferently, and upon the trial, the proof introduced established beyond a doubt, that said Boy Peter, raised &amp; cured just such Tobacco, and the Tobacco was in large hands, and answered the discription of the Tobacco stolen, but said Boy sold no more than he raised. Also, upon said trial, the Boy Peter proved a good character from his youth up to said trial, for industry and honesty his age was also proven to be from 15 to 17 years, born and raised in Union County, Now, your Petitioners would respectfully ask your Excellency to remit the remainder of the term of said Boys imprisonment as we believe he was unjustly accused and condemned as above mentioned<pb/></p>
+<p>Your Petitioners, would respectfully represent, that, at the <date when="1863-04">April term last, 1863</date>. Peter Yager, a free man of color, was sentenced to the Penetentiary, for one year, on a charge of Larceny, and he has now served out more than one half of said term, would state, that, this is a case, in which we believe, calls for the exercise of Executive clemency, Said Boy, Peter. was charged with stealing Tobacco, which was tied up in large hands &amp; handled indifferently, and upon the trial, the prof<hi rend="str">f</hi> introduced, established beyond a doubt, that, said Boy Peter, raised &amp; cured just such tobacco, and the tobacco was in large hands, and answered the discription of the tobacco stolen, but said Boy sold no more than he raised, Also, upon said trial, the Boy Peter prooved a good character from his youth up to said trial, for industry and honesty, his age was also proven to be from 15 to 17 years, born and raised in Union County, Now, your Petitioners would respectfully ask your Excellency to remit the remainder of the term of said Boy<hi rend="sup">s</hi> imprisonment, as we believe he was unjustly accused and condemned as above mentioned<pb/></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Names
-<lb/>S D Delany member of the bar and believes said boy unjustly condemed
-<lb/>Hiram M<hi rend="sup">c</hi>Elroy one of the council for the negro believes as above stated
+<lb/>S D Delany, member of the bar, and believes said boy unjustly condemed
+<lb/>Hiram M<hi rend="sup">c</hi>Elroy one of the council for the Negro believes as above stated
 <lb/>Geo Parker Sec C
-<lb/>G. S. Fombelle
-<lb/>Ben T Cissell atty at law
-<lb/>D. C. James clerk Union Ct. Ct.
-<lb/>H W Waggener clk Union. C.C
-<lb/>John Geiger atty at law
-<lb/>H. B. Eaty late Clerk Union County Court
+<lb/>G, S. Fombelle
+<lb/>Ben P Cissell atty at law
+<lb/>D, C, James clerk Union Ct, Ct,
+<lb/>H W Waggener clk Union, C,C
+<lb/>John <hi rend="str"><unclear/></hi> Geiger atty at law
+<lb/>H. B. Eaty late Clerk Union County, Court
 <lb/><cb n="2"/>Names
 <lb/>D H Hughes member of the bar</p>
-<p>Geo Horton atty, who says he does not remember more than his impression was the boy ought to have been acquited</p>
-<p>
-<lb/>I represented the Comlth in the prosection mentioned in the petition and think <hi rend="str">his</hi> ^the negros^ pardon would not be an improper exercise of Executive clemency.</p>
-<p>D B Vancy Atty for Comllth Pro Tem
+<p>Geo Huston atty, who says he does not remember more than his impression was the boy ought to have been acquited</p>
+<p>I represented the Comlth in the prosection mentioned in the petition and think <hi rend="str">his</hi> ^the negro's^ pardon would not be an improper exercise of Executive clemency,</p>
+<p><unclear>D B Vancy</unclear> Aty for Comlth Pro Tem.
 <lb/>Sam C Hughes.
-<lb/>Atty at Law</p>
+<lb/>Atty at Law<milestone unit="column" n="1"/></p>
 <p><figure type="seal"><ab>UNION COUNTY COURT
-<lb/>KENTUCKY</ab></figure><pb/></p>
-<p>Union County
+<lb/>KENTUCKY.</ab></figure><pb/></p>
+<p>Union, County
 <lb/>Refused<pb/></p>
 <p>Uniontown Union County Ky
-<lb/><date when="1863-11-09">November 9<hi rend="sup">th</hi> 1863</date>
+<lb/><date when="1863-11-09">November 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
 <lb/>His Excellency
 <lb/>Gov<hi rend="sup">r</hi>. Bramlett</p>
-<p>As Marshall of Union town I made the arrest of the boy named in the within petition, and have no hesitation in saying that I believe him to have been unjustly punished, and if necessary could have procured any number of signatures, corroborating the statements made in said petition.</p>
+<p>As Marshall of Uniontown I made the arrest of the boy named in the within petition, and have no hesitation in saying, that I believe him to have been unjustly punished, and if necessary could have procured any number of signatures, corroborating the statements made in said petition.</p>
 <p>Should it please your Excellency to pardon him, notify me of the fact, and I will make arrangements to put him under the protection of some reliable person to be returned here Address your letter to David R. Bridges Uniontown Union County Ky</p>
 <p>With sentiments of high esteem
 <lb/>Yrs Respectfully

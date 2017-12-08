@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0104"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,6 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
     <date when="1865-09-12">12 September 1865</date>
    </creation>
    <textClass>
@@ -59,25 +63,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>R-150-DK-Vol 2/<date when="1865">65</date><figure type="hr"/>
+   <p>K-150-DK-Vol 2/<date when="1865">65</date><figure type="hr"/>
 <lb/>Ky State of
 <lb/>Frankfort. Ky. <date when="1865-09-12">Sept. 12"/65</date><figure type="hr"/>
-<lb/>Bramlett. T. E.
+<lb/>Bramlett, T. E.
 <lb/>Gov.<figure type="hr"/></p>
-<p>Forwards the letter of the Police Judge of Harrodsburg. with copy of a warrent for the arrest of one <hi rend="underline">J. D. Hale</hi>. who drew a pistol on a citizen, and was shielded from arrest by one <hi rend="underline">Lt. Bishop</hi>. States that <hi rend="underline">Hale</hi> is a desperado and should be arrested.<figure type="hr"/></p>
-<p>Wrapper<figure type="hr"/>
-<lb/>Hd. Qrs 1<hi rend="underline"><hi rend="sup">st</hi></hi> Div D. K.
+<p>Forwards the letter of the Police Judge of Harrodsburg. with copy of a warrent for the arrest of one <hi rend="underline">J. D. Hale</hi>. who drew a pistol on a citizen, and was shielded from arrest by one <hi rend="underline">Lt, Bishop</hi>, States that <hi rend="underline">Hale</hi> is a desperado and should be arrested.<figure type="hr"/></p>
+<p>Wrapper<figure type="hr"/></p>
+<p>Hd. Qrs 1<hi rend="underline"><hi rend="sup">st</hi></hi> Div D, K,
 <lb/>Lexington Ky. <date when="1865-09-22">Sept 22<hi rend="underline"><hi rend="sup">d</hi></hi> 65</date>
-<lb/>B: 451. 1st Dist D K.<figure type="hr"/></p>
-<p>Respectfully refered to, <hi rend="underline">A. H. Bowen</hi> Maj and, A. Q. G. 1<hi rend="underline"><hi rend="sup">st</hi></hi> Div D. K. who will immediately proceed to Harrodsburg, Ky. and investigate the cause of within complaint, and report action to these Hd. Qrs. This paper to be returned -- </p>
+<lb/>B. 451. 1<hi rend="underline"><hi rend="sup">st</hi></hi> Div D K,<figure type="hr"/></p>
+<p>Respectfully refered to, <hi rend="underline">A. H. Bowen,</hi> Maj and, A. I. G. 1<hi rend="underline"><hi rend="sup">st</hi></hi> Div D, K, who will immediately proceed to Harrodsburg, Ky. and investigate the cause of within complaint, and report action to these Hd, Qrs, This paper to be returned -- </p>
 <p>By Command of Brig Genl Brisbin
-<lb/>S. P. <unclear>Plummer</unclear>
-<lb/>Capt and A A A G.<figure type="hr"/>
-<lb/>Office Inspt Genl 1<hi rend="sup">st</hi> D D Ky
-<lb/>Lexington Ky <date when="1865-09-25">Sept. 25 1865</date><figure type="hr"/></p>
+<lb/>S. P. P<unclear/>
+<lb/>Capt and A A A G.<figure type="hr"/></p>
+<p>Office Inspt Genl 1<hi rend="sup">st</hi> D D Ky
+<lb/>Lexington Ky <date when="1865-09-26">Sept. 26" 1865</date><figure type="hr"/></p>
 <p>Respectfully returned inviting attention to accompanying report</p>
 <p>A H Bowen
-<lb/>Maj and A. A. Q. G.</p>
+<lb/>Maj &amp; a. a. I. G,</p>
   </body>
  </text>
 </TEI>

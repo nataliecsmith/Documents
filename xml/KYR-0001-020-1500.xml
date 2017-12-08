@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1500"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,31 +65,31 @@
   <body>
    <p>Boyd Circuit Court
 <lb/>The Commonwealth of Kentucky
-<lb/>against } Indictment
+<lb/>against &#125; Indictment
 <lb/>German May</p>
 <p>The Grand Jury of Boyd County in the name and by the authority of the Commonwealth of Kentucky accuse German May of the offense of Keeping a Tippling House committed as follows to-wit: The said German May on the <date when="1861-01-01">1<hi rend="sup">st</hi> day of January 1861</date> in the County and Circuit aforesaid and divers days before &amp; since Kept a Tippling House Against the peace and dignity of the Commonwealth of Kentucky.</p>
 <p>The Commonwealth of Kentucky
 <lb/>To the Sheriff of Boyd County Greeting</p>
-<p>You are commanded to summon John Hammond &amp; William Gaurd to appear before the Boyd Circuit Court at the Court House thereof in the town of Catlettsburg on the 1<hi rend="sup">st</hi> day of its next October term to testify in behalf of the plaintiff in a certain action in said Court between the Commonwealth of Ky Plaintiff -- German May. Defendant -- See that you make due service and return here of according law.</p>
+<p>You are commanded to summon John Hammond &amp; William Gaurd to appear before the Boyd Circuit Court at the Court House thereof in the town of Catlettsburg on the 1<hi rend="sup">st</hi> day of its next October term to testify in behalf of the plaintiff in a certain action in said Court between the Commonwealth of Ky Plaintiff -- German May Defendant -- See that you make due service and return hereof according law.</p>
 <p>Witness James W Riely Clerk of said Court this <date when="--05-08">8<hi rend="sup">th</hi> day of May</date></p>
 <p>J W Riely C B C C</p>
-<p>Executed in full this <date when="1861-10-19">Oct the 19<hi rend="sup">th</hi> 1861</date></p>
+<p><hi rend="str">Indicted</hi>Executed in full this <date when="1861-10-19">Oct the 19<hi rend="sup">th</hi> 1861</date></p>
 <p>J H Eastham S B C<pb/></p>
 <p>Boyd Circuit Court</p>
 <p>The Commonwealth of Kentucky to any sheriff of <hi rend="str">Boyd</hi> Coroner Jailer Constable Marshall or Policeman in this State: You are hereby commanded to summon German May to appear in the Boyd Circuit Court on the 1<hi rend="sup">st</hi> day of it next October Term to answer an Indictment for Keeping a Tippling House found against him in that Court</p>
-<p>Given under my hand as clerk of said Court this <date when="1861-05-08">8<hi rend="underline"><hi rend="sup">th</hi></hi> day of May 1861</date></p>
+<p>Given under my hand as Clerk of Said Court this <date when="1861-05-08">8<hi rend="underline"><hi rend="sup">th</hi></hi> day of May 1861</date></p>
 <p>J W Riely C B C C</p>
 <p>Executed on German May on the <date when="1861-08-15">15<hi rend="sup">th</hi> day of August 1861</date> by reading to him the within</p>
-<p>J H Eastham S. B. C.</p>
+<p>J H Eastham S, B, C,</p>
 <p>The Commonwealth 
-<lb/>against } Keeping a Tippling House
+<lb/>against &#125; Keeping Tippling House
 <lb/>German May</p>
-<p>This day came the attorney for the Comw'lth and the defendant failing to appear thereupon came a Jury to-wit -- Eli White, <hi rend="str">Eli Gard</hi>, W<hi rend="underline"><hi rend="sup">m</hi></hi> Gard, W. M. Patton, Thos Sargent, S S M<hi rend="sup">c</hi>Brayer, T N Pitts, Harvey Kinner Aaron Davis, George M Fuller, J R M<hi rend="sup">c</hi>Brayer, J N Hensly R C Poage, who after having been elected tried &amp; sworn to well and truly try the issue joined upon their oaths returned the following verdict "Verdict", We the jury find the defendant guilty, It is therefore adjudged by the Court that the defendant make his fine to the Commonwealth of Kentucky by the payment of Sixty Dollars and her costs herein expended.<pb/></p>
+<p>This day came the attorney for the Comw'lth and the defendant failing to appear thereupon came a Jury to-wit -- Eli White. <hi rend="str">Eli Gard</hi>. W<hi rend="underline"><hi rend="sup">m</hi></hi> Gard. W, M, Patton, Thos Sargent, S S M<hi rend="sup">c</hi>Brayer. T N Pitts, Harvey Kinner Aaron Davis, George M Fuller, J R M<hi rend="sup">c</hi>Brayer, J N Hensly R C Poage, who after having been elected tried &amp; sworn to well and truly try the issue joined upon their oaths returned the following verdict "Verdict", We the jury find the defendant guilty, It is therefore adjudged by the Court that the defendant make his fine to the Commonwealth of Kentucky by the payment of Sixty Dollars and her Costs herein expended.<pb/></p>
 <p>State of Kentucky
-<lb/>Boyd County } Sct.</p>
-<p>I, James W. Reily clerk of the Circuit Court of Boyd County Ky. do certify that the foregoing transcript of the record &amp; proceedings of the case of the Commonwealth of Kentucky against German May. is a true copy taken from said Court.</p>
-<p>Given under my hand this <date when="1862-05-01">1<hi rend="sup">st</hi> day of May 1862.</date></p>
-<p>James N Reily C. B. C. C.</p>
+<lb/>Boyd. County. &#125; Sct.</p>
+<p>I, James W. Riely Clerk of the Circuit Court of Boyd County Ky, do certify that the foregoing transcript of the record &amp; proceedings of the case of the Commonwealth of Kentucky against German May. is a true copy taken from said Court.</p>
+<p>Given under my hand this <date when="1862-05-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> day of May 1862.</date></p>
+<p>James W Riely C. B. C. C.</p>
   </body>
  </text>
 </TEI>

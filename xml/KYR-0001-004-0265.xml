@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0265"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,39 +63,39 @@
  <text>
   <body>
    <p>To His Excellency Governor Thomas. E. Bramlette,</p>
-<p>We the undersigned petitioners would most respectfully represent to His Excellency Thomas. E. Bramlette Governor of Kentucky that in the months of <date when="1862-09">September</date> and <date when="1862-10">October 1862</date>, we as loyal men of the county of Harrison had to leave the same for self protection, the county then being occupied by the forces of Gen Kirby Smith. The free boy James, Frazier who has been indicted tryed and convicted in the Harrison Circuit Court went to Covington about the same time and for the same cause. We were there some six weeks during that time we frequently saw James Frazier and say with pleasure that he conducted himself with order and propriety. While the excitement was up and the probabilities of an attack upon Covington at any time were eminent Marshal law declared over Covington &amp; Cincinnati; according to the proof, he was seen once in Cincinnati and only once, did not stay all night but only a short time. Showed no disposition at any other time to violate the law, returned to this place<pb/>
-<lb/>as soon as the cause for our absence and his absence was removed. We can also testify that we have known James Frazier for many years &amp; that he has always been polite, quiet and well behaved, and that he is a worthy exception from the general class of free negroes. We cannot think that he knew of the very strict law upon this subject, or that he had any will or disporition to violate the same, and we think it a case worthy of consideration of Your excellency and one to which the whole mercy of law could be given without any injury whatever. Wherefore we most respectfully ask that he be pardoned.</p>
-<p>Given under our hands this <date when="1863-11-04">4<hi rend="sup">th</hi> day of Nov 1863</date>.</p>
+<p>We the undersigned petitioners would most respectfully represent to His Excellency Thomas. E. Bramlette Governor of Kentucky that in the months of <date when="1862-09">September</date> and <date when="1862-10">October 1862</date>, we as loyal men of the county of Harrison had to leave the same for self protection, the county then being occupied by the forces of Gen Kirby Smith. The free boy James, Frazier who has been indicted tryed and convicted in the Harrison Circuit Court went to Covington about the same time and for the same cause. We were there some six weeks during that time we frequently saw James Frazier and say with pleasure that he conducted himself with order and propriety. While the excitement was up and the probabilities of an attack upon Covington at any time were eminent Marshal-law declared over Covington &amp; Cincinnati; according to the proof, he was seen once in Cincinnati and only once, did not stay all night but only a short time, Showed no disposition at any other time to violate the law, returned to this place<pb/>
+<lb/>as soon as the cause for our absence and his absence was removed. We can also testify that we have know James Frazier for many years &amp; that he has always been polite, quiet and well behaved, and that he is a worthy exception from the general class of free negroes. We cannot think that he knew of the very strict law upon this subject, or that he had any will or disposition to violate the same, and we think it a case worthy of the consideration of Your excellency and one to which the whole mercy of law could be given without any injury whatever. Wherefore we most respectfully ask that he be pardoned.</p>
+<p>Given under our hands this <date when="1863-11-04">4<hi rend="underline"><hi rend="sup">th</hi></hi> day of Nov 1863</date>,</p>
 <p>M. L. Broadwell Judge H. Co
-<lb/>J D Ware Clk. Circt Ct
+<lb/>J F Ware Clk. Circt. Ct
 <lb/>W W Trimble
-<lb/>Chas F Wilson Clk. Co Ct
-<lb/>A. S. Thomson of Bourbon
+<lb/>Cha<hi rend="sup">s</hi> T Wilson Clk. Co Ct</p>
+<p>A. S. Thomson of Bourbon
 <lb/>John Bruce
 <lb/>George Morrison
 <lb/>C. Walton
 <lb/>John R Smith
-<lb/>H T Smith
-<lb/>H D Peck<pb/>
+<lb/>M T Smith
+<lb/>H D. Peck<pb/>
 <lb/>L VanHook</p>
 <p>We the undersigned citizens and members of the bar who heard the facts and the trial in this case would respectfully unite in the ^prayer^ above petition.</p>
 <p>John T. M<hi rend="sup">c</hi>Clintock D. C.
-<lb/>J. B. McClintock SHC
+<lb/>J. B. M<hi rend="sup">c</hi>Clintock S H C
 <lb/>J. S. Boyd
 <lb/>Isaac Hodges
 <lb/>J L Griffith
-<lb/>H Raceland
+<lb/>H Rowland
 <lb/>N T Lindsay D S H C
 <lb/>Geo. W. Dunn
-<lb/>M G January</p>
+<lb/>M<hi rend="underline"><hi rend="sup">c</hi></hi> January</p>
 <p>Jims mother lived with me two years &amp; I have known Jim from a child he is a good boy, he fled on the approach of the confederate troops &amp; was not absent longer than citizens who flea</p>
 <p>J. R. Curry<pb/></p>
-<p>We the undersigned members of the bar of the Harrison Circuit Court honestly doubting the <hi rend="str">un</hi> constitutionality of the act of the <date when="1860-03-03">3<hi rend="sup">rd</hi> of March 1860</date> ^under which the Deft was Indicted &amp; convicted^ the mere codially until in the above pettion.</p>
+<p>We the undersigned members of the bar of the Harrisons Circuit Court honestly doubting the <hi rend="str">un</hi> constitutionality of the act of the <date when="1860-03-03">3<hi rend="underline"><hi rend="sup">rd</hi></hi> of March 1860</date> ^under which the Deft was Indicted &amp; convicted^ the <unclear>more</unclear> cordially unite in the above pettion.</p>
 <p>W. C. Marshall
 <lb/>W W Trimble
 <lb/>J L Griffith
-<lb/>A. H. Ward
-<lb/>T. Q. Ward Atty for Deft.</p>
+<lb/>A, H, Ward
+<lb/>J. Q. Ward Atty for Deft.</p>
   </body>
  </text>
 </TEI>

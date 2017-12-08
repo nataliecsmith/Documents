@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0068"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,39 +66,39 @@
    <p>Head Quarters 20<hi rend="sup">th</hi> Ky Inf
 <lb/>Louisville Ky <date when="1863-10-15">Oct 15<hi rend="sup">th</hi> 1863</date>
 <lb/>To His Excellency
-<lb/>Thos.E. Bramlette
+<lb/>Tho<hi rend="sup">s</hi>, E, Bramlette
 <lb/>Sir</p>
-<p>We the undersigned Officers of the 20<hi rend="sup">th</hi> Ky Vol Inf do respectfully yet earnestly recommend Andrew McCampbell of Jessamine County late Capt in this Regt as worthy &amp; well qualified for the position of Col of Militia. Capt McCampbell Served with honor &amp; distinction in the Regt. until last Spring when he was compelled by physical disability to resign and retire to private life He is now fully able to discharge the duties of Col of the militia &amp; we earnestly request you to give him Said appointment. being Satisfied that he would discharge all the duties of Said position with honor, to himself and credit to the Service</p>
-<p>With renewed assurances of our high esteem for you personally we have the honor to be Sincerely yours &amp; <hi rend="sup">OC</hi></p>
+<p>We the undersigned Officers of the 20<hi rend="sup">th</hi> Ky Vol Inf do respectfully yet earnestly recommend Andrew McCampbell of Jessamine County late Capt <hi rend="str">o</hi>in this Regt as worthy &amp; well qualified for the position of Col of Militia. Capt McCampbell Served with honor &amp; distinction in the Reg<hi rend="underline"><hi rend="sup">t</hi></hi>. until last Spring when he was compelled by physical disability to resign and retire to private life He is now fully able to discharge the duties of Col of the Militia &amp; we earnestly request you to give him Said appointment. being Satisfied that he would discharge all the duties of Said position with honor, to himself and credit to the Servi<hi rend="str">s</hi>ce</p>
+<p>With renewed assurances of <hi rend="str">h</hi>our high esteem for you personally we have the honor to be sincerely yours &amp;<hi rend="sup">OC</hi></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>T B Waller, Maj Comd 20<hi rend="sup">th</hi> Ky Inf
-<lb/>C M<hi rend="sup">c</hi>Leod, Capt. Co. "J" 20 Ky
+<lb/>C, M<hi rend="underline"><hi rend="sup">c</hi></hi>Leod, Capt, Co. "I" 20. Ky
 <lb/><cb n="2"/>John Glenn Capt Co "H"
-<lb/>H S Parrish Capt Co A 20<hi rend="sup">th</hi> Ky<milestone unit="column" n="1"/><pb/>
-<lb/>Jas D Young Lt Co E
-<lb/>W. B. Dunn Capt. Co. F.
+<lb/>H S Parrish Capt Co A) 20<hi rend="sup">th</hi> Ky<milestone unit="column" n="1"/><pb/>
+<lb/>Jas D young Lt Co E
+<lb/>W, B, Dunn Capt, Co, F.
 <lb/>W. A. Attersall Lt C<hi rend="underline"><hi rend="sup">o</hi></hi> "A"
-<lb/>James R. B. Cole Lt. Co "D"
+<lb/>James R. B. Cole Lt, Co "D"
 <lb/>Henry C Druman Capt Co "E"
-<lb/>Jas. C Guess 1<hi rend="sup">st</hi> Lt. Co ".E."
-<lb/>B. F. Thornbrough 1 Lt Co (K)
+<lb/>Jas. C Guess 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt. Co. "E."
+<lb/>B, F, Thornbrough 1 Lt Co (K)
 <lb/>J. C. Welch Surgeon 20<hi rend="sup">th</hi> Ky
 <lb/>A. W. Trebein Capt Co "B" 20<hi rend="sup">th</hi> Ky
-<lb/>L Demos leiut Co. B ,20, Ky
-<lb/>W. C. Drusselman Capt. Co. K.
-<lb/>D. T. Ruckner 1<hi rend="sup">st</hi> Lieut Co "A"
-<lb/>B J Seats 2L-Co (H)
-<lb/>C R West Capt Co K<pb/></p>
-<p>Jessamine Cot <date when="1863-10-15">Oct 15/63</date><figure type="hr"/>
-<lb/>Recm"d"g<figure type="hr"/>
-<lb/>Capt Andrew M<hi rend="sup">c</hi>Campbell ^as^ Col
+<lb/>L Demos lieut Co; B, 20, Ky
+<lb/>W. C. Musselman Capt. Co. D,
+<lb/>D. T. Buckner 1<hi rend="sup">st</hi> Lieut Co "A"
+<lb/>B J Scott 2 Lt Co (H)
+<lb/>C R West Capt Co K)<pb/>
+<lb/>Jessamin Co,,y <date when="1863-10-15">Oct 15/63</date><figure type="hr"/>
+<lb/>Recm"d,,g<figure type="hr"/>
+<lb/>Cap<hi rend="sup">t</hi> Andrew M<hi rend="sup">c</hi>Campbell ^as^ Col
 <lb/>Officers
 <lb/>20 Ky Inft<figure type="hr"/>
-<lb/>Please issue Com as Col 57<hi rend="underline"><hi rend="sup">th</hi></hi> Regt Militia
-<lb/>D W Lindsey</p>
+<lb/>Please issue Com as Col 57<hi rend="underline"><hi rend="sup">th</hi></hi> Regt Militia</p>
+<p>D W Lindsey</p>
 <p>Issue.
 <lb/><hi rend="underline">Boyle</hi></p>
-<p>Issued <date when="1863-11-09">Nov<hi rend="sup">r</hi> 9. 1863</date>
-<lb/>1. 2. 3. 4</p>
+<p>Issued <date when="1863-11-09">Nov<hi rend="sup">r</hi> 9. 1863</date></p>
+<p>1. 2. 3. 4</p>
   </body>
  </text>
 </TEI>

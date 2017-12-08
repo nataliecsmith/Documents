@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0111"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,11 +64,11 @@
  <text>
   <body>
    <p>Falmouth Kentucky <date when="1861-07-13">July 13/61</date>
-<lb/>Hon B. Magoffin Gov of Ky
+<lb/>Hon B. Magoffin Gov<hi rend="sup">r</hi> of Ky
 <lb/>Dear sir</p>
-<p>Under the pressure of current events, I am constrained to write to you,, in reference to the deplorable condition of our county, and for the purpose of ascertaining, what our resources of defense are (so far as our own State is concerned). We see the deplorable condition of Maryland and Missouri, and the question is how long will it be before Kentucky is in the same condition,, <hi rend="str">The question is</hi> can our state be armed, if so, when and how are we to get them. This county will furnish 500 men to repell invasion, and one thousand if the invasion should be at Covington. Our County is a border county and should be well armed if possible, please inform me whether there are any arms in the arsenal, if none, what they there is any surplus in the Confederate States. Some of Our boys left yesterday for Tennessee, and many others, will leave soon unless, Arms can be had, From the best information I can get all of the fighting young men in all of the adjoining Counties, will be in the Confederate State's<pb/>
-<lb/>with in Six weeks unless they are Armed, they say they will not remain here be liable to be over run by the Northern vandals with out arms to defend themselves, this is the State of facts as regards our noble young men, who are ready to lay down their lives in defense of their State first and secondly for the confederate States. As I have not had the pleasure of seeing you for some time &amp; having but a limited acquaitance with you, in these war times, for my character &amp; capacity for not divuling anything that you may be so kind as to communicate, I refer you to Genl Desha W W Cleary &amp; J S Boyd of Cynthiana, and Grant Green of Frankfort. Any information you can give me shall be kept Strictly Secret</p>
-<p>Yours truly
+<p>Under the pressure of current events, I am constrained to write to you, in reference to the deplorable condition of our county; and for the purpose of ascertaining, what our resources of defense are (so far as our own State is concerned). We see the deplorable condition of Maryland and Missouri, and the question is how long will it be before Kentucky is in the same condition, <hi rend="str">The question is</hi> can our State be armed, if so, where and how are we to get them. This county will furnish 500 men to repell invasion, and one thousand if the invasion should be at Covington, Our County is a border county and should be well armed if possible, please inform me whether there are any Arms in the Arsenal, if none, what this then is any surplus in the Confederate States. Some of our boys left yesterday for Tennessee, and many others will leave soon unless, Arms can be had, From the best information I can get all of the fighting young men in all of the adjoining Counties, will be in the Confederate States<pb/>
+<lb/>with in Six weeks unless they are Armed, they say they will not remain here and be liable to be over run by the Northern Vandals with out arms to defend themselves, this is the State of facts as regards our noble young men, who are ready to lay down their lives in defense of their State first and secondly for the Confederate States. As I have not had the pleasure of seeing you for some time &amp; having but a limited acquaitance with you, in these war times, for my character &amp; capacity for not divulging anything that you may be so kind as to communicate I refer you to Genl Desha W W Cleary &amp; J S Boyd of Cynthiana, and Grant Green of Frankfort. Any information you can give me shall be kept Strictly Secret</p>
+<p>yours truly
 <lb/><hi rend="underline">T E Moore</hi><pb/></p>
 <p>Sec will answer no arms on hand now for distribution</p>
 <p>B M</p>

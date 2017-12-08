@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1303"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Nicholas County, Kentucky</placeName>
+    <placeName>Carlisle, Nicholas County, Kentucky</placeName>
     <date when="1864-11-14">14 November 1864</date>
    </creation>
    <textClass>
@@ -60,22 +63,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>The Deposition Solomon Mitchell taken before me at my office in Carlisle Nicholas County Kentucky in the <date when="1864-11-14">14' day of November 1864</date> to be read as evidence in the part of the Plaintiff in a suit depending in the Fleming Circuit Court in which Samuel Mitchell is plaintiff and John Rickets is defendant this deponent of Lawfull age and first duly sworn Answers</p>
+   <p>The Deposition Solomon Mitchell taken before me at my office in Carlisle Nicholas County Kentucky in the <date when="1864-11-14">14' day of November 1864</date> to be read as evidence in the part of the Plaintiff in a suit depending in the Fleming Circuit Court in which Samuel Mitchell is plaintiff and John Rickets is defendant This deponent of Lawfull age and first duly sworn Answers</p>
 <p>Question by Plaintiff Were you present in Company with the plaintiff and Defendant at any time during the months of <date when="1863-08">August</date> or <date when="1863-07">July 1863,</date> if so State who else was in Company and when was it and what took place at the time state all that occured</p>
-<p>Ans I was in Company with Samuel Mitchel Ward Hammonds Albert Jackson &amp; Thomas Stanforth in <date when="1863-07">July</date> or <date when="1863-08">August</date> one year ago last <date when="1863-07">July</date> or <date when="1863-08">august</date> -- we were coming flemingsburg toward home -- John Rickets came riding up I ^or Albert Jackson^ asked who it was that was riding up I was told it was John Rickets -- Rickets and Samuel Mitchel got into a Dispute about a Fiddle -- Rickets hollered to Mitchell that he was a Liar sevral times <hi rend="str">Mitchell</hi> Rickets run his hand into his side pocket as if he was going to Draw out a weapon but I did not see any <hi rend="str">Rickets said to Mitchel I suppose you have got a Pistol -- Samuel Mitchell said to Rickets I suppose you have one Rickets replied I have Mitchel Rickets said to Mithcell I suppose you have got a pistol Mitchel</hi> Rickets run his hand in his pocket and <hi rend="str">asked</hi> mitchell ^asked him^ if he had a pistol Rickets said he had and made a motion to Draw and afterwards denied he had a pistol -- Rickets then said to Mitchell I suppose you have one Mitchell told him he had one and asked Rickets if he wanted to see it Rickets replied he did Mitchel pulled it out of his pocket and<pb/>
+<p>Ans I was in Company with Samuel Mitchel Ward Hammonds Albert Jackson &amp; Thomas Stanforth in <date when="1863-07">July</date> or <date when="1863-08">August</date> one year ago Last <date when="1863-07">July</date> or <date when="1863-08">August</date>-- we were coming flemingsburg toward home -- John Rickets came riding up I ^or Albert Jackson^ asked who it was that was riding up I was told it was John Rickets -- Rickets and Samuel Mitchel got into a Dispute about a Fiddle-- Rickets hollered to Mitchell that he was a Liar several times <hi rend="str">Mitchel</hi> Rickets run his hand into his side pocket as if he was going to Draw out a Weapon but I did not see any <hi rend="str">Rickets said to Mitchel I suppose you have got a Pistol -- Samuel Mitchell said to Rickets I suppose you have one Rickets replied I have Mitchel Rickets said to Mitchell I suppose you have got a pistol Mitchel</hi> Rickets run his hand in his pocket and <hi rend="str">asked</hi> Mitchell ^asked him^ if he had a pistol Rickets said he had and made a motion to Draw and afterwards denied he had a pistol -- Rickets then said to Mitchell I suppose you have one Mitchell told him he had one and asked Rickets if he wanted to see it Rickets replied he did Mitchel pulled it out of his pocket and<pb/>
 <lb/>showed it to him -- he then put it Back in his pocket -- By plaintiff Did you or not hear me at anytime call rickets a Rebel and threaten to shoot him</p>
 <p>Ans I heard no such talk</p>
-<p>By same In what manner did I carry my pistol Ans you carried it in your outside coat coat pocket on the left side</p>
+<p>By same In what Manner did I carry my pistol Ans you carried it in your outside coat coat pocket on the left side</p>
 <p>By same on which side of me was Rickets</p>
 <p>Ans he was on the right hand side</p>
 <p>By same with which ^hand^ did I draw the pistol</p>
 <p>Ans with your left hand</p>
 <p>By same did I point the pistol in Direction of Rickets? if not in what direction did I point it</p>
 <p>Ans you pointed the pistol in the direction we were riding and not towards Rickets</p>
-<p>Solomon Mitchel</p>
-<p>State of Kentucky Nicholas County } I E.F, Chappell Examiner for Nicholas County do certify that the foregoing deposition of Solomon Mitchel was taken before me at the time and place and in the action in the Caption Mentioned and that the said witness was by me duly sworn before giving Testimony and that his testimony was by me writted down <hi rend="str">and</hi> in his presence and read to him and by me at his request subscribed in his presince and that Samuel Mitchel of the parties was present at the Examinations Given under my hand this <date when="1864-11-14">14<hi rend="sup">th</hi> of November 1864</date></p>
+<p>Solomon Mitchell</p>
+<p>State of Kentucky Nicholas County &#125; I E. F, Chappell Examiner for Nicholas County do certify that the foregoing deposition of Solomon Mitchel was taken before me at the time and place and in the action in the <unclear>Caftion</unclear> Mentioned and that said witness was by me duly sworn before giving Testimony and that his testimony was by me written down <hi rend="str">and</hi> in his presence and read to him and by me at his request subscribed in his presince and that Samuel Mitchel of the parties was present at the Examinations Given under my hand this <date when="1864-11-14">14<hi rend="sup">th</hi> of November 1864</date></p>
 <p>E. F. Chappell Examiner N. C.</p>
-<p>Mitchells cost Officers fee 25, Examiner 1.00 ^paid^ postage 5, $1,30</p>
+<p>Mitchells cost Officers fee 25, Examines &#123; ^paid^ 1.00 postage &#125; &#36;1.30</p>
 <p>S. Mitchell
 <lb/>Deposition
 <lb/>John Rickets<figure type="hr"/>

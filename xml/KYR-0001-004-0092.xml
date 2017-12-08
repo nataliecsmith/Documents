@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0092"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,41 +62,41 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency <hi rend="str">Ja</hi><hi rend="str"><hi rend="sup">s</hi></hi><hi rend="str"> F Robinson</hi> Tho<hi rend="sup">s</hi> E Bramlette
+   <p>To his Excellency <hi rend="str">Ja</hi><hi rend="str"><hi rend="sup">s</hi></hi><hi rend="str"> F Robinson</hi> Tho<hi rend="sup">s</hi> E Bramlette -- 
 <lb/>Governor of State of Kentucky
 <lb/>Frankfort Ky</p>
-<p>Your petitioner -- L R Cheek -- would respectfully represent that he is a citizen of Smithland in Livingston County Kentucky. That in the year of <date when="1862">1862</date>, kept a grocery under License for sale to citizens of s<hi rend="sup">d</hi> county. That he has in everything endeavored to respect &amp; obey all laws that he is and has ever been a <hi rend="underline">Union</hi> loyal man, ever opposed to the rebellion and has never aided or abetted or countenanced the opposers of the Gov<hi rend="sup">r</hi>.</p>
-<p>States that Hill is and was in <date when="1862">1862</date> the overseer of D B Sanders in Livingston County having charge &amp; control of his negroes. States that in the <date when="1863-02">month of February 1863</date> s<hi rend="sup">d</hi> Hill came into your petitioner's grocery with "Henry" one of D B Sanders negroes under his control as overseer &amp; requested your petitioner to let him have a pint of liquor. Your petitioner was not present being sick but his son sold the liquor. Your petitioner being ignorant of the statute law let the boy have the liquor on verbal order -- <hi rend="str">overseer Hill being present</hi> -- <hi rend="underline">not knowing it required a written order when master or person controlling negro was present</hi> -- states that afterwards to wit on <gap/> day of <gap/> <date when="1863">1863</date> Grand jury of sd county found a Bill against your petitioner for selling to slave without written order &amp; on s<hi rend="sup">d</hi> Bill <hi rend="str">jury</hi> at our last court <date when="1863-08">August 1863</date><pb/>
-<lb/>a jury fined your petitioner the sum of Fifty-Dolls ($50)</p>
-<p>Your petitioner would most humbly beg under the circumstances that your Honor Remit sd Fine -- Believing that the spirit of the law never intended or contemplated such cases as this -- Hill the overseer was present when the liquor was bo<hi rend="sup">t</hi> <hi rend="str">and</hi> came in with the negro Henry &amp; requested that your petitioner let him have it. Both Hill (overseer) &amp; your petitioners were ignorant of it requiring a written order when Master was present.</p>
-<p>Your petitioner is a very poor man -- and depends wholly on his exertions as laborer to make a living -- is now working at the Tin business in Smithland -- Trusting the clemency of Your Excellency in this matter, is</p>
+<p>Your petitioner -- L R Cheek -- would respectfully represent that he is a citizen of Smithland in Livingston county Kentucky -- That in the year of <date when="1862">1862</date>- kept a grocery under License for sale to citizens of s<hi rend="sup">d</hi> county -- That he has in everything endeavored to respect &amp; obey all laws that he is and has ever been a <hi rend="underline">Union</hi> loyal Man- ever opposed to the rebellion and has never aided or abetted or countenanced the opposers of the Gov<hi rend="underline"><hi rend="sup">r</hi></hi></p>
+<p>States that <gap/> Hill is and was in <date when="1862">1862</date> the overseer of D<hi rend="sup">r</hi> B Sanders in Livingston County having charge &amp; control of his negroes -- States that in the <date when="1863-02">month of February 1863</date> sd Hill came into your petitioner's grocery with "Henry" one of D B Sanders negroes under his control as overseer &amp; requested your petitioner to let him have a pint of liquor -- Your petitioner was not present being sick but his son sold the liquor -- Your petitioner being ignorant of the statute law let the boy have the liquor on verbal order- <hi rend="str">overseer Hill being present</hi>- <hi rend="underline">not knowing it required a written order when master or person controlling negro was present</hi> -- states that afterwards to wit on <gap/> day of <gap/> <date when="1863">1863</date> Grand jury of sd county found a Bill against your petitioner for selling to slave without written order &amp; on sd Bill <hi rend="str">jury</hi> at our last court <date when="1863-08">August 1863</date><pb/>
+<lb/>a jury fined your petitioner the sum of Fifty Dolls (&#36;50)</p>
+<p>Your petitioner would most humbly beg under the circumstances that your Honor Remit sd Fine -- Believing that the spirit of the law never intended or contemplated such cases as this -- Hill the overseer was present when the liquor was bo<hi rend="underline"><hi rend="sup">t</hi></hi> <hi rend="str">and</hi> came in with the negro Henry &amp; requested that your petitioner let him have it- Both Hill (overseer) &amp; your petitioner were ignorant of it requiring a written order when Master was present-</p>
+<p>Your petitioner is a very poor man- and depends wholly on his exertions as laborer to make a living- is now working at the Tin business in Smithland -- Trusting the clemency of Your Excellency in this Matter, is</p>
 <p>Most Respectfully
 <lb/>L. R. Cheek<pb/></p>
 <p>We know L R Cheek well and believe that he is an honest man &amp; would not misrepresent facts and beg that his fine be remitted</p>
-<p>Jas E Hamilton
+<p>Jas <unclear/> Hamilton
 <lb/>J R Haywood
 <lb/>J. M. Layman
 <lb/>G. W. Drury
 <lb/>Tilor ^his^ Elliott
-<lb/>Sonny Rucker
+<lb/>Young Rucker
 <lb/>J W Mills
-<lb/>S L Meifield
-<lb/>N Beverly
-<lb/>S R Green
+<lb/>S Littlefield
+<lb/><unclear>N</unclear> Beverly
+<lb/>S. R. Green
 <lb/>James Zanone
 <lb/>Tho<hi rend="sup">s</hi> Croker
 <lb/><hi rend="underline">G. E. Class.</hi>
 <lb/>D<hi rend="sup">r</hi> James B. Gaines
-<lb/>G..A.. Trail
+<lb/>G.. A.. Trail
 <lb/>J.. Ramage
 <lb/>Wm Sparks
 <lb/>R. Tuttle
-<lb/><hi rend="underline">C. H. Webb</hi>
+<lb/><hi rend="underline">C. H Webb.</hi>
 <lb/>P C Ford
-<lb/>W.C. Noel
-<lb/>John P Williamson
-<lb/>G. W. Richardson
-<lb/>Tom M Duer</p>
+<lb/><hi rend="underline">W. C. Noel</hi>
+<lb/><hi rend="underline">John P Williamson</hi>
+<lb/>J. W. Richardson
+<lb/>Tom M D<unclear>aer</unclear></p>
   </body>
  </text>
 </TEI>

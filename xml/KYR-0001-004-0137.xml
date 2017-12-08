@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0137"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">H. H. Smith et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">Hiram H. Smith et al. to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4256</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,24 +66,22 @@
    <p>Dixon Ky <date when="1863-10-19">Oct 19<hi rend="sup">th</hi> 1863</date>
 <lb/>To his Excellency T E Bramlett
 <lb/>Governor of Kentucky</p>
-<p>We the undersigned citizens of Webster County would respectfully represent to your excellency that on the <date when="1863-08-31">31st day of August 1863</date> an execution issued against N N Johnson late Sheriff of Webster County for the sum of $3348.<hi rend="sup">01</hi>/<hi rend="sub">100</hi> amount of revenue due for the year <date when="1861">1861</date> with interest and the sum of $669.<hi rend="underline"><hi rend="sup">60</hi></hi> damages, &amp; Eight &amp; <hi rend="sup">5</hi>/<hi rend="sub">100</hi> dollars costs Upon this execution Mr Johnson has paid the sum of $3129.<hi rend="sup">10</hi>/<hi rend="sub">100</hi> which you will perceive is nearly the amount of revenue due for that year, ^<date when="1863-10-17">Oct 17<hi rend="sup">th</hi> 1863</date>^ the balance having been paid during the year <date when="1862">1862</date>, ^except $873<hi rend="sup">00</hi>/<hi rend="sub">100</hi> the sheriff of Henderson county^. Now in view of the difficulties under which we know Mr Johnson laboured in the collection of the revenue for that year, we would respectfully ask your Excellency to remit the aforesaid damages or so much thereof as by law you are authorized to do</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>H H Smith Master C. M. R
-<lb/>W<hi rend="sup">m</hi> Sammons <unclear>J T W C</unclear>
-<lb/>R. H. Thornberry</p>
+<p>We the undersigned citizens of Webster County would respectfully represent to your excellency that on the <date when="1863-08-31">31<hi rend="sup">st</hi> day of August 1863</date> an execution issued against N N Johnson late Sheriff of Webster County for the sum of &#36;3348.<hi rend="sup">01</hi>/<hi rend="sub">100</hi> amount of revenue due for the year <date when="1861">1861</date> with interest and the sum of &#36;669.<hi rend="underline"><hi rend="sup">60</hi></hi> damages, &amp; Eight &amp; <hi rend="sup">5</hi>/<hi rend="sub">100</hi> dollars costs Upon this execution Mr Johnson has paid the sum of &#36;3129.<hi rend="sup">10</hi>/<hi rend="sub">100</hi> which you will perceive is nearly the amount of revenue due for that year, ^<date when="1863-10-17">Oct 17<hi rend="sup">th</hi> 1863</date>^ the balance having been paid during the year <date when="1862">1862</date>, ^except &#36;873 <hi rend="sup">00</hi>/<hi rend="sub">100</hi> the sheriff of Henderson county^. Now in view of the difficulties under which we know Mr Johnson laboured in the collection of the revenue for that year, we would respectfully ask your Excellency to remit the aforesaid damages or so much thereof as by law you are authorized to do</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>H H Smith. Master C. M. R
+<lb/>W<hi rend="sup">m</hi> Sammons J <unclear>P</unclear> W C
+<lb/>R. K. Thornberry</p>
 <p>The principal interest &amp; costs have not been paid in this case, and the damages therefore cannot be remitted</p>
-<p>Grant Green
-<lb/>Aud<hi rend="sup">r</hi>
+<p>Grant Green <hi rend="underline">Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi>
 <lb/><cb n="2"/>C W Cook County Judge
 <lb/>M. C. Davis Circuit &amp; County Clerk
-<lb/>P D Clayton Biz Lawyer
+<lb/>P D Clayton <hi rend="str">Biz Lawyer</hi>
 <lb/>Jno A Brooks
 <lb/>Y. W. Brooks
-<lb/>S. Herrick
-<lb/>Pinkney Maxwell
-<lb/>Josiah N Rice
-<lb/>J F Jackson
-<lb/>Issac Baker
-<lb/>W<hi rend="sup">m</hi> M Cox
+<lb/>S, Horrick
+<lb/>Pinkney Maxw
+<lb/>J A Jackson
+<lb/>Isaac Baker
+<lb/><unclear><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> M Cox</hi></unclear>
 <lb/>W W Gentry J P</p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1363"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,15 +64,14 @@
  <text>
   <body>
    <p>Cov Ky <date when="1864-12-19">Dec 19/64</date>
-<lb/>His Excellency Gov
-<lb/>Bramlette
+<lb/>His Excellency Gov Bramlette
 <lb/>Dear Sir.</p>
-<p>I understand -- that Mr Henry Crout has proposed new evidence in the penal cases against him, I was one of the attys and hence state that I thought at the time -- as good, true, law-abiding man as Mr Crout -- ought hardly to have been convicted upon the testimony. One <hi rend="underline">Beazley</hi> -- was the standing witness that term of the Court and swept the city, but we could not then impeach him -- and for that reason Mr Crout -- is compelled to look to you. He is a very<pb/>
-<lb/>exemplary law abiding man -- He spent a large Sum -- raised a company -- went up to be sworn in -- (Last Fall) with his company and was thrown out because of slight rupture -- thus losing all his time and several hundred dollars. He is deserving of your clemency</p>
+<p>I understand -- that Mr Henry Crout has proposed new evidence in the penal cases against him, I was one of the attys-- and hence state that I thought at the time-- as good, true, law-abiding man as Mr Crout-- ought hardly to have been convicted upon the testimony. One <hi rend="underline">Beazley</hi> -- was the standing witness that term of the Court-- and swept the city, but we could not then impeach him -- and for that reason Mr Crout-- is compelled to look to you. He is a very<pb/>
+<lb/>exemplary law abiding Man-- He spent a large Sum-- raised a company-- went up to be sworn in-- (Last Fall) with his company and was thrown out because of slight rupture-- thus losing all his time and several hundred dollars. He is deserving of your clemency</p>
 <p>Respectfully Yours
 <lb/>John F Fisk<pb/></p>
 <p>Commonwealth
-<lb/>vs } Letters &amp;c
+<lb/>vs &#125; Letters &amp;c
 <lb/>Henry Crout</p>
   </body>
  </text>

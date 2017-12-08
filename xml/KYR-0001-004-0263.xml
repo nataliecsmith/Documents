@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0263"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,26 +62,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the Honble -- Bramblette
-<lb/>Governor of the Comlth Ky
-<lb/>Citizens of Carroll County</p>
-<p>Your petitioners would respectfully state that on the <date when="1861-05-24">24<hi rend="sup">th</hi> May 1861</date> a respite was granted to William Gardner for 12 months on a judgment agst him in favor of the Comlth. We would state that we are well acquanted with M<hi rend="sup">r</hi> Gardner. That there has no indictment found agst him since the judgment in this case and that he has deported himself as a law abiding citizen We believe him entitled to executive clemency and request that the Comwlths part<pb/>
-<lb/>of said fine may be remitted.</p>
+   <p>To the Honbl -- Bramblette
+<lb/>Governer of the Comth Ky</p>
+<p>Your petitioners ^citizens of Carroll County^ would respectfully state that on the <date when="1861-05-24">24<hi rend="sup">th</hi> May 1861</date> a respite was granted to William Gardner for 12 months on a judgment agst him in favor of the Comth. We would state that we are well acquanted with M<hi rend="underline"><hi rend="sup">r</hi></hi> Gardner-- That there has no indictment found agst him since the judgment in this case and that he has deported himself as a lawabiding citizen We believe him entitled to executive clemency and request that the Comths part<pb/>
+<lb/>of said fine may be remitted--
+<lb/><hi rend="str"><unclear/></hi></p>
 <p>A R Gaunt
 <lb/>R. W. Masterson
 <lb/>Allen Hanks
 <lb/>P. U. Major then C. A.</p>
-<p>We recommend that the prayer of the petitioner be granted -- </p>
-<p>J. F. Sparks</p>
-<p>This petition was hand me to hand over to Your Excy while I was a resident of Frankfort and it has escaped memory until the present time. I hope your Excy will excuse my <unclear/> and grant the prayer of the petitioner</p>
+<p><hi rend="str">I</hi>We recommend that the prayer of the petitine be granted -- </p>
+<p><hi rend="underline">J. P. Sparks</hi></p>
+<p>This petition was hand me to hand over to Your Excy while I was a resident of Frankfort and it has escaped memory until the present time -- I hope your Excy will excuse my <unclear/> and grant the prayer of the petitioner,</p>
 <p>Respectfully
-<lb/>Your obed't Ser't
-<lb/>P. U. Major
-<lb/><date when="1863-11-20">Nov 20<hi rend="sup">th</hi> 1863</date><pb/></p>
-<p>Carroll County
-<lb/>Refused
-<lb/>T E Bramlette
-<lb/><date when="1863">63</date></p>
+<lb/>Your obd't Ser't
+<lb/><hi rend="underline">P. U. Major</hi>
+<lb/><date when="1863-11-20">Nov 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date><pb/></p>
+<p>Carroll County</p>
+<p>Refused</p>
+<p>T E Bramlette</p>
   </body>
  </text>
 </TEI>

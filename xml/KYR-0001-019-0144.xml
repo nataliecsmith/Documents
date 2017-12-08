@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0144"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,11 +62,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Military Board
-<lb/>The following companies have been assigned arms</p>
+   <p>Military Board</p>
+<p>The following companies have been assigned arms</p>
 <p><table rend="rules">
 <row>
-	<cell>30 g 31st fag.</cell>
+	<cell>30 g 31<hi rend="underline"><hi rend="sup">st</hi></hi> fag.</cell>
 	<cell> </cell>
 	<cell> </cell>
 </row>
@@ -73,27 +76,27 @@
 	<cell>Infantry</cell>
 </row>
 <row>
-	<cell>J. S. Davidson</cell>
+	<cell>J. L. Davidson</cell>
 	<cell>Todd "</cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>S. D. Bruce</cell>
+	<cell>&#x2713; S. D. Bruce</cell>
 	<cell>Fayette "</cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>T. W. Price</cell>
+	<cell>&#x2713; S. W. Price</cell>
 	<cell>Do "</cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>John Cochran</cell>
+	<cell>&#x2713; John Cochran</cell>
 	<cell>Do "</cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>J. J. Wylie</cell>
+	<cell>&#x2713; J. J. Wylie</cell>
 	<cell>Caldwell "</cell>
 	<cell>"</cell>
 </row>
@@ -113,12 +116,12 @@
 	<cell>"</cell>
 </row>
 <row>
-	<cell>J. H. Smith</cell>
+	<cell>&#x2713; J. H. Smith</cell>
 	<cell>Do "</cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>J. H. Geary</cell>
+	<cell>J. H. Gearry</cell>
 	<cell>Do "</cell>
 	<cell>"</cell>
 </row>
@@ -128,7 +131,7 @@
 	<cell>Cavalry</cell>
 </row>
 <row>
-	<cell>J. H. Brown</cell>
+	<cell>&#x2713; J. H. Brown</cell>
 	<cell>Allen "</cell>
 	<cell>Infantry</cell>
 </row>
@@ -138,7 +141,7 @@
 	<cell>"</cell>
 </row>
 <row>
-	<cell>W. E. Williams</cell>
+	<cell>&#x2713; W. E. Williams</cell>
 	<cell>Cumberland "</cell>
 	<cell>"</cell>
 </row>
@@ -148,12 +151,12 @@
 	<cell>Cavalry</cell>
 </row>
 <row>
-	<cell>W. B. Smith</cell>
+	<cell>W. B. Nevitt</cell>
 	<cell>LaRue</cell>
 	<cell>Infantry</cell>
 </row>
 <row>
-	<cell>W. J. Sisle</cell>
+	<cell>W. J. Lisle</cell>
 	<cell>Marion</cell>
 	<cell>"</cell>
 </row>
@@ -163,12 +166,12 @@
 	<cell>"</cell>
 </row>
 <row>
-	<cell>Robert Cochran</cell>
+	<cell>&#x2713; Robert Cochran</cell>
 	<cell>Spencer</cell>
 	<cell>Cavalry</cell>
 </row>
 <row>
-	<cell>J. H. Bridgewater</cell>
+	<cell>&#x2713; J. H. Bridgewater</cell>
 	<cell>Lincoln</cell>
 	<cell>Infantry</cell>
 </row>
@@ -182,7 +185,7 @@
 	<cell>Infantry</cell>
 </row>
 <row>
-	<cell>J T Milam</cell>
+	<cell>J. T. Milam</cell>
 	<cell>Franklin "</cell>
 	<cell>"</cell>
 </row>
@@ -192,29 +195,29 @@
 	<cell>"</cell>
 </row>
 <row>
-	<cell>J. W. Tandy</cell>
+	<cell>&#x2713; J. W. Tandy</cell>
 	<cell>Gallatin "</cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>S. Lucas</cell>
+	<cell>&#x2713; S. Lucas</cell>
 	<cell>Grant "</cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>C. F. Campbell</cell>
+	<cell>&#x2713; C. F. Campbell</cell>
 	<cell>Pulaski "</cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>J. O. Monroe</cell>
-	<cell>Mercer "</cell>
+	<cell>&#x2713; J. P. Monroe</cell>
+	<cell>Monroe "</cell>
 	<cell>"</cell>
 </row>
-</table>
-<lb/>att
-<lb/>P. Swigert Secy<pb/></p>
-<p>Mil Board.</p>
+</table></p>
+<p>att
+<lb/><hi rend="underline">P. Swigert</hi> Secy<pb/></p>
+<p><hi rend="underline">Mil Board.</hi></p>
   </body>
  </text>
 </TEI>

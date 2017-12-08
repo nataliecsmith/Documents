@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0038"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,35 +66,36 @@
    <p>48<hi rend="underline"><hi rend="sup">th</hi></hi>
 <lb/>Head-Quarters Kentucky Volunteers,
 <lb/>ADJUTANT GENERAL'S OFFICE,
-<lb/>Frankfort <date when="1864-06-04">June 4<hi rend="sup">th</hi> 1864</date>
-<lb/><figure type="seal"><ab>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
-<p>Gen<hi rend="sup">l</hi> D W Lindsey
+<lb/>Frankfort <date when="1864-06-04">June 4<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
+<lb/><figure type="seal"><ab>UNITED WE STAND DIVIDED WE FALL</ab></figure>
+<lb/>Gen<hi rend="sup">l</hi>. D W Lindsey
 <lb/>Inspector General.
 <lb/>General.</p>
-<p>By directions of his Excellency Gov<hi rend="sup">r</hi> Bramlette, the resignation of Lt Col Cha<hi rend="sup">s</hi> F. Starling of the 48<hi rend="underline"><hi rend="sup">th</hi></hi> Regt E M of Henderson Co is accepted. By the same authority James W Poole is commissioned Colonel of the 48<hi rend="underline"><hi rend="sup">th</hi></hi> Regt E M. vice James H. Halloway reisigned, bearing date <date when="1864-06-04">4<hi rend="underline"><hi rend="sup">th</hi></hi> June 1864.</date></p>
+<p>By directions of his Excellency Gov<hi rend="sup">r</hi> Bramlette, the resignation of Lt Col Cha<hi rend="sup">s</hi> F. Starling of the 48<hi rend="underline"><hi rend="sup">th</hi></hi> Reg<hi rend="sup">t</hi> E M of Henderson Co is accepted. By the same authority James W Poole is commissioned Colonel of the 48<hi rend="underline"><hi rend="sup">th</hi></hi> Regt E M. vice James H. Halloway resigned, bearing date <date when="1864-06-04">4<hi rend="underline"><hi rend="sup">th</hi></hi> June 1864.</date></p>
 <p>Very Respectfully
 <lb/><hi rend="underline">John Boyle</hi>
-<lb/>Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Ky<pb/></p>
-<p><figure type="seal"><ab>UNITED WE STAND DIVIDED WE FALL.
+<lb/>Adj<hi rend="sup">t</hi> Gen Ky<pb/></p>
+<p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
 <lb/>KENTUCKY.</ab></figure>
 <lb/>Head-Quarters Kentucky Volunteers,
 <lb/>ADJUTANT GENERAL'S OFFICE,
-<lb/>Frankfort, <date when="1864-06-04">June 4: 1864.</date></p>
+<lb/>Frankfort, <date when="1864-06-04">June 4<hi rend="sup">:</hi> 1864.</date></p>
 <p>SPECIAL ORDERS,
-<lb/>NO. 40. }</p>
+<lb/>NO. 40.</p>
 <p>The resignation of the following named Officer is accepted to take effect from this date.</p>
-<p><hi rend="underline">Chas. F. Starling</hi>
-<lb/><hi rend="underline">Lieut. Colonel. 48: Reg. E. M. Henderson Co F</hi></p>
-<p>By command of the Governor:
+<p><hi rend="underline">Cha</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline">. F. Starling</hi>
+<lb/><hi rend="underline">Lieut. Colonel. 48</hi><hi rend="underline"><hi rend="sup">:</hi></hi><hi rend="underline"> Reg</hi><hi rend="underline"><hi rend="sup">:</hi></hi><hi rend="underline"> E. M. Henderson Co</hi><hi rend="underline"><hi rend="sup">y</hi></hi></p>
+<p><hi rend="underline">By command of the Governor:</hi>
 <lb/><hi rend="underline">John Boyle</hi>
 <lb/>Adjutant General of Kentucky.
 <lb/>Inspector Gen<hi rend="sup">l</hi> of Ky.<pb/></p>
-<p>Rept from Adjt Genl office
-<lb/><date when="1864-06-04">June 4<hi rend="sup">th</hi> 1864</date><figure type="hr"/>
-<lb/>48<hi rend="underline"><hi rend="sup">th</hi></hi> regt E. M. Henderson. Co. appointmt &amp; commission of Col resignation acepted of Lieut Col 
+<p>Rept from Adj.t Genl office
+<lb/><date when="1864-06-04">June 4<hi rend="sup">th</hi> 1864</date><figure type="hr"/></p>
+<p>48<hi rend="underline"><hi rend="sup">th</hi></hi> regt E, M. Henderson. Co. 
+<lb/>appointmt &amp; commission of Col resignation acceptd of Lieut Col
 <lb/>By order of his Excellency Gov Bramlette<figure type="hr"/>
-<lb/>Recorded <date when="1864-06-04">June 4th 1864 J. B. L.</date><figure type="hr"/>
-<lb/>Recd I. G. O. <date when="1864-06-04">June 4<hi rend="sup">th</hi> 1864 - J. B. L.</date></p>
+<lb/>Recorded <date when="1864-06-04">June 4<hi rend="sup">th</hi> 1864 J. B. L.</date><figure type="hr"/></p>
+<p>Recd I. G. O. <date when="1864-06-04">June 4<hi rend="sup">th</hi> 1864- J. B. L.</date></p>
   </body>
  </text>
 </TEI>

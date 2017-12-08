@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0085"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Theodore D. Rand to Unknown</title>
+    <title level="a" type="main">Theodore D. Rand to Thomas B. Monroe, Jr.</title>
     <title level="a" type="parallel">CWG2433</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,57 +65,36 @@
   <body>
    <p>THEODORE D. RAND,
 <lb/>ATTORNEY AT LAW,
-<lb/>No. 32 SOUTH THIRD STREET.
+<lb/>No. 32 SOUTH THIRD STREET.<figure type="hr"/>
 <lb/>COMMISSIONER OF DEEDS
 <lb/>FOR
-<lb/><table rend="rules">
-<row>
-	<cell>ALABAMA,</cell>
-	<cell>MAINE,</cell>
-	<cell>OHIO,</cell>
-</row>
-<row>
-	<cell>ARKANSAS,</cell>
-	<cell>MARYLAND,</cell>
-	<cell>RHODE ISLAND,</cell>
-</row>
-<row>
-	<cell>CONNECTICUT,</cell>
-	<cell>MICHIGAN,</cell>
-	<cell>SOUTH CAROLINA,</cell>
-</row>
-<row>
-	<cell>FLORIDA,</cell>
-	<cell>MISSISSIPPI,</cell>
-	<cell>TENNESSEE,</cell>
-</row>
-<row>
-	<cell>GEORGIA,</cell>
-	<cell>MISSOURI,</cell>
-	<cell>TEXAS,</cell>
-</row>
-<row>
-	<cell>INDIANA,</cell>
-	<cell>MINNESOTA,</cell>
-	<cell>VERMONT,</cell>
-</row>
-<row>
-	<cell>IOWA,</cell>
-	<cell>NEW HAMPSHIRE,</cell>
-	<cell>VIRGINIA,</cell>
-</row>
-<row>
-	<cell>KENTUCKY,</cell>
-	<cell>NEW JERSEY,</cell>
-	<cell>WISCONSIN.</cell>
-</row>
-<row>
-	<cell>MASSACHUSETTS,</cell>
-	<cell>NORTH CAROLINA,</cell>
-	<cell/>
-</row>
-</table></p>
-<p>JOHN C. BULLITT. 
+<lb/><milestone unit="column" n="3"/><cb n="1"/>ALABAMA,
+<lb/>ARKANSAS,
+<lb/>CONNECTICUT,
+<lb/>FLORIDA,
+<lb/>GEORGIA,
+<lb/>INDIANA,
+<lb/>IOWA,
+<lb/>KENTUCKY,
+<lb/>MASSACHUSETTS,
+<lb/><cb n="2"/>MAINE,
+<lb/>MARYLAND,
+<lb/>MICHIGAN,
+<lb/>MISSISSIPPI,
+<lb/>MISSOURI,
+<lb/>MINNESOTA,
+<lb/>NEW HAMPSHIRE,
+<lb/>NEW JERSEY,
+<lb/>NORTH CAROLINA,
+<lb/><cb n="3"/>OHIO,
+<lb/>RHODE ISLAND,
+<lb/>SOUTH CAROLINA,
+<lb/>TENNESSEE,
+<lb/>TEXAS,
+<lb/>VERMONT,
+<lb/>VIRGINIA,
+<lb/>WISCONSIN.<cb n="1"/></p>
+<p>JOHN C. BULLITT.
 <lb/>FRED. FAIRTHORNE
 <lb/>BULLITT &amp; FAIRTHORNE,
 <lb/>LAW AND COLLECTION OFFICE,
@@ -128,10 +110,10 @@
 <lb/>Frankfort Ky.</p>
 <p>Mann, Stationer, 43 S. 4th St. Phila.<pb/></p>
 <p>Pennsylvania<figure type="hr"/>
-<lb/>Com<hi rend="sup">r</hi>. of Deeds
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>Theo. D. Rand
 <lb/>Phila<hi rend="underline"><hi rend="sup">d</hi></hi>
-<lb/>Com<hi rend="sup">d</hi>. <date when="1861-03-01">Mar. 1. 1861</date></p>
+<lb/>Com<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-03-01">Mar. 1. 1861</date></p>
   </body>
  </text>
 </TEI>

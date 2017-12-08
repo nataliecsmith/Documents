@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1459"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,24 +62,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency 
+   <p>To His Excellincy 
 <lb/>B Magoffin
-<lb/>Dear Sir</p>
-<p>Mr A H Talbott was fined at the last June term, of the Henderson Circuit fifty dollars, for selling whiskey to a slave. The proof in the case was in substance as follows Mr Talbott is a dealer in groceries of all discriptions, There was considerable excitement in the county at the time from apprehension of negro insurrection, in consequence of which there was a strong night police, a little after day light two negro<hi rend="sup">s</hi> were discovered standing not far from Mr Talbotts front door by the deputy marshall. Mr Talbott's house is on a corner, and the negroes broke as soon as they saw the deputy Marshall, one of them passing through<hi rend="str">t</hi> Talbotts house and leaving at the back door, The Marshall pursued caught the negro &amp; found upon ^one^ a bottle of Whisky, There <hi rend="str"><unclear/></hi>are ^on^ the square with Talbot several other grocery establishments all dealing in whisky --.</p>
+<lb/>Dear sir</p>
+<p>Mr A H Talbott was fined at the last June term, of the Henderson Circuit fifty dollars, for selling whiskey to a slave. The proof in the case was in substance as follows Mr Talbott is a dealer in groceries of all discriptions, There was considerable excitement in the county at the time from apprehension of negro insurrection, in consequence of which there was a strong night police, a little after day light two negro<hi rend="sup">s</hi> were discovered standing not far from Mr Talbotts front door by the deputy marshall. Mr Talbotts house is on a corner, and the negroes broke as soon as they saw the deputy Marshall, one of them passing through<hi rend="str">t</hi> Talbotts house and leaving at the back door, The Marshall pursued caught the negro &amp; found upon ^one^ a bottle of whisky, There <hi rend="str"><unclear/></hi>are ^on^ the square with Talbott several other grocery establishments all dealing in whisky --.</p>
 <p>Mr Talbott is a highly respected<pb/>
 <lb/>citizen and as far from violations of law as any in our community</p>
-<p>For his standing and character we refer you to Grant Green &amp; Judge Young -- I do not believe he was guilty, but upon the proof he was so found, but as I believe because of an universal feeling in thir community against the offense, It is but due to candour that I should say to you I was of course for Mr T. but I am ^not^ influenced in the least by that fact in thus writing to you</p>
+<p>For his standing and character we refer you to Grant Green &amp; Judge Young -- I do not believe he was guilty, but upon the proof he was so found, but as I believe because of an universal feeling in this community against the offense, It is but due to candour that I should say to you I was of counsel for Mr T. but I am ^not^ influenced in the least by that fact in thus writing to you</p>
 <p>I honestly believe he was innocent &amp; therefore ask a remmission</p>
-<p>Yours Truly
+<p>Yours truly
 <lb/>Jno W Crockett</p>
 <p>I ask your Excellency to regard &amp; treat the above letter as my petition to have the fine referred to remitted, assuring your Excellency of my innocence</p>
-<p>A. H. Talbott<pb/></p>
+<p>A, H, Talbott<pb/></p>
 <p>Henderson Cir. Ct
-<lb/>$50 } liquor to a slave
+<lb/>&#36;50 &#125; liquor to a Slave
 <lb/>A. H. Talbott
-<lb/>Iss. <date when="1861-10-10">Octo 10. 1861</date></p>
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-10">Octo 10. 1861</date></p>
 <p><hi rend="str">Refer to Judge Young</hi></p>
-<p>Remitted B. M.</p>
+<p>Remitted
+<lb/>B, M</p>
   </body>
  </text>
 </TEI>

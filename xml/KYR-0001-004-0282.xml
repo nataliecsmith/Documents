@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0282"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,9 +63,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Scott County Ky <date when="1863-11">Nov 1863</date>
-<lb/>To his Excelency the Govenor of Kentucky</p>
-<p>Your Petitioners would Respectfully Represent. That at the <date when="1863-11">November Term of the Scott Circuit Court for 1863</date>. Jeremiah Haner was Fined to the Extent of the law the charge against Said Haner was Selling whiskey to a Slave without an order. the selling of said whiskey is Said to have taken place in the year <date when="1860">1860</date> The proof against Said Haner was that the Negro Boy Jack was seen to come from the house of Said Haner with a bottle of whiskey. Said Haner has been ready for Trial at all the courts Since he was Indicted. and would have been present at the last Term of Said Court but for the fact that the only witness the Commonwealth had was M. U. Sinclair and said Sinclair told Said Haner a day or two before Said court that he would not be there to testify that the cause had been continued from court to court Since <date when="1860">1860</date> on account of the absence of Said witness. Said Haner has been ever Since the Inditments ^Redy^ to prove by R. G. Johnson that Said Johnson bought the whiskey alluded to and went ^out^ of Said Haner house and gave to Said Negro Jack the Bottle found in his possesion For these considerations we would Pray his Excelency to Remit Said Fine<pb/></p>
+   <p>Scott county Ky <date when="1863-11">Nov 1863</date>
+<lb/>To his Excelency the Govener of Kentucky</p>
+<p>Your Petitioners would Respectfully Represent, That at the <date when="1863-11">November Term of the Scott Circuit Court for 1863</date>. Jerimiah Haner was -- Fined to the Extent of the law the charge against Said Haner was Selling whiskey to a Slave without an order, the selling of said whiskey is Said to have taken place in the year <date when="1860">1860</date> The proof against said Haner was that the Negro Boy Jack was seen to come from the house of Said Haner with a bottle of whiskey. Said Haner has been ready for<hi rend="str">an</hi> Trial at all the courts Since he was Indited, and would have been present at the last Term of Said Court but for the fact that the only witness the Commonwealth had was M, h Sinclair and said Sinclair told Said Haner a day or two before Said court that he would not be there to testify that the cause had been continued from court to court Since <date when="1860">1860</date> on account of the absence of said witness, Said Haner has been ever Since the Inditment ^Redy^ to prove by R, G, Johnson that Said Johnson bought the whiskey alluded to and went ^out^ of said Haner house and gave to Said Negro Jack the Bottle found in his possesion For these considerations we would Pray his Excelency the Remit Said Fine<pb/></p>
 <p>Robert Dougherty
 <lb/>French C Johnson
 <lb/>R G Johnson
@@ -70,24 +73,24 @@
 <lb/>W H Poindexter
 <lb/>S. W. Marston
 <lb/>W. D Poindexter
-<lb/>B S Newton
+<lb/><hi rend="underline">B S Newton</hi>
 <lb/>John L. Branham
 <lb/>Alvin Sinclair
-<lb/>T. D Jones
+<lb/><unclear>T. D</unclear> Jones
 <lb/>O. C. Bradley
 <lb/>J Y Bond
 <lb/>A. M. Ferguson
 <lb/>J Q Adams
 <lb/>John A Davison
-<lb/>R. S. Triplett
+<lb/>R S. Triplett
 <lb/>B N Bradford
-<lb/>Elridge Branham
+<lb/>Eldridge Branham
 <lb/>John Wayt
-<lb/>F. G. Johnson
-<lb/>J. B. Kelly
+<lb/>F <unclear>D.</unclear> Johnson
+<lb/>J, <hi rend="str">Y</hi>B. Kelly
 <lb/>H. Martin
-<lb/>N Calvert
-<lb/>Henry Harvey</p>
+<lb/>O Calvert
+<lb/>Henry <unclear>Handy</unclear></p>
   </body>
  </text>
 </TEI>

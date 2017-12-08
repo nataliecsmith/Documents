@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1510"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,8 +63,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>Breckinridge County Kentucky</p>
-<p>James Henry Newman States that he lives about 2 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> miles from where Henry B. Margolyes formally Lived and kept Tavern that he ha<hi rend="str">ve</hi>d been there frequently and stayed with him one night, he took good care of me, and horse, had plenty</p>
+   <p>Breckinridge county Kentucky</p>
+<p>James Henry Newman States that he lives about 2 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> miles from where Henry B= Margolyes fomally Lived and Kept Tavern that he ha<hi rend="str">ve</hi>d been there frequently, and stayed with him one night, he took good care of me. and horse. had plenty</p>
 <p>Given under my hand this <date when="1861-11-21">21<hi rend="sup">st</hi> Nov 1861</date></p>
 <p>James H Newman</p>
 <p>Sworn to before me this <date when="1861-11-21">21<hi rend="sup">st</hi> Nov 1861</date></p>

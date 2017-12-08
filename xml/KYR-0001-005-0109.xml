@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0109"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,18 +67,18 @@
 <lb/><milestone unit="column" n="2"/><cb n="1"/>PHIL. TOMPPERT Jr., CLERK.
 <lb/><cb n="1"/>FRED. WOBBE, DEPUTY CLERK.
 <lb/><milestone unit="column" n="1"/>Clerks' Office, Louisville City Court,
-<lb/>Louisville, Ky., <date when="1865-10-18">Oct 18<hi rend="sup">th</hi> 1865</date>
-<lb/>Gov Bramlitt</p>
-<p>Sir on the <date when="1865-10-15">15<hi rend="underline"><hi rend="sup">th</hi></hi></date> I held an Inquest on the body of a white woman about 25 years old, near the third (3<hi rend="sup">rd</hi>) street road and about three (3) miles from the City of Louisville. She has been murdered by some one unknown to me,</p>
-<p>Her wounds are as follows a cut over each Eye one on <hi rend="str">forehand</hi> Forehead one just in front of Right Ear. Several Bruises on inside of right thigh and a wound which looked as though the flesh was twisted out her intestines was puled from her body through the Fundament Showing an act of the moste Diabolical rufianian the intestines cut or pulled loose from her body. Her cloths were all torn off of her not a Partickel remaining on her except one garter. Her right arm had been amputated just below the shoulder. the Evidences was plain of a sever strugle with some one from all I can learn I think a Negro did it.<pb/>
+<lb/>Louisville, Ky., <date when="1865-10-18">Oct 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>Gov Bramlett</p>
+<p>Sir on the <date when="1865-10-15">15<hi rend="underline"><hi rend="sup">th</hi></hi></date> I held an Inquest on the body of a white woman about 25 years old, near the third (3<hi rend="sup">rd</hi>) street road and about three (3) miles from the City of Louisville. She has been Murdered by some one unknown to me,</p>
+<p>Her wounds are as follows a cut over each Eye one on <hi rend="str">forehand</hi> Forehead one just in front of Right Ear, Several Bruises on inside of right thigh and a wound which looked as though the flesh was twisted out her intestines was puled from her body through the Fundament Showing an act of the moste Diabolical rufianian the intestines cut or pulled loose from her body. Her cloths were all torne off of her not a Partickel remaining on her except one garter. Her right arm had been amputated just below the shoulder. the Evidences was plain of a sever strugle with some one. from all I can learn I think a Negro did it.<pb/>
 <lb/><note place="header">2</note>
-<lb/>though I have no Positive Pro^o^fe of it. the Object of this is to ask you to offer a reward for the Perpetrater of this most Horable crime. I would sugest $5000 as a small sum for the Comth to Pay for the detection of so great a Villian</p>
+<lb/>though I have no Positive Pro^o^fe of it. the Object of this is to ask you to offer a reward for the Perpetrater of this moste Horable crime. I would sugest &#36;5000 as a small sum for the Comth t<hi rend="str">h</hi>o Pay for the detection of so great a Villian</p>
 <p>Respectfully
-<lb/>Yours &amp;C
+<lb/>You<hi rend="sup">s</hi> &amp;C
 <lb/>James C. Gill.
-<lb/>Coroner J C Ky<pb/></p>
+<lb/>coroner J C Ky<pb/></p>
 <p>Reward
-<lb/>$300
+<lb/>&#36;300
 <lb/>offered <date when="1865-10-24">24 Oct/65</date></p>
   </body>
  </text>

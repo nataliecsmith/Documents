@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1461"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Morganfield, Union County, Kentucky</placeName>
+    <placeName>Union County, Kentucky</placeName>
     <date when="1861-10-19">19 October 1861</date>
    </creation>
    <textClass>
@@ -60,22 +63,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the Govenor of The Commonwealth of Kentucky, Your Petitioner Patrick Brice will state his case as follows -- That he has been a ditcher in Union County Ky for several years past and about two or three years ^ago^ he met with an accident by which he has become a cripple for life, after he had been cared for by friends, he was taken to the poore house of the County, supported by public charge this was repugnant to his fealings -- he left this Charitable institution, determined to make a support for <hi rend="underline">himself</hi> -- he went to Union Town and set up a small shop of Oysters Sardines, Tobacco, Segars &amp;c &amp;c and during his opperations, he on a few occasions sold his little articles to his Customers, &amp; treated them to a dram of whisky (to incourage Custom,) not believing that he was violating the laws of his country for which he was Indicted, &amp; by the Judgment of the last Union Circuit Court he was fined $60 </p>
-<p>Hee has so fare recovered from his wounds that he can make a living by his labor, and is again engaged in his former occupation, but has neither money or property &amp; is unable to pay the fine; by his work he is barely able to support himself. He therefore respectfully asks of your excellency to remit s<hi rend="underline"><hi rend="sup">d</hi></hi> fine &amp; in duty bound he will ever pray &amp;c</p>
+   <p>To the Govenor of the Commonwealth of Kentucky, your Petitioner Patrick Brice will state his case as follows -- That he has been a ditcher in Union County Ky for several years past and about two or three years ^ago^ he met with an accident by which he has become a cripple for life, after he had been cared for by friends, he was taken to the poore house of the County, supported by public charge this was repugnant to his fealings- he left this Charitable institution, determined to make a support for <hi rend="underline">himself</hi>- he went to Union Town and set up a small shop of Oysters Sardines, Tobacco, Segars &amp;c &amp;c and during his opperations, he on a few occasions sold his little articles to his Customers, &amp; treated them to a dram of whisky (to incourage Custom,) not believing that he was violating the laws of his Country for which he was Indicted, &amp; by the Judgment of the last Union Circuit Court he was fined &#36;60 </p>
+<p>He has so fare recovered from his wounds that he can make a living by his labor, and is again engaged in his former occupation, but has neither money or property &amp; is unable to pay the fine; by his work he is barely able to support himself. He therefore respectfully asks of your excellency to remit s<hi rend="underline"><hi rend="sup">d</hi></hi> fine &amp; in duty bound he will ever pray &amp;c</p>
 <p>Patrick Brice<pb/></p>
 <p>Sworn to by Patrick Brice before me this <date when="1861-10-19">19th day of October A D 1861</date></p>
-<p>D H Hughes Notary Public
+<p>D H Hughes Notary public
 <lb/>Union Co Ky=<pb/></p>
 <p>Morganfield Union County Ky
 <lb/><date when="1861-10-18">October the 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
 <lb/>Dr Sir</p>
-<p>you have the petition of Patrick Brice before you. I believe the statements made therein are correct; he has been a cripple for about three years, he was in the poore house for sometime. I know nothing about his opperations in Union Town. Though he is still a cripple, he has gone to ditching, is an honest and industrious man and is O, K, though he is still a proper subject for the poore house, if let alone I believe he will make a living, &amp; I have no hesitation in saying his case in a proper subject of Executive interposition your friend &amp; obedient Servt</p>
+<p>you have the petition of Patrick Brice before you. I believe the statements made therein are correct; he has been a cripple for about three years, he was in the poore house for sometime- I know nothing about about his opperations in Union Town- Though he is still a cripple, he has gone to ditching, is an honest and industrious Man and is O, K, though he is still a proper subject for the poore house, if let alone I believe he will make a living, &amp; I have no hesitation in saying his case in a proper subject of Executive interposition your friend &amp; obedient Servt</p>
 <p>Hiram M<hi rend="sup">c</hi>Elroy</p>
 <p>The above is I believe substantially true, as stated by M<hi rend="sup">r</hi> Hiram M<hi rend="underline"><hi rend="sup">c</hi></hi>Elroy.</p>
 <p>R A Spalding 
-<lb/>Ben. P. Cissell<pb/></p>
+<lb/>Ben, P, Cissell<pb/></p>
 <p>Union Cir. Ct
-<lb/>$60 } Tipling
+<lb/>&#36;60 &#125; Tipling
 <lb/>Pat Brice
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-26">Oct 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date></p>
 <p>Remitted

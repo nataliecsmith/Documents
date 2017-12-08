@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0041"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,31 +65,30 @@
   <body>
    <p>Shepherdsville <date when="1864-05-28">May 28 1864</date>
 <lb/>His Excellency
-<lb/>Thos E. Bramlette.
+<lb/>Thos E. Bramlett.
 <lb/>Dear Sir,</p>
-<p>My son Lt John V. Thompson, has been trying to raise a company for the ten thousand troops you called for, but there seems not to be much disposition to volunteer the rebels &amp; their sympathies do every thing they can to discourage it; &amp; you have taken the right course, just make them walk right in, a man that wont fight for his country ought not to live in it. I have greatly more respect for the men who are in the field with Jeff. Davis, than for those who are among us plotting the overthrow and destruction<pb/>
-<lb/>of the Government that protects them &amp; all they possess, for them I have no respect, they have been handled with gloves too long. Capt Jos R, Noble, &amp; my son Lt John V. Thompson &amp; R. J. Myler ^J. Pat Ball^ Everyone trying to raise a regiment, and if they can not succeed I hope you will give them a portion in the forces you raise. Capt Noble &amp; my son have been in the service more than two years. My son was a L<hi rend="underline"><hi rend="sup">t</hi></hi> in Co D 15 Ky infantry Pope's old Regiment, He fought at Perryville, stone River &amp; commanded his company in Gen. Thomas' night <unclear/> at Chickamauga. After the battle Col. Taylor advised him to resign on account of his health; he had had the camp Diarrheia for more than a year, but<pb/>
+<p>My son <hi rend="str">John V T</hi>Lt John V. Thompson, has been trying to raise a company for the ten thousand troops you called for, but there seems not to be much disposition to volunteer; the rebels &amp; their sympathizers do every thing they can to discourage it; &amp; you have taken the right course, just make them walk right in, a man that wont fight for his country ought not to live in it. I have greatly more respect for the men who are in the field with Jeff. Davis, than for those who are among us plotting the overthrow <hi rend="str">of the</hi>and destruction<pb/>
+<lb/>of the Government that protects them &amp; all they possess, for them I have no respect, they have been handled with gloves too long. Capt Jos R, Noble, &amp; my son <hi rend="str">J</hi>Lt John V. Thompson &amp; R. J. Myler ^J. Pat Ball^ Evryone trying to raise a regiment, and if they can not succeed I hope you will give them a position in the forces you raise. Capt Noble &amp; my son have been in the service more than two years, My son was a L<hi rend="underline"><hi rend="sup">t</hi></hi> in Co D 15 Ky infantry Pope's old Regiment. He fought at Perryville, stone River &amp; commanded his company in Gen. Thomas' right wing at Chickamauga. After the battle Col. Taylor advised him to resign on account of his health; He had had the camp Diarrheia for more than a year, but<pb/>
 <lb/>but he is now well, and <unclear>anxious</unclear> to enter the lists again, and I hope you will give him a position as well as the other <hi rend="str">two</hi> ^three^ I have named,</p>
 <p>Your friend
 <lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi> <hi rend="underline">R</hi> <hi rend="underline">Thompson</hi></p>
 <p>Gov. Bramlett</p>
-<p>We the undersigned union men of Bullitt county would respectfully recommend to your favourable consideration for promotion Cap Jos R. Noble, Lt John V. Thompson &amp; R. J. Myler ^, J. Pat Ball^ Esq. Noble &amp; Thompson have been in the military service for more than two years; Noble in the 28 Ky &amp; Thompson in the 15 Ky infantry; and both acquitted themselves well. Thompson was in every fight in which his Regiment was engaged, from Perryville to Chickamauga. Thompson has been trying to raise a company, but<pb/>
-<lb/>there seems to be but little disposition to volunteer.</p>
-<p>Yours Respectfully,
-<lb/><milestone unit="column" n="2"/><cb n="1"/>G. G Koeb
+<p>We the undersigned Union Men of Bullitt county would respectfully recommend to your favourable consideration for promotion Capt Jos R, Noble, Lt John V, Thompson &amp; R. J. Myler ^&amp; J. Pat Ball^ Esq. Noble &amp; Thompson have been in the military service for more than two years; Noble in the 28 Ky &amp; Thompson in the 15 Ky infantry; and both acquitted themselves well. Thompson was in every fight in which his Regiment was engaged, from Perryville to Chickamauga. Thompson has been trying to raise a company, but<pb/>
+<lb/>there seems to be but little disposition to volunteer. Yours Respectfully,</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>G. G Koeb
 <lb/>W J Collow
 <lb/>Lloyd Friddle
 <lb/>James Shoptam
-<lb/>Henry C Hills
-<lb/>James B. Cundiffe
+<lb/>Henry C <unclear>Hilder</unclear>
+<lb/>James B Cundiffe
 <lb/>Ben Newton
 <lb/>David Brown
-<lb/>John Renison
+<lb/>John Benison
 <lb/>John O Brian
 <lb/>L E Athey
 <lb/>W M Lowel
 <lb/>Oliver Grahm
-<lb/>John. T. Friddle
+<lb/>John. T, Friddle
 <lb/>W. W. Zazio
 <lb/><cb n="2"/>S. A. M<hi rend="sup">c</hi>Kay
 <lb/>R. H. Field.
@@ -94,17 +96,17 @@
 <lb/>Wertly Phelps
 <lb/>E H M<hi rend="sup">c</hi>Cormick
 <lb/>G W Caldwell
-<lb/>R. F. Joyce
-<lb/><hi rend="str">J, Robt, <unclear/>,</hi>
+<lb/>R, F, Joyce
+<lb/><hi rend="str">J, Rob</hi><hi rend="underline"><hi rend="str"><hi rend="sup">t</hi></hi></hi><hi rend="str"> <unclear/></hi>,
 <lb/>Isaac Moore
 <lb/>James Moore
 <lb/><hi rend="underline">C. R. Samuels</hi>
-<lb/>Thos. F. Houglam
-<lb/>W, O, Barbour
+<lb/>Tho<hi rend="sup">s</hi>, F. Houghan
+<lb/>W, O Barbour
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Jacobs
-<lb/>M. Troutman
+<lb/>W. Troutman
 <lb/>B. F. Troutman
-<lb/>F, A, Troutman
+<lb/>F. A. Troutman
 <lb/>L Hogland
 <lb/>James Shepherd
 <lb/>W<hi rend="sup">m</hi> Buckman
@@ -112,10 +114,10 @@
 <p><milestone unit="column" n="1"/>Shepherdsville -- Ky.
 <lb/><date when="1864-05-28">May 28<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
 <lb/>Thompson W<hi rend="underline"><hi rend="sup">m</hi></hi> R.<figure type="hr"/></p>
-<p>Says his sone John V. Thompson has tried to raise a company under six month's call -- but there is no disposition to enlist among the people. Dislikes resident rebels more than Jeff. Davis traitors. Send a petition of several citizens for the appointment to office in the new regiments of his son -- Capt. Noble. R. J. Myler and J. Pat Ball.<figure type="hr"/></p>
-<p>L. B. N<hi rend="underline"><hi rend="sup">o</hi></hi> 4 -- <date when="1864">1864</date> -- P -- 84
-<lb/>Recruiting Authorities sent Noble &amp; Thompson.
-<lb/><hi rend="underline">Boyle</hi><figure type="hr"/>
+<p>Says his son John V. Thompson has tried to raise a company under six months' call -- but there is no disposition to enlist among the people. Dislikes resident rebels more than Jeff. Davis traitors. Send a petition of several citizens for the appointment to office in the new regiments of his son--Capt. Noble. R. J. Myler and J. Pat Ball.<figure type="hr"/></p>
+<p>L. B. N<hi rend="underline"><hi rend="sup">o</hi></hi> 4--<date when="1864">1864</date>--P--84</p>
+<p>Recruiting Authorities sent Noble &amp; Thompson.</p>
+<p><hi rend="underline">Boyle</hi><figure type="hr"/>
 <lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-05-31">May 31<hi rend="underline"><hi rend="sup">st</hi></hi> 1864</date></p>
   </body>
  </text>

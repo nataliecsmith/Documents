@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0083"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Campbell County, Kentucky</placeName>
-    <date when="1865-08-24">24 August 1865</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -62,29 +65,29 @@
   <body>
    <p>Campbell Circuit Court
 <lb/>The Com"mth of Kentucky Plaintiff
-<lb/>Against } Indictment for Refusing to receive the vote of a qualified voter
+<lb/>Against &#125; Indictment for Refusing to receive the vote of a qualified voter
 <lb/>John W Flora &amp; George Herendon Defendants</p>
-<p>The Grand Jury of Campbell County, in the name and by the authority of the Commonwealth of Kentucky, accuse John W Flora &amp; George Herendon of the offense of refusing to receive the vote of a qualified voter, Committed as follows, viz; The Said John W Flora &amp; George Herendon on the <gap/> day of <date when="1865-08">August, 1865</date>, and on divers other days and times, before and Since that time, and before the finding of this Indictment, in the County and State aforesaid; Being officers of an election then &amp; there held at the Carthage Precinct in Said County under the constitution and laws of the State aforesaid; for the Election of a<pb/>
+<p>The Grand Jury of Campbell County, in the name and by the authority of the Commonwealth of Kentucky, accuse John W Flora &amp; George Herendon of the offense of refusing to receive the vote of a qualified voter, Committed as follows, viz; The Said John W Flora and George Herendon on the <gap/> day of <date when="1865-08">August, 1865</date>, and on divers other days and times, before and since that time, and before the finding of this Indictment, in the County and State aforesaid; Being officers of an election then &amp; there held at the Carthage Precinct in Said County under the constitution and laws of the State aforesaid; for the Election of a<pb/>
 <lb/>member of the Congress of the United States for the Sixth Congressional District of Ky, a State Treasurer, Two members of of the General Assembly for the County aforesaid, a State Senator from the 25<hi rend="underline"><hi rend="sup">th</hi></hi> Senatorial District of Said State, and a Clerk of the Circuit Court, for the county aforesaid, The Said Flora being then &amp; there a Judge of Said Election, and the Said Herendon being then &amp; there the Sheriff of Said Election, and Severally acting as Such at the time and place aforesaid, having been duly appointed and qualified as Said Judge and Sheriff,, The Jury aforesaid in the name and by the authority aforesaid, do further say that at the Election aforesaid and for the purpose at the Carthage Precinct &amp; County aforesaid, on the day &amp; year aforesaid, George Nelson a qualified voter of Said Precinct &amp; County, did then &amp; there appear at the Polls, before the Judges<pb/>
-<lb/>Sheriff &amp; Clerk of the Said Election, between the hours of Seven Oclock A. M. and Six Oclock P, M. and then &amp; there did offer to vote, Whereupon the said John W Flora and George Herendon as Judge and Sheriff of Said Election, Respectively, did Knowingly, unlawfully and corruptly refuse to receive the vote of George Nelson, contrary to the Statute made and provided, and against the peace and dignity of the Commonwealth of Kentucky.</p>
+<lb/>Sheriff and Clerk of the Said Election, between the hours of Seven Oclock A. M, and Six Oclock P, M, and then &amp; there did offer to vote, whereupon the said John W Flora and George Herendon as Judge and Sheriff of Said Election, Respectively, did Knowingly, unlawfully and Corruptly refuse to receive the vote of George Nelson, contrary to the Statute made and provided, and against the peace and dignity of the Commonwealth of Kentucky.</p>
 <p>Witnesses
 <lb/>George Nelson
 <lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> J. Nelson</p>
-<p>R. B. Carpenter
+<p>R. B, Carpenter
 <lb/>Commonwealths Attorney</p>
 <p>A Copy
-<lb/>Attest Benj Beall clk
+<lb/>attest Benj Beall clk
 <lb/>Campbell Circuit Court<pb/></p>
 <p>150
 <lb/>The Commonwealth
-<lb/>Against
+<lb/>against
 <lb/>John W Flora &amp; George Herendon<figure type="hr"/>
 <lb/>Indictment for Refusing to receive the vote of a qualified voter<figure type="hr"/>
 <lb/>A True Bill
 <lb/>G. W. Carmack
 <lb/>Foreman<figure type="hr"/>
-<lb/>Filed <date when="1865-08-24">Aug 24<hi rend="sup">th</hi> 1865</date>
-<lb/>B W. iss<hi rend="sup">d</hi> <date when="1865-08-28">Aug 28<hi rend="sup">th</hi> "</date></p>
+<lb/>Filed <date when="1865-08-24">Aug 24<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>B. W. iss<hi rend="sup">d</hi> <date when="1865-08-28">aug 28<hi rend="sup">th</hi> "</date></p>
   </body>
  </text>
 </TEI>

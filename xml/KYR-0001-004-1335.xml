@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1335"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Harvy Todd et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">Harvy Todd to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG5972</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,23 +62,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Govener Thos. E Bramelett</p>
-<p>Your petitioner Harvy Todd of the County of Rockcastle state of Kentucky would respectfully -- Represent -- That at the <date when="1864-02">February Term of the Rockcastle Circuit court. 1864.</date> he was fined $60. charged with Keeping a tipling house. he states that he is a verry poor man Scearsly able to live and support his Family. and that his wife is entirely helpless. and has been confined In her bead for the last eight years unable to feed herself. or get up without help, and Respecfully asks your honor to remit the fine or so much thereof as goes to the state and as in duty bound will ever pray &amp;c</p>
+   <p>To His Excellency Govener Tho<hi rend="sup">s</hi>. E Bramlett</p>
+<p>Your Petitioner Harvy Todd of the County of Rockcastle state of Kentucky would respectfully -- Represent-That at the <date when="1864-02">February Term of the Rockcastle Circuit court 1864,</date> he was fined &#36;60 charged with Keeping a tipling house, he states that he is a verry poor man, Scearsly able to live and support his Family, and that his wife is entirely helpless, and has been confined In her bead for the last eight years, -- unable to feed herself or get up without help, and Respecfully asks your honir to remit the fine or so much thereof as goes to the state, and as in duty bound will ever pray &amp;c</p>
 <p>Given under my hand this <date when="1864-11-08">8<hi rend="sup">th</hi> day of November 1864</date></p>
 <p>Harvy, Todd</p>
 <p>Sworn to and subscribed before me by Harvy Todd -- that his statements are true,</p>
-<p>W W Fish Ck Co C
+<p>W W Fish C R Co C
 <lb/><hi rend="str">J.P.Rc</hi></p>
-<p>We the undersigned citizens of Rockcastle county: State, that we believe the statements made by Mr Harvy Todd is true. and desearves the Interposition of the Govenor, and hope there will be no hesitation in remitting the fine.</p>
-<p>Alfred Smith C. R C.C
+<p>we the undersigned citizens of Rockcastle county: State, that we belive the statements made by Mr Harvy Todd is true. and desearves the Interposition of the Govenor, and hope there will be no hesitatin in remitting the fine,</p>
+<p>Alfred Smith <hi rend="underline">C. R c.c</hi>
 <lb/>W W Fish C R Co C
 <lb/>W<hi rend="sup">m</hi> M<hi rend="sup">c</hi>Clure S R C
 <lb/>E T. Fish
 <lb/>W. A. Brooks<pb/></p>
 <p>Rocastle Cir Ct
 <lb/>vs
-<lb/>H Todd
-<lb/>$60
+<lb/>H. Todd
+<lb/>&#36;60
 <lb/>Remitted
 <lb/><date when="1864-11-17">17<hi rend="sup">th</hi> Nov/64</date></p>
   </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1440"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,23 +65,23 @@
   <body>
    <p>Beriah Magoffin,
 <lb/>GOVERNOR OF THE COMMONWEALTH OF KENTUCKY,
-<lb/>TO ALL WHO SHALL SEE THESE PRESEENTS, GREETING:</p>
-<p>WHEREAS, A judgment has been rendered by The Floyd Circuit Court for $60 against Joshua Bingham AND WHEREAS, It appears from satisfactory evidence that the case of the said Bingham presents strong considerations for the interposition and indulgence of the Executive:</p>
+<lb/>TO ALL WHO SHALL SEE THESE PRESENTS, GREETING:</p>
+<p>WHEREAS, A judgment has been rendered by the Floyd Circuit Court for &#36;60 against Joshua Bingham AND WHEREAS, It appears from satisfactory evidence that the case of the said Bingham presents strong considerations for the interposition and indulgence of the Executive:</p>
 <p>Now, Know Ye, That in consideration of the premises, and by virtue of the power vested in me by the Constitution, I have thought it proper to RESPITE, and do, by these presents, stay and respite the collection of said judgment except fees &amp; costs for the term of Twelve months from the date hereof; and do hereby enjoin all officers to respect this RESPITE, and govern themselves accordingly.</p>
 <p><figure type="seal"><ab>SEAL OF KENTUCKY
 <lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
-<p>In Testimony Whereof, I have hereunto set my hand, and caused the Seal of the Commonwealth to be affixed, at FRANKFORT, on the <date when="1860-06-21">21<hi rend="sup">st</hi> day of June, in the year of our Lord one thousand eight hundred and Sixty</date> and the 69<hi rend="sup">th</hi> year of the Commonwealth.</p>
+<p>In Testimony Whereof, I have hereunto set my hand, and caused the Seal of the Commonwealth to be affixed, at FRANKFORT, on the <date when="1860-06-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> day of June, in the year of our Lord one thousand eight hundred and Sixty</date>, and the 69<hi rend="underline"><hi rend="sup">th</hi></hi> year of the Commonwealth.</p>
 <p>BY THE GOVERNOR: B. Magoffin
 <lb/>Tho. B. Monroe Jr, SECRETARY OF STATE.
-<lb/>By Ja<hi rend="sup">s</hi> W Tate Asst. Secy<figure type="hr"/>
-<lb/>"Yeoman" Office -- J. B. Major, State Printer.<pb/></p>
+<lb/>By Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W Tate Asst Secy<figure type="hr"/>
+<lb/>"Yeoman" Office -- J. B. MAJOR, State Printer.<pb/></p>
 <p>Floyd Cir Ct
 <lb/>Joshua Bingham
-<lb/>To } Respite
-<lb/><date when="1861-06">June 1861.</date>
-<lb/><hi rend="str">Respited 12 Ms</hi> Remitted -- <hi rend="str">
-<lb/></hi>B. M
-<lb/>$60 } Tipling
+<lb/>To &#125; Respite
+<lb/><date when="1861-06">June 1861</date>.
+<lb/><hi rend="str">Respite 12 Mo</hi> Remitted--<hi rend="str">
+<lb/></hi>B. M</p>
+<p>&#36;60 &#125; Tipling
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-09-10">Sept. 10 1861</date></p>
   </body>
  </text>

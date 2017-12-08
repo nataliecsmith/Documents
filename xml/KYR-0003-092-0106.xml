@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0106"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,15 +63,14 @@
  <text>
   <body>
    <p><date when="1861-06-15">June 15<hi rend="sup">th</hi> 1861</date>
-<lb/>Gw.W. Johnson Esqr
-<lb/>Dear Dir</p>
-<p>Mr Peak informs me that you are willing to take the Cemetery lot sold to A. J. Viley in -- consequence of a misunderstanding about the payment of that lot &amp; Mr Peaks. we are willing that you shall do so. the lot has been paid for &amp; by Your getting an order for the lot from the Administration &amp; paying them for it you can have a new deed issued to yourself.</p>
-<p>Very Truly
+<lb/>Geo. W. Johnson Esqr
+<lb/>Dear Sir</p>
+<p>Mr Peak informs me that you are willing to take the Cemetery lot sold to A. J. Viley. in -- consequence of a misunderstanding about the payment of that lot &amp; Mr Peaks. we are willing that you shall do so. the lot has been paid for &amp; by Your getting an order for the lot from the Administration &amp; paying them for it you can have a new deed issued to Yourself.</p>
+<p>Very truly
 <lb/>J. P. Warren<pb/></p>
-<p>J.P. Warren
+<p>J. P. Warren
 <lb/><date when="1861-06-15">June 15 1861</date>.
-<lb/><unclear/>
-<lb/></p>
+<lb/><unclear/></p>
   </body>
  </text>
 </TEI>

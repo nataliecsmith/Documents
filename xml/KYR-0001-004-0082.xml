@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0082"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,24 +64,24 @@
  <text>
   <body>
    <p>Stanford Kentucky
-<lb/><date when="1863-09-23">Septr 23<hi rend="sup">rd</hi> 1863</date>
+<lb/><date when="1863-09-23">Septr 23<hi rend="underline"><hi rend="sup">rd</hi></hi> 1863</date>
 <lb/>Gov Thos. E. Bramlette
 <lb/>Frankfort Ky.
-<lb/>Dear Gov -- </p>
-<p>A forfeiture and Judgment has been obtained in the Lincoln Circuit Court against Garland Adams in the case of The Commonwealth against E J. James for $100 -- as surety in said James Bail bond, Adams is an industrious honest &amp; poor young man and was over persuaded to go James security for his appearance as James was his cousin and the charge petit larceny -- And I think the case one which deserves the exercise of Executive Clemency.<pb/>
-<lb/>I therefore hope you will remit one half of said forefeiture as I think he can secure himself in the ballance</p>
-<p>My highest regards to Mrs B and the rest of your family</p>
+<lb/>Dear Gov-</p>
+<p>A forfeiture and Judgment has been obtained in the Lincoln Circuit Court. against Garland Adams in the case of The Commonwealth against E J. James for &#36;100- as surety in said James Bail bond, Adams is an industrious honest &amp; poor young man and was over persua<hi rend="str">t</hi>ded to go. James security for his appearance as James was his cousin and the charge petit larceny -- and I think the case one which deserves the exercise of Executive Clemency.<pb/>
+<lb/>I therefore hope you will remit one half of said forefeiture as I think he can secure him self in the ballance=</p>
+<p>My highest regards to Mrs B- and the rest of your family</p>
 <p>Your friend
-<lb/>M. H. Owsley<pb/></p>
+<lb/>M, H, OwSley<pb/></p>
 <p>Lincoln Co
 <lb/>vs
 <lb/><hi rend="str">Jas L</hi>
 <lb/>Garland Adams
 <lb/>Forfeiture
-<lb/>$50,
+<lb/>&#36;50,
 <lb/>Remitted <date when="1863-09-28">28<hi rend="sup">th</hi> Sept 1863</date></p>
-<p>Remit <hi rend="sup">1</hi>/<hi rend="sub">2</hi> fine as requested by Comths atty
-<lb/>Tho E Bramlette</p>
+<p>Remit <hi rend="sup">1</hi>/<hi rend="sub">2</hi> fine as requested by Comth<hi rend="sup">s</hi> Atty</p>
+<p>Tho E Bramlette</p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1318"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,19 +67,19 @@
 <lb/><date when="1864-11-19">Nov 19<hi rend="sup">th</hi> 1864</date>
 <lb/>Thomas E Bramlett Esqr
 <lb/>Govenor of Ky
-<lb/>Sir -- </p>
-<p>Some time since a petition was sent from Laurence County in behalf of my brother W F Moore asking the remission of Two fines assessed against him in the Laurence Circuit Court at its <date when="1864-04">April Term 1864</date> one for $60, and one for $20. and costs for keeping a Tippling house in the first case and selling liquor by retail in the other,</p>
-<p>The facts were, that my brother was a partner of N. D Rheadhead in the the Sutlers department of the 14<hi rend="sup">th</hi> Ky Regiment and his partner sold whiskey against the wish and protest of my brother, -- and the partnership having been dissolved before court and my brother remaining the Sutler they indicted him <hi rend="str">the</hi>He ceased to sell liquor as soon<pb/>
-<lb/>he got controll of the business and has sold none Since I enclose you a letter from the attorney of the commonwealth who prosecuted the cases which was written soon after the fines were assessed it speaks for itself, I hope you will find it consistent with your official duty to remitt these fines</p>
-<p>I am Sir you obt Srvt &amp; friend
+<lb/>Sir-</p>
+<p>Some time since a petition was sent from Laurence County in behalf of my brother W F Moore asking the remission of Two fines assessed against him in the Laurence Circuit Court at its <date when="1864-04">April Term 1864</date> one for &#36;60, and one for &#36;20, and costs for keeping a Tippling house in the first case and selling liquor by retail in the others,</p>
+<p>The facts were, that my brother was a partner of N D <unclear>Rheadhead</unclear> in the the sutlers department of the 14<hi rend="sup">th</hi> Ky Regiment and his partner- sold whiskey against the wish and protest of my brother,- and the partnership having been dissolved before court and my brother remaining the sutler they indicted him <hi rend="str">the</hi>He ceased to sell liquor as soon<pb/>
+<lb/>he got controll of the business and has sold none since I enclose you a letter from the attorney of the Commonwealth who prosecuted the cases which was written soon after the fines were assessed it speaks for itself, I hope you will find it consistent with your official duty to remitt these fines</p>
+<p>I am Sir you Obt Servt &amp; friend
 <lb/><hi rend="underline">Laban T Moore</hi><pb/></p>
 <p>Lawrence Cir Ct
 <lb/>vs
 <lb/>W. F. Moore
 <lb/>2 judgts
-<lb/>$60 &amp; $20
+<lb/>&#36;60 &amp; &#36;20
 <lb/>Tipling
-<lb/>Remit<hi rend="sup">d</hi>.
+<lb/>Remit<hi rend="underline"><hi rend="sup">d</hi></hi>
 <lb/><date when="1864-11-25">25<hi rend="sup">th</hi> Nov/64</date></p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0006"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,13 +65,14 @@
   <body>
    <p>Rockbridge, Ky., <date when="1862-08-18">Aug. 18, 1862</date>.
 <lb/>D. E. Downing, Esq: -- </p>
-<p>Dear Sir, This leaves me in tolerable health, and I hope it will find you in good health &amp; c.</p>
-<p>The marauders have been through parts of our county almost every day since you left. They have killed no person, that we know of, since they killed Austin &amp; Heplin, of which I informed you. But they are taking all the government property they can find, they took three horses yesterday from James Kirkpatrick's, and some other property from others on Meshack's creek; and we suppose are yet in the county. They have now got William Bugg Maxey engaged with them -- this <hi rend="underline">Bugg</hi> is Robert C. Maxey's son. We do not know of any more new hand that have engaged with them; though the <hi rend="underline">disunion</hi> boys are crossing the state line every day or two to shun the <hi rend="underline">draft</hi>.</p>
-<p>Hamilton's company, of 30 or 40, is the only company now annoying this county; but they are too intolerable to be put up with, if we could help it. It is the ardent desire of many of the most prudent of our citizens to have a company of sufficient size to keep him back, or <hi rend="underline">rather</hi> to take him and his company. We wish you to use your influence with the legislature to authorise such a company, and arm them. Can such a company be authorized by the legislature? Present our condition to the Committee, or to the Governor -- we want help, and we want you to ^do^ all you can for us, that we may be relieved from these robbers and murderers. Mr. Downing, the honest belief of the people, is, that, if these fellows are not checked, this <hi rend="underline">loyal</hi> county will be ruined -- our property taken, and many of our citisens killed. They are examining the houses of widow women, examining private drawers and rumageing<pb/> 
-<lb/>among the clothes of females, young and old -- healthy &amp; unhealthy! They are rumageing the houses, drawers, trunks, &amp;c. of all as they go. Is not this too much! Our condition is considerably worse than it was when you left, and is still getting worse every day. Several men have left, to keep out of danger, since you left; and, if we can not get relief, numbers more must leave -- many of these are leaving families in a deplorable condition, sick, and <hi rend="underline">insulted</hi> by these <hi rend="underline">rebels</hi>! Can we get help?</p>
+<p>Dear Sir, This leaves me in tolerable health, and I hope it, will find you in good health &amp;c.</p>
+<p>The marauders have been through parts of our county almost every day since you left. They have killed no person, that we know of, since they killed Austin &amp; Heflin, of which I informed you. But they are taking all the government property they can find, they took three horses yesterday from Jones Kirkpatrick's, and some other property from others on Meshack's creek; and we suppose are yet in the county. They have now got William Bugg Maxey engaged with them -- this <hi rend="underline">Bugg</hi> is Robert C. Maxey's son. We do not know of any more new hand that have engaged with them; though the <hi rend="underline">disunion</hi> boys are crossing the state line every day or two to shun the <hi rend="underline">draft</hi>.</p>
+<p>Hamilton's company, of 30 or 40, is the only company now annoying this county; but they are too intolerable to be put up with, if we could help it. It is the ardent desire of many of the most prudent of our citizens to have a company of sufficient size to keep him back, or <hi rend="underline">rather</hi> to take him and his company. We wish you to use your influence with the legislature to authorise such a company, and arm them. Can such a company be authorized by the legislature? Present our condition to the Committee, or to the Governor -- we want help, and we want you to ^do^ all you can for us, that we may be relieved from these robbers and murderers.</p>
+<p>Mr. Downing, the honest belief of the people, is, that, if these fellows are not checked, this <hi rend="underline">loyal</hi> county will be ruined -- our property taken, and many of our citisens killed. They are examining the houses of widow women, examining private drawers and rumaging<pb/> 
+<lb/>among the clothes of females, young and old -- healthy &amp; unhealthy! They are rumageing the houses, drawers, trunks, &amp;c. of all as they go. Is not this too much? Our condition is considerably worse than it was when you left, and is still getting worse every day. Several men have left, to keep out of danger, since you left; and, if we can not get relief, numbers moe must leave -- many of these are leaving families in a deplorable condition, sick, and <hi rend="underline">insulted</hi> by these <hi rend="underline">rebels!</hi> Can we get help?</p>
 <p>Your friend,
 <lb/>Bennett Spear, jun.</p>
-<p>P.S. Rockbridge is the post office at Harrison Hardin's.</p>
+<p>P. S. Rockbridge is the post office at Harrison Hardin's.</p>
 <p>B. S.<pb/></p>
 <p>letter of B. Spear
 <lb/>Rockbridge

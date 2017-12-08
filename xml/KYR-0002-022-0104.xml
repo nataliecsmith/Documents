@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0104"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Greenville, Muhlenberg County, Kentucky</placeName>
-    <date when="1861-06-18">18 June 1861</date>
+    <date when="1861-06-19">19 June 1861</date>
    </creation>
    <textClass>
     <keywords>
@@ -60,21 +63,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>Greenville Ky <date when="1861-06-18">June 18th 1861.</date>
+   <p>Greenville Ky <date when="1861-06-19">June 19th 1861.</date>
 <lb/>P Swigert Sec'y M B
 <lb/>Dear Sir</p>
-<p>I notice that blank forms are being printed for use of State &amp; Home Guards. We have formed Several companies of Home Guards in this county &amp; want arms. Will you be kind enough to foward me the blanks. I have been elected Captain of Muhlenberg Home Guards No 1 and have about 90 men in my company. We have taken the oath required by law, &amp; will leave certificate of <hi rend="str">Presiding</hi> Judge of county. All of which will be forwarded in a few days. Would be pleased to receive some instruction from you, as to mode of application &amp;c.</p>
+<p>I notice that blank forms are being printed for use of State &amp; Home Guards. We have formed several companies of Home Guards in this county &amp; want arms. Will you be kind enough to foward me the blanks. I have been elected Captain of Muhlenberg Home Guards No 1 and have about 90 men in my company. We have taken the oath required by law, &amp; will have certificate of <hi rend="str">Presiding</hi> Judge of county. All of which will be forwarded in a few days. Would be pleased to receive some instruction from you, as to mode of application &amp;c</p>
 <p>Yours Respectfully
 <lb/><hi rend="underline">Edw</hi><hi rend="underline"><hi rend="sup">d</hi></hi><hi rend="underline"> R Weir Sr.</hi></p>
 <p>P S
 <lb/>We will give a good Majority for Union candidate for Congress (Capt Jackson) though desperate efforts are being made to take our Union men off. I regard Jackson's election certain by a majority of two or three thousand.</p>
 <p><hi rend="underline">W.</hi><pb/></p>
-<p>Muhlenberg County <date when="1861">1861</date>
-<lb/>E. R. Weir
+<p>E. R. Weir
 <lb/>Home Guard
 <lb/>Muhlenberg Co
-<lb/>Rec<hi rend="sup">d</hi> yours <date when="1861-06-28">28 June 1861.</date>
-<lb/>Granted</p>
+<lb/>Rec<hi rend="sup">d</hi> yours <date when="1861-06-28">28 -- June 1861.</date></p>
+<p>Granted</p>
   </body>
  </text>
 </TEI>

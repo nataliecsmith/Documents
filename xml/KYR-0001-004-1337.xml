@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1337"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,36 +62,36 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Esellency Governor Thomas E Bramlette</p>
-<p>We the undersigned petitioners, citizens of Owsley County, would represent that at the <gap/> Term of the Owsley County ^Circuit^ Court 185<gap/> Elihu Webber was fined $25.00 or thereabouts for unlawful Gaming, Said Judgement was ^rendered^ some Eight or Ten years since. We would further represent that said Elihu Webber is a poor man, and has very recently returned from the 7<hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="underline">Reg</hi>, <hi rend="underline">Inf</hi>. <hi rend="underline">Ky</hi>, <hi rend="underline">Vol</hi>. having served faithfully in said Regiment. for upwards of Three years, and upon his return home he was caught <hi rend="str">and</hi> by the Guerillas and robbed of all his Money, cloting, &amp;C, leaving him destitute of every thing in the clothing line, and Money, We hope that you will use your Executive clemency, and remit all of the fine coming to the Commonwealth of Ky. and in duty bound will ever Petition,</p>
-<p>GW Daniel, Late 1<hi rend="underline"><hi rend="sup">st</hi></hi>, Lt. Co (A) 7<hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="underline">Reg</hi> <hi rend="underline">Ky</hi>. <hi rend="underline">Vol</hi>.
-<lb/>W. C. Judd Late Co A 7 Ky
+   <p>To his Escellency Governor Thomas E Bramlette</p>
+<p>We the undersigned petitioners, citizens of Owsley County, would represent that at the <gap/> Term of the Owsley County ^Circuit^ Court 185<gap/> Elihu Webber was fined &#36;25.00 or thereabouts for unlawful Gaming, Said Judgement was ^rendered^ some Eight or Ten years since. We would further represent that said Elihu Webber is a poor man, and has very recently returned from the 7<hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="underline">Reg</hi>, <hi rend="underline">Inf</hi>. <hi rend="underline">Ky</hi>, <hi rend="underline">Vol</hi>, having served faithfully in said Regiment for upwards of Three years, and upon his return home he was caught <hi rend="str">and</hi> by the Guerillas and robbed of all his Money, cloting, &amp;C, leaving him destitute of every thing in the clothing line, and Money, We hope that you will use your Executive clemency, and remit all of the fine coming to the Commonwealth of Ky, and in duty bound will ever Petition,</p>
+<p>G W Daniel, Late 1<hi rend="underline"><hi rend="sup">st</hi></hi>, Lt. Co (A) 7<hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="underline">Reg</hi> <hi rend="underline">Ky</hi>. <hi rend="underline">Vol</hi>.
+<lb/>W. C. Judd Late CO A 7 Ky
 <lb/>W. T. Eager " " " " "
 <lb/>William Bowman, Late Co A 7<hi rend="underline"><hi rend="sup">th</hi></hi> Ky
-<lb/><milestone unit="column" n="2"/><cb n="1"/>Henry. H. Franklin. Co, A. ^7th^
-<lb/>G h lane
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Henry. H. Franklin. Co, A.<hi rend="sup">7 Ky</hi>
+<lb/>g h lane
 <lb/>James Snowden
 <lb/>Henry Noland
 <lb/>Samuel P. Kincaid
 <lb/>Late co A 7. Ky,
-<lb/><cb n="2"/>A B M<hi rend="sup">c</hi><unclear>geres</unclear> Co. C.
+<lb/><cb n="2"/>A B Mc<unclear>gerese</unclear> Co. <unclear/>
 <lb/>H C Smith
-<lb/>Lewis Colgot
-<lb/>Elkanah Winn Clk O,C,C
+<lb/>lewis Cole<unclear/>
+<lb/>Elkanah Winn Clk O, C, C
 <lb/>Abel Pendleton
-<lb/>S. P. Hogg. Trustee J.F.O.C
+<lb/>S. P. Hogg. Trustee J. F O, C
 <lb/>Harvy Lucas
 <lb/>F. M. Snowden<milestone unit="column" n="1"/><pb/>
 <lb/>J. M Beatty late Capt Co A. 7<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Vol Infty.
-<lb/><unclear>Th Haryis</unclear>
+<lb/><unclear>K f Haryis</unclear>
 <lb/>W H <unclear>Reid</unclear> ast assor
-<lb/>M B Burken
-<lb/>W<hi rend="sup">m</hi>. <unclear>G Sincher</unclear>
+<lb/>M B Burker
+<lb/>W<hi rend="sup">m</hi>. S Tincher
 <lb/>Martin Mann
-<lb/>W,<hi rend="underline"><hi rend="sup">m</hi></hi>. K. Jameson
+<lb/>W<hi rend="underline">m</hi>. K. Jameson
 <lb/>Saml Beatty
 <lb/>Timothy Johnson
-<lb/>Jeptha M. Edens
+<lb/>Jeptha W. Edens
 <lb/>James. W. Thacker
 <lb/>Warwick M<hi rend="underline"><hi rend="sup">c</hi></hi>Guire
 <lb/>F. G. M<hi rend="underline"><hi rend="sup">c</hi></hi>Guire

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0081"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Elizabeth Rush et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">Elizabeth Rush to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4200</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,44 +64,46 @@
  <text>
   <body>
    <p>Covington Ky <date when="1863-09-18">Sept 18<hi rend="sup">th</hi> 1863</date>
-<lb/>To his Excellcy C. F. Bramlette 
+<lb/>To his Excellcy C, F, Bramlette 
 <lb/>Governor of the State of Kentucky</p>
-<p>Your Petitioner Elizabeth Rush would respectfully represent to your Honor that She was fined at the present term of the Kenton Circuit Court the sum of fifty dollars for selling Spiritous Liquor to a minor. The proof was, that John Davis who testified to the same before the court, that he was sick and ^frequently^ Sent his son to your petitioner for a Bottle of Whisky; and <hi rend="str">that</hi> his son ^stated that he^ got the whiskey and paid petitioner for it, ^and paid her for one drink 5<hi rend="sup">cts</hi>,^ and took it home to his father ^that is the pint Bottle of Liquor^ they being neighbors and for this, and this only, your petitioner was fined as above stated. Petitioner states that She had no doubt of the son being at least 21 or more years old, but she says she would have sent it to his father in such a case in any Event as he is her good neighbor, and she knew he was sick at the time with disease and she put some Barks in it for him. She further states that she did not know she was violating any law when she committed the offince. Wherefore she prays your Honor to remit so much of said fine as you can Lawfully and your Petitioner will ever pray &amp;c</p>
-<p>Elizabeth Rush</p>
-<p>We the undersigned citizens of Kenton County join in the foregoing Petition and<pb/>
+<p>Your Petitioner Elizabeth Rush would respectfully represent to your Honor that She was fined at the present term of the Kenton Circuit Court the sum of fifty dollars for selling Spiritous Liquor to a minor.</p>
+<p>The proof was, that John Davis who testified to the same before the court, that he was sick and ^frequently^ Sent his son to your petitioner for a Bottle of Whisky; and <hi rend="str">that</hi> his son ^stated that he^ got the whiskey and paid petitioner for it, ^and paid her for one drink, 5 <hi rend="sup">cts</hi>,^ and took it home to his father ^that is the pint, Bottle of Liquor^ they being neighbours and for this, and this only, your petitioner was fined as above stated. Petitioner states that She had no doubt of the son being at least 21 or more years old, but She says She would have sent it to his father in such a case in any Event as he is her good neighbour, and she knew he was sick at the time with disease and she put some Barks in it for him. She further states that she did not know she was Violating any law when she committed the offince, wherefore she prays your Honor to remit So much of said fine as you can Lawfully and your Petitioner will Ever pray &amp;C</p>
+<p>Elizabeth Rush,</p>
+<p>We the undersigned Citizens of Kenton County join in the foregoing Petition and<pb/>
 <lb/>and pray your Honour to remit said fine or as much thereof as you can</p>
-<p>Petitioners names <gap/> Petitioners names
-<lb/><hi rend="str">H. Myers</hi></p>
-<p>I was counsel for Mrs. Rush on the trial. The testimony was substantially as stated above. The son who got the whiskey was between 20 &amp; 21 years old at the time of the transaction.</p>
-<p>H. Myers</p>
-<p>I concur in the statement of Mr Meyers</p>
-<p>R. B. Carpenter</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Petitioners names
+<lb/><hi rend="underline"><hi rend="str">H. Myers.
+<lb/></hi></hi><cb n="2"/>Petitioners names<milestone unit="column" n="1"/></p>
+<p>I was counsel for Mrs. Rush on the trial. The testimony was substantially as stated above. The son who got the whiskey was between 20 &amp; 21 years old at the time of the transaction,</p>
+<p><hi rend="underline">H. Myers.</hi></p>
+<p>I concur in the statemt of Mr Meyers</p>
+<p>R, B. Carpenter</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>M J Dudley
-<lb/>R. Richardson
+<lb/>R, Richardson
 <lb/>John W Leathers
-<lb/>James B Gray
-<lb/>David M<hi rend="sup">c</hi>Kay
+<lb/>James B Gray.
+<lb/>David M<hi rend="underline"><hi rend="sup">c</hi></hi>Kay
 <lb/>L. M. Rees
-<lb/>Davis Kenndy
-<lb/>John Davis the Father of the young man that got the whisky.
-<lb/>W. J. Perrin
+<lb/>Davis Kenndy</p>
+<p>John Davis the Father of the young man that got the whisky.</p>
+<p>W. J. Perrin
 <lb/>Benj Egelston
 <lb/><cb n="2"/>James G Arnold
-<lb/>J S Scott
-<lb/>S C Perrin
-<lb/>H C Harris</p>
-<p>I have no knowledge of the facts in this case &amp; was not present at the trial, but from the signatures of the Commonwealths attorney &amp; M<hi rend="sup">r</hi> Myers who represented the defence I doubt not the case has merit for Executive interposition &amp; therefore concur in the request of the petitioner</p>
+<lb/>J S. Scott
+<lb/>S. C Perrin
+<lb/><hi rend="underline">H C. Harris</hi></p>
+<p>I have no knowledge of the facts in this case &amp; was not present at the trial, but from the signatures of the Commonwealths Attorney &amp; M<hi rend="sup">r</hi> Myers who represented the defence I doubt not the case has merit for Executive interposition &amp; therefore concur in the request of the petition</p>
 <p>J. W. Steven<unclear>son</unclear><milestone unit="column" n="1"/><pb/></p>
-<p>Please direct to S. C Perrin Covington Ky</p>
+<p>Please direct to S. C Perrin
+<lb/>Covington Ky</p>
 <p>E Rush</p>
-<p>Elizabeth Rush's Petition</p>
-<p>Kenton Co
-<lb/>Mrs. Rush's Pet for remission fine -- 
-<lb/>Remit all except costs and attys fees
-<lb/><date when="1863-09-23">Sept 23<hi rend="sup">rd</hi> 1863</date>
-<lb/>T. E. Bramlette
-<lb/>Tipling
-<lb/>$50 -- </p>
+<p>Elizabeth Rush's Petition<figure type="hr"/></p>
+<p>Kenton Co</p>
+<p>Mr<hi rend="underline"><hi rend="sup">s</hi></hi> Rush'<hi rend="sup">s</hi> Pet for remission. fine -- </p>
+<p>Remit all except costs and attys fees <date when="1863-09-23">Sept 23<hi rend="sup">rd</hi> 1863</date>
+<lb/>T. E. Bramlette</p>
+<p>Tipling
+<lb/>&#36;50 -- </p>
   </body>
  </text>
 </TEI>

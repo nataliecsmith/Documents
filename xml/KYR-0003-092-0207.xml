@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0207"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Unknown to Anne E. V. Johnson, Envelope</title>
+    <title level="a" type="main">Unknown, Envelope</title>
     <title level="a" type="parallel">CWG14430</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,14 +63,14 @@
  <text>
   <body>
    <p>M<hi rend="underline"><hi rend="sup">rs</hi></hi> Ann E. Johnson
-<lb/>near Payne's Depot
+<lb/>Near Payne's Depot
 <lb/>Scott County Kentucky</p>
 <p><hi rend="str">His Excellency
-<lb/>George Johnson
+<lb/>Gov Johnson
 <lb/>Bowling Green
 <lb/>Ky</hi><pb/></p>
 <p>My Friend M<hi rend="sup">r</hi> Shower will hand you this -- Treat him very kindly for my sake</p>
-<p><unclear>G. Wm</unclear></p>
+<p>G. W, J</p>
   </body>
  </text>
 </TEI>

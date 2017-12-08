@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0202"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Commonwealth of Kentucky v. Sweny et al., Judgment</title>
+    <title level="a" type="main">Commonwealth of Kentucky v. Sweny, Swise, et al., Judgment</title>
     <title level="a" type="parallel">CWG4321</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Mason County, Kentucky</placeName>
-    <date>n.d.</date>
+    <date when="1863-10">October 1863</date>
    </creation>
    <textClass>
     <keywords>
@@ -63,7 +66,7 @@
    <p>Mason Circuit Court
 <lb/><date when="1863-10">October Term 1863</date>
 <lb/>The Commonwealth of Kentucky Plaintiff
-<lb/>Against } Summons on forfeited Recognizance
+<lb/>Against &#125; Summons on forfeited Recognizance
 <lb/>Sweny, Swise &amp; others. Defendants</p>
 <p>The Defendants John Swise and Joseph Coryell having been duly summoned and failing to appear and answer, it is adjudged by the Court, that the plaintiff recover of said defendants, the sum one hundred Dollars, the amount of their bond, and also the costs herein expended</p>
 <p>A Copy attest

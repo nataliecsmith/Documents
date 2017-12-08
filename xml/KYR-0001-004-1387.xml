@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1387"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,19 +62,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Tho<hi rend="sup">s</hi>. E Bramlette
-<lb/>Governor of Kentucky</p>
-<p>Your Petitioner Jane Cunningham will respectfully represent that she is now nearly sixty years of age. and a widow That she has a son Richard Cunningham who from feeble health when a child and a mind never strong &amp; rendered feeble by his delicate health has been her almost constant companion, she has a Daughter &amp; but three sons all of whom are grown &amp; being poor she is entirely dependint on her children for her support and her two other sons being absent from her home she is solely dependent upon Richard for help in conducting her Domestic affairs &amp; for company &amp; attention in her declineing life. your Petitioner states that her said son Richard Cunningham was Indicted &amp; tried at the present Term of the Jefferson Circuit Court with two others on a charge of an attempt to rob a citizen -- The witness for the Commonwealth proved that the Three was on the street at night, a citizen who was returning to his home with a pair of saddle bags on his shoulder &amp; when near his own door was assaulted by the Three parties &amp; an attempt made to take his saddle bags from him, in which he had some money &amp; clothing but<pb/>
-<lb/>the attempt to rob if rob was the Intention of the parties failed &amp; no Injury was done to the person -- The party proved that at the time he was near his own door &amp; light was burnin in the window of his house &amp; he gave the alarm which brought a policeman who arrested the parties. This was all the proof against them &amp; your Petitioner believes that it was nothing more than the mischevous conduct of Three young men out too late at night &amp; perhaps somewhat under the Influence of Liquor and that there was no Intention to commit a robbery. It was too early in the night &amp; in too public a part of the city for such an attempt to be made, the certainty of detection &amp; of arrest would have prevented such a thing. In consideration of all the facts she Humbly prays your Excellency to grant a Pardon to her said son who has been sentenced to confinement in the Penitentiary for one year &amp; she will ever with a heart full of gratitude remember the kindness which has saved her in her old age the deep mortification which his confinement as a state prisoner would occasion</p>
+   <p>To His Excellency Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlette
+<lb/>Governor of Kentucky.</p>
+<p>Your Petitioner Jane Cunningham will respectfully represent that she is now nearly Sixty years of age. and a widow That she has a son Richard Cunningham who from feeble health when a child and a mind never strong &amp; rendered feeble by his delicate health has been her almost constant companion, she has no Daughters &amp; but three sons all of whom are grown &amp; being poor she is entirely dependint on her children for her support and her two other sons being absent from her home she is solely dependent upon Richard for help in conducting her Domestic affairs &amp; for company &amp; attentions in her declineing life. Your Petitioner states that her said son Richard Cunningham was Indicted &amp; tried at the present Term of the Jefferson Circuit Court with two others on a charge of an attempt to rob a Citizen -- The witness for the Commonwealth proved that the Three was on the street at night, a citizen who was returning to his home with a pair of saddle bags on his shoulder &amp; when near his own door was assaulted by the Three parties &amp; an attempt made to take his saddle bags from him, in which he had some money &amp; clothing but<pb/>
+<lb/>the attempt to rob if rob was the Intention of the parties failed &amp; no Injury was done to the person-- The party proved that at the time he was near his own door &amp; light was burnin in the Window of his house &amp; he gave the alarm which brought a policeman who arrested the parties.</p>
+<p>This was all the proof against them &amp; your Petitioner believes that it was nothing more than the mischevous conduct of Three young men out too late at night &amp; perhaps somewhat under the Influence of Liquor and that there was no Intention to commit a robbery. It was too early in the night &amp; in too public a part of the city for such an attempt to be made, the certainty of detection &amp; of arrest would have prevented such a thing. In consideration of all the facts she Humbly prays your Excellency to grant a Pardon to her said son who has been sentenced to confinement in the Penitentiary for one year &amp; she will ever with a heart full of gratitude remember the kindness which has saved her in her old age the deep mortification which his confinement as a state prisoner would occasion</p>
 <p>Jane Cunningham<pb/></p>
-<p>The undersigned are acquainted with Mrs Jane Cunningham who has been many years a resident of Louisville &amp; whom we believe to be an honest worthy old Lady. and we are also acquainted with her son Richard whose mind is certainly not strong &amp; who possesses a stubborn will which is hard to control &amp; which has given his mother much Trouble -- We unite with her in asking a pardon from the Governor.</p>
-<p>Geo. W. Johnston</p>
-<p>I knew Richard <hi rend="str">Graham</hi> Cunningham, when he was a small boy &amp; I knew his father who died many years -- I know his <hi rend="str">mother</hi> mother well -- she has always borne the character of an honest industrious woman &amp; of most <unclear>indfatigable kindness</unclear> -- &amp; from what I know of the family I believe he ought to be pardoned</p>
-<p>J Q. Dozer</p>
+<p>The undersigned are acquainted with Mrs Jane Cunningham who has been many years a resident of Louisville &amp; whom we believe to be an honest worthy old Lady. and we are also acquainted with her son Richard whose mind is certainly not strong &amp; who possesses a stubborn will which is hard to control &amp; which has given his mother much Trouble-- We unite with her in asking a pardon from the Governor.</p>
+<p>Geo. W Johnston.</p>
+<p>I knew Richard <hi rend="str">Gresham</hi> Cunningham, when he was a small boy &amp; I knew his father who died many years -- I know his <hi rend="str">mother</hi> mother well -- she his alway's borne the character of an honest, industrious woman &amp; of most indfatigable <unclear>kindness</unclear> -- from what I know of the family, I believe he ought to be pardoned</p>
+<p>J Q. Dozier</p>
 <p>To His Excellency the Governor,</p>
-<p>I have known Mrs Cunningham and her family since I was a Boy say 20 years and can fully say all of her that is stated above: I attempted to defend him in court and feel certain that the proof does not make out any other offense than an Assault &amp; Battery. I herewith append a copy of the statements made by the Witnesses: and there is no evidence of their intention to rob Livingston, except <hi rend="underline">Livingstons Belief</hi></p>
+<p>I have known Mrs Cunningham and her family since I was a Boy say 20 years and can fully say all of her that is stated above; I attempted to defend him in court and feel certain that the proof does not mak out any other offense than an Assault &amp; Battery. I herewith append a copy of the statements made by the Witnesses: and there is no evidence of their intention to rob Livingston, except <hi rend="underline">Livingstons Belief</hi></p>
 <p>Respectfully
-<lb/>E Henry<pb/></p>
+<lb/>E S Craig<pb/></p>
 <p>Jefferson Cir Ct
 <lb/>vs
 <lb/>Rich<hi rend="sup">d</hi> Cunningham &amp; Edward Vinecore

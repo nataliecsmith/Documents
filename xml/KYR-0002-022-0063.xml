@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0063"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,38 +66,38 @@
    <p>Louisville, Ky. <date>Jan 17<hi rend="sup">th</hi>/65</date>
 <lb/>Gov Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
 <lb/>Your Excellency:</p>
-<p>An opportunity is presented to raise a company for one years State service, composed almost entirely of veterans, who cannot go home. They are to be paid off this week. I was among the first to enter the war on the opening of the rebellion, &amp; obtained a Captain's Commission from the War Department_ being unable, owing to Extra bounties, to fill <hi rend="str">my</hi> the quota, my men were turned over to Col Pope's command. Am a graduate of the Ky Mil Institute, &amp; classmate of Maj Gen D W. Lindsey to whom I respectfully refer. As prompt measures must be taken to secure the men. I would solicit an immediate response. No<pb/>
-<lb/>effort, upon my part, shall be lacking to fulfil my duty; and as a number of these men speak of arming themselves for self-protection, much trouble may be saved "suspected parties" Wit the utmost respect,</p>
+<p>An opportunity is presented to raise a company for one years State service, composed almost entirely of veterans, who cannot go home. They are to be paid off this week. I was among the first to enter the war on the opening of the rebellion, &amp; obtained a Captain's Commission from the War Department -- being unable, owing to extra bounties, to fill <hi rend="str">my</hi> the quota, my men were turned over to Col Pope's command. Am a graduate of the Ky Mil Institute, &amp; classmate of Maj Gen D W. Lindsey to whom I respectfully refer. As prompt measures must be taken to secure the men, I would solicit an immediate response. No<pb/>
+<lb/>effort, upon my part, shall be lacking to fulfil my duty; and as a number of these men speak of arming themselves for self-protection, much trouble may be saved "suspected parties". With the utmost respect,</p>
 <p>Your Obt Servant:
 <lb/><hi rend="underline">Geo B Baum</hi></p>
-<p>To Tho<hi rend="sup">s</hi> E. Bramlette
+<p>To
+<lb/>Tho<hi rend="sup">s</hi> E. Bramlette
 <lb/>Gov of Kentucky
 <lb/>Frankfort.<pb/></p>
 <p>Louisville Ky
 <lb/><date when="1865-01-17">Jany 17" 1865</date><figure type="hr"/>
 <lb/>Baum Geo. B.<figure type="hr"/>
-<lb/>To The Gov-<figure type="hr"/>
-<lb/>says, if you give him authority, he can raise in a short time, a Co. of 12 months state troops from discharged Veterans now here -- <figure type="hr"/>
-<lb/>Issue authority
+<lb/>To The Gov -- <figure type="hr"/></p>
+<p>says, if you give him authority, he can raise in a short time, a Co. of 12 months state troops from discharged Veterans now here -- <figure type="hr"/></p>
+<p>Issue authority
 <lb/>D. W. Lindsey
-<lb/>Insp' &amp; Adj Genl</p>
+<lb/>Insp &amp; Adj Gen<hi rend="underline"><hi rend="sup">l</hi></hi></p>
 <p>Authy issd &amp; Blanks sent to G B Baum
-<lb/><date when="1863-01-18">Jany 18. 1863-</date>
-<lb/>CH</p>
+<lb/><date when="1865-01-19">Jany 19. 1865-</date>
+<lb/><hi rend="underline">CH</hi></p>
 <p>LB N<hi rend="sup">o</hi> 9. <date when="1865">1865</date> p 249<figure type="hr"/>
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-01-18">18 Jany 1865</date></p>
-<p>Jefferson -55-56<pb/>
-<lb/><figure type="postmark"><listPlace><place><placeName>LOUISVILLE
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-01-18">18 Jany 1865</date><pb/></p>
+<p><figure type="postmark"><listPlace><place><placeName>LOUISVILLE
 <lb/><date when="1865-01-17">JAN
 <lb/>17
 <lb/>'65</date>
-<lb/>KY</placeName></place></listPlace></figure><stamp type="postage"/><figure type="postmark"/></p>
-<p>Tho<hi rend="sup">s</hi> E. Bramlette
+<lb/>KY</placeName></place></listPlace></figure>
+<lb/><stamp type="postage"/><figure type="postmark"/></p>
+<p>Gov Tho<hi rend="sup">s</hi> E. Bramlette
 <lb/>Frankfort
 <lb/>Kentucky</p>
 <p>Inspector Genl
-<lb/>authority to organize
-<lb/>should be given</p>
+<lb/>authority to organize should be given</p>
   </body>
  </text>
 </TEI>

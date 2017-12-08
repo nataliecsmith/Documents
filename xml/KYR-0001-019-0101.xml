@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0101"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,12 +64,12 @@
   <body>
    <p><note place="header">1
 <lb/><hi rend="underline">Mr. Fowler to Gov. Magoffin</hi></note>
-<lb/><unclear>St.</unclear> Bt. Dunbar, <date when="1861-06-30">June 30/61</date>
-<lb/>Gov Magoffin
-<lb/>Frankfort
-<lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>Enclosed find ^copy^ letter of instructions to the Capt of My SBt "<hi rend="underline">Dunbar</hi>" the regular Mail packet between Paducah &amp; Evansville from the Surveyor of Customs "A L Robinson" at Evansville You will see Kentucky as placed by him on same footing as the Seceded states</p>
-<p>I appeal to you as a citizen of your State to protect me in Constitutional privleges due the citizens of Kentucky <hi rend="underline">as</hi> <hi rend="underline">long</hi> <hi rend="underline">as</hi> <hi rend="underline">she</hi> <hi rend="underline">remains</hi> <hi rend="underline">in</hi> <hi rend="underline">the</hi> <hi rend="underline">Union</hi></p>
+<lb/><hi rend="underline">St. Bt. Dunbar</hi>, <date when="1861-06-30">June 30/61</date>
+<lb/>Gov <hi rend="underline">Magoffin</hi>,
+<lb/>Frankfort.
+<lb/><hi rend="underline">D</hi><hi rend="underline"><hi rend="sup">r</hi></hi><hi rend="underline"> Sir</hi>:</p>
+<p>Enclosed find ^copy^ letter of instructions to the Capt of My SBt "Dunbar" the regular Mail packet between Paducah &amp; Evansville from the Surveyor of Customs "A L Robinson" at Evansville You will see Kentucky is placed by him on same footing as the Seceded states</p>
+<p>I appeal to you as a citizen of your state to protect me in Constitutional privileges due the citizens of Kentucky <hi rend="underline">as</hi> <hi rend="underline">long</hi> <hi rend="underline">as</hi> <hi rend="underline">she</hi> <hi rend="underline">remains</hi> <hi rend="underline">in</hi> <hi rend="underline">the</hi> <hi rend="underline">union</hi></p>
 <p>Please investigate &amp; write me at Paducah Ky</p>
 <p>Resply Yours
 <lb/><hi rend="underline">D. G. Fowler</hi></p>

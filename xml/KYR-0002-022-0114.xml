@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0114"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,11 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Richmond Ky <date when="1861-03-11">March 11<hi rend="sup">th</hi> 1861</date>
+   <p>Richmond Ky <date when="1861-03-11">March 11<hi rend="sup">th</hi> <hi rend="underline">1861</hi></date>
 <lb/><hi rend="underline">To his Exellency Beriah Magoffin</hi></p>
-<p>We, the undersigned, have formed ourselves into a company of Volunteer Reserves, and tender our servises to the State of Kentucky, to aid in defence of her rights, her honor, and her Soil from invasion; expressly stipulating Should we ever be called upon to fight our brethren of the Southern States, that we be honorably discharged from Service</p>
+<p>We, the undersigned, have formed ourselves into a company of Volunteer Reserves, and tender our servises to the State of Kentucky, to aid in defence of her rights, her honor, and her Soil from invasion; expressly stipulating Should we ever be called upon to fight our brethren of the Southern States, that we be honorably discharged from Servi<hi rend="str">s</hi>ce</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>1 Col W<hi rend="underline"><hi rend="sup">m</hi></hi> Harris
-<lb/>2 Geo. W. Stouch
+<lb/>2 Geo, W, Stouch
 <lb/>3 D. W. Tribble
 <lb/>4 Thompson Shearer
 <lb/>5 Thomas Portwood
@@ -73,7 +76,7 @@
 <lb/>8 Joseph Roberts
 <lb/>9 George English
 <lb/>10 Richard Oldham
-<lb/>11 Isaac Rhodus
+<lb/>11 Isaac Rhodus,
 <lb/>12 George Tipton
 <lb/>13 Henry English
 <lb/>14 Lewis Ball
@@ -82,7 +85,7 @@
 <lb/>17 Robert Miller
 <lb/>18 G W White
 <lb/>19 Emmett Harris
-<lb/>20 A. F. Tribble
+<lb/>20 A, J, Tribble
 <lb/><hi rend="underline">Captain</hi>
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Harris
 <lb/><hi rend="underline">First</hi> <hi rend="underline">Lieutenant</hi>
@@ -92,30 +95,30 @@
 <lb/><hi rend="underline">Third</hi> <hi rend="underline">Lieutenant</hi>
 <lb/>A. Jeff Tribble
 <lb/><cb n="2"/>21 Col Richard. J. White
-<lb/>22 E. J. Brodus
+<lb/>22 E, J, Brodus
 <lb/>23 Freeman Runyon
-<lb/>24 John. C. Tribble
+<lb/>24 John, C, Tribble
 <lb/>25 Geo. W. Maupin Jr
 <lb/>26 W<hi rend="underline"><hi rend="sup">m</hi></hi> Maupin Jr
-<lb/>27 James. F. Snellan
-<lb/>28 Joseph Wainscott
-<lb/>29 P. Eades
+<lb/>27 James, F. Snellan
+<lb/>28 Joseph, Wainscott
+<lb/>29 P, Eades,
 <lb/>30 George Butler
-<lb/>31 Doct W. W. Jones
+<lb/>31 Doct W, W, Jones,
 <lb/>32 W. Smithheart
 <lb/>33 John Hill
-<lb/>34 Charley M<hi rend="underline"><hi rend="sup">c</hi></hi>Quinn
+<lb/>34 Charley, M<hi rend="underline"><hi rend="sup">c</hi></hi>Quinn
 <lb/>35 Michael Drohen
-<lb/>36 Michael O Brien
+<lb/>36 Michael, OBrien
 <lb/>37 John Riley
 <lb/>38 Jeff Riley
 <lb/>39 James Cornelison
 <lb/>40 C. Lear
-<lb/>41 A. W. Kavanaugh
+<lb/>41 A, W, Kavanaugh
 <lb/>42 Orson Tribble
-<lb/>43 Capt John. C. Terrill
+<lb/>43 Capt John, C, Terrill
 <lb/>44 Samuel Farrer
-<lb/>45 John. H. Bell
+<lb/>45 John, H. Bell
 <lb/>46 John O Connell
 <lb/>47 Andrew Irvine</p>
   </body>

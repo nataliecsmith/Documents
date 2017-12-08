@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0025"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <date when="1864-06-14">14 June 1864</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -62,36 +65,36 @@
    <p><figure type="seal"><ab>UNITED WE STAND DIVIDED WE FALL</ab></figure>
 <lb/>Head-Quarters Kentucky Volunteers,
 <lb/>ADJUTANT GENERAL'S OFFICE.
-<lb/>Louisville, <gap/> 186<gap/>.</p>
-<p>1: Cav<hi rend="underline"><hi rend="sup">y</hi></hi><figure type="hr"/></p>
-<p>Capt. Thomas Rowland Co<hi rend="sup">y</hi> K. com Major <date when="1864-06-14">June 14. 1864</date> vice Geo W. Drye <hi rend="str">resig</hi>: <hi rend="str">J</hi>hon dischge
-<lb/><note place="left margin">1 2. 3. 4. 5</note><figure type="hr"/></p>
-<p>1 Lt. Phillip Roberts com Capt. Co<hi rend="sup">y</hi> K. <date when="1864-06-14">June 14. 1864.</date> vice Tho. Rowland promo:
+<lb/>Louisville, <gap/> 186<gap/></p>
+<p>1: Cav<hi rend="sup">y</hi><figure type="hr"/></p>
+<p>Capt. Thomas Rowland Co<hi rend="sup">y</hi> K. com Major <date when="1864-06-14">June 14, 1864</date> vice. Geo W. Drye <hi rend="str">resig</hi>: <hi rend="str">J</hi>hon dischgd
+<lb/><note place="left margin">1 2. 3. 4 5</note><figure type="hr"/></p>
+<p>1 Lt. Phillip Roberts com Capt. Co<hi rend="sup">y</hi> K. <date when="1864-06-14">June 14, 1864.</date> vice Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Rowland promo:
 <lb/><note place="left margin">1. 2. 3. 4 5</note><figure type="hr"/></p>
-<p>2 Lt. Tilford N. Bruner, com 1 Lt. Co<hi rend="sup">y</hi> K. <date when="1864-06-14">June 14. 1864</date> vice Phillip Roberts promot.
+<p>2 Lt. Tilford N. Bruner com 1 Lt. Co<hi rend="sup">y</hi> K, <date when="1864-06-14">June 14, 1864</date> vice Phillip Roberts promot.
+<lb/><note place="left margin">1. 2 3. 4 5</note><figure type="hr"/></p>
+<p><hi rend="str">2</hi><hi rend="str"><hi rend="sup">nd</hi></hi>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut James S. Pankey com. Captain Co<hi rend="sup">y</hi> I. <date when="1864-06-14">June 14/64</date> vice Alex<hi rend="underline"><hi rend="sup">r</hi></hi> Smith <hi rend="str">resigned.</hi> discharged
 <lb/><note place="left margin">1. 2. 3. 4 5</note><figure type="hr"/></p>
-<p><hi rend="str">2</hi><hi rend="str"><hi rend="sup">nd</hi></hi>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut James S. Penkey com. Captain Co<hi rend="sup">y</hi> I <date when="1864-06-14">June 14/64</date> vice Alex<hi rend="underline"><hi rend="sup">r</hi></hi> Smith <hi rend="str">resigned.</hi> discharged
+<p>O. S. Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Graves com. 1 Lieut Comp<hi rend="sup">y</hi> I. <date when="1864-06-14">June 14 1864</date> vice Ja<hi rend="underline"><hi rend="sup">s</hi></hi> S. Pankey promo:
 <lb/><note place="left margin">1. 2. 3. 4 5</note><figure type="hr"/></p>
-<p>O. S. Tho<hi rend="sup">s</hi>. Graves com. 1 Lieut Comp<hi rend="sup">y</hi> I. <date when="1864-06-14">June 14 1864</date> vice Ja<hi rend="sup">s</hi>. S. Pankey promo:
+<p>2 Lt. Joseph D. Beatie Com. Captain Co<hi rend="sup">y</hi> L. <date when="1864-06-14">June 14, 1864.</date> vice J. B. Fishback resig:
 <lb/><note place="left margin">1. 2. 3. 4 5</note><figure type="hr"/></p>
-<p>2 Lt. Joseph D. Beatie Com. Captain Co<hi rend="sup">y</hi> L. <date when="1864-06-14">June 14. 1864.</date> vice J. B. Fishback resig:
-<lb/><note place="left margin">1. 2. 3. 4 5</note><figure type="hr"/></p>
-<p>O. S. Granville J. Vaught com. 2 Lt. Coy L. <date when="1864-06-14">June 14. 1864.</date> vice J. D Beatie promo:
+<p>O. S. Granville J. Vaught com. 2 Lt. Co<hi rend="sup">y</hi> L, <date when="1864-06-14">June 14, 1864.</date> vice J. D Beatie promo:
 <lb/><note place="left margin">1. 2. 3. 4 5.</note><figure type="hr"/></p>
-<p>Geo. H. Norton com Asst. Surg. <date when="1864-06-14">June 14 1864</date> vice A. G. Huffman <hi rend="str">resig</hi>: hon dischged -- 
-<lb/><note place="left margin">Write in relation to Excuse.</note><figure type="hr"/><pb/></p>
+<p>Geo. H. Norton com Asst. Surg. <date when="1864-06-14">June 14. 1864</date> vice A. G. Huffman <hi rend="str">resig</hi>: hon dischged -- 
+<lb/><note place="left margin">Write in relation to Excuse.</note><pb/></p>
 <p>H<hi rend="underline"><hi rend="sup">d</hi></hi> qrs 1<hi rend="underline"><hi rend="sup">s</hi></hi> Ky Cav<hi rend="sup">l</hi>
 <lb/>Lost Mountain Ga
 <lb/><date when="1864-06-14">June 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
 <lb/>1 <hi rend="underline">Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi><figure type="hr"/>
-<lb/>Adams. S
+<lb/>Adams S
 <lb/>Lt Col. Com<hi rend="underline"><hi rend="sup">d</hi></hi><figure type="hr"/></p>
 <p>Recommends that commissions be issued to sundry officers of the 1<hi rend="sup">s</hi> Ky cav<hi rend="underline"><hi rend="sup">l</hi></hi> to fill vacancies.<figure type="hr"/></p>
 <p>Issue.
 <lb/><hi rend="underline">Boyle</hi></p>
-<p><note place="body">Coms issd &amp; fowd <date when="1864-07-09">July 9. 1864</date></note>
-<lb/>L. B. N<hi rend="sup">o</hi>. 4 p. 321.<figure type="hr"/>
-<lb/>Rec<hi rend="sup">d</hi> A G O. <date when="1864-06-20">20 June 1864</date></p>
+<p>Coms iss<hi rend="sup">d</hi> &amp; forw<hi rend="sup">d</hi> <date when="1864-07-09">July 9. 1864</date></p>
+<p>L. B. N<hi rend="sup">o.</hi> 4 p. 321-<figure type="hr"/>
+<lb/>Recd A G O. <date when="1864-06-20">20 June 1864</date></p>
   </body>
  </text>
 </TEI>

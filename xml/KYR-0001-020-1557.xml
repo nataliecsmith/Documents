@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1557"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,13 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Affiant States that on the night of lament death of Thomas Estes She was on a visit at the house of William Hockensmith, uncle to Estes though about the same age, that the astounding news came that Charles Tomlinson had Killed Tom Estes, on account of the friendship that she Knew subsisted between them and particularly with Charles She could not believe the report it appears they have sent runners arround to many of their relatives who lives quiet thick arround, Hockensmith, went immediately, promising to return soon He returned and told us Tom was dead, that it was a clear case of self defence, that there was no person presant at the time but Sanford, that his evidence would clear Charles, Said he had Known for some time that Tom was an enemy to Charles had told Charles so repeatedly but he would not believe him, Said he was a friend to Tom and knew it, could not believe Tom was bad enough to hold a secret enmity against him under the guise of friendship.<pb/>
-<lb/>he Said he told Charles he would not believe him but Tom was sure to hurt him, that when he found it out it would be to his sorrow, and remarked that Charles had found it Just as he had told him, and promised to Stand up to Charles and state all he Knew, then went over that same night to see Charles But when the numerous relations and enemies gathered in he seemed to get alarmed and backed out next morning I came by Mrs Esteses, they shewed their usual kindness and seemed interested for Charles desired him to be cleared But when the Owens family gathered in, the family Tom married in who also are their relatives the women whom are fierce and quite inteligent particularly in gosip and slander, they charged, and, extended their resentment, even to Charles two little children At an early hour men gathered in, and Toms Brothers among them I went to George myself and told him, his sister Charles wife was greatly distressed about her Brother Tom, and the uncertanty of Charles' tale<pb/>
-<lb/>and urged him not to be in that erand, that it increased of her distress he turned and started of in a gallop, with a crowd, and broke out in a broad negro laugh proving he neither cared for his dead Brother no distressed sister Charles was resolved to stand a trial let the result be what it might, and had gone to the Stampinground and gave himself up, there appeared to be persons there stiring the crowd to a pitch of great excitement, M<hi rend="sup">r</hi> Yates a great enemy to Sanford Tomlinson his scarlit face could be seen in the distance waiving his hand and stimulating the marmydons in pursuit of their victim The winter before shortly after the time that George Estes had fell a tree on a dog belonging to Tom affiant was at a gathering at Mrs Estes, after the company had retired all with the exception of Charles and his wife and affiant Tom commenced talking about the dog and asked Charles if the dog did not fall on<pb/>
-<lb/>mightly when he struck it Charles answered that he did not hit the dog. Tom said it woud be best for who ever done it to keep it to themselves, for if ever he found out who done it he would mash their side as had Charles asked how if he found it to be an accident what he would do Tom declared it was no accident <hi rend="str">what</hi> &amp; that he would hurt who ever done as had even if it was a brother Charles and he <unclear/> had been told by Hannah that it was george, but restricted to secrecy affiant saw by Georges looks it was him I named it to Hannah and she said it was true but charged never to name it for Tom would beat George to death if he knew it, Georges manners that morning proved he was not sorry for Toms death</p>
+   <p>Affiant States that on the night of lament death of Thomas Estes She was on a visit at the house of William Hockensmith, uncle to Estes though about the same age, that the astounding news came that Charles Tomlinson had Killed Tom Estes, on account of the friendship that she Knew subsisted between them and particularly with Charles She could not believe the report it appears they have sent runners arround to many of their relations, who lives quiet thick arround, Hockensmith, went immediately, promising to return soon He returned and told us Tom was dead, that it was a clear case of self defence, that there was no person presant at the time but Sanford, that his evidence would clear Charles, Said he had Known for some time that Tom was an enemy to Charles had told Charles so repeatedly but he would not believe him, Said he was a friend to Tom and he knew it, could not believe Tom was bad enough to hold a secret enmity against him under the guise of friendship.<pb/></p>
+<p>he Said he told Charles he would not believe him but Tom was sure to hurt him, that when he found it out it would be to his sorrow, and remarked that Charles had found it Just as he had told him, and promised to Stand up to Charles and state all he Knew, then went over that same night to see Charles But when the numerous relations and enemies gathered in he seemed to get alarmed and backed out Next morning I came by Mrs Esteses, they shewed their usual kindness and Seemed interested for Charles desired him to be cleared But when the Owens family gathered in, the family Tom married in who also are their relations the women whom are fierce and quite inteligent particularly in gosip and Slander, they charged, and, extended their resentment, even to Charles two little children At an early hour men gathered in, and Toms Brothers among them I went to George myself and told him, his sister Charles wife was greatly destressed about her Brother Tom, and the uncertanty of Charles' tale<pb/>
+<lb/>and urged him not to be in that crowd, that it increased her distress he turned and started of in a gallop, with a crowd, and broke out in a loud broad negro laugh proving he neither cared for his dead Brother nor distressed sister Charles was resolved to stand a trial let the result be what it might, and had gone to the Staminground and gave himself up, there appeared to be persons there stiring the crowd to a pitch of great excitement, M<hi rend="sup">r</hi> Yates a great enemy to Sanford Tomlinson his scarlit face could be seen in the distance waiving his hand and stimulating the marmydons in pursuit of their victim The winter before shortly after the time that George Estes had fell a tree on a dog belonging to Tom affiant was at a gathering at Mrs Estes, after the company had retired all with the exception of Charles and his wife and affiant Tom commenced talking about the dog and asked Charles if the dog did not fall on -- <pb/>
+<lb/>mightly when he struck it Charles answered that he did not hit the dog. Tom Said it woud be best for who ever done it to keep it to themselves, for if ever he found out who done it he would mash their side as bad Charles asked him if he found it to be an accident what he would do Tom declared it was no accident <hi rend="str">what</hi> &amp; that he would hurt who ever done as bad even if it was a brother Charles and he <unclear/> had been told by Hannah that it was george, but restricted to secrecy affiant saw by Georges looks it was him I named it to Hannah and she said it was true but charged never to name it for Tom would beat George to death if he knew it, Georges manners that morning proved he was not sorry for Toms death</p>
 <p>Elizabeth Tomlinson</p>
 <p>Sworn to and Subscribed before me, by Elizabeth Tomlinson this <date when="1861-12-17">17<hi rend="sup">th</hi> day of Dec 1861</date></p>
-<p>J. E. Alsop. J. P. S. C. </p>
+<p>J, E, Alsop. J, P, S. c</p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0096"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Lawrence County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -61,86 +63,86 @@
  <text>
   <body>
    <p>To his Excelancy Gov Thomas E Bram<unclear/></p>
-<p>Govenor of Kentucky your Petiton<unclear/> Citizens of Lawrence County and of The Enrold Malatia of Said County would Respectfully ask your Excelancy To Order an Election for Colonel and Liutenant Col of of the Malitia at the Enseuing <date when="--08">August</date> Election that we may have a Fare chance at the Polls to Select Some Good Loyal man that will not Favor Rebels in place of Loyal men as we no this has ben the case all we ask is to Gave us a Chance at the Ballot Box</p>
+<p>Govenor of Kentucky your Petiton<unclear/> Citizans of Lawrence County and of The Enrold Malatia of Said County would Respectfully ask your Excelancy To Order an Election for Colonel and Liutenant Col of of the Malitia at the Enseuing <date when="--08">August</date> Election that we may have a Fare chance at the Polls to Select Some Good Loyal man that will not Favor Rebels in place of Loyal men as we no this has ben the case all we ask is to Gave us a Chance at the Ballot Box</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Names
 <lb/>J S Billups Lieut
 <lb/>R H Meek
 <lb/>A Cooksey
 <lb/>H Hutchison
-<lb/>G. P. Grayham
-<lb/>J. D. Rowe
+<lb/>G, P, Grayham
+<lb/>J, D. Rowe
 <lb/>Thomas Workman
 <lb/>Jms Smith
-<lb/>Hall Chafin
-<lb/>Henry Harman
+<lb/><hi rend="str">D</hi>H M Chafin
+<lb/>Henry Harman 12
 <lb/>Dan Cocran
 <lb/>James Woolly
 <lb/>William R Blankin^ship^
-<lb/>W h Wood
-<lb/>B. Y. Strattin
+<lb/>W h Woods
+<lb/>B. <unclear/>. Strattin
 <lb/>William See
 <lb/>James. L Allison
 <lb/><cb n="2"/>Names
 <lb/>Jackson Mead
-<lb/>John M<hi rend="sup">c</hi>dole
+<lb/>John, M<hi rend="sup">c</hi>dole
 <lb/>Robbert Miller
-<lb/>Moses Chelders
+<lb/>Moses.. Chelders
 <lb/>Solomon James
-<lb/>H B Robertson
+<lb/>H B Robertsen
 <lb/>James M Williamson
 <lb/>Ryburn Chapman
-<lb/>Jas W. Bolden
-<lb/>owen o Bryans
+<lb/>Jas. W, Bolden 80
+<lb/>owen O Bryans
 <lb/>Archabald thompson
 <lb/>David Moody
 <lb/>Thompson Lewis
 <lb/>Fleming Moody
 <lb/>Tho<hi rend="sup">s</hi> Austin
 <lb/>Arne Burton
-<lb/>Frank turton<pb/>
-<lb/><cb n="1"/>Zachriah Prince
+<lb/>Frank Austin<pb/>
+<lb/><cb n="1"/>Zachrih. Prince
 <lb/>J. D. York
 <lb/>John W Penington 20
 <lb/>e m woods
-<lb/>James Lemmings
-<lb/>Anderson lemings
-<lb/>Samuel L. Withrow
+<lb/>James. Lemings
+<lb/>Anderson Lemings
+<lb/>Samuel. L. Withrow
 <lb/>Thos Hensly
 <lb/>Eli. Mays
 <lb/>John Write
 <lb/>John Large
-<lb/>Von Wellman
+<lb/>Van Wellman
 <lb/>John T Curnutte 30
-<lb/>Jas H Gobe
+<lb/>Jas H Jobe
 <lb/>G. W. Webb
 <lb/>Ben Terry
 <lb/>Noah B Skeen
 <lb/>N Kitchen
-<lb/>William John
+<lb/>William Jobe
 <lb/>William Rowe
-<lb/>Greenwill Jordan
+<lb/>Greenvill Jordon
 <lb/>John Stafford
 <lb/>James Wesley 40
-<lb/><hi rend="str">G M</hi> G M Nelson
+<lb/><hi rend="str">g m</hi> g M nelson
 <lb/>J R Chapman
 <lb/>R. Thompson
-<lb/>B Preston
+<lb/>B preston
 <lb/>James Shannon
-<lb/><cb n="2"/>Henderson Beenham
+<lb/><cb n="2"/>Henderson Branham
 <lb/>John Murry 90
-<lb/>James M Preston
+<lb/>James M preston
 <lb/>Frances Flufy
 <lb/>John Hays
 <lb/>Samuel Endicutt
 <lb/>John Dobbins
-<lb/>Croford Miller
+<lb/>Croford <unclear>Miller</unclear>
 <lb/>Samuel Thompson
 <lb/>William S. Hammonds
 <lb/>James Aldridge
-<lb/>Moses Wiley 100
+<lb/>Mosses Wiley 100
 <lb/>Jessey Perrey
 <lb/>Pleasant McCoy
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Feline
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> F, Cline
 <lb/>Charles Carter
 <lb/>James Chafens
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Boen
@@ -148,43 +150,43 @@
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> kirk
 <lb/>Thomas Salmons
 <lb/>Silas Ball 110
-<lb/>Jospes williamson
+<lb/>Jasper williamson
 <lb/>James H Stuart
-<lb/>Frerick Dinguss
-<lb/>A J M<hi rend="sup">c</hi>Coy
-<lb/>Thos Kock
+<lb/>Fredreck Dinguss
+<lb/>A, J McCoy
+<lb/>Thos Kirk
 <lb/>David palek<pb/>
 <lb/><cb n="1"/>James Hinkle
 <lb/>A M Butler
 <lb/>William Lovings
 <lb/>A J Cassel
 <lb/>A Haupe
-<lb/>Jeon Boyd 50
-<lb/>Peter Bartlet
-<lb/>John O H Mills
+<lb/>Isom Boyd 50
+<lb/>Peter Bartlett
+<lb/>John. L H. Mills
 <lb/>William Cassel
-<lb/>C, H, Burgg
-<lb/>B F Fisel
+<lb/>C, H, <unclear>Burgss</unclear>
+<lb/>B F <unclear>Kiser</unclear>
 <lb/>A H Miller
 <lb/>James Price
 <lb/>Jackson Fannen
-<lb/>Heed Boyd 60
+<lb/><unclear/> Boyd 60
 <lb/>John F. Hammond
-<lb/>Chis. C. Neil
+<lb/>Chis, C, Neil
 <lb/>Issac. towsen
 <lb/>John Wilson
 <lb/>L D M<hi rend="sup">c</hi>Granham
-<lb/>F Dobbins
+<lb/>F, Dobbins
 <lb/>James Childers
 <lb/>William N. Boling
-<lb/>David jonier
+<lb/>David <unclear>Jones</unclear>
 <lb/>Lafayette Preston 70
 <lb/>James Huff
 <lb/>Gibert Mead
 <lb/>James Hinkle
 <lb/><cb n="2"/>Thomas Sparks
 <lb/>Emanuel Spence
-<lb/>Oliver Branhen
+<lb/>Oliver Branhan
 <lb/>John Spence 120
 <lb/>Nathin Bower
 <lb/>W F Harman
@@ -192,185 +194,187 @@
 <lb/>Jacob Compton
 <lb/>Samuel Compton
 <lb/>Joseph Marcum
-<lb/>Nevia Branham
+<lb/>Hiram Branham
 <lb/>Edmund M<hi rend="underline"><hi rend="sup">c</hi></hi>Turley
 <lb/>David Lambert
 <lb/>William Brumfield 130
-<lb/>N. N. Curnutt
-<lb/>John. B. Spencer
+<lb/>N, N, Curnutt
+<lb/>John, B, Spencer
 <lb/>Lewis Pack
 <lb/>Hezekiah Borders
 <lb/>H Boyd
 <lb/>Milkel thompson
 <lb/>Lewis B Spencer
-<lb/>Charles Spicland
+<lb/>Charles Spencer
 <lb/>John Wallis
 <lb/>Micheal B Davis 140
 <lb/>ambrose meed
 <lb/>david loing<pb/>
 <lb/><cb n="1"/>John P Martin
-<lb/>N. J. Williams
-<lb/>David Kial
-<lb/>Jeffrey J. Brown
+<lb/>N, J, Williams
+<lb/>David <unclear>Kial</unclear>
+<lb/>Jeffrey, J, Brown
 <lb/>William Carrays
 <lb/>Wesley Hinkle 
-<lb/>Russel Childers
-<lb/>Mathew Sparks
-<lb/>Rufus Drummond
-<lb/>R. H. Leoan
-<lb/>Isac Poe
-<lb/>Samuel Short
-<lb/>F Wellman
-<lb/>J. M. Gobb
-<lb/>J B Chaffin
-<lb/>Wesley M Bradley
-<lb/>Peter Skines
-<lb/>Henry Mayes 160
-<lb/>James Wellman Jr
-<lb/>James Wellman
-<lb/>John Hutchison
-<lb/>David C Diamon
-<lb/>Ira Castle
+<lb/>Russel Childers 8
+<lb/>Mathew <unclear>Sparks</unclear>
 <lb/><cb n="2"/>Samuel Pack
 <lb/>William davis
-<lb/>W M Willington
-<lb/>Lewis Maimard
+<lb/>W M Widdington
+<lb/><unclear>Lenois</unclear> Mainard
 <lb/>Thomas Workman
 <lb/>Robert Chambers
 <lb/>S Mclure
-<lb/>Go Mclure 150
-<lb/>Daniel Seays
-<lb/>Wm Jorden
-<lb/>Elisha more
-<lb/>John Philips
-<lb/>Erwen Fasher
-<lb/>Squire H Holbrook
-<lb/>William Jordan
-<lb/>George Jerdean 220
-<lb/>Solomon Cooksey
-<lb/>Greenvil R Hale
-<lb/>John Mead
-<lb/>Geore. A. Berry
-<lb/>Jas H Carler
-<lb/>Hiram J Jordan
-<lb/>William Adkins<pb/>
-<lb/><cb n="1"/>Major Thompson
+<lb/>Go Mclure 150<pb/>
+<lb/><cb n="1"/>Rufus Drummond
+<lb/>R, H, Loan
+<lb/>Isac Poe
+<lb/>Samul Short
+<lb/>F Wellman
+<lb/>J. M. <unclear>Gobb</unclear>
+<lb/>J B Chaffin
+<lb/>Wesley M Bradley
+<lb/>Peter Skenes
+<lb/>Henry Mayes 160
+<lb/>James Wellman Jr
+<lb/>James, Wellman
+<lb/>John A Hutchison
+<lb/>David C Diamond
+<lb/>Ira Castle
+<lb/>Major Thompson
 <lb/>Samuel Johnson
 <lb/>William Bentley
 <lb/>Solomon H Ball
 <lb/>David Gipson 170
 <lb/>John Drummond
-<lb/>George A. Simpson 
+<lb/>George. A. Simpson 
 <lb/>more Compton
 <lb/>C Damron
 <lb/>H Roberson
 <lb/>Harmon Stroud
-<lb/>Chris. C. Neil
+<lb/>Chris, C, Neil
 <lb/>Hoerford Hinkle
-<lb/>G R Roberts
+<lb/>G R Robert
 <lb/>Charles Diamond 180
 <lb/>Peter Sanders
-<lb/>Henry Cassle
-<lb/><unclear/> Skaggs
+<lb/>Henery Cassle
+<lb/><unclear>Sanford</unclear> Skaggs
+<lb/>David Luster
 <lb/>Joseph Fields
-<lb/>Henry Sparks
+<lb/>Herery Sparks
 <lb/>Aimos Davis
 <lb/>Martin Skaggs
-<lb/>Peter Skags
-<lb/>Thomas J. Lester 190
+<lb/>Peter Skag
+<lb/>Thomas J,, Lester 190
 <lb/>William Cordial
 <lb/>Issac Lester
 <lb/>David Holdbrooks
-<lb/>Ja<hi rend="sup">s</hi> Skaggs
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Skaggs
 <lb/>J C <unclear/>
-<lb/><cb n="2"/>John H Curnutt
-<lb/>Robert H Marcey
+<lb/><cb n="2"/>Daniel Seays
+<lb/>Wm Jorden
+<lb/>Elisha more
+<lb/>John Philips
+<lb/>Erwen <unclear>Frasher</unclear>
+<lb/>Squire H Holbrook
+<lb/>William Jerdan
+<lb/>George Jerdean 220
+<lb/>Solomon Cooksy
+<lb/>Greenvil R Hale
+<lb/>John Mead
+<lb/>Geore. A, Berry
+<lb/>Jas H Carter
+<lb/>Hiram J Jordan
+<lb/>William Adkins
+<lb/>John H Curnutt
+<lb/>Robert H Maccoy
 <lb/>Jessy Cordail 230
 <lb/>Issac P Thompson
-<lb/>John na Adams
+<lb/><unclear>Johnna</unclear> Adams
 <lb/>Jery Young
 <lb/>Jeremiah Jordan
 <lb/>Ransom Lyon
 <lb/>Randolph Boggs
-<lb/>David L Curnutte
-<lb/>James F Curnutt
+<lb/>Davd T Curnutte
+<lb/>James F Curnutte
 <lb/>Elsy Ball
 <lb/>Thomas B Hutchinson 240
 <lb/>Alfred J Boggs
 <lb/>Hugh Boggs
 <lb/>W T Whitt
 <lb/>Washington Boggs
-<lb/>Calvin Caywood
-<lb/>William <unclear/>
+<lb/>Calvin, Caywood
+<lb/>Willson <unclear/>
 <lb/>Lewis Wells
 <lb/>John Hegley
 <lb/>L T Wellman
 <lb/>A g baker 250
-<lb/>Campbell Holberok
+<lb/>Campbell Holbrok
 <lb/>John Johnson
 <lb/>John M Berry
 <lb/>David Banks
 <lb/>Geo Steel
 <lb/>David craft
-<lb/>W B <unclear/><pb/>
-<lb/><cb n="1"/>James Seagson
+<lb/><unclear>W B McDaniel</unclear><pb/>
+<lb/><cb n="1"/>James Seays, Sen
 <lb/>Martin H Skaggs
 <lb/>Alfred Boggs
 <lb/>William Edwards
-<lb/>Abrham Steweart 200
+<lb/>Abrham Stewart 200
 <lb/>Alfred Cowdle
 <lb/>Richard F Graham
-<lb/>A M Gabriel <unclear/>
+<lb/><hi rend="str">Abe</hi> Gabriel <unclear/>
 <lb/>Joseph C Graves
-<lb/>Miles Okages
-<lb/>William Mcdewee
+<lb/>Miles Skagg
+<lb/>William mcdaniel
 <lb/>Samuel Ramey
 <lb/>William Rigsby
-<lb/>Henry Bisgby
-<lb/>William.S. Foster 210
+<lb/>Henry Risgby
+<lb/>William, S. Foster 210
 <lb/>John <unclear/>
-<lb/>James Scags
-<lb/><cb n="2"/>M M Waller
+<lb/>James Seays
+<lb/><cb n="2"/>m m Waller
 <lb/>Isac Edwards
 <lb/>Able Griffee 260
-<lb/>Henderson boys
+<lb/>Henderson Bays
 <lb/>James Graham
 <lb/>James Fowler
-<lb/>John Bellamy
+<lb/>John Bellomy
 <lb/>Andrew Webb
 <lb/>John Cross
-<lb/>D. J. Harman
-<lb/>A. J. Pefrey
+<lb/>D. J, Harman
+<lb/>A, J. Pelfrey
 <lb/>Hiram Branham
 <lb/>Rufus Coburn 270
-<lb/>Daniel Stesten
-<lb/>Tobe <unclear/>
+<lb/>Daniel <unclear>Stesten</unclear>
+<lb/><unclear/> <unclear/>
 <lb/>John Roberts<milestone unit="column" n="1"/><pb/>
 <lb/>Calvin hoolbroks
 <lb/>Wiley Bery
-<lb/>Isacc Stephens
+<lb/>Isacc Stepens
 <lb/>William Pery
 <lb/>Ellick Balb
 <lb/>James Workman 280
-<lb/>Riley Stewart
+<lb/>Riley stewart
 <lb/>Reuben C Sparks
 <lb/>Lewis Lyon
 <lb/>Robert R^u^gels
 <lb/>Isacc Bolt
 <lb/>Joseph H marcrum
 <lb/>W E Dean
-<lb/>Abslom Jerdon<pb/>
+<lb/>Abslom Jerdon
 <lb/>Jeff Bryan
-<lb/>Thadchious Laffend 290
+<lb/>Th^a^ddious C^h^affens 290
 <lb/>Oliver Kinner
 <lb/>John White
 <lb/>John Chafin
 <lb/>Isam Hensly
+<lb/><unclear/> <unclear/>
 <lb/>James Preston
-<lb/>Adrew Watson
+<lb/>Adrew Walton
 <lb/>Jesse Jordan
 <lb/>Aderson Lemonds
-<lb/>David Penix
+<lb/>David,, Penix
 <lb/>Grenville Cooksey</p>
   </body>
  </text>

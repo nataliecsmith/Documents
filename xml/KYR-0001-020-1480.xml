@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1480"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Franfort, Franklin County, Kentucky</placeName>
+    <placeName>Frankfort, Franklin County, Kentucky</placeName>
     <date when="1861-10-31">31 October 1861</date>
    </creation>
    <textClass>
@@ -61,13 +64,14 @@
  <text>
   <body>
    <p>Frankfort Ky <date when="1861-10-31">Oct 31<hi rend="sup">st</hi> 1861</date>
-<lb/>To His Excellency, B MaGoffin
+<lb/>To His Excelency,
+<lb/>B MaGoffin
 <lb/>Govenor,</p>
-<p>William Stanzer was convicted of Felony at the <date when="1860-10">Oct term 1860</date> of the Jefferson Circuit Court. for one year. <hi rend="str">his</hi> was Recd <date when="--11-02">Nov 2<hi rend="sup">nd</hi></date> his time will expire day after to morrow, He wants to stay in the City to night with a friend of his and go of to Morrow on the Dove if you will Pardon him. If you will do so you will greatly oblige yours</p>
+<p>William Stanzer was convicted of Felony at the <date when="1860-10">Oct term 1860</date> of the Jefferson circuit Court, for one year. <hi rend="str">his</hi> was Recd <date when="--11-02">Nov 2<hi rend="sup">nd</hi></date> his time will Expire day after to morrow, He wants to stay in the City to Night with a friend of his and go of to morrow on the Dove if you will Pardon him. If you will Do So you will greatly oblige yours</p>
 <p>E. Whitesides<pb/></p>
-<p>Jefferson Cir. Ct <figure type="hr"/>
+<p>Jefferson Cir. Ct<figure type="hr"/>
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Stanzer
-<lb/>1 yr. Penty
+<lb/>1 yr Penty
 <lb/>"Felony"
 <lb/>Pardon Iss<hi rend="sup">d</hi> <date when="1861-10-31">Octo 31. 1861</date></p>
   </body>

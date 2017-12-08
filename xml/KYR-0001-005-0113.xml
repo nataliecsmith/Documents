@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0113"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,14 +64,14 @@
  <text>
   <body>
    <p>Mount Sterling Ky <date when="1865-10-13">Oct 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
-<lb/>Govenor Thos E Bramblett
+<lb/>Governer Thos E Bramblett
 <lb/>Frankfort Ky
 <lb/>My Dear Sir</p>
-<p>Mr James Warren of the County of Bath this day called upon me in regard to his Son -- Some time since -- from 6 to 12 months ago -- a man named <hi rend="underline">Davis</hi> was found murdered &amp; Robbed -- Wilkins Warren was accused of the Deed -- having left the county about that time -- Upon the Repersentation of some parties from Bath Co Your Excellency put out a Reward of $300 for the apprehension of Wilkins Warren -- The facts of the case are these -- Wilkins Warren -- had left the County of Bath 5 days before this man Davis, was found &amp; Davis from the proof had not been dead 2 days -- Warren was always a most <unclear>thurgh</unclear> Union man, &amp; that section of Bath almost unanimosly Rebel, &amp; they charged this upon Warren to prevent him returning -- he having left his home because of the war troubles &amp; hence this Reward -- Warren now wants to return &amp; surrender himself up to the Law &amp; have the charge investigated -- but neither he nor his Father also a thorough Union man &amp; perfect gentleman, want these Rebels to be gratified by having him apprehended under this Reward -- It is a matter of pride with them &amp; I thank God, they have this pride, for I know them well &amp; know also the people, Rebels, by<pb/>
-<lb/>whom they are surrendered -- the men their neighbors in are some of the worse -- not that in which the Savior <unclear/> it -- are apprehending his return &amp; have their <unclear>watches</unclear> out, not only for the purpose of receiving the Reward of $300 but that they may boast one having caught him -- I am in possession of all the facts in this case -- am satisfied that Wilkins Warren is innocent -- </p>
-<p>I writ to ask you to withdraw this offer of Reward by a Public Proclamation &amp; I will guaranty that Wilkins Warren return as soon as he can be delivered of the same &amp; render himself up to the Law -- He is now on a trip across the plains with a wagon Train -- but I can reach him &amp; he will return -- Please answer &amp; let me know what step you will take in the case</p>
+<p>Mr James Warren of the County of Bath this day called upon me in regard to his Son-- Some time since-- from 6 to 12 months ago-- a man named <hi rend="underline">Davis</hi> was found murdered &amp; Robbed-- Wilkin Warren was accused of the Deed-- having left the county about that time-- Upon the Reperentation of some parties from Bath Co Your Excellency put out a Reward of &#36;300 for the apprehension of Wilkins Warren-- The facts of the case are these-- Wilkins Warren-- had left the County of Bath 5 days before this man <hi rend="underline">Davis</hi>, was found &amp; Davis from the proof had not been dead 2 days-- Warren was always a most <unclear>though</unclear> Union man, &amp; that section of Bath almost unanimosly Rebel, &amp; they charged this upon Warren to prevent him returning-- he having left his home because of the war troubles &amp; hence this Reward -- Warren now wants to return &amp; surrender himself up to the Law &amp; have the charge investigated-- but neither he nor his Father also a through Union man &amp; perfect gentleman, want these Rebels to be gratified by having him apprehended under this Reward-- It is a matter of pride with them, &amp; I thank God, they have this pride, for I know them well &amp; know also the people, <hi rend="underline">Rebels</hi>, by<pb/>
+<lb/>whom they are surrounded-- These men their neighbors in one sense of the word -- not that in which the Savior used it -- are apprehending his return &amp; have their <unclear>watches</unclear> out, not only for the purpose of receiving the Reward of &#36;300 but this they may boast one having caught him -- I am in possession of all the facts in this case-- am satisfied that Wilkins Warren is innocent -- </p>
+<p>I write to ask you to withdraw this offer of Reward by a Public Proclamation &amp; I will guarranty that Wilkin Warren return as soon as he can be delivered of the same &amp; render himself up to the Law-- He is now on a trip across the plains with a wagon Train-- but I can reach him &amp; he will return -- Please answer &amp; let me know what step you will take in the case</p>
 <p>Respectfuly
-<lb/>Samuel McKee</p>
+<lb/>Samuel M<hi rend="sup">c</hi>Kee</p>
   </body>
  </text>
 </TEI>

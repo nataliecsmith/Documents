@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1489"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Robert Bishop et al. to Beriah Magoffin</title>
+    <title level="a" type="main">Robert Bishop to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG10957</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Louisville, Jefferson County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -62,10 +64,10 @@
   <body>
    <p>To His Excellency Beriah Magoffin
 <lb/>Governor. of Kentucky.</p>
-<p>Your Petitioner Robert Bishop states that at the <date when="1861-08">August Term 1861.</date> of the City Court of Louisville he was fined $50 -- for carrying Concealed a pistol. Your Petitioner is a resident of Lexington Ky -- and was on a visit to Louisville, where the weapon was taken from him &amp; the fine imposed, The trial was had when he was in Lexington &amp; he made no offense, He had a right to carry the weapon, when travelling &amp; had he defended he would not have been fined. Wherefor he asks for a remission of said fine.</p>
-<p>Respectfully, 
+<p>Your Petitioner Robert Bishop states that at the <date when="1861-08">August Term 1861.</date> of the city court of Louisville he was. fined &#36;50- for carrying concealed a pistol. Your Petitioner is a resident of Lexington Ky -- and was on a visit to Louisville, when the weapon was taken from him &amp; the fine imposed, The trial was had when he was in Lexington &amp; he made no defense, He had a right to carry the weapon, when trovelling &amp; had he defended he would not have been fined, Wherefor he asks for a remission of said fine.</p>
+<p>Respectfully
 <lb/>Robert Bishop</p>
-<p>The facts stated in the forgoing petition, are true, &amp; under all the circumstances, I concur with the petitioner &amp; asks for a remission of the fine</p>
+<p>The facts stated in the forgoing petition, are true, &amp; under all the circumstances, I concur with the petitioner &amp; ask for a remission of the fine</p>
 <p>W, G, Reasor</p>
 <p>I think that this fine, imposed without defense, and under the impression well-founded that the case would be dismissed without trial, ought to be remitted. I therefore concur with the Prosecuting Attorney in the case, W. G. Resor, in asking for a remission</p>
 <p>T. S. Bell
@@ -75,10 +77,10 @@
 <lb/>J. M Delph, <hi rend="underline">Mayor</hi>
 <lb/>Geo. W. Johnston<pb/></p>
 <p>Louisville City Ct. 
-<lb/>$50 } Concealed Weapons
-<lb/>Rob<hi rend="sup">t</hi>. Bishop</p>
-<p>Remitted 
-<lb/>B. M. </p>
+<lb/>&#36;50. &#125; Concealed Weapons
+<lb/>Rob<hi rend="underline"><hi rend="sup">t</hi></hi> Bishop</p>
+<p>Remitted
+<lb/>B. M.</p>
 <p>Iss<hi rend="sup">d</hi> <date when="1861-10-10">Octo 10. 1861</date></p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0043"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,10 +63,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>W<hi rend="underline"><hi rend="sup">ms</hi></hi>Town <date when="1864-11-24">Nov 24th 1864</date>
+   <p>W<hi rend="underline"><hi rend="sup">ms</hi></hi>Town <date when="1864-11-24">Nov 24<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
 <lb/>Hon Thomas E Bramlet</p>
-<p>Inclosed find Petition of Judge Burnet for a reward for Samuel Anderson for the murder of G W Osburn -- The murder was a very aggravated one -- I am your obt servt</p>
-<p>W. L. Simmons</p>
+<p>Incloseed find Petition of Judge Burnet for a reward for Samuel Anderson for the murder of G W Osbern- The murder was a very aggravated one- I am your obt servt</p>
+<p>W, L. Simmons</p>
   </body>
  </text>
 </TEI>

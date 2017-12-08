@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0058"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Phil Tomppert, Jr., Warrant</title>
+    <title level="a" type="main">Phillip Tomppert, Jr., Warrant</title>
     <title level="a" type="parallel">CWG0947</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,24 +67,24 @@
 <lb/>City Court of Louisville
 <lb/>The Commonwealth of Kentucky to the Marshal of the City Court of Louisville
 <lb/>Greeting</p>
-<p>Whereas I have this day received information on oath from Christian Quisnot, that in said City, in the month of <date when="1865-02">February 1865</date>, a number of ste<hi rend="str">a</hi>el springs a quantity of Iron, and a number of iron axles, ^of the value of fifty dollars^ were feloniously stolen taken and carried away, out of the possession of said Quisnot, being his property, and that he has probable cause to suspect and does suspect <unclear/> <hi rend="str"><unclear/></hi> that said springs, iron and axles <unclear/> so stolen taken and carried away, by William <unclear/> and Louis Kyner. Contrary to the Statute in <unclear/> case made and provided</p>
-<p><unclear/> These are therefor to command you forthwith to arrest said Whalen and Kyner and bring them before the Judge of our said Court at the Court house thereof, in said City, to be dealt with according to Law, and have you then there this writ</p>
-<p>Witness my hand this <date when="1864-03-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> day of March 1865</date></p>
+<p>Whereas I have this day received information on oath from Christian Quinot, that in said City, in the month of <date when="1865-02">February 1865</date>, a number of ste<hi rend="str">a</hi>el springs a quantity of Iron, and a number of iron axles. ^of the value of fifty dollars^ were feloniously stolen taken and carried away, out of the possession of said Quinot, being his property, and that he has probable cause to suspect and does suspect <unclear/> <hi rend="str"><unclear/></hi> that said springs, iron and axles <unclear/> so stolen taken and carried away, by William <unclear/>len and Louis Kyner. Contrary to the Statute in <unclear/> case made and provided</p>
+<p>These are therefor to command you forthwith to arrest said Whalen and Kyner and bring them before the Judge of our said Court at the Court house thereof, in said City, to be dealt with according to Law, and have you then there this writ</p>
+<p>Witness my hand this <date when="1864-03-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> day of <hi rend="str">F</hi>March 1865</date></p>
 <p>Phil Tomppert Jr Clk City Ct L</p>
 <p>Affiants William Hipwell &amp; Thomas Garrity Policemen in the city of Louisville Ky state upon oath that they are acquainted with William Whalen and Louis Kyner referred to in the above<pb/>
 <lb/>warrant and that -- the same parties are now charged in the said city court with having committed a Felony in this county and that said charge can be easily sustained; That defendants in the above charge are common theives &amp; have heretofore escaped for want of legal proof &amp; when an attempt was made to arrest said parties on the above charge they ran off in great haste &amp; escaped to Nashville Tennessee</p>
 <p>William Hipwell
 <lb/>Thomas Geraghty</p>
-<p>Subscribed and sworn to before me by Wm Hipwell &amp; Thomas Garretty This <date when="1865-03-13">13th day of Mach 1865</date></p>
-<p>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> Clement Justice of the peace Jeff Co ky</p>
-<p>Requisition Gov Tennessee. issued <date when="1865-03-14">14<hi rend="sup">th</hi> Mch 1865</date>
+<p>Subscribed and sworn to before me by Wm Hipwell &amp; Thomas Garretty This <date when="1865-03-13">13<hi rend="sup">th</hi> day of Mach 1865</date></p>
+<p>Jo<hi rend="sup">s</hi>,, Clement. Justice of the peace Jeff Co Ky</p>
+<p>Requisition Gov Tennessee.
+<lb/> issued <date when="1865-03-14">14<hi rend="sup">th</hi> Mch 1865</date>
 <lb/>Commonwealth
-<lb/>vs } Grand Larceny
+<lb/>vs &#125; Grand Larceny
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Whalen
 <lb/>Louis Kyner<figure type="hr"/>
 <lb/>W<hi rend="sup">m</hi> Hipwell &amp; Tho<hi rend="sup">s</hi> Garrity
-<lb/>appt<hi rend="sup">d</hi>
-<lb/>agents</p>
+<lb/>app<hi rend="sup">td </hi>agents</p>
   </body>
  </text>
 </TEI>

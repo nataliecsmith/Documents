@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0043"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <date when="1861-06-05">5 June 1861</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -59,12 +62,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Go<hi rend="underline"><hi rend="sup">v</hi></hi> Mcgoffin
+   <p>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> MCgoffin
 <lb/>Dr Sir</p>
-<p>I enclose the muster roll of a company of Cavelry made according to the Law passed for home guards and would like to get them armed as soon as convenent. please write me the <unclear/> and of what kind of arms we are entitled to and as a part of my company were not here to be sworn in whether I could still have them sworn and send the additional list before we received the arms of the present list I have about 80 men that have been drilling for a month I suppose the bond will be sent to us to fill for the arms as we are ignorat of the amt by giving me all the information concuring the company you will confer a favor on your respectfully</p>
+<p>I enclose the muster roll of a company of Cavelry <hi rend="str">s</hi>made according to the Law passed for home guards and <hi rend="str"><unclear/></hi>would like to get them armed as soon a<hi rend="str">t</hi>s convinent. please write me the prospect and of what kind of arms we are entitled to and as a part of my Company were not here to be sworn in whether I could still have them sworn and send the additional list before we received the arms of the present list I have about 80 men that have been drilling for a month I suppose the bond shall be sent to us to fill for the arms as we are ignorat of the amt, by giving me all the information concering the Company you will confer a favor on yours respectfully</p>
 <p>W<hi rend="underline"><hi rend="sup">m</hi></hi> F Hawes Sr<pb/></p>
-<p><note place="header">2</note>
-<lb/>Hancock Co
+<p><note place="header">2</note></p>
+<p>Hancock Co
 <lb/>Home Guards
 <lb/>Filed <date when="1861-06-05">5<hi rend="sup">th</hi> June 1861 -- </date>
 <lb/>W. F. Hawes Captn<figure type="hr"/>

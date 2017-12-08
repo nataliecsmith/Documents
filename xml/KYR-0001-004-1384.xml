@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1384"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,26 +67,26 @@
 <lb/><date when="1864-12-17">December the 17<hi rend="sup">th</hi> 1864</date>
 <lb/>Your Excellency
 <lb/>Gov Thomas E Bramlette</p>
-<p>Sir at the last term of the Russell Circuit Court there was a fine assessed against Frederick Conn under an indictment for tipling amounting to the sum of Sixty dollars in cludeing an atto fee of $18 -- which fine the said Conn is unable to pay and there is a writ in the hands of the sheriff of said county requiring the arrest and imprisonment of the said Conn If he does not replevy or pay off the Judgment afore said We the undersigned citizens and friends to humanity respectfully represent to your honor that the said Conn has abandoned the profession of tipling and is an honest up right gentlemen whos object is not to violate the laws of the land -- but necessity prompted him to deal in liquers at a time when the laws seemd to be entirely suspended in consequence of the war the said Conn has a large family to support and is not able to laber he has been afflicted and diseased for years the most of the time not expected to live but a short time he is unable to pay the said fine or any part of it to do his destitute family Justice and further If the said Execution is enforced and the said Conn is imprisoned he cannot live agreate while oweing to his feeble health We therefore ask you to remit that portion due the commonwealth as the imprisonment of said Conn would in a short time send him to his grave<pb/>
+<p>Sir at the last term of the Russell Circuit Court there was a fine assessed against Frederick Conn under an indictment for tipling amounting to the sum of Sixty dollars in cludeing an atto fee of &#36;18 -- which fine the said Conn is unable to pay and there is a writ in the hands of the sheriff of said county requireing the arrest and imprisonment of the said Conn If he does not replevy or pay off the Judgment aforesaid We the undersigned citizens and friends to humanity respectfully represent to your honor that the said Conn has abandoned the profession of tipling and is an honest up right gentlemen whos object is not to violate the laws of the land -- but necessity prompted him to deal in liquers at a time when the laws seemd to be entirely suspended in consequence of the war the said Conn has a large family to support and is not able to laber he has been afflicted and diseased for years the most of the time not expected to live but a short time he is unable to pay the said fine or any part of it to do his destitute family Justice and further If the said Execution is enforced and the said Conn is imprisoned he cannot live agreate while oweing to his feeble health We therefore ask you to remit that portion due the commonwealth as the imprisonment of said Conn would in a short time send him to his grave<pb/>
 <lb/>and We will vouch for the said con that this will be the last time We will ask your interposition in his be half ^in regard to tipling^ We are prompted by principals of humanity and nothing els and ask your favor through no other motive</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>J. A. Williams
 <lb/>G W Eubank
-<lb/>F B Swidwell
-<lb/>James M<hi rend="sup">c</hi>Kiney
+<lb/>F. B Twidwell
+<lb/>James M<hi rend="underline"><hi rend="sup">c</hi></hi>Kiney
 <lb/>James Canedy
 <lb/>Isaac Rodgers
 <lb/>Theo Jones
 <lb/>A J Scott
 <lb/>John Crisp
-<lb/>Squire B Popplewell
-<lb/>Hugh Dalheney
-<lb/>Jesse <unclear>wouldging</unclear>
-<lb/>Henry C. George
-<lb/>Benjamin Bullinger
-<lb/>David george
-<lb/>Jessey Wooldridge
+<lb/>Squire Popplewell
+<lb/>Hugh <unclear/>
+<lb/>Jesse <unclear>wauldgeng</unclear>
+<lb/>Henry C George
+<lb/>Benjamin Ballenge
+<lb/><unclear>David george</unclear>
+<lb/>Jessey Wooldrdge
 <lb/>Bryan S. McClure
-<lb/>Giles Wood
+<lb/><unclear>Green</unclear> Moon
 <lb/>William Warriner
 <lb/>Green A Eastham
 <lb/>Ira Flanagan
@@ -98,46 +101,46 @@
 <lb/>William Choat
 <lb/><cb n="2"/>W<hi rend="sup">m</hi> Lucas
 <lb/>Joel B Hill
-<lb/>A. F. Simpson
+<lb/>A, P, Simpson
 <lb/>Abner Jones
 <lb/>James Bell
-<lb/>Hector Bolin
+<lb/>Hector o Bolin
 <lb/>Achilles Nelson
 <lb/>Edmund Cook Jr
-<lb/>B S Levinsky
-<lb/>Samuel M<hi rend="sup">c</hi>farland
+<lb/>R, S, Severidg
+<lb/>Samiel M<hi rend="sup">c</hi>farland
 <lb/>Abner Pierce
 <lb/>Caleb Morrison
 <lb/>B P Polston
-<lb/><unclear>Esculapius</unclear> Jones
+<lb/>Esculapius Jones
 <lb/>Jackson Moles
-<lb/>Samuel Jeffries
-<lb/>Charles Mckinley
-<lb/>William R. Terry
+<lb/>Samiel Jeffries
+<lb/>Charles Mckinly
+<lb/>William. R. Terry
 <lb/>James Brummett
 <lb/>Jasper Dunbar
-<lb/>Jo E. Hayes
+<lb/>Jo E, Hays
 <lb/>William Jones
 <lb/>George Gabbart
 <lb/>A B Walker
-<lb/>M Chamberlain
-<lb/>F M Wooldrige
-<lb/>Henry Primble
+<lb/>M. Chamberlain
+<lb/>F. M Wooldrige
+<lb/>Henry Trimble
 <lb/>William Wade
 <lb/>H Merrifield<milestone unit="column" n="1"/><pb/></p>
-<p><stamp type="postage"/><pb/></p>
+<p><stamp type="revenue"/><pb/></p>
 <p>Russell Cir Ct
 <lb/>vs
-<lb/>F. Conn
-<lb/>$60.
+<lb/>F, Conn
+<lb/>&#36;60.
 <lb/>Remitted
-<lb/><unclear/>
 <lb/><date when="1864-12-23">23<hi rend="sup">d</hi> Dec/64</date></p>
-<p><date when="1864-12-20">Dec 20</date>
-<lb/>Gov Thos E. Bramlette
+<p>Remit</p>
+<p>Jamestown
+<lb/><date when="1864-12-20">Dec 20</date>
+<lb/>Gov Thos E Bramlette
 <lb/>Frankfort
 <lb/>Kentucky</p>
-<p>Remit</p>
   </body>
  </text>
 </TEI>

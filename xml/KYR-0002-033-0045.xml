@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0045"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Edward D. Townsend, Special Order No. 128</title>
+    <title level="a" type="main">Edward D. Townsend, Special Orders, No. 128</title>
     <title level="a" type="parallel">CWG11596</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -72,19 +75,20 @@
 <p>By order of the Secretary of War:
 <lb/>E. D. TOWNSEND,
 <lb/><hi rend="italic">Assistant Adjutant General</hi>.</p>
-<p>1.2.</p>
 <p>OFFICIAL:
 <lb/>E D Townsend
 <lb/><hi rend="italic">Assistant Adjutant General</hi>. </p>
+<p>1.2.</p>
 <p>Governor of Kentucky<pb/></p>
-<p>2 Cav<hi rend="sup">y</hi><figure type="hr"/>
+<p><hi rend="underline">2 Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi>
 <lb/>War Department
 <lb/>Adjutant Generals Office
 <lb/>Washington <date when="1864-03-26">March 26. 1864</date><figure type="hr"/></p>
 <p>Towsend E. D.
 <lb/>A. A. G.<figure type="hr"/></p>
-<p>Order dismissing Capt W. H. Eifort for failing to report for medical treatment in Hospital as ordered.<figure type="hr"/></p>
-<p>Rec<hi rend="sup">d.</hi> A. G. O. 2 <date when="1864-04-01">April 1. 1864</date></p>
+<p>Order dismissing Capt. W. H. Eifort for failing to report for medical treatment in Hospital as ordered.<figure type="hr"/></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-04-01">April 1. 1864</date></p>
+<p>To the Adjutant General</p>
   </body>
  </text>
 </TEI>

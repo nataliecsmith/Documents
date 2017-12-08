@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0100"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">W. F. Bullock to George W. Johnson</title>
+    <title level="a" type="main">W. F. Bullock, Jr. to George W. Johnson</title>
     <title level="a" type="parallel">CWG14392</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,14 +64,14 @@
  <text>
   <body>
    <p>Louisville <date when="1861-05-31">May 31/61</date>
-<lb/>Geo. W. Johnson, Esq;
-<lb/><hi rend="underline">Georgetown</hi>
+<lb/>Geo. W. Johnson. Esq;
+<lb/><hi rend="underline">Georgetown</hi>,
 <lb/>Sir:</p>
-<p>At the request of Mrs Rice C Ballard, I have acknowledged the receipt of yours of the <date when="1861-05-28">28<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> to her.</p>
+<p>At the request of Mrs Rice C Ballard, I have to acknowledge the receipt of yours of the <date when="1861-05-28">28<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> to her.</p>
 <p>Mrs Ballard feels unauthorized to interfere in the matter to which you allude and, believing Judge Boyd will do all that is proper in the case, she begs to refer you to him.</p>
 <p>Resf'y
-<lb/><hi rend="underline">W. F. Bullock, Jr.</hi><pb/></p>
-<p>W. F. Bullock Jr.
+<lb/><hi rend="underline">W. F. Bullock, Jr</hi><pb/></p>
+<p>W. F. Bullock Jr
 <lb/><date when="1861-05-31">May 31. 1861</date>
 <lb/></p>
   </body>

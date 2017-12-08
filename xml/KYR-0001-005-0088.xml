@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0088"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Campbell County, Kentucky</placeName>
-    <date when="1865-08-24">24 August 1865</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -62,12 +65,11 @@
   <body>
    <p>Campbell Circuit Court
 <lb/>The Com"mth of Kentucky Plaintiff
-<lb/>Against } Indictment for Refusing to receive the vote of a qualified voter
-<lb/>John W Flora &amp; Geo Herendon Defendants</p>
-<p>The Grand Jury of Campbell County, in the name and by the authority of the Commonwealth of Kentucky, accuse John W Flora &amp; George Herendon of the offense of refusing to receive the vote of a qualified voter, Committed as follows, viz; The Said John W Flora &amp; George Herendon on the <gap/> day of <date when="1865-08">August, 1865</date>, and on divers other days and times, before and Since that time, And before the finding of this Indictment, in Said County and State aforesaid, were officers of an Election then &amp; there held at the Carthage Precinct in Said County under the Constitution and laws of the state of Kentucky, for the<pb/>
-<lb/>election of a member of the Congress of the United States, for the 6<hi rend="underline"><hi rend="sup">th</hi></hi> Congressional District, a State Treasurer, a Senator from the 25<hi rend="underline"><hi rend="sup">th</hi></hi> Senatorial District, two members of the General Assembly from Said County, and a Clerk of the Circuit Court for Said County of Campbell, The Said Flora being then &amp; there, a Judge of Said Election, and the Said Hrendon being then &amp; there the Sheriff of Said Election, and Severally acting as Such at the time &amp; place aforesaid as Said Judge and Sheriff. -- </p>
-<p>The jurors aforesaid in the name &amp; by the authority aforesaid, do further say, that at the election aforesaid for the purpose aforesaid, at the Precinct and county aforesaid, on the day &amp; year aforesaid Cyrus Coffman a qualified voter of Said Precinct and county, did then &amp; there, appear at the Polls before the Judges Sheriff &amp; Clerk of the Said election, between the hours of<pb/>
-<lb/>Seven Oclock A. M. and Six Oclock P, M, and then and there offer to vote, Whereupon the Said John W. Flora and George Herendon as Judge and Sheriff of said election Respectively refuse to receive the vote of the Said Coffman contrary to the Statute in such case made and provided, and against the peace and dignity of the Commonwealth of Kentucky</p>
+<lb/>Against &#125; Indictment for Refusing to receive the vote of a qualified voter
+<lb/>John W. Flora &amp; George Herendon Defendants</p>
+<p>The Grand Jury of Campbell County, in the name and by the authority of the Commonwealth of Kentucky, accuse John W Flora &amp; George Herendon of the offense of refusing to receive the vote of a qualified voter, Committed as follows, viz; The Said John W Flora &amp; George Herendon on the <gap/> day of <date when="1865-08">August, 1865</date>, and on divers other days and times, before and since that time, and before the finding of this Indictment, in said County and State aforesaid, were officers of an Election then &amp; there held at the Carthage Precinct in Said County under the Constitution and laws of the state of Kentucky, for the<pb/>
+<lb/>election of a member of the Congress of the United States, for the 6<hi rend="underline"><hi rend="sup">th</hi></hi> Congressional District, a State Treasurer, a Senator from the 25<hi rend="underline"><hi rend="sup">th</hi></hi> Senatorial District, two members of the General Assembly from Said County, and a Clerk of the Circuit Court for Said County of Campbell, The Said Flora being then &amp; there, a Judge of Said Election, and the Said Hrendon being then &amp; there the Sheriff of Said Election, and Severally acting as Such at the time &amp; place aforesaid as said Judge and Sheriff, -- The jurors aforesaid and in the name &amp; by the authority aforesaid, do further say, that at the election aforesaid, for the purpose aforesaid, at the Precinct and County aforesaid, on the day &amp; year aforesaid Cyrus Coffman a qualified voter of Said Precinct and county, did then &amp; there, appear at the Polls before the Judges Sheriff &amp; Clerk of the Said election, between the hours of<pb/>
+<lb/>Seven Oclock A. M. and Six Oclock P. M, and then and there offer to vote, Whereupon the Said John W. Flora and George Herendon as Judge and Sheriff of said election Respectively refuse to receive the vote of the said Coffman contrary to the Statute in such case made and provided, and agains the peace and dignity of the Commonwealth of Kentucky</p>
 <p>Witnesses
 <lb/><hi rend="underline">Cyrus Coffman</hi></p>
 <p>R. B. Carpenter
@@ -84,7 +86,7 @@
 <lb/>G. W. Carmack
 <lb/>Foreman<figure type="hr"/>
 <lb/>Filed <date when="1865-08-24">Aug 24<hi rend="sup">th</hi> 1865</date>
-<lb/>B. W. issd <date when="1865-08-28">Aug 28<hi rend="sup">th</hi> "</date></p>
+<lb/>B. W, iss<hi rend="sup">d</hi> <date when="1865-08-28">Aug 28<hi rend="sup">th</hi> "</date></p>
   </body>
  </text>
 </TEI>

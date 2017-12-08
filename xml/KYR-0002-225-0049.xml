@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0049"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,24 +65,24 @@
   <body>
    <p>Georgetown <date when="1864-08-08">8 August 1864</date>
 <lb/>Gov. Thos E. Bramlette</p>
-<p>Dear Sir -- The continuance and increase of the guerillas in the hills in this northern part of Scott and adjoining counties render this place in deadly danger.</p>
+<p>Dear Sir -- The continuance and increase of the guerillas in the hills in the Northern part of Scott and adjoining counties render this place in deadly danger.</p>
 <p>They have arranged several times to make a raid upon us but were prevented by the presence of troops sent for the purpose</p>
-<p>Under an order by Genl. Burbridge we have offered and enrolled all the citizens of the town to be drilled armed and just in readiness for the defence.</p>
+<p>Under an order by Genl. Burbridge we have officered and enrolled all the citizens of the town to be drilled armed and put in readiness for the defence.</p>
 <p>We are without arms &amp; were directed to apply to you to furnish the Town with 100 Ballard Carbines with ammunition if in your power from the State Arsenal</p>
 <p>They shall be taken care of and returned and will be of great value to us at this moment. We have some arms belonging to individuals which will be<pb/>
-<lb/>used and <unclear>with these</unclear> we ask will arm from 150 to 200 new enrolled <unclear>member</unclear></p>
-<p>I think the organization a good one and will <unclear>increase</unclear> the defence of the <unclear>town</unclear> against these bands of Robbers &amp; Guerillas. Please answer at your earliest convenience</p>
+<lb/>used and with these we ask will arm from 150 to 200 new enrolled member</p>
+<p>I think the organization a good one and will increase the defence of the town against these bands of Robbers &amp; Guerillas. Please answer at your earliest convenience</p>
 <p>Yours truly
 <lb/><hi rend="underline">J. F. Robinson</hi><pb/></p>
 <p>Inspector Genl</p>
 <p>Let the arms be issued give instructions how to get them<pb/></p>
 <p>Ky State Guard.
-<lb/>Georgetown Scott Co. Ky.
+<lb/>Georgetown. Scott Co. Ky.
 <lb/><date when="1864-08-08">August 8<hi rend="sup">th</hi> 1864</date>.<figure type="hr"/>
 <lb/>Robinson Hon. Ja<hi rend="underline"><hi rend="sup">s</hi></hi> F.<figure type="hr"/></p>
-<p>To the Gov. Stating that Georgetown is clearly in danger of a guerlla raid. Under an order from Gen<hi rend="sup">l</hi> Burbridge the citizens have been offered and enrolled for its defence. This letter has been referred by Gov. Bramlette with this endorsement thereon "Inspector Gen<hi rend="underline"><hi rend="sup">l</hi></hi> let the arms be issued -- give instructions how to get them"<figure type="hr"/></p>
-<p>Blanks forwarded and communication answered on this <date when="1864-08-09">Aug. 9-64</date> on Letter book B. Page 20<figure type="hr"/></p>
-<p>R. I. G. O. <date when="1864-08-09">Aug 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
+<p>To the Gov. Stating that Georgetown is clearly in danger of a guerlla raid. Under an order from Gen<hi rend="sup">l</hi> Burbridge the citizens have been officered and enrolled for its defence. This letter has been referred by Gov. Bramlette with this endorsement thereon "Inspector Gen<hi rend="underline"><hi rend="sup">l</hi></hi> let the arms be issued- give instructions how to get them"<figure type="hr"/></p>
+<p>Blanks forwarded and communication answered on this <date when="1864-08-09">Aug. 9- 64</date> on Letter book B. Page 20<figure type="hr"/></p>
+<p>R. I. G. O. <date when="1864-08-09">Aug. 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
 <p>Scott Co. &amp; surrounding counties in danger</p>
   </body>
  </text>

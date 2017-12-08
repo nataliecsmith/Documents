@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0240"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,57 +64,56 @@
   <body>
    <p>To his Excellency
 <lb/>Gov Thomas E Bramlette</p>
-<p>At the <date when="--11">Nov Term</date> of the Harrison Circuit Court. Geo Sidle was convicted of the crime of manslaughter in shooting Rich<hi rend="sup">d</hi> Jamison. and sentenced to be confined in the state penitentiary for the term of 2 years &amp; 11 months. We the undersigned citizens of Harrison Co Ky do most respectfully petition his Excellency that the same Geo Sidle be pardoned -- </p>
+<p>At the <date when="1863-11">Nov Term</date> of the Harrison Circuit Court, Geo Sidle was convicted of the crime of Manslaughter in Shooting Rich<hi rend="sup">d</hi> Jamison. and sentenced to be confined in the State penitentiary for the term of 2 Years &amp; 11 months- We the undersigned citizens of Harrison Co Ky do most respectfully petition his Excellency that the said Geo Sidle be pardoned -- </p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Names
 <lb/>E. M. Pogue
 <lb/>Jesse Bryant
 <lb/>J. B. Bryant
 <lb/>James Bruce
-<lb/>D T McNees
-<lb/>J. L. Russell
+<lb/>A T M<hi rend="sup">c</hi>Nees
+<lb/>J, L, Russell
 <lb/>Jacob W Eckler
 <lb/>tilman turner
-<lb/>Ja<hi rend="sup">s</hi>. M. Gadman
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> M. Gadmon
 <lb/>John H Day
-<lb/>F. B. Green
-<lb/>T. L. Green
+<lb/>F, B, Green
+<lb/>T L. Green
 <lb/>T J Hutten
-<lb/>Wm R MacNees
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> R MacNees
 <lb/>S D Harden
-<lb/>T A Rankins
-<lb/>B. B. Hume
-<lb/>L Mogan
+<lb/>J A Rankins
+<lb/>B, B, Hume
+<lb/>L mogan
 <lb/><cb n="2"/>Names
 <lb/>T. Edwards
 <lb/>Seth Cloe
-<lb/>E. Gill
-<lb/>W. Stone
+<lb/>E,, Gill
+<lb/>W,, Stone
 <lb/>John G Leach
 <lb/>John Bruce
 <lb/>M Limerick
 <lb/>N Limerick
-<lb/>J. N. Smith
-<lb/>P Brampayer
+<lb/>J, N Smith
+<lb/><unclear>P<hi rend="sup">r</hi> S</unclear> Champagne
 <lb/>James T Howell
-<lb/>A. B. King
-<lb/>John W. Adams
+<lb/>A, B, King
+<lb/>John W, Adams
 <lb/>Hamilton Bruce
-<lb/>J. W. Renady
-<lb/>Manria Alurrie<milestone unit="column" n="1"/><pb/></p>
-<p>We the undersigned citizens of Harrison County ask of your Excellency Thomas E Bramlette Gov of Ky to Pardon George Sidle who was at the present Term of the Harrison Circuit Court found guilty of Manslaughter <date when="1863-11-07">Nov 7<hi rend="sup">th</hi> 1863</date> -- </p>
+<lb/>J, W. Renady
+<lb/>Manria M<unclear>urra</unclear><milestone unit="column" n="1"/><pb/></p>
+<p>We the undersigned citizens of Harrison County ask of your Excellency Thomas E Bramlette Gov of Ky to Pardon George Sidle who was at the present Term of the Harrison Circuit Court found guilty of Manslaughter. <date when="1863-11-07">Nov 7<hi rend="sup">th</hi> 1863</date> -- </p>
 <p>Samuel Taylor
 <lb/>J. B. Patch
-<lb/>T W Davies
+<lb/>T w Davies
 <lb/>Henry Rabern
 <lb/>James Leonard
-<lb/>A Comer
-<lb/>Wm P. H. Mourning
+<lb/>A. Conner.
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> P. H. Morning
 <lb/>A. L. Wiglesworth
 <lb/>L C Rankin
 <lb/>H Cox<pb/></p>
 <p>Pet for pardon of Sidell
-<lb/>Harrison Co
-<lb/><date when="1863">63</date></p>
+<lb/>Harrison Co</p>
   </body>
  </text>
 </TEI>

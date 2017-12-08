@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0008"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Ambrose E. Burnside, Special Orders, No. 271</title>
+    <title level="a" type="main">R. H. J. Goddard, Special Orders, No. 271</title>
     <title level="a" type="parallel">CWG11559</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,12 +66,12 @@
    <p>HEAD QUARTERS, DEPARTMENT OF THE OHIO.
 <lb/>Cincinnati, Ohio, <date when="1863-07-19">July 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1863.</date>
 <lb/>Special Orders, No. 271,</p>
-<p>4 ,, ,, ,, The resignation of Captain <hi rend="underline">Samuel A. Boone,</hi> 1<hi rend="underline"><hi rend="sup">st</hi></hi> Kentucky Volunteer Cavalry, is for the good of the service, hereby accepted to take effect on the <date when="1863-07-21">twenty first (21<hi rend="underline"><hi rend="sup">st</hi></hi>) day of July 1863.</date></p>
+<p>4 ,, ,, ,, The resignation of Captain <hi rend="underline">Samuel A. Boone,</hi> 1<hi rend="underline"><hi rend="sup">st</hi></hi> Kentucky Volunteer Cavalry, is for the good of the service, hereby accepted to take effect on the <date when="1863-07-21">twenty first (21<hi rend="underline"><hi rend="sup">st</hi></hi>), day of July 1863.</date></p>
 <p>BY ORDER OF MAJOR GENERAL BURNSIDE.
-<lb/>R. H. Goddard
+<lb/>R. H. J. Goddard
 <lb/>Acting Assistant Adjutant General.</p>
-<p>1.2.3.4.5.6.
-<lb/><figure type="hr"/>date of Com. Decr. 2. 1862,<figure type="hr"/></p>
+<p>1.2.3.4.5.6.<figure type="hr"/>
+<lb/>date of Com. Dec<hi rend="sup">r.</hi> 2. 1862,<figure type="hr"/></p>
 <p>Governor of Kentucky<pb/></p>
 <p>1 Cav<hi rend="sup">y</hi><figure type="hr"/>
 <lb/>Capt. Boone<figure type="hr"/>

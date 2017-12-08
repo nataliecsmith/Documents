@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0062"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,21 +63,20 @@
  </teiHeader>
  <text>
   <body>
-   <p><note place="header">30. w 30
-<lb/><figure type="hr"/>W H Ayrs. <unclear/> to recruit a Compy
-<lb/>State Guard -- <date when="1864-01-05">Jany 5. 1864</date><figure type="hr"/></note>
+   <p><note place="header"><hi rend="underline">30. w 30</hi>
+<lb/>W H Ayrs. Authy to recruit a Compy. State Guard- <date when="1864-01-05">Jany 5. 1864</date></note>
 <lb/>Jeffersontown P O -- 
 <lb/>Jefferson Co Ky <date when="1864-12-24">Dec 24" 1864</date>
-<lb/>To Gov Thos E Bramlette
-<lb/>Dear Sir:</p>
-<p>For the last six months our county has been visited at short intervals, by gurilla bands, who have levied heavy contributions upon our citizens without much respect to their political antecedents. At first their raids were made at night and none but those friendly to them knew whire they came from.</p>
+<lb/>To Gov Thos E Bramlette;
+<lb/>Dear Sir;</p>
+<p>For the last six months our county has been visited at short intervals, by gurilla bands, who have levied heavy contributions upon our citizens without much respect to their political antecedents, At first their raids were made at night and none but those friendly to them knew where they came from.</p>
 <p>More recently, however, they have abandoned their night forays, and come in broad day light to the very gates of our City, robing, beating, and murdering our citizens.</p>
 <p>The last raid resulted in the death of two of our best citizens, and the killing of three of the band, and the wounding<pb/>
-<lb/>of three others of them. It was at first supposed that two of them killed at Jeffersontown were Federal soldiers, taken prisoners by the gurillas but we are all satisfied that they were deserters &amp; gurillas. Our people are now pretty thoroughly aroused, and are anxious to have them pursued and exterminated. When pursued, these cut throats flee to the Salt River hills and scatter about among their friends and cant be found. We know who many of their aiders and abettors are but have no power to punish. The Military Authorities give us but little protection. We want something of our own that will be more efficient. It is proposed by some to raise 100 men in our county at our own expense! the amount to be raised by a tax levied by the County Court. I do not believe we can do that without an enabling act from the Legislature. Others propose<pb/>
-<lb/>to raise the money by contribution, all seem to <hi rend="str">be agreed</hi> agree that we must have the men, mounted and equiped, to give us that protection we so much need, or we must quit our homes, for life and property are without any security whatever. Some have left &amp; others think of doing so.</p>
-<p>At the last session of the Legislature, we authorized you to raise troops for State defense, and made provision for their payment &amp;c. Cant we have authority from you to raise one company of mounted men? They could keep this county clear of those thieves, and <hi rend="underline">clean</hi> <hi rend="underline">out</hi> Spencer &amp; Nelson Counties. We can get the men, most of them Veterans, who cannnot stay at home for fear of being murdered, and I can suggest officers that are tried, &amp; discreet &amp; brave. If you will send a captains commission to Capt W H Ayers, we may soon rest safely.<pb/>
-<lb/>Again, in regard to the Militia of the county, I, as Lieut Col of the 25" district have made some effort to get them organized. I have one company only. What must be done with those districts that neglect to elect their officers? Can I appoint them? Can I call them out in any emergency, with any authority to compell obedience? Can Captains of companies, compell its members to take turns in standing guard, or do any other similar duties that the occasion may require?</p>
-<p>Have they, or I the right to order the search &amp; arrest of suspicious characters who, we have the very best reason to believe travel our roads, on stages &amp; in wagons, and otherwise in the capacity of Spies, looking perfectly innocent, when in a few days or hours after, they are probably among us in a different garb, robbing, burning &amp; murdering?</p>
+<lb/>of three others of them. It was at first supposed that two of them killed at Jeffersontown were Federal soldiers, taken prisoners by the gurillas but we are all satisfied that they were deserters &amp; gurillas. Our people are now pretty thoroughly aroused, and are anxious to have them pursued and exterminated. When pursued, these cut throats flee to the Salt River hills and scatter about among their friends and cant be found. We know who many of their aiders and abettors are but have no power to punish. The Military Authorities give us but little protection. We want something of our own that will be more efficient. It is proposed by some to raise 100 men in our county at our own expense: the amount to be raised by a tax levied by the County Court. I do not believe we can do that without an enabling act. from the Legislature. Others propose<pb/>
+<lb/>to raise the money by contribution, all seem to <hi rend="str">be aggreed</hi> agree that we must have the men, mounted and equiped, to give us that protection we so much need, or we must quit our homes, for life and property are without any security whatever. Some have left &amp; others think of doing so.</p>
+<p>At the last session of the Legislature, we authorized you to raise troops for state defense, and made provision for their payment &amp;c. Cant we have authority from you to raise one company of mounted men? They could keep this county clear of those thieves, and <hi rend="underline">clean</hi> <hi rend="underline">out</hi> Spencer &amp; Nelson Counties. We can get the men, most of them Veterans, who cannnot stay at home for fear of being murdered, and I can suggest officers that are tried, &amp; discreet &amp; brave. If you will send a captains commission to Capt W H Ayrs, we may soon rest safely,<pb/>
+<lb/>Again, in regard to the Militia of the county, I, as Lieut Col of the 56" district have made some effort to get them organized. I have one company only. What must be done with those districts that neglect to elect their officers? Can I appoint them? Can I call them out in any emergency, with any authority to compell obedience? Can Captains of companies, compell its members to take turns in standing guard, or do any other similar duties that the occasion may require?</p>
+<p>Have they, or I the right to order the search &amp; arrest of suspicious characters who, we have the very best reason to believe travel our roads, on stages &amp; in wagons, and otherwise in the capacity of spies, looking perfectly innocent, when in a few days or hours after, they are probably among us in a different garb, robing, burning &amp; murdering?</p>
 <p>Will you, in reply, please give me such information &amp; Such instruction, as you may deem necessary, &amp; oblige</p>
 <p>Your Friend &amp; Obt Servt
 <lb/>W M Allen<pb/></p>
@@ -82,14 +84,14 @@
 <lb/>Jefferson Co Ky
 <lb/><date when="1864-12-24">Dec 24" 1864</date><figure type="hr"/>
 <lb/>Allen W. M.<figure type="hr"/>
-<lb/>To the Gov-<figure type="hr"/></p>
-<p>Asks authority for Capt W. H. Ayrs to raise a Co- In regard to the Militia, what must be done with those distructs that neglect to elect officers can he call them out in any emergency? Can Capt<hi rend="underline"><hi rend="sup">s</hi></hi> force thier Co<hi rend="underline"><hi rend="sup">s</hi></hi> to do duty. Have they right to arrest and search suspicious characters -- <figure type="hr"/></p>
-<p>Issue authority for a Co in State Guard
-<lb/>D. W. Lindsey
-<lb/>Inspt &amp; Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky
-<lb/><unclear/> issd &amp; <unclear/>
-<lb/><date when="1863-01-05">Jany 5, 1863</date><figure type="hr"/>
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-12-26">Dec 26" 1864</date></p>
+<lb/>To the Gov -- <figure type="hr"/></p>
+<p>Asks authority for Capt W. H. Ayrs to raise a Co -- In regard to the Militia, what must be done with those districts that neglect to elect officers can he call them out in any emergency? Can Capt<hi rend="underline"><hi rend="sup">s</hi></hi> force their Co<hi rend="underline"><hi rend="sup">s</hi></hi> to do duty- Have they right to arrest and search suspicious characters -- <figure type="hr"/></p>
+<p>Issue authority for a Co in State Guard</p>
+<p>D, W, Lindsey
+<lb/>Inspt &amp; Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky</p>
+<p>Authy issd &amp; deld
+<lb/><date when="1865-01-05">Jany 5. 1865</date><figure type="hr"/></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-12-26">Dec 26" 1864</date></p>
   </body>
  </text>
 </TEI>

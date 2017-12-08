@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0036"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,42 +65,43 @@
   <body>
    <p>Madisonville Ky <date when="1865-02-28">28<hi rend="sup">th</hi> February 1865</date>
 <lb/>His Exelency Thomas E. Bramlett
-<lb/>Governor of Kentucky</p>
-<p>The undersigned citizens of Madisonville Hopkins County Ky and vicinity would respectfully represent to your Excellency that a number of our Vetran Soldier boys from the Old 17<hi rend="sup">th</hi> and other regiments have recently returned home and they feel that it is a great hardship after having faithfully served there country for nearly four years to be hunted harrassed and murdered by Guerilla Scoundrels Wherefore we these friends and neighbours Join with them in urgently soliciting your Excellency to grant to capt John H. Frost a returned Vetran Capt of ^the^ old 17 Ky Volunteers a commission to rais a company of state guards Capt Frost will rais his company mainly in this county and it will consist mainly of returned vetrans they deem this the best course for there safety and ^to^ rid the country of guerillas they would make but one condition that is that they be permited to ^make^ Madisonville Ky there Head Quarters when not on active duty we hope our request will be approved by you and a commission Sent to Capt Frost to rais a company of Mounted Infantry to be attached to any Regiment you may designate the company raised in this<pb/>
-<lb/>county to have the privilege of making this place there headwuarters we are Dear Sir yours truly</p>
+<lb/>Governer of Kentucky</p>
+<p>The undersigned citizens of Madisonville Hopkins County Ky and vicinity would respectfully represent to your Excellency that a number of our Vetran Soldier boys from the Old 17<hi rend="sup">th</hi> and other regiments have recently returned home and they feel that it is a great hardship after having faithfully served there country for nearly four years to be hunted harrassed and murdered by Guerilla Scoundrels wherefore we there friends and neighbours Join with them in urgently soliciting your Excellency to grant to capt John H. Frost a returned Vetran Capt of ^the^ old 17 Ky Volunteers a commission to rais a company of state guards Capt Frost will rais his company mainly in this county and it will consist mainly of returned Vetrans they deem this the best course for there safety and ^to^ rid the country of guerillas they would make but one condition that is that they be permited to ^make^ Madisonville Ky there Head Quarters when not on active duty we hope our request will be approved by you and a commission sent to Capt Frost to rais a company of Mounted Infantry to be attached to any Regiment you may designate the company raised in this<pb/>
+<lb/>county to have the privilege of making this place there headquarters we are Dear Sir yours truly</p>
 <p>James W. Wilkins
 <lb/>O. Waddell
 <lb/>J Frost
-<lb/>W M Brownine
+<lb/>W M Browning
 <lb/>Abel Newbrough
 <lb/>J B Earle
-<lb/>S. Rout
+<lb/>S. Rorer
 <lb/>Dick Littlepage
 <lb/>J D Browning
 <lb/>F. M. Nisbet
-<lb/>C. A. Bowrland
-<lb/>C H. Young
+<lb/>C. A. Bourland
+<lb/>C. H. Young
 <lb/>B F Young
 <lb/>Moses Clift
 <lb/>W<hi rend="sup">m</hi> W Cardwell
-<lb/>Thos J M<hi rend="sup">c</hi>Ewen
-<lb/>H H Bourland
+<lb/>Tho<hi rend="sup">s</hi> J M<hi rend="sup">c</hi>Ewen
+<lb/>H F Bourland
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L. Gordon
 <lb/>Thomas H Goodloe
-<lb/>D. E. Randall
+<lb/>D, E, Randall
 <lb/>Benjamin Pritchett
 <lb/>S. O. Stephens
 <lb/>J M Compton
-<lb/>George L Weatherly<pb/>
-<lb/>17 
-<lb/>Madisonville Ky
+<lb/>George L Weatherly<pb/></p>
+<p>17 </p>
+<p>Madisonville Ky
 <lb/><date when="1865-02-28">Feby. 28" 1865</date><figure type="hr"/>
-<lb/>Wilkins James W. And others.<figure type="hr"/>
+<lb/>Wilkins James W.
+<lb/>And others,<figure type="hr"/>
 <lb/>T The Gov.<figure type="hr"/></p>
-<p>Ask that authority be given John H. Frost late capt. 17" Ky Vols, to raise a Co. of veterans for state service, headquarters to be at Madisonville Ky.<figure type="hr"/>
-<lb/>no an chg
+<p>Ask that authority be given John H. Frost late capt. 17" Ky Vols, to raise a Co. of veterans for state service, headquarter to be at Madisonville Ky -- <figure type="hr"/></p>
+<p>no an chg
 <lb/>L. B. No 10 <date when="1865">1865</date> P461<figure type="hr"/>
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-03-04">4 Mar. 1865</date></p>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-03-04">4 Mar, 1865</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0018"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,17 +66,17 @@
    <p>Tho his Excellency Beriah Magoffin,
 <lb/>The Governor of Kentucky</p>
 <p>A vacancy now exists in this, (Hays' Springs) District, for Magistrate or "Justice of the Peace" occasioned by the death of Isaac Mills; now we the undersigned pray your Excellency to fill said vacancy, and earnestly recommend our fellow citizen Oliver. C. Curry as every way qualified and worthy of said office</p>
-<p>I, Jno. A. Hays J. P. J C. do hereby certify that Isaac Mills was my colleague as acting "Justice of the Peace" for this Hays' Springs" District for the County of Jefferson and state of Kentucky -- and that he has departed this life <hi rend="str">a</hi> </p>
-<p>Jno. A. Hays J. P. J. C
-<lb/><milestone unit="column" n="2"/><cb n="1"/>Bland B. M<hi rend="underline"><hi rend="sup">c</hi></hi><unclear>Reaig</unclear>
+<p>I, Jno. A. Hays J. P. J C. do hereby certify that Isaac Mills was my colleague as acting "Justice of the Peace" for this Hays' Springs" District for the County of Jefferson and state of Kentucky- and that he has departed this life</p>
+<p><hi rend="underline">Jno. A. Hays</hi> J. P. J. C
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Bland B. M<hi rend="underline"><hi rend="sup">c</hi></hi>Keaig
 <lb/>J, H, Leatherman
 <lb/>S M Hobbs
 <lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> Hays
-<lb/>Jonathan M<hi rend="underline"><hi rend="sup">c</hi></hi>Roaig
-<lb/>Henry Mc<unclear>Reaig</unclear>
+<lb/>Jonathan M<hi rend="underline"><hi rend="sup">c</hi></hi>Koaig
+<lb/>Henry M<hi rend="underline"><hi rend="sup">c</hi></hi>keaig
 <lb/>Levi. Frederick</p>
-<p>Deiming the above names sufficient I remain respectfully yours
-<lb/>Oliver. C. Curry</p>
+<p>Deiming the above names sufficient I remain respectfully yours</p>
+<p>Oliver. C. Curry</p>
 <p>Hon. B. Magoffin
 <lb/>Gov. Kentucky
 <lb/><date when="1860-11-21">Nov 21<hi rend="sup">st </hi>1860</date>
@@ -82,11 +85,12 @@
 <lb/>Andrew. J. Miller
 <lb/>Peter W Hayes
 <lb/>James Grigsby
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Thirston
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Thirton
 <lb/>Sampson Wigginton
-<lb/>Ja<hi rend="sup">s</hi>. R. Hall
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi>. R. Hall
 <lb/>A P Hayes
 <lb/>M. W, Wakefield
+<lb/>Jacob Wise
 <lb/>Henry. A. Hays
 <lb/>Buford. Gentry<milestone unit="column" n="1"/><pb/></p>
 <p>Jefferson Co</p>
@@ -96,7 +100,7 @@
 <lb/>Hays Spring Dist
 <lb/>O. C. Curry
 <lb/><hi rend="underline">vice</hi>
-<lb/>J. Wills dec<hi rend="sup">d</hi>
+<lb/>J. Mills dec<hi rend="sup">d</hi>
 <lb/><date when="1860-11-27">Nov. 27. 1860</date></p>
   </body>
  </text>

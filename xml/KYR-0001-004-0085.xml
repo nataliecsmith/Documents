@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0085"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,16 +66,15 @@
    <p>State of Kentucky
 <lb/><date when="1863-08">August Term 1863</date></p>
 <p>Fayette Circuit Court
-<lb/><date when="1863-08-10">August 10th 1863</date></p>
+<lb/><date when="1863-08-10">August 10" 1863</date></p>
 <p>Commonwealth of Kentucky Plaintiff
-<lb/>against } On sum<hi rend="sup">s</hi> in For Bail Bond
+<lb/>against &#125; On sum<hi rend="sup">s</hi> in For: Bail Bond
 <lb/>Nathan Bibb &amp; others Defendants</p>
-<p>The Defts Nathan Bibb, George W Dupee General Douglass having been duly Summoned and failing to answer, it is ordered &amp; adjudged that the Plaintiff recover of said Bibb, Dupee &amp; Douglass. Fifty Dollars, the Debt in the Summons mentioned also her costs herein -- </p>
-<p>A copy att Jno B Norton C F C C<pb/></p>
+<p>The Defts Nathan Bibb, George W Dupee &amp; General Douglass having been duly Summoned and failing to answer, it is ordered &amp; adjudged that the Plaintiff recover of said Bibb, Dupee &amp; Douglass, Fifty Dollars, the Debt in the Summons mentioned &amp; also her costs herein -- </p>
+<p>A copy att <hi rend="underline">Jno B Norton</hi> cfcc<pb/></p>
 <p>Comwealth Ky
-<lb/>vs
-<lb/>Bibb &amp;c
-<lb/>Copy Judgt</p>
+<lb/>vs &#125; copy Judgt
+<lb/>Bibb &amp;<hi rend="sup">c</hi> </p>
   </body>
  </text>
 </TEI>

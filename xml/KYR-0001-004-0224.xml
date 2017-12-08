@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0224"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">George W. Kinsor et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">George W. Kinsor to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4343</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,24 +62,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Thomas E Bramlett Gov of the Commonwealth of Ky. Your petitioner George W Kinsor would most respectfully represent into your Excellency, that at the <date when="1862-04">April Term 1862</date>, of the Knox Circuit Court, he was indicted for the offense of "Keeping a Tipling House" and at the <date when="1863-09">September Term 1863</date> of the Knox Circuit Court he appeared in open court and plead guilty to said charge whereupon a fine of $60 was assed against him. He says that the facts in said case are about as follows that just a short time before the finding of the indictment he moved to this Knox Co Ky from Tennessee, and purchased a farm upon which was a "Tavern Stand" and afterwards bought some liquors with a view to go to tavern keeping, that when he was ready to procur his license, the County Judge of Knox Co Ky and every resident lawyer was absent from the County in consequence of rebel invasion, and he could not obtain any legal advice upon the matter that he advised with a justice of the Peace, who advised him that he could sell liquor untill a County Court was held and there procur his license, and all would be right, that he did obtain his license at the first court held, but had sold liquors before. He acted upon the advice of the Justice supposing he knew the law He says that he has always endeavored to be obedient to the laws that he is a loyal man and an obedient citizen the premises considered he prays that your Excellency<pb/>
+   <p>To His Excellency Thomas E Bramlett Gov of the Commonwealth of Ky, Your petitioner George W Kinsor would most respectfully represent unto your Excellency, that at the <date when="1862-04">April Term 1862</date>, of the Knox Circuit Court. he was indicted for the offense of "Keeping a Tipling House" and at the <date when="1863-09">September Term 1863</date> of the Knox Circuit Court. he appeared in open court and plead guilty to said charge whereupon a fine of &#36;60 was assed against him. He says that the facts in said case are about as follows that just a short time before the finding of the indictment he moved to this Knox Co Ky from Tennessee, and purchased a farm upon which was a "Tavern stand" and afterwards bought some liquors with a view to go to tavern keeping, that when he was ready to procur his license, the County Judge of Knox Co Ky and every resident lawyer was absent from the County in consequence of rebel invasion, and he could not obtain any legal advice upon the matter that he advised with a justice of the Peace, who' advised him that he could sell liquor untill a County Court was held and then procur his license, and all would be right, that he did obtain his license at the first Court held, but had sold liquors before, He acted upon the advice of the Justice supposing he knew the law He says that he has always endeavored to be obedient to the laws that he is a loyal man and an obedient citizen the premises considered he prays that your Excellency<pb/>
 <lb/>may extend to him the arm of your Executive clemency and remit the fine as aforesaid</p>
 <p>George W Kinsor</p>
 <p>Sworn to before me by George W Kinsor <date when="1863-10">October 1863</date></p>
 <p>James T Goshen J P</p>
 <p>We the undersigned would like to see your Excellency remit the fine against Mr Kinsor</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>F. P. Stickley
-<lb/>J. W. Anderson
+<p><milestone unit="column" n="2"/><cb n="1"/>F. P. Stickly
+<lb/>J, W, Anderson
 <lb/>Ja<hi rend="sup">s</hi> T Goshen
 <lb/>R Herndon
-<lb/>J. W. Ridgell
-<lb/>W. B. Anderson
+<lb/>J, W, Ridgell
+<lb/>W, B, Anderson
 <lb/>W<hi rend="sup">m</hi> Tuggle
-<lb/>Thomas G. Pitzer
-<lb/><cb n="2"/>M. M. Pope P. J. R. C. C
-<lb/>Alfred Tinsley Clk R. C. C
-<lb/>J. W. Davis M. H. Regt
-<lb/>John Brogmes<milestone unit="column" n="1"/><pb/></p>
+<lb/>Thomas J Pitzer
+<lb/><cb n="2"/>W. W. Pope P. J. K. C. C
+<lb/>Alfred Tinsley Clk K. C, C
+<lb/>J. W. Davis M. H. Rept
+<lb/>John Brogans<milestone unit="column" n="1"/><pb/></p>
 <p>Knox Cir Court
 <lb/>vs
 <lb/>George W Kinsor
@@ -84,7 +87,7 @@
 <p>Remit all except fees &amp; costs
 <lb/><date when="1863-10-24">Oct 24<hi rend="sup">th</hi> 1863</date>
 <lb/>Tho Bramlette</p>
-<p>$60.
+<p>&#36;<hi rend="str">2</hi>60,
 <lb/>Tipling</p>
   </body>
  </text>

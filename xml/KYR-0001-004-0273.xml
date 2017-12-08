@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0273"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,23 +62,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Tho E Bramlette Govr Ky</p>
-<p>your petitioner Jeremiah Cash would state that on the <date when="1859-07-13">13<hi rend="sup">th</hi> of July 1859</date> he was fined sixty Dollars by the Hardin Circuit Court for keeping a Tipling House</p>
-<p>your petitioner states that he was nearly blind &amp; unable to do any thing to support his family &amp; his neighbors advised him to set up a little grocery &amp; that as he was too poor to pay for a license and blind that he would be in ^no^ danger. your petitioner was not well posted in law &amp; driven to necessity did sell some whiskey &amp; when Indicted for it came to court made no defenses acknowledged the act &amp; asked for mercy, but the Jury had to find against him</p>
+   <p>To His Excellency Tho E Bramlette Gov Ky</p>
+<p>your petitioner Jeremiah Cash would state that on the <date when="1857-07-13">13<hi rend="underline"><hi rend="sup">th</hi></hi> of July 1857</date> he was fined sixty Dollars by the Hardin Circuit Court for keeping a Tipling House</p>
+<p>your petitioner states that he was nearly blind &amp; unable to do any thing to support his family &amp; his neighbors advised him to set up a little grocery &amp; that as he was too perr to pay for a license and blind that he would be in ^no^ danger -- your petitioner was not well posted in law &amp; driven to necessity did sell some whiskey &amp; when Indicted for it came to court made no defence acknowledged the act &amp; asked for mercy, but the Jury had to find against him</p>
 <p>Petitioner states that he is yet nearly blind &amp; poor &amp; a family of six children to support, that since he was indicted he quit selling and asks your excellency as an act of mercy to remit the fine
 <lb/><date when="1863-11-23">Nov. 23<hi rend="sup">d</hi> 1863</date></p>
 <p>Jeremiah Cash<pb/></p>
 <p>We the undersigned are acquainted with the petitioner and believe he has told the truth about the matter named therein &amp; hope the fine will be remitted <date when="1863-11-23">Nov 23<hi rend="sup">d</hi> 1863</date></p>
-<p>Saml Haycraft
+<p><hi rend="underline">Sam</hi><hi rend="underline"><hi rend="sup">l</hi></hi><hi rend="underline"> Haycraft</hi>
 <lb/>A. H. Cunningham<pb/></p>
 <p>Hardin Cir Ct
-<lb/>vs
-<lb/>J. Cash
-<lb/>$60 -- 
-<lb/>Tipling
-<lb/><date when="1863-12-07">7<hi rend="sup">th</hi> Dec/ 63</date></p>
+<lb/>vs</p>
 <p>Remit all except fees &amp; costs
 <lb/>T E Bramlette</p>
+<p>J. Cash
+<lb/>&#36;60 -- 
+<lb/>Tipling
+<lb/><date when="1863-12-07">7<hi rend="sup">th</hi> Dec/63</date></p>
   </body>
  </text>
 </TEI>

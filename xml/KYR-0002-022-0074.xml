@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0074"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,22 +65,22 @@
   <body>
    <p>Covington <date when="1862-08-18">Aug 18<hi rend="sup">th</hi> 1862</date>
 <lb/>Dear Genl</p>
-<p>I learn from Crockett Sayres -- who has just called in to write a <unclear>"puff"</unclear> for the galorious 32 Ky Regt'_ that you are up to the armpits in business</p>
-<p>The morning papers announce a change of administration at Frankfort -- The whole arrangement I think will prove eminently satisfactory every where. I know it will here.</p>
-<p>It is unbecoming, at any time, in me at least, to rejoice over anybodys downfall. The solid truth of the matter is however that our Senator would have been sadly out of place as to qualifications in the Gov's Chair to say nothing of the taste of the the thing. I hope your agency in the matter -- if you had any -- was not of such a nature as to do you any<pb/>
-<lb/>injury. "Old Ball" as the junior very incoerently used to style him will make a glorious Gov of Ky. He has all the elements -- a Kentuckian -- has talents of the first order and character unassailed. We are certainly getting back under the old <hi rend="underline">regime</hi> and its high time too that we were.</p>
-<p>The matter is attended with one personal regret so far as I am concerned and that is parting with M<hi rend="sup">r</hi> Temple whom I respected so sincerely and with whom I had become so well acquainted as in our correspondence to drop all mere punctilios -- I have never met with a gentlemen in whose integrity and purity I had more implicit confidence. I shall remember him always most gratefully and most kindly</p>
-<p>Jennie was in town at church yesterday with the Pierces. the looks well<pb/>
-<lb/>and grows apace. Says all are well at home and that she is about making a visit to Ohio_ where, I did'nt ask. I wrote you on Saturday -- I hate to ask you to take care of me as no doubt many others with perhaps better claims are doing the same thing.</p>
-<p>I see nothing in the papers as to what is being done at Washington -- It looks to me that it is time something definite should be known</p>
-<p>You must write to me when you can find time to do so -- I will write as often as I please and shall not wait for answers</p>
+<p>I learn from Crockett Sayres -- who has just called in to write a "puff" for the galorious 32 Ky Regt' -- that you are up to the armpits in business</p>
+<p>The morning papers announce a change of administration at Frankfort- The whole arrangement I think will prove eminently satisfactory every where -- I know it will here-</p>
+<p>It is unbecoming, at any time, in me at least, to rejoice over anybodys downfall- The solid truth of the matter is however that our Senator would have been sadly out of place as to qualifications in the Gov<hi rend="sup">s</hi> Chair to say nothing of the <hi rend="underline">taste</hi> of the the thing- I hope your agency in the matter- if you had any- was not of such a nature as to do you any<pb/>
+<lb/>injury- "Old Ball" as the junior very incoerently used to style him will make a glorious Gov of Ky- He has all the elements- a Kentuckian- has talents of the first order and character unassailed- We are certainly getting back under the old <hi rend="underline">regime</hi> and its high time too that we were.</p>
+<p>The matter is attended with one personal regret so far as I am concerned and that is parting with M<hi rend="sup">r</hi> Temple whom I respected so sincerely and with whom I had become so well acquainted as in our correspondence to drop all mere punctilios- I have never met with a gentlemen in whose integrity and purity I had more implicit confidence- I shall remember him always most gratefully and most kindly</p>
+<p>Jennie was in town at church yesterday with the Pierces- she looks well<pb/>
+<lb/>and grows apace- Says all are well at home and that she is about making a visit to Ohio- where, I did'nt ask. I wrote you on Saturday- I hate to ask you to take care of me as no doubt many others with perhaps better claims are doing the same thing.</p>
+<p>I see nothing in the papers as to what is being done at washington- It looks to me that it is time something definite should be known</p>
+<p>You must write to me when you can find time to do so- I will write as often as I please and shall not wait for answers</p>
 <p>Very Truly
 <lb/>R A Athey.<pb/></p>
 <p>R. A. Athey
 <lb/>Covington Ky
-<lb/><date when="1862-08-18">Aug. 18"/62</date><figure type="hr"/>
+<lb/><date when="1862-08-18">Aug. 18"/62.</date><figure type="hr"/>
 <lb/>Athey R. A.<figure type="hr"/>
-<lb/>change of Admin<hi rend="sup">n</hi> at Frankfort</p>
+<lb/>change of Admin<hi rend="underline"><hi rend="sup">n</hi></hi> at Frankfort.</p>
   </body>
  </text>
 </TEI>

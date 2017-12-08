@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0070"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,18 +63,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>2nd dispatch of this date
+   <p>2<hi rend="sup">nd</hi> dispatch of this date
 <lb/>Union City Tenn
 <lb/><date when="1861-06-02">June 2<hi rend="sup">nd</hi> 1861</date>
 <lb/>To Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Magoffin</p>
-<p>Sir I have just been shown the Louisville Journal of the <date when="1861-05-30">30<hi rend="sup">th</hi> May</date> Int, in which amongst other things it is charged that the Guns belonging Maj. Tilghmans regiment, togather with the Small arms, had been run out to Mayfield to be ready to support a Secession Movement, in Connexion with the Tennessee troops, This whole thing is a sheer fabrication</p>
+<p>Sir I have just been shown the Louisville Journal of the <date when="1861-05-30">30<hi rend="sup">th</hi> May</date> Int, in which amongst other things it is charged that the Guns belonging Maj<hi rend="underline"><hi rend="sup">r</hi></hi> Tilghmans regiment, togather with the Small arms, had been run out to Mayfield to be ready to support a Secession Movement, in Connixion with the Tennessee troops, This whole thing is a sheer fabrication</p>
 <p>The guns were sent to Mayfield to insure their safety; It was reported that an attempt would be made by marauding parties, to seize them and as there was no amunition or any efficient protection by small arms or an arsenal, or<pb/>
-<lb/>in fact any place of Safety for the battery or Small arms the Commanding officer Maj<hi rend="underline"><hi rend="sup">r</hi></hi> Tilghman Verry properly removed them to Mayfield, where there is an adequate guard, to protect them The Movement had nothing on earth to do with politics, or the state of Tennessee or any thing else, except the absolute safety of the arms -- </p>
-<p>In regard to all the other charges in the Same article in the Journal they are all false, as any gentlman May know by inquiring into it, and I respectfully ask that a Committe May be appointed by you ^to be^ <hi rend="str">and</hi> Elected by the "Statesman Editor" of the Louisville Journal himself to investigate all the charges &amp; insinuations Contained in his paper, as to the disloyalty of Paducah, &amp; the Southern part<pb/>
-<lb/>of the State -- Their safety shall be guaranteed, and their expenses paid while in Purchase</p>
-<p>There is a pack of bad men who are trying to bring ruin upon the Country, and they are doing it under the potent name of the Union </p>
-<p>I will say, that not a man has been whipped, or driven off, or otherwise Maltreated on account of his opinion nor has his business been interfeared with in any way, as I am informed by ^some of^ the most respectable people here </p>
-<p>I Say again we demand an investigation, and will ask that the <hi rend="str">names</hi> parties giving the information may be brought to light</p>
+<lb/>in fact any place of Safety for the battery or Small arms the Commanding officer Maj<hi rend="underline"><hi rend="sup">r</hi></hi> Tilghman Verry properly removed them to Mayfield, where there is an adequate guard, to protect them The Movement had nothing on earth to do with politics, or the state of Tennessee or any thing else, except the absolute safety of the arms--</p>
+<p>In regard to all the other charges in the same article in the Journal they are all false, as any gentlman May know by inquireng into it, and I respectfully ask that a Committee May be appointed by you ^to be^ <hi rend="str">and</hi>Elected by the "Statesman Editor" of the Louisville Journal himself, to investigate all the charges &amp; insinuations contained in his paper, as to the disloyalty of Paducah, &amp; the Southern part<pb/>
+<lb/>of the State-- Their safety shall be guaranteed, and their expenses paid while in Purchase</p>
+<p>There is a pack of bad men who are trying to bring ruin upon the country, and they are doing it under the potent name of the Union </p>
+<p>I will say, that not a Man has been whipped, or driven off, or otherwise Maltreated on account of his opinion nor has his business been interfeared with, in any way, as I am informed by ^some of^ the Most respectable people here </p>
+<p>I Say again, we demand an investigation, and will ask that the <hi rend="str">names</hi> parties giving the information may be brought to light</p>
 <p>I have the honor to be &amp;C. &amp;C.
 <lb/>Jno M Johnson</p>
   </body>

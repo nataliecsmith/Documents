@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1450"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,29 +63,29 @@
  </teiHeader>
  <text>
   <body>
-   <p><note place="header">N<hi rend="sup">o</hi>. 1.</note>
+   <p><note place="header">N<hi rend="underline"><hi rend="sup">o</hi></hi> 1.</note>.
 <lb/>To His Excellency
-<lb/>B. Magoffin
+<lb/>B. Ma<hi rend="str">C</hi>goffin
 <lb/>Governer.</p>
-<p>The undersigned would respectfully beg leave to represent to your Excellency that at the late term of the Kenton Circuit Court two indictments were returned against William Nichols by the grand jury accusing him of cutting and one G. W. Duffey and one Reffert with intent to kill them. Upon these two indictments the said Nichols was tried by the same jury and at the Same time and found guilty, and the jury fixed his punishment at one year and six months in the penitentiary in each case; and sentences and judgements were accordingly pronounced. The following is a brief statement of the facts as shown upon the trial.</p>
-<p>The cutting and stabbing took place about the <date when="--09-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> of September.</date> Some four or five days before that time, the prisoner had in consequence of his wife harboring about his house a woman named Finn, a difficulty with her (his wife) and had therefore been boarding away from home. On the evening of the cutting he had returned to his house to give his wife his week's wages, which he did. He then<pb/>
-<lb/>left the house -- In a short time after, Duffey and Reffert came to his house, as they stated on the witness stand to see the woman Finn They came in the evening after dark or about "candle lightening" went in and the front part of the house was locked up It was further shown that soon after they were in, they were asked to drink by Mr. Finn or M<hi rend="sup">rs</hi>. Nichols -- that they drank what whiskey there was in the house and then the woman Finn and Riffert took a pitcher, went out a bought more. -- that shortly after they, Duffey &amp; Riffert went in there was dancing and singing &amp; drunken revelry heard in the house so as greatly to disturb the neighborhood (being Bush Street in Covington) which continued Some two or three hours. At the end of this time Nichols was seen to go to the front door and try to open it. Finding it locked he looked in at a front window, hesitated, then went and looked in at a side window. He then went round and entered by a back door. Duffey and Riffert say they were assaulted before they knew there was any one present but the two women &amp; the children, and of their own knowledge could not state who cut them: other witness stated that when they went in, which way<pb/>
-<lb/>immediately after Nichols they found him with a knife or sword in his hand some 18 inches in length, and the two men on the floor. The woman Finn was not a witness on the trial. Duffey had a severe cut on the side of his face and Riffert on his wrist -- both also had some slight cuts in other parts. The wounds of neither were from the first, by the attending physicians considered such as to endanger life, and both are now nearly convalescent -- It was shown that the prisoner was so deaf as to be able to hear nothing of ordinary conversation. The witness gave him an excellent character; -- that he was always as an industrious quiet and inoffensive man. The witness Duffey, most severely injured was shown, and by the Commonwealth's attorney, admitted to be a man of notoriously bad character; a convicted keeper of a house of prostitution of which his wife and daughter were intimates -- that his business was that of a keeper of a house of ill-fame. Riffert, being from the country, his character was not shown; but he states that Duffey was his friend and associate</p>
+<p>The undersigned wuld respectfully beg leave to represent to your Excellency that at the late term of the Kenton Circuit Court two indictments were returned against William Nichols by the grand jury accusing him of cutting and one G. W. Duffey and one Reffert with intent to kill them. Upon these two indictments the said Nichols was tried by the Same jury and at the Same time and found guilty, and the jury fixed his punishment at one year and six months in the penitentiary in each case; and Sentences and judgements were accordingly pronounced. The following is a brief statement of the facts as shown upon the trial.</p>
+<p>The cutting and stabbing took place about the <date when="--09-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> of September</date>. Some four or five days before that time, the prisoner had in consequence of his wife harbering about his house a woman named Finn, a difficulty with her (his wife) and had therefore been boarding away from home. On the evening of the cutting he had returned to his house to give his wife his week's wages, which he did. He then<pb/>
+<lb/>left the house-- In a short time after, Duffey and Reffert came to his house, as they stated on the witness stand to see the woman Finn They came in the evening after dark or about "candle lighting" went in and the front part of the house was locked up It was further shown that soon after they were in, they were asked to drink by M<hi rend="underline"><hi rend="sup">rs</hi></hi> Finn or M<hi rend="underline"><hi rend="sup">rs</hi></hi> Nichols -- that they drank what whiskey there was in the house and then the woman Finn and Riffert took a pitcher, went out a bought more. -- that shortly after they, Duffey &amp; Riffert went in there was dancing and singing &amp; drunken revelry heard in the house so as greatly to disturb the neighborhood (being Bush street in Covington) which continued Some two or three hours. At the end of this time Nichols was seen to go to the front door and try to open it. Finding it locked he looked in at a front window, hesitated, then went and looked in at a side window. He then went round and entered by a back door. Duffey and Riffert say they were assaulted before they knew there was any one present but the two women &amp; the children, and of their own knowledge could not state who cut <hi rend="str">t</hi>hem. other witnesses stated that when they went in, which was<pb/>
+<lb/>immediately after Nichols they found him with a knife a sword in his hand some 18 inches in length, and the two men on the floor. The woman Finn was not a witness on the trial. Duffey had a severe cut on the side of his face and Riffert on his wrist-- both also had some slight cuts in other parts. The wounds of neither were from the first, by the attending physicians. considered such as to endanger life, and both are now nearly convalescent. -- It was shown that the prisoner was so deaf as to be able to hear nothing of ordinary conversation. The witness gave him an excellent character; -- that he was always as an industrious quiet and inoffensive man. The witness Duffey, most Severely injured was shown, and by the Commonwealth's attorney, admitted to be a man of notoriously bad character; a convicted keeper of a house of prostitution of which his wife and daughter were intimates -- that his business was that of a keeper of a house of ill=fame. Riffert, being from the country, his character was not shown; but he states that Duffey was his friend and associate</p>
 <p>In view of the foregoing, and the fact that the prisoner's helpless family of three little children (the eldest but seven years &amp; a cripple) are entirely dependant on his daily labor for their<pb/>
 <lb/>subsistance the undersigned believe this to be a case, preeminently appealing to the Executive clemency. We would therefore pray that your Excellency would grant the said William Nichols a full pardon releasing him from further confinement under the sentences and judgements aforesaid.
 <lb/><date when="1861-10-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> Oct '61</date></p>
 <p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">John S. Nixon</hi>
 <lb/><hi rend="underline">James Ayars, Jr. </hi>
-<lb/><hi rend="underline">James B Gray</hi>
-<lb/>Chas G Wallace.
+<lb/><hi rend="underline">James B. Gray</hi>
+<lb/>Chas, G Wallace.
 <lb/>J. G. Carlisle
-<lb/>A C Ellis
-<lb/>A. H. Herod
-<lb/>W<hi rend="sup">m</hi> H Wood
+<lb/>A, C, Ellis
+<lb/>A, H, Herod
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H Wood
 <lb/><cb n="2"/>John M. Casey
 <lb/>R. Richardson
-<lb/>J. A. Goodson
-<lb/>Jno E Hamilton
+<lb/>J A Goodson
+<lb/>Jno E Hamilton,
 <lb/>Clinton Butts<milestone unit="column" n="1"/></p>
 <p>From what I have heard of the circumstances (I did not hear the trial.) I am free to state that my ideas of true courage incline me to the belief that Executive Clemency in the above case will not be misplaced.</p>
 <p>C H Mooar</p>
@@ -90,16 +93,16 @@
 <p>R K Sumerwell
 <lb/>R Simmons</p>
 <p>I saw the man, but did not hear the trial Nichols wife says he is a good man, and she wants him at home to help take care of the children, and that she cannot do it, The gentlemen who have signed the above petition would not sign a petition they did not wish and believe should succeed, I hope you will remember the mans poor children and the chilling blasts of the coming winter when you read the petition</p>
-<p>John F. Fisk <pb/></p>
-<p><note place="header">N<hi rend="sup">o</hi>. 2. </note></p>
+<p>John F. Fisk<pb/></p>
+<p><note place="header">N<hi rend="underline"><hi rend="sup">o</hi></hi> 2</note>.</p>
 <p>To His Excellency
-<lb/>Beriah MaGoffin,
+<lb/>Beriah Ma<hi rend="str">C</hi>goffin,
 <lb/>Governer.</p>
-<p>The undersigned citizens of Covington Ky. respectfully pray that your excellency would grant to William Nichols, now confined in the Penitentiary at Frankfort a full pardon and remission of the convictions and sentences under which he is so confined, being for the cutting and stabbing of one G. W. Duffey and one <gap/> Reffert. The undersigned have known said William Nichols, most of us for many years, and all of us have always known and regarded him as a peaceful, industrious and quiet man -- and we believe that the said charge is the only one of a criminal nature ever made against him. He has a family of little children entirely dependant on his daily labor for support and on their accounts, as well as his own, we ernestly pray that the Executive clemency may be interposed on his behalf.</p>
+<p>The undersigned citizens of Covington Ky. respectfully pray that your excellency would grant to William Nichols, now confined in the Penitentiary at Frankfort a full pardon and remission of the convictions and sentences under which he is so confined, being for the cutting and stabbing of one G. W. Duffey and one <gap/> Reffert. The undersigned have known said William Nichols, most of us for many years, and all of us have always known and regarded him as a peaceful, industrious and quiet man-- and we believe that the said charge is the only one of a criminal nature ever made against him. He has a family of little children entirely dependant on his daily labor for support and on their account, as well as his own, we ernestly pray that the Executive clemency may be interposed in his behalf.</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>John Hogan
 <lb/>H Boleker
 <lb/>James Farrell
-<lb/>T <unclear/>
+<lb/>T <unclear>Smith</unclear>
 <lb/>F. Furner
 <lb/>Henry Moore
 <lb/>Caleb. Broomall
@@ -108,10 +111,10 @@
 <lb/><cb n="2"/>Andrew Hogan
 <lb/>Samuel Hodgetts
 <lb/>James Wilson
-<lb/>Edward M<hi rend="sup">c</hi>Clannon
+<lb/>Edward M<hi rend="sup">c</hi>Clannan
 <lb/>G B Connely
-<lb/>W. J. Hyde
-<lb/>N. Mohan
+<lb/>W, J, Hyde
+<lb/>N -- Mohan
 <lb/>Ch Christ
 <lb/>Denis Maher<pb/>
 <lb/><cb n="1"/>Reuben Jenkins
@@ -121,11 +124,11 @@
 <lb/>H Spenneberg
 <lb/>D Hayer
 <lb/>Jos Broomall
-<lb/>F. M. <unclear/>
+<lb/>F, H, Bratherna
 <lb/>Pritchard currier
 <lb/>Wm Dawton
 <lb/>Johan Jacob
-<lb/>L. M. Rees
+<lb/>L, M, Rees
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Collopy
 <lb/>George B<unclear/>
 <lb/>P Terpel
@@ -134,7 +137,7 @@
 <lb/>Barney Macke
 <lb/>B H Dresman
 <lb/>David Lewis
-<lb/>John Hulton
+<lb/>John Hutton
 <lb/>B Dunkey
 <lb/>James Murphy
 <lb/>isis Johns
@@ -143,63 +146,62 @@
 <lb/>Joseph Howell
 <lb/>Thomas Davies
 <lb/>anthony Powers
-<lb/><unclear/> Droge
-<lb/>Joseph Borgenschutz
+<lb/><unclear/> <unclear>Droge</unclear>
+<lb/>Joseph Bogenschütz
 <lb/>John Wegness
 <lb/>Evan Evans
 <lb/>R Bell
-<lb/>Martin M<hi rend="sup">c</hi>Grain
-<lb/><cb n="2"/>D. H. Montgomery
-<lb/><unclear/> <unclear/>
-<lb/>W Chanington
-<lb/>B Davis
+<lb/>martin M<hi rend="sup">c</hi>Grain
+<lb/><cb n="2"/>D H Montgomery
+<lb/><unclear/> <unclear>Littmann</unclear>
+<lb/>W. Chanington
+<lb/>B, Davis
 <lb/>Jinkin Edwards
 <lb/>David Daniels
-<lb/>Samuel T. Barnes
-<lb/>W<hi rend="sup">m</hi> P. Vaughn 
+<lb/>Samuel T Barnes
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Vaughn 
 <lb/>Price Jones
-<lb/>Mark Lee
+<lb/><unclear/> <unclear/>
 <lb/>Thomas Jones
 <lb/>Anthony Elb
-<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi>. Dowten
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> Dawten
 <lb/>David Price
 <lb/>Thom Burns
-<lb/>Philip Davis
+<lb/>philip Davies
 <lb/>James Downton
 <lb/>Johann Fischer
-<lb/><unclear/> <unclear/>
-<lb/>James Fish
+<lb/>Loranz <unclear/>
+<lb/>James Walsh
 <lb/>Seth Williams
 <lb/>Thomas Hicks
 <lb/>Y G <unclear/>
 <lb/>Thomas E Reese
-<lb/>H Fry
+<lb/>H, <unclear>Fry</unclear>
 <lb/>Theodor Hurst
-<lb/>Clemens Siemer
-<lb/><unclear/> <unclear/>
+<lb/>Clemens <unclear>Siemer</unclear>
+<lb/>H<unclear/> N<unclear/>
 <lb/>Bernad Wenters
-<lb/>Hinrich Siemer
+<lb/>Hinrch Siemer
 <lb/><unclear/>
 <lb/>W <unclear/>
-<lb/>L M Wilcox<milestone unit="column" n="1"/><pb/>
-<lb/>Frank. Horn
+<lb/>L M, Wilcox<milestone unit="column" n="1"/><pb/>
+<lb/>Frank. Hone
 <lb/>Timothy Hennesy
 <lb/>James Donovan
-<lb/>A. P. Harrison
+<lb/>A, P, Harrison
 <lb/>E. Hill
-<lb/>G. Storse
+<lb/>J. Storse
 <lb/><unclear/> Gronfeld
-<lb/>F. F. Dickmann
-<lb/>Garrat Sheilters
+<lb/>F F, Dickmann
+<lb/>Garrat Shülters
 <lb/>Johan Borghes
-<lb/>Hermon <unclear/>
-<lb/>Christian Gesteich
+<lb/>Hermon, <unclear/>
+<lb/>Christian Geestreich
 <lb/>John Evans
-<lb/>Nich<hi rend="underline"><hi rend="sup">s</hi></hi> Keatins<pb/></p>
-<p>This is to certify that I <hi rend="str">have</hi> am Book Keeper at Licking Iron Works where W<hi rend="underline"><hi rend="sup">m</hi></hi> Nickols has worked for several years; that I have known him for nearly three years, and have always considered him an industriuous, and steady man; never having known him to be engaged in any serious difficulties, or fights, until the affair, for which he has been sentenced,</p>
-<p>I know most of the men who have signed the within petition, they are citizens of Covington; most of them opertives in the Mill, who, knowing the inofensive charaster Nickols has always sustained, feel that, if the facts could be brought to the notice of Govenor MaGoffin, their former comrade and friend might, by the exercise of the executive clemency, be restored to them,
+<lb/>Nich<hi rend="underline"><hi rend="sup">s</hi></hi> Keating<pb/></p>
+<p>This is to certify that I <hi rend="str">have</hi> am Book Keeper at Licking Iron Works where W<hi rend="underline"><hi rend="sup">m</hi></hi> Nickols has worked for several years; that I have known him for nearly three years, and have always considered him an industriuous and steady man; never having known him to be engaged in any serious difficulties, or fights, until the affair, for which he has been sentenced, I know most of the men who have signed the within petition, They are citizens of Covington; most of them operatives in the Mill, who, knowing the inofensive charaster Nickols has always sustained, feel that, if the facts could be brought to the notice of Governer M<hi rend="str">C</hi>a<hi rend="str">G</hi>goffin, their former comrade and friend might, by the exercise of the executive clemency, be restored to them,
 <lb/><date when="1861-10-14">Oct, 14th 1861</date></p>
-<p>L. M. Wilcox</p>
+<p>L, M, Wilcox</p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1442"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,30 +65,30 @@
   <body>
    <p>Nelson Cir. Court. <date when="1861-09">Sept. Term 1861.</date>
 <lb/>Commth. of Ky. Plff.
-<lb/>against } Larceny,,
+<lb/>against &#125; Larceny,,
 <lb/>Paul Garris. Defd</p>
-<p>Defendant not appearing though called. It is ordered that the Bail Bond be and the same is hereby declared forfeited, and that process issue thereon, and on further motion of Plantiff ordered that a Bench Warrant issue against the Defendant endorsed that he be admitted to Bail in the sum of $600 for his appearance.</p>
-<p>Nelson Cir. Court, <date when="1862-03">March Term 1862</date>
-<lb/>Commth. of Ky. Plff.
-<lb/>against } Forfeiture of Bail Bonds.
-<lb/>Paul Garris, Jos Henin. &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> Defd.</p>
-<p>The Process herein having been duly executed and the Defend. not appearing, It is ordered and adjudged by the Court, that the Plaintiff recover of the Defendant Jos. Henin, the Sum of Four Hundred Dollars, the amount of the Bail Bond forfeited herein, and the Costs hereof and may have Execution &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
-<p>Nelson Cir. Court, <date when="1861-09">Sep. Term 1861.</date>
+<p>Defendant not appearing though called. It is ordered, that the Bail Bond be and the same is hereby declared forfeited, and that process issue thereon, and on further motion. of Plantiff ordered that a Bench Warrant issue against the Defendant endorsed that he be admitted to Bail in the sum of &#36;600 for his appearance.</p>
+<p>Nelson Cir. Court. <date when="1862-03">March Term 1862</date>
+<lb/>Commth of Ky Plff.
+<lb/>against &#125; Forfeiture of Bail Bonds.
+<lb/>Paul Garris, Jos Henin &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> Defd,,</p>
+<p>The Process herein having been duly executed and the Defend. not appearing, It is ordered and adjudged by the Court, that the Plaintiff recover of the Defendant Jos. Henin, the sum of Four Hundred Dollars, the amount of the Bail Bond forfeited herein, and the costs hereof and may have Execution &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
+<p>Nelson Cir. Court. <date when="1861-09">Sep. Term 1861,</date>
 <lb/>Commth. of Ky. Plff
-<lb/>against } Enticing negroe
+<lb/>against &#125; Enticing negroe
 <lb/>Paul Garris. Defd</p>
-<p>Defendant not appearing though Called. It is ordered that the Bail Bond be and the same is hereby declared forfeited, and the Process issue thereon, and on further motion of Plaintiff it is ordered that an Alias Bench warrant<pb/>
-<lb/>issue endorsed, that he be admitted to give Bail in the Sum of Three Hundred Dollars for his appearance.</p>
+<p>Defendant not appearing though called,, It is ordered that the Bail. Bond be and the same is hereby declared forfeited, and that Process issue thereon, and on further motion of Plaintiff it is ordered that an Alias Bench warrant<pb/>
+<lb/>issue, endorsed, that he be admitted to give Bail in the Sum of Three Hundred Dollars for his appearance,,</p>
 <p>Nelson Cir. Court, <date when="1862-03">March Term 1862</date>
 <lb/>Commth. of Ky. Plff.
-<lb/>against } Forfeiture Bail Bond
-<lb/>Paul Garris, Jos Henin. &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> Defd.</p>
+<lb/>against &#125; Forfeiture Bail Bond
+<lb/>Paul Garris, Jos Henin &amp;<hi rend="sup">c</hi> Defd.</p>
 <p>The process herein having been duly served on the Defd. Jos. Henin, and he not appearing, It is ordered and adjudged by the Court, that the Plaintiff recover of the Defendant Jos. Henin the Sum of Five Hundred Dollars, the amount of the Bail Bond forfeited, and the costs herein expended and may have Execution &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
-<p>The foregonig, are true Copies.
+<p>The foregoing, are true Copies.
 <lb/>Att:
 <lb/><hi rend="underline">Wm Murphy C. N. Cir Co</hi><pb/></p>
-<p>Comth of Ky.
-<lb/>v. } Record
+<p>Comlth of Ky.
+<lb/>vs &#125; Record
 <lb/>Paul Garris &amp;c</p>
   </body>
  </text>

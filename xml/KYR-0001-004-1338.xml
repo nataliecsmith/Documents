@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1338"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">McKenney Maloney et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">McKinney Maloney to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG5975</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,29 +65,30 @@
    <p>To His Excelency
 <lb/>Thos. E. Bramlet
 <lb/>Govenor of Kentucky</p>
-<p>The undersigned Petitioner, McKenney Maloney would most respectfully represent -- that some five or six years ago He was indicted in the Owsley circuit court for keeping a Tipling House.</p>
-<p>That said cause was continued from term to term, sometimes by your Petitioner, and some times by the Comlth.</p>
-<p>That since the Rebelion the courts Have been quite irregular the Judge filing at times to come.</p>
-<p>That at the Last <hi rend="str">May</hi> Spring Term of the Owsley Circuit Court a Judgement was rendered against Him for sixty Dollars &amp; cost</p>
-<p>He says that it was the general impression in the country that no<pb/>
-<lb/>court would be Held at the Term at which Judgement was rendered against Him. That He Had a valid defence and could Have defeated the same if He Had been there -- That owing to the condition of the country the frequent failures of the court to meet that He was not present at the Term when Judgement was rendered</p>
-<p>He further states that at this time He is a soldier in the Kentucky state guards. Has a family with but slight means to subsist upon -- That if His Property is sold under <hi rend="str">the</hi> an Execution <hi rend="str">which is now</hi> it will greatly distress His family in His absence and woul if He ware at Home</p>
+<p>The undersigned Petitioner, McKinney Maloney would most respectfully represent -- that some five or six years ago He was indicted in the Owsley Circuit Court for keeping a Tipling House.</p>
+<p>That said cause was continued from term to term, some times by your Petitioner, and some times by the Comlth.</p>
+<p>That since the Rebelion the courts Have been quite irregular the Judge filing at times to come--</p>
+<p>That at the Last <hi rend="str">May</hi> Spring Term of the Owsley Circuit Court a Judgement was rendered against Him for sixty Dollars &amp; cost.</p>
+<p>He says that it was the general impression <hi rend="str">of</hi>in the Country that no<pb/>
+<lb/>court would be Held at the Term at which Judgement was rendered against Him. That He Had a valid defence and could Have defeated the same if He Had been there-- That owing to the condition of the country, the frequent failures of the court to meet that He was not present at the Term when Judgement was rendered</p>
+<p>He further states that at this time He is a soldier in the Kentucky state guards. Has a family with but slight means to subsist upon -- That if His Property is sold under <hi rend="str">the</hi> an Execution <hi rend="str">which is now</hi> it will greatly distress His family in His absence and woul if He were at Home</p>
 <p>He Has been informed and believes it true that no proof was taken against Him, that a Judgement was rendered by Default</p>
-<p>The Premises considered He asks your Excelency to respite said fine <hi rend="str">which</hi> &amp; cost until the next Term of the Owsley circuit court, That at the <date when="1864-10">Oct. Term <hi rend="str">1864</hi> 1864</date><pb/>
-<lb/>There was no court Held, The Judge of said court Having sent a written order to the clerk, that none would be Held -- and consequently He could take no steps before the court to vacate the Judgement</p>
-<p>Mc Kenney Maloney</p>
-<p>Sworn to before me by the said Mc Kenney Maloney this <date when="1864-11-02">2<hi rend="sup">nd</hi> of November 1864</date></p>
-<p>E. S. Cockrill J P O C</p>
-<p>We the undersigned citizens of Kentucky state that we be believe the affidavt of <unclear><hi rend="str">the</hi></unclear> Petition and would most respectfully ask of your Excelency that His fine be remitted, at Least Respited -- <hi rend="str">most</hi> some of us are soldiers in the state guard</p>
-<p><milestone unit="column" n="1"/><cb n="1"/> Names
+<p>The Premises considered He asks Your Excelency to respite said fine <hi rend="str">until</hi> &amp; cost until the next Term of the Owsley circuit court, That at the <date when="1864-10">Oct. Term <hi rend="str">1864</hi> 1864</date><pb/>
+<lb/>There was no court Held, The Judge of said court Having sent a written order to the clerk, that none would be Held-- and consequently He could take no steps before the court to vacate the Judgement</p>
+<p>McKinney Maloney</p>
+<p>Sworn to before me by the said McKinney Maloney this <date when="1864-11-02">2<hi rend="sup">nd</hi> of November 1864</date></p>
+<p>E, S, Cockrill J E C C</p>
+<p>We the undersigned citizens of Kentucky state that we be believe the affidavt of <hi rend="str"><unclear/></hi> Petitionr and would most respectfully ask of your Excelency that His fine be remitted, at Least Respited -- <hi rend="str">most</hi> some of us are soldiers in the state Guard</p>
+<p><milestone unit="column" n="1"/><cb n="1"/>Names
 <lb/>Harrison Cockrill
-<lb/><cb n="2"/>J A Stampes
+<lb/><cb n="2"/>Names
+<lb/>J A Stamper
 <lb/>E. S. Cockrill
 <lb/>A A Curtis
 <lb/>C. W. Oaks<milestone unit="column" n="1"/><pb/></p>
 <p>Owsley Cir Ct
 <lb/>vs
-<lb/>McKinney Maloney
+<lb/>M<hi rend="sup">c</hi>Kinney Maloney
 <lb/>Respite until <date when="1865-06">June/65</date><figure type="hr"/>
 <lb/><date when="1864-11-08">8<hi rend="sup">th</hi> Nov/64</date></p>
   </body>

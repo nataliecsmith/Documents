@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1371"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,21 +63,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Henderson. Ky <date when="1864-12-29">Dec 29<hi rend="sup">th</hi>/64,</date>
+   <p>Henderson. Ky <date when="1864-12-29">Dec 29<hi rend="sup">th</hi>/64</date>,
 <lb/>Hon Tho's. E. Bramlette:
 <lb/>Sir:</p>
-<p>I herewith transmit to you, a petition in behalf of W. H. Brown, a citizen of Webster county, Not being Known to your Excellency, no statement of mine could add any force to the petition -- but many of the signers are doubtless Known to you, as among the truest and most respectable men of that section of the state, I will say only that from confidential communication with Brown, as his counsel, I am satisfied that the statements of the petition are literally true,</p>
+<p>I herewith transmit to you, a petition in behalf of W. H. Brown, a citizen of Webster county, Not being known to your Excellency, no statement of mine could add any force to the petition -- but many of the signers are doubtless known to you, as among the truest and most respectable men of that section of the state, I will say only that from confidential communication with Brown, as his counsel, I am satisfied that the statements of the petition are literally true,</p>
 <p>The reason for seeking your<pb/>
 <lb/>Excellency's interposition now, rather than after trial, is that it would be a social misfortune for such a man as Brown, and for his family, to bear the stigma of his conviction for a felony, for an act so done, as this the signers of his petition show that the best of the community would so regard it, </p>
 <p>Will your Excellency be kind enough to inform me of your determination touching this petition</p>
-<p>With high consideration
-<lb/>your obt servant
+<p>With high consideration</p>
+<p>Your obt Servant
 <lb/>D. B. Vance<pb/></p>
 <p>Webster Cir Ct
 <lb/>vs
 <lb/>W M Brown
 <lb/>Pardoned
-<lb/><date when="1864-01-03">3<hi rend="sup">d</hi> Jany/65</date></p>
+<lb/><date when="1864-01-03">3<hi rend="sup">d</hi> Jany/6<hi rend="str">3</hi>5</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0028"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,7 +66,7 @@
    <p><figure type="seal"><ab>INDIANA STATE SEAL</ab></figure>
 <lb/>STATE OF INDIANA
 <lb/>Executive Department.
-<lb/>Indianapolis <date when="1863-06-05">June 5 1863</date>
+<lb/>Indianapolis, <date when="1863-06-05">June 5 1863</date>
 <lb/>Governor,</p>
 <p>I write you at the request of some friends of Major Jno. W. Jordan who is now engaged in organizing a regiment of Kentucky Vols. at Covington Ky. He was Major of the 57<hi rend="sup">th</hi> Ind<hi rend="underline"><hi rend="sup">a</hi></hi> for over a year, and is a good drill officer as well as an excellent disciplinarian, and was very popular in the regiment, they having made him a valuable present just previous to his resignation</p>
 <p>I have the honor to be 
@@ -81,8 +84,8 @@
 <lb/>Gov. Ind.<figure type="hr"/></p>
 <p>Recom<hi rend="underline"><hi rend="sup">dg</hi></hi> Maj. Jordan<figure type="hr"/></p>
 <p>Military
-<lb/>Gov. Morton records Jordan
-<lb/>Oliver P. Morton</p>
+<lb/>Gov. Morton recomds Jordan</p>
+<p>Oliver P. Morton</p>
   </body>
  </text>
 </TEI>

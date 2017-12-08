@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0051"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,14 +64,14 @@
  <text>
   <body>
    <p>Shelby County Kentucky
-<lb/><date when="1861-01-14">Jany 14<hi rend="sup">th</hi> 1861 -- </date>
+<lb/><date when="1861-01-14">Jany 14<hi rend="sup">th</hi> 1861</date> -- 
 <lb/>To His Excellency B Magoffin
 <lb/>Governor of Kentucky</p>
 <p>I hereby tender my resignation of the office of Justice of the Peace for the 4<hi rend="sup">th</hi> District of Shelby County Kentucky -- </p>
 <p>Ja<hi rend="sup">s</hi> W Crawford<pb/></p>
-<p>Shelby County
+<p>Shelby Co
 <lb/>J. P.
-<lb/>J. E Sodousky
+<lb/>J. E Sod<hi rend="str">u</hi>ousky
 <lb/>vice
 <lb/>J. W. Crawford
 <lb/>Dist N<hi rend="sup">o</hi> 4

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0013"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,16 +63,16 @@
  <text>
   <body>
    <p>Greenup Cir Ct
-<lb/>vs
-<lb/>Comth
+<lb/>vs</p>
+<p>Comth
 <lb/>vs
 <lb/>Arnold Snider
-<lb/>Issue Pardon<figure type="hr"/>
-<lb/>Tho E Bramlette
-<lb/>Manslaughter
+<lb/>Issue Pardon
+<lb/>Tho E Bramlette</p>
+<p>Manslaughter
 <lb/><date when="1862-07">July term /62</date>
-<lb/>2 years
-<lb/><date when="1864-02-04"><hi rend="str">2</hi>4<hi rend="sup">th</hi> Feby/ 64</date>
+<lb/>2 years</p>
+<p><date when="1864-02-04"><hi rend="str">2</hi>4<hi rend="sup">th</hi> Feby/ 64</date>
 <lb/>Pardoned</p>
   </body>
  </text>

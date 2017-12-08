@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0052"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,11 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Mt. Vernon Ky
-<lb/><date when="1863-10-07">Oct 7<hi rend="sup">th</hi> 1863</date>
-<lb/>Gov T E Bramlete</p>
-<p>Dr Sir a letter was Rec<hi rend="sup">d</hi> stating the amt of my fine was not stated in petition. I confessed Judgement, the amt was put at $20.</p>
-<p>Hope you will relieve me as Judge &amp; commonwealth atty avised me to petition your honor, as the fine is hard upon me as well as unfortunate.</p>
+   <p>M<hi rend="underline"><hi rend="sup">t</hi></hi> Vernon Ky
+<lb/><date when="1863-10-07">Oct 7<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.
+<lb/>Gov T E, Bramlett</p>
+<p>D<hi rend="underline"><hi rend="sup">r</hi></hi> Sir a letter was Rec<hi rend="underline"><hi rend="sup">d</hi></hi> stating the am<hi rend="underline"><hi rend="sup">t</hi></hi> <hi rend="str">i</hi>of my fine was not stated in petition. I confessed Judgment, the am<hi rend="underline"><hi rend="sup">t</hi></hi> was put at &#36;20.</p>
+<p>Hope you will relieve me as Judge &amp; commonwealth atty avised me to petition -- your honor, as the fine is hard upon me as well as unfortunate,</p>
 <p>I am most Respectfully
 <lb/>Albert Owens</p>
   </body>

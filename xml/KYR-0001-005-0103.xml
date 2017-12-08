@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0103"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,57 +63,57 @@
  </teiHeader>
  <text>
   <body>
-   <p>John. D. Hale having been duly sworn says that he is a resident of the town of Harrodsburg. Ky he has been connected with the U. S. army since <date when="1862-07">July 1862</date> as 2<hi rend="sup">d</hi> Lieut in 9<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cavalry and is now Colonel of the Mercer County Militia.</p>
-<p>On or about the <date when="1865-09-03">3<hi rend="underline"><hi rend="sup">d</hi></hi> of September 1865</date> he was attacked by a mob consisting of fourteen men and taken out into the country when he was threatened to be hung and that they kept him about 24 hours when they returned him, The main reason why this party assaulted him was that he had once arrested one of the party as a deserter from some Illinois Regiment and forwarded him to his Regiment, the man whom he had arrested was Joseph Davenport They released him upon his promising that He would not prosecute them for making an illegal arrest they also told before releasing him that they were agoing to take him before a man by the name of Lawson, and have him kill him, When the mob arrested him a man by the name of Roberds ran over to the Livery Stable and got a rope and urged the mob to hang him saying that he (Roberts) would tie the rope for them, After his release from the mob he went to Mrs. Roberds and began<pb/>
+   <p>John. D. Hale having been duly sworn says that he is a resi<hi rend="str">g</hi>dent of the town of Harrodsburg. Ky. he has been connected with the U. S. Army since <date when="1862-07">July 1862</date> as 2<hi rend="sup">d</hi> Lieut in 9<hi rend="underline"><hi rend="sup">"</hi></hi> Ky Cavalry and is now Colonel of the Mercer County Militia.</p>
+<p>On or about the <date when="1865-09-03">3<hi rend="underline"><hi rend="sup">d</hi></hi> of September 1865</date> he was attacked by a mob consisting of fourteen men and taken out into the country when he was threatened to be hung and that they kept him about 24 hours when they released him, The main reason why this party arrested him was that he had once arrested one of the party as a deserter from some Illinois Regiment and forwarded him to his Regiment. the man whom he had arrested was Joseph Davenport They released him upon his promising that He would not prosecute them for making an illegal arrest. they also told before releasing him that they were agoing to take him before a man by the name of Lawson, and have him kill him; When the <hi rend="underline">mob</hi> arrested him a man by the name of Roberds ran over to the Livery Stable and got a rope and urged the mob to hang him saying that he (Roberts) would tie the rope for them, After his release from the mob he went to see mr. Roberds and began<pb/>
 <lb/>talking with him concerning the matter when he ^Roberds^ put his hand in his pocket as though he intended drawing his pistol</p>
 <p>He ^Hale^ drew his and told him that if he ^Roberds^ drew a pistol on him he would shoot him.</p>
-<p>On the 9<hi rend="underline"><hi rend="sup">th</hi></hi> of September a policeman by the name of <hi rend="underline">Bowen</hi> came to him and said he had a warrant for his arrest for a breach of the <hi rend="underline">peace</hi>. He began to remonstrate against being arrested when Lieut Bishop came up and said that he had been sent here to protect him ^Hale^ and other union men of the place and that he (Bowen) could not arrest him, Whereupon <hi rend="underline">Bowen</hi> remarked that if the Military interfered he would not make the arrest</p>
-<p>Lt Bishop said to <hi rend="underline">Bowen</hi> that he thought he had been abused sufficiently &amp; requested him not to trouble him any more about it. and told him to walk away: he was afterwards arrested and confessed judgment for one count and the cost of the suit whereupon He was released and the case dismissed Judge Hardin ^Hardin^ told him that if Lieut Bishop returned to Harrodsburg, he intended to order out the citizens and kill him and all the niggers he had with him<pb/>
+<p>On the <date when="1865-09-09">9<hi rend="underline"><hi rend="sup">th</hi></hi> of September</date> a policeman by the name of <hi rend="underline">Bowen</hi> came to him and said he had a warrant for his arrest for a breach of the <hi rend="underline">peace</hi>. He began to remonstrate against being arrested when Lieut Bishop came up and <hi rend="str"><unclear/></hi>said that he had been sent here to protect him ^Hale^ and other union men of the place and that he (Bowen) could not arrest him, Whereupon <hi rend="underline">Bowen</hi> remarked that if the Military interfered he would not make the arrest</p>
+<p>Lt Bishop said to <hi rend="underline">Bowen</hi> that he thought he had been abused sufficiently &amp; requested him not to trouble him any more about it. and told him to walk away: he was afterwards arrested and confessed judgement for one count and the cost of the suit whereupon He was released and the case dismissed Judge Hardin ^Hardin^ told him that if Lieut Bishop returned to Harrodsburg, he intended to order out the citizens and kill him and all the niggers he had with him<pb/>
 <lb/>also said that Lieut Bishop had gone to Louisville Ky under arrest</p>
 <p>Signed) J. D. Hale</p>
-<p>Sworn to and subscribed before me this <date when="1865-09-23">23' day of September 1865</date>
-<lb/>A H Bowen
-<lb/>Major &amp; A. A. G.</p>
+<p>Sworn to and subscribed before me this <date when="1865-09-23">23<hi rend="underline"><hi rend="sup">'</hi></hi> day of September 1865</date></p>
+<p>A H Bowen
+<lb/>Major &amp; A. A. I. G</p>
 <p>True Copy
 <lb/>A. H. Bowen
-<lb/>Major &amp; A A. G.<pb/></p>
-<p>Thomas H. Hardin having been duly sworn says that. He is the Police judge of the Town of Harrodsburg. On the <date when="--09-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> of Sept</date> he saw a number of people on horses in the streets and upon inquiring what they wanted they replied that they were in search of some parties who had stolen some horses in their neighborhood and had come this way, after this he went to dinner and upon his return he was setting in his office when he heard the report of Pistols and on going on the street he saw Mr. Hale in the hands of this party. He started towards the party with several others when one of the party who had Hale drew up his gun and said God damn you go back there dont you come here &amp;c when He turned and walked back to his office When in his office he saw two friends of Mr Hale going bye when he told them that they had not better go down there for if they did they would proberly kill them both he also told them that He thought they would probably kill Mr. Hale</p>
+<lb/>Major &amp; a a. I. G<pb/></p>
+<p>Thomas. H. Hardin having been duly sworn says that He is the Police judge of the Town of Harrodsburg. On the <date when="--09-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> of Sept</date> he saw a number of people on horses in the streets and upon inquiring what they wanted they replied that they were in search of some parties who had stolen some horses in their neighborhood and had come this way, after this he went to dinner and upon his return he was setting in his office when he heard the report of Pistols and in going on the street he saw. Mr. Hale in the hands of this party. He started towards the party with several others when one of the party who had Hale drew up his gun and said God damn you go back there dont you come here. &amp;C. when He turned and walked back to his office When in his office he saw two friends of Mr Hale going bye when he told them. that they had not better go down there for if they did they would proberly kill them both. he also told them that He thought they would proberly kill Mr. Hale</p>
 <p>Some of the party said that the reason they had arrested Hale were that they believed him to be connected with several robberies that had<pb/>
-<lb/>been perpretrated and was a leader of a Guerilla Band He has known Mr Hale for several years and know nothing against him of his own personal knowledge but have heard several persons speak very unfavorably of him</p>
-<p>On the <date when="--09-06">6<hi rend="sup">th</hi> of September</date> M<hi rend="sup">r</hi> Bowen Chief of Police came to his office and <unclear>coppied</unclear> for a warrant for the arrest of Mr Hale for a breach of the peace in drawing a pistol on Mr Roberds which warrant was issued and returned on the evening of the ninth 9<hi rend="underline"><hi rend="sup">"</hi></hi> with the following endorsement "not executed because Lt Bishop comdg a company of negroes in Harrodsburg ordered him not to arrest John D. Hale this <date when="1865-09-09">9' day of September 1865</date>.</p>
-<p>/signed/ M. V. Bowen J. M. C.
+<lb/>been perpretrated and was a leader of a Guerilla Bands He has known Mr Hale for several years and know nothing against him of his own personal knowledge but have heard several persons speak very unfavorably of him</p>
+<p>On the <date when="1865-09-06">6<hi rend="underline"><hi rend="sup">'</hi></hi> of September</date> M<hi rend="sup">r</hi> Bowen Chief of Police came to his office and <unclear>coppied</unclear> for a warrant for the arrest of Mr Hale for a breach of the peace in drawing a pistol on Mr Roberds which warrant was issued and returned on the evening of the ninth 9<hi rend="underline"><hi rend="sup">"</hi></hi> with the following endorsement "not executed because Lt Bishop Comdg a company of negroes in Harrodsburg ordered him not to arrest John D. Hale this <date when="1865-09-09">9<hi rend="sup">'</hi> day of September 1865</date>.</p>
+<p>/signed/ M. V. Bowen I. M. C."
 <lb/>(signed.) Thomas H. Hardin
 <lb/>Police Judge Town of Harrodsburg</p>
-<p>Sworn to and subscribed before me this <date when="1865-09-23">23<hi rend="sup">d</hi> day of September 1865</date></p>
+<p>Sworn to and subscribed before me this <date when="1865-09-23">23' day of September 1865</date></p>
 <p>A. H. Bowen
-<lb/>Major &amp; A <unclear>I.</unclear> G.</p>
+<lb/>Major &amp; A I. G.</p>
 <p>True copy
 <lb/>A. H. Bowen
-<lb/>Maj &amp; a. a I. G.<pb/></p>
-<p>Chas. A. Hardin having been duly sworn says He is a practicing Atty and reside in the village of Harrodsburg</p>
-<p>On the <date when="--09-06">6' of September</date> Inst. He was in his office when Mr Roberds came in to engage him in bringing forward a suit for him. He was busy at the time and requested him to set down for a moment which he did</p>
-<p>Soon after this Mr Hale came in to the office followed by Captain M. Jenkins. Mr Hale was apparently much excited. he walked around to where Mr. Roberds sat and said to him. 'I understand that you are the man that said the other day when I was arrested that I ought to be hung. also stated that he had understood that he (Roberds) had brought a rope in to hang him (Hale) with</p>
-<p>Mr Roberds replied that he was mistaken that he had never done so. Mr Hale then said I will take you out and let you confront a man who will prove it on you</p>
-<p>After Roberds who was evidently very badly scared put his hand into the pocket of his pantaloons whereupon Hale drew a large navy revolver and presented cocked at his (Roberds) heart after this He ^Hardin^ put his hands on<pb/>
-<lb/>Hales shoulder and said to him Col Hale I hope you will not commit violence in my office and told him before he proceeded farther He would like to talk to him a few moments privately to which he replied I cant now or words to that effect -- but soon after said that he would talk with him when they slipped out of the office and he advised him ^Hale^ not to kill the man Roberds &amp;c &amp;c -- others advised the same thing. Hale soon after returned to the office &amp; said to Mr Roberds that he had <hi rend="str">con</hi> ^concluded^ ed to forgive him that time that he had learned that he was a damned half witted fool and was not responsible for what he had said</p>
-<p>At the time ^Hale^ drew his pistol he told Roberds to take his hands out of his pockets or he would shoot him which Roberds did at once</p>
+<lb/>Maj &amp; a a I. G<pb/></p>
+<p>Chas. A. Hardin having been duly sworn says He is a practicing Atty and reside in the village of Harrodsburg.</p>
+<p>On the <date when="1865-09-06">6' of September</date> Inst. He was in his office when Mr Roberds came in to engage him in bringing forward a suit for him, He was busy. at the time and requested him to set down for a moment which he did</p>
+<p>'Soon after this Mr Hale came in to the office followed by Captain M. Jenkins. Mr. Hale was apparently much excited. he walked around to where Mr. Roberds sat and said to him. 'I understand that you are the man that said the other day when I was arrested that I ought to be hung. also stated that he had understood that he (Roberds) had brought a rope in to hang him (Hale) with</p>
+<p>Mr Roberds replied that he was mistaken that he had never done so Mr. Hale then said I will take you out and 'let you confront a man who will prove it on you</p>
+<p>After Roberds who was evidently very badly scared put his hand into the pocket of his pantaloons whereupon Hale drew a large navy revolver. and presented cocked at his (Roberds) heart after this He ^Hardin^ put his hands on<pb/>
+<lb/>'Hales shoulder. and said to him Col Hale I hope you will not commit violence in my office and told him before he proceeded farther. He would like to talk to him a few moments privately to which he replied I cant now or words to that effect. but soon after said that he would talk with him when they slipped out of the office and he advised him ^Hale^ not to kill the man Roberds &amp;c &amp;c -- others advised the same thing. Hale soon after returned to the office &amp; said to Mr Roberds that he had <hi rend="str">han</hi> <hi rend="underline">conclud</hi>ed to forgive him that time. that he had learned that he was a damned half witted fool. and was not responsible for what he had said</p>
+<p>At the time ^Hale^ drew his pistol he told <hi rend="underline">Roberds</hi> to take his hands out of his pockets or he would shoot him which Roberds done at once</p>
 <p>He made some allusion to Roberds having a pistol in his pocket at the time he drew his revolver.</p>
 <p>signed Chas A Hardin</p>
 <p>Sworn to and subscribed before me this <date when="1865-09-23">23 day of September 1865</date></p>
 <p>A H Bowen
 <lb/>Major &amp; A. I. G.</p>
-<p>True Copy
-<lb/>A H Bowen
-<lb/>Maj &amp; A A. I. G.<pb/></p>
-<p>M. V. Bowen having been duly sworn says, that he is chief of the civil Police of the Town of Harrodsburg.</p>
-<p>On the evening of the <date when="--09-09">9" of September</date> he saw M. John. D. Hale in the street and informed him that he had a warrant for his arrest for a breach of the peace in drawing a pistol on Mr. J. Roberds, Hale said that he thought it was wrong to arrest him for that &amp;c. and while talking Lieut Bishop came up and on learning the nature of his business asked who he was when he informed him. Lieut Bishop then said that he ordered him not to arrest Hale, he asked him for a written order forbidding the arrest. and he said he would give him one. Hale &amp; Bishop then stepped away a few steps and conversed alone for a few moments when they returned and Lieut Bishop informed him that it was unnecessary for him to have a written order and again ordered him not to arrest him (Hale)</p>
-<p>signed M. V. Bowen J. M. C.</p>
-<p>Sworn and subscribed before me the <date when="1865-09-23">23 day of September 1865</date></p>
-<p>A. H. Bowen
-<lb/>Major &amp; A A I g</p>
 <p>True copy
 <lb/>A H Bowen
-<lb/>Maj &amp; A. A. I. G</p>
+<lb/>Maj &amp; A. A. I. G<pb/></p>
+<p>M<hi rend="str">r</hi>. V. Bowen having been duly sworn says that he is chief of the civil Police of the Town of Harrodsburg.</p>
+<p>On the evening of the <date when="1865-09-09">9" of September</date> he saw. M. John. D. Hale in the street and informed him that he had a warrant for his arrest for a breach of the peace in drawing a pistol on Mr. J. Roberds, Hale said that he thought it wrong to arrest him for that &amp;c. and while talking Lieut Bishop came up and on learning the nature of his business asked who he was when he informed him. Lieut Bishop: then said that he ordered him not to arrest Hale, he asked him for a written order; forbidding the arrest. and he said he would give him one. Hale &amp; Bishop then stepped away a few steps and conversed alone for a few moments when they returned and Lieut Bishop informed him that it was unnecessary for him to have a written order. and again ordered him not to arrest him (Hale)</p>
+<p>signed M. V. Bowen I. M. C</p>
+<p>Sworn and subscribed before me the <date when="1865-09-23">23 day of September 1865</date></p>
+<p>A. H. Bowen
+<lb/>Major &amp; a a I g</p>
+<p>True copy
+<lb/>A H Bowen
+<lb/>Maj &amp; a. a. I. G</p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0193"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,8 +63,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>I have known P Sheridan many years know him to be loyal to his government, and believe him to be a man of truth, and know that he is now livving here to Escape the vengeance of the Rebells of Trimble County</p>
-<p>Madison Indiana <date when="1863-10-23">Oct 23<hi rend="sup">d</hi> 1863</date></p>
+   <p>I have Known P Sheridan Many years Know him to be loyal to his government, and believe him to be a man of truth, and Know that he is now liveveing here to Escape the vengeance of the Rebells of Trimble County</p>
+<p>Madison Indiana <date when="1863-10-23">Oct 23<hi rend="underline"><hi rend="sup">d</hi></hi> 1863</date></p>
 <p>W. C. Price late of the law firm of Price &amp; Woods
 <lb/>Louisville
 <lb/>Kentucky</p>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0124"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,18 +65,17 @@
   <body>
    <p>Nevada Mercer Co
 <lb/>Ky <date when="1861-07-02">2 July 1861</date>
-<lb/>P Swigert Esq
-<lb/>Secty Arms destributing Com
+<lb/>P Swegert Esq
+<lb/>Secty Arms. destributing Com
 <lb/>Sir</p>
-<p>I have organized a Company in this County under the late act of the Legislature and wish to apply for arms.</p>
-<p>Will thank you on rect of this to Send me the forms &amp; bond by Mail at this place</p>
+<p>I have organized a Company in this County under the late act of the Legeslature and wish to apply for arms.</p>
+<p>Will thank you on rect of this to Send me the forms. &amp; bond by Mail at this place</p>
 <p>Very Respy
 <lb/>C H May<pb/></p>
-<p>5
-<lb/>C. S. May
+<p>C. S. May
 <lb/>Home Guards
 <lb/>Mercer Coun^t^y</p>
-<p>Recd <unclear/> <date when="1861-07-03">3d July 1861</date></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> <unclear>yours</unclear> <date when="1861-07-03">3<hi rend="sup">d</hi> July 1861.</date></p>
   </body>
  </text>
 </TEI>

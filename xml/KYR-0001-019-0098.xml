@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0098"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,19 +63,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Office of Secretary of State.
-<lb/>Frankfort, <date when="1861-06-25">June 25, 1861</date>.
+   <p>Office of Secretary of State,
+<lb/>Frankfort, <date when="1861-06-25">June 25, 1861.</date>
 <lb/>To His Excellency
-<lb/>Abraham Llincoln
+<lb/>Abraham Lincoln
 <lb/>President of the United States
-<lb/>Washington D. C.
-<lb/><hi rend="str">Dear Sir:</hi>
+<lb/>Washington City. D. C.
+<lb/><hi rend="str">Dear</hi> <hi rend="str">Sir:</hi>
 <lb/>Sir</p>
-<p>I have the honor hereby to accredit General S. B. Buckner, the Inspector General of the Kentucky State Guard, to communicate with you on my behalf touching subjects of importance, the nature of which he will explain</p>
-<p>Gen Buckner is well advised and fully authorized to represent to you the condition of public sentiment in this state and to communicate the attitude assumed by the people and authorities of Kentucky. I have the honor to ask for him that confidence and consideration to which as the Agent of the Executive of this state, with plenary authority, he may be entitled.</p>
+<p>I have the honor hereby to accredit General S. B. Buckner, the Inspector General of the Kentucky State Guard, to communicate with you on my behalf touching subjects of importance the nature of which he will fully explain</p>
+<p>Gen Buckner is well advised and fully authorized to represent to you the condition of public sentiment in this state and to communicate the attitude assumed by the people and authorities of Kentucky. I have the honor to ask for him that confidence and consideration to which as the Agent of the Executive of this state, with plenary authority, he may be entitled-</p>
 <p>Very Respectfully
 <lb/>Your Obedient Servant<pb/></p>
-<p>A Lincoln</p>
+<p><hi rend="underline">A Lincoln</hi></p>
   </body>
  </text>
 </TEI>

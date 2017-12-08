@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0024"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Speed &amp; Basset to Beriah Magoffin</title>
+    <title level="a" type="main">Speed &amp; Barret to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG2372</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,18 +63,19 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1860-11-30">Novr 30 1860</date>
-<lb/><persName ref="cwgk:N00000258">Gov Magoffin</persName><lb/><placeName ref="cwgk:P00000308">Frankfort
-</placeName><lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>will you please have the kindness to send us a commission for <persName ref="cwgk:N00001849">Henry V Sanders</persName> as Notary Public for <placeName ref="cwgk:P001005">Jefferson County</placeName> He is Teller in the <orgName ref="cwgk:O00001850">Merchants Bank</orgName> is in every respect worthy</p>
+   <p>Louisville <date when="1860-11-30">Novr 30 1860</date>
+<lb/>Gov Magoffin
+<lb/>Frankfort
+<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>Will you please have the kindness to send us a commission for Henry V Sande<hi rend="str">e</hi>rs as Notary Public for Jefferson County He is Teller in the Merchants Bank is in every respect worthy</p>
 <p>Your friends
-<lb/><orgName ref="cwgk:O00008126">Speed &amp; Basset</orgName><pb/></p>
+<lb/>Speed &amp; Barret<pb/></p>
 <p>Jefferson co<figure type="hr"/>
 <lb/>Notary
 <lb/>H V. Sanders
 <lb/>Com<hi rend="sup">d</hi> <date when="1860-12-01">Dec 1. 1860</date></p>
 <p>Issue Commission
-<lb/>B M</p>
+<lb/>B. M</p>
   </body>
  </text>
 </TEI>

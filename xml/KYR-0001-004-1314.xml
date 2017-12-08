@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1314"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,20 +65,19 @@
   <body>
    <p>Lexington <date when="1864-11-01">Nov 1<hi rend="sup">st</hi>/64</date>
 <lb/>Dear Govenor</p>
-<p>Let Henry Metcalf off. It is right He is a clever man &amp; has a large family to support. He has paid the fees &amp; costs &amp; this was hard on him -- He deserves clemency &amp; will sin no more if sin he did -- This I mention is the sentiment of a large body of our people -- I earnestly recommend his pardon -- </p>
+<p>Let Henry Metcalf off-- It is right He is a clever man &amp; has a large family to support-- He has paid the fees &amp; costs &amp; this was hard on him -- He deserves clemency &amp; will sin no more if sin he did-- This I mention is the sentiment of a large body of our people -- I earnestly recommend his pardon--</p>
 <p>yours &amp;c
 <lb/>Jn<hi rend="sup">o</hi> B Huston</p>
-<p>2 cases $500 each<pb/></p>
+<p>2 cases &#36;500 each<pb/></p>
 <p>Franklin Cir Ct
 <lb/>vs
 <lb/>H, C. Metcalf
 <lb/>2 Judgts
-<lb/>$500, each
+<lb/>&#36;500. each
 <lb/><hi rend="underline">Remit</hi>
 <lb/>Dealing Faro
 <lb/><date when="1864-11-10">10<hi rend="sup">th</hi> Nov/64</date></p>
-<p>Gov
-<lb/>T. E. Bramlett</p>
+<p>Gov T. E. Bramlete</p>
   </body>
  </text>
 </TEI>

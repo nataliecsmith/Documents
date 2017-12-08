@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0135"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Mt. Vernon Lodge, Resolutions</title>
+    <title level="a" type="main">Mt. Vernon Lodge, In Memory of our Brother Geo. W. Johnson</title>
     <title level="a" type="parallel">CWG14425</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,6 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
+    <placeName>Georgetown, Scott County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -59,20 +63,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>In Memory of our Brother Geo. W. Johnson</p>
-<p>Whereas Death the common destroyer of man his been in our midst and call in his prime of his life and in the full tide of usefulness to his final reward our worthy Bro Geo. W. Johnson</p>
+   <p>In Memory of our Brother
+<lb/>Geo. W. Johnson</p>
+<p>Whereas Death the common destroyer of man his been in our midst and call in his prime of his life and in the full tide of useful<hi rend="str">l</hi>ness to his final reward our worthy Bro Geo. W. Johnson</p>
 <p>Therefore be it resolved that while we cheerfully submit to the dispensation of and allwise creator yet under a deep sense of that afflicting and mournful visitation we cannot but regret that the bond of Union between us and Brother Johnson is dissolved on Earth forever and we who remain can only give to the world and the numerous relatives and freinds of the deceased Bro this Testimonial of our sincere an fraternal regard</p>
 <p>Resolved That in the death of Bro Johnson that masonry has has lost a worthy member this community a useful citizen and his bereaved wife and children an affectionate Husband and kind parent</p>
 <p>Resolved That we deeply sympathize with the distressed wife and relatives of the deceased in their sad bereavement and tender them our sincere condolence</p>
 <p>Resolved That the Lodge be drape in <hi rend="str">mourning</hi> black and that we wear the usual badge of mourning for the space of thirty days </p>
-<p>Resolved That the secretary be instructed to furnish the family of the deceased with a copy of these Resolution under the seal of the Lodge</p>
+<p>Resolved That the secretary be instruced to furnish the family of the deceased with a copy of these Resolution under the seal of the Lodge</p>
 <p>Where lenght of life by merrit tried
 <lb/>Geo Johnson never would have died</p>
 <p>J. H. Wolfe
 <lb/>T. N. Finnell
-<lb/>J Clark } Comt</p>
-<p><figure type="seal"><ab>MT. VERNON LODGE N<hi rend="underline"><hi rend="sup">O</hi></hi> 14. GEORGETOWN, KY
-<lb/>CHARTERED A.L. 3807.<unclear/></ab></figure></p>
+<lb/>J Clark &#125; Comt</p>
+<p><figure type="seal"><ab>M<hi rend="underline"><hi rend="sup">T</hi></hi> VERNON LODGE N<hi rend="underline"><hi rend="sup">O</hi></hi> 14. GEORGETOWN, KY.
+<lb/>CHARTERED A. L. 5807.</ab></figure></p>
   </body>
  </text>
 </TEI>

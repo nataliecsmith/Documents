@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0247"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,11 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Whitley Co H Ky
+   <p>Whitley C H Ky
 <lb/><date when="1863-11-03">Nov 3 1863</date>
-<lb/>Mr Thomas E Brambtet
+<lb/>Mr Thomas E Bramletet
 <lb/>Governor of Kentucky</p>
-<p>Sir I here send you a petition ask of you to Remit a fine which wold be all Right as I beleave Hamblin is a clever good citize but hapen to be in toxecated at the tim he <hi rend="str">was find</hi> did the act</p>
+<p>Sir I here send you a petition ask of you to Remit a fine which wold be all Right as I beleave Hamblin is a clever good citize but hapen to be in toxicated at the tim he <hi rend="str">was find</hi> did the act</p>
 <p>Yours
 <lb/>John Smith</p>
   </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0047"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,20 +63,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hodgenville Ky <date when="1862-10-02">Oct. 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 1862</date>
+   <p>Hodgenville Ky <date when="1862-10-02"><hi rend="str">S</hi>Oct. 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 1862</date>
 <lb/>To His Excellency
 <lb/>James F. Robinson
 <lb/>Governor of Ky</p>
-<p>The undersigned would most respectfully represent to your excellency that at the time of the surrender of the United States forces at Munfordville on the <date when="1862-09-17">17<hi rend="sup">th</hi> day of Sept<hi rend="sup">r</hi>. 1862</date> he was in command of 74 men who were sworn into the service -- and were at said place as a party of the 33<hi rend="underline"><hi rend="sup">rd</hi></hi> Regt of Ky volunteers, then being raised by Colonel K. Jamesen -- He was at the time acting as 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lieutenant with the expectation of being Captain of said company when full -- Prior to said surrender a considerable portion of his command made their escape -- so that himself and 30 privates were all of said company that were surrendered and paroled at said place. We herewith send a list of the names of his command who were surrendered to and paroled by by the enemy -- The original list he has still in his possession -- which he will forward if required -- His men who were paroled as above are <hi rend="str">anxious</hi> generally anxious to be exchanged and to go into active service again. The undersigned is quite desirous that such exchange may be effected so that he and his men may become useful to the Government at as early a day as is practicable -- Those who made their escape from the works<pb/>
-<lb/>at Munfordville are as he is informed settled about the Country, but he presumes that they can all be gathered up again at any time -- He had drawn clothing for 50 of his men prior to said surrender -- Any communication sent to him at this place to the care of Wilson &amp; Robertson would reach him -- He awaits further orders -- </p>
-<p>Very Respectfully
+<p>The undersigned would most respectfully represent to your excellency that at the time of the surrender of the United States forces at Munfordville on the <date when="1862-09-17">17<hi rend="sup">th</hi> day of Sept<hi rend="underline"><hi rend="sup">r</hi></hi> 1862</date> he was in command of 74 men who were sworn into the service -- and were at said place as a party of the 33<hi rend="underline"><hi rend="sup">rd</hi></hi> Regt of Ky volunteers, then being raised by Colonel K. Ja<hi rend="str">J</hi>meson -- He was at the time acting as 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lieutenant. with the expectation of being Captain of <unclear>said company</unclear> when full -- Prior to said surrender a considerable portion of his command made their escape -- so that himself and 30 privates were all of said company that were surrendered and paroled at said place. He herewith sends a list of the names of his command who were surrendered to and paroled by by the enemy -- The original list he has still in his possession -- which he will forward if required -- His men who were paroled as above. are <hi rend="str">anxious</hi> generally anxious to be exchanged and to go into active service again. The undersigned is quite desirous that such exchange may be effected so that. he and his men may become useful to the Government at as early a day as is practicable -- Those who made their escape from the works<pb/>
+<lb/>at Munfordville are as he is informed scattered about the Country, but he presumes that they can all be gathered up again at any time -- He had drawn clothing for 50 of his men prior to said surrender -- Any communication sent to him at this place to the care of Wilson &amp; Robertson would reach him -- He awaits further orders -- </p>
+<p>Very Respectfully.
 <lb/>Cyrus J. Wilson
 <lb/>2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lieut Comdg
 <lb/>Co. A. 33 regiment
 <lb/>Ky vol Militia
 <lb/>per
 <lb/>R. D. Murray -- <pb/></p>
-<p>To Gov<hi rend="sup">r</hi>. Robinson</p>
+<p>To Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Robinson</p>
   </body>
  </text>
 </TEI>

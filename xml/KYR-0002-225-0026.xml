@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0026"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,17 +66,18 @@
    <p>Santa Fe N M <date when="1863-02-22">February 22<hi rend="sup">d</hi> 1863</date>.
 <lb/>To His Excellency the Governor of Kentucky.
 <lb/>Sir.</p>
-<p>From a letter just received from my friend Col C J. Walker 10<hi rend="sup">th</hi> Ky Cavalry, I make the following extract. viz. "When I was in Frankfort, several weeks ago, the Governor told me that he would make you Inspector Genl of the state if you would accept it" With many tanks to your Excellency for your kindess I will accept the position with pleasure if offered to me. It is, however, due to you to say, that since the issue of the Presidents Emancipation proclimation, I cannot retain my present position, and thus, give countenance to what I in conscience condemn. I endorse every word of your Excellencies message to the Legislatrue on that subject </p>
-<p>Please address me at this place</p>
+<p>From a letter just arrived from my friend Col C J. Walker 10<hi rend="sup">th</hi> Ky Cavalry, I make the following extract. viz. ,,"When I was in Frankfort, several weeks ago, the Governor told me that he would make you Inspector Genl of the state if you would accept it",, With many thanks to your Excellency, for your kindess I will accept the position, with- pleasure if offered to me. It is, however, due to you to say, that since the issue of the Presidents Emancipation Proclimation, I cannot retain my present position, and thus, give countenance to what I in conscience condemn. I endorse every word of your Excellencies message to the Legislatrue on that subject</p>
+<p>Please address me at this place...</p>
 <p>Very Respectfully
 <lb/>your obt svt
 <lb/>John C. M<hi rend="sup">c</hi>Ferran
 <lb/>Captain &amp; A Q M<pb/></p>
 <p>Santa Fe.
 <lb/><date when="1863-02-22">Feby 22<hi rend="sup">nd</hi>/63</date>.<figure type="hr"/>
-<lb/>M<hi rend="sup">c</hi>Ferran Jno C.
-<lb/>Capt and A. Q. M.<figure type="hr"/>
-<lb/>To Gov. Will accept position of Inspector Gen. Ky. if offered him.<figure type="hr"/></p>
+<lb/>M<hi rend="sup">c</hi>Ferran Jno. C.
+<lb/>Capt and A. Q. M.<figure type="hr"/></p>
+<p>To Gov.
+<lb/>Will accept position of Inspector Gen. Ky. if offered him.</p>
   </body>
  </text>
 </TEI>

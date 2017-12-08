@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1483"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Joseph Vogt et al. to Beriah Magoffin</title>
+    <title level="a" type="main">Joseph Vogt to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG10951</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Louisville, Jefferson County, Kentucky </placeName>
+    <placeName>Louisville, Jefferson County, Kentucky</placeName>
     <date when="1860-11-12">12 November 1860</date>
    </creation>
    <textClass>
@@ -60,39 +63,40 @@
  </teiHeader>
  <text>
   <body>
-   <p>M<hi rend="sup">r</hi>. Vogt. is a very clever man and an Orderly Citizen; I am satisfied he will not be guilty of a Similar offense again. -- </p>
-<p>Geo. W. Johnston.</p>
-<p>The undersigned citizens of Louisville unite in asking your Excellency to remit the fine against M<hi rend="sup">r</hi>. Vogt. We know that Wm MCCorkle goes with a Crowd of very bad boys, who went to the Grocery of Mr Vogt, and forcibly, took liquor, They have often put Mr Vogt in fear -- by their disorderly &amp; violent conduct -- as they have other good citizens in the neighborhood
-<lb/> 
-<lb/><milestone unit="column" n="2"/><cb n="1"/>H. Welker
-<lb/>John J Dolle
-<lb/><cb n="2"/>H C Russell <unclear/> C C L
-<lb/>Vincent Cox
-<lb/>Charles C. Clark
-<lb/>J. D. Selvage
-<lb/>A A Chickering
-<lb/>H. Lindenfelsen<milestone unit="column" n="1"/></p>
-<p><hi rend="str">George</hi> Jos Vogt notes that Wm MCCorkle never paid him for any liquor. That McCorkle came to his house with bad company, of whom he was afraid, and took the liquor, against <hi rend="str">the</hi> his consent <hi rend="str">of</hi> -- and he was afraid to resist them, as any other person in the neighborhood would have been who knows him &amp; his company</p>
-<p>Joseph Vogt</p>
-<p>Subscribed and sworn to before me this the <date when="1860-11-12">12th November 1860</date></p>
-<p>Geo W Doam J. P. J C<pb/></p>
-<p>To His Excellency Beriah Magoffin
-<lb/>Governor of Kentucky.</p>
-<p>Your Petitioner Joseph Vogt represents that at the <date when="1860-11">November Term (1860)</date> of the city court of Louisville, he was fined fifty dollars for selling liquor to a minor. William McCorkle was the witness against him -- he is about 19 years old and petitioner did not know but what said McCorkle was a man of full age, when he <hi rend="str">gave him</hi> took the drink of liquor, He denies that he sold the liquor to him but gave it to him. He had employed J B Lancaster Esqr to defend the case for him, Mr Lancaster was sick in the County and unable to attend Court -- and petitioner was not present at the trial knowing that his attorney was sick and not about, and he understood from his attorney that he had made arrangements with a Pros Attorney to continue all his cases for the term, therefore he did not prepare for trial. Petitioner keeps a small Grocy on the corner of Chestnut &amp; Jackson streets, and never Gave Liquor to said McCorkle, or any other young man before, nor has he ever before been charged with any similar offense He is poor, a man of large family, and unable to pay, the fine, the costs being as much now as he can pay -- He was Entirely ignorant of the law by which he was fined &amp; promises to avoid such offense hereafter</p>
+   <p>To His Excellency Beriah Magoffin
+<lb/>Governor of Kentucky,</p>
+<p>Your Petitioner Joseph Vogt represents, that at the <date when="1860-11">November Term (1860)</date> of the city court of Louisville, he was fined fifty dollars for selling liquor to a minor William McCorkle was the witness against him-- he is about 19 years old and petitioner did not know but what said McCorkle was a man of full age, when he <hi rend="str">gave him</hi> took the drink of liquor, He denies that he sold the liquor to him but gave it to him. He had Employed J B Lancaster Esqr to defend the case for him, Mr Lancaster was sick in the County and unable to attend Court -- and petitioner was not present at the trial knowing that his attorney was sick and about, and he understood from his attorney that he had made arrangements with the Pros Attorney to continue all his cases for the term, therefore he did not not prepare for trial. Petitioner keeps a small Grocy on the corner of Chestnut &amp; Jackson streets, and never Gave Liquor to said McCorkle, or any other young man before, nor has he ever before been charged with any similar offense He is poor, a man of large family, and unable to pay, the fine, the costs being as much now as he can pay-- He was Entirely ignorant of the law by which he was fined &amp; promises to avoid such offense hereafter</p>
 <p>Wherefore he asks a remission of the fine</p>
 <p>Joseph Vogt</p>
 <p>Louisville <date when="1860-11-12">Nov 12th 1860</date></p>
 <p>I live next door neighbor to Mr Vogt &amp; know him to be a good orderly citizen, and know that he is not in the habit of Giving or selling liquor in his grocery. <hi rend="str">He</hi> <hi rend="str">has sent</hi> Petition contains the truth &amp; I join in his petition</p>
 <p>Geo W Doam J P J C</p>
-<p>I join the Petitioners request, W. G. Reasor<pb/></p>
+<p>I Join the Petitioners requests
+<lb/>W. G. Reasor<pb/></p>
+<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> Vogt. is a very clever man and an orderly citizen; I am satisfied he will not be guilty of a similar offence again.--</p>
+<p>Geo. W. Johnston.</p>
+<p>The undersigned Citizens of Louisville unite in asking your Excellency to remit the fine against M<hi rend="underline"><hi rend="sup">r</hi></hi> Vogt. We know that Wm MCcorkle goes with a Crowd of vy bad boys, who went to the Grocey of Mr Vogt, and forcibly, took liquor, They have often put Mr Vogt in fear of the their disorderly &amp; violent conduct -- as they have other good Citizens in the neighborhood
+<lb/> 
+<lb/><milestone unit="column" n="2"/><cb n="1"/>H. Welker.
+<lb/>John G Dolle
+<lb/><cb n="2"/>H C Russell <unclear/> C C L
+<lb/>Vincent Cox
+<lb/>Charles, C, Clark
+<lb/>J, D, Selvage
+<lb/>A A Chickering
+<lb/>St. Lindenfelser<milestone unit="column" n="1"/></p>
+<p><hi rend="str">George</hi> Jos Vogt states that Wm MCCorkle never paid him for any liquor. That MCCorkle came to his house with bad company, of whom he was afraid, and took the liquor, against <hi rend="str">the</hi> his consent <hi rend="str">of</hi>-- and he was afraid to resist them, as any other person in the neighborhood would have been who knows him &amp; his company</p>
+<p>Joseph Vogt</p>
+<p>Subscribed and sworn to before me this the <date when="1860-11-12">12th November 1860</date></p>
+<p>Geo W Doam J. P. J C<pb/></p>
 <p>Louisville City Ct.</p>
 <p>Respite 12 Mo 
 <lb/>B. M</p>
-<p>$50 } Selling liquor to a minor
-<lb/>Jo<hi rend="sup">s</hi>. Vogt
-<lb/>Iss<hi rend="sup">d</hi> <date when="1861-11-19">Nov 19. 1861</date></p>
+<p>&#36;50. &#125; selling liquor to a minor
+<lb/>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> Vogt
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-11-19">Nov 19. 1860</date></p>
 <p>Remitted
-<lb/>B. M</p>
+<lb/>B. M.</p>
 <p>Iss<hi rend="sup">d</hi> <date when="1861-10-07">Octo 7. 1861</date></p>
   </body>
  </text>

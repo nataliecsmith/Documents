@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0067"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,15 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Senate Chamber <date when="1861-02-09">9<hi rend="sup">th</hi> Feb/61</date>
+   <p>Senate Chamber <date when="1861-02-09">9<hi rend="sup">th</hi> F<hi rend="underline">eb</hi>/61</date>
 <lb/>Governor Magoffin</p>
-<p>I would suggest to your Excellency the appointment of some two or Three aids in my portion of the state, say John Hyden of the county of Clay, John P. Hargis of the county of Breathitt. E. B. Treadway &amp; myself for the county of Owsley. with Those names for a Brace Sir in, my portion of the state, your Excellency would have no cause for fears of Servile or Civil Wars</p>
+<p>I would suggest to your Excellency the appointment of some Two or Three aids in my portion of the state, say John Hyden of the county of Clay, John S. Hargis of the county of Breathitt, E, B, Treadway &amp; myself for the county of Owsley, with Those names <hi rend="str"><unclear/></hi>for a Brace Sir in, my portion of the state, your Excellency <unclear><hi rend="str">Th</hi></unclear>would have no cause for fears of Servile or Civil wars</p>
 <p>your Truly
 <lb/>J Ewing Gibson<pb/></p>
-<p>Issue Commission &amp; hand to Gibson</p>
-<p>B. M</p>
-<p>aids</p>
-<p><date when="1861-02-09">Feby 9. 1861</date></p>
+<p>Issue Commission &amp; hand to Gibson
+<lb/>B. M</p>
+<p>aids
+<lb/><date when="1861-02-09">Feby 9. 1861</date></p>
   </body>
  </text>
 </TEI>

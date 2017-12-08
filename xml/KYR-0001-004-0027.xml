@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0027"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Jesse Nasta</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,14 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000308">Frankfort</placeName> <date when="1863-05-20">20" May 1863</date>
-<lb/><persName ref="cwgk:N001004">Gov Robinson
-</persName><lb/>Dear Sir</p>
-<p>according to promise I give the proof in the case of the Man<persName ref="cwgk:N00004837"> Savage</persName> now confined in the State prison for the killing of <persName ref="cwgk:N00004839">Ewing Litterell</persName> of <placeName ref="cwgk:P00004831">Wayne County</placeName> the ^proof^ was that Litterell on the night he was killed in company with others without any business went to the house of the Father of young<persName ref="cwgk:N00004837"> Savage</persName> with whom the son lived and being their only support in old age Litterell being somewhat intoxicated Conducted himself both in words and deeds in in the most vulgar and insulting manner immaginable and amongst other acts and deeds exposed his person in the presence of the family swearing at the time he was a Stud Horse and had ^had^ intercourse with all the family both Mother and Sisters and would do so again when it suited his convenience at which time the young man being in bed sprang to his rifle and shot him dead <hi rend="str">on the</hi><pb/>
-<lb/>this is substantially the proof and the provocation for the killing the young man had been raised by parents it is true who had set anything but a good moral example but had himself after he grew up showed a disposition by industry and integrity to elevate himself in the community where he had been reared he has now been confined near five years his old and infirm Father since his confinement has died in penury his Mother old and infirm still lives an object of charity.</p>
-<p>I do not wish to do any violence to the memory of the deceased as he as well as the young man were always my personal and political friend have Just visited him in prison and from what I see and hear am satisfied the <orgName ref="cwgk:O001025">Commonwealth </orgName>and the community from which he was sent are and should be satisfied with the measure of punishment or correction already inflicted</p>
-<p>Resfully
-<lb/><persName ref="cwgk:N00004843">Jno L Sallee</persName></p>
+   <p>Frankfort <date when="1863-05-20">20" May 1863</date>
+<lb/>Gov Robinson
+<lb/>Dear Sir</p>
+<p><note place="left margin">Statement as to Ewing Litteral of Wayne County</note></p>
+<p>according to promise I give the proof in the case of the Man Savage now confined in the State prison for the killing of Ewing Litterell of Wayne County the ^proof^ was that Litterell on the night he was killed in company with others without any business went to the house of the Father of young Savage with whom the Son lived and being their only Support in old age Litterell being somewhat intoxicated conducted himself both in words and deeds in in the most vulgar and insulting manner immaginable and amongst other acts and deeds exposed his person in the presence of the family Swearing at the time he was a Stud Horse and had ^had^ intercourse with all the family both Mother and Sisters and would do so again when it suited his convenience at which time the young man being in bed Sprang to his rifle and shot him dead <hi rend="str"><unclear/> the</hi><pb/>
+<lb/>this is substantially the proof and the provocation for the killing the young man had been raised by parents it is true who had set anything but a good Moral example but had himself after he grew up showed a disposition by industry and integrity to elevate himself in the community where he had been reared he has now been confined near five years his old and infirm Father since his confinement has died in penury his Mother old and infirm still lives an object of charity</p>
+<p>I do not wish to do any violence to the memory of the deceased as he as well as the young man were always my personal and political friend have Just visited him in prison and from what I see and hear am satisfied the Commonwealth and the community from which he was sent are and should be satisfied with the measure of punishment or correction already inflicted</p>
+<p>Resptly
+<lb/><hi rend="underline">Jno. L. Sallee</hi></p>
   </body>
  </text>
 </TEI>

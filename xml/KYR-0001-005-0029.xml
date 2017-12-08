@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0029"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,19 +63,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Covington <date when="1864-04-30">April 30 -- 64</date>
+   <p>Covington <date when="1864-04-30">April 30-- 64</date>
 <lb/>Hon Thomas E Bramlette
 <lb/>Govenor of Kentucky
 <lb/>Dear Gov.</p>
-<p>I enclose two petitions from the Judge of the Pendleton County Court asking you to offer a reward for the apprehension of two men charge with murder. I am some what familiar with both cases &amp; both are <hi rend="underline">murderers</hi> and I think both are cases in which a reward should be offered. The amount Should be sufficient to induce Some officer to undertake their capture</p>
-<p>Very rspctly your
-<lb/>obt sevt
+<p>I enclose two petitions from the Judge of the Pendleton County Court asking you to offer a reward for the apprehension of two men charge with Murder. I am some what familiar with both cases-- both are <hi rend="underline">murderers</hi> and I think both are cases in which a reward should be offered. The amount Should be sufficient to induce Some officer to undertake their capture</p>
+<p>Very rspecty your
+<lb/>obt servt
 <lb/>R B Carpenter
 <lb/>Comths Atty<pb/></p>
-<p>Pendleton Co
-<lb/>Reward of $250 each -- 
-<lb/>Tho E Bramlette
-<lb/>Gov<hi rend="sup">r</hi>
+<p>Pendleton Co</p>
+<p>Reward of &#36;250 each -- </p>
+<p>Tho E Bramlette
+<lb/>Govr
 <lb/><date when="1864-05-02">2<hi rend="sup">d</hi> May/64</date></p>
   </body>
  </text>

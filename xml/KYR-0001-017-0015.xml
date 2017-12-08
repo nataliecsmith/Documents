@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0015"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,26 +63,26 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of <placeName ref="cwgk:P001818">Indiana
-</placeName><lb/><placeName ref="cwgk:P00001745">Parke County</placeName> ss</p>
-<p>I, <persName ref="cwgk:N00001703">Geo W Thompson </persName>Commissioner of Deed appointed by the <persName ref="cwgk:N00000258">Govenor of the State of Kentucky</persName> for the state of Indiana do solemnly swear that I will well and truly execute and perform all the duties of such commissioner</p>
+   <p>State of Indiana
+<lb/>Parke County ss.</p>
+<p>I, Geo W Thompson Commissioner of Deed appointed by the Govenor of the State of Kentucky for the State of Indiana do solemnly swear that I will well and truly execute and perform all the duties of such commissioner</p>
 <p>George. W. Thompson. subscribed &amp; sworn to before the undersigned Notary Public within and for said county this <date when="1860-11-16">16th day of November 1860.</date></p>
 <p><figure type="seal"/></p>
 <p>In witness whereof I have hereunto set my hand and affixed my notarial seal the date above written</p>
-<p>W<hi rend="underline"><hi rend="sup">m</hi></hi>. P. Bryant Jr Notary Public</p>
-<p>State of Indiana Parke County. SS.</p>
-<p>I, Wm P Bryant Notary Public duly appointed and commissioned by the <persName ref="cwgk:N00001754">Govenor of the state of Indiana</persName> for said county certify that the foregoing is a true copy of the oath of Geo W Thompson adminstered by me and endorsed in his Commission</p>
-<p><figure type="seal"><ab> W. P. BRYANT
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Bryant Jr Notary Public</p>
+<p>State of Indiana. Parke County. SS.</p>
+<p>I, Wm P Bryant Notary Public duly appointed and commissioned by the Govenor of the state of Indiana for said county certify that the foregoing is a true copy of the oath of Geo W Thompson adminstered by me and endorsed in his Commission</p>
+<p><figure type="seal"><ab>W. P. BRYANT.
 <lb/>NOTARY PUBLIC
 <lb/>PARKE COUNTY, IND.</ab></figure></p>
 <p>Witness my hand and Notarial seal this <date when="1860-11-16">16th day of November 1860.</date></p>
-<p>W<hi rend="sup">m</hi>. P. Bryant Jr
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Bryant Jr
 <lb/>Notary Public<pb/></p>
 <p>Indiana<figure type="hr"/>
 <lb/>Oath
 <lb/>Geo. W. Thompson
-<lb/>Com<hi rend="sup">r</hi>. of Deeds</p>
-<p>Filed <date when="1860-11-22">Nov 22<hi rend="sup">d </hi>1860</date></p>
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
+<lb/>Filed <date when="1860-11-22">Nov 22<hi rend="sup">d </hi>1860</date></p>
   </body>
  </text>
 </TEI>

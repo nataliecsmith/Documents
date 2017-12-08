@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0114"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,17 +64,17 @@
  <text>
   <body>
    <p>Marion Crittenden County Ky
-<lb/><date when="1865-11-10">Nov. 10<hi rend="sup">th</hi>. 1865</date>.
-<lb/>Gov Bramlett
+<lb/><date when="1865-11-10">Nov. 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>.
+<lb/>Gov. Bramlett
 <lb/>Dear Sir</p>
-<p>The grand jury of this county have just returned in court indictments against James Guess William Knight, James Metlock, William Simpson, Alfred Lawson, Leason Lawson, James B Williams, Hiram Jones, David Ellis, John Hall, William Michell, Wiley Pulliam G. J. Martin, James Beard and George Parrish: for murder robbery burglary and larceny, and against some of them for these offenses several times reported.</p>
-<p>About the commencement of this court they fled from this State and are now as I have been informed and have no doubt in Hardin County Illinois and are now engaged in stealing horses and mules constantly from this side of the river</p>
+<p>The grand jury of this County have just returned in court indictments against James Guess William Knight, James Metlock, William Simpson, Alfred Lawson, Leason Lawson, James B Williams, Hiram Jones, David Ellis, John Hall, William Michell, Wiley Pullum G. J. Martin, James Beard and George Parrish: for murder robbery burglary and larceny, and against some of them for these offenses several times repeated</p>
+<p>About the commencement of this court they fled from this State and are now as I have been informed and have no doubt in. Hardin County Illinois and are now engaged in stealing horses and mules constantly from this side of the river</p>
 <p>The object in view, is to have them arrested by the authorities of Illinois and brought here</p>
-<p>If you can effect the requisition by Telegraph the better, as speedy action is all important, I trust this will be done with the least possible delay. It is believed, and in which opinion I concur, that the lives of some of the grand jury, witnesses and<pb/>
+<p>If you can effect the requisition by Teligraph the better, as speedy action is all important, I trust this will be done with the least possible delay. It is believed, and in which opinion I concur, that the lives of some of the grand jury, witnesses and<pb/>
 <lb/>many of othe Citizens will be in great jeopardy immediately after court should they not be at once arrested.</p>
-<p>I have already provided to the citizens in that county the warrants of arrest that they may know what is going on and to get them to make the arrests at once, giving them assurances that there acts would be sustained by a requisition</p>
+<p>I have already provided to the citizens in that county the warrants of arrest that they may know what is going on and to get them to make the arrests at once, giving them assurances that these acts would be sustained by a requisition</p>
 <p>I am dear sir most
-<lb/>truly your friend &amp; obt St
+<lb/>truly your friend &amp; obt st
 <lb/>W. P. Fowler</p>
 <p>P. S Please find copies of indictments enclosed herewith, I would name Capt. Jonathan Belt of Hardin County Illinois as a proper agent should arrests be made</p>
 <p>Would it be amiss to offer a reward for Guess?</p>

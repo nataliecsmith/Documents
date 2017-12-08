@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0056"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,9 +66,9 @@
    <p>Caseyville Union Co Ky
 <lb/><date when="1861-05-27">May the 27<hi rend="sup">th</hi> 1861</date>
 <lb/>To his Excelency B Magoffin
-<lb/>Gov of Ky.
+<lb/>Gov of Ky,
 <lb/>Dear Sir</p>
-<p>We are anxious to form a Military Company here for the State Malitia and have failed because we do not understand the Nature of the oath to be take. please inform us to what extent our allegience goes to the Gen<hi rend="sup">l </hi>Government, and also to that of your Excelency,, And excuse this intrusion on the honored executive of the state. since we have failed to get the desired information from Genl Buckner.</p>
+<p>We are anxious to form a Military Company here. for the State Malitia and have failed because we do not understand the Nature of the oath to be taken, please inform us to what extent our allegience goes to the Gen<hi rend="sup">l </hi>Government, and also to that of your Excelency,, And excuse this intrusion on the honored executive of the state. since we have failed to get the desired information from Genl Buckner.</p>
 <p>Very Respectfully
 <lb/><hi rend="underline">W, W, Gardner</hi><pb/></p>
 <p>Sec will answer -- 

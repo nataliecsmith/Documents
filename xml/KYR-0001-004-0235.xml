@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0235"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Commonwealth of Kentucky v. Charles Wicke and Andrew Straus, Abstract</title>
+    <title level="a" type="main">Commonwealth of Kentucky v. Charles Wicke and Andrew Straus, Transcript</title>
     <title level="a" type="parallel">CWG4354</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,32 +63,33 @@
  </teiHeader>
  <text>
   <body>
-   <p>Jefferson Circuit Court
-<lb/>The Commonwealth of Ky Plffs
+   <p>Jefferson Circuit court
+<lb/>The Commonwealth of Ky Plff<hi rend="str">as</hi>
 <lb/>against
 <lb/>Charles Wicke &amp; Andrew Straus</p>
-<p>Charles Wicke had an examination on a charge of Felony in the city Court of Louisville, was held to answer, and on the <date when="1855-09-29">29 day of Sept 1855</date>. <hi rend="str">was held to ans</hi> he entered into a reconizance in the sum of $800, with Andrew Straus as his Surety in a like Sum.</p>
-<p>On the <date when="1855-12-20">20<hi rend="sup">th</hi> of December 1855</date> the reconizance <hi rend="str">and</hi> was forfeited as follows viz:</p>
-<p>"This day came the Commonwealth by her attorney and the Defendent being Solemly called to appear in discharge of this reconizance entered into by him in the city court of Louisville on the <date when="1855-09-29">29<hi rend="sup">th</hi> day of Sept. 1855</date>. with Andrew Straus his bail in the sum of eight hundred dollars each, came not, but made default. It is therefore ordered that the clerk of this Court issue writs of Scirefacias Severally against the Said Charles Wicke and Andrew Straus his bail, returnable to the<pb/>
-<lb/>next term of this court commanding them to appear and Show cause if any they have or can why the Said Commonwealth Shall not have Judgment and Execution thereon against them for the Sum of one thousand dollars each according to the form and effect of Said reconizance, and for a breach of the condition thereof. And then on the Plaintiff's motion a capias is awarded herein against the Defendent returnable; which capias is ordered to be endorsed, that Defendent may, upon the execution thereof enter into reconizance himself in the Sum of eight hundred dollars with good and Sufficient bail in the like Sum conditioned for his personal appearance according to the commence of Said capias. And all further proceedings are continued until the next term of this court."</p>
+<p>Charles Wicke had an examination on a charge of Felony in the city Court of Louisville, was held to answer, and on the <date when="1855-09-29">29 day of Sept 1855</date>. <hi rend="str">was held to ans</hi> he entered into a reconizance in the sum of &#36;800, with Andrew Straus as his Surety in a like Sum.</p>
+<p>On the <date when="1855-12-20">20<hi rend="sup">th</hi> of December 1855</date> the reconizance <hi rend="str">and</hi> was forfeited as follows.
+<lb/> viz:</p>
+<p>"This day came the commonwealth by her attorney and the Defendent being Solemly called to appear in discharge of this reconizance entered into by him in the City court of Louisville on the <date when="1855-09-29">29<hi rend="sup">th</hi> day of Sept. 1855</date>. with Andrew Straus his bail in the Sum of eight hundred dollars each, came not, but made default. It is therefore ordered that the clerk of this Court issue writs of Scirefacias Severally against the Said Charles Wicke and Andrew Straus his bail, returnable to the<pb/>
+<lb/>next term of this court commanding them to appear and Shew cause if any they have or can why the Said Commonwealth Shall not have Judgment and Execution thereon against them for the Sum of one thousand dollars each according to the form and effect of Said reconizance, and for a breach of the condition thereof. And then on the Plaintiff's motion a capias is awarded herein against the Defendent returnable &amp;c; which capias is ordered to be endorsed, that Defendent may, upon the execution thereof enter into reconizance himself in the Sum of eight hundred dollars, with good and Sufficient bail in the like Sum conditioned for his personal appearance according to the command of Said capias. And all further proceedings are continued until the next term of this court." <hi rend="str">Oct</hi></p>
 <p>A copy att 
 <lb/>Jas P Chambers C. J. C. C</p>
 <p>The case was continue a few terms and then was droped informally from the docket.</p>
-<p>On the <date when="1863-10-14">14<hi rend="sup">th</hi> day of Oct. 1863</date>. a Scirefacias issued against Defendents Wicke and Andred Straus as follows. viz<pb/></p>
-<p>"The Commonwealth of Kentucky To the Sheriff of Jefferson County.</p>
-<p>You are commanded to Summon Charles Wicke, together with Andrew Straus his bail to appear before the Judge of the Jefferson Circuit Court, at the court house in the city of Louisville on the first day of <hi rend="str">Jefferson</hi> the <date when="--10">October Term</date> of Said court, to Show cause if any they have or can why the Commonwealth Shall not have Judgment and execution against them for eight hundred dollars each by reason of the forfeiture of a reconizance entered into by them in the city court of Louisville on the <date when="1855-09-29">29<hi rend="sup">th</hi> day of September 1855</date>. And have then and there this writ.</p>
-<p>Witness James P Chambers clerk of Said court at the court house aforesaid this <date when="1863-10-14">14<hi rend="sup">th</hi> day of October 1863</date>."</p>
-<p>James P. Chambers, clerk
+<p>On the <date when="1863-10-14">14<hi rend="sup">th</hi> day of Oct. 1863</date>. a Scirefacias issued against Defendents Wicke and Andrew Straus as follows. viz.<pb/></p>
+<p>"The Commonwealth of Kentucky
+<lb/>To the Sheriff of Jefferson County.</p>
+<p>You are commanded to Summon Charles Wicke, together with Andrew Straus his bail to appear before the Judge of the Jefferson Circuit court, at the court house in the city of Louisville on the first day of <hi rend="str">Jefferson</hi> the <date when="1863-10">October term</date> of Said court, to Shew cause if any they have or can why the Commonwealth Shall not have Judgment and execution against them for eight hundred dollars each by reason of the forfeiture of a reconizance entered into by them in the city court of Louisville on the <date when="1855-09-29">29<hi rend="sup">th</hi> day of September 1855</date>. And have then and there this writ.</p>
+<p>Witness James P Chambers clerk of Said court, at the court house aforesaid this <date when="1863-10-14">14<hi rend="sup">th</hi> day of October 1863</date>."</p>
+<p>James P. Chambers. clerk
 <lb/>On this is the following return viz:</p>
-<p>"Executive on A. Straus. <date when="1863-10-15">October 15, 1863</date>.
-<lb/>Charles Wick not found.</p>
-<p>James Malona D. S. for W. A. Ronald S. J. C."</p>
+<p>"Executed on A. Straus. <date when="1863-10-15">October 15, 1863</date>.
+<lb/>Charles Wicke not found.</p>
+<p>James Malona D. S. for W. A. Ronald. S. J. C."</p>
 <p>A Copy
 <lb/>att Jas P Chambers C. J. C. C<pb/></p>
 <p>Commonwealth
-<lb/>vs
-<lb/>Andreas Strauss &amp;c</p>
-<p>Copy Recog &amp;c</p>
+<lb/>vs&#125; Copy Recog &amp;<hi rend="sup">c</hi>
+<lb/>Andreas Strauss &amp;<hi rend="sup">c</hi></p>
   </body>
  </text>
 </TEI>

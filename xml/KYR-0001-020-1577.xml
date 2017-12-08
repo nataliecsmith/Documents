@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1577"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Union County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -62,86 +64,86 @@
   <body>
    <p>To His excelleny
 <lb/>The Governor of Ky</p>
-<p>Your Petitioner John Thompson states that on the day of <date when="1861-08">August 1861</date>. He was tried before James Wickett Esqr a Justice of the peace in &amp; for Union County for a breach of the Peace Committed at the <date when="1861-08">August Election for 1861</date> at Waelin precinct in said County of Union and was fined Eighteen Dollars</p>
-<p>He says the difficulty, took place late in the evening of the election day, after most of the Crowd had got pretty merry, over the results of the election, and your Petitioner being a Southern Rights man, was insulted by some of the Crowd happen to stri<hi rend="str">ck</hi>ke one of them and &amp; for that was fined -- </p>
-<p>He will state that he is an old man the lawful father of twenty four children from three wives, thirteen of whom are living and two of them in the Southern army, That he is poor having only a small farm to support his wife &amp; younger children He therefore asked your Excellency to remit said fine &amp; promises to be her after as he was before<pb/>
+<p>Your Petitioner John Thompson states that on the day of <date when="1861-08">August 1861</date>. He was tried before James Wickett Esqr a Justice of the peace in &amp; for Union County for a brach of the Peace Committed at the <date when="1861-08">August Election for 1861.</date> at Wa<unclear/> precinct in said County of Union and was fined Eighteen Dollars</p>
+<p>He says the difficulty, took place late in the evening of the election day, after most of the Crowd had got pretty merry, over the result of the election, and your Petitioner being a Southern Rights man, was insulted by some of the Crowd happen to stri<hi rend="str">ck</hi>ke one of them and &amp; for that was fined -- </p>
+<p>He will state that he is an old man the lawful father of twenty four children from three wives, thirteen of whom are living and two of them in the Southern army, That he is poor having only a small farm to support his wife &amp; younger children He therefore asks your Excellency to remit said fine &amp; promises to be herafter as he was before<pb/>
 <lb/>except this one occasion, a peaceable, &amp; good citizen</p>
 <p>John ^his X mark^ Thompson</p>
 <p>The undersigned citizn of Union County ask the Governor to Release Mr Thompson from the foregoing fine, and though small to him it would be hard to pay</p>
-<p><hi rend="underline">Willis G Hughes</hi></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>I know Mr Thompson has had more children than any man in the Country &amp; is a good citizen W G Hughes
-<lb/><unclear>H F Deln</unclear>
-<lb/><cb n="2"/>Ben T, Cisssell
+<p><milestone unit="column" n="2"/><cb n="1"/>I know Mr, Thompson has had more children than any man in the Country &amp; is a good citizen W G Hughes
+<lb/><unclear>H F</unclear> <unclear/>
+<lb/><cb n="2"/><hi rend="underline">Willis G Hughes</hi>
+<lb/>Ben. P, Cissell
 <lb/>E. S. Cowgill
 <lb/>W, T. Teer
 <lb/>S. P. Hardy
-<lb/>James Alvey
+<lb/>James Alvy
 <lb/>G. P. Riggs
-<lb/>Geo,, W,, Seller
+<lb/>Geo,, W,, Sellers
 <lb/>Fer Becker<milestone unit="column" n="1"/></p>
 <p>Dear Sir</p>
 <p>This case is precisely similar with one you pardoned for me last session of the Legislature. I have no hesitation in saying it is a case that calls for executive clemency I am not <unclear/> for petitioner</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Wm H Berry
 <lb/>Simon Goff
-<lb/>M C Houston
+<lb/>J W C Houston
 <lb/>Sam B Houston
 <lb/>Richard Blandfort
-<lb/>William Guess
-<lb/><cb n="2"/>Ben T Cissell
+<lb/><unclear>William</unclear> G<unclear/>
+<lb/><cb n="2"/>Ben P Cissell
 <lb/>S. G. Hughes
 <lb/>L S Mitchell
 <lb/>Joseph French
 <lb/>Geo W Riddle
 <lb/>George payne
-<lb/>Louis <unclear>Fiettinge</unclear><pb/>
-<lb/><cb n="1"/>Mick Gregg
+<lb/>Louis Fie<unclear/>nger<pb/>
+<lb/><cb n="1"/>nick <unclear>Gregg</unclear>
 <lb/>Clement M Buckman
-<lb/>J, C, Compton
+<lb/>J C Compton
 <lb/>J B Buckman
-<lb/>Jones Burris
-<lb/>John. B Baley
-<lb/>M R Willer
+<lb/>James Burris
+<lb/>John. B Raley
+<lb/>M R Waller
 <lb/>Thomas Hammack
 <lb/>John R Taylor
-<lb/>J. B. Dunn
-<lb/>S. B. Hughes
+<lb/>J, B, Drury
+<lb/>S, B, Hughes
 <lb/>C, N, Buckman
-<lb/>Joseph ,O, Brown
+<lb/>Joseph, O, Brown
 <lb/>Hiram M<hi rend="sup">c</hi>Elroy
 <lb/>Th. C. Buckman
 <lb/>R: Davidson
-<lb/>W. T Drury
+<lb/>W T Drury
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Duval
 <lb/>Ja<hi rend="sup">s</hi> D Benson
 <lb/>C G mattingly
-<lb/>Samuel Brorch
+<lb/>Samuel Burch
 <lb/>Leo French
-<lb/>S D Delany
+<lb/>S D. Delany
 <lb/>G T Waller
-<lb/>S H Nell
+<lb/>S H Neel
 <lb/>James Wallace
-<lb/>W, A, Kerney
+<lb/>W A, Kerney
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. P. Riggs
 <lb/>Chas Barnett
 <lb/>A S Churchill
 <lb/>Thomas Wight
-<lb/>Saml R Heninger
-<lb/><cb n="2"/>Thomas M<hi rend="underline"><hi rend="sup">c</hi></hi>Murray
-<lb/>Harry Dyer
-<lb/>Ch: F. Schomls
+<lb/>Sam<hi rend="sup">l</hi> R <unclear/>
+<lb/><cb n="2"/>Thomas M<hi rend="sup">c</hi>Murray
+<lb/>Harvy Dyer
+<lb/>Ch: F. Scha<unclear/>
 <lb/>W<hi rend="sup">m</hi> David
-<lb/>F: Allisen
+<lb/>F, Allisen
 <lb/>Lyle Waller
 <lb/>T W Campbell
-<lb/>Saml P, Spalding
-<lb/>W<hi rend="sup">m</hi> H Kibbe
-<lb/>J W <unclear>hues</unclear>
-<lb/>Richard hardster
-<lb/>Aldred Cullen
-<lb/><unclear>Ga</unclear>briel W Abell
-<lb/>G. Fahrue
-<lb/><unclear/> Taylor
-<lb/>Minor J Griggs
+<lb/>Sam<hi rend="sup">l</hi> P, Spalding
+<lb/>wm H. <unclear>Kibbe</unclear>
+<lb/>I W <unclear>hues</unclear>
+<lb/>Richard hardester
+<lb/>Alfred Cullen
+<lb/>Gabriel W Abell
+<lb/>G. Fahrni
+<lb/>G<unclear/> Taylor
+<lb/>Minor I Griggs
 <lb/>Roland Griggs
 <lb/>Richard Burnes
 <lb/>Philip Briscoe
@@ -149,19 +151,19 @@
 <lb/>Joh Alvy
 <lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> H Barker
 <lb/>Fred Johnson
-<lb/>M, P, Green
+<lb/>M P, Green
 <lb/><unclear/> Q Pentecost
 <lb/>J R Dodge
-<lb/>Solimon K Nell
-<lb/>William Mattingly
+<lb/>Solimon K Neel
+<lb/>William Mattin^G^ly
 <lb/>John M Kerney
 <lb/>A, Hanger
 <lb/>B F Delaney
-<lb/>Robert Spalding<milestone unit="column" n="1"/><pb/>
-<lb/>Union J P
-<lb/>Remitted
-<lb/>B, M
-<lb/>$8 } Breach
+<lb/>Robert Spalding<milestone unit="column" n="1"/><pb/></p>
+<p>Union J P</p>
+<p>Remitted
+<lb/>B. M</p>
+<p>&#36;8 &#125; Breach
 <lb/>John Thompson
 <lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-12-18">Dec<hi rend="sup">r</hi> 18. 1861</date></p>
   </body>

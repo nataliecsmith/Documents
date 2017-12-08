@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0195"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,23 +63,23 @@
  <text>
   <body>
    <p>To His Excellency
-<lb/>Thos E. Bramlette Esqr
-<lb/>Gov. of Kentucky -- </p>
-<p>Your petitioners represent that they are well acquainted with Mrs Mariah Dixon of Henderson County who is about sixty five years old, a widow, in very limited circumstances, and an illiterate woman. That she was recognized to appear in the Henderson Circuit Court at its <date when="1862-12">December Term 1862</date> to <hi rend="str">appear</hi> testify in a prosecution against one Overfield. They believe her failure to attend in obedience to the recognizance was owing to her feble health and the inclemency of the weather. At the <date when="1863-06">June term 1863</date>, judgment was rendered against her for $100, on forfeiture of the recognizance taken at the term preceding And they believe that the reason she made no defense was because she was not aware that it was necessary They respectfully ask your Excellency to remit the judgement rendered against her<pb/></p>
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette Esqr
+<lb/>Gov. of Kentucky--</p>
+<p>Your petitioners represent that they are well acquainted with Mrs Mariah Dixon of Henderson County who is about sixty five years old-- a widow, in very limited circumstances, and an illiterate woman-- That she was recognised to appear in the Henderson Circuit Court at its <date when="1862-12">December Term 1862</date> to <hi rend="str">appear</hi> testify in a prosecution against one Overfield-- They believe her failure to attend in obedience to the recognizance was owing to her feble health and the inclemency of the weather-- At the <date when="1863-06">June term 1863</date>. Judgment was rendered against her for &#36;100, on forfeiture of the recognizance taken at the term preceding-- And they believe that the reason she made no defence was because she was not aware that it was necessary They respectfully ask your Excellency to remit the judgement rendered against her<pb/></p>
 <p>John Pritchett Sr
 <lb/>B. F. Wood
-<lb/>Dluey Pritchett
+<lb/><unclear>Alvey</unclear> Pritchett
 <lb/>Jacob Matson
 <lb/>Robert Brown
-<lb/>Hiram Whitledge
+<lb/>Hirum Whitledge
 <lb/>G. W. Boone
-<lb/>Joseph Purnell
+<lb/>Joseph Parnell
 <lb/>W W Minton
 <lb/>L. W. Powell
-<lb/>L. H. Powell
-<lb/>William C Gibson
-<lb/>William T handley
-<lb/>manuel oufet
+<lb/>J. H. Powell
+<lb/>William C gibson
+<lb/>william t handley
+<lb/>manul oufet
 <lb/>Charles Dixon
 <lb/>Nathan Harris
 <lb/>John Cook</p>

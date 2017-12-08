@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0057"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,58 +65,58 @@
   <body>
    <p>To his Excellency Thos E. Bramlette Gov. of the Commonwealth of Kentucky
 <lb/>Sir</p>
-<p>At the October term of the Lyon Circuit Court for the year <date when="1859">1859</date> an indictment was found by the Grand Jury of the afsd County against one W<hi rend="sup">m</hi> Goodrich for Arson, but before the Grand Jury investigated the matter a warrant issued &amp; the crime committed by Goodrich as charged was investigated by a court of Inquiry &amp; Goodrich was held over for further trial &amp; gave bail in the sum of Three hundred and Fifty Dollars ($350) Elias Smith was his surety on said bond, who died in <date when="1861-02">Feb. 1861</date> &amp; at the last June term of the Lyon Circuit Court ^for <date when="1863">1863</date>^ the bond was taken as forfeited against his Admr John W. Clark, said Goodrich not appearing at the term, but had been present at all prior terms of said Court to stand his trial, but was continued by the Commonwealth on account of the absence of their main witness and we might say with propriety their only witness which witness, both at the examining court &amp; when the Grand Jury found a<pb/>
-<lb/>true bill was incarcerated in the Lyon County Jail for stealing coffe &amp; afterwards broke Jail and effected his escape and has never been heard from since, which took place some time in 18<gap/> And when the rebellion broke out and our part of the state was torn by dissensions, Goodrich like a great many others sought reffuge in other lands and consequently his bond was forefeited, which leaves the estate of Elias Smith Decd to suffer the penalty of the forfeiture which estate ^consists^ almost entirely of a few slaves which character of property has depreciated greatly in value &amp; there is a further fact that said Decedent Smith prior to his death had gone security to a large amount for ^young^ men of the country that were trying to take a start in the world but on account of our <hi rend="str">pollititical</hi> political <note place="left margin">troubles</note> failed in business and left the burden of payment of their debts on the shoulders of Smiths Adm<hi rend="sup">r</hi>, which will almost reduce the estate to insolvency and his heirs to poverty and the last hope that was left his Adm<hi rend="sup">r</hi> to liquidate the debts against said estate without sacrificing the slave property was the present growing crop of tobacco which was utterly destroyed by last<pb/>
-<lb/>nights frost. Now we your petitioners who have subscribed our names hereto, to releive said estate and heirs from a hardship, pray your Excellency as a matter of justice and kindess to release said estate from the payment of said forgeiture on which execution has issued or so much thereof as lays in your power. And oblige &amp;c</p>
-<p>Edyville Ky <date when="1863-09-19">Sept 19<hi rend="sup">th</hi> 1863</date>
-<lb/><milestone unit="column" n="2"/><cb n="1"/>F. H. Skinner P J L C
+<p>At the <date when="1859-10">October term of the Lyon Circuit Court for the year 1859</date> an indictment was found by the Grand Jury of the afsd County against one W<hi rend="sup">m</hi> Goodrich for Arson, but before the Grand Jury investigated the matter a warrant issued &amp; the crime committed by Goodrich as charged was investigated by a court of Inquiry &amp; Goodrich was held over for further trial &amp; gave bail in the sum of Three hundred and Fifty Dollars (&#36;350) Elias Smith was his surety on said bond, who died in <date when="1861-02">Feb. 1861</date> &amp; at the last <date when="1863-06">June term of the Lyon Circuit Court ^for 1863</date>^ the bond was taken as forfeited against his Adm<hi rend="sup">r</hi> John W. Clark, said Goodrich not appearing at that term, but had been present at all prior terms of said Court to stand his trial, but was continued by the Commonwealth on account of the absence of their main witness and we might say with propriety their only witness which witness, both at the examining court &amp; when the Grand Jury found a<pb/>
+<lb/>true bill was incarcerated in the Lyon County Jail for stealing coffe &amp; afterwards broke Jail and effected his escape and has never been heard from since, which took place some time in 18<gap/> And when the rebellion broke out and our part of the state was torn by dissensions, Goodrich like a great many others sought reffuge in other lands and consequently his bond was forefeited, which leaves the estate of Elias Smith Decd to suffer the penalty of the forfeiture which estate ^consists^ almost entirely of a few slaves which character of property has depreciated greatly in value &amp; there is a further fact that said Decedent Smith prior to his death had gone security to a large amount for ^young^ men of the country that were trying to take a start in the world but on account of our <hi rend="str">pollititical</hi> political troubles failed in business and left the burden of payment of their debts on the shoulders of Smiths Adm<hi rend="sup">r</hi>, which will almost reduce the estate to insolvency and his heirs to poverty and the last hope that was left his Adm<hi rend="sup">r</hi> to liquidate the debts against said estate without sacrificing the slave property was the present growing crop of tobacco which was utterly destroyed by last<pb/>
+<lb/>nights frost. Now we your petitioners who have subscribed our names hereto, to releive said estate and heirs from a hardship, pray your Excellency as a matter of justice and kindess to release said estate from the payment of said forfeiture on which execution has issued or so much thereof as lays in your power, And oblige &amp;c</p>
+<p>Edyville Ky <date when="1863-09-19">Sept 19<hi rend="sup">th</hi> 1863</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>F. H. Skinner P J L C
 <lb/>R. R. O'Hara
 <lb/>M M Lyon
 <lb/>J T Young Shff. L. C.
 <lb/>G M Haggans
-<lb/>J. T. Stubbs
-<lb/>O M. Jenkins
-<lb/>W. W. Hollman
-<lb/>P M Hildred
-<lb/>A M fleming
+<lb/>J. L. Stubbs
+<lb/><hi rend="underline">O M. Jenkins
+<lb/></hi>W. W. Hollman
+<lb/>P M <unclear>Hildrett</unclear>
+<lb/>A M Fleming
 <lb/>Joel Howell
 <lb/>W. M. Wyatt
 <lb/>L Flash
 <lb/>D. G. Hollman
 <lb/>Rob Hayden
-<lb/>W. H. Long
-<lb/>Robert A. Jackson
+<lb/>W H Long
+<lb/>Robert. A. Jackson
 <lb/>D. L. Gardner
 <lb/>A. H. Champion
 <lb/><cb n="2"/>F. A. Wilson
-<lb/>A H Dudley Clk Lyon Circuit Court
-<lb/>Tho<hi rend="sup">s</hi>. P. Paine
+<lb/>A H Dudley Clk Lyon Circuit Court,
+<lb/>Tho<hi rend="sup">s</hi>, P, Paine
 <lb/>W. W. Primer
 <lb/>L. M. Cobb
 <lb/>John Boyd
 <lb/>W B Wadlington
 <lb/>J. N. Holloway
 <lb/>J. C. Holloway
-<lb/>Greg Henry
-<lb/>Jas N Gracey
+<lb/>Urey Henry
+<lb/>Ja<hi rend="sup">s</hi> N Gracey
 <lb/>Geo. R. Dupuy
 <lb/>Wm C. Bigham
 <lb/>James Lester
 <lb/>W M Bowman
 <lb/>Geo C Lester
 <lb/>E Z Smith
-<lb/>Thos W. Gommer
+<lb/>Thos W. Grimmer
 <lb/>Thomas Gregory<milestone unit="column" n="1"/><pb/></p>
 <p>Lyon Circuit
 <lb/>vs
 <lb/>John W Clarke
 <lb/>Admr</p>
-<p>Remit all except costs &amp; fees -- <date when="1863-10-13">Oct 13"/ 63</date></p>
+<p>Remit all- except costs &amp; fees -- <date when="1863-10-13">Oct 13<hi rend="sup">th</hi>/63</date></p>
 <p>Tho E Bramlette
 <lb/>Gov<hi rend="sup">r</hi> of Ky</p>
 <p>Elias Smith
 <lb/>Forfeiture
-<lb/>$350 -- </p>
+<lb/>&#36;350 -- </p>
   </body>
  </text>
 </TEI>

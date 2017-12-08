@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0245"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Dillingham Mize to Thomas E. Bramlette</title>
+    <title level="a" type="main">Dellingham Mize to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4364</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Allen County, Kentucky</placeName>
     <date when="1863-11-02">2 November 1863</date>
    </creation>
    <textClass>
@@ -61,14 +63,13 @@
  <text>
   <body>
    <p><stamp type="revenue"/><note place="stamp">W. M.
-<lb/><date when="1863-11-02">2 Nov
-<lb/>1863</date></note></p>
-<p>To Hon Thomas E. Brambt
-<lb/>Governor of the Commonwealth of Kentucky.</p>
-<p>Your Petitioner Dilingham Myze represents to you excellency that at the <gap/> term of the Allen Equity &amp; Criminal Court <date when="1861">1861</date>. there was a Judgament rendered agst him in favor of the Commonwealth of Ky for the sum of Twenty five Dollars ^&amp; costs of Prosecution^ on a charge of a Breach of the peace. He represents that one J. M. Sudusan &amp; Bennett Cannell got into a difficulty and your Petitioner was trying to get them parted &amp; to settle it when one Solomon Calahan made an attack upon him He states that the difficulty was forced upon him as he would not had any difficulty. He states that he is a very poor man with considerable family and can hardly live thru hard times. He has a widowed mother who is depindent upon him to a great extent for a support He had two younger Brothers both of which left his mother &amp; joined the 9<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Reg Vol. under Col Grider one of which has since been killed. He asks humbly that your excellency remit that portion of the fine going to the Com<hi rend="underline"><hi rend="sup">th</hi></hi> as it is of consideration to him &amp; for which he will ever pray &amp;c.</p>
-<p>Dillingham ^his X mark^ Mize</p>
-<p>Sworn to and subscribed before me by Dillingham Mize this <date when="1863-11-02">2<hi rend="underline"><hi rend="sup">nd</hi></hi> day of November 1863</date>.</p>
-<p>William Mansfield Judge of the Allen County Court<pb/></p>
+<lb/><date when="1863-11-02">2 Nov. 1863</date></note></p>
+<p>To Hon Thomas E. Bramlet
+<lb/>Govener of the Commonwealth of Kentucky.</p>
+<p>Your Petitioner Dilingham Myze represents to you excellency that at the <gap/> term of the Allen Equity &amp; Criminal Court, <date when="1861">1861</date>, there was a Judgement rendered agst him in favor of the Commonwealth of Ky. for the sum of Twenty five Dollars ^&amp; costs of Prosecution^ on a charge of a Breach of the peace He represents that one J. M. Sudusan &amp; Bennett Canwell got into a difficulty and your Petitioner was trying to get them parted &amp; to settle it when one Solemen Calahan made an attack upon him He states that the difficulty was forced upon him as he would not had any difficulty. He states that he is a very poor man with considerable family and can hardly live thru hard time. He has a widowed mother who is dependent upon him to a great extent for a support He had two younger Brothers both of which left his mother &amp; joined the 9<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Reg Vol. under Col Grider. one of which has since been killed. He asks humbly that your excellency remit that portion of the fine going to the Com<hi rend="underline"><hi rend="sup">th</hi></hi> as it is of consideration to him &amp; for which he will ever pray &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
+<p>Dellingham ^his X mark^ Mize</p>
+<p>Sworn to and subscribed before me by Dillingham Mize, this <date when="1863-11-02">2<hi rend="underline"><hi rend="sup">nd</hi></hi> day of November 1863</date>.</p>
+<p>William Mansfield Judge of the Allen County Court.<pb/></p>
 <p>Dillingham Myze
 <lb/>Petition to Governor</p>
   </body>

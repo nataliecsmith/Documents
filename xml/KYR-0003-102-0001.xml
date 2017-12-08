@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-102-0001"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -41,14 +44,14 @@
       <settlement>Frankfort</settlement>
       <repository>Kentucky Historical Society</repository>
       <collection>Marc Mundy Promotion</collection>
-      <idno/>
+      <idno></idno>
      </msIdentifier>
     </msDesc>
    </sourceDesc>
   </fileDesc>
   <profileDesc>
    <creation>
-    <date when="1863-09">September 1863</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -59,49 +62,50 @@
  </teiHeader>
  <text>
   <body>
-   <p><note place="header">2)</note></p>
-<p>We the undersigned Citizens of Kentucky appreciating the services and sacrifices of Colonel Marc Mundy to the cause of the Federal Union, which has been second to no man in this broad Republic respectfully solicit his promotion at the hands of the President of the United States to a rank befitting his ability and commensurate with his services and worth.</p>
+   <p><note place="header">2)</note>
+<lb/>We the undersigned Citizens of Kentucky appreciating the services and sacrifices of Colonel Marc Mundy to the cause of the Federal Union, which has been second to no man in this broad Republic, respectfully solicit his promotion at the hands of the President of the United States to a rank befitting his ability and commensurate with his services and worth,</p>
 <p>Tho E Bramlette
-<lb/>Gov<hi rend="sup">r</hi>. Kentucky
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Kentucky
 <lb/>Richard T. Jacob
 <lb/>Lt. Governor of Ky.
 <lb/>W R Kinney
 <lb/>Ky Legislature
-<lb/>J. S. Osborne
+<lb/>J, D. Osborne
 <lb/><hi rend="underline">C Ripley</hi>
-<lb/>S,, G,, Burbridge Brig Gen
-<lb/>G. Davis
-<lb/>Shirley &amp; Woolfork
+<lb/>S,, G,, Burbridge Brig. Gen
+<lb/><hi rend="underline"><hi rend="str">J</hi></hi><hi rend="underline">J. Tevis
+<lb/></hi>Sherley &amp; Woolfolk
 <lb/>James S. Wallace
 <lb/>Gibson Mallory
-<lb/>Geo. D. Prentice
+<lb/>Geo. D. Prentice.
 <lb/>S. S. Bush
-<lb/>H <unclear>M<hi rend="sup">c</hi>Fenan</unclear>
-<lb/><unclear>McFerrin</unclear> &amp; <unclear>Menifee</unclear>
+<lb/>J C M<hi rend="sup">c</hi>Ferran
+<lb/>M<hi rend="sup">c</hi>Ferran &amp; Menefee
 <lb/>E L Van Winkle
 <lb/><hi rend="underline">Secretary of State</hi>
 <lb/>Jas R Page
-<lb/>Ast Sec of State
+<lb/>Asst Sec. of State
 <lb/><hi rend="underline">John Boyle </hi>
-<lb/>Adjt. Genl Ky. Vols
-<lb/>S. G. Suddarth
-<lb/>Quarter Master Genl. of Kentucky
-<lb/>Jno C. Brent Maj 9 Ky Cavalry
-<lb/>W J Scott
-<lb/>Pay Master General
-<lb/>J T Hans Maj 9 Ky Cavalry
+<lb/>Adjt. Genl. Ky. Vols -- 
+<lb/>S. G, Suddarth
+<lb/>Quarter Master Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of Kentucky
+<lb/>Jno C. Brent Major 9 Ky Cavalry
+<lb/>W T Scott,
+<lb/>Pay Master General.
+<lb/>J T Faris Maj 9 Ky Cavalry
 <lb/>Isaac Everett
 <lb/>A Allen Ky Legislator<pb/></p>
 <p>Col. Marc Mundy
 <lb/>Promotion</p>
-<p>Recomd. by the Gov<hi rend="sup">r</hi> &amp; Lt. Gov. of Ky &amp; others</p>
-<p>A. B. <date when="1863-09-29">Sept. 29' 1863</date></p>
-<p>Submitted to the Sec of War &amp; General in Chief</p>
-<p>A Lincoln</p>
+<p>Recomd. by the Gov<hi rend="underline"><hi rend="sup">r</hi></hi> &amp; Lt. Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of Ky &amp; others</p>
+<p>A. B <date when="1863-09-29">Sept. 29" 1863</date>
+<lb/>Genl. in Chief</p>
+<p>Submitted to the Sec. of War &amp; General-in-Chief..</p>
+<p>A. Lincoln</p>
 <p><date when="1863-09-25">Sep. 25. 1863</date></p>
 <p>X
-<lb/>(M. <hi rend="str"><unclear/> <unclear/></hi>812. C.B. A.G.O. <date when="1863">1863</date></p>
-<p>Gen in Chief</p>
+<lb/>M. <hi rend="str">79</hi>812. C. B, A. G. O. <date when="1863">1863</date>,</p>
+<p>Gen in chief</p>
   </body>
  </text>
 </TEI>

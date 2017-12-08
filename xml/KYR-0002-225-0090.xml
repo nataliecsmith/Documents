@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0090"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,31 +63,31 @@
  </teiHeader>
  <text>
   <body>
-   <p>Monticello Ky. <date when="1865-11-08">Nov, 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>,
+   <p>Monticello Ky, <date when="1865-11-08">Nov, 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>,
 <lb/>Governor Bramlette,
 <lb/>Dear Sir,</p>
 <p>At the earnest request of our Sheriff and his deputy I would respectfully represent to your Excellency that some assistance is absolutely necessary to enable them to execute their official duties,</p>
 <p>They have in their hands near two hundred bench warrants against persons indicted for murder, robbery, horse stealing and other high crimes the larger share of which they are unable to execute. The criminals are for the most part armed to the teeth and banded together for the purpose of resisting the civil authorities. These bands are defiant and formidable. The <hi rend="underline">posse</hi> <hi rend="underline">comitatus</hi> system would prove impracticable and ineffectual as a means of apprehending<pb/>
 <lb/>these thieves cut-throats and scoundrels.</p>
-<p>Our Sheriffs need a regular guard of about twelve or fifteen men to go with them and with energy and system hunt down and bring to justice these high handed violatiors of the law, If consistent with your power and pleasure they would prefer having a squad of Volunteer Militia of this County organized under some one of approved courage, energy and zeal for the execution of the laws or if not they earnestly ask that a small detachment of State troops already organized armed and mounted may be sent here to their assistance,</p>
-<p>Please write me upon the subject at your earliest convenience. I am
-<lb/>with high regard
-<lb/>your obt, servt,
-<lb/>John W. Tuttle,</p>
-<p>P, S,
-<lb/>The order of Gen. Brisbin <hi rend="str">is having</hi><pb/>
-<lb/><hi rend="str">the effect that might have been expected</hi></p>
-<p>that no person should be punished for offenses committed whilst in the U. S. service &amp;c is having the effect that might have been expected, Men who deserted and came back here to rob, steal and plunder now have the audacity and insolence to claim that they are protected by that order and boldly threaten and defy all who would attempt to render them amenable to the civil law. The order if strictly construed may not in itself be wrong but it was certainly wholly unnecessary as no civil court in the Commonwealth would for a moment think of punishing a Federal soldier for acts done in the line of his duty by command of a superior.</p>
+<p>Our Sheriffs need a regular guard of about twelve or fifteen men to go with them and with energy and system hunt down and bring to justice these high handed violators of the law, If consistent with your power and pleasure they would prefer having a squad of Volunteer Militia of this County organized under some one of approved courage, energy and zeal for the execution of the laws or if not they earnestly ask that a small detachment of State troops already organized armed and mounted may be sent here to their assistance,</p>
+<p>Please write me upon the subject at your earliest convenience, I am</p>
+<p>with high regard
+<lb/>your obt. servt.
+<lb/>John W. Tuttle.</p>
+<p>P. S.
+<lb/>The order of Gen. Brisbin <hi rend="str">is</hi> <hi rend="str">having</hi><pb/>
+<lb/><hi rend="str">the</hi> <hi rend="str">effect</hi> <hi rend="str">that</hi> <hi rend="str">might</hi> <hi rend="str">have</hi> <hi rend="str">been</hi> <hi rend="str">expected</hi>
+<lb/>that no person should be punished for offenses committed whilst in the U. S. service &amp;c is having the effect that might have been expected, Men who deserted and came back here to rob, steal and plunder now have the audacity and insolence to claim that they are protected by that order and boldly threaten and defy all who would attempt to render them amenable to the civil law. The order if strictly construed may not in itself be wrong but it was certainly wholly unnecessary as no civil court in the Commonwealth would for a moment think of punishing a Federal soldier for acts done in the line of his duty by command of a superior.</p>
 <p>We all feel deeply indebted to your Excellency for bringing about a great relief to us in your recent<pb/>
-<lb/>intercessions in our behalf at Washington and if we could now only be freed from the officious intermeddling of Military blockheads with the administration of our State laws we would be about through with the heavy catalogue of troubles assigned and allotted to us from time to time since the commencement of the war and would have nothing to pray for but that in the providence of God we may have comparatively as little troubled with the approaching epidemic (cholera) as some of our sister States have had with the war,</p>
-<p>J, W, T,<pb/></p>
+<lb/>intercessions in our behalf at Washington and if we could now only be freed from the officious intermeddling of Military blockheads with the administration of our State laws we would be about through with the heavy catalogue of troubles assigned and allotted to us from time to time since the commencement of the war and would have nothing to pray for but that in the providence of God we may have comparatively as little trouble with the approaching epidemic (cholera) as some of our sister States have had with the war,</p>
+<p>J. W. T.<pb/></p>
 <p>Monticello, Ky.
 <lb/><date when="1865-11-08">Nov. 8<hi rend="sup">th</hi>, 1865</date>.<figure type="hr"/>
 <lb/>Tuttle, John W.
 <lb/>To Gov.<figure type="hr"/></p>
-<p>States that some assistance is absolutely necessary to enable the sheriff of the county to perform his official duties, and that a regular guard of 12 or 15 men is necessary for that purpose; but they would prefer having a squad of volunteer militia of the county, organized under some of approved courage, &amp;<hi rend="underline"><hi rend="sup">c</hi></hi><figure type="hr"/></p>
-<p>Ans. <date when="1865-11-15">Nov. 15/65</date>. Let. Bk B. p. 314
-<lb/><figure type="hr"/>Rec. I. G. O. <date when="1865-11-14">Nov. 14<hi rend="sup">th</hi>, 1865</date></p>
+<p>States that some assistance is absolutely necessary to enable the sheriff of the county to perform his official duties, and that a regular guard of 12 or 15 men is necessary for that purpose; but they would prefer having a squad of volunteer militia of the county, organized under some of approved courage, &amp;<hi rend="sup">c</hi>.<figure type="hr"/></p>
+<p>Ans. <date when="1865-11-15">Nov. 15/65</date>. Let. Bk B, p. 314<figure type="hr"/>
+<lb/>Rec. I. G. O. <date when="1865-11-14">Nov. 14<hi rend="sup">th</hi>, 1865</date></p>
   </body>
  </text>
 </TEI>

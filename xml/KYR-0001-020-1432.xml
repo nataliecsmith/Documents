@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1432"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,10 +63,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>The undersigned States that he has heard what he thinks and regards as all the legitimate evidence &amp; circumstances attendant on the case of The Commonwealth of Ky. agt John J M<hi rend="underline"><hi rend="sup">c</hi></hi>Afee <hi rend="str">for</hi> now pending in the Jessamine Circuit Court for alledged shooting at W<hi rend="underline"><hi rend="sup">m</hi></hi> M<hi rend="sup">c</hi>Dowell with intent to kill in the town of Nicholasville on the <date when="1861-08-05">5<hi rend="sup">th</hi> day of August 1861</date> -- &amp; ^in^ his judgement &amp; opinion he considers &amp; regards the Bail of said M<hi rend="underline"><hi rend="sup">c</hi></hi>Afee of $4000 -- as fined by the examining Court at his trial as an excessive &amp; exorbitant Bail -- He further thinks from evidences &amp; manifestations in the Community both before &amp; since his said trial &amp; up to the present time -- that the personnal appearance of said M<hi rend="underline"><hi rend="sup">c</hi></hi>Afee in this Community on account of the prejudice &amp; excitement against him <hi rend="str"><unclear/></hi> would be accompanied with hazard &amp; peril of his life
+   <p>The undersigned States that he has heard what he thinks and regard as all the legitimate evidences &amp; circumstances attendant on the case of the Commonwealth of Ky. agt John J. M<hi rend="underline"><hi rend="sup">c</hi></hi>Afee <hi rend="str">for</hi> now pending in the Jessamine Circuit Court for alledged shooting at W<hi rend="underline"><hi rend="sup">m</hi></hi> M<hi rend="sup">c</hi>Dowell with intent to kill in the town of Nicholasville on the <date when="1861-08-05">5<hi rend="sup">th</hi> day of August 1861</date> -- &amp; ^in^ his judgement &amp; opinion he considers &amp; regards the Bail of said M<hi rend="underline"><hi rend="sup">c</hi></hi>Afee of &#36;4000 -- as fined by the examining Court at his trial -- as an excessive &amp; exorbitant Bail -- &amp; he further thinks from evidences &amp; manifestations in the Community both before &amp; Since his said trial &amp; up to the present time-that the personnal appearance of said M<hi rend="underline"><hi rend="sup">c</hi></hi>Afee in this Community on account of the prejudice &amp; excitement against him <hi rend="str"><unclear/></hi> would be accompanied with hazard &amp; peril of his life
 <lb/>Nicholasville Ky
-<lb/><date when="1861-09-17">Sept 17. 1861 -- </date></p>
-<p>H. J. Campbell Presiding Judge
+<lb/><date when="1861-09-17">Septr 17. 1861 -- </date></p>
+<p>H, J, Campbell Presiding Judge
 <lb/>Jessamine County Court</p>
   </body>
  </text>

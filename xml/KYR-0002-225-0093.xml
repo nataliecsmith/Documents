@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0093"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Jesse Despain to Thomas E. Bramlette</title>
+    <title level="a" type="main">Jesse DeSpain to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG14122</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Green County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -61,15 +63,14 @@
  <text>
   <body>
    <p>To his Excellency
-<lb/>Thos. E. Bramlet Govener of the Commonwealth of Kentucky</p>
-<p>your Petitioner was 1<hi rend="sup">st</hi> Lieut in 13<hi rend="sup">th</hi> Ky infty in the service of the united States and would respectfully ask permission to form a Squad of about 30 men of the old 13 in order to rid my county of guerrills. Green County Ky and wish a commission and all the assistance you can furnish that is compatible with your <unclear/> the old 13<hi rend="sup">th</hi> Regt infty was mustered out of Service on the <date when="1865-01-12">12<hi rend="sup">th</hi> day of January 1865</date></p>
-<p>Jessee Despain of Green County Ky<pb/></p>
-<p>Green Co. Ky
-<lb/><note place="left margin">13</note><figure type="hr"/>
+<lb/>Thos. E. Bramlet Govenor of the Commonwealth of Kentucky</p>
+<p>your Petitioner was 1<hi rend="sup">st</hi> Lieut in 13<hi rend="sup">th</hi> Ky infty in the service of the united States and would respectfully ask permission to form a Squad of about 30 men of the old 13 in order to rid my county of guarrills, Green County Ky and wish a commission and all the assistance you can furnish that is compatible with your <unclear/> the old 13<hi rend="sup">th</hi> Regt infty was Mustered out of Service on the <date when="1865-01-12">12<hi rend="sup">th</hi> day of January 1865</date></p>
+<p>Jessee DeSpain of Green County Ky<pb/></p>
+<p>Green Co. Ky<figure type="hr"/>
 <lb/>Despain Jessee
 <lb/>Late 1<hi rend="sup">s</hi> Lt. 13" Ky Infy.<figure type="hr"/>
 <lb/>To The Gov.<figure type="hr"/></p>
-<p>Desires authority to raise a force of 30 of the 13" Ky for protection of this county -- <figure type="hr"/></p>
+<p>Desires authority to raise a force of 30 of the 13" Ky for protection of this county.<figure type="hr"/></p>
 <p>L B N<hi rend="sup">o</hi> 10 -- <date when="1865">1865</date> P. 423<figure type="hr"/>
 <lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-03-14">14 Mar. 1865</date></p>
   </body>

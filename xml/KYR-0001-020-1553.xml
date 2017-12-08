@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1553"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Denis Haly et al. to Beriah Magoffin</title>
+    <title level="a" type="main">Denis Haly to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG11021</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Frankfort, Franklin County, Kentucky</placeName>
     <date when="1861-11-09">9 November 1861</date>
    </creation>
    <textClass>
@@ -60,26 +62,26 @@
  </teiHeader>
  <text>
   <body>
-   <p><date when="1861-11-09">9<hi rend="sup">th</hi> Nov 1861</date>
+   <p><date when="1861-11-09">9<hi rend="sup">th</hi> Nov 1861</date>.
 <lb/>To his Exelency
 <lb/>Gov<hi rend="sup">r</hi> M<hi rend="sup">c</hi>Goffin</p>
-<p>Your Petioner hereby State<hi rend="sup">s</hi> that he has been fined Seven Dollars and <hi rend="sup">50</hi>/<hi rend="sub">100</hi> for a breach of the Peace in a difficulty with M<hi rend="sup">r</hi> W<hi rend="sup">m</hi> <hi rend="str">K</hi>Cavenaugh which occured on last saturday evening and was brought on by s<hi rend="sup">d</hi> Cavenaugh attempting to draw a weapon on me I was forced to strike him in self defense the above statement was proven on the trial. The blow was struck by me without malice or forthought</p>
+<p>Your Petioner hereby State<hi rend="sup">s</hi> that he has been fined Seven Dollars and <hi rend="sup">50</hi>/<hi rend="sub">100</hi> for a breach of the Peace in a difficulty with M<hi rend="sup">r</hi> W<hi rend="sup">m</hi> <hi rend="str">K</hi>Cavenaugh which occured on last saturdy evening and was brought on by s<hi rend="sup">d</hi> Cavenaugh attempting to draw a weapon on me I was forced to strike him in self defense the above statement was proven on the trial. the blow was struck by me without malice or forthought</p>
 <p>Your petitioner would humbly ask you to releive him from the fine improsed on me</p>
 <p>Denis Haly</p>
-<p>The undersigned join in the above petition</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Ja<hi rend="sup">s</hi>. P. OHara
+<p>The undersigned join in the above petition
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> P, OHara
 <lb/>H. Hardie
 <lb/>B. F. Johnson
 <lb/>P. Joyce
-<lb/><hi rend="underline">Jno. N. Major
+<lb/><hi rend="underline">Jno. B. Major
 <lb/></hi><cb n="2"/>Hugh Leonard
 <lb/>W. R. Robinson
-<lb/>J. W. South
-<lb/>T. Callaghan<milestone unit="column" n="1"/><pb/></p>
-<p>Frankfort Po Ct</p>
-<p>Respite<hi rend="sup">d</hi> 6 mo<hi rend="sup">s</hi>.
+<lb/>J, W, South
+<lb/>T. <hi rend="underline">Callaghan</hi><milestone unit="column" n="1"/><pb/></p>
+<p>Frankfort Po ct</p>
+<p>Respite 6 mo<hi rend="underline"><hi rend="sup">s</hi></hi>
 <lb/>B. M</p>
-<p>$7<hi rend="underline"><hi rend="sup">50</hi></hi> } Breach
+<p>&#36;7<hi rend="underline"><hi rend="sup">50</hi></hi> &#125; Breach
 <lb/>D. Haly
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-11-11">Nov. 11. 1861</date></p>
   </body>

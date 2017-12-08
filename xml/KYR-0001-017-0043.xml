@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0043"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,11 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000560">Bowling green Ky</placeName> <date when="1861-01-07">January 7th 1861</date>
-<lb/>To His Excellency Hon. <persName ref="cwgk:N00000258">B. Magoffin</persName></p>
-<p>Dear sir your humble petitioner is a man 24 years old that has bin afflicted all off his Life with the asthma and has just got cured of that and is not able to perform manuel Labor I have ben a Reading Law for some time I ask the appointment of Notary Public for to take Deppositions for Bowling green and <placeName ref="cwgk:P001020">Warren county</placeName> if the recommendations that I send are all Right in your Judgment I would bee glad to Receive the appointment direct yours to me at Bowling green Ky</p>
+   <p>Bowling green Ky <date when="1861-01-07">january 7th 1861</date>
+<lb/>To His
+<lb/>Excellency
+<lb/>Hon. B, Magoffin</p>
+<p>Dear sir your humble petitioner is a man 24 years old that has bin afflicted all off his Life with the asthma and has just got cured of that and is not able to perform manuel Labor I have ben a Reading Law for Some time I ask the appointment of Notary Public for to take Deppositions for Bowling green and Warren county if the recommendations that I send are all Right in your Judgment I would bee glad to Receive the appointment Direct yours to me at Bowling green Ky</p>
 <p>yours truly
-<lb/><persName ref="cwgk:N00002035">W. P. Hays</persName><pb/></p>
+<lb/>W. P. Hays<pb/></p>
 <p>A</p>
   </body>
  </text>

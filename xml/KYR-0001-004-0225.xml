@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0225"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,38 +65,38 @@
    <p>Execution No. 119
 <lb/>Commonwealth Ky 
 <lb/>vs.
-<lb/>H. H. Hughes. Clk Marion County ct. &amp; Green Forrest. B. Spalding. J. M. Fogle and James S. Gastin Sureties</p>
-<p>Judgement rend at <date when="1863-06">June Term 1863</date> vs the above named principal &amp; surieties
+<lb/>H. H. Hughes. Clk. Marion County ct. &amp; Green Forrest. B. Spalding. J. M. Fogle and James S. Gastin Sureties</p>
+<p>Judgement rend at <date when="1863-06">June Term 1863</date> vs the above named principal &amp; Surieties
 <lb/><table rend="rules">
 <row>
-	<cell>For. amt. of Debt</cell>
-	<cell>$307.81</cell>
+	<cell>For. amt. of. Debt.</cell>
+	<cell>&#36;307.81</cell>
 </row>
 <row>
-	<cell>Int. from <date when="1863-07-03">3rd July 1863</date>.</cell>
+	<cell>Int. from. <date when="1863-07-03">3<hi rend="underline"><hi rend="sup">d</hi></hi> July. 1863</date>.</cell>
 	<cell>5.30</cell>
 </row>
 <row>
-	<cell>Damaged.</cell>
+	<cell>Damages.</cell>
 	<cell>61.56</cell>
 </row>
 <row>
 	<cell>Cost.</cell>
-	<cell>7.45</cell>
+	<cell><hi rend="underline">7.45</hi></cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>$382.12</cell>
+	<cell>&#36;382.12</cell>
 </row>
 </table>
-<lb/>which Judgement has been paid except the Damages. $61.<hi rend="sup">56</hi>/<hi rend="sub">100</hi>. partly by claims due Hughes &amp; balance by Sureties. who respectfully request His Excellency the Governor to remit said Damages</p>
+<lb/>which Judgement has been paid except the Damages. &#36;61.<hi rend="sup">56</hi>/<hi rend="sub">100</hi>. partly by claims due Hughes &amp; balance by Sureties. who respectfully request <hi rend="str">Y</hi>His Excellency the Governor to remit said Damages</p>
 <p>Grant Green
-<lb/>Aud<hi rend="sup">r</hi>
+<lb/><hi rend="underline">Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi>
 <lb/><date when="1863-10-28">28 Octr 1863</date>.<pb/></p>
 <p>Franklin Cir Ct
 <lb/>vs
 <lb/>H. H. Hughes &amp; sureties
-<lb/>Damages $61.56</p>
+<lb/>Damages &#36;61,<hi rend="underline"><hi rend="sup">56</hi></hi></p>
 <p>Remit the damages
 <lb/><date when="1863-10-28">Oct 28<hi rend="sup">th</hi> 1863</date>
 <lb/>Tho. E. Bramlette</p>

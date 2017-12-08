@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0095"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,13 +64,14 @@
  <text>
   <body>
    <p>Office of Secretary of State.
-<lb/>Frankfort, <date when="1861-06-25">June 25, 1861</date>
+<lb/>Frankfort, <date when="1861-06-25">June 25, 1861.</date>
 <lb/>To His Excellency
 <lb/>Abraham Lincoln
-<lb/>President of the United States
+<lb/>President of the United states
+<lb/>Washington D.C.
 <lb/>Dear Sir:
 <lb/>Sir</p>
-<p>I have the honor to present to you Mr Saumuel Gill one of the Commissioners appointed by the Legislature of Kentucky to carry into effect the Military Law of the state and Capt Chas D Pennebaker a Senator in the Ky Legislature from the county of Jefferson who was highly prominent in the passage of the law referred to. These gentlemen will communicate with you touching matters of public importance and are entitled to your confidence and consideration</p>
+<p>I have the honor to present to you Mr Samuel Gill one of the Committee men appointed by the Legislature of Kentucky to carry into effect the Military Law of the state And Capt Chas D Pennebaker a Senator in the Ky Legislature from the county of Jefferson who was highly prominent in the passage of the law referred to. These gentlemen will communicate with you touching matters of public importance and are entitled to your confidence and consideration</p>
 <p>Very Res
 <lb/>Your Obdt. Servt</p>
   </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0541"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -69,20 +64,22 @@
  <text>
   <body>
    <p>Auditors Office Ky.
-<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName> <date when="1863-08-11">Aug 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
-<lb/>To His Excellency
-<lb/><persName ref="cwgk:N001004">J F Robinson</persName>.<lb/>Dear Sir</p>
-<p><persName ref="cwgk:N00000865">Frank Catron</persName> the Sheriff of <orgName ref="cwgk:O00000646">Knox Co</orgName> for <date when="1861">1861</date> has paid the revenue in full for that year, and I recommend that you remit the damages incurred by him for a failure to pay at the time required by law. <orgName ref="cwgk:O00000646">Knox Co</orgName>unty has been overrun by both armies since the commencement of the War. and it is no fault of Mr Catron that the revenue was not collected and paid at the time required, for he made every exertion that a man could to get it, as the best evidence before me shows. I therefore think his case one in which you can properly exercise the pardoning power and I hope ^you^ will do it.</p>
+<lb/>Frankfort <date when="1863-08-11">Aug 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.
+<lb/>To His Excellency,
+<lb/>J F Robinson.
+<lb/>Dear Sir</p>
+<p>Frank Catron the Sheriff of Knox Co for <date when="1861">1861</date>. has paid the revenue in full for that year, and I recommend that you remit the damages incurred by him for a failure to pay at the time required by law. Knox County has been overrun by both armies since the commencement of the War. and it is no fault of Mr Catron that the revenue was not collected and paid at the time required, for he made every exertion that a man could to get it, as the best evidence before me shows. I therefore think his case one in which you can properly exercise the pardoning power and I hope ^you^ will do it.</p>
 <p>Respectfully
-<lb/><persName ref="cwgk:N00000466">Grant Green</persName><lb/><hi rend="underline">Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi>
-<lb/>Damages $396 <hi rend="sup">94</hi>\<hi rend="sub">100</hi><pb/></p>
-<p><orgName ref="cwgk:O00000376">Franklin Cir Ct</orgName><lb/>$396.94
-<lb/>Damages remitted
-<lb/><hi rend="underline">J F Robinson</hi>
-<lb/>Frank Catron
+<lb/>Grant Green
+<lb/><hi rend="underline">Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi>
+<lb/>Damages &#36;396 <hi rend="sup">94</hi>/<hi rend="sub">100</hi><pb/></p>
+<p>Franklin Cir. Ct
+<lb/>&#36;396.94</p>
+<p>Damages remitted
+<lb/><hi rend="underline">J F Robinson</hi></p>
+<p>Frank Catron
 <lb/>Shff of Knox
-<lb/>Iss<hi rend="sup">d</hi> <date when="1863-08-11">Aug 11. 1863</date>
-<lb/></p>
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-08-11">Aug 11. 1863</date></p>
   </body>
  </text>
 </TEI>

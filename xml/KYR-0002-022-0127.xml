@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0127"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,13 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Vancburg Ky. <date when="1863-10-15">Oct. 15, 1863.</date>
+   <p>Vancburg Ky. <date when="1863-10-15">Oct, 15, 1863</date>.
 <lb/>Hon. H. Taylor
-<lb/>Maysville Ky,
+<lb/>Mays<hi rend="str">s</hi>ville Ky,
 <lb/>My Dear Sir,</p>
-<p>I see from the Maysville Eagle of this week that Genl. John Boyle desires Some two persons in Each county recommended for Col. &amp; Luty. Col. to organize a force for State defence under the State guard law.</p>
-<p>I would be glad &amp; so would all conservative men in Lewis if you would have Liutenant A. J. Farrow (late of the 10<hi rend="sup">th</hi>) appointed Col. &amp; Elias D. Secrest, appointed Lieut. Col. for that purpose both have Served with credit to themselves in the 10<hi rend="underline"><hi rend="sup">th</hi></hi> Farrow was 1<hi rend="sup">st</hi> Liutenant in Milt. Evans Com. &amp; both are in favor of putting down the rebelion as well as the freebooters &amp; robers-<pb/>
-<lb/>&amp; I can tell you that all of our Union men are not in favor of punishing the robers that infest our county, for if they (the leading Union Men) had discountenanced it from the Start, we would not of had half the trouble we have had The conservative Union Men have always agreed with you, Wadsworth Gov. Bramlet &amp; other loyal men, &amp; we ask you to Step up &amp; help us get a good man appointed now, as the radicals will get one of their number appointed if they can, write to the Gov. &amp; Genl Boyle immediately. Secrest lives at Concord &amp; Farrow at Poplar Flat. P. O. Excuse us for Troubling you so much-</p>
+<p>I see from the Maysville Eagle of this week that Genl. John Boyle desires Some two persons in Each county recommended for Col. &amp; Liut, Col<hi rend="str">e</hi>, to organize a force for State defence under the State guard law,</p>
+<p>I would be glad &amp; so would all conservative men in Lewis, if you would have Liutenant A. J. Farrow (late of the 10<hi rend="sup">th</hi>) appointed Col. &amp; Elias D. Secrest, appointed Liut, Col. for that purpose-- both have Served with credit to themselves in the 10<hi rend="underline"><hi rend="sup">th</hi></hi> Farrow was 1<hi rend="underline"><hi rend="sup">st</hi></hi> Liutenant in Milt. Evans Com, &amp; both are in favor of putting down the rebelion as well as the freebooters &amp; robers -- <pb/>
+<lb/>&amp; I can tell you that all of our union men are not in favor of punishing the robers that infest our county, for if they (the leading union men) had discountenanced it from the Start, we would not of had half the trouble we have had The conservative union men have always agreed with you, Wadsworth Gov. Bramlet &amp; other loyal men, &amp; we ask you to step up &amp; help us get a good man appointed now, as the radicals will get one of their number appointed if they can, write to the Gov. &amp; Genl, Boyle, immediately-- Secrest lives at Concord &amp; Farrow at Poplar Flat, P. O, Excuse us for Troubleing you So much--</p>
 <p>Very Truly
 <lb/><hi rend="underline">W. C. Halbert</hi></p>
   </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0199"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <date>n.d.</date>
+    <date when="1863-10-26">26 October 1863</date>
    </creation>
    <textClass>
     <keywords>
@@ -60,28 +63,28 @@
  <text>
   <body>
    <p>E. B. Treadway
-<lb/>Sheriff Owsley County</p>
-<p>Revenue <date when="1861">1861</date>
-<lb/><table rend="rules">
+<lb/>Sheriff Owsley County
+<lb/>Revenue <date when="1861">1861</date></p>
+<p><table rend="rules">
 <row>
 	<cell>Amount of Judgment for Principal</cell>
-	<cell>$366.30</cell>
+	<cell>&#36;366.30</cell>
 </row>
 <row>
 	<cell>" " " " Damages</cell>
 	<cell>73.26</cell>
 </row>
-</table>
-<lb/>Paid in full except Damages</p>
-<p><date when="1863-10-26">Oct 26<hi rend="sup">th</hi> 1863</date>
-<lb/>Attest C. Bailey
-<lb/>Asst Aud<pb/></p>
+</table></p>
+<p>Paid in full except Damages
+<lb/><date when="1863-10-26">Oct 26<hi rend="sup">th</hi> 1863</date> -- </p>
+<p>Attest C. Bailey
+<lb/><hi rend="underline">Asst Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi><pb/></p>
 <p>Franklin Cir Ct.
 <lb/>vs
 <lb/>E. B. Treadway
 <lb/>Shff Owsley Co
-<lb/>Damages $73.<hi rend="sup">26</hi>
-<lb/>Remt<hi rend="sup">d</hi> <date when="1863-10-27">27<hi rend="sup">th</hi> Oct/ 63</date></p>
+<lb/>Damages &#36;73.<hi rend="underline"><hi rend="sup">26</hi></hi>
+<lb/>Remt<hi rend="sup">d</hi> <date when="1863-10-27">27<hi rend="sup">th</hi> Oct/63</date></p>
   </body>
  </text>
 </TEI>

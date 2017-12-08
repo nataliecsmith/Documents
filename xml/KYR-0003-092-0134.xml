@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0134"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,17 +65,17 @@
   <body>
    <p>Franklin Co <date when="1862-04-17">April 17<hi rend="sup">th</hi> 62</date>
 <lb/>My Dear Sir</p>
-<p>I have received your note in relation to the funeral of my esteemed friend Mr Geo Johnson and am very sorry that it finds me in such a condition that is so impossible for me to speak. I got wet some days since in returning from Lexington &amp; have been in consequence suffering with an affection of my throat, to which I am subject, &amp; have been almost unable to make myself understood untill yesterday &amp; there attempting to read for a few moments at a prayer meeting I became so hoarse as to be scarcely able to speak atall. I know that were I to attempt it I should break down &amp; perhaps produce permanent disease of my throat. It will give me a mournful satisfaction to go to the burial if the weather permits, but you will have to get some other speaker<pb/>
-<lb/>I have been this morning informed that the Pastor of Georgetown Church told a minister a short time since who sympathizes with the South that the Church would not permit him to ask that minister unto his pulpit &amp; I very much fear that you will be denied the use of the house. I hope however for the sake of humanity &amp; and the good name of Christianity that no objection may be made. I will go or send to see Mr George Hewet this evening &amp; get him to attend &amp; I have no doubt he will take pleasure in officiating sh<hi rend="sup">d</hi> you wish it.</p>
-<p>Please say to Mr<hi rend="sup">s</hi> Johnson that she has my heartfelt sympathy. I know that no earthly consolation can reach her sorrow &amp; I w<hi rend="sup">d</hi> not mock her with this offer. But I trust she has an interest with him who has said he is a husband to the widow.</p>
+<p>I have received your note in relation to the funeral of my esteemed friend M<hi rend="sup">r</hi> G W Johnson and am very sorry that it finds me in such a condition that it is impossible for me to speak. I got wet some days since in returning from Lexington &amp; have been in consequence suffering with an affection of my throat, to which I am subject, &amp; have been almost unable to make myself understood untill yesterday &amp; then attempting to read for a few moments at a prayer meeting I became so hoarse as to be scarcely able to speak atall. I Know that were I to attempt it I should break down &amp; perhaps produce permanent disease of my throat. It will give me a mournful satisfaction to go to the burial if the weather permits, but you will have to get some other speaker<pb/>
+<lb/>I have been this morning informed that the Pastor of Georgetown Church told a minister a short time since who sympathizes with the South that the Church would not permit him to ask that Minister unto his pulpit &amp; I very much fear that you will be denied the use of the house. I hope however for the sake of humanity &amp; the good name of Christianity that no objection may be made. I will go or send to see M<hi rend="sup">r</hi> George Hunt this evening &amp; get him to attend &amp; I have no doubt he will take pleasure in officiating sh<hi rend="sup">d</hi> you wish it.</p>
+<p>Please say to M<hi rend="sup">rs</hi> Johnson that she has my heartfelt sympathy. I know that no earthly consolation can reach her sorrow &amp; I w<hi rend="sup">d</hi> not mock her with their offer. But I trust she has an interest with him who has said he is a husband to the widow.</p>
 <p>May God protect her noble boys who are battling for their homes.</p>
-<p>Very truly yrs
-<lb/>C. Lewis<pb/></p>
-<p>Mr J Stoddard Johnston
+<p>very truly yrs
+<lb/>C Lewis<pb/></p>
+<p>M<hi rend="sup">r</hi> J Stoddard Johnston
 <lb/>Present</p>
-<p>It will not do to rely on the uncertainty of George Hunt's acting, especially from the feeling which prevails in his Church averse to it.</p>
-<p>I shall immediately write to D<hi rend="sup">r</hi> Rankin to see Mr Mcginn the Pastor of the Reformed Church. I know he will take pleasure in officiating.</p>
-<p><hi rend="str">J.</hi> <gap/>J.S J.</p>
+<p>It will not do to rely on the uncertainty of George Hunt's acting, especially from the feeling which prevails in his church. averse to it.</p>
+<p>I shall immediately write to D<hi rend="sup">r</hi> Rankin to see Mr Maginn the Pastor of the Reformed Church. I know he will take pleasure in officiating</p>
+<p><hi rend="str">J.</hi> J. S J.</p>
   </body>
  </text>
 </TEI>

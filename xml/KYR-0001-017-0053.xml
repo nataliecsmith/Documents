@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0053"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,10 +65,10 @@
    <p>Jefferson Co<figure type="hr"/>
 <lb/>Notary
 <lb/>Jno. B. Bell
-<lb/>Ap<hi rend="sup">d</hi>. <date when="1861-01-22">Jany 22. 1861</date><figure type="hr"/>
-<lb/>L. H. Roussear
+<lb/>Ap<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-01-22">Jany 22. 1861</date><figure type="hr"/>
+<lb/>L. H. Rousseau
 <lb/>Rob. A. Watts
-<lb/><date when="1861-01-22">Jany 22<hi rend="sup">d</hi>. 1861</date></p>
+<lb/><date when="1861-01-22">Jany 22<hi rend="underline"><hi rend="sup">d</hi></hi> 1861</date></p>
   </body>
  </text>
 </TEI>

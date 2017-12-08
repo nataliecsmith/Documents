@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0055"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,13 +64,13 @@
  <text>
   <body>
    <p>Walnut. St. Louisville <date when="1862-10-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> Oct 1862</date>
-<lb/>By telegraph from Bardstown
+<lb/>By telegraph from. Bardstown
 <lb/>To James. F. Robinson
 <lb/>Gov of Ky</p>
-<p>Our information here is that the battle commenced between Gen. M<hi rend="sup">c</hi>Cooks Corps. D. Armee on our side and Gen. Braggs main forces at one o'clock pm on <date when="1862-10-08">Wednesday</date> at the farm of Jordan-Peters about two miles from Perryville lasted till night. about which time Gen. Crittendens Corps. D. Armee came into action. Gen. Woods division which includes. Col. Grigsby's Regt participated for half <hi rend="str">an</hi> hour or so when darkness seperated the combat. the enemy withdrawing in the direction of Harrodsburg where he was hemmed in during Yesterday. Cut off it is said from Gen. Kirby Smith. Our Army is reported to be advantageously situated in all sides of the enemy and in high spirits -- Confident of victory -- Our loss is not yet <pb/>
-<lb/>Accurately known but is supposed to be about fifteen hundred 1,500 Killed and wounded. The enemys loss being greater -- among the killed are Gen. J. S. Jackson Gen W. S. Terrill and Col. Webster whose bodies passed here and will reach your city tonight. Col. W<hi rend="underline"><hi rend="sup">m</hi></hi> Lyttle was mortally wounded and died yesterday. Gen. Rosseau is said to be wounded. there is a rumor that Bragg &amp; Buckner are both Killed. but this is not believed here -- </p>
-<p>John E. Newman</p>
-<p>198 L. 208 col</p>
+<p>Our information here is that the battle commenced between Gen. M<hi rend="sup">c</hi>Cooks Corps D. Armee on our side and Gen. Braggs Main forces at one o'clock p.m on <date when="1862-10-08">Wednesday</date> at the farm of Jordan- Peters about two miles from Perryville lasted till night. about which time Gen. Crittendens Corps. D. armee came into action. Gen. Woods division which includes Col. Grigsby's Regt participated for half <hi rend="str">an</hi> hour or so when darkness seperated the combat. the enemy withdrawing in the direction of Harrodsburg where he was hemmed in during Yesterday, Cut off it is said from Gen. Kirby Smith, Our Army is reported to be advantageously situated in all sides of the enemy and in high spirits Confident of victory- Our loss is not yet<pb/>
+<lb/>accurately known but is supposed to be about fifteen hundred 1,500 Killed and wounded. The enemys loss being greater- among the killed are Gen. J. S. Jackson Gen W. S. Terrill and Col. Webster whose bodies passed here and will reach your city tonight. Col. W<hi rend="underline"><hi rend="sup">m</hi></hi> Lyttle was mortally wounded and died yesterday. Gen. Rosseau is said to be wounded. there is a rumor that Bragg &amp; Buckner are both Killed. but this is not believed here -- </p>
+<p>John. E. Newman</p>
+<p>198 L 2.08 Col</p>
   </body>
  </text>
 </TEI>

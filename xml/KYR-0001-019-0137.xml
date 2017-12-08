@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0137"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,29 +65,28 @@
   <body>
    <p>Columbus Ky <date when="1861-09-09">Sept. 9. 1861</date>
 <lb/>Gov. B. Magoffin</p>
-<p>A Military necessity having required me to occupy this town, I have taken possession of it by the forces under my Command. The circumstances leading to this act were reported promptly to the President of the Confederate States -- His reply was the necessity justified the action. A copy of my proclamation I have the honor to transmit to you by mail.</p>
+<p>A Military necessity having required me to occupy this town, I have taken possession of it by the forces under my Command. The circumstances leading to this act were reported promptly to the President of the Confederate States -- His reply was the necessity justified the action. A copy of my proclamation I have the honor to transmit you by mail.</p>
 <p>Respectfully
 <lb/>Leonidas Polk
-<lb/>Maj Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Commanding
-<lb/>Columbus Ky
-<lb/><date when="1861-09-09">Sept<hi rend="underline"><hi rend="sup">r</hi></hi> 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>.</p>
-<p>Gov. B. Magoffin
+<lb/>Maj Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Commanding</p>
+<p>Columbus Ky
+<lb/><date when="1861-09-09">Sept<hi rend="underline"><hi rend="sup">r</hi></hi> 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>.
+<lb/>Gov. B. Magoffin
 <lb/>Frankfort Ky</p>
-<p>I should have dispatched you immeidately as the Troops under my command took possession of this position (the very few words I addressed to the people here) but my duties since that time have so pressed<pb/>
-<lb/>me that I have but now the first leisure time to communicate with you. It will be sufficient for me to inform you which my short address here will do, that I had information in which I could rely that the Federal forces intended and were preoparing to Seize Columbus. I need not describe the danger resulting to West Tennessee from such success accompanined to my responsibility could not permit them quietly to loose ^(by)^ the command intended to me of so important a position. In evidence of the information I possessed I will State as the Confederate forces occupied this place the Federal Troops were formed in formidable numbers, in position upon the opposite bank, with their Cannon turned upon Columbus, the citizens of the Town had fled with terror and not a word of assurance of safety or protection had been addressed to them Since I have taken possession of this place I have been informed by highly responsibile citizens of your State<pb/>
-<lb/>that certain representatives of the Federal Government are setting up complaints of my act of occupying it and are making it a picture for seizing orther positions, when this course of proceeding I have no Coment to make, but I am prepared to say that I will agree to withdraw the Confederate troops from Ky, provided she will agree that the troops of the Federal government be withdrawn Simultaneously, with a guarantee, which I will give reciprocally for the Confederate Government, that the Federals shall not be allowed to enter or occupy any point of Ky in the future. I have the honor to be Your obedient servant</p>
+<p>I should have dispatched you immediately as the Troops under my command took possession of this position, (the very few words I addressed to the people here) but my duties since that time have so pressed<pb/>
+<lb/>me that I have but now the first leisure time to communicate with you. It will be sufficient for me to inform you which my short address here will do, that I had information in which I could rely that the Federal forces intended and were preparing to seize Columbus. I need not describe the danger resulting to West Tennessee from such success accmpanied to my responsibility could not permit them quietly to loose ^(by)^ the command intrusted to me of so important a position. In evidence of the information I possessed, I will State as the Confederate forces occupied this place the Federal troops were formed in formidable numbers, in position upon the opposite bank, with their cannon turned upon Columbus, The citizens of the Town had fled with terror and not a word of assurance of safety or protection had been addressed to them. Since I have taken possession of this place I have been informed by highly responsible citizens of your state<pb/>
+<lb/>that certain representatives of the Federal Government are setting up complaints of my act of occupying it, and are making it a picture for seizing other positions. upon this course of proceeding I have no Coment to make, but I am prepared to say that I will agree to withdraw the Confederate troops from Ky, provided she will agree that the troops of the Federal government be withdrawn Simultaneously, with a guarantee, which I will give reciprocally for the Confederate Government, that the Federals shall not be allowed to enter or occupy any point of Ky in the future. I have the honor to be Your obedient servant</p>
 <p>Respectfully
 <lb/>Leonidas Polk
 <lb/>Major Genl. Commanding</p>
-<p>Proclamatiion of Genl. Polk
-<lb/>To the Corporate Authorities of Columbus Ky</p>
+<p>Proclamation of Genl. Polk To the Corporate Authorities of Columbus Ky,</p>
 <p>The Federal Government having<pb/>
-<lb/>in defiance of the wishes of the people of KY. disregarded their neutrality, by establishing Camps and Depots of Arms, and by organizing Military Companies within their Territory &amp; by constructing a military work on the Missouri shore immediately opposite and commanding Columbus, evidently intend to cover the landing of Troops for the seizure of that Town. It has become a military necessity for the defense of the Territory of the Confederate States that the Confederate forces occupy Columbus in advance, The Major Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Commanding, has therefore not felt himself at liberty to risk the loss of so important a position, but has decided to occupy it. In pursuance of this descission he has thrown a sufficent force into the town and ordered fortifying it. It is gratifying to know that the presence of his Troops is acceptable to the people of Columbus and on this occasion they assure them<pb/>
-<lb/>that every precaution will be taken to insure their quiet, the protection of their property with their personal and corporate rights"</p>
-<p>Dated Columbus this <date when="1861-09-04">fourth (4<hi rend="sup">th</hi>) day of September 1861</date>.
-<lb/>Leonidas Polk<pb/></p>
+<lb/>in defiance of the wishes of the people of KY, disregarded their neutrality, by establishing Camps and Depots of arms, and by organizing Military Companies within their Territory &amp; by constructing a military work on the Missouri shore immediately opposite and commanding Columbus, evidently intend to cover the landing of Troops for the seizure of that Town. It has become a military necessity for the defense of the Territory of the Confederate States that the Confederate forces occupy Columbus in advance, The Major Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Commanding, has therefore not felt himself at liberty to risk the loss of so important a position, but has decided to occupy it. In pursuance of this descission he has thrown a sufficient force into the town and ordered fortifying it. It is gratifying to know that the presence of his troops is acceptable to the people of Columbus and on this occasion they assure them<pb/>
+<lb/>that every precaution will be taken to insure their quiet, the protection of their property with their personal and corporate rights,,</p>
+<p>Dated Columbus this <date when="1861-09-04">fourth (4<hi rend="sup">th</hi>) day of September 1861</date>.</p>
+<p>Leonidas Polk<pb/></p>
 <p>Telegraph
-<lb/>Dispatches from Genl L Polk of Columbus<figure type="hr"/>
+<lb/>Dispatches from Genl L. Polk of Columbus
 <lb/><date when="1861-09-09">Sept 9<hi rend="sup">th</hi> 1861</date></p>
   </body>
  </text>

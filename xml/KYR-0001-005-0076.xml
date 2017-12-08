@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0076"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Campbell County, Kentucky</placeName>
-    <date when="1865-08-24">24 August 1865</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -62,11 +65,11 @@
   <body>
    <p>Campbell Circuit Court
 <lb/>The Commonwealth of Kentucky Plaintiff
-<lb/>Against } Indictment for Refusing to receive the vote of a qualified voter.
-<lb/>Jn<hi rend="sup">o </hi>W. Flora &amp; George Herendon Defendants</p>
-<p>The Grand Jury of Campbell County, in the name and by the authority of the Commonwealth of Kentucky, -- accuse Jn<hi rend="sup">o</hi> W. Flora &amp; Geo Herendon of the offense of refusing to receive the vote of a qualified voter, committed as follows, viz; John W Flora &amp; Geo Herendon on the <gap/> day of <date when="1865-08">August, 1865</date>, and on divers other days and times, before and Since that time, and before the finding of this Indictment, in the County and State aforesaid, being officers of an Election then &amp; there held at the Carthage Precinct, in Said County under the Constitution And laws of the State aforesaid, for the Election of -- <pb/>
-<lb/> -- a member of Congress of the united States, for the 6<hi rend="sup">th</hi> Congressional District in Said State, a Treasurer, a Senator from the 25<hi rend="underline"><hi rend="sup">th</hi></hi> Senatorial District of Said State, two members of the General Assembly for Said County, and a Clerk of the Circuit Court for Said County, the Said Flora being then &amp; there, a Judge of Said Election, and the Said Herendon being then &amp; there the Sheriff of Said Election, and severally acting as Such at the time and place aforesaid, having been duly appointed and qualified as Said Judge and Sheriff, The Jury aforesaid in the name and by the authority aforesaid, do further Say that at the Election aforesaid for the purpose aforesaid at the Precinct and County aforesaid, <hi rend="str">did</hi> on the day and year aforesaid Austin Morris, a qualified voter of Said Precinct and County, did then &amp; there appear at the Polls before the Judges, Sheriff<pb/>
-<lb/>&amp; Clerk of Said Election, between the hours of Seven oclock A M, and Six oclock P, M, and then &amp; there -- offer to vote, Whereupon the Said John W. Flora &amp; George Herendon as Judge and Sheriff of Said Election, did Knowingly and unlawfully Completely refuse to receive the vote of Said Austin Morris, contrary to the Statutes in Such case made and provided, and against the peace and dignity of the Commonwealth of Kentucky.</p>
+<lb/>Against &#125; Indictment for Refusing to receive the vote of a qualified voter.
+<lb/>Jn<hi rend="sup">o </hi>W, Flora &amp; Geo Herendon Defendants</p>
+<p>The Grand Jury of Campbell County, in the name and by the authority of the Commonwealth of Kentucky, -- accuse Jn<hi rend="sup">o</hi> W. Flora &amp; Geo Herendon of the offense of refusing to receive the vote of a qualified voter, Committed as follows, viz; John W Flora &amp; Geo Herendon on the <gap/> day of <date when="1865-08">August, 1865</date>, and on divers other days and times, before and Since that time, and before the finding of this Indictment, in the County and State aforesaid, being officers of an Election then &amp; there held at the Carthage Precinct, in Said County, under the Constitution <hi rend="str"><unclear/></hi> And laws of the State aforesaid, for the Election of-<pb/>
+<lb/>-a member of Congress of the united States, for the 6<hi rend="underline"><hi rend="sup">th</hi></hi> Congressional District in Said State, a Treasurer, a Senator for the 25<hi rend="underline"><hi rend="sup">th</hi></hi> Senatorial District of Said State, Two members of the General Assembly for Said County and a Clerk of the Circuit Court for Said County, the Said Flora being then &amp; there a Judge of Said Election &amp; the Said Herendon being then &amp; there the Sheriff of Said Election, and Severally acting as Such at the time and place aforesaid, <hi rend="str">m</hi>having been duly appointed and qualified as Said Judge and Sheriff, The Jury aforesaid in the name and by the authority aforesaid do further Say that at the Election aforesaid and for the purpose aforesaid at the Precinct and County aforesaid, <hi rend="str">did</hi> on the day and year aforesaid Austin Morris, a qualified voter of Said Precinct and County, did then &amp; there appear at the Polls before the Judges, Sheriff<pb/>
+<lb/>&amp; Clerk of the Said Election, between the hours of Seven Oclock A M, and Six Oclock P, M, and then &amp; there -- offer to vote, Whereupon the Said John W. Flora &amp; George Herendon as Judge and Sheriff of Said Election, did Knowingly and unlawfully Completely refuse to receive the vote of Said Austin Morris, Contrary to the Statute in Such case made and provided, and against the peace and dignity of the Commonwealth of Kentucky.</p>
 <p>Witnesses
 <lb/><hi rend="underline">Austin Morris</hi></p>
 <p>R. B. Carpenter
@@ -77,12 +80,12 @@
 <p>132
 <lb/>The Commonwealth
 <lb/>Against
-<lb/>Jn<hi rend="sup">o</hi> W. Flora &amp; Geo Herendon<figure type="hr"/>
-<lb/>Indictment for refusing to receive the vote of a qualified voter<figure type="hr"/>
-<lb/>A True Bill
-<lb/>G. W, Carmack
-<lb/>Foreman<figure type="hr"/>
-<lb/>Filed <date when="1865-08-24">Aug 24<hi rend="sup">th </hi>1865</date>
+<lb/>Jn<hi rend="sup">o</hi> W. Flora &amp; Geo Herendon<figure type="hr"/></p>
+<p>Indictment for refusing to receive the vote of a qualified voter<figure type="hr"/></p>
+<p>A True Bill
+<lb/>G. W. Carmack
+<lb/>Foreman<figure type="hr"/></p>
+<p>Filed <date when="1865-08-24">Aug 24<hi rend="sup">th </hi>1865</date>
 <lb/>B W. iss<hi rend="sup">d</hi> <date when="1865-08-28">Aug 28<hi rend="sup">th</hi> "</date></p>
   </body>
  </text>

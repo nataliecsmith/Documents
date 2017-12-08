@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0067"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,14 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Stanford. Ky.
+   <p>Stanford, Ky,
 <lb/><date when="1865-05-27">May 27" 1865</date>
 <lb/>Governor Bramlett,
 <lb/>Sir: -- </p>
-<p>I seat myself this evening to find out if I cannot get my son released from Capt Bridgewaters Company My husband is in the army, and has been far upwards of a year, and I am left alone with a large family on my hands with no one to help me, unless I can get my son home He Should never have been enlisted, as he is not 18 years old, and was all that I had left<pb/>
-<lb/>to help support me and my family. His name is Tom Ends and belongs to Co, "A," of Bridgewaters command, will you p<hi rend="underline">leas</hi>e give your attention to his case the first opportunity and you will receive the prayers and blessin of a suffering Mother. Please answer as soon as possible, and let me know what you will do</p>
+<p>I seat myself this evening to find out if I cannot get my son released from Capt Bridgewaters Company My husband is in the army, and has been for upwards of a year, and I am left alone with a large family on my hands with no one to help me, unless I can get my son home </p>
+<p>He should never have been enlisted, as he is not 18 years old, and was all that I had left<pb/>
+<lb/>to help support me and my family. His name is tom Ends, and belongs to Co, "A," of Bridgewaters command, Will you <hi rend="underline">please</hi> give your attention to his case the first opportunity and you will receive the prayers and blessin<unclear>g</unclear> of a suffering Mother, Please answer as soon as possible, and let me know what you will do</p>
 <p>and I remain Very Respectfully
-<lb/>Lucy Ann Ends
+<lb/>Lucy. Ann Ends
 <lb/>Stanford
 <lb/>Kentucky<pb/></p>
 <p>Stanford Ky.
@@ -75,10 +79,10 @@
 <lb/>Ends Lucy Ann<figure type="hr"/>
 <lb/>Gov<figure type="hr"/></p>
 <p>asks that her son Tom Ends Co "A" Bridgewater Command be discharged he is not 18<hi rend="underline"><hi rend="sup">"</hi></hi> years old<figure type="hr"/></p>
-<p>Let her know that her son will be discharged upon affidavit that he is not 18" years -- </p>
+<p>Let her know that her son will be discharged upon affidavit that he is not 18" years-</p>
 <p>T. E. Bramlette</p>
 <p>L B N<hi rend="sup">o</hi> 13 -- <date when="1865">1865</date> P. 265<figure type="hr"/>
-<lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1865-06-01">June <hi rend="str">2</hi>1" 1865</date></p>
+<lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1865-06-01">June <hi rend="str">2</hi>1<hi rend="underline"><hi rend="sup">"</hi></hi> 1865</date></p>
   </body>
  </text>
 </TEI>

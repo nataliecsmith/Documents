@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0026"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,15 +66,15 @@
    <p>London
 <lb/><date when="1864-03-18">March 18<hi rend="sup">th</hi> 1864</date>
 <lb/>Gov T E Bramlette</p>
-<p>Dear Sir an Indictment has at this Term of Laurel Circuit Court been returned against Aron Hash Jesse Johnson and John Storm for the Murder of James West and William Chitwood in this county I heard the evidence before the court of enquiry and can safely say that it is one of the most aggravated cases of Murder and Robery that I ever heard the evidence in Hash and Storm were the only ones on trial before the court of enquiry Johnson had not then been arrested he belonged to the 14<hi rend="sup">th</hi> Ky Cavalry we have news this evening from the commander of the post at Camp Nelson ^that he is arrested &amp; is^ awaiting for the civil authority to send for<pb/>
+<p>Dear Sir an Indictment has at this Term of Laurel Circuit Court been returned against Aron Hash Jesse Johnson and John Storm for the Murder of James West and William Chitwood in this county I heard the evidence before the court of enquiry and can safely say that it is one of the most aggravated cases of Murder and Robery that I ever heard the evidence in Hash and Storm were the only ones on trial before the court of enquiry Johnson had not then been arrested he belonged to the 14<hi rend="sup">th</hi> Ky Cavalry we have news this evening from the commander of the post at Camp Nelson ^that he is arrested &amp; is^ awaiting for the civil authoritis to send for<pb/>
 <lb/>him the sheriff of this county will start on tomorrow Hash and Storm put off their trial our Jail being destroyed by the Army we had to place them under Guard and the night after the trial was continued Hash made his escape and is now at large please offer as liberal reward as you can for the aprehension of said Hash</p>
 <p>Granville Pearl
-<lb/>Judge 12<hi rend="sup">th</hi> Dst of Ky</p>
+<lb/>Judge 12<hi rend="sup">th</hi> dst of Ky</p>
 <p>P S Aron Hash is about twenty three years of age six feet high slender made will weigh about 140lb sollow complexion dark eyes rather dark hair smooth face no beard has a reckless and apparently uneasy appearance and countenance rather badly dressed</p>
 <p>G Pearl<pb/></p>
-<p>Gov Bramlette I investigated the case of Hash and others before the grand jury and fully concur in the statements made by Judge Pearl and hope you will offer a reward</p>
+<p>Gov Bramlette I investigated the case of Hash and others before the grand Jury and fully concur in the statements made by Judge Pearl and hope you will offer a reward</p>
 <p>H F Finley</p>
-<p>Offer a reward of $200 <hi rend="str">each</hi> for Hash <hi rend="str">&amp;</hi> <hi rend="str">Storm</hi></p>
+<p>Offer a reward of &#36;200 <hi rend="str">each</hi> for Hash <hi rend="str">&amp;</hi> <hi rend="str">Storm</hi></p>
 <p>Richard T. Jacob</p>
   </body>
  </text>

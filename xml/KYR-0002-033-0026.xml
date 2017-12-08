@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0026"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Irvine, Estill County, Kentucky</placeName>
-    <date when="1864-04-14">14 April 1864</date>
+    <date when="1864-04-07">7 April 1864</date>
    </creation>
    <textClass>
     <keywords>
@@ -61,26 +64,26 @@
  <text>
   <body>
    <p>Irvine Ky
-<lb/><date when="1864-04-07">April 7" 1864</date>
-<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramlette</p>
-<p>Sir -- several weeks ago -- I started recommendations for officers of my Regiment -- But suppose they never reached you. I have the honor to again recommend 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt Samuel Belden of Company "B" to <hi rend="str">the</hi> be promoted to Captain of same Co 1<hi rend="sup">st</hi> Ky Cav <hi rend="underline">vice</hi> "Drye" promoted, also 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt Vincent Peyton to the rank of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt same company, and orderly Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Stephen G Averitt to be made 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt. same company. The aggregate strength of said Company is Eighty-nine (89) enlisted men. </p>
-<p>I have the honor also to recommend to you for promotion 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt. James. S. Pankey of Company "I" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be promoted to the rank of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt same Company vice Scott resigned. and orderly serg<hi rend="underline"><hi rend="sup">t</hi></hi> Thomas Graves to be made 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt same Company. The aggregate strength of Co "I" is forty four "44".</p>
+<lb/><date when="1864-04-07">April 7" 1864</date>.
+<lb/><unclear>G</unclear>ov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramlette</p>
+<p>Sir -- several weeks ago -- I started recommendations for officers of my Regiment -- But suppose they never reached you. I have the honor to again recommend 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt Samuel Belden of Company "B" to <hi rend="str">the</hi> be promoted to Captain of same Co 1<hi rend="sup">st</hi> Ky Cav <hi rend="underline">vice</hi> "Drye" promoted, also 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt Vincent Peyton to the rank of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt same company and orderly Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Stephen G Averitt to be made 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt. same company. The aggregate strength of said Company is Eighty-nine (89) enlisted men.</p>
+<p>I have the honor also to recommend to you for promotion 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt James. S. Pankey of Company "I" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be promoted to the rank of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt same Company vice Scott resigned. And orderly serg<hi rend="underline"><hi rend="sup">t</hi></hi> Thomas Graves to be made 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt same Company. The aggregate strength of Co "I" is forty four "44".</p>
 <p>I am very Resptly
 <lb/>your ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
 <lb/>S. Adams Lt Col
 <lb/>1<hi rend="sup">st</hi> Ky Cavl<pb/></p>
-<p>1 <hi rend="underline">Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi>
-<lb/>Irvine Ky
-<lb/><date when="1864-04-07">April 7<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
+<p>Irvine Ky
+<lb/><date when="1864-04-07">April 7<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
+<lb/>1 <hi rend="underline">Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi><figure type="hr"/>
 <lb/>Adams. S. A
-<lb/>Lt Col. 1<hi rend="sup">s</hi> Cav<hi rend="sup">l</hi>.<figure type="hr"/></p>
-<p>States that several weeks since he sent the following recommendations but has not heard from you. viz 1<hi rend="sup">s</hi> Lt Sam<hi rend="sup">l</hi> Belden to be Cap' Co B vice Brye prom<hi rend="sup">t</hi>. 2<hi rend="sup">d</hi> Lt Vincent Peyton to be 1<hi rend="sup">s</hi> Lt Co B' vice Belden pro<hi rend="sup">t</hi> Sergt Stephen G Aivett to be 2<hi rend="sup">d</hi> Lt vice Peyton, &amp;c others<figure type="hr"/></p>
+<lb/>Lt. Col. 1<hi rend="sup">s</hi> Cav<hi rend="underline"><hi rend="sup">l</hi></hi><figure type="hr"/></p>
+<p>States that several weeks since he sent the following recommendations but has not heard from you. viz 1<hi rend="sup">s</hi> Lt Sam<hi rend="sup">l</hi> Belden to be Cap' Co B vice Drye prom<hi rend="underline"><hi rend="sup">t</hi></hi> 2<hi rend="sup">d</hi> Lt Vincent Peyton to be 1<hi rend="sup">s</hi> Lt Co B' vice Belden pro<hi rend="sup">t</hi> Sergt Stephen G <unclear>Aivett</unclear> to be 2<hi rend="sup">d</hi> Lt vice Peyton. &amp;<hi rend="sup">c</hi> others<figure type="hr"/></p>
 <p>Issue
-<lb/><hi rend="underline">Boyle</hi> 
-<lb/><note place="body">Coms issd &amp; forwd
+<lb/><hi rend="underline">Boyle</hi></p>
+<p>Coms issd &amp; forwd
 <lb/><date when="1864-04-22">April 22 1864</date>
-<lb/>see L. B.</note><figure type="hr"/>
-<lb/>Rec<hi rend="sup">d</hi> A G. O <date when="1864-04-19">19" Apr<hi rend="sup">l</hi> 1864</date></p>
+<lb/><hi rend="underline">see L. B.</hi><figure type="hr"/></p>
+<p>Rec<hi rend="sup">d</hi> A G. O <date when="1864-04-19">19" Apr<hi rend="sup">l</hi> 1864</date></p>
   </body>
  </text>
 </TEI>

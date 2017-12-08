@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0025"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,20 +64,20 @@
  <text>
   <body>
    <p>Grayson <hi rend="underline">Co</hi> <hi rend="underline">Ky</hi> <date when="1864-10-10"><hi rend="underline">Octr</hi> 10<hi rend="sup">th</hi> 1864</date>
-<lb/>To his Excellency Tho<hi rend="sup">s</hi> E Bramlett Gov of Ky</p>
-<p>Dear Sir the good citizens of this county are pained to hear that the authorities at Frankfort have failed to arm and equpt the detailed company ordered by you through Gen Lindsey, and commanded by <hi rend="underline">Capt</hi> <hi rend="underline">Wm</hi> Bates, he and the Loyal people of this county have spent much time and money in organizing and attempting to get this company into active Service, it is much needed and would have been all the Security we wanted to keep out the lawless scoundrels &amp; guerillas from amongst us</p>
-<p><hi rend="underline">Capt</hi> Bates is a good citizen, and an efficient man and would have obeyed any and all orders from his superiors. he would have controlled his men and acted Solely for the good of his country and the safety and peace of our people</p>
+<lb/>To his Excellency Tho<hi rend="sup">s</hi> E. Bramlett Go<hi rend="underline">v</hi> of Ky</p>
+<p>Dear sir the good citizens of this county are pained to hear that the authorities at Frankfort have failed to arm and equpt the detailed Company ordered by you Through G<hi rend="underline">en</hi> Lindsey, and commanded by C<hi rend="underline">apt</hi> W<hi rend="underline">m</hi> Bates, he and the Loyal people of this County have Spent much time and money in organizeing and attempting to get this company into active Service, It is much needed and would have been all the Security we wanted to keep out the lawless Scoundrels &amp; guerrillas from amongst us</p>
+<p>C<hi rend="underline">ap</hi>t Bates is a good citizen, and an efficient man and would have obeyed any and all orders from his superiors, he would have controlled his men and acted Solely for the good of his country and the safety and peace of our people</p>
 <p>why the company was not armed is unknown to us it Surely is not because we are not to be trusted with arms for Grayson County is as Loyal a County as there is in Kentucky</p>
-<p>Yours Respectfully Caleb Stinson<pb/>
-<lb/>Grayson Co Ky County Ky
-<lb/><date when="1864-10-10">Oct 10" 1864</date><figure type="hr"/>
+<p>Yours Respectfully Caleb Stinson<pb/></p>
+<p>Grayson County Ky
+<lb/><date when="1864-10-10">Oct 10" 1864</date> -- <figure type="hr"/>
 <lb/>Stinson Caleb<figure type="hr"/>
 <lb/>To
 <lb/>The Gov -- <figure type="hr"/></p>
 <p>Says the authorities have failed to arm and equip the company ordered by you and commanded by Capt William Bates -- <figure type="hr"/></p>
-<p>An<hi rend="sup">s</hi> <date when="1864-11-14">Nov<hi rend="sup">r</hi> 14. 1864</date>
-<lb/>on L. B. B. P. 132<figure type="hr"/>
-<lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-10-31">Oct 31" 1864</date>-</p>
+<p>An<hi rend="underline"><hi rend="sup">s</hi></hi> <date when="1864-11-14">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 14. 1864</date>
+<lb/>on L. B. B. P. 132<figure type="hr"/></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-10-31">Oct 31" 1864</date> -- </p>
   </body>
  </text>
 </TEI>

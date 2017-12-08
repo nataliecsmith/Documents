@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0072"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,18 +65,18 @@
   <body>
    <p>State of New York
 <lb/>City and County of New York</p>
-<p>I Edwin F. Corey Junior having been appointed by his Excellency the Governor of the State of Kentucky a Commisssioner to reside in the City of New York to take the acknowledgment of deeds or other instruments and to take affidavits depositions &amp;c to be recorded or used in said State of Kentucky. do solemnly swear that I will well and faithfully execute and perform the duties as such Commission according to the best of my ability and in accordance with the laws of said State of Kentucky. So help me God.</p>
-<p>Edwin F. Corey Jr</p>
+<p>I Edwin F. Corey Junior having been appointed by his Excellency the Governor of the State of Kentucky a Commisssioner to reside in the City of New York to take the acknowledgment of deeds or other instruments and to take affidavits depositions &amp;c to be recorded or used in said State of Kentucky, do solemnly swear that I will well and faithfully execute and perform the duties as such Commission according to the best of my ability and in accordance with the laws of said State of Kentucky, So help me God.</p>
+<p><hi rend="underline">Edwin F. Corey Jnr</hi></p>
 <p><figure type="seal"><ab>EDWIN F. COREY JR.
 <lb/>KENTUCKY
 <lb/>COMMISSIONER.</ab></figure></p>
 <p>Subscribed and Sworn to before me this <date when="1861-02-12">12<hi rend="sup">th</hi> day of February A D 1861</date></p>
-<p><figure type="seal"><ab>EDWIN F. COREY JR.
+<p><figure type="seal"><ab>EDWIN F. <unclear>COREY</unclear>
+<lb/>FOR
 <lb/>KENTUCKY
 <lb/>COMMISSIONER OF DEEDS</ab></figure></p>
-<p>Edwin F Corey
-<lb/>Commissioner for the State of Kentucky in New York
-<lb/></p>
+<p><hi rend="underline">Edwin F Corey</hi>
+<lb/>Commissioner for the State of Kentucky in New York</p>
   </body>
  </text>
 </TEI>

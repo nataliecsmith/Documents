@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0042"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,16 +65,15 @@
   <body>
    <p>State of Kentucky
 <lb/>Jefferson County</p>
-<p>Philip Breckner on his oath says, that he is now a resident of the city of Louisville living on Grayson between sixth and seventh Streets and that he has been lately discharged from the Military service of the United States into which he had enlisted and had served three years and three months in Company E. 35<hi rend="underline"><hi rend="sup">th</hi></hi> Ohio Volunteers that he had resided for about three years in the city of Louisville prior to such enlistment. Affiant was <hi rend="str">at</hi> during all that time well acquainted with William Salzman of Louisville, the same person who was indicted in the Jefferson Circuit Court and for whom David Schroeder went bail and he states from his own knowledge that the s<hi rend="underline"><hi rend="sup">d</hi></hi> Salzman is a soldier in the service of the United States and a member of the 12<hi rend="underline"><hi rend="sup">th</hi></hi> Michigan Volunteers. Affiant has seen the s<hi rend="underline">d</hi> Salzman in the service as a soldier as aforesaid and had conversed with him, not knowing that the s<hi rend="underline">d</hi> Salzman was indicted and a fugitive from justice. The s<hi rend="underline"><hi rend="sup">d</hi></hi> Salzman was at the time of the s<hi rend="underline">d</hi> interview stationed in Nashville Tennessee which is now about six months since.</p>
+<p>Philip Breckner on his oath says, that he is now a resident of the city of Louisville living on Grayson between sixth and seventh Streets and that he has been lately discharged from the Military service of the United States into which he had enlisted and had served three years and three months in Company E. 35<hi rend="underline"><hi rend="sup">th</hi></hi> Ohio Volunteers that he had resided for about three years in the city of Louisville prior to such enlistment. Affiant was <hi rend="str">at</hi> during all that time well acquainted with William Salzman of Louisville, the same person who was indicted in the Jefferson Circuit Court and for whom David Schroeder went bail and he states from his own knowledge that the s<hi rend="underline"><hi rend="sup">d</hi></hi> Salzman is a soldier in the service of the United States and a member of the 12<hi rend="underline"><hi rend="sup">th</hi></hi> Michigan Volunteers. Affiant has seen the s<hi rend="underline"><hi rend="sup">d</hi></hi> Salzman in the service as a soldier as aforesaid and had conversed with him, not knowing that the s<hi rend="underline"><hi rend="sup">d</hi></hi> Salzman was indicted and a fugitive from justice. The s<hi rend="underline"><hi rend="sup">d</hi></hi> Salzman was at the time of the s<hi rend="underline"><hi rend="sup">d</hi></hi> interview stationed in Nashville Tennessee which is now about six months since.</p>
 <p>Philip <unclear/></p>
-<p>Subscribed &amp; sworn to before me this <date when="1864-11-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1864</date></p>
-<p>
-<lb/><figure type="seal"><ab>JOHN N. MATTINGTLY
-<lb/>NOTARY
-<lb/>PUBLIC
-<lb/>JEFFERSON COUNTY, KY.</ab></figure></p>
+<p>Subscribed &amp; sworn to before me this <date when="1864-11-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1864.</date></p>
 <p>John N. Mattingly
 <lb/>Notary Public Jeff Co Ky</p>
+<p><figure type="seal"><ab>JOHN N. MATTINGTLY
+<lb/>NOTARY PUBLIC
+<lb/>JEFFERSON COUNTY, KY.</ab></figure></p>
+<p></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1404"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,56 +62,57 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency the Governor of the commonwealth of Kentucky Carles S. Morehead.</p>
-<p>Your petitioners would respectfully represent that some time since John W Caldwell the son of Isabella Caldwell was arrested upon a charge of a breach of the peace and recongized for his appearance at the Hickman Equity and Criminal court at its December Term 1858 and his mother Mrs Isabella Caldwell became his security. And the said John. W. Caldwell failed to appear at the court to which he was recognised and consequently his bond was taken as forgeited. Now your petitioners would state to force Mrs Caldwell to pay this bond would be very oppressive upon her and greatly distress her and would be taking from her, her means of support and that of her infant Children when in their judgement no actual good could or would result from the same. They therefore ask at your hands that you exert executive clemency in her behalf by releasing her from the payment of the <hi rend="str">f</hi> Bond -- </p>
+   <p>To his Excellency the Govenor of the commonwealth of Kentucky Carles. S. Morehead.</p>
+<p>Your petitioners would respectfully represent that some time since John W Caldwell the son of Isabella Caldwell was arrested upon a charge of a breach of the peace and recongized for his appearance at the Hickman Equity and Criminal court at its <date when="1858-12">December Term for 1858</date> and his mother Mrs Isabella Caldwell became his security. And the said John. W. Caldwell failed to appear at the court to which he was recognised and consequently his bond was taken as forfeited. Now your petitioners would state to force Mrs Caldwell to pay this bond would be very oppressive upon her and greatly distress her and would be taking from her, her means of support and that of her infant Children when in their judgement no actual good could or would result from the same. They therefore ask at your hands that you exert executive clemency in her behalf by releasing her from the payment of the <hi rend="str">f</hi> Bond-</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Names
-<lb/>C. W. Youngs
+<lb/>C, W, Youngs
 <lb/>John A Smith
 <lb/><hi rend="underline">J. W. Thorpe</hi>
-<lb/><unclear/> Green
-<lb/>J. M. Hame Jr
-<lb/>J. Clay. Horne
-<lb/>Jas. Mullen
+<lb/>Thornt Green
+<lb/>T. M. Horne Jr
+<lb/>J, Clay, Horne
+<lb/>Ja<hi rend="sup">s</hi>. Mullen
 <lb/>Jno. S. Petrie
 <lb/><cb n="2"/>Names 
 <lb/>Chas Gayle
 <lb/>A A Gorton
 <lb/>Burns M Walker
-<lb/>H. H. Romine
+<lb/>H H Romine
 <lb/>B,, T,, Haile
 <lb/>R S Craddock
-<lb/>F. P. Lawrence
-<lb/>John. T. Walker.<pb/>
+<lb/>F. P, Lawrence
+<lb/>John. J. Walker.<pb/>
 <lb/><cb n="1"/>Names
-<lb/>S. W. Remnick
+<lb/>S. W. Rennick
 <lb/>S. H Caldwell
 <lb/>George Winter
-<lb/>B. F. Brand
+<lb/>B, F, Brand
 <lb/>Thomas Stone
-<lb/>John. H. <unclear/>
+<lb/>John. H, Byassee
 <lb/>W R Bradley
 <lb/>J. W. Lockridge
 <lb/>W<hi rend="sup">m</hi> E Sublett
 <lb/>J. W. Doughty
 <lb/>Isaac W Lucas
-<lb/>C. W. Mourse
-<lb/>H. Heisters
-<lb/>A. Dotson
+<lb/>C. A. Mourse
+<lb/>H. Meisters
+<lb/>A Dotson
 <lb/>J, T Haile
 <lb/>F Theobald
-<lb/><hi rend="underline">W M Samuels</hi>
+<lb/>W. M. Samuels
 <lb/>John D Harlan
 <lb/><cb n="2"/>Names<pb/>
 <lb/><cb n="1"/>Names
 <lb/><cb n="2"/>Names<milestone unit="column" n="1"/><pb/></p>
 <p>Remitted
-<lb/>B. M. 
-<lb/>Iss<hi rend="sup">d</hi> <date when="1861-09-18">Sept 18 1861</date></p>
+<lb/>B. M. </p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-09-18">Sept 18 1861</date></p>
 <p>Hickman County
-<lb/>Petition <hi rend="str"><unclear/> Caldwell</hi> of <hi rend="str">Isabella C Caldwell</hi> to be released from two judgments of the Hickman Circuit Court On forfeited recognizances -- One for $1000 -- the Other for $500 -- </p>
+<lb/>Petition <hi rend="str">Isabella Caldwell</hi> of <hi rend="str">Isabella C Caldwell</hi> to be released from two judgments of the Hickman Circuit Court On forfeited recognizances- One for &#36;1000 -- the Other for &#36;500 -- </p>
 <p>Respite 8 months -- 
-<lb/>Iss<hi rend="sup">d</hi>. <date when="1859-11-18">Nov 18. 1859</date><figure type="hr"/></p>
-<p>Remit $1000 jugt &amp; respite the one for $500 for 12 mo<hi rend="sup">s</hi> B. M.</p>
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1859-11-18">Nov 18. 1859</date><figure type="hr"/></p>
+<p>Remit &#36;1000 judgt &amp; respite the one for &#36;500 for 12 Mo<hi rend="sup">s</hi></p>
+<p>B. M.</p>
 <p>Iss<hi rend="sup">d</hi> <date when="1860-06-11">June 11. 1860</date></p>
   </body>
  </text>

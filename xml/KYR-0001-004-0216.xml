@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0216"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Ransom Laswell et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">Ransom Laswell to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4335</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,24 +64,28 @@
  <text>
   <body>
    <p>Mt Vernon Ky
-<lb/><date when="1863-10-08">Oct 8<hi rend="sup">th</hi> 1863</date>.
+<lb/><date when="1863-10-08">Oct 8<hi rend="sup">th</hi> 1863</date>-
 <lb/>To his Excellency
 <lb/>Gov. T. E. Bramlette</p>
-<p>Your Petitioner Ransom Laswell would most respectfully ^state^ That at the last <date when="--08">August Term</date> of the Rockcastle Circuit ^Court^ he was fined $20. &amp; costs for gaming with four others, Isaac Whitehead John Cable &amp; Albert Owens, all confessed Judgment. Whitehead &amp; Cable petitioned Gov. Robinson and was relieved and I do most respectfully ask that you extend the same relief to your humble petitioner Ransom Laswell. It was <hi rend="str">about</hi> my first gaming and I promise it to be my last. The game was for amusement more than profit, only bet 5 cts a game for a few games, hope you will remit the fine, as any little fine in my circumstances would bear heavily upon me.</p>
+<p>Your Petitioner Ransom Laswell would most respectfully ^state^ That at the last <date when="--08">August Term</date> of the Rockcastle circuit ^court^ he was fined &#36;20. &amp; costs for gaming with four others, Isaac Whitehead John Cable &amp; Albert Owens, all confessed Judgment. Whitehead &amp; Cable petitioned Gov. Robinson and was relieved and I do most respectfully ask that you extend the same relief to your humble petitioner Ransom Laswell, It was about my first gaming and I promise it, to be my last. The game was for amusement more than profit, only bet 5 cts a game for a few games, hope you will remit the fine, as any little fine in my circumstances would bear heavily upon me,</p>
 <p>I am Respectfully your humble Petitioner
 <lb/>Ransom Laswell</p>
-<p>We the undersigned are well acquainted with Mr. Laswell and his circumstances know him to be an honest upright and good citizen a poor man, and this is the first we ever heard of his gaming, and as this little fine would embarrass him we would be highly gratified, if concistent with your sense of duty to see it remitted.</p>
-<p>M J Cook J.C. Carter J. K. M<hi rend="sup">c</hi>Clary
-<lb/>M. A. Brooks as C P Hyers Edwin Shivel,<pb/></p>
+<p>We the undersigned are well acquainted with M<hi rend="underline"><hi rend="sup">r</hi></hi> Laswell and his circumstances know him to be an honest upright and good citizen a poor man, and this is the first we ever heard of his gaming, and as this little fine would embarrass him we would be highly gratified, if consistent with your sense of duty to see it remitted.</p>
+<p><milestone unit="column" n="3"/><cb n="1"/>M J Cook
+<lb/>M. A Brooks
+<lb/><cb n="2"/><hi rend="underline">J, C, Carter
+<lb/></hi>Jas C P Hyers
+<lb/><cb n="3"/>J. P. M<hi rend="sup">c</hi>Clary
+<lb/>Edwin Shivel,<milestone unit="column" n="1"/><pb/></p>
 <p>Rockcastle Co
 <lb/>vs
 <lb/>R. Laswell
-<lb/>Gaming</p>
+<lb/>Gaming
+<lb/>&#36;20 -- </p>
 <p>Remit all except costs &amp; fees
-<lb/><date when="1863-10-12">Oct 12th 1863</date>
-<lb/>Tho E Bramlette
+<lb/><date when="1863-10-12">Oct 12<hi rend="sup">th</hi> 1863</date></p>
+<p>Tho E Bramlette
 <lb/>Gov<hi rend="sup">r</hi> of Ky</p>
-<p>$20 -- </p>
   </body>
  </text>
 </TEI>

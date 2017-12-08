@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0062"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">A. L. Waggoner et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">A. S. Waggoner et al. to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4181</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,32 +63,32 @@
  <text>
   <body>
    <p>To his Excellency the Governor of Kentucky.</p>
-<p>The undersigned citizens of Marshall County would represent that at the June term <date when="1863">1863</date> of the Circuit Court of this County, T. J. Strow was tried upon an indictment charging him with malicious stabbing &amp; fined Sixty two <hi rend="sup">50</hi>/<hi rend="sub">100</hi> Dollars: that at the time of the finding of this indictment another indictment against him for malicious stabbing was found &amp; presented upon ^which^ latter he has heretofore been tried &amp; was fined Five Hundred Dollars which with fees &amp; costs has been settled; that the two offenses charged were committed at the same time &amp; place and in the same difficulty; that said Strow was laboring under great excitement at the time; that this stabbing was done in <date when="1858">1858</date>; that he has not since been engaged in any fights or any such difficulties. In consideration of all which &amp; of his having incurred &amp; paid large costs &amp; expenses in these cases, we would ask that said Sixtytwo <hi rend="sup">50</hi>/<hi rend="sub">100</hi> Dollar fine saving offices fees &amp; costs be remitted
-<lb/><date when="1863-09-16">Sept. 16, 1863</date>.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>A L Waggoner
+<p>The undersigned Citizens of Marshall County would represent that at the June term <date when="1863">1863</date> of the Circuit Court of this County, T. J. Strow was tried upon an indictment charging him with malicious stabbing &amp; fined Sixty two <hi rend="sup">50</hi>/<hi rend="sub">100</hi> Dollars: that at the time of the finding of this indictment another indictment against him for malicious stabbing was found &amp; presented upon ^which^ latter he has heretofore been tried &amp; was fined Five Hundred Dollars which with fees &amp; costs has been Settled; that the two offenses charged were Committed at the same time &amp; place and in the Same difficulty; that said Strow was laboring under great excitement at the time; that this Stabbing was done in <date when="1858">1858</date>; that he has not since been engaged in any fights or any Such difficulties. In consideration of all which, &amp; of his having incurred &amp; paid large costs &amp; expenses in these cases, we would ask that said Sixty two <hi rend="sup">50</hi>/<hi rend="sub">100</hi> Dollar fine saving offices fees &amp; costs be remitted
+<lb/><date when="1863-09-16">Sept. 16. 1863</date>.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>A S Waggoner
 <lb/>H. Hamilton
 <lb/>A. K Lindsey
 <lb/>W<hi rend="sup">m</hi> Hamilton
-<lb/>G Washburn
+<lb/>G. Washburn
 <lb/>H Johnston
 <lb/><cb n="2"/>J. C. Gilbert
 <lb/>P. Palmer
 <lb/>A A Nelson
-<lb/>Jos G <unclear>Lumisl</unclear>
-<lb/>J W Dyers
-<lb/>J. T. Pack
-<lb/>J T Slone
+<lb/>Jos G. Lemons
+<lb/>J W Dycus
+<lb/>J. T. Pace
+<lb/>J T Stone
 <lb/>Absalom Smith<pb/>
 <lb/><cb n="1"/>E. H. Pace
 <lb/>D. D. Thompson
 <lb/>J. M. Malcom
-<lb/>J. T. Clark
-<lb/>John W. Myers
+<lb/>I. T. Clark
+<lb/>John. W. Myers
 <lb/>J. M. Stephens
 <lb/>T. E. Barnes
 <lb/>B. Holland
 <lb/>J. B. Gilbert
-<lb/>John Hetzler
+<lb/>John Hetz<unclear>ler</unclear>
 <lb/>J. H Riley
 <lb/>W. B. Eley
 <lb/>G. S. Jones
@@ -95,26 +98,26 @@
 <lb/>J.
 <lb/>J. W. Pierson
 <lb/>F M Pool
-<lb/>J. K. Nelson
+<lb/>J K Nelson
 <lb/>E. C. Hunter
-<lb/>J. L. Burd
-<lb/>J. A. Hunter
+<lb/>J. L Kurd
+<lb/>J, A, Hunter
 <lb/>M. C. Rowland
 <lb/><cb n="2"/>J. E. Ford
-<lb/>N. D. Hunter
-<lb/>J. T. Walpol
+<lb/>W. D. Hunter
+<lb/>J. T. Walpole
 <lb/>W<hi rend="sup">m</hi>. Myers
 <lb/>Joseph Myers
 <lb/>L. R. Finley -- 
-<lb/>J. H. Burd<milestone unit="column" n="1"/></p>
-<p>Remit all except costs &amp; fees <date when="1863-10-07">Oct 7<hi rend="sup">th</hi> 1863</date></p>
-<p>Tho E Bramlette</p>
-<p>Marshall Cir Ct
+<lb/>I. H. Bard<milestone unit="column" n="1"/></p>
+<p>Remit all except costs &amp; fees <date when="1863-10-07">Oct 7<hi rend="sup">th</hi> 1863</date>
+<lb/>Tho E Bramlette</p>
+<p>Marshall Cir. Ct
 <lb/>vs
 <lb/>T. J. Strow
 <lb/>Stabbing
-<lb/>$62.50
-<lb/>remitted <date when="1863-10-07">7th Oct/ 63</date></p>
+<lb/>&#36;62.<hi rend="sup">50</hi>
+<lb/>remitted <date when="1863-10-07">7<hi rend="sup">th</hi> Oct/63</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1532"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Frankfort, Franklin County, Kentucky</placeName>
-    <date when="1861-11-09">9 November 1861</date>
+    <date when="1861-11-03">3 November 1861</date>
    </creation>
    <textClass>
     <keywords>
@@ -63,24 +66,24 @@
    <p>Frankfort Ky. <date when="1861-11-03">Nov. 3rd 1861</date>
 <lb/>To his Excellency
 <lb/>Governor Beriah Magoffin</p>
-<p>The undersigned your petitioners pray that you will remit a fine assessed aginst William P. Watson of this City on a charge of disorderly conduct, Said fine in the opinion of your pettioners is <hi rend="str">excessive</hi> excessive amounting, ^to ten dollars^ <hi rend="str">with costs as it <unclear/> to $13.75 and</hi> as the offense injured no one, therefore they pray Executive clemency</p>
+<p>The undersigned your petitioners pray that you will remit a fine assessed aginst William P, Watson of this City on a charge of disorderly conduct, Said fine in the opinion of your petitioners is <hi rend="str">excessive</hi> excessive amounting, ^to ten dollars^ <hi rend="str">with costs as it does to &#36;13.75 and</hi> as the offense injured no one, therefore they pray Executive clemency</p>
 <p>Very Respectfully
-<lb/>J H Johnson 
+<lb/>J H Johnson
 <lb/>W. L. Harlan
 <lb/><hi rend="underline">J A Crittenden
 <lb/>John M Todd
 <lb/></hi>James M Todd
 <lb/>S Sanders
 <lb/>E P Bowman
-<lb/>J. W. Pruett
-<lb/>A. C. Keenor
+<lb/>J, W, Pruett
+<lb/>A, C. Keenor
 <lb/>R K Woodson<pb/></p>
 <p>Franfort Po Ct</p>
 <p>Remitted. 
-<lb/>B.M</p>
-<p>$10 } Breach
+<lb/>B. M</p>
+<p>&#36;10 &#125; Breach
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Watson
-<lb/>Iss<hi rend="sup">d</hi>. <date when="1861-11-19">Nov 19. 1861</date></p>
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-11-19">Nov 19. 1861</date></p>
   </body>
  </text>
 </TEI>

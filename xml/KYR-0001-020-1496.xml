@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1496"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Germantown, Mason County, Kentucky</placeName>
     <date when="1861-10-01">1 October 1861</date>
    </creation>
    <textClass>
@@ -60,14 +62,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Wheras about the <date when="1861-09-15">15<hi rend="underline"><hi rend="sup">th</hi></hi> Sept 1861</date> one John Gallegher Hapened to get Drunk and made some noise in the Town of Germantown and was Taken up and fined by a justice to the Extent of the Law for Drunkeness also fined by a jury of the Country $15" for Disturbing the peace it being the first time anything of the Kind ever Hapened here and the family is Quite poore and have a Large family dependent upon the old man for a suport.</p>
-<p>Now we the undersigned petitioners would respectfully Solicit the Interposition of your Honors magisty and respectfully ask you to remitt the fine of $15. as we think it is one of the cases that comes justly in the catilogue thers has bin more agrivated cases committed in our midst and no notice Taken of them we <unclear/> make the above request of your Honor because we Know it to be one of the cases that ought to be <hi rend="str"><unclear/></hi> excused by you if there ever was one from the fact of there being Nine or Ten children in the Famly all Dependent upon the old man for a suport. your petitioners again respectfully ask <hi rend="str"><unclear/></hi>your Honor to remitt the above fine believing that the small fine which he will pay and the cost is s great a burden as he can bare. We submitt the matter to your Honor believing you will do what is right in the matter, this <date when="1861-10-01">1<hi rend="sup">st</hi> Oct 1861</date></p>
+   <p>Wheras about the <date when="1861-09-15">15<hi rend="underline"><hi rend="sup">th</hi></hi><hi rend="sup">,</hi> Sept 1861</date> one John Gallegher Hapened to get Drunk and made sone noise in the Town of Germantown and was Taken up and fined by a justice to the Extent of the Law. for Drunkeness also fined by a jury of the Cuntry &#36;15" for Disturbing the peace it being the first time anything of the Kind ever. Hapened him and the famly is Quite poore and have a Large famly dependant upon the old Man for a suport.</p>
+<p>Now we the undersigned petitioners would respectfully Solicit the Interposition of your Honors magistry and respectfully ask you to remitt the fined, of &#36;15. as we think it is one of the cases that comes justly in that catilogue thers has bin more agrevated cases Committed in our midst and no notice Taken of them We <unclear/> Make the above request of your Honor because we Know it to be one of the cases that ought to be <hi rend="str"><unclear/></hi> ^excused^ by you if there ever was one from the fact of there being Nine or Ten children in the Famly all Dependent upon the old man for a suport. your. petitioners again respectfully ask <hi rend="str"><unclear/></hi>your Honor to remitt the above fine believing that the small fine which he will pay and the cost is as great a burden as he can bare. We submitt the matter to your Honor beleivng you will do. what is right in the matter, this <date when="1861-10-01">1<hi rend="sup">st</hi> Oct 1861</date></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Names
-<lb/>T. B. Chandler
+<lb/>T. B. Chandler.
 <lb/>Arthur Campell
 <lb/>William Mingy
-<lb/>W. N. Gallaghe
-<lb/>E. T. Thompson
+<lb/>W, N, Gallaghe
+<lb/>E. J. Thompson
 <lb/>Anderson White
 <lb/><cb n="2"/>Names
 <lb/>John Curtis
@@ -78,23 +80,23 @@
 <lb/>Thomas Murphy<pb/>
 <lb/><cb n="1"/>John Case
 <lb/>Eedwardd Ginn
-<lb/>J A Mingee
+<lb/>J A Minggee
 <lb/>M Medows
-<lb/>Leadwell Hinson
+<lb/>Ludwell Hinson
 <lb/>J H Reede
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Morakon
+<lb/>W<hi rend="underline"><hi rend="sup"> -- </hi></hi>Morahon
 <lb/><cb n="2"/>John Burton
 <lb/>Fin Guy
 <lb/>Robert Sellers
 <lb/>Greenbury Gallagher
-<lb/>T H Miller
+<lb/>F H Miller
 <lb/>Benjain Hinson
 <lb/>Alfred Knight<cb n="1"/><pb/></p>
 <p>Mason J. P.</p>
 <p>Remitted
-<lb/>B. M</p>
-<p>$15 } Drunkeness</p>
-<p>Jno. Gallagher
+<lb/>B, M</p>
+<p>&#36;15 &#125; Drunkeness
+<lb/>Jno. Gallagher
 <lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-10-30">Octo 30. 1861</date></p>
   </body>
  </text>

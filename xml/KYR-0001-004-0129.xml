@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0129"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,9 +66,9 @@
    <p><gap/> President. JOHN G. BARRET, Cashier.
 <lb/>Office Southern Bank of Kentucky.<figure type="hr"/>
 <lb/>Louisville, <date when="1863-09-02">Sept 2 1863</date>.
-<lb/>Gov<hi rend="sup">r</hi> Bramlett. Esq.,
+<lb/>Gov<hi rend="sup">r</hi> Bramlett, Esq.,
 <lb/>Dear Sir:</p>
-<p>There was a negro woman by name of "Caroline", convicted at the last term of our Circuit Court, for the murder of the Child of Willis Levy and is sentenced to be executed on the <date when="1863-11-11">11</date> inst. This woman is a "contraband" negro, having came to this place some 7 or 8 months ago, she is ignorant and unable to procure the means of proper defence. And without entering into the evidence, as you will doubtfully have it before you, I will simply say that she was convicted on the <hi rend="underline">flimseyest</hi> of circumstantial evidence. And I believe is perfectly innocent. And if she could have a new trial in any way I believe She could <unclear>find</unclear> all I have procure such rebutting testimony, that would establish her innocence beyond doubt. It is a case that, demans your executive clemency. I dont know the woman, have never seen her, But can say that from all I know of the case, If she is executed, she is innocent of the crime, and her execution would be wrong.</p>
+<p>There was a negro woman by name of "Caroline", convicted at the last term of our Circuit Court, for the Murder of the child of Willis Levy and is Sentenced to be executed on the <date when="1863-09-11">11 inst</date>- This woman is a "contraband" negro, having came to this place some 7 or 8 Months ago, she is ignorant- and unable to procure the means of proper defence, And without entering into the evidence as you will doubtlessly have it before you, I will simply say that She was convicted on the <hi rend="underline">flimseyest</hi> of circumstantial evidence- And I believe is perfectly innocent- And if she could have a new trial in any way I believe She could from all I have procure such rebutting testimony, that would establish her innocence beyond doubt, It is a case that, demans your executive clemency- I dont know the woman, have never Seen her, But can say that from all I know of the case, If she is executed, she is innocent of the crime- and her execution would be wrong-</p>
 <p>I do hope you will at least prolong her time until you can have all the facts before you I dont hesitate in saying I believe her innocent</p>
 <p>Very Respectfully
 <lb/>J G Barret</p>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1379"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">R. F. Baird et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">R. F. Baird, J. H. Price, and F. G. Dannecker to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG6016</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <date when="1864-12-08">8 December 1864</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -60,25 +63,24 @@
  <text>
   <body>
    <p>To His Excellency Thomas E. Bramlette Governor of the Commth -- of Kentucky -- </p>
-<p>Your Excellency will be informed by this Petition that John G. Beck was indicted at the now pending Term of the Jefferson Circuit court on a charge of Larceny -- He was charged with ^having^ stolen a sett of Buggy Harness of <hi rend="underline">very</hi> <hi rend="underline">small</hi> value -- the fact was he bought the the harness of a stranger and had no witness to prove the transaction. He was found <hi rend="underline">in</hi> <hi rend="underline">possession</hi> and was unable to account for it -- It was on the whole a very meager case -- the Jury fixed his Term in the State's Prison at one year and to use their own language "earnestly recommend" him for Executive pardon -- We hope your Excellency will immediately pardon him -- He has an amiable and excellent wife, and babe six weeks old, and has served in the war for the Union <hi rend="underline">three</hi> <hi rend="underline">years</hi> <hi rend="underline">and</hi> <hi rend="underline">a</hi> <hi rend="underline">half</hi> -- He proved former good character by many witnesses and is ^in^ our<pb/>
-<lb/>humble estimation an innocent man -- We hope your Excellency will send his pardon to the care of his attorneys before the Sheriff of the County start to Frankfort with the prisoners Convicted -- We refer your Excellency to the subjoined recommendations and pray his release -- </p>
+<p>Your Excellency will be informed by this Petition that John G. Beck was indicted at the now pending Term of the Jefferson Circuit court on a charge of Larceny- He was charged with ^having^ stolen a sett of Buggy Harness of <hi rend="underline">very</hi> <hi rend="underline">small</hi> value -- the fact was he bought the the harness of a stranger and had no witness to prove the transaction. He was found <hi rend="underline">in</hi> <hi rend="underline">possession</hi> and was unable to account for it- It was on the whole a very meagre case -- The Jury fixed his Term in the State's Prison at one year and to use their own language "earnestly recommend" him for Executive pardon -- We hope your Excellency will immediately pardon him -- He has an amiable and excellent wife, and babe six weeks old, And has served in the war for the Union <hi rend="underline">three</hi> <hi rend="underline">years</hi> <hi rend="underline">and</hi> <hi rend="underline">a</hi> <hi rend="underline">half</hi>- He proved former good character by many witnesses and is ^in^ our<pb/>
+<lb/>humble estimation an innocent man -- We hope your Excellency will send his pardon to the care of his attorneys before the Sheriff of the county start to Frankfort with the prisoners convicted -- We refer your Excellency to the subjoined recommendations and pray his release -- </p>
 <p>R. F. Baird
 <lb/>J. H. Price
-<lb/>F G Dannecker } Attos -- 
+<lb/>F G Dannecker &#125; Attos-
 <lb/>	
 <lb/>I earnestly recommend John Beck to your Excellency's clemency.</p>
 <p>Martin Bijur
-<lb/>Atty for Commonw<hi rend="sup">th</hi>
-<lb/>pro tem</p>
+<lb/>Atty for Commonw<hi rend="sup">th</hi> pro tem</p>
 <p>I think the case one for Executive Clemency.</p>
 <p><hi rend="underline">P. B. Muir</hi>
-<lb/>Leo Chambers DC<pb/></p>
+<lb/>Lee Chambers DC<pb/></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>State of Kentucky
 <lb/>Jefferson Circuit Court
 <lb/><cb n="2"/><date when="1864-10">October Term 1864</date>
 <lb/><date when="1864-12-08">December 8 1864</date><milestone unit="column" n="1"/></p>
 <p>Commonwealth Plff
-<lb/>v  Indictment for felony
+<lb/>v Indictmt for felony
 <lb/>John G Beck Deft</p>
 <p>We of the Jury find the defendant guilty and ^say^ that he shall be confined in the penetentiary one year; but earnestly recommend him to the clemency of the Governor</p>
 <p>W Ross foreman</p>

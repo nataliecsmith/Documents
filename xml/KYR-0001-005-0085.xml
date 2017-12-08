@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0085"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Campbell County, Kentucky</placeName>
-    <date when="1865-08-25">25 August 1865</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -62,18 +65,18 @@
   <body>
    <p>Campbell Circuit Court
 <lb/>The Com"mth of Kentucky Plaintiff
-<lb/>Against } Indictment for refusing to receive the vote of a qualified voter
+<lb/>Against &#125; Indictment for refusing to receive the vote of a qualified voter
 <lb/>John W Flora &amp; Geo Herendon Defendant</p>
-<p>The Grand Jury of Campbell County, in the name and by the authority of the Commonwealth of Kentucky, accuse John W Flora and Geo Herendon of the offense of refusing to receive the vote of a qualified voter, committed as follows, viz; The Said John W Flora and George Herendon on the <gap/> day of <date when="1865-08">August, 1865</date> and on divers other days and times, before and since that time, and before the finding of this Indictment, in the county and State aforesaid, Being officers of an Election then &amp; there held at the Carthage Precinct in Said County under the Constitution and laws of the State aforesaid, for the Election<pb/>
-<lb/>of a member of the Congress of the United State for the Sixth Congressional District of Ky, a State Treasurer, a Senator from the 25<hi rend="underline"><hi rend="sup">th</hi></hi> Senatorial District of Said State, Two members of the General Assembly for the County aforesaid, and a Clerk of the Circuit Court for the county aforesaid; The Said Flora being then &amp; there, a Judge of Said Election, and the Said Herendon being then &amp; there the Sheriff of Said Election, and Severally acting as Such, at the time and place aforesaid, having been duly appointed &amp; qualified as Said Judge and Sheriff, The Jury aforesaid in the name and by the authority of the <hi rend="str">Commonwealth</hi> ^aforesaid^ do further Say that at the Election aforesaid and for the purpose aforesaid, at the Precinct and County aforesaid, on the day and year aforesaid, Stephen Ward, a qualified voter of Said Precinct and County, did then &amp; there appear at the Polls, before the Judges, Sheriff &amp; Clerk of Said<pb/>
-<lb/>Election, between the hours of Seven Oclk A M. and Six Oclock P. M, and then &amp; there did offer to vote; Whereupon the Said John W Flora &amp; Geo Herendon as Judge and Sheriff of Said Election, Respectively Knowingly and Corruptly unlawfully refuse to receive the vote of the Said Stephen Ward, Contrary to the Statute in such case made and provided and against the peace and dignity of the Commonwealth of Kentucky,</p>
+<p>The Grand Jury of Campbell County, in the name and by the authority of the Commonwealth of Kentucky, accuse John W Flora and Geo Herendon of the offense of refusing to receive the vote of a qualified voter, committed as follows, viz; The Said John W Flora and George Herendon on the <gap/> day of <date when="1865-08">August, 1865</date> and on divers other days and times, before and since that time, and before the finding of this Indictment, in the county and state aforesaid, Being officers of an Election then &amp; there held at the Carthage Precinct in Said County under the Constitution and laws of the State aforesaid, for the Election<pb/>
+<lb/>of a member of the Congress of the United State for the Sixth Congressional District of Ky, a State Treasurer, a Senator from the 25<hi rend="sup">th</hi> Senatorial District of said State, Two Members of the General Assembly for the County aforesaid, and a Clerk of the Circuit Court for the county aforesaid; The Said Flora being then &amp; there a Judge of Said Election, and the said Herendon being then &amp; there the Sheriff of Said Election, and Severally acting as Such, at the time and place aforesaid, having been duly appointed &amp; and qualified as Said Judge and Sheriff, The Jury aforesaid in the name and by the authority of the <hi rend="str">Commonwealth</hi> aforesaid do further Say that at the Election aforesaid and for the purpose aforesaid, at the Precinct and County aforesaid, on the day and year aforesaid, Stephen Ward, a qualified voter of Said Precinct and County, did then &amp; there appear at the Polls, before the Judges, Sheriff &amp; Clerk of Said<pb/>
+<lb/>Election, between the hours of Seven Oclk A M, and Six Oclock P. M, and then &amp; there did offer to vote; Whereupon the Said John W Flora &amp; Geo Herendon as Judge and Sheriff of Said Election, Respectively Knowingly and Corruptly unlawfully refuse to receive the vote of the Said Stephen Ward, Contrary to the Statute in such case made and provided and against the peace and dignity of the Commonwealth of Kentucky,</p>
 <p>Witnesses
 <lb/>John J Nelson
 <lb/><hi rend="underline">Stephen Ward,</hi></p>
-<p>R. B. Carpenter
+<p>R, B, Carpenter
 <lb/>Commonwealths Attorney</p>
 <p>A Copy
-<lb/>Attest Benj Beall clk
+<lb/>Attest Benj Beall Clk
 <lb/><hi rend="underline">Campbell Circuit Court</hi><pb/></p>
 <p>156
 <lb/>The Commonwealth

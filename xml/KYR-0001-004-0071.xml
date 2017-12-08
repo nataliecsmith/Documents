@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0071"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,12 +65,12 @@
   <body>
    <p>Maysville Ky <date when="1863-09-01">Sept 1<hi rend="sup">st</hi> 63</date>
 <lb/>To His Excellency
-<lb/>The Governor of Kentucky,</p>
-<p>Dear Sir, We enclose herewith a petition from Several of the leading and most influential gentlemen of Bracken &amp; Mason Counties among them Mr Carpenter the prosecuting attorney, asking you to remit so much of the fine and penalty inflicted upon Mr Respess and myself by the Bracken Circuit Court, at its late term, as you have the power to do, your compliance with their request, will be gratefully felt and acknowledge by us.</p>
-<p>Your obt Servants
+<lb/>The Govener of Kentucky,</p>
+<p>Dear Sir. We enclose herewith a petition from Several of the leading and most influential gentlemen of Bracken &amp; Mason Counties among them M<hi rend="sup">r</hi> Carpenter the prosecuting attorney, asking you to remit So much of the fine and penalty, inflicted upon Mr Respess and myself by the Bracken Circuit Court, at its late term, as you have the power to do, your compliance with their request, will be gratefully felt and acknowledge by us,</p>
+<p>Your obt servants
 <lb/>Isaac Nelson
 <lb/>Tho<hi rend="sup">s</hi> A Respess
-<lb/>By Nelson</p>
+<lb/>By Nelsons</p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0051"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,9 +66,9 @@
    <p>State of Kentucky</p>
 <p>Pleas before the Honorable P B Muir Sole Judge of the Jefferson Circuit Court held at the Court House in the City Louisville on the <date when="1864-06-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> day of June 1864</date></p>
 <p>The Commonwealth Plff
-<lb/>versus } Indict felony
+<lb/>versus &#125; Indict felony
 <lb/>John Welch Deft</p>
-<p>Be it remembered that heretofore To wit; <date when="1864-05-07">7 day of May 1864</date>, the Grand Jurors impanneled and sworn to enquire on and for the body of the County of Jefferson and State of Kentucky, presented and returned into Court an Indictment for murder, a true bill against John Welch, which is in substance as follows</p>
+<p>Be it remembered that heretofore To wit; <date when="1864-05-07">7 day of May 1864</date>, the Grand Jurors impanneled and sworn to enquire in and for the body of the County of Jefferson and State of Kentucky, presented and returned into Court an indictment for murder, a true bill against John Welch, which is in substance as follows</p>
 <p><note place="left margin">Indictment</note>
 <lb/>The Commonwealth of Kentucky
 <lb/>against
@@ -74,23 +77,24 @@
 <lb/><date when="1864-05">May Term A D 1864</date></p>
 <p>The Grand Jurors of the County of Jefferson in the name and by the authority of the Commonwealth of Kentucky accuse John Welch of the crime of murder committed in manner and form as follows To wit<pb/>
 <lb/><note place="header">2</note>
-<lb/>The said John Welch in the said County of Jefferson on the <gap/> day of <date when="1861-03">March A D 1864</date>, did wilfully, wickedly, feloniously and of his malice aforethought Kill and murder Ellen Gaven by shooting her in and upon her body and breast, her right breast with a gun and pistol, contrary to the form of the statute in such cases made and provided and against the peace and dignity of the Commonwealth of Kentucky</p>
+<lb/>The said John Welch in the said County of Jefferson on the <gap/> day of <date when="1861-03">March A D 1864</date>, did wilfully, wickedly, feloniously and of his malice aforethought kill and murder Ellen Gaven by shooting her in and upon her body and breast, her right breast with a gun and pistol, contrary to the form of the statute in such cases made and provided and against the peace and dignity of the Commonwealth of Kentucky</p>
 <p>J R Dupuy
 <lb/>Commonwealth Atty</p>
-<p>Which was endorsed by the Clerk of said Court <date when="1864-05-07">1864 May 7</date> Rec<hi rend="sup">d</hi> from Grand Jury and filed</p>
+<p>Which was endorsed by the Clerk of said Court
+<lb/><date when="1864-05-07">1864 May 7</date> Rec<hi rend="sup">d</hi> from Grand Jury and filed</p>
 <p>And at a Court continued and held as aforesaid on the <date when="1864-05-13">13 May 1864</date></p>
 <p><note place="left margin">Verdict</note>
-<lb/>John Welch -- who has been indicted by a Grand Jury of this <unclear><hi rend="str">Count</hi></unclear>Circuit for felony and who is now confined in the jail of this Circuit on said charge was this day led to the bar of this Court by and in the custody of the jailor attending the same and being arraigned upon said indictment plead not guilty thereto and for his trial put himself upon the country and the Attorney for the Commonwealth likewise And the defendant moved the<pb/>
+<lb/>John Welch-- who has been indicted by a Grand Jury of this <unclear><hi rend="str">Count</hi></unclear>Circuit for felony and who is now confined in the jail of this Circuit on said charge was this day led to the bar of this Court by and in the custody of the jailor attending the same and being arraigned upon said indictment plead not guilty thereto and for his trial put himself upon the country and the Attorney for the Commonwealth likewise And the defendant moved the<pb/>
 <lb/><note place="header">3</note>
-<lb/>Court upon affidavit filed to grant him a continuance herein and said motion being heard was submitted and the Court being advised It is ordered that said motion be overruled to which ruling of the Court the defendant excepts -- Wherefore to try the issue joined let a jury come and thereupon came a jury To wit; L Richardson, Pres Rocors, A L Harding, Henry Dennis, W D Smith, J Parkhill, F H Hagan, W F Lane, A A Quarrier, George Fonterman, Robert Tompkins and W H Dulaney who being duly elected, tried and sworn well and truly to try and true deliverance make between the Commonwealth and the accused upon oath returned into Court the following verdict, We of the Jury find the accused John Welch guilty as charged in the within indictment</p>
+<lb/>Court upon affidavit filed to grant him a continuance herein and said motion being heard was submitted and the Court being advised It is ordered that said motion be overruled to which ruling of the Court the defendant excepts -- Wherefore to try the issue joined let a jury come and thereupon came a jury Towit; L Richardson, Pres Rocors, A L Harding, Henry Dennis, W D Smith, J Parkhill, F H Hogan, W F Lane, A A Quarrier, George Fonterman, Robert Tompkins and W H Dulaney who being duly elected, tried and sworn well and truly to try and true deliverance make between the Commonwealth and the accused upon oath returned into Court the following verdict, We of the Jury find the accused John Welch guilty as charged in the within indictment</p>
 <p>A A Quarrier foreman </p>
 <p>And thereupon the prisoner was remanded and taken to jail accordingly</p>
 <p>And at a Court continued and held as aforesaid on the <date when="1864-05-14">14 May 1864</date></p>
 <p>Came the defendant by Attorney and moved the Court for a new trial on grounds in writing filed<pb/></p>
 <p><note place="header">4</note>
-<lb/><note place="left margin">Grounds for New trial</note>
+<lb/><note place ="left margin">Grounds for New trial</note>
 <lb/>The defendant John Welsh moves for a new trial in this cause because the Court misinstructed the jury</p>
-<p>Rogers for Welsh -- </p>
+<p>Bijurs for Welsh -- </p>
 <p>And at a Court continued and held as aforesaid on the <date when="1864-05-16">16 May 1864</date></p>
 <p>Came the parties by Attorneys and the motion for a new trial being heard and the Court being advised It is ordered said motion be overruled, to which ruling of the Court the defendant excepts</p>
 <p>And at a Court continued and held as aforesaid on the <date when="1864-05-30">30 May 1864</date></p>
@@ -106,30 +110,31 @@
 <p><note place="left margin">Cha<hi rend="sup">s</hi> Hale</note>
 <lb/>And also introduced Charles Hale, who testified that in <date when="--03">March</date> last he was engaged in the building of a house in M<hi rend="sup">c</hi>Allisters alley in the City of Louisville and was occupied on the roof of said building when he heard noise and quarrelling in the<pb/>
 <lb/><note place="header">6</note>
-<lb/>said alley and when he was about looking down to see the fuss, he heard some voice call out don't shoot, and simultaneously he heard the discharge of a pistol, on descending from the roof into the alley, he saw Ellen Gaven lying on the ground, her breast pierced by bullet of which wound she very soon died Witness saw the accuesd, he held a small pistol in his hand and fired one load of it, all that was left, into the ground and then said you may arrest me now. He was walking away slowly from the scene, All this occured in the morning between 9 and 10 O'Clock. Hale stated that he was at work 50 or 75 yards of accused &amp; deceased when he first saw them -- that at this time the deceased had a brick bat in her hand and accused had a pistol pointed at her -- deceased seemed to be ordering accused to go away and at the time accused shot her, her right hand was raised, in which she held a brick bat. Witness could'nt repeat the language used by deceased, for he did not hear it distinctly -- seeing the difficulty he witness started to run in that direction to prevent it and as he ran he said, "do'n't shoot," and as he pronounced the words "do'n't shoot," accused shot the deceased,<pb/>
+<lb/>said alley and when he was about looking down to see the fuss, he heard some voice call out don't shoot, and simultaneously he heard the discharge of a pistol, on descending from the roof into the alley, he saw Ellen Gaven lying on the ground, her breast pierced by bullet of which wound she very soon died Witness saw the accused, he held a small pistol in his hand and fired one load of it, all that was left, into the ground and then said you may arrest me now, He was walking away slowly from the scene, all this occured in the morning between 9 and 10 O'Clock. Hale stated that he was at work 50 or 75 yards from accused &amp; deceased when he first saw them -- that at this time the deceased had a brick bat in her hand and accused had a pistol pointed at her -- deceased seemed to be ordering accused to go away and at the time accused shot her, her right hand was raised, in which she held a brick bat. Witness could'nt repeat the language used by deceased, for he did not hear it distinctly -- seeing the difficulty he witness started to run in that direction to prevent it and as he ran he said, "do'n't shoot," and as he pronounced the words "do'n't shoot," accused shot the deceased,<pb/>
 <lb/><note place="header">7</note>
-<lb/>accused would not have heard the words, "do'n't shoot," used by witness before accused shot -- the words "do'n't shoot," and the firing of accused' pistol occured at the same time</p>
-<p><note place="left margin">&gt;Jno Gaivn</note>
-<lb/>Also John Gaven -- who stated that he was the husband of the deceased, that he was 26 years of age and belonged to the <gap/> Regiment U S Volunteers, that he lived partly in the Hospital and partly in his home, having leave from the Hospital surgeon to spend his nights at home. He <unclear>found</unclear> his wife had occupied the back kitchen of a house in M<hi rend="sup">c</hi>Allisters Alley as a dwelling. He had seen the accused once before with a companion, about a week before the killing They had come to his house and offered him a drink and he took it, when they remained in his room which he and his wife occupied, and witness left and returned in a short time, when they separated in a friendly manner -- About a week after this first interview, that is on the night preceding the homicide, the accused and his former companion again appeared and asked admittance into the room occupied by witness and wife -- It was about 9 or 10 O'Clock at night. They again offered<pb/>
+<lb/>accused could not have heard the words, "do'n't shoot," used by witness before accused shot -- the words "do'n't shoot," and the firing of accused<hi rend="sup">s</hi> pistol occured at the same time</p>
+<p><note place="left margin">Jno Gavin</note>
+<lb/>Also John Gaven -- who stated that he was the husband of the deceased, that he was 26 years of age and belonged to the <gap/> Regiment U S Volunteers, that he lived partly in the Hospital and partly in his home, having leave from the Hospital surgeon to spend his nights at home. He <hi rend="str"><unclear/></hi> his wife had occupied the back kitchen of a house in M<hi rend="sup">c</hi>Allisters alley as a dwelling, He had seen the accused once before with a companion, about a week before the killing</p>
+<p>They had come to his house and offered him a drink and he took it, when they remained in his room which he and his wife occupied, and witness left and returned in a short time, when they separated in a friendly manner -- about a week after this first interview, that is on the night preceding the homicide, the accused and his former companion again appeared and asked admittance into the room occupied by witness and wife -- It was about 9 or 10 O'Clock at night. They again offered<pb/>
 <lb/><note place="header">8</note>
-<lb/>drink which he accepted and then left and did not return until about 12 O'Clock, when the deceased informed him that she had been insulted by the companion of accused. They then commenced quarreling and witness ordered them out of his house and pursued them throwing brickbats after them -- Next morning the accused returned and asked witness why he had insulted him and driven him from his premises and witness answered that he had nothing against the accused, that it was his companion who had caused all the difficulty -- On being cross examined, he stated that the quarrel of the morning of the homocide commenced in the back kitchen and that a side alley runs along the house from the alley to the Kitchen, through which side alley the accused ran when pursued by witness -- Witness stated that in the pursuit he had picked up an axe to strike the accused: but had reflected on the enormity of the crime of murder and had thrown it aside: when accused had passed the gate in front of the house and had reached the centre of the alley, he turned and fired and killed witness's wife. The deceased and witness were not far apart and about 14 feet from the accused, she at the time be-<pb/>
+<lb/>drink which he accepted and then left and did not return until about 12 O'Clock, when the deceased informed him that she had been insulted by the companion of accused. They then commenced quarreling and witness ordered them out of his house and pursued them throwing brickbats after them -- Next morning the accused returned and asked witness why he had insulted him and driven him from his premises and witness answered that he had nothing against the accused, that it was his companion who had caused all the difficulty -- On being cross examined, he stated that the quarrel of the morning of the homocide commenced in the back kitchen and that a side alley runs along the house from the alley to the kitchen, through which side alley the accused ran when pursued by witness -- Witness stated that in the pursuit he had picked up an axe to strike the accused; but had reflected on the enormity of the crime of murder and had thrown it aside; when accused had passed the gate in front of the house and had reached the centre of the alley, he turned and fired and killed witness's wife. The deceased and witness were not far apart and about 14 feet from the accused, she at the time be-<pb/>
 <lb/><note place="header">9</note>
-<lb/>tween witness and accused with her left shoulder in front of the right shoulder of witness. Witness stated further that he had no doubt the accused aimed at and intended to kill the witness. He denied having introduced the accused to Miss M<hi rend="sup">c</hi>Chord or to any girls in his room or in the house The whole scene from the altercation in the back kitchen to the shooting had not occupied more than five minutes of time Witness Gaven also stated, that on the morning of the homicide about 9 O'clock -- the morning after he had run accused and his friend from the premises, accused came to his house and shot at witness, which he avoided by striking the pistol up, that accused then turned and went to the front gate by way of a side alley -- that deceased followed accused to about five paces beyond the yard gate with a brick bat in her hand, that about the time accused had reached the gate, witness had picked up an axe but laid it aside again and that accused did not see witness have the axe in his hand, but he witness saw the accused and that when accused shot deceased, witness and witness M<hi rend="sup">c</hi>Chord, a woman, stood inside the gate -- Witness standing in the door of the house<pb/>
+<lb/>tween witness and accused with her left shoulder in front of the right shoulder of witness. Witness stated further that he had no doubt the accused aimed at and intended to kill the witness. He denied having introduced the accused to Miss M<hi rend="sup">c</hi>Chord or to any girls in his room or in the house The whole scene from the altercation in the back kitchen to the shooting had not occupied more than five minutes of time Witness Gaven also stated, that on the morning of the homicide about 9 O'clock -- the morning after he had run accused and his friend from the premises, accused came to his house and shot at witness, which he avoided by striking the pistol up, that accused then turned and went to the front gate by way of a side alley -- that deceased followed accused to about five paces beyond the yard gate with a brick bat in her hand, that about the time accused had reached the gate-- witness had picked up an axe but laid it aside again and that accused did not see witness have the axe in his hand, but he witness saw the accused and that when accused shot deceased, witness and witness M<hi rend="sup">c</hi>Chord, a woman, stood inside the gate -- Witness standing in the door of the house<pb/>
 <lb/><note place="header">10</note>
 <lb/>and about 18 feet of deceased when she fell in the Street.</p>
 <p><note place="left margin">P Bullock</note>
-<lb/>Pearce Bullock heard a noise about 12 O'Clock on the night preceding the homicide, looked out of his window which overlooks M<hi rend="sup">c</hi>Allisters alley and saw John Gaven throw brickbats at two men, one of whom was the accused, and pursue them, heard Gaven cursing them and exclaim "I will follow you to hell." This was the night before the morning of the shooting of deceased by accused. As Gaven was chasing accused and another down the alley at night, and after Gaven had said "I will follow you to hell," one of the pursued said, "I will kill you for that."</p>
+<lb/>Pearce Bullock heard a noise about 12 O'Clock on the night preceding the homicide, looked out of his window which overlooks M<hi rend="sup">c</hi>Allisters alley and saw John Gaven throw brickbats at two men, one of whom was the accused, and pursue them, heard Gaven cursing them and exclaim "I will follow you to hell," This was the night before the morning of the shooting of deceased by accused, As Gaven was chasing accused and another down the alley at night, and after Gaven had said "I will follow you to hell", one of the pursued said, "I will kill you for that."</p>
 <p><note place="left margin">M J M<hi rend="sup">c</hi>Chord</note>
 <lb/>Mary Jane M<hi rend="sup">c</hi>Chord, stated that the house, part of which John Gaven and wife occupied, was a house of ill fame; that on the night preceding the homicide, the accused and a companion were in the room occupied by Gaven and wife, and that Gaven called her in, saying, there is a beau for you. She remained in the room with the accused and Gaven left, not returning until shortly before 12 O'Clock. It was then that the parties quarreled, the wife of Gaven accusing the companion of the prisoner with having insulted her. There were more girls in the front part of the building and Gaven<pb/>
 <lb/><note place="header">11</note>
 <lb/>knew the inmates and the character ^of^ the <hi rend="str">inmates</hi> house. He and his wife occupied the back kitchen of said house as their dwelling and had no other room, and it was in this room in which witness remained with the accused and where Gaven and wife left them. Witness M<hi rend="sup">c</hi>Chord also stated that on the morning of the homicide accused after being in the house, went out on a porch where John Gaven was standing and shot at Gaven, he Gaven not having offered any violence to accused or used any threatening language towards him that witness heard -- that Gaven threw up his hand and she witness threw up her broom, both striking the pistol and the load passed over Gavens shoulder -- accused then went through the alley about 4 feet wide to the Street and deceased come out of the front room and followed accused and picked up a brick bat near the gate and was endeavoring to drive accused away when shot -- Witness M<hi rend="sup">c</hi>Chord and John Gaven stood inside the yard fence, did not go out of it when accused shot deceased -- heard Gaven at no time threatening accused -- Dora Harris stayed in the same house -- It is a house of ill fame. There were more girls there at the time -- Gaven knew the inmates and the character of the house<pb/>
 <lb/><note place="header">12</note>
-<lb/>Dora Harris -- Also stated that she was at the house of Gaven the morning of the shooting of deceased -- She occupies the next room to Gaven I saw accused go out on the porch in front of Gaven's room -- I heard Gaven ask accused "where is the man who was with you last night" and accused replied, "what is that to you" I remonstrated with Gaven and accused telling them not to have a fuss -- Gaven told accused he had no quarrel for accused, but with his companion who was with him on the night before -- accused then drew his pistol, presented it immediately at Gaven and Gaven throwing up his hand and witness M<hi rend="sup">c</hi>Chord throwing up a broom stick they both knocked up the pistol and the load was discharged, when fired by accused over the Shoulder of Jno Gaven -- Gaven then went into his house (room) and accused turned as if to walk out on the street, through the side alley which leads to it (the street being called M<hi rend="sup">c</hi>Calisters alley), the deceased then came out of the front room of the house and tried to get accused to go away, followed him out through the gate into the Street a few feet in front of the yard gate. I heard a pistol fire and ran out and found<pb/>
+<lb/>Dora Harris -- Also stated that she was at the house of Gaven the morning of the shooting of deceased -- She occupies the next room to Gaven I saw accused go out on the porch in front of Gaven's room -- I heard Gaven ask accused "where is the man who was with you last night" and accused replied, "what is that to you" I remonstrated with Gaven and accused telling them not to have a fuss -- Gaven told accused he had no quarrel for accused, but with his companion who was with him on the night before -- accused then drew his pistol, presented it immediately at Gaven and Gaven throwing up his hand and witness M<hi rend="sup">c</hi>Chord throwing up a broom <hi rend="str">stick</hi> they both knocked up the pistol and the load was discharged, when fired by accused over the Shoulder of Jno Gaven -- Gaven then went into his house (room) and accused turned as if to walk out on the street, through the side alley which leads to it (the street being called M<hi rend="sup">c</hi>Alisters alley), the deceased then came out of the front room of the house and tried to get accused to go away, followed him out through the gate into the street a few feet in front of the yard gate. I heard a pistol fire and ran out and found<pb/>
 <lb/><note place="header">13</note>
 <lb/>deceased dying, She died in a few seconds after I got to her. The pistol used by accused when he shot at John Gaven was a small one with four barrels</p>
 <p>This was all the evidence introduced by either party, the Court after argument of counsel for defence, instructed the jury as follows</p>
 <p><note place="left margin">Instructions -- </note>
-<lb/>The attorney for the Coml<hi rend="underline"><hi rend="sup">th</hi></hi> moved the Court to instruct the Jury as follows towit.</p>
+<lb/>The attorney for the Coml<hi rend="sup">th</hi> moved the Court to instruct the Jury as follows towit.</p>
 <p><note place="left margin">Given</note>
 <lb/>1<hi rend="underline"><hi rend="sup">st</hi></hi> Murder is the wrongful killing any person in the peace of the Commonwealth with malice aforethought</p>
 <p><note place="left margin">Given</note>
@@ -142,17 +147,17 @@
 <p><note place="left margin">Given</note>
 <lb/>5<hi rend="underline"><hi rend="sup">th</hi></hi> The term <hi rend="underline">aforethought</hi>, used in the 1<hi rend="underline"><hi rend="sup">st</hi></hi> and 2<hi rend="sup">d</hi> instructions, means a predetermination to kill, however sudden, or recently formed before the killing.</p>
 <p>No other instructions were asked by either side or given by the Court. -- </p>
-<p>to which the defendant excepted at the time and still excepts, and the jury returned the <hi rend="str">jury</hi> <hi rend="str"><unclear/></hi> <hi rend="str">which</hi> following verdict -- We the jury find the accused John Welch guilty as charged in the within indictment. A A Quarrier foreman And thereupon on -- day -- defendant filed his motion for a new trial as follows (page 4) which the Court overruled, to which the defendant excepted at the time and still excepts, and the Court on the <gap/> day of <gap/> rendered judgment upon the verdict (page 4) from which judgment the defendant immediately after its rendition appealed and had his prayer noted upon the records of the Court which was done at the time and in words as follows (page 5)</p>
+<p>to which the defendant excepted at the time and still excepts, and the jury returned the <hi rend="str">jury</hi> <hi rend="str"><unclear/></hi> <hi rend="str"><unclear/></hi> following verdict -- We the jury find the accused John Welch guilty as charged in the within indictment. A A Quarrier foreman And thereupon on <gap/> day <gap/> defendant filed his motion for a new trial as follows (page 4) which the Court overruled, to which the defendant excepted at the time and still excepts, and the Court on the <gap/> day of <gap/> rendered judgment upon the verdict (page 4) from which judgment the defendant immediately after its rendition appealed and had his prayer noted upon the records of the Court which was done at the time and in words as follows (page 5)</p>
 <p>P B Muir.</p>
-<p><note place="left margin">Ans<hi rend="sup">d</hi> Bill Excepts</note>
+<p><note place="left margin">Am<hi rend="sup">d</hi> Bill Excpts</note>
 <lb/>And be it further remembered that the instructions stated in the original bill<pb/>
 <lb/><note place="header">15</note>
 <lb/>of exceptions were all the instructions given by the Court to the jury and this amended bill is signed within the same term, with the original bill and is prayed to be considered part thereof</p>
-<p>J R Dupuy Comth. Atty
+<p>J R Dupuy Comlth. Atty
 <lb/>Martin Bijur for Welsh
 <lb/>P B Muir <figure type="seal"/></p>
 <p>State of Kentucky</p>
-<p>I James P. Chambers Clerk Jefferson Circuit Court in the State aforesaid certify that the foregoing fifteen pages this included contain a full, true and complete transcript of the record and proceedings had in the case therein mentioned In testimony whereof I have hereunto set my hand as Clerk as aforesaid this <date when="1864-07-06">6 July 1864</date></p>
+<p>I James P Chambers Clerk Jefferson Circuit Court in the State aforesaid certify that the foregoing fifteen pages this included contain a full, true and complete transcript of the record and proceedings had in the case therein mentioned In testimony whereof I have hereunto set my hand as Clerk as aforesaid this <date when="1864-07-06">6 July 1864</date></p>
 <p><hi rend="underline">James P Chambers</hi> c<pb/></p>
 <p>Index
 <lb/><table rend="rules">
@@ -178,6 +183,10 @@
 </row>
 <row>
 	<cell>" filing bill exceptions</cell>
+	<cell>5</cell>
+</row>
+<row>
+	<cell>Bill of exceptions</cell>
 	<cell>5</cell>
 </row>
 <row>

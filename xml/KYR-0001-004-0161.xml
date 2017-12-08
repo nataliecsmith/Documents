@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0161"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">J. F. McClain et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">Unknown et al. to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4280</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,22 +63,23 @@
  </teiHeader>
  <text>
   <body>
-   <p><date when="1863-10-02">Octr 2<hi rend="sup">d</hi>/ 63</date>
+   <p>Blandville Kentucky
+<lb/><date when="1863-10-02">Octr 2<hi rend="sup">d</hi>/63</date>
 <lb/>To his Excellency
-<lb/>Thos E Bramlett
-<lb/>Governor of Ky
+<lb/>Tho<hi rend="sup">s</hi> E Bramlett
+<lb/>Governor of Key
 <lb/>Respected Sir -- </p>
-<p>The undersigned, will Respectfully state to your Excellency that they are the Jury that tried James McCawley &amp; Wesley Garrett for Keeping a gaming house in the Town of Blandville, We further State that the evidence was barely sufficient to warrant us in finding a verdict against them, We therefore, think from all the circumstances connected with the case, that it is one that deserves Executive Interposition.</p>
+<p>The undersigned, will Respectfully state to your Excellency, that they are the Jury that tried James M<hi rend="sup">c</hi>Cawley &amp; Wesley Garrett for Keeping a gaming house in the Town of Blandville, We further State that the evidence was barely sufficient to warrant us in finding a verdict against them, We therefore, think from all the circumstances connected with the case, that it is one that deserves Executive Interposition,</p>
 <p>Very Respectfully
 <lb/>your obedient Servants &amp;c
-<lb/>J. F. McClain
-<lb/>J M Owen
+<lb/>J. F. M<unclear/>
+<lb/>J U. owen
 <lb/>W. G. Scott
 <lb/>Joseph Kimmel
-<lb/>W. L. Skinner
-<lb/>A. Hook
+<lb/>W. L Skinner
+<lb/>A.. Hook
 <lb/>J. W. Rudolph
-<lb/>J. L. Brown, Jr
+<lb/>J. S. Brown. Jr
 <lb/>B. F. Fraser</p>
   </body>
  </text>

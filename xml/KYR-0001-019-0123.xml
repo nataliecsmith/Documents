@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0123"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,13 +64,12 @@
  <text>
   <body>
    <p>To M<hi rend="sup">r</hi> Lars Anderson,
-<lb/>Cincinnati, Ohio</p>
-<p>Tell Gen<hi rend="sup">l </hi>Anderson, if he is with, you that we desire to <hi rend="str">see to</hi> see him here immediately -- We have talked with the Governor -- He does not disapprove of this invitation -- High public interests require the General's presence here If your brother is not with you, where is he? answer immediately -- 
-<lb/> 
-<lb/>J J Crittenden
+<lb/>Cincinnati -- Ohio</p>
+<p>Tell Gen<hi rend="sup">l </hi>Anderson, if he is with, you that we desire to <hi rend="str">see</hi> <hi rend="str">to</hi> see him here immediately -- We have talked with the Governor -- He does not disapprove of this invitation -- High public interests require the General's presence here If your brother is not with you, where is he? answer immediately -- </p>
+<p>J J Crittenden
 <lb/><hi rend="str">August 22nd 1861</hi>
 <lb/>Mason Brown
-<lb/>Orlando Brown
+<lb/>Orlando Brown Jr.
 <lb/>P. Swigert</p>
 <p>Frankfort
 <lb/><date when="1861-08-22">Augst 22<hi rend="sup">nd</hi> 1861</date></p>
@@ -77,9 +79,9 @@
 <lb/>117
 <lb/><hi rend="underline">45</hi>
 <lb/>162</p>
-<p><hi rend="str">49 F 16 pd</hi>
-<lb/>56 F 183 pd
-<lb/>Chg -- State<pb/></p>
+<p><hi rend="str">49; F 162 pd</hi>
+<lb/>56 F 1<hi rend="str">6</hi>83 pd</p>
+<p>Chg -- State<pb/></p>
 <p>29</p>
 <p>56</p>
 <p>45

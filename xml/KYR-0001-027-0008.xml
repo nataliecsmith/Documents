@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0008"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Columbus, Ohio</placeName>
+    <placeName>Columbus, Franklin County, Ohio</placeName>
     <date when="1862-08-19">19 August 1862</date>
    </creation>
    <textClass>
@@ -60,51 +63,50 @@
  </teiHeader>
  <text>
   <body>
-   <p>Camp Chase Ohio Prison no 1
+   <p>Camp Chase Ohio Prison No 1
 <lb/><date when="1862-08-19">August 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
-<p>The undersigned peacable citizens of Kentucky would respectfully, state to his Excellency and the Legislature of Ky, that they are held as prisoners at Camp Chase Ohio; having been arrested whilst purusing their legitimate business, without warrant and without legal authority, in vilolation of law and their civil and legal rights ^&amp;^ <hi rend="underline">forced</hi> out of the State of Ky and into this prison where we are now held</p>
-<p>We are <hi rend="underline">unlawfully</hi> <hi rend="underline">held</hi> at this place, having always been law abiding citizens of the State of Ky. and have never committed an act of disloyalty against that State or the United States and we are aprised by the official that we can only regain our liberty, by proof establishing our innocence -- a principle unprecented and unknown to the law. -- </p>
-<p>We ask the charges preppreferedared against us, damand to be confronted by our accusers and a trial by our peers in persuance of the constitutions of Ky and that of the United States.</p>
-<p>We therefore would call your Excellency's attention and the considerations of the Legislature to this matter and ask of your honor and that honorable body if they approve of these proceedings and to immediately take action for our <hi rend="underline">release</hi> and to prevent such proceedings in the future</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Tho<hi rend="sup">s</hi> S Bronston Jr
+<p>The undersigned peacable citizens of Kentucky <hi rend="underline">would</hi> respectfully, state to his Excellency and the Legislature of Ky, that they are held as prisoners at Camp Chase Ohio; having been arrested whilst purusing their legitimate business, without warrant and without legal authority, in vilolation of law and their civil and legal rights, &amp; <hi rend="underline">forced</hi> out of the State of Ky and into this prison, where we are now held</p>
+<p>We are <hi rend="underline">unlawfully</hi> <hi rend="underline">held</hi> at this place. having always been law, abiding citizens of the State of Ky, and have never committed an act of disloyalty against that State or the United States. and we are assured by the official that we can only regain our libery by proof establishing our innocence -- a principle unprecented and unknown to the law. -- </p>
+<p>We ask the charges prefered against us, demand to be confronted by our accusers and a trial by our <hi rend="str"><unclear/></hi>peers in persuance of the constitutions of Ky and that of the United States. -- </p>
+<p>We therefore, would call your Excellency's attention and the consideration of the Legislature to this matter and ask of your honor and that honorable body if they approve of these proceedings and to immediately take action for our <hi rend="underline">release</hi> and to prevent such proceedings in the future</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> S Bronston Jr
 <lb/>W A Cunningham
-<lb/><hi rend="underline">Edward</hi> <hi rend="underline">Stevenson</hi>
+<lb/><hi rend="underline">Edward Stevenson</hi>
 <lb/>Richard Zimmerman
 <lb/>John S. Davis
-<lb/>A. H. Clements.
+<lb/>A, H, Clements.
 <lb/>Robert, P, Sharp
-<lb/>W. B. Hardesty=
-<lb/><cb n="2"/>John G. Cole
-<lb/>James. E. Stewart
+<lb/>W, B. Hardesty=
+<lb/><cb n="2"/>John G, Cole
+<lb/>James, E, Stewart
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Smith, Collins
-<lb/>J. S. Ruppert
+<lb/>J. S -- Ruppert
 <lb/>E. E Barnes
-<lb/>W. A. <unclear>Williams</unclear>
+<lb/>W. A. <unclear>Watkins</unclear>
 <lb/>Isaac, Hutchison
-<lb/>W. A. Glass<milestone unit="column" n="1"/><pb/>
+<lb/>W, A, Glass<milestone unit="column" n="1"/><pb/>
 <lb/><unclear/> Lesley
 <lb/>Thomas Collins
-<lb/>S. S. Moor
-<lb/>C S Moor
-<lb/><unclear>Green</unclear> <unclear/> <unclear>Stoker</unclear>
+<lb/>S, S, Moore
+<lb/>C S Moore
+<lb/><unclear>Green B</unclear> Stoker
 <lb/>Robert J Taylor
 <lb/>Eli Moore
 <lb/>Dudley Justice
 <lb/>John W. Varney
 <lb/>H. Barker
-<lb/><hi rend="str">William Sullivan</hi>
-<lb/><hi rend="str">G B</hi> George W. Brumbach
-<lb/>Benjamin <unclear/>
-<lb/>George W. Cobb
+<lb/><hi rend="str">William L Sullivan</hi>
+<lb/><hi rend="str">G B</hi> George W, Brumbach
+<lb/>Bengiman <unclear>F reede</unclear>
+<lb/>George W Cobb
 <lb/>James Woram
-<lb/>Hirres Gordan
-<lb/>E. J. Downs
-<lb/>B. r. Griffen
+<lb/>Hirres Gardan
+<lb/>E. J, Downs
+<lb/>B, r. Griffen
 <lb/>Joseph Hicks
-<lb/>John Con
+<lb/>John. Con
 <lb/>John Kinman<pb/></p>
-<p>Pttn from Prisoners
-<lb/>in Camp Chase</p>
+<p>Pettn from Prisoners in Camp Chase</p>
   </body>
  </text>
 </TEI>

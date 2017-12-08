@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0561"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -56,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Henry County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -68,9 +62,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>In the case of <orgName ref="cwgk:O001025">the Commonwealth</orgName> against <persName ref="cwgk:N00002279">Edward Hayden</persName> for <persName ref="cwgk:N00002280">Stukey Ransdale</persName>. Hayden not appearing The testimony in substance was that Hayden &amp; Ransdale were both old men. near neighbors. members of the same church and on friendly terms &amp; had been so for years. That they were walking home together from church on Sunday &amp; were in friendly conversation when Hayden asked Ransdale if he did not think it a sin to own slaves. Ransdale replyed that he did not when Hayden became furiously mad &amp; struck Ransdale when they fought. Neither being much injured. Hayden introduced no no testimony &amp; did not attend the trial. Hayden was find one Hundred &amp; fifty Dollars &amp; costs for which Execution issued &amp; is now in the sheriffs hands This judgment was rendered at the Septr term of the . -- <orgName ref="cwgk:O00000400">Hrny Circut Court </orgName>1862</p>
-<p><persName ref="cwgk:N00002278">Geo. C. Drane</persName><lb/>Ct Judge.
-<lb/><persName ref="cwgk:N00002277">John L. Scott</persName><lb/>Com. atty.</p>
+   <p>In the case of the commonwealth against Edward Hayden for Stukey Ransdale. Hayden not appearing The testimony in substance was That Hayden &amp; Ransdale were both old men. near neighbors. members of the same church and on friendly terms &amp; had been so for years. That They were walking home together from church on sunday &amp; were in friendly conversation when Hayden asked Ransdale if he did not think it a sin to own slaves. Ransdale replyed that he did not when Hayden became furiously mad &amp; struck Ransdale when they fought. neither being much injured. Hayden introduced no no testimony &amp; did not attend the trial. Hayden was fined one Hundred &amp; fity Dollars &amp; costs for which Execution issued &amp; -- is now in the sheriffs hands This Judgment was rendered at the <date when="1862-09">Septr term of the Hrny Circut Court 1862</date> -- </p>
+<p>Geo. C. Drane
+<lb/>ct- Judge.
+<lb/>John L. Scott,
+<lb/>Com. atty.</p>
   </body>
  </text>
 </TEI>

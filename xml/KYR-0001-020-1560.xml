@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1560"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,11 +63,11 @@
  <text>
   <body>
    <p>Commonwealth of Kentucky</p>
-<p>Affiant resident of Franklin County and State of Kentucky States that, on, the evening, in which it is alledged Thomas H Estes was Killed by Charles H Tomlinson, He was in the Stampinground, and saw Estes drinking with certain persons who witnesses in favor of affiant, in a certain case which was pending between him and Estes Saw that in order to encourage Estes to treat, that said persons would assure Estes that their evidence would operate in his favor affiant overheard Estes abusing and threatening him, and when he would come near him he would come near him his look would be of a threatening character on which account affiant kept out of his reach Estes seemed Smartly animated with whisky, saw Charles Tomlinson and Sanford in Estes company, who appeared to be waiting on and prevailing him to start home, to prevent him as affiant believes, from making an attack on him Tomlinsons and Estes lives near each other, and appeared to be particular friends They finally prevailed on Estes to start Estes is a large robust and stout man, and, of a hasty disposetion affiant believes if the Tomlinsons had not been present and got him away that he would have made an attack on him, and in all probability<pb/>
-<lb/>it would have been as fatal for him as it afterwards turned out to be for affiant does not consider himself able to fight as stout man as Eastes was There is not doubt but Hundly whom Estes made verry drunk was taken for Estes himself They were about the same height and dressed pretty much alike, which no doubt gave rise to the report that Estes was so verry drunk I think I can say I Know the Tomlinsons was actuated by no other motive or feeling or motive than those of Kindness and friendship in prevailing on Estes to start home great injustices has been done them by reports that have got into circulation</p>
+<p>Affiant resident of Franklin County and State of Kentucky States that, on, the evening, in which it is alledged Thomas H Estes was Killed by Charles H Tomlinson, He was in the Stampinground, and saw Estes drinking with certain persons who was witnesses in favor of affiant, in a certain case which was pending between him and Estes Saw that in order to encourage Estes to treat, that said persons would assure Estes that their evidence would operate in his favor affiant overheard Estes abusing and threatening him, and when he would come near him he would come near him his look would be of a threatening character on which account affiant kept out of his reach Estes seemed Smartly animated with whisky, saw Charles Tomlinson and Sanford in Estes company, who appeared to be waiting on and prevailing him to start home, to prevent him as affiant believes from making an attack on him Tomlinsons and Estes lives near each other, and appeared to be particular friends They finally prevailed on Estes to start Estes is a large robust and stout man, and, of a hasty disposetion affiant believes if the Tomlinsons had not been present and got him away that he would have made an attack on him, and in all probability<pb/>
+<lb/>it would have been as fatal for him as it afterwards turned out to be for affiant does not consider himself able to fight as stout a man as Estes was There is not doubt but Hundly whom Estes made verry drunk was taken for Estes himself They were about the same height and dressed pretty much alike, which no doubt gave rise to the report that Estes was so verry drunk I think I can say I know the Tomlinsons was actuated by no other motive or feeling or motive than those of kindness and friendship in prevailing on Estes to start home great injustice has been done them by reports that have got into circulation</p>
 <p>Samuel Wright</p>
-<p>Samuel Wright this day personally appeared before me and made oath to and Subscribed the the foregoing Affidavit, and I certify that I well acquainted with said Wright and that he is Gentleman of good Character and standing in the community in which he lives Given under my hand this <date when="1860-08-22">22<hi rend="sup">d</hi> day of August 1860</date></p>
-<p>J. E. Alsop J. P. S. C.</p>
+<p>Samuel Wright this day personally appeared before me and made oath to and Subscribed the the foregoing Affidavit, and I certify that I well acquainted with said Wright and that he is Gentleman of good Character and Standing in the community in which he lives Given under my hand this <date when="1860-08-22">22<hi rend="sup">d</hi> day of August 1860</date></p>
+<p>J, E, Alsop J, P, S, c</p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0103"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,25 +63,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lyon Co
-<lb/>70<hi rend="underline"><hi rend="sup">th</hi></hi>
-<lb/>Eddyville Ky <date when="1861-08-10">Augst 10<hi rend="sup">th</hi> 1861</date>
+   <p>Eddyville Ky <date when="1861-08-10">Augst 10<hi rend="sup">th</hi> 1861</date>
 <lb/>To his Excellency B. Magoffin
 <lb/>Governor of Kentucky
 <lb/>Sir</p>
-<p>I have just read your instructions, to the Judges of the County Courts of Kentucky, requiring the return to the state Arsenal -- of all arms &amp;c, belonging to the State not now in the hands of lawfully organized Military Companies.</p>
-<p>I have in my possession one hundred muskets which were some time since placed in my case to be held subject to your order -- by Capt. H. B. Lyon, his company of State Volunteers having disbanded.</p>
-<p>Now as I have no way of sending these muskets to the State Arsenal except by the Ohio River, or by the Cumberland Rivers to Clarksville Ten, thense by Rail Road, and fearing they would be Seized at Evansville or Clarksville, I deem it most prudent not to ship them until I have further instructions from you,</p>
-<p>After Capt Lyon's Company disbanded Mr. R W Wake of this place raised a company of eighty men (which can readily be increased to 100) to be mustered<pb/>
-<lb/>into the State Guards as soon as an Assistant Inspector Should be appointed when application would be made to the Military Board for the arms now in my possession, Col. W. B. Machen informes me that he wrote you Some two week ^since^ Suggesting the Appointment of Mr R. W. Wake Asst. Inspector but has received no reply, I would also recommend Said appointment</p>
+<p>I have just read your instructions, to the Judges of the County Courts of Kentucky, requiring the return to the State Arsenal- of all arms &amp;c, belonging to the State not now in the hands of lawfully organized Military Companies,</p>
+<p>I have in my possession one hundred Muskets which were some time since placed in my care- to be held subject to your order -- by Capt. H. B. Lyon, his Company of State Volunteers having disbanded</p>
+<p>Now as I have no way of sending these muskets to the State Arsenal except by the Ohio River, or by the Cumberland River to Clarksville Ten, thence by Rail Road, and fearing they would be Seized at Evansville or Clarksville, I deem it most prudent not to ship them until I have further instructions from you,</p>
+<p>After Capt Lyon's Company disbanded Mr. R W Wake of this place raised a Company of eighty men (which can readily be increased to 100) to be mustered<pb/>
+<lb/>into the State Guards as Soon as an Assistant Inspector Should be appointed when application would be made to the Military Board for the arms now in my possession, Col. W. B. Machen informes me that he wrote you Some two weeks ^since^ Suggesting the Appointment of Mr. R. W. Wake Asst. Inspector but has received no reply, I would also recommend said appointment</p>
 <p>Yours Respectfully
 <lb/>F. H. Skinner
 <lb/>Presiding Judge Lyon County Court<pb/></p>
-<p><date when="1861"><hi rend="underline">1861</hi></date> - Lyon County
-<lb/>F. H. Skinner
+<p>F. H. Skinner
 <lb/>Lyon County
 <lb/>Recd from <unclear/> <date when="1861-08-21">21. Aug 1861.</date></p>
-<p>Arms Refer to Bond.</p>
+<p>Arms -- Refer to Board.</p>
   </body>
  </text>
 </TEI>

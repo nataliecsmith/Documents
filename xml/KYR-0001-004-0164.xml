@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0164"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,20 +63,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>Granville Kentucky
+   <p>Greenville Kentucky
 <lb/><date when="1863-10-28">October 28<hi rend="sup">th</hi> 1863</date>
 <lb/>Gov Bramlet</p>
-<p>Dear Sir: At the request of his Hon Judge Thos Petrie (Judge 2 District) Hon Francis. M. Bristow, H. D. McHenry <hi rend="str">and</hi> E P Campbell Comth Atty and many others I am induced to request of <hi rend="str">hi</hi> your Excelency to pardon or strike from the docket his Indictments under 10 section R Statutes till gaming house or rather for permiting gaming on premises. The facts are these as will be observed from accompanying statements of the witnesses for the Commonwealth. The first Indictment is against Charles Eans and myself for permitting gaming in our Law Office</p>
-<p>In this case I employed a carpenter to put a Lock on the Office and <unclear>remove</unclear> an old one and gave him the key telling him to take charge of the office and to either lock it up or remain untill I returned I then left going to a meeting of Odd Fellows when the Lodge adjourned I went to the office<pb/>
-<lb/>some four young men playing a game termed Freeze out Poker for 2 boxes of Oysters the game was about concluded two of the parties being out of the game I protested with the Carpenter and did not stop the game which was soon after concluded for this and this alone we were indicted for keeping a gaming house. Case No 2 is against me alone The Circumstances are these Lt Col E R Weis Jr was at that time recruiting a company for 11th Ky Infantry Col P. B. Hawkins Capt Pendleton of Ohio County was recruiting a company for a Rebel regiment the day before Capt Weis company started for camp two of his company and two of Pendletons with another young man came into my office and sat down at the table and commenced playing it was some time before I knew they were playing for anything when I found out they were gaming for Oysters whiskey and Segars I stated to them I was under indictment for <hi rend="str">the</hi> ^an^ offence of that character and hoped they would not continue to play they remonstrated that they had<pb/>
-<lb/>been raised in the county of Muhlenberg and town of Greenville and were old and intenate friends that they never expected to see such other again unless it was on the battle field They continued to play untill there was a sufficient sum which was then all laid out in the articles before mentioned and eat and drank at my office when they shook and parted as friends In adition to what is stated above they also said that the courts would be suspended by the war and it is probable that this last argument together with all of them being warm and intimate friends of mine may have influenced me These cases have been continued from term to term by the Commonwealth It was not my object nor do I think the spirit of the law, has ever been violated; but it is probable that a rigid construction would find me guilty and I would be compelled to pay fines that would entirely ruin me The enclosed statements of the case I have prepared and sent to the witness at the foot of of each indiciment<pb/>
+<p>Dear Sir: At the request of his Hon Judge Tho<hi rend="sup">s</hi> Petree (Judge 2 District) Hon Francis, M. Bristow, H. D. McHenry <hi rend="str">and</hi> E P Campbell Comth Atty and Many others I am induced to request of <hi rend="str">hi</hi> your Excelency to pardon or strike from the docket two Indictments under 10 section R Statutes till gaming house or rather for permiting gaming on premises. The facts are these as will be observed from accompanying statements of the witnesses for the Commonwealths. The first Indictment is against Charles Eans and myself for permitting gaming in our Law Office</p>
+<p>In this case I employed a carpenter to put a Lock on the Office and remove an old one and gave him the key telling him to take charge of the office and to either lock it up or remain untill I returned I then left going to a meeting of Odd Fellows when the Lodge adjourned I went to the office<pb/>
+<lb/>some four young men playing a game termed "Freeze out Poker" for 2 boxes of Oysters the game was about concluded two of the parties being out of the game I protested with the Carpenter but did not stop the game which was soon after concluded for this and this alone we were indicted for keeping a gaming house-- Case No 2 is against me alone The circumstances are these Lt Col E R Weis Jr was at that time recruiting a company for 11<hi rend="sup">th</hi> Ky Infantry Col P. B. Hawkins Capt Pendleton of Ohio county was recruiting a company for a Rebel regiment the day before Capt Weis company started for camp two of his company and two of Pendletons with another young man came into my office and sat down at the table and commenced playing it was some time before I knew they were playing for anything when I found out they were gaming for Oysters whiskey and Sigars I stated to them I was under indictment for <hi rend="str">the</hi>an offence of that character and hoped they would not continue to play they remonstrated that they had<pb/>
+<lb/>been raised in the county of Muhlenberg and town of Greenville and were old and intimate friends that they never expected to see such other again unless it was on the battle field They continued to play untill there was a sufficient sum which was then all laid out in the articles before mentioned and eat and drank at my office when they shook and parted as friends In adition to what is stated above they also said that the courts would be suspended by the war and it is probable that this last argument together with all of them being warm and intimate friends of mine may have influenced me These cases have been continued from term to term by the Commonwealth It was not my object nor do I think the spirit of the law, has ever been violated; but it is probable that a rigid construction would find me guilty and I would be compelled to pay fines that would <unclear/> ruin me The enclosed statements of the case I have prepared and sent to the witness at the foot of of each indictment<pb/>
 <lb/>which have been signed by them as the facts in the cause</p>
 <p>Residing in the county at this time prevents me from sending date of Indictments which I presume is not necessary.</p>
-<p>Our court convenes the 2<hi rend="sup">d</hi> Monday in <date when="--11">Nov</date> next</p>
-<p>I will state in adition that I never played <hi rend="underline">in person</hi> any game of chance where anything was won or lost. For character truth veracity &amp;c I would refer you to Hon John M Harlan Frankfort Ky</p>
-<p>If consistent with your duty as Executive of the State of Ky you can Pardon me for these two offences I will promise that no Executive should ever again be troubled by me</p>
+<p>Our court convenes the 2<hi rend="sup">d</hi> Monday in <date when="--11">Novr</date> next</p>
+<p>I will state in adition that I never played <hi rend="underline">in person</hi> any game of Chance when anything was won or lost. For character truth veracity &amp;c, I would refer you to Hon John M Harlan Frankfort Ky</p>
+<p>If consistent with your duty as Executive of the State of Ky you can Pardon me for these two offences I will promise that no Executive shall ever again be troubled by me</p>
 <p>Respectfully
-<lb/>M. D. Hay</p>
+<lb/><hi rend="underline">M. D. Hay</hi></p>
   </body>
  </text>
 </TEI>

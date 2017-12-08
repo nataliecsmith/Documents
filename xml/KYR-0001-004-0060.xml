@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0060"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Commonwealth of Kentucky v. William P. Brownback and A. E. Stone, Judgment</title>
+    <title level="a" type="main">Commonwealth of Kentucky v. Thomas Renfro, William P. Brownback, and A. E. Stone, Judgment</title>
     <title level="a" type="parallel">CWG4179</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,19 +65,19 @@
   <body>
    <p>State of Kentucky
 <lb/>Grant Circuit Court
-<lb/>May Term -- <date when="1863-06-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> June 1863</date>
-<lb/>The Commonwealth of Ky. Plaintiff. Prosecution for felony
-<lb/>Against
-<lb/>Tho<hi rend="sup">s</hi>. Renfro. W<hi rend="sup">m</hi> P. Brumback and A. E. Stone Defendants</p>
-<p>Upon the calling of this cause at the present term the Defendants Thomas Renfro, W<hi rend="sup">m</hi> P. Brumback &amp; A. E. Stone, were each called by the Sheriff, and said Thomas Renfro failed to appear but made default.</p>
+<lb/>May Term-<date when="1863-06-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> June 1863</date></p>
+<p>The Commonwealth of Ky. Plaintiff.
+<lb/>Against &#125; Prosecution for felony
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Renfro. W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Brumback and A. E. Stone Defendants</p>
+<p>Upon the calling of this cause at the present term the Defendants Thomas Renfro, W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Brumback &amp; A. E. Stone, were each called by the Sheriff, and said Thomas Renfro failed to appear but made default.</p>
 <p>The Commonwealth thereupon called a witness who being sworn proved that when this prosecution was called at the last term of this court, the court ordered the Sheriff to call said Renfro, and that said Renfro was then called and failed to appear -- </p>
-<p>And it further appearing that the Recognizance in this case bearing date <date when="1862-06-09">June 9<hi rend="sup">th</hi> 1862</date> for $500 -- was forfeited by an order of <hi rend="str">said</hi> court at its last term and that a summons was issued against defendant Brumback &amp; Stone to appear at this term of the court and show cause if any they had, why judgement should not be rendered against them for the amount of said forfeited recognizance, which summons was duly served on said defendants a sufficient time before the commencement of this court and said Defts. bring before the court by service &amp; by counsel an failing to show any sufficient reason against the rendition of Judgment on said recognizance. it is now adjudged and ordered that the Commonwealth recover of the said Defendants, Thomas Renfro, W<hi rend="sup">m</hi> P. Brumback &amp; A. E. Stone the sum of Five hundred Dollars, with the costs of this motion on the forfeited recognizance for which the Commonwealth may have execution.</p>
+<p>And it further appearing that the Recognizance in this case bearing date <date when="1862-06-09">June 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date> for &#36;500 -- was forfeited by an order of <hi rend="str">said</hi> court at it's last term and that a summons was issued against defendant Brumback &amp; Stone to appear at this term of this court and show cause if any they had, why judgement should not be rendered against them for the amount of said forfeited recognizance, which summons was duly served on said defendants a sufficient time before the Commencement of this court and said Defts. being before the court by service &amp; by counsel an failing to show any sufficient reason against the rendition of Judgment on said recognizance. it is now adjudged and ordered that the Commonwealth recover of the said Defendants, Thomas Renfro, W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Brumback &amp; A. E. Stone the sum of Five hundred Dollars, with the costs of this motion on the forfeited recognizance, for which the Commonwealth may have execution.</p>
 <p>A copy attest
-<lb/>N. H. Jeffers C.G.C.C.<pb/></p>
+<lb/>N. H. Jeffers C. G. C. C.<pb/></p>
 <p>The Commonwealth
-<lb/>vs
+<lb/>vs &#125; copy of Judgt.
 <lb/>Renfro, Brumback &amp; Stone
-<lb/>copy of Judgt.</p>
+<lb/></p>
   </body>
  </text>
 </TEI>

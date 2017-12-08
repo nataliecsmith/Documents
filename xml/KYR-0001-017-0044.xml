@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0044"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -69,37 +64,38 @@
  <text>
   <body>
    <p><date when="1861-01-07">7 Jan 1861</date>
-<lb/><placeName ref="cwgk:P00002038">Oakland Station Ky
-</placeName><lb/>To his Excelency
-<lb/><persName ref="cwgk:N00000258">B McGoffin</persName>.<lb/>Dr Sir</p>
-<p>I Take pleasure in Recommending my Friend W<hi rend="sup">m</hi> P Hays Esq as a Suitable person to act as Notory Public. in <placeName ref="cwgk:P001020">warren county</placeName></p>
-<p>If you Should make any additional appointment. I hope you will give the office to him. as I beleve he wall attend promptly to the duties &amp;c</p>
-<p>I am very Resptly
-<lb/>yur Fnd <persName ref="cwgk:N00002039">JD Mannen</persName></p>
-<p>Referer to
-<lb/><persName ref="cwgk:N00002040">Tom J Smith
-</persName><lb/>&amp; Jo<hi rend="sup">sh</hi> Greatham</p>
-<p><persName ref="cwgk:N00002042">Major N. S. Strange
-</persName><lb/><persName ref="cwgk:N00002043">Col D. J. Pulliam
-</persName><lb/>Major <persName ref="cwgk:N00002045">J T Carpenter</persName><pb/></p>
+<lb/>Oakland Station Ky
+<lb/>To his Excelency
+<lb/>B McGoffin.
+<lb/>Dr sir</p>
+<p>I Take pleasure in Recommending my Friend W<hi rend="sup">m</hi> P Hays Esq as a Suitable person to act as Notory Public, in warren county</p>
+<p>If you Should make any additional appointment, I hope you will give the office to him. as I beleve he well attend promptly to the duties, &amp;</p>
+<p>I am verry Respty
+<lb/>Yur Frd <hi rend="underline">J D Mannen</hi></p>
+<p>Refere to
+<lb/>Tom J Smith
+<lb/>&amp; Jo<hi rend="sup">sh</hi>, Greathaus
+<lb/>Major N. S. Strange
+<lb/>Col D. J. Pulliam
+<lb/>Major J T Carpenter<pb/></p>
 <p><table rend="rules">
 <row>
 	<cell><date when="--04">April</date></cell>
-	<cell>To Mdze as pr <unclear/></cell>
+	<cell>To mdze as pr &#36;<unclear/></cell>
 	<cell>211</cell>
-	<cell><unclear/></cell>
+	<cell>1</cell>
 </row>
 <row>
 	<cell><date when="--03">March</date></cell>
-	<cell>To Mdz as pr Joe</cell>
+	<cell>To mdz as <hi rend="str">J</hi>Joe</cell>
 	<cell>207</cell>
-	<cell><unclear/></cell>
+	<cell>1</cell>
 </row>
 <row>
 	<cell><date when="--04">April</date></cell>
-	<cell>To Mrdz pr Joe</cell>
+	<cell>To Medz pr. Joe</cell>
 	<cell>211</cell>
-	<cell><unclear/></cell>
+	<cell>1</cell>
 </row>
 <row>
 	<cell><date when="--07">July</date></cell>
@@ -108,10 +104,9 @@
 	<cell/>
 </row>
 </table></p>
-<p>Issue Commission
-<lb/>B. M</p>
-<p>Beriah
-<lb/>Magoffin</p>
+<p>Issue commission
+<lb/>B. M.</p>
+<p>Beriah Magoffin</p>
   </body>
  </text>
 </TEI>

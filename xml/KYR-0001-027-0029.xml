@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0029"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -67,15 +70,15 @@
 <lb/>Dear Sir</p>
 <p>I see by the papers, that our Legislature has passed a Law, calling out the State Militia for three months for the purpose of guarding railroads and bridges in Ky</p>
 <p>If you will authorize me to do so, I can raise a <hi rend="underline">company</hi> of volunteers for that purpose, and probably three or four. Does the State, propose to clothe these men?</p>
-<p>Please let me know immediately if I can raise the men, for time is precious, As to my capacity, I beg leave to refer you to Adjt Genl J W Finnell, Brig Gen<hi rend="sup">l</hi> Green Clay Smith, or the Hon J F Fisk, all of whom know me well<pb/>
+<p>Please let me know immediately if I can raise the men, for time is precious, As to my capacity, I beg leave to refer you to Adjt Genl J W Finnell, Brig Genl Green Clay Smith, or the Hon J F Fisk, all of whom know me well<pb/>
 <lb/>I have had some experience, having been four months in the Army in Central and Eastern Virginia</p>
 <p>Hoping for a favorable answer
 <lb/>I am respectfully
 <lb/>Your most obedient servt
 <lb/>William W. Mosher<pb/></p>
 <p>Wm. W. Mosher
-<lb/>Covington
-<lb/>Proposing to raise 3 mo men to guard R Road</p>
+<lb/>Covington</p>
+<p>Proposing to raise 3 mo men to guard R Road</p>
   </body>
  </text>
 </TEI>

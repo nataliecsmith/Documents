@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0090"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,10 +65,11 @@
   <body>
    <p>E Town <date when="1861-03-23">March. 23. 1861</date>.
 <lb/>G. W. Johnson Esq.</p>
-<p>Dr Sir on my return home to day receive your letter. I hope in a few days to be able to pay. a part. of. <unclear>T. O. C.</unclear> note every effort on my part has been used to pay the note.</p>
-<p>I hope we will be able to pay all very shortley. I have had notes due- <date when="1861-01">Jany. 1.</date> amting to Forty Thousand Dollars. all went to <unclear>protest</unclear> for any lien pd.,, every dollar. you should have had.</p>
-<p>Your Friend Truly,
-<lb/>S. B. Thomas<pb/></p>
+<p>Dr Sir on my return home to day rece'd your letter, I hope in a few days to be able to pay a part of <unclear>T. &amp;. C.</unclear> note every efert on my part has been used to pay the note.</p>
+<p>I hope we will be able to pay all very shortley. I have had notes due. <date when="1861-01">Jany. 1.</date> amting to Forty Thousand dollars. all went to protest for any lien pd.,, every dollar you should have had.</p>
+<p>Your Friend
+<lb/>Truly-
+<lb/>S. B, Thomas<pb/></p>
 <p>S. B. Thomas
 <lb/><date when="1861-03-23">March 23 1861.</date></p>
   </body>

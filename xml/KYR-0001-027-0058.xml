@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0058"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,17 +64,17 @@
  <text>
   <body>
    <p>WESTERN UNION TELEGRAPH COMPANY.<figure type="hr"/>
-<lb/>NO.1.] TERMS AND CONDITIONS ON WHICH MESSAGES ARE RECEIVED BY THIS COMPANY FOR TRANSMISSION.</p>
-<p>The public are notified that, in order to guard against mistakes in the transmission of messages, every message of importance ought to be repeated, by being sent back from the station at which it is to be received, to the station from which it is originally sent. Half the usual price for transmission will be charged for repeating the message; and while this Company will, as heretofore, use every precaution to ensure correctness, it will not be responsible for mistakes or delays in the transmission or delivery of repeated messages, beyond an amount exceeding five hundred times the amount paid for sending the message; nor will it be responsible for mistakes or delays in the trans-mission of unrepeated messages from whatever cause they may arise, nor for delays arising from interruption in the working of its Telegraphs, nor for any mistake or omis-sion of any other Company, over whose lines a message is to be sent to reach the place of destination. All messages will hereafter be received by this Company for transmission, subject to the above conditions.</p>
+<lb/>NO. 1.] TERMS AND CONDITIONS ON WHICH MESSAGES ARE RECEIVED BY THIS COMPANY FOR TRANSMISSION.</p>
+<p>The public are notified that, in order to guard against mistakes in the transmission of messages, every message of importance ought to be repeated, by being sent back from the station at which it is to be received, to the station from which it is originally sent. Half the usual price for transmission will be charged for repeating the message; and while this Company will, as heretofore, use every precaution to ensure correctness, it will not be responsible for mistakes or delays in the transmission or delivery of repeated messages, beyond an amount exceeding five hundred times the amount paid for sending the message; nor will it be responsible for mistakes or delays in the transmission of unrepeated messages from whatever cause they may arise, nor for delays arising from interruptions in the working of its Telegraphs, nor for any mistake or omission of any other Company, over whose lines a message is to be sent to reach the place of destination. All messages will hereafter be received by this Company for transmission, subject to the above conditions.</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>A. STAGER, Gen. Sup't, Cleveland, Ohio.
 <lb/><cb n="2"/>I. R. ELWOOD, Sec'y, Rochester, N. Y.<milestone unit="column" n="1"/><figure type="hr"/></p>
 <p><date when="1862-10-10">Oct 10 1862</date>
-<lb/>To Gov J. F. Robinson 
+<lb/>To Gov J, F, Robinson 
 <lb/>By Telegraph from Headquarters Cin <date when="1862">1862</date></p>
-<p>Orders have ^been^ given to suspend collection of assesment in newport &amp; covington according to your recommendation</p>
+<p>Orders have ^bean^ given, to suspend collection of assesment in newport &amp; covington according to your recommendation</p>
 <p>H, G, Wright,
-<lb/>Maj Gen</p>
-<p>17<unclear>H</unclear>271 Paid</p>
+<lb/>maj Gen</p>
+<p>17 <unclear>H</unclear> 271 Paid</p>
   </body>
  </text>
 </TEI>

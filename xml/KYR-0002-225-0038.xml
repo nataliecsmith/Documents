@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0038"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,9 +64,9 @@
  <text>
   <body>
    <p>Princeton Ky
-<lb/>Gov. Thos E,, Bramlett
+<lb/>Gov. Thos E. Bramlett.
 <lb/>Sir.</p>
-<p>By the time this reaches you you will have seen accounts in the papers of the plundering this part of the country by bands of Guerrillas, this should not be. &amp; if you will commission me to raise 60 men &amp; you agree to mount them &amp; supply me with the Henry rifle &amp; other necessaries I pledge you that I will keep them out of Lyon Caldwell Hopkins Crittenden &amp; Trigg Counties. I select the Henry rifle because with that it would require fewer men &amp; consequently less expensive, if you think my offer worth attention let me hear from you.</p>
+<p>By the time this reaches you you will have seen accounts in the papers of the plundering this part of the country by bands of Guerrillas, this should not be. &amp; if you will commission me to raise 60 men &amp; you agree to mount them &amp; supply me with the Henry rifle &amp; other necessaries I pledge you that I will keep them out of Lyon Caldwell Hopkins. Crittenden &amp; Trigg Counties. I select the Henry rifle because with that it would require fewer men &amp; consequently less expensive, if you think my offer worth attention let me hear from you.</p>
 <p>Believe obediently
 <lb/>R. L. Wilson</p>
 <p><date when="1864-05-05">May 5" 1864</date><pb/></p>
@@ -71,7 +74,7 @@
 <lb/><date when="1864-05-05">May 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
 <lb/>Wilson R. L<figure type="hr"/></p>
 <p>To the Governor asking authority to recruit a company of 60 men to be mounted and armed with the Henry rifle. Says he could protect the counties Lyon, Caldwell Crittenden Hopkins and Trigg from guerrilla raids<figure type="hr"/></p>
-<p>L B N<hi rend="sup">o</hi>3 -- <date when="1864">1864</date> P. 293<figure type="hr"/>
+<p>L B N<hi rend="sup">o </hi>3 -- <date when="1864">1864</date> P. 293<figure type="hr"/>
 <lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-05-09">9<hi rend="underline"><hi rend="sup">th</hi></hi> May 1864</date></p>
   </body>
  </text>

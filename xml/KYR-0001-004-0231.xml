@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0231"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,13 +63,13 @@
  <text>
   <body>
    <p>To His Excellency Thomas E Bramlette Gov. of Ky.</p>
-<p>Your petitioner Andrew Straus would respectfully represent that on the <date when="1855-09-29">29<hi rend="sup">th</hi> day of September 1855</date> he became the Bail of one Charles Wicke by entering into a reconizance in the city court of Louisville in the Sum of eight hundred dollars, for the personal appearance of Said Wicke to answer a charge of Felony at the Suceeding term of the Jefferson Circuit. At that time Said Wicke failed to appear, and the bond was forfeited and a Scirefacias issued. The facts appear in a copy of the Judgemt of forfeiture which is filed here as a part of this petition.</p>
-<p>The case was continued for a few terms and there droped informally from the docket and the matter rested until the date of the last Scirefacias, or about then, when a Scirefacias was issued against him as seen by a copy which accompanies this petition.</p>
-<p>Your petitioner says that the Scirefacias was issued at the ^Special^ instance of one E Ferrhenback and his attorney for the purpose of gratifying the Spite and malice of Said Ferrhenback That is, Ferrhenback gave the information to this atty &amp; the atty gave it to the present States atty.<pb/></p>
-<p>And the cause of Ferrhenback's malice was this. About the year <date when="1855">1855</date> Said Ferrhenback Sold a house and lot belonging to your petitioner ^acting^ as his atty and agent. He received the money for it and retrieve Some $800. which he never would pay over to your Petion. He kept it some 8 years when Petr Sued him and recovered that Sum <hi rend="str">against</hi> ^of^ him by Judgmt in the Jefferson Circuit Court. before that Judgmt execution issued and was levied on his (Ferrhenback's) house and lot, and on the 5 Inst. it was Sold. at Something over two thirds of its appraised value, but not its full value. So it is, he has no right to redeem it. And hence the recovery of the Judgmt, and the Sale of the house &amp; lot So incensed Ferrhenback that he determined to take revenge by instituting this prosecution against your Petitioner.</p>
-<p>Your Petitioner Says he is a poor man with a family to Support; that he has very little property on effects besides this Judgement; that he is a hard working mechanic a Shoemaker, and makes his living "by the Sweat of his brow." He says that if compelled to pay this large sum now, it will ruin him pecuniarily. that he is getting to be an old man, and is a cripple, having once had his thigh broken.<pb/></p>
-<p>He states that Wicke went off without any fault or connivance of his, and contrary to his will and expectation. He cannot possibly procure Wicke to bring him to trial. And he would Suggest that no common good to the public can accrue from the recovery of this large sum of money; and that it would but result in the ruin of him, and his family, oppress and ruin them beyond all hope of recovery and gratify the malice and Spite of his bitter personal enemy Ferrhenback.</p>
-<p>In view of all these facts he most earnestly prays that your Excellency will interpose your remitting power, and remit the entire amount of ^the^ forfeited recognizance.</p>
+<p>Your petitioner Andrew Straus would respectfully represent that on the <date when="1855-09-29">29<hi rend="sup">th</hi> day of September. 1855</date> he became the Bail of one Charles Wicke by entering into a reconizance in the City Court of Louisville in the Sum of eight hundred dollars, for the personal appearance of Said Wicke to answer a charge of Felony at the Succeeding term of the Jefferson Circuit. At that time Said Wicke failed to appear, and the bond was forfeited and a Scirefacias issued. The facts appear in a copy of the Judgemt of forfeiture which is filed here as a part of this petition.</p>
+<p>The case was continued for a few terms and then droped informally from the docket and the matter rested until the date of the last Scirefacias, or about then, when a Scirefacias was issued against him as Seen by a copy which accompanies this petition.</p>
+<p>Your petitioner Says that the Scirefacias was issued at the ^Special^ instance of one E Ferrhenback and his attorney for the purpose of gratifying the Spite and malice of Said Ferrhenback That is, Ferrhenback gave the information to his atty &amp; the atty gave it to the present States atty.<pb/>
+<lb/>And the cause of Ferrhenback's malice was this. About the year <date when="1855">1855</date>. Said Ferrhenback Sold a house and lot belonging to your petitioner ^acting^ as his atty and agent. He received the money for it and retain Some &#36;800. which he never would pay over to your Petern. He kept it some 8 years when Petn Sued him and recovered that Sum <hi rend="str">against</hi> of him by Judgmt in the Jefferson Circuit Court. before that Judgmt execution issued and was levied on his (Ferrhenback's) house and lot, and on the 5 Inst. it was Sold. at something over two thirds of its appraised value, but not its full value. So it is, he has no right to redeem it. And hence the recovery of the Judgmt, and the Sale of the house &amp; lot so incensed Ferrhenback that he determined to take revenge by instituting this prosecution against your Petitioner.</p>
+<p>Your Petitioner Says he is a poor man with a family to Support; that he has very little property or effects besides this Judgement; that he is a hard working mechanic a Shoe-maker, and makes his living "by the Sweat of his brow". He says that if compelled to pay this large sum now, it will ruin him pecuniarily- that he is getting to be an old man, and is a cripple- having once had his thigh broken.<pb/></p>
+<p>He states that Wicke went off without any fault or connivance of his, and contrary to his will and expectation. He cannot possibly procure Wicke to bring him to trial. And he would Suggest that no common good to the public can accrue from the recovery of this large sum of money; and that it would but result in the ruin of him, and his family -- oppress and ruin them beyond all hope of recovery and gratify the malice and Spite of his bitter personal enemy Ferrhenback.</p>
+<p>In view of all these facts he most earnestly prays that your Excellency will interpose your remitting power, and remit the entire amount of the forfeited recognizance.</p>
 <p>Respectfully
 <lb/>Andrew Straus<pb/></p>
 <p>Andrew Straus

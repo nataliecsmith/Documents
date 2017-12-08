@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1402"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">N. S. Long et al. to Beriah Magoffin</title>
+    <title level="a" type="main">N. S. Long to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG10870</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,36 +63,39 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville, <hi rend="str">August</hi> <date when="1861-09-11">Sept. <hi rend="str">28</hi> 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1861.</date>
+   <p>Louisville, <hi rend="str">August</hi> <date when="1861-09-11">Sept. <hi rend="str">28</hi>11<hi rend="underline"><hi rend="sup">th</hi></hi> 1861.</date>
 <lb/>To his Excellency, 
 <lb/>Governor Beriah Magoffin.
 <lb/>Frankfort. Ky.</p>
-<p>The undersigned petitioner most repectfully States, that at the <date when="1861-04">April Term, 1861</date> of the City court of Louisville, a fine of <hi rend="underline">Sixty dollars</hi>. was imposed upon him, by said court, for an alleged assult upon <hi rend="underline">John Creagh</hi>. of this city. </p>
-<p>Your petitioner, states most solemnly that the <hi rend="underline">true facts</hi>, of the case are these. He says, that he owed Creagh. a Small amount of money. for some small articles purchased of him, by his Long<hi rend="underline"><hi rend="sup">s</hi></hi> Wife, and that he gave the money to his Wife, to pay John Creagh, and supposed Creagh, had been paid months, before the difficulty mentioned in the indictment,</p>
-<p>That when the difficulty occured petitioner, was standing near the Post office, in Louisville, &amp; was accosted by Crea<hi rend="str">h.</hi>gh, and asked for the money. He told Creagh, that he had given the amount to petitioners Wife, to pay him, and thought it had been done, But as Creagh, said he had not been paid, by M<hi rend="underline"><hi rend="sup">rs</hi></hi> Long. If he Creagh, would call down at the office of N. S. Long. &amp; Bro. he would be paid, immediately. Creagh, then began to abuse petitioner, and called him a <hi rend="underline">Villian</hi>, a <hi rend="underline">Scoundrel</hi>, &amp;c.</p>
-<p><hi rend="underline">over</hi>.<pb/></p>
-<p>And Swore that he Creagh, would publish him wherever he went in the city, as such, &amp;c. Your petitioner said to Creagh, that he wanted no difficulty with him. but no man living, should apply such epithets to him. and that <hi rend="underline">too, without</hi> cause or proof to sustain them, Creagh, then <hi rend="underline">advanced</hi> towards petitioner, with his case <hi rend="underline">uplifted</hi>, and your petitioner wrested the Cane from him, and Struck Creagh <hi rend="underline">Twice with his fist</hi>, </p>
-<p>John Creagh, was the <hi rend="underline">only witness</hi> in the case. <hi rend="underline">no other person</hi> being present, until after it occured. Your petitioner is a <hi rend="underline">Law abiding man</hi>, and does not believe now, that he done <hi rend="underline">more or less</hi>. than he ought to have done, under the circumstances. after he had been called a Villian, and a Soundrel. by Creagh,</p>
-<p>In view of the facts, in this case all of which I have mentioned truthfully. Your petitioner asks very respectfully. of your Excellency, to <hi rend="underline">remit said fine</hi></p>
-<p><hi rend="underline">N. S. Long</hi>.</p>
-<p>Remitted B. M. 
-<lb/><hi rend="str">Clark Cir Ct
-<lb/>$20 2 Judgt } Bail Bond
+<p>The undersigned petitioner most repectfully States, that at the <date when="1861-04">April Term, 1861</date> of the City court of Louisville, a fine of <hi rend="underline">Sixty dollars,</hi> was imposed upon him, by said court, for an alleged assult upon <hi rend="underline">John Creagh</hi>, of this city.</p>
+<p>Your petitioner, states most solemnly that the <hi rend="underline">true facts</hi>, of the case are these, He says, that he owed Creagh. a Small amount of money. for some small articles purchased of him, by his Long<hi rend="underline"><hi rend="sup">s</hi></hi> Wife, and that he gave the money to his Wife, to pay John Creagh, and supposed Creagh had been paid months before the difficulty mentioned in the indictment.</p>
+<p>That when the difficulty occured petitioner, was standing near the Post office in Louisville, &amp; was accosted by Crea<hi rend="str">h</hi>gh,, and asked for the money. He told Creagh, that he had given the amount to petitioners Wife, to pay him, and thought it had been done, But as Creagh, said he had not been paid, by M<hi rend="underline"><hi rend="sup">rs</hi></hi> Long. If he Creagh, would call down at the office of N. S. Long. &amp; Bro. he would be paid, immediately. Creagh, then began to abuse petitioner, and called him a <hi rend="underline">Villian</hi>, a <hi rend="underline">Scoundrel</hi>. &amp;c.
+<lb/><hi rend="underline">over</hi>.<pb/></p>
+<p>And Swore that he Creagh, would publish him wherever he went in the city, as Such. &amp;c. Your petitioner said to Creagh, that he wanted no difficulty with him, but no man living, should apply such epithets to him. and that <hi rend="underline">too, with out</hi> cause or proof to sustain them, Creagh, then <hi rend="underline">advanced</hi> towards petitioner, with his cane <hi rend="underline">uplifted</hi>, and your petitioner wrested the Cane from him, and Struck Creagh <hi rend="underline">Twice with his fist</hi>. </p>
+<p>John Creagh, was the <hi rend="underline">only witness</hi> in the case, <hi rend="underline">no other person</hi> being present, until after it occured. Your petitioner is a <hi rend="underline">Law abiding man,</hi> and does not believe now, that he done <hi rend="underline">more or less</hi>, than he ought to have done, under the circumstances. after he had been called a Villian, and Soundrel. by Creagh,</p>
+<p>In view of the facts, in this case all of which I have mentioned truthfully, Your petitioner asks very respectfully of your Excellency, to <hi rend="underline">remit said fine</hi></p>
+<p><hi rend="underline">N. S. Long</hi>.
+<lb/><hi rend="str">Jeff Brown</hi></p>
+<p>Remitted
+<lb/>B. M. </p>
+<p><hi rend="str">Clark Cir Ct
+<lb/>&#36;20 2 Judgt &#125; Bail Bond
 <lb/>J. H. Ogden
-<lb/>Is. </hi><date when="1861-09-12"><hi rend="str">Sept 12</hi><hi rend="str"><hi rend="sup">th</hi></hi><hi rend="str"> /61</hi></date><pb/></p>
+<lb/>Is</hi><hi rend="str"><hi rend="sup">d</hi></hi><hi rend="str"> </hi><date when="1861-09-12"><hi rend="str">Sept 12 1861</hi></date><pb/></p>
 <p>We the undersigned Citizens, of Louisville, state that we are <hi rend="underline">well</hi> accquainted with N. S. Long. We know him to be a Law abiding man, a man of truth and veracity, And believe from all, we can learn of the facts of his case, that is it one that merits Executive clemency, and therefore unite with said Long, in asking your Excellency to remit said fine.</p>
 <p>Jeff Brown
 <lb/>F S J Ronald
 <lb/>Ben J Adams</p>
-<p>From my acquaintence with M<hi rend="sup">r</hi>. Long I can say that I have full confidence in any statement that He will make; He is a Law abiding Civil man &amp; Gentleman</p>
+<p>From my acquaintence with M<hi rend="underline"><hi rend="sup">r</hi></hi> Long I can say that I have full confidence in any statement that He will make; He is a Law abiding Civil man &amp; Gentleman</p>
 <p>Geo. W. Johnston.</p>
 <p>Louisville. <date when="1861-09-11">Sept 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1861.</date>
 <lb/>Gen Speed.</p>
-<p>Will you do my the favour, <hi rend="underline">immediately</hi> upon the receipt of this. ^<hi rend="underline">petition</hi>^ to present it, for the action of Gov. Magoffin, many other citizens, names could have been appended to my petition, persons known to you, and the Gov. also, but the names above of well known citizens is deemed enough. Yours very Respectfully</p>
-<p><hi rend="underline">N. S. Long</hi></p>
-<p>&amp;#9758; see other side. <pb/></p>
+<p>Will you do my the favour, <hi rend="underline">immediately</hi> upon the receipt of this, ^petition^ to present it, for the action of Gov Magoffin, many other citizens, names could have been appended to my petition, persons known to you, and the Gov. also, but the names above of well known citizens is deemed enough.</p>
+<p>Yours very Respectfully
+<lb/><hi rend="underline">N. S. Long</hi></p>
+<p>&amp;#9758; see other side.<pb/></p>
 <p>(Gov. Magoffin.)</p>
-<p>This fine was replevied and time is out the <date when="--09-15">15<hi rend="underline"><hi rend="sup">th</hi></hi> Sept.</date> inst. please let me hear from you by Saturday next.</p>
+<p>This fine was replevied and time is out the <date when="1861-09-15">15<hi rend="underline"><hi rend="sup">th</hi></hi> Sept. inst.</date> please let me hear from you by Saturday next.</p>
 <p><hi rend="underline">Long </hi></p>
   </body>
  </text>

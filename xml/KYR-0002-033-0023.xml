@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0023"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,24 +65,26 @@
   <body>
    <p>WAR DEPARTMENT,
 <lb/>ADJUTANT GENERAL'S OFFICE,
-<lb/><hi rend="italic">Washington, </hi><date when="1863-10-30"><hi rend="italic">October</hi> 30<hi rend="italic">th</hi>, 1863.</date>
+<lb/><hi rend="italic">Washington, </hi><date when="1863-10-30"><hi rend="italic">October</hi> 30<hi rend="italic">th</hi>, 1863</date>.
 <lb/>SPECIAL ORDERS,
 <lb/>No. 484.</p>
 <p>(<hi rend="italic">Extract</hi>.)<figure type="hr"/></p>
-<p>29. The leave of absence granted to Lieutenant A. J. Alexander, 1st Kentucky Cavalry, until further orders, by Colonel <hi rend="italic">Frank Wolford</hi>, 1st Kentucky Cavalry, dated Headquarters of the 1st Kentucky Cavalry, Elizabethtown, Kentucky, <date when="1863-10-01">October 1st, 1862,</date> is hereby confirmed, with limitation to the time he is entitled to be mustered into service as Lieutenant-Colonel of the 11th Kentucky Cavalry.<figure type="hr"/></p>
+<p>29. The leave of absence granted to Lieutenant <hi rend="italic">A. J. Alexander</hi>, 1st Kentucky Cavalry, until further orders, by Colonel <hi rend="italic">Frank Wolford</hi>, 1st Kentucky Cavalry, dated Headquarters of the 1st Kentucky Cavalry, Elizabethtown, Kentucky, <date when="1863-10-01">October 1st, 1862</date>, is hereby confirmed, with limitation to the time he is entitled to be mustered into service as Lieutenant-Colonel of the 11th Kentucky Cavalry.<figure type="hr"/></p>
 <p>By order of the Secretary of War:
 <lb/>E. D. TOWNSEND,
 <lb/><hi rend="italic">Assistant Adjutant General.</hi> </p>
 <p>OFFICIAL:
 <lb/>E D Townsend
 <lb/><hi rend="italic">Assistant Adjutant General.</hi> 
-<lb/><note place="left margin"><figure type="hr"/>1.<figure type="hr"/></note></p>
-<p>To the Governor of Kentucky<pb/></p>
-<p>1<hi rend="underline"><hi rend="sup">s</hi></hi> Cavy<figure type="hr"/>
+<lb/>1.</p>
+<p>To the
+<lb/>Governor
+<lb/>of Kentucky<pb/></p>
+<p>1<hi rend="underline"><hi rend="sup">st</hi></hi> Cav<hi rend="sup">y</hi><figure type="hr"/>
 <lb/>Lt. Alexander<figure type="hr"/>
-<lb/>Pro to Lt. Col. 11: Cavy <date when="1863-09-26">Sep<hi rend="sup">r</hi> 26. 1863.</date><figure type="hr"/>
+<lb/>pro to Lt. Col. 11'. Cav<hi rend="sup">y</hi>. <date when="1863-09-26">Sept<hi rend="sup">r</hi> 26. 1863</date>.<figure type="hr"/>
 <lb/>1.<figure type="hr"/></p>
-<p>File.</p>
+<p>File,</p>
   </body>
  </text>
 </TEI>

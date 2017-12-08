@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0135"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,12 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington Ky <date when="1861-08-29">August 29 1861</date>
+   <p>Lexington Ky <date when="1861-08-29">August 29" 1861</date>
 <lb/>His Excellency
 <lb/>Beriah Magoffin
 <lb/>Sir</p>
-<p>In conformity with your request, we proceeded to Washington to deliver to the President of the United States your communication concerning the encampment of troops in Kentucky. We had an interview with him on Thursday, the <date when="1861-08-21">22<hi rend="sup">d</hi></date> inst., &amp; delivered to him your communication, &amp; also your letter accrediting us to him as Commissioners authorized to represent the condition of things in Kentucky, &amp; the urgent reasons for the withdrawal of the troops. We made this representation as fully &amp; accurately as we could, &amp; urged the withdrawal of the troops by the reasons that occurred to us as likely to have an influence. The President heard us courteously; but said little in reply except to promise that the matter should have his anxious consideration. He said that he would let us<pb/>
-<lb/>know the next day what course he should determine to take in regard to your communication; and at the time fixed, he addressed us a note stating that he would be prepared to deliver an answer to it on the following Monday. On that day he delivered to us the letter, addressed to you, which we have now the honor of transmitting to your Excellency.</p>
+<p>In conformity with your request, we proceeded to Washington to deliver to the President of the United States your communication concerning the encampment of troops in Kentucky. We had an interview with him on Thursday, the <date when="1861-08-22">22<hi rend="sup">d</hi></date> inst:, &amp; delivered to him your communication, &amp; also your letter accrediting us to him as Commissioners authorised to represent the condition of things in Kentucky, &amp; the urgent reasons for the withdrawal of the troops. We made this representation as fully &amp; accurately as we could, &amp; urged the withdrawal of the troops by the reasons that occurred to us as likely to have an influence. The President heard us courteously; but said little in reply except to promise that the matter should have his anxious consideration. He said that he would let us<pb/>
+<lb/>know the next day what course he should determine to take in regard to your communication; and at the time fixed, he addressed us a note stating that he would be prepared to deliver an answer to it on the following Monday. On that day he delivered to us the Letter, addressed to you, which we have now the honor of transmitting to your Excellency.</p>
 <p>We are, Sir,
 <lb/>Very Respectfully
 <lb/>Your Obedient Servants
@@ -74,11 +77,11 @@
 <p>T. B. Monroe Esq
 <lb/>D<hi rend="sup">r</hi> Sir</p>
 <p>Foregoing you have copy of our report to the Governor. Your note requesting it was not iss<hi rend="sup">d</hi> in time for the mail this afternoon.</p>
-<p>Yours truly
-<lb/>J K Hunt</p>
+<p>Yours Truly
+<lb/>F K Hunt
+<lb/><date when="1861-09-03">Sept 3/61</date></p>
 <p>T. B Monroe Jr Esq
-<lb/>Frfrt
-<lb/><date when="1861-09-03">Sept 3/61</date><pb/></p>
+<lb/>Fkft<pb/></p>
 <p>F. K. Hunt &amp; W. A. Dudley
 <lb/>Filed <date when="1861-09-03">Sept 3. 1861</date></p>
   </body>

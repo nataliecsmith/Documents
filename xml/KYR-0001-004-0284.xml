@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0284"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,22 +63,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excelency the Governor of the Commonwealth of Kentucky</p>
-<p>Your Petitioner John L. Scroggin States that he was taken up and tried before George Hust a Justice of the peace for Franklin county on the <date when="1863-11-07">7<hi rend="sup">th</hi> day of November 1863</date>, for a Breach of the peace and fined twenty two dollars $22. the facts in the case are as follows one Alexander Crockett had been very intimate with his family &amp; the said Crockett being a very poor man and had no home and your Petitioner believed the said Crockett had persuaded his Son away about 2 1/2 years ago &amp; then on thursday before the said Breach Defts oldest daughter had left and he had been informed that the said Crockett had persuaded his Daughter away, and he being worthless in law this Petitioner did take a lim and give the Said Crockett 4. or 5. stripes which he thought was wright and which he thinks any father would have done under the circumstances your Petitioners wife being dead &amp; he left with 6 Small children and the said Crockett having persuaded his Eldest Daughter away the one that had the care of <unclear/> the Smaller children wherefore he prays that your Excelency would interpose the Executive clemency<pb/></p>
-<p>in behalf of this Petitioner and remit Said fine &amp; for all proper relief</p>
-<p>John L. Scroggin</p>
-<p>John L. Scroggin Says the statements in the foregoing Petition are true</p>
-<p>Sworn to before me by John L. Scroggin this <date when="1863-11-25">25<hi rend="sup">th</hi> day of November 1863</date>.</p>
+   <p>To his Excelency the Govenor of the Commonwealth of Kentucky</p>
+<p>Your Petitioner John. L. Scroggin States that he was taken up and tried before George Hurt a Justice of the peace for Franklin county on the <date when="1863-11-07">7<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1863</date>, for a Breach of the peace and fined twenty two dollars &#36;22. the facts in the case are as follows one Alexander Crockett had been very intimate with his family &amp; the said Crockett being a very poor man and had no home and your Petitioner believed the Said Crockett had persuaded his Son away about 2 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> years ago &amp; then on thursday before the said Breach Defts oldest daughter had left and he had been informed that the said Crockett had persuaded his Daughter away, and he being worthless in law this Petitioner did take a lim and give the Said Crockett 4. or. 5. stripes which he thought was wright and which he thinks any father would have done under the circumstances your Petitioners wife being dead &amp; he left with 6 Small children and the Said Crockett having persuaded his Eldest Daughter away the one that had the care of the Smaller children wherefore he prays that your Excelency would interpose the Executive Clemency<pb/>
+<lb/>in behalf of this Petitioner and remit Said fine &amp; for all proper relief</p>
+<p>John. L. Scroggin</p>
+<p>John. L. Scroggin Says the statements in the foregoing Petition are true</p>
+<p>Sworn to before me by John L. Scroggin this <date when="1863-11-25">25<hi rend="sup">th</hi> day of November 1863</date> -- </p>
 <p>E. A. W. Roberts Notary Public for Franklin County</p>
-<p>We the undersigned state that we are well acquainted with John L. Scroggin and no him to be a good peacible &amp; law abiding citizen and worthy your favorable consideration and we Joine with him in the prayer for the remission of the fine Set fourth in his Petition<pb/></p>
+<p>we the undersigned state that we are well acquainted with John L. Scroggin and no him to be a good peacible &amp; law abiding citizen and worth your favorable consideration and we Joine with him in the prayer for the remission of the fine set fourth in his Petition<pb/></p>
 <p>Franklin Co
-<lb/>John L. Scroggin
-<lb/>vs 
-<lb/>Commonwealth of Ky 
-<lb/>Pet.</p>
-<p>Remit all except fees &amp; costs
-<lb/>Tho E Bramlette</p>
-<p><date when="1863-11-25">25<hi rend="sup">th</hi> Nov/ 63</date>
+<lb/>John. L. Scroggin
+<lb/>vs &#125; Pet.
+<lb/>Commonwealth of Ky<figure type="hr"/></p>
+<p>Remit all except fees &amp; costs</p>
+<p>Tho E Bramlette</p>
+<p><date when="1863-11-25">25<hi rend="sup">th</hi> Nov/63</date>
 <lb/>Breach Peace</p>
   </body>
  </text>

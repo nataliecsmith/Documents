@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0148"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,27 +64,15 @@
  <text>
   <body>
    <p>Paducah Gov. B. Magoffin Frankfort Ky.</p>
-<p>All the Steamboats at this point were sent up Tennessee River last night -- this mornig at daylight Federal Gun Boat Lexington was again Cruising in front of this city and in the mouth of the Tennessee River Sent boat ashore to enquire after the Steam boats and whether there were cannon or Small arms to defend the City She is said to be now lying below the City I shall go to Cairo as you requested</p>
+<p>All the Steamboats at this point were sent up Tennessee River last night -- this mornig at day light Federal Gun Boat Lexington was again Cruizing in front of this city and in the mouth of Tennessee River Sent boat ashore to enquire after the Steam boats and whether there were cannon or Small arms to defend the city She is said to be now lying below the city I shall go to Cairo as you requested</p>
 <p>Jno M Johnson
 <lb/>Col</p>
+<p><note place="body">Chd</note></p>
 <p><note place="right margin">225
 <lb/><hi rend="underline">535
-<lb/></hi>360</note></p>
-<p><note place="body">Chd</note></p>
-<p><table rend="rules">
-<row>
-	<cell/>
-	<cell>225</cell>
-</row>
-<row>
-	<cell>75F.225&amp;</cell>
-	<cell><hi rend="underline">535</hi></cell>
-</row>
-<row>
-	<cell/>
-	<cell>760</cell>
-</row>
-</table><pb/></p>
+<lb/></hi>860</note></p>
+<p>75. F. 225 &amp; 535 Col</p>
+<p>225 <unclear>535</unclear><pb/></p>
 <p>23</p>
   </body>
  </text>

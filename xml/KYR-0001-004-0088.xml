@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0088"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,26 +63,28 @@
  <text>
   <body>
    <p>Hon Thomas E. Bramlett
-<lb/>Governor of Kentucky</p>
-<p>At the <date when="--08">August</date> Term of the Bracken Circuit Court Saml P. Shover was fined in two cases $60 -- Each for keeping a tipling House -- The cases merit the clemency of the Executive -- </p>
-<p>The form of Foster Granted Shover license to keep a Coffee House and Shover supposing that he had complied with the law went on and sold liquor without first having obtained license from the County Court of Bracken &amp; paying the State tax. The Court decided that his town license did not protect him and he was fined $60 -- in two cases making $120 -- We feel sure no criminal act was intended by M<hi rend="sup">r</hi> Shover and that he ought to be released of his fine -- </p>
+<lb/>Governr of Kentucky</p>
+<p>At the <date when="--08">August</date> Term of the Bracken Circuit Court Saml P. Shover was fined in two cases &#36;60- Each for keeping a tipling House -- The cases merit the clemency of the Executive -- </p>
+<p>The town of Foster Granted Shover license to keep a Coffee House, and Shover supposing that he had complied with the law went on and sold liquor without first having obtained license from the County Court of Bracken &amp; paying the state tax- The Court decided that his town license did not protect him- and he was fined &#36;60-- in two cases making &#36;120 -- We feel sure no criminal act was intended by M<hi rend="underline"><hi rend="sup">r</hi></hi> Shover and that he ought to be released of his fine -- </p>
 <p>Unwilling to lend our name &amp; aid to Excuse real violators of the law, we appeal to your Excellency in this behalf because of its merit -- </p>
-<p>Jos Doniphan
+<p><hi rend="underline">Jos Doniphan</hi>
 <lb/>Thornton F. Marshall</p>
 <p>Gov. Bramlette
 <lb/>Dear Sir</p>
-<p>You will observe from the above communication of the Hon. Jos Doniphan (Judge of the Bracken Circuit Court that M<hi rend="sup">r</hi> Shover obtained &amp; <hi rend="underline">paid</hi> for a liscense, &amp; acted in good faith, &amp; without the slightest intention<pb/></p>
-<p>of violating the law. He believed he was authorized to carry on his business of a "<hi rend="underline">Coffee House</hi>" under his liscense. The Liscense as the Judge states was introduced as a defense, but the court <hi rend="underline">properly</hi> divided it was no protestion, I think it a meritorious case, <hi rend="underline">very</hi> strongly calling for your intervention. If you concur with me, please send to me the evidence of its remission -- At Augusta.</p>
+<p>You will observe from the above communication of the Hon. Jos Doniphan (Judge of the Bracken Circuit Court that M<hi rend="underline"><hi rend="sup">r</hi></hi> Shover obtained &amp; <hi rend="underline">paid</hi> for a liscense, &amp; acted in good faith, &amp; without the slightest intention<pb/></p>
+<p>of violating the law-- He believed he was authorized to carry on his business of a "<hi rend="underline">Coffee House</hi>" under his liscense-- The Liscense as the Judge states was introduced as a defense, but the court <hi rend="underline">properly</hi> divided it was no protestion,</p>
+<p>I think it a meritorious case, <hi rend="underline">very</hi> strongly calling for your intervention -- If you concur with me, please send to me the Evidence of its remission--At Augusta--</p>
 <p>Very Respectfully
 <lb/><hi rend="underline">Thornton F Marshall</hi><pb/></p>
 <p>Bracken Cir Ct.
 <lb/>vs
-<lb/>S. R. Shover
-<lb/>2 cases of $60 -- each
-<lb/>Remitted <date when="1863-09-12">12<hi rend="sup">th</hi> Sept 1863</date>. in part, Tipling</p>
-<p><date when="--09-12">Set 12th</date>
-<lb/>Remit all except $10 of the fine in each case and costs and attys fees
-<lb/>Thos E Bramlette</p>
+<lb/>S. R Shover
+<lb/>2 Cases of &#36;60 -- each</p>
+<p>Remitted <date when="1863-09-12">12<hi rend="sup">th</hi> Sept 1863</date>. in part,</p>
+<p>Tipling</p>
+<p><date when="--09-12">Set 12<hi rend="sup">th</hi></date></p>
+<p>Remit all except &#36;10 of the fine in each case and costs and attys fees</p>
+<p>Tho E Bramlette</p>
   </body>
  </text>
 </TEI>

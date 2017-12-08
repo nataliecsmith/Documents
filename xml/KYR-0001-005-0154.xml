@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0154"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Commonwealth of Kentucky v. Elam Bowling et al., Indictment</title>
+    <title level="a" type="main">Commonwealth of Kentucky v. Esam Bowling, Hugh Bowling, &amp; Isham Bowling, Indictment</title>
     <title level="a" type="parallel">CWG1043</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,11 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Laurel Circuit Court
+   <p>Laurel, circuit, Court
 <lb/>The Commonwealth of Kentucky
-<lb/>against } Indictment
-<lb/>Elam Bowling Hugh Bowling &amp; Isham Bowling</p>
-<p>The Grand Jury of Laurel County in the name and by the authority of the Commonwealth of Ky accus Elam Bowling Hughe Bowling and Isham Bowling of the crime of murder committed as follows to wit the said Elam Bowling Hughe Bowling &amp; Isham Bowling on the <date when="1860-01-06">6<hi rend="sup">th</hi> of January 1860</date> in the county aforesaid did unlawfully and with malice afore thought kill and murder Arnold Kirby by stabbing him with a knife or some other Sharp Instrument against the peace and dignity of the commonwealth of Kentucky</p>
+<lb/>against &#125; Indict
+<lb/>Esam Bowling Hugh Bowling &amp; Isham Bowling</p>
+<p>The Grand Jury of Laurel county in the name and by the authority of the commonwealth of Ky accuses Esam Bowling Hughe. Bowling and Isham Bowling of the crime of Murder committed as follows to wit the said Esam Bowling Hughe Bowling &amp; Isham Bowling on the <date when="1860-01-06">6<hi rend="sup">th</hi> of January 1860</date> in the county aforesaid did unlawfully and with Malice afore thought kill and murder Arnold Kirby by stabbing him with a knife or some other Sharp Instrument against the peace and dignity of the commonwealth of Kentucky</p>
 <p>John Dishman
 <lb/>Comlth Atty</p>
 <p>Witnesses
@@ -75,13 +78,13 @@
 <lb/>Jefferson Johnson
 <lb/>Alfred Girtman
 <lb/>James Evans
-<lb/>L B Nichlesan
+<lb/>L B Nichleson
 <lb/>James Weaver
 <lb/>James Hodge
-<lb/>Even Jones
+<lb/>Even Janes
 <lb/>Robt Asher
 <lb/>David Weaver</p>
-<p>A Copy.
+<p>A copy
 <lb/><hi rend="underline">Att John Pitman clk</hi></p>
   </body>
  </text>

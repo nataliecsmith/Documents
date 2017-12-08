@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1336"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -66,14 +69,14 @@
 <lb/>Thos. E. Bramlette
 <lb/>Governor of Kentucky
 <lb/>Dr Sir!</p>
-<p>Jno B. Payne a relative of mine was indicted in the Franklin Court for dealing cards. Mr Payne is the son of a widowed mother and several sisters dependent upon him for a support, he is limited as to means, has settled with Mr Scott the Commonwealths Atty for his part. and I do hope that you will exercise your Executive clemency and remit. that part of his fine due the Commonwealth if not all a part that he may be enabled to pay the bal, his offense was slight compared with those daily committed by persons in our midst high in authority</p>
+<p>Jno, B. Payne a <hi rend="str"><unclear/></hi>relative of mine was indicted in the Franklin Court for dealing cards. Mr Payne is the son of a widowed mother and several sisters dependent upon him for a support, he is limited as to means, has settled with Mr Scott <hi rend="str">for</hi>the Commonwealhts Atty for his part. and I do hope that you will exercise your Executive clemency and remit. that part of his fine due the commonwealth if not all a part that he may be enabled to pay the bal, his offense was slight compared with th<hi rend="str">at</hi>ose daily committed by persons in our midst high in authority</p>
 <p>Vary Resp
 <lb/>Yr obdt Servt
-<lb/>Jas. F. Robinson jr<pb/></p>
+<lb/>Jas, F. Robinson jr<pb/></p>
 <p>Franklin Cir Ct
 <lb/>vs
 <lb/>Jno Payne
-<lb/>$500 each
+<lb/>&#36;500 each
 <lb/>Remitted
 <lb/><date when="1864-11-15">15<hi rend="sup">th</hi> Nov/64</date></p>
   </body>

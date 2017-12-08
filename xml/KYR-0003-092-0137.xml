@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0137"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,14 +63,24 @@
  <text>
   <body>
    <p>Mr Geo W Johnson
-<lb/><date when="1860">1860</date> To Ky Penitentary Dr
-<lb/><date when="1860-02-04">Feby 4</date> to Ox Cart $70<hi rend="sup">00</hi></p>
+<lb/><table rend="rules">
+<row>
+	<cell>1860</cell>
+	<cell/>
+	<cell/>
+</row>
+<row>
+	<cell>Feby 4</cell>
+	<cell>To ox Cart</cell>
+	<cell>&amp;#36;70<hi rend="sup">00</hi></cell>
+</row>
+</table></p>
 <p><date when="1862-04-10">April 10<hi rend="sup">th </hi>1862</date> Received payment</p>
 <p>J. W. South,<pb/></p>
-<p>Geo W Johnson </p>
-<p>In a/c with 
+<p>Geo W Johnson 
+<lb/>In a/c with 
 <lb/>Ky Penty
-<lb/>$70</p>
+<lb/>&#36;70</p>
   </body>
  </text>
 </TEI>

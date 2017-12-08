@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0019"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">S. M. Marshall to James F. Robinson</title>
+    <title level="a" type="main">S. N. Marshall to James F. Robinson</title>
     <title level="a" type="parallel">CWG14048</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,21 +63,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Wilsonville Ky <date when="1862-09-20">Sept 20<hi rend="sup">th</hi> 62</date>
-<lb/>Gov, Robinson
+   <p>Wilsonville Ky <date when="1862-09-20">Sep<hi rend="underline"><hi rend="sup">t</hi></hi> 20,<hi rend="sup">th</hi> 62</date>
+<lb/>Gov. Roberson
 <lb/>Your honor -- </p>
-<p>Lieut Aud of 60 day State Guards appeared before you last Thursday stating to you that the <unclear/> under Jack Allen with 65 men were in shelbyville he was that day in one &amp; half mile of my house with the 65 men but a reserve of 450 to support him he is traveling around without any restraint &amp; no one to molest we do not know what will be the result of the visit hoping you will give us a little protection his headquarters are in Taylersville &amp; vicinity recruiting a regiment -- </p>
-<p>Your humble servant S. M. Marshall
-<lb/>Plum Creek Shelby Co, Ky.<pb/></p>
-<p>Wilsonville Ky
+<p>Lieut Aud of 60 day State Guards appeared before you last Thursday stating to you that the <unclear/> under Jack Allen with 65 men were in shelbyville he was that day in one &amp; half mile of my house with the 65 men but a reserve of 450 to support him he is traveling around without any restraint &amp; no one to molest we do not know what will be the result of the visit hoping you will give us a little protection his head quarters are in <hi rend="str">s</hi>Taylersville &amp; vicinity. recruiting a regiment -- </p>
+<p>Your humble servant S, N. Marshall
+<lb/>Plum Creek Shelby Co, Ky,<pb/></p>
+<p>Wilsonville Ky.
 <lb/><date when="1863-09-20">Sep. 20/63</date><figure type="hr"/>
 <lb/>Marshall S. N.<figure type="hr"/>
 <lb/>Jack Allen's raid.<figure type="hr"/></p>
-<p><date when="--09-20">Sep 20th 186</date></p>
-<p>Gen Finnell the Bearer R. P. Marshall and James Marshall are reliable men and have come down on important public business and it is imperative that they should be allowed to return home</p>
+<p><date when="--09-20">Sep 20<hi rend="sup">th</hi> 186</date></p>
+<p>Gen Finnell the Bearer R. P. Marshall and James Marshall are reliable men and have come down on important public business and it is important that they should be allowed to return home</p>
 <p>R Cochran</p>
-<p>S. W. Marshall
-<lb/>Wilsonville KY</p>
+<p>S. N. Marshall
+<lb/>Wilsonville Ky</p>
   </body>
  </text>
 </TEI>

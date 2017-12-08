@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1370"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,10 +64,10 @@
  <text>
   <body>
    <p>Columbia Ky
-<lb/><date when="1864-12-16">Dec<hi rend="sup">r</hi> 16" 1864</date>
+<lb/><date when="1864-12-16">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 16" 1864</date>
 <lb/>Gov. Bramlette
 <lb/>Dear Sir</p>
-<p>At the last term of the Barren Circuit Court an Indictment for "Hog stealing" was found and returned by the Grand Jury against E K. Owsley Esq -- from My long and intimate acquaintance with Mr. O, -- his character standing as a Gentleman of irreproachable integrity -- need not assure you that I was astounded at such an accusation; I have made enquiry into the circumstances surrounding the case. and am gratified to be able to state from reliable information, that the prosecution is Malicious and unfounded -- It might be that the same felling of Malevolence that set on foot the charge Might stimulate the parties to sustain it and M<hi rend="sup">r</hi>. Owsley has thought proper to ask that the proceeding be stopped before trial and in that view of the case I cheerfully join with him in asking your Excellencys interposition in his behalf, I do this too the more willingly on account of his much esteemed relatives and family with whom I have mingled in closest ties of friendship from early boyhood. Hoping that your Excellency will favourably consider this application</p>
+<p>At the last term of the Barren Circuit Court an Indictment for "Hog stealing" was found and returned by the Grand Jury against E K. Owsley Esq -- from my long and intimate acquaintance with M<hi rend="underline"><hi rend="sup">r</hi></hi> O<hi rend="sub">s</hi>- his character standing as a Gentleman of irreproachable integrity -- I need not assure you that I was astounded at such an accusation; I have made enquiry into the circumstances surrounding the case. and am gratified to be able to state from reliable information, that the prosecution is malicious and unfounded -- It might be that the same feeling of malevolence that set on foot the charge might stimulate the parties to sustain it, and M<hi rend="underline"><hi rend="sup">r</hi></hi> Owsley has thought proper to ask that the proceeding be stopped before trial and in that view of the case I cheerfully join with him in asking your Excellencys interposition in his behalf, I do this too the more willingly on account of his much esteemed relations and family with whom I have mingled in closest ties of friendship from early boyhood. Hoping that your Excellency will favourably consider this application</p>
 <p>I remain
 <lb/>very Respt
 <lb/>your friend &amp; obt

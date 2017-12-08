@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1372"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">W. D. Newman et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">W. O. Newman et al. to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG6009</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,41 +63,41 @@
  <text>
   <body>
    <p><date when="1864-12-05">Dec 5<hi rend="sup">th</hi> 18,64</date>
-<lb/>Honerable Thomas, E. Bramlette Gov of the commonwealth of Ky</p>
+<lb/>Honerable Thomas, E. Bramlette Go<hi rend="underline">v</hi> of the commonwealth of Ky</p>
 <p>I Waddy Thompson of the county of Metcalfe and state of Kentucky haveing been Indited in the Metcalfe circuit court for the offence of Keeping a Tipling house after my Licens had expired and haveing confessed Judgement in the Metca^l^fe circuit court at its <date when="1864-12">December term 1864</date> in the sum of Sixty dollars</p>
 <p>Now we the undersigned citizens of Metcalfe county Ky would Respectfully ask your remittance of said fine as we are satesfied from every circumstance and from the acquaintance that we have with the said Waddy Thompson that he did not commit the above ^stated^ offence with any intention or desire to violate the laws of the commonwealth of Kentucky he being a good loyal man and a law abideing citizen and respectable man we earnestly request your consideration and remittance of said fine if consistant with your feelings after consideration of the matter</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>W. D. Newman
+<p><milestone unit="column" n="2"/><cb n="1"/>W. O. Newman
 <lb/>James Mitchell
-<lb/>James L. Strange
-<lb/>capt co G <unclear>54</unclear> Ky vols
-<lb/>Thos. Ball P,M.
-<lb/><cb n="2"/>J. H. C. Surridge
+<lb/>James L, Strange
+<lb/>capt co G <unclear>37</unclear> Ky vols
+<lb/>Thos. Ball P, M,
+<lb/><cb n="2"/>J. H, C, Sandidge
 <lb/>Tho. E. Young C M C C
 <lb/>C. C. Harvey
 <lb/>P. S. Rush Dept. Pro. Mar
 <lb/>Dr J. C. Green
-<lb/>Geo. A. Clark Sheriff
-<lb/>of Metcalfe County<milestone unit="column" n="1"/><pb/></p>
+<lb/>Geo. A. Clark Sheriff of Metcalfe county<milestone unit="column" n="1"/><pb/></p>
 <p>sent for fee<pb/></p>
 <p>W<hi rend="sup">m</hi>, J, Masters Col 81<hi rend="sup">st</hi> Reg Ky militia
 <lb/>J, H, Bead Deputy Sheriff Metcalfe County
 <lb/>J W Ball Assistant Post Master
 <lb/>T. L. Anderson
-<lb/>St.clair Walker a Juror.
-<lb/>S. J. Walker
-<lb/>James G. Gilley. a Juror
+<lb/>St, clair Walker a Juror.
+<lb/>S, J, Walker
+<lb/>James, G. gilley. a Juror
 <lb/>R. T. Franklin a Juror
-<lb/>J. A. Thompson
-<lb/>Joseph Stark a Militia capt
+<lb/>J, A, Thompson
+<lb/>Joseph stark a Militia capt
 <lb/>John Ball
 <lb/>M, B, Wallace
 <lb/>S. H. Flint</p>
 <p>Metcalfe Cir Ct
 <lb/>vs
 <lb/>Waddy Thompson
-<lb/>$60,
+<lb/>&#36;60,
 <lb/><date when="1865-08-28">28 Aug/65</date></p>
-<p>sent for fee <date when="1865-07-22">22 July</date></p>
+<p>sent for fee
+<lb/><date when="1865-07-22">22 July</date></p>
 <p>Remit</p>
   </body>
  </text>

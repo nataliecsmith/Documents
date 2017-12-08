@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0063"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,13 +63,13 @@
  <text>
   <body>
    <p>I am counsel for M<hi rend="underline"><hi rend="sup">r</hi></hi> Isaac Sutton, the petitioner.</p>
-<p>It is morally certain to my mind that he failed to pay the $10. <hi rend="underline">State tax</hi> on City license, because of ignorance on his part of the law, and without the remotest design to evade in. Accompanying certificates show that he has paid in all the sum of $165<hi rend="sup">67</hi> on a/c of <hi rend="underline">city license</hi></p>
+<p>It is morally certain to my mind that he failed to pay the &#36;10. <hi rend="underline">State tax</hi> on city license, because of ignorance on his part of the law, and without the remotest design to evade it. Accompanying certificates show that he has paid in all the sum of &#36;165<hi rend="underline"><hi rend="sup">67</hi></hi> on a/c of <hi rend="underline">city license</hi></p>
 <p>On trial of his case he exhibited his certificates of city license in attestation of<pb/>
 <lb/>his good faith, plead that he was ignorant of the law as to county license; and produced also a certificate that he had paid the small amount of this <hi rend="underline">county license</hi> soon as he discovered it was his duty to do so. These defenses were adjudged insufficient. The jury were virtually instructed to find against deft.; but his honor Judge Doniphan remarked on the bench the case was one which well merited Executive clemency</p>
-<p>R. Richardson
-<lb/><date when="1863-09-04">Sept. 4, 1863</date><pb/></p>
-<p>Isaac Suttons pet<hi rend="sup">n</hi>
-<lb/>Statement of R. Richardson</p>
+<p>R; Richardson
+<lb/><date when="1863-09-04">Sept. 4, 1863</date>=<pb/></p>
+<p>Isaac Suttons pet<hi rend="underline"><hi rend="sup">n</hi></hi>
+<lb/>Statement of R; Richardson</p>
   </body>
  </text>
 </TEI>

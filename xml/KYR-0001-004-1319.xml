@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1319"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">John Delaney et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">John Delaney to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG5956</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,25 +64,25 @@
  <text>
   <body>
    <p>Carlisle <date when="1864-10-08">Oct. 8. 1864</date>
-<lb/>To His Excellency T. E. Bramblet Gov. of Ky,</p>
-<p>Your Petitioner John Delaney says he was lately tried in the Nicholas Circuit Court to wit, at its <date when="1864-09">last September</date> Term for stabbing John Barnett in a sudden heat of passion -- and was fined the sum of $50.</p>
-<p>He says the proof was that Barnett had threatened to shoot him which was the Cause of the stabbing -- The stabbing was done with a pocket knife &amp; did not inflict a Very serious wound -- </p>
-<p>Your Petitioner would state that he is subject to fits which he is satisfied affects his mind &amp; Causes the least thing some times to throw him into excitement of an uncontrolable character &amp; this &amp; not the provocation he believes caused the cutting -- Barnett &amp; himself were on good terms, but ^Barnett^ was made mad by your Petitioners hitting him in the face with a snow Ball -- He says he &amp; his mother &amp; another replevied the fine but he is poor &amp; not able to pay it -- He therefore asks its remission &amp; will ever pray &amp;. -- </p>
+<lb/>To His Excellency T. E. Bramblet Gov. of Ky.</p>
+<p>Your Petitioner John Delaney says he was lately tried in the Nicholas Circuit Court to wit, at its <date when="1864-09">last September</date> Term for stabbing John Barnett in a sudden heat of passion- and was fined the sum of &#36;50.</p>
+<p>He says the proof was that Barnett had threatened to shoot him which was the Cause of the stabbing- The stabbing was done with a pocket knife &amp; did not inflict a Very serious wound -- </p>
+<p>Your Petitioner would state that he is subject to fits which he is satisfied affects his mind &amp; causes the least thing some times to throw him into excitement of an uncontrolable character &amp; this &amp; not the provocation he believes caused the cutting- Barnett &amp; himself were on good terms, but ^Barnett^ was made mad by Your Petitioners hitting him in the face with a snow Ball- He says he &amp; his Mother &amp; another replevied the fine but he is poor &amp; not able to pay it- He therefore asks its remission &amp; will ever pray &amp;<hi rend="underline"><hi rend="sup">c</hi></hi>-</p>
 <p>John Delaney</p>
 <p>We were jurors in Delaneys case above &amp; we think the fine ought to be remitted</p>
 <p><milestone unit="column" n="3"/><cb n="1"/>James Kennedy
-<lb/><cb n="2"/>W<hi rend="underline"><hi rend="sup">m</hi></hi> R Potts
+<lb/><cb n="2"/>W<hi rend="underline"><hi rend="sup">m</hi></hi> R. Potts
 <lb/>J. P. Potts
 <lb/>S C Pepes
-<lb/><cb n="3"/>Edmund.. W.. Hardy
+<lb/><cb n="3"/>Edmund,, W,, Hardy
 <lb/>W H Waugh
-<lb/>W. K Fuller<milestone unit="column" n="1"/><pb/></p>
+<lb/>W. H Fuller<milestone unit="column" n="1"/><pb/></p>
 <p>John Delaney
 <lb/>Petition
 <lb/>Nicholas Cir Ct
 <lb/>vs
 <lb/>John Delaney
-<lb/>$50,
+<lb/>&#36;50,
 <lb/>Remitted
 <lb/><date when="1864-11-22">22<hi rend="sup">nd</hi> Nov/64</date></p>
   </body>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0038"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Horatio G. Wright, Special Orders, No. 62</title>
+    <title level="a" type="main">W. P. Anderson, Special Orders, No. 62</title>
     <title level="a" type="parallel">CWG11589</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,19 +64,19 @@
  <text>
   <body>
    <p>HEAD-QUARTERS, DEPARTMENT OF THE OHIO.
-<lb/>Cincinnati, Ohio, <date when="1863-02-09">February 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1863.</date>
+<lb/><hi rend="italic">Cincinnati, Ohio,</hi> <date when="1863-02-09">February 9<hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="italic">1863</hi>.</date>
 <lb/>SPECIAL ORDERS,
 <lb/>No. 62</p>
-<p>The resignation of Captain <hi rend="underline">Monroe Bateman</hi> 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Regiment Cavalry Kentucky Volunteers, is hereby accepted, to take effect on the <date when="1863-02-11">(11<hi rend="underline"><hi rend="sup">th</hi></hi>) eleventh day of February 1863.</date></p>
+<p>The resignation of Captain <hi rend="underline">Monroe</hi> <hi rend="underline">Bateman</hi> 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Regiment Cavalry Kentucky Volunteers, is hereby accepted, to take effect on the <date when="1863-02-11">(11<hi rend="underline"><hi rend="sup">th</hi></hi>) eleventh day of February 1863,</date></p>
 <p>BY ORDER OF MAJOR GENERAL WRIGHT.
 <lb/>W. P. Anderson 
 <lb/>Assistant Adjutant General. </p>
 <p>1. 2. 3. 4 5 6</p>
 <p>Governor of Kentucky<pb/></p>
-<p><hi rend="str"><unclear/></hi>2x Cav:<figure type="hr"/>
+<p><hi rend="str"><unclear/></hi>2x Cav;<figure type="hr"/>
 <lb/>Capt: Bateman
 <lb/>resig:<figure type="hr"/>
-<lb/>filed <date when="1863-02-12">feb 12. 1863</date></p>
+<lb/>filed <date when="1863-02-12">feb 12, 1863</date></p>
   </body>
  </text>
 </TEI>

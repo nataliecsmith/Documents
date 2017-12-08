@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1556"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Scott County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -61,24 +63,24 @@
  <text>
   <body>
    <p>To his excellency
-<lb/>Beriah Magoffin Governor of the Commonwealth of Kentucky</p>
-<p>Your petitioners would respectfully represent to your excellency that a petition was laid before your predecessor, Signed by honest intelligent and discreet citizens, praying the pardon of Charles H Tomlinson who was indicted for man slaughter at the term of the Scott circuit court for 58 Said petitioners was actuated by no other feelings or motive than the accomplishment of Justice and humanity, although sentenced by the court of a term of Six years confinement in the penatentiary to hard labor, from facts and circumstances that came to their Knowledge they believed the killing of Thomas H Estes to be a clear case of self defence and that his retention could do no good From the fact that he was forced into trial when the fact was recent, and unable <hi rend="str">a</hi>to get his witnesses, they did not doubt but he was hardly dealt by more over a great excitement and prejudices was raised against ^him^ from false tales and exaggerated accounts of the affair</p>
+<lb/>Beriah Magoffin Governor of the commonwealth of Kentucky</p>
+<p>Your petitioners would respectfully represent to your excellency that a petition was laid before your predecessor, Signed by honest intelligent and discreet citizens, praying the pardon of Charles H Tomlinson who was indicted for man Slaughter at the term of the Scott circuit court for 58 Said petitioners was actuated by no other feelings or motive than the accomplishment of Justice and humanity, although sentenced by the court of a term of Six years confinement in the penatentiary to hard labor, from facts and cir-cumstances that came to their Knowledge they believed the killing of Thomas H Estes to be a clear case of self defence and that his retention could do no good From the fact that he was for<hi rend="str">ces</hi>ced into trial when the fact was recent, and unable <hi rend="str">a</hi>to get his witnesses, they did not doubt but he was hardly dealt by more over a great excitement and prejudices was raised against ^him^ from false tales and exaggerated accounts of the affair</p>
 <p>Your petitioners would respectfully represent, that a remonstrance against the petion was gotten up by the almost innumerable relatives which was numerously signed Squads of<pb/>
-<lb/>four or five Scoured the surrounding country, representing that the peti-charged Thomas H Estis with being a drunken quarrelsome rakeis and desgrn<hi rend="str">ace</hi>ous character, and also inveighed against all the Estes family They also endeavoured to poison the minds of the commuty against C H Tomlinson His friends did not intend nor would have suffered any thing disrepectful of Thomas Estes in their petion Most of the persons who signed said remonstrance are the relatives, and those who know nothing of the affair, but from their own accounts of it, which was desperate or those possessedd of strong prejudices and boys, and others who thought it was for his release Some of us who had not seen or heard of the petition was told that our names was signed to it, we have since seen that their statements was false and gladly sign our names to it Some persons who boast themselves at the head of the affair are decididly the worst and most reckless men in society</p>
+<lb/>four or five Scoured the surrounding country, representing that the peti- charged Thomas H Estis with being a drunken quarrelsome rakeis and desgrn<hi rend="str">ace</hi>ous character, and also inveighed against all the Estes family They also endeavoured to poison the minds of the commuty against C H Tomlinson His friends did not intend nor would have suffered anything disrepectful of Thomas Estes in their petion Most of the persons who signed said remonstrance are the relatives, and those who know nothing of the affair, but from their own accounts of it, which was desperate or those possessed<hi rend="str">l</hi> of strong prejudices and boys, and others who thought it was for his release Some of us who had not seen or heard of the petition was told that our names was signed to it, we have since seen that their statements was false and gladly sign our names to it Some persons who boast themselves at the head of the affair are decididly the worst and most reckless men in society</p>
 <p>Charles H Tomlinson, was a quiet and peaceable man in the neighbohood and a kind whole souled and friendly person</p>
 <p>He is a man of a weakly consititution afflicted with a nervous disease which caused low spirits and melancholly which caused him no doubt to indulge in too much intoxicating drink we Know Thomas H Estes was a hasty<pb/>
 <lb/>man and quite a robust and stout man Tomlinson is a small and weakly man</p>
-<p>Your petitioners think you excellency would do right not to regard said remonstrance most who signed did not do it to prevent executive clemency but to gratify his family</p>
+<p>Your petitioners think your excellency would do right not to regard said remonstrance Most who signed did not do it to prevent executive clemency but to gratify his family</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>John R Cohorn
-<lb/>T. F Fightmaster
+<lb/>T, F Fightmaster
 <lb/>George W Fightmaster
 <lb/>Mason. Sames
-<lb/>R. W. Sames
+<lb/>R, W Sames
 <lb/>Thomas Fightmaster
 <lb/>S K Davidson
-<lb/>we know that when the trial was going on a witness was dodging the officer and did not go to the trial
-<lb/>Jno Buffer 
-<lb/>Eppes Green
+<lb/>Jno Buffen</p>
+<p>^we^ know that when the trial was going on a witness was dodging the officer and did not go to the trial</p>
+<p>Eppes Green
 <lb/>A Cohorn
 <lb/>David Lynn
 <lb/>Greenberry Linton
@@ -88,7 +90,7 @@
 <lb/>Warren Parker
 <lb/>Epps Green
 <lb/><cb n="2"/>A J Addison
-<lb/>Harrson Cohorn</p>
+<lb/>Harreson Cohorn</p>
   </body>
  </text>
 </TEI>

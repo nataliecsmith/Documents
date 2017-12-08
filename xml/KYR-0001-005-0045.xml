@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0045"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,25 +67,25 @@
 <lb/>PROVOST MARSHAL'S OFFICE,
 <lb/>Lexington, Ky., <date when="1864-09-05">Sept 5" 1864</date>.
 <lb/>General,</p>
-<p>The General Commanding directs me to say that Privates Ervin Ray, Austin. P. Smith, and William Wilcox. 35" Ky. Inft. Vols. who are now confined in the Hopkins Co. jail, upon the charge of murdering James L. Clark, are entitled to trial by Gen'l Court Martial or Military Commission -- He therefore directs me to make a requisition on the Govenor, through your office, for these men, that they may be tried under the 30" section of the Act of Congress, approved <date when="1863-03-03">March 3r" 1863</date>.</p>
+<p>The General Commanding directs me to say that Privates Ervin Ray, Austin, P, Smith, and William Wilcox. 35" Ky. Inft. Vols, who are now confined in the Hopkins Co. jail, upon the charge of Murdering James. L. Clark. are entitled to trial by Gen'l Court. Martial or Military Commission- He therefore directs me to make a requisition on the Govenor, through your office, for these men, that they may be tried under the 30" section of the Act of Congress, approved <date when="1863-03-03">March 3" 1863</date>.</p>
 <p>I am Gen'l Very Respectfully
-<lb/>Your Obt. Servt.
+<lb/>Your Obt. Servt
 <lb/>R. Vance
-<lb/>Prov. Mar. Genl.
+<lb/>Prov. Mor. Genl.
 <lb/>Dist of Ky.</p>
-<p>Brig Genl. D. Lindsey.
-<lb/>Inspt. Gen'l and Adj't Gen'l
+<p>Brig Gen'l. D. Lindsey.
+<lb/>Inspt Gen'l and Adj't Gen'l
 <lb/>Ky Forces
-<lb/>Frankfort Ky<pb/></p>
+<lb/>Frankford Ky<pb/></p>
 <p>Hd. Qrs. Dist. Ky.
 <lb/>Pro. Mar.'s Office.
 <lb/>Lexington Ky.
-<lb/><date when="1864-09-05">Sept. 5th, 1864</date>.<figure type="hr"/>
-<lb/>Vance R.
+<lb/><date when="1864-09-05">Sept. 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.<figure type="hr"/></p>
+<p>Vance R.
 <lb/>P. M. G. D of. Ky.<figure type="hr"/></p>
-<p>Gen. Comd'g directs him to say that Privates Ervin Ray, Austin P. Smith and W<hi rend="sup">m</hi> Wilcox, 35<hi rend="sup">th</hi> Ky. Infty in Hopkins Co. Jail, on charge of murdering J. L. Clarke -- are entitled to tiral by Mil. ^Com<hi rend="underline"><hi rend="sup">n</hi></hi> or gen'l^ C -- Martial: He makes requisition on the Gov. for these men, to try them by 30 Sect. Act of Congress. <date when="1863-03-03">Mch 3<hi rend="sup">rd</hi> /63</date><figure type="hr"/></p>
+<p>Gen. Comd'g directs him to say that Privates Ervin Ray, Austin P. Smith and W<hi rend="sup">m</hi> Wilcox, 35<hi rend="sup">th</hi> Ky. Infty in Hopkins Co. Jail on charge of murdering J. L. Clarke- are entitled to tiral by Mil, ^Com<hi rend="underline"><hi rend="sup">n</hi></hi> or gen'l^ C -- Martial: He makes requisition on the Gov. for these men, to try them by 30 Sect. Act of Congress. <date when="1863-03-03">Mch 3<hi rend="underline"><hi rend="sup">rd</hi></hi>/63</date><figure type="hr"/></p>
 <p>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-09-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> Sept. 1864</date>.</p>
-<p>Requisition issued <date when="1864-09-06">6th Sept/64</date></p>
+<p>Requisition issued <date when="1864-09-06">6<hi rend="sup">th</hi> Sept/64</date></p>
   </body>
  </text>
 </TEI>

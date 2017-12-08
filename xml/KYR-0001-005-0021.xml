@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0021"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,37 +62,37 @@
  </teiHeader>
  <text>
   <body>
-   <p><date when="1864-02-05">Feb the 5<hi rend="sup">th</hi>/64</date></p>
-<p>To the Govenor of the Commonwealth of kentucky having had one of the most willfull murders Commited on the <date when="--01-19">19th day of January</date> last in Mercer County by one George. D. M<hi rend="sup">c</hi>Keney upon the person of John. J. Gritton a good sittson and a loyal man and a peasible man we the under signed pray your honor to assist us in offring such a Reward as will bring the Guilty to Justice M<hi rend="sup">c</hi>kiney has left for parts unknown M<hi rend="sup">c</hi>kiney is twenty years old five feet nine inches high compleciton fare eyes Blue hare darke Respectifuly yours</p>
+   <p><date when="1864-02-05">Feb the 5th/64</date></p>
+<p>To the Govenor of the Commonwealth of kentucky having had one of the most willfull murders Commited on the <date when="--01-19">19th day of January</date> last in Mercer County by one George. D, M<hi rend="sup">c</hi>keney upon the person of John. J. Gritton a good sittson and a loyal man and a peasible man we the under signed pray your honor to assist us in offring such a Reward as will bring the Guilty to Justice M<hi rend="sup">c</hi>kiney has left for parts unknown M<hi rend="sup">c</hi>kiney is twenty years old five feet <hi rend="str">9</hi> nine inches high complxeiton fare eyes Blue hare darke Respectifuly yours</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Granville Alfred
 <lb/>James M Kys
-<lb/>P. H. Alfred
+<lb/>P. H Alfred
 <lb/>T J Driskell
 <lb/>Thomas Riley
 <lb/>W Honer
 <lb/>H <unclear/>
-<lb/>D Dupont
+<lb/>D. <unclear/>
 <lb/>george Sutone
-<lb/>W. M. young
+<lb/>W, M, young
 <lb/>Wm Howard
-<lb/>J M <unclear>Malls</unclear>
+<lb/>J M <unclear>Snales</unclear>
 <lb/>Allen Southern
 <lb/>H N Young
-<lb/>Samuel Redd
+<lb/>Samuel Reed
 <lb/>Elijah Reed
-<lb/>Wilson alison -- 
+<lb/>Wiliam alison -- 
 <lb/>R. C Rice
 <lb/>Zacriah Walls
 <lb/>Jacob Boman
-<lb/><cb n="2"/>Davd Coffert
+<lb/><cb n="2"/>Dave <unclear>Coffert</unclear>
 <lb/>Iserael Riley
 <lb/>Eli Dispanet
 <lb/>J W cowell
 <lb/>J T Brown
 <lb/>Luther Jenkins
-<lb/><unclear/>A. J. Rogers
+<lb/>A. J. Rogers
 <lb/>Joseph evans
-<lb/>H T. Smith
+<lb/>H. T. Smith
 <lb/>James Reynerson
 <lb/>ira million
 <lb/>hogling Gritton
@@ -98,11 +101,11 @@
 <lb/>J. L. Johnson
 <lb/>R. T. Anderson
 <lb/>J. H. Anderson
-<lb/><unclear/> Barr
+<lb/><unclear>vallnt</unclear> Barr
 <lb/>Garrett F. Jordan
 <lb/>Richard Alexander
 <lb/>James M Brown<pb/>
-<lb/><milestone unit="column" n="1"/>F G. Matheny
+<lb/><milestone unit="column" n="1"/>F G Matheny
 <lb/>S P Irvin
 <lb/>L D Armstrong<pb/>
 <lb/><milestone unit="column" n="2"/><cb n="1"/>Caleb Kelly
@@ -111,31 +114,32 @@
 <lb/>Burton Yorcum
 <lb/>William Carter
 <lb/>Geo W Robinson
-<lb/>W<hi rend="underline">m</hi> Lake
-<lb/>C T carter
+<lb/>W<hi rend="underline">m</hi> <unclear>Lake</unclear>
+<lb/>A T carter
 <lb/>W H Rogers
 <lb/>Martin yocum
-<lb/>G H Smithy
-<lb/>S P Demare
+<lb/>G W Smithy
+<lb/>S P Demaree
 <lb/>D B Vanarsdell
 <lb/>T D Adkinson
-<lb/>Wm Rose
-<lb/>Duane C <unclear/>
-<lb/><unclear/> <unclear>mosley</unclear>
-<lb/>Aubrey Woods
+<lb/>Wm Row
+<lb/>Duane Chelton
+<lb/><unclear/> <unclear>morely</unclear>
+<lb/><unclear/>
+<lb/>Archey Woods
 <lb/>John Cardwell
 <lb/>Joseph Riley
 <lb/>Benant Gibson
 <lb/>Stephen arnold
 <lb/>Wm Edwards
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Doorhies P. M
+<lb/><hi rend="underline">W.</hi> <hi rend="underline">Voorhies</hi> <hi rend="underline">P,</hi> <hi rend="underline">M</hi>
 <lb/>W W Edwards
 <lb/>W, N, Edwards
 <lb/>J H Matheny
-<lb/>J. E. Paxton<cb n="2"/>
+<lb/>J. E Paxton<cb n="2"/>
 <lb/>Tho<hi rend="sup">s</hi> Edwards
 <lb/>Presiding Judge of Mercer County Court<pb/></p>
-<p><milestone unit="column" n="1"/>They is allredy $150 " " Reward for the said <unclear>M<hi rend="sup">c</hi>Iny</unclear> <hi rend="underline">John Gritton</hi></p>
+<p><milestone unit="column" n="1"/>They is allredy &#36;150 ,, ,, Reward for the Said <unclear>M<hi rend="sup">c</hi>Iny</unclear> <hi rend="underline">John Gritton</hi></p>
 <p>John Bowman</p>
   </body>
  </text>

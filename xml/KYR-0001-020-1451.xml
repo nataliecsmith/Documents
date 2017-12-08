@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1451"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -70,8 +73,8 @@
 <lb/>To His Excellency
 <lb/>B. Magoffin
 <lb/>Governor of Ky</p>
-<p>I have read the petition for the pardon of William Nichols and have no hesitation <hi rend="str">of</hi> in saying that I am well satisfied that it contains a true statement of the facts in his case, from my intimate knowledge of the gentlemen who have signed it -- they are members of the bar, clerk jailer &amp; sheriff, all of the highest respectability, and from this and what I have heard about the case, and some little of the testimony, I confess my sympathies are enlisted for Nichols, and I think much more good to the community will be effected by his pardon than by his further punishment -- His neighbors say of him that his character is good -- </p>
-<p>Very truly
+<p>I have read the petition for the pardon of William Nichols and have no hesitation <hi rend="str">of</hi> in saying that I am well satisfied that it contains a true statement of the facts in his case, from my intimate knowledge of the gentlemen who have signed it- they are members of the bar, Clerk jailer &amp; sheriff, all of the highest respectability, and from this and what I have heard about the case, and some little of the testimony, I confess my sympathies are enlisted for Nichols, and I think much more good to the community will be effected by his pardon than by his further punishment. His neighbors say of him that his character is good-</p>
+<p>very truly
 <lb/>Yours
 <lb/>M M Benton</p>
   </body>

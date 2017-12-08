@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0127"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,22 +65,22 @@
   <body>
    <p>Bath Circuit Court
 <lb/>The Commonwealth of Kentucky
-<lb/>against } Indictment
-<lb/>Jesse Underwood
+<lb/>against &#125; Indictment
+<lb/>Jessee Underwood
 <lb/>David Underwood</p>
-<p>The Grand Jury of Bath County in the name and by the authority of the Commonwealth of Kentucky, accuse Jesse Underwood and David Underwood of the offence of Murder, Committed as follows towit The said Jesse Underwood and David Underwood on the <date when="1865-09-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> day of September 1865</date> in the County and Circuit aforesaid did wilfully and felloneously and with malace aforethought, shoot, kill and Murder George A Trumbo with a pistol they then and there had loaded with powder and ball</p>
+<p>The Grand Jury of Bath County in the name and by the authority of the Commonwealth of Kentucky, accuse Jessee Underwood and David Underwood of the offence of Murder, Committed as follows towit The said Jessee Underwood and David Underwood on the <date when="1865-09-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> day of September 1865</date> in the County and Circuit aforsaid did wilfully and felloneously and with malace aforethought, shoot, kill and Murder George A Trumbo with a pistol they then and there had loaded with powder and ball</p>
 <p>Against the peace and dignity of the Commonwealth of Kentucky</p>
 <p>J S Dury Comth atty</p>
 <p>A Copy
-<lb/>Attest V.B. Young C B C C<pb/></p>
+<lb/>Attest V. B. Young C B C C<pb/></p>
 <p>The Commonwealth
-<lb/>vs } Indictment for Murduer
+<lb/>vs &#125; Indictment for Murder
 <lb/>Jessee Underwood
 <lb/>David Underwood<figure type="hr"/>
 <lb/>A True Bill
 <lb/>J. A. Trumbo
-<lb/>Foreman<figure type="hr"/>
-<lb/>J. S. Dury Comth atty</p>
+<lb/>Foreman<figure type="hr"/></p>
+<p>J. S. Dury Comth atty</p>
   </body>
  </text>
 </TEI>

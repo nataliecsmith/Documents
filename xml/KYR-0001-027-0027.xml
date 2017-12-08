@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0027"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,14 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington Ky <date when="1862-08-28">Aug 28th ^1862^</date>
-<lb/>Hon Governer Robinson
+   <p>Lexington Ky <date when="1862-08-28">Aug 28th 1862</date>
+<lb/>Hon Govener Robinson
 <lb/>Sir</p>
-<p>I am here under arrest in this Place I wrote a letter to Governor Todd, of Ohio as I Live in that State His answer to address you and you would attend to my Case as it is out of his Jurisdiction I will state to you as to my arrest I Belong to the 5th Ohio cav Col Taylor commanding He was anchious For me to Get a better Posision in another Regement So he Transfered me to the 1st Bat of Ky Cavalry under Col Rubin Munday I Remained with this command for some 7 months<pb/>
-<lb/>The Pay Master came and Refused to Pay me as my Transfer was of no account and I would Have to Report my self Back to my Regiment 5th Ohio Cavalry I then went to Cincinnati By the consent of General Geo Morgan and col Mundy and Reported to the Quarter Master General of Ohio for Transportation to my Regiment it was sent to me I intended agoing the Next Day when I was arrested By Major <unclear>Garker</unclear> of General Morgan's Division and Brought Here Have been here 35 Days I Have Called for a trial some 4 or 5 Diffirent The Provost Marshal is anchious for me to Get out of Here and think that they ought to Give me a trial I am A good Soldger <unclear>Sober</unclear> and it is A shame to keep<pb/>
-<lb/>me in Here when they <unclear/> Brave Men on the Battle Field so Bad. I Can Give the Best of Refferance to my moral Caracter Govener I wish you to Take me out Have me Relased so as I can join my Regement Emediately. Goverer tells me it is in your Power and you will confer A Great Favor on A Good Soldger</p>
+<p>I am Here under arrest in this Place I wrote a letter to Govenor Todd, of Ohio as I Live in that State His answer to address you and you would attend to my Case as it is out of His Jurisdiction I will state- to you as to my arrest I Belong to the 5th Ohio cav Col Taylor commanding He was anchious For me to Get A Better Posision in another Regement So he Transfered me to the 1st Bat of Ky Cavalry under Col Rubin Munday I Remained with this command for some 7 months<pb/>
+<lb/>The Pay Master came and Refused to Pay me, as my Transfer was of no account and I would Have to Report my self Back to my Regement 5th Ohio Cavalry I then went to Cincinnati By the consent of General Geo Morgan and col Munday and Reported to the Quarter Master General of Ohio <hi rend="str"><unclear/></hi>for Transportation to my Regement it was sent to me I intended agoing The Next Day when I was arrested By Major <unclear>Garber</unclear> of General Morgan's Division and Brought Here have been Here 35 days I Have Called for a trial some 4 or 5 Diffirant The Provost Marshal is anchious for me to Get out of Here and think that they ought to Give me a trial I am A good Soldger Sober and it is A shame to keep<pb/>
+<lb/>me in Here when they Brave Men on the Battle Field so Bad I Can Give the Best of Refferance to my moral Caracter Govener I wish you to Take me out Have me Released so as I can Join my Regement Emediatly Govener tells me it is in your Power and you will confer A Great Favor on A Good Soldger</p>
 <p>I am yours
-<lb/>S E Smith<pb/></p>
+<lb/>S E <hi rend="underline">Smith</hi><pb/></p>
 <p>S E Smith
 <lb/>in Jail Lexington</p>
   </body>

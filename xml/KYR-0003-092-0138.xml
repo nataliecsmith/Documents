@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0138"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <date when="1861-05-25">25 May 1861</date>
+    <date when="1862-03-20">20 March 1862</date>
    </creation>
    <textClass>
     <keywords>
@@ -65,8 +68,8 @@
 <lb/>May 25</date>
 <lb/><table rend="rules">
 <row>
-	<cell>2884 feet of inch plant at 1,56</cell>
-	<cell>&amp;#36;43.26</cell>
+	<cell>2884 feet of inch plank at 1,56</cell>
+	<cell>&#36;43.26</cell>
 </row>
 <row>
 	<cell>Stable Bill up to this date</cell>
@@ -74,15 +77,15 @@
 </row>
 <row>
 	<cell/>
-	<cell>&amp;#36;46.66</cell>
+	<cell>&#36;46.66</cell>
 </row>
 </table><pb/></p>
-<p>Recived with Act &amp; all others up to this date in full <date when="1862-03-20">Mar 20th 1862</date></p>
-<p>O. W. Gaines</p>
+<p>Received with Act &amp; all others up to this date in full <date when="1862-03-20">Mar 20.th 1862</date></p>
+<p>O, W, Gaines</p>
 <p>Recd the within account and a</p>
 <p>9
-<lb/><hi rend="underline">2.70</hi>
-<lb/>11.70</p>
+<lb/><hi rend="underline">2,70</hi>
+<lb/>11,70</p>
   </body>
  </text>
 </TEI>

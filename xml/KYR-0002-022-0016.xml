@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0016"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,26 +65,28 @@
   <body>
    <p>Head Quarters 40<hi rend="sup">th</hi> Regt Ky Militia
 <lb/>Hickman Ky. <date when="1864-02-23">February 23. 1864</date>.
-<lb/>Major Genl. D. W. Lindsey
+<lb/>Major Genl. D. W Lindsey
 <lb/>Inspector General of Kentucky
 <lb/>General.</p>
-<p>The removal of the commercial restrictions so far as regards Kentucky and the consequent importation of goods and such articles as are of immediate and pressing necessity to the people, produced the very natural apprehension, that when the fact became known in the back county, the temptation to make a <hi rend="underline">raid</hi> upon the city, on the part of the marauders who have infested this section of the country, would be too great to be resisted. Taking advantage of this general sentiment; I at once proceeded to raise a Volunteer company of citizens and procured pistols and shot-guns with which they were and are armed. There is of course no organization, but with general accord, they readily act under my command. Upon two several nights the danger was alarmingly threatening, but the volunteers were on duty and prepared to give these lawless men, a warm reception. Whether it was owing to the fact, that we were prepared for them or not. I cannot say, but certain it is, they did not make their appearance. Still these men are about, and I am satisfied, that scarcely a day passes, that some of them are not in town. As we have no <hi rend="underline">legal</hi> proof against them, however strong our <hi rend="underline">moral</hi> convictions may be, we can do nothing with them by any arrest under the civil process.</p>
+<p>The removal of the commercial restrictions so far as regards Kentucky and the consequent importation of goods and such articles as are of immediate and pressing necessity to the people, produced the very natural apprehension, that when the fact became known in the back county, the temptation to make a <hi rend="underline">raid</hi> upon the city, on the part of the marauders who have infested this section of the country, would be too great to be resisted. Taking advantage of this general sentiment; I at once proceeded to raise a Volunteer company of citizens and procured pistols and shot-guns with which they were and are armed. There is of course no organization, but with general accord, they readily act under my command. Upon two several nights the danger was alarmingly threatening. but the volunteers were on duty and prepared to give these lawless men, a warm reception. Whether it was owing to the fact, that we were prepared for them or not. I cannot say, but certain it is, they did not make their appearance. Still these men are about, and I am satisfied, that scarcely a day passes, that some of them are not in town. As we have no <hi rend="underline">legal</hi> proof against them, however strong our <hi rend="underline">moral</hi> convictions may be, we can do nothing with them by any arrest under the civil process.</p>
 <p>To organize this company of say thirty-two men (which is the<pb/>
-<lb/>number we have,) or more, as a constituent part of the State Guards, will be impossible under the General law, unless the same can be qualified by a General or Special Order, by which they can be assured, that they will not be called to do duty in any other part of the State. Can this be done? If it can, I feel pretty confident, that a company can be raised say from 30 to 60 men. The men who would thus go into it, are all resident citizens and mostly heads of families, who feel that they cannot leave their homes, without making greater sacrifices than they can well bear.</p>
+<lb/>number we have,) or more, as a constituent part of the State Guard, will be impossible, under the General law. unless the same can be qualified by a General or Special Order, by which they can be assured, that they will not be called to do duty in any other part of the State. Can this be done? If it can, I feel pretty confident, that a company can be raised say from 30 to 60 men. The men who would thus go into it, are all resident citizens and mostly heads of families, who feel that they cannot leave their homes, without making greater sacrifices than they can well bear.</p>
 <p>If any arrangement can be made or assurances given to the end desired, whereby they will be retained here, there will be no difficulty. For this reason, I feel it my duty to bring the matter before you, for your consideration and at the same time, in solicitation of your advice.</p>
-<p>There is such a total want of knowledge in Military affairs existing here, that I am compelled to depend alone upon my own imperfect and <hi rend="underline">rusty</hi> attainments in this respect, having no one upon whose judgment I can rely. The citizens however readily acquiesce in whatever I suggest except that they wholly neglect to elect any company officers in the Regiment. To effect this, is, I am sorry to say,) utterly impossible. It may be the result of a want of confidence in any person to command them either as Captains or Subalterns. If so, they are not to be blamed as there is hardly a single man, that I would trust to lead me.</p>
+<p>There is such a total want of knowledge in Military affairs existing here, that I am compelled to depend alone upon my own imperfect and <hi rend="underline">rusty</hi> attainments in this respect, having no one upon whose judgment I can rely. The citizens however readily acquiesce in whatever I suggest except that they wholly neglect to elect any company officers in the Regiment. To effect this, is, I am sorry to say,) utterly impossible. It may be the result of a want of confidence in any person to command them either as Captains or Subalterns. If so, they are not to be blamed, as there is hardly a single man, that I would trust to lead me.</p>
 <p>I shall be under obligations if you can make it convenient to let me hear from you, on the subject of this letter at as early a day as practicable. An organization somewhat more perfect that the rude one, we now have, ought to be effected, and a special<pb/>
-<lb/>appointment of the commander of the company or other officer to take command of this county, ought to be made by His Excellency.</p>
-<p>If I consent to receive it, I can have the command of the company when organized, by an election.</p>
+<lb/>appointment of the Commander of the Company or other officer to take command of this County, ought to be made by His Excellency.</p>
+<p>If I consent to receive it, I can have the command of the Company when organized, by an election.</p>
 <p>With great respect
 <lb/>Your Obt Servt.
 <lb/>G. C. Hallet
-<lb/>Col Commanding 40<hi rend="sup">th</hi> Ky Militia<pb/></p>
+<lb/>Col Commanding
+<lb/>40<hi rend="sup">th</hi> Ky Militia.<pb/></p>
 <p>Hickman Ky
 <lb/><date when="1864-02-20">Feby 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
 <lb/>Hallet Col G. C.</p>
-<p>Asks assurance that if Co of S. Gds are raised for the defense of his County they will not be compelled to do duty in any other post of the State<figure type="hr"/></p>
-<p>Ans Assurance given <date when="1864-02-26">Feby 26/64</date> see Letter book A. p 150<figure type="hr"/>
+<p>Asks assurance that if Co of S. Gds are raised for the defense of his County they will not be compelled to do duty in any other part of the State<figure type="hr"/></p>
+<p>Ans assurance given <date when="1864-02-26">Feby 26/64</date>
+<lb/>see Letter book A. p 150<figure type="hr"/>
 <lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> I. G. O. <date when="1864-02-26">Feby 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
   </body>
  </text>

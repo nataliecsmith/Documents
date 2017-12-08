@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0286"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">W. B. Roberts et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">J. F. Hawkins et al. to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4405</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,96 +62,96 @@
  </teiHeader>
  <text>
   <body>
-   <p><unclear/> Excelency Thomas E Bramlette
+   <p><unclear/> Excellensy Thomas E Bramlette
 <lb/>Governor of the State of Kentucky</p>
-<p>The undersigned petitioners citizens of Owen County ^living at new Liberty &amp; vicinity^ would respectfully represent to your Eexcilancy that at the <date when="1863-11">November term 1863</date> of the Owen Circuit Court three judgments of two hundred Dollars each were rendered against Lewis Krutz ^living at New Liberty^ under indictments for suffering gambling upon his premises</p>
-<p>Your petitioners would further represent that said Lewis Krutz is a clever good natured man &amp; we believe that he <hi rend="str">agai</hi> ^has been^ frequently imposed upon by men in the habit of playing cards for money</p>
-<p>We would also represent that said Krutz is a good citizen &amp; a poor man &amp; has a large family of small children dependent upon him for daily suport &amp; if he is compelled to pay the aforesaid judgments his family will suffer great inconvenience &amp; hardship Your petitioners believe it would be an act of justice on the part of your Excelency to remit the aforesaid fines <hi rend="str">will</hi> We also believe that the fees of the offices of the court will be a sufficient penalty &amp; that said Krutz will here after prohibit gambling upon his premises. We of which it respectfully submitted</p>
+<p>The undersigned petitioners citizens of owen County ^living at new Liberty &amp; vicinity^ would respectfully represent to your Ecxcilancy that at the <date when="1863-11">November term 1863</date> of the Owen Circuit Court three judgments of two hundred Dollars each were rendered against Lewis Krutz ^living at new Liberty^ under indictments for suffering gambling upon his premises</p>
+<p>Your petitioners would further represent that said Lewis Krutz is a clever good natured man &amp; we believe that he <hi rend="str">was</hi> ^has been^ frequently imposed upon by men in the habit of playing cards for money</p>
+<p>We would also represent that said Krutz is a good citizen &amp; a poor man &amp; has a large family of small children dependent upon him for daily suport &amp; if he is compelled to pay the aforesaid judgments his family will suffer great inconvenience &amp; hardship Your petitioners believe it would be an act of justice on the part of your Excelency to remit the aforesaid fines <hi rend="str">will</hi> We also believe that the fees of the officers of the court will be a sufficient penalty &amp; that said Krutz will here after prohibit gambling upon his premises. All of which is respectfully submitted</p>
 <p><milestone unit="column" n="2"/><cb n="1"/><hi rend="str">Grand Jurors</hi>
-<lb/>J J. Hawkins foreman Grand ^jury^
-<lb/>J G Juritt
-<lb/>John J. M<hi rend="sup">c</hi>Hatton
-<lb/>L. Montgomery
-<lb/>Joseph Kincock
+<lb/>J F. Hawkins foreman Grand ^jury^
+<lb/>J L Jurritt
+<lb/>John B. M<hi rend="sup">c</hi>Hatton
+<lb/>L. montgomery
+<lb/>Joseph <unclear>Kincock</unclear>
 <lb/>J D Perkins
-<lb/>M L Kinnon
-<lb/><cb n="2"/>W. B. Robert County Judge
-<lb/>Darnel English Clerk County <unclear/>
-<lb/>James Haydon Deputy Sheriff
-<lb/>John Schollen
-<lb/>G. Garnett
-<lb/>Wm Hicks Jailer O <hi rend="sup">CO</hi><pb/>
-<lb/><cb n="1"/>W A Bond Juror
+<lb/><unclear>M</unclear> L Kinnon
+<lb/><cb n="2"/>W. B. Roberts County Judge
+<lb/>Duval English Clerk County
+<lb/>James Haydon Deputy Sheriff.
+<lb/>John. Scholler
+<lb/><hi rend="underline">G. Garnett</hi>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Hicks Jailer O. <hi rend="sup">CO</hi><pb/>
+<lb/><cb n="1"/>W A. Bond Juror
 <lb/>Henry Blanton Juror
 <lb/>Abe Winscott
-<lb/>J. D. Lillard Members ^of the Bar^
-<lb/>H. P. Montgomery atty for Owen County.
+<lb/>J. D. Lillard Member ^of the Bar^
+<lb/>H. P. Montgomery atty for Owen county -- 
 <lb/>James H. Parker Owen Co Bar
 <lb/><hi rend="underline">Th N Lindsey
 <lb/>G. W. Craddock
 <lb/></hi>G S. Low Master Com<hi rend="sup">r</hi>.
-<lb/>P H Smith M L<hi rend="sup">o</hi>
+<lb/>P H Smith M D.
 <lb/>J A Duncan Owen Co Bar
-<lb/>W H Sandford CK Owen Circt Ct
-<lb/>L. Sanoford D. C ". ". ".
-<lb/>A. J. Mason Owen Co bar
+<lb/>W H Sandford Ck Owen Circt ct
+<lb/>L. Sandford D. C ". ". ".
+<lb/>A, J, Mason Owen Co bar
 <lb/>Joseph Blackwell Atty
 <lb/>T Gayle
-<lb/>Rob<hi rend="sup">t</hi> Long one of the Jury
-<lb/>W<hi rend="sup">m</hi>. Scruggs
-<lb/>Jas M Brown Sheriff O C
-<lb/>G. H. Gale
+<lb/>Robt. Long one of the Jury
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Scruggs
+<lb/>Jas M Brown Sheriff o c
+<lb/>R. H. Gale
 <lb/>G. West
 <lb/>James Gayle
 <lb/>J. W. Smith
-<lb/>R. H. Munday US Offices
-<lb/>E. C. Tandy C. O. C "
+<lb/>R, H, Munday u s officer
+<lb/>E. C. Tandy C. O. C
 <lb/>Jesse Foster
-<lb/>H Stamper J. P. O. C
+<lb/>H Stamper J P. O. C
 <lb/>Ben F Sidebottom C. O. C
 <lb/>B. D. Kemper
-<lb/>J. P. Orr <hi rend="str">H</hi>
-<lb/>Ed D Hogan D C; Co Ct
+<lb/>J. P. Orr <hi rend="str"><unclear/></hi>
+<lb/>Ed D Hogan D C, Co Ct
 <lb/><cb n="2"/>Geo. C. Roberts
 <lb/>G T Ford
-<lb/>J A Kearn
+<lb/>J A Hearn
 <lb/>Isaac Jacobs
-<lb/>Wm M<hi rend="sup">c</hi>Pherson
-<lb/>Wm <unclear>Lehnrityhor</unclear> 
-<lb/>H. P. Gossup
-<lb/>Lewis Jefler
-<lb/><unclear/> <unclear/>
-<lb/>J W Bottomwiser
+<lb/>W<hi rend="sup">m</hi> Mcpherson
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> <unclear>Lehnretyhor</unclear> 
+<lb/>H. P. Gossage
+<lb/>Levi Jefler
+<lb/><unclear/> <unclear>Lequenier</unclear>
+<lb/><hi rend="underline">J W Bottenwiser</hi>
 <lb/>W. P. Bacon Post Master
 <lb/>J. A. Suter
-<lb/>R. Wafford Grd Jury
-<lb/>H Warrow
-<lb/>H. Sanford
+<lb/>R, Wafford Grd Jury
+<lb/>H Marrow
+<lb/>H,, Sanford
 <lb/>Howard Todd
-<lb/>Tho<hi rend="sup">s</hi>. H Ritchey. Jouror
-<lb/>T W Stara<unclear/> Juror
-<lb/>D Corder D. M.
-<lb/>C. S. Willhoitt Juror
-<lb/>B G Cass Jr Jury
-<lb/>J. A. Moore D<hi rend="sup">s</hi> of Owen
-<lb/>John S. Schooler Juror
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> H Ritchy, Jouror
+<lb/>T W St<unclear/> Juror
+<lb/>D Conder D. M.
+<lb/>C. S. Willhoite Juror
+<lb/>B Glass Jr Jury
+<lb/>J. A. Moore D<hi rend="sup">s</hi> of owen
+<lb/>John S Schooler Juror
 <lb/>W<hi rend="sup">m</hi> M Suter Juror
-<lb/>A. P. G Rober
-<lb/>Louis Todd Deputy Sheriff OC
+<lb/>A. P. Grover
+<lb/>Louis Todd Deputy Sheriff O C
 <lb/>Dudley Smith
 <lb/>A. B. Roberts
-<lb/>A. G. Mothersheal
+<lb/>A. G. Mothershien
 <lb/>Peter D. Smith<milestone unit="column" n="1"/><pb/></p>
 <p>Owen Cir. Ct
 <lb/>vs
 <lb/>Lewis Krutz
 <lb/>Gaming
-<lb/>$600 -- 
-<lb/>Remt<hi rend="sup">d</hi> <date when="1863-11-23">23<hi rend="sup">d</hi> Nov/ 63</date></p>
-<p>Remit all except costs &amp; fees
-<lb/>Tho E Bramlette
-<lb/>Gov<hi rend="sup">r</hi>.</p>
-<p>To P. C. Smith Owenton Ky</p>
+<lb/>&#36;600 -- 
+<lb/>Remt<hi rend="sup">d</hi> <date when="1863-11-23">23<hi rend="sup">d</hi> Nov/63</date></p>
+<p>Remit all except costs &amp; fees</p>
+<p>Tho E Bramlette
+<lb/>Go<hi rend="underline"><hi rend="sup">vr</hi></hi></p>
+<p>To P. C. Smith owenton Ky -- </p>
   </body>
  </text>
 </TEI>

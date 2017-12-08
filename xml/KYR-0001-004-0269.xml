@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0269"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,8 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Munfordville, Hart County, Kentucky</placeName>
-    <date when="1863-11-10">10 November 1863</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -60,56 +62,56 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the Governor of the State of Kentucky your petitioners would represent that at the April Term 1861 of the Hart Equity &amp; Criminal Court Richard Murray was fined in the sum of $100. together with costs &amp;c upon a charge for carrying concealed deadly weapons. Now your petitioners would further represent that said Richard Murray is a poor <hi rend="str">young</hi> man ^of family^ and is wholly unable to pay said fine <hi rend="str">Wher</hi> and that they believe his case is one in which the power your excellency has of remitting fines may be properly exercised he is unable to labor by reason of having accidently shot himself.</p>
-<p>G. T. Wood
-<lb/><milestone unit="column" n="2"/><cb n="1"/>R S Thomas
-<lb/>Walker Shiff
+   <p>To the Governor of the State of Kentucky your petitioners would represent that at the <date when="1861-04">April Term 1861</date> of the Hart Equity &amp; Criminal Court Richard Murray was fined in the sum of &#36;100. together with costs &amp;c upon a charge for carrying concealed deadly Weapons. Now your petitioners would further represent that said Richard Murray is a poor <hi rend="str">young</hi> man ^of family^ and is wholly unable to pay said fine. <hi rend="str">Who</hi> and that they believe his case is one in which the power your excellency has of remitting fines may be properly exercised he is unable to labor by reason of having accidently shot himself.</p>
+<p><hi rend="underline">G. T. Wood
+<lb/></hi><milestone unit="column" n="2"/><cb n="1"/>R S Thomas
+<lb/>Walker Shipp
 <lb/>J R Leslie
-<lb/>John L Robertson
+<lb/>John. L Robertson
 <lb/>W. W. Cates
-<lb/>J. R. Newton
+<lb/>J,, R,, Newton
 <lb/>J. L. Tharp
 <lb/>G B Tharp
 <lb/>John S Thornberry
-<lb/>J. M. C Road
+<lb/>J. M. C. Road
 <lb/>John Shipp
-<lb/>Saml Hodges
-<lb/>J Chase
+<lb/>Saml, Hodges
+<lb/>J. Chase
 <lb/>Stokeley Smith
-<lb/>Jeremiah Sumkin
+<lb/>Jeremiah Larkin
 <lb/>Jesse C Durham
-<lb/>J. A. Waldick
+<lb/>J. A. Waldeck
 <lb/>J. T. Bumgardner
-<lb/><cb n="2"/>H M Shuffitt
-<lb/>Jno. Dongan
+<lb/><cb n="2"/>H W Shuffett
+<lb/>Jno. Dongen
 <lb/>Jas H. Camston
-<lb/>W B Brown
-<lb/>A. N. Earlow
-<lb/>Alx McHatton
-<lb/>H Legett
-<lb/>J. B. Chapline
-<lb/>Wm Gardner
+<lb/>W B. Brown
+<lb/>A. V. Enlow
+<lb/>Alx M<hi rend="sup">c</hi>Hatten
+<lb/>H Legette
+<lb/>J. B Chapline
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Gardner
 <lb/>B. L. Kerr
-<lb/>W<hi rend="sup">m</hi> Knight Sr
-<lb/>M B Crocher
+<lb/>W<hi rend="sup">m</hi> Knight S<hi rend="sup">r</hi>
+<lb/>M B Carcher
 <lb/>T A Smith
 <lb/>W R Wheat<milestone unit="column" n="1"/><pb/></p>
 <p>Munfordville Ky <date when="1863-11-10">10th Nov. 1863</date></p>
-<p>D<hi rend="sup">r</hi>. Sir- Please to present this petition to the Gov<hi rend="sup">r</hi> &amp; try and get him to remit the fine. It is utterly impossible for Dick Murray to pay the fine- he is very poor with a family- and he is now a cripple and will be ^for^ life he accidentally shot himself a few days since</p>
+<p>D<hi rend="underline"><hi rend="sup">r</hi></hi> Sir- Please to present this petition to the Gov<hi rend="underline"><hi rend="sup">r</hi></hi> &amp; try and get him to remit the fine. It is utterly impossible for Dick Murray to pay the fine- he is very poor with a family. and he is now a cripple and will be for life he accidentally shot himself a few days since</p>
 <p>Yrs &amp;c
 <lb/>Jno Donan</p>
-<p>Jas A Dawson
-<lb/>send remission to me if you get it as the Sheriff wants it as soon as it comes</p>
-<p>Hart Equity &amp; Criminal
+<p>Jas A Dawson</p>
+<p>send remission to me if you get it as the Sheriff wants it as soon as it comes</p>
+<p>Hart Equity &amp; Criminal Ct
 <lb/>vs
 <lb/>Richard Murray
-<lb/>To Pet</p>
-<p>Remit except fees &amp; costs
-<lb/>Thos E Bramlette
-<lb/>Deadly Weapons
-<lb/>$100 -- 
-<lb/><date when="1863-11-16">16th Nov/ 63</date></p>
-<p>I could get any number of names to the petition but you can explain to the Gov that the petitioners -- live in Hammonsville the village where Dick lives. &amp; by citizens here he had a fight with John Thornsberry about which he was fined for having a pistol. The Gov can see that John Thornsberry has signed the petition -- in War times like these I think every man ought to be allowed to wear weapons in fact I believe the law is repealed</p>
+<lb/>To &#125; Pet</p>
+<p>Remit except fees &amp; costs</p>
+<p>Thos E Bramlette</p>
+<p>Deadly Weapons
+<lb/>&#36;100 -- 
+<lb/><date when="1863-11-16">16<hi rend="sup">th</hi> Nov/63</date></p>
+<p>I could get any number of names to the petition but you can explain to the Gov that the petitioners -- live in Hammonsville the village where Dick lives. &amp; by citizens here he had a fight with John Thornsberry about which he was fined for having a pistol -- The Gov can see that John Thornsberry has signed the petition -- in War times like these I think every man ought to be allowed to wear weapons in fact I believe the law is repealed</p>
 <p>Donan</p>
   </body>
  </text>

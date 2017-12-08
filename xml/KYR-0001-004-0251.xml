@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0251"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,64 +63,64 @@
  <text>
   <body>
    <p>To. Gov Bramlette
-<lb/>Governor of Kentucky</p>
-<p>The Undersigned petitioners Would Respectfully Represent that at the <date when="--09">September Term</date> of the M<hi rend="sup">c</hi>Lean Circuit Court, a Judgment Was Obtained against D H Jones for Fifty Dollars for Keeping a Tipling House We would Represent that Mr. Jones is a Druggist in the Town of Calhoun and if he kept a Tipling it Was Under Circumstances Such that We think Executive Clemency Should be Used and Who Respectfully ask that the fine against Mr Jones be Remitted and We Will Ever</p>
-<p>Yours truly
-<lb/><milestone unit="column" n="2"/><cb n="1"/>W. B. Rose
+<lb/>Governor of. Kentucky</p>
+<p>The. Undersigned petitioners Would Respectfully Represent that at the <date when="--09">September Term</date> of the M<hi rend="sup">c</hi>Lean Circuit Court, a Judgment Was, Obtained against D H Jones for Fifety Dollars. for. Keeping a Tipling House Wee Would Represent, that. Mr. Jones, is a Druggist in the Town, of Calhoon and if he kept. a Tipling it Was Under, Circumstances Such that. We think Executive Clemency Should be used and We Respectfully ask that the fine against mr Jones be Remitted and We Will Ever 
+<lb/>Yours truly</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>W, B Rose
 <lb/>Isaac Vertrees
-<lb/>D T Mosby
-<lb/>Philip F Lockett
+<lb/>D T Moseley
+<lb/>Philip, F, Lockett
 <lb/>Azro Dyer
 <lb/>A. H. Edwards
-<lb/><hi rend="underline">H D Bassett</hi>
+<lb/><hi rend="underline">H D, Bassett</hi>
 <lb/>C G Clark
-<lb/>James Landman
-<lb/>Cam Moseley
+<lb/>James Landrum
+<lb/>Cam,, Moseley
 <lb/>Lot Cooper
-<lb/>S H Jung Edden
-<lb/>L. B. Dillard
-<lb/>H F Robards
+<lb/><unclear>S H Jung ELder</unclear>
+<lb/>L, B, Dillard
+<lb/>F F,, Robards
 <lb/>Robert Dicken
-<lb/>W<hi rend="sup">m</hi> G Day
-<lb/><cb n="2"/>Wm Calhoun
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> G Day
+<lb/><cb n="2"/>Wm Calhoon
 <lb/>Alf C Turner
 <lb/>L W Gates
 <lb/>R. W. Allen Provost Marshal M<hi rend="sup">c</hi>Lean Co Ky
 <lb/>J M Payne
-<lb/>T. M. Condit
-<lb/>W. J. Mosely
-<lb/>John Vanhorras
-<lb/>Ch. Schroeder
-<lb/>John Eininier
+<lb/>T. M. Conditt
+<lb/>W, J, Mosely
+<lb/>John, Vanhorn,
+<lb/>Ch. Schroeder,
+<lb/>John Einmier
 <lb/>W C Mosly
 <lb/>S. C. Riggs
 <lb/>L Bracket
-<lb/>R. P. Siske
+<lb/>R, P, Siske,
 <lb/>Thomas C Tichner
 <lb/>Jacob M<hi rend="sup">c</hi>Laughlin
 <lb/>Logan Riggs
-<lb/>Benj H. Franklin<milestone unit="column" n="1"/><pb/>
+<lb/>Benj, H, Franklin<milestone unit="column" n="1"/><pb/>
 <lb/>L M Harris
-<lb/>Ben. F. Harratson
+<lb/>Ben, F, Harralson
 <lb/>Bird Bracket
 <lb/>Howard Pinkestun
 <lb/>Hilton Tanner
-<lb/>James ^his x mark^Welch
-<lb/><hi rend="underline">Hugh Jordan</hi>
-<lb/>James Porter
-<lb/>W. T. Gipson
-<lb/>W J A Johnston
-<lb/>Thornby Atchison
-<lb/>T. A. Edwards
+<lb/>James ^his X mark^ <unclear>Welch</unclear>
+<lb/>Hugh Jordan
+<lb/><hi rend="underline">James Porter</hi>
+<lb/>W, T, Gipson
+<lb/>W J, A, Johnston
+<lb/>Thornley Atchison
+<lb/>T. A, Edwards
 <lb/>William ^his X mark^ Riggs
-<lb/>W Bohannon<pb/></p>
-<p>McLean Cir Ct
+<lb/>W. Bohannon<pb/></p>
+<p>M<hi rend="sup">c</hi>Lean Cir Ct
 <lb/>vs
-<lb/>D H Jones</p>
+<lb/>D H. Jones</p>
 <p>Refused
 <lb/>Tho E Bramlette</p>
-<p><date when="1863-11-10">10th Nov/ 63</date>
-<lb/>ansd</p>
+<p><date when="1863-11-10">10<hi rend="sup">th</hi> Nov/63</date>
+<lb/>ans<hi rend="sup">d</hi></p>
   </body>
  </text>
 </TEI>

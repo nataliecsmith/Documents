@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0197"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,27 +62,27 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Thomas E. Bramlett
+   <p>To his Excellency Thomas. E. Bramlett
 <lb/>Governor of Kentucky,</p>
-<p>Your petitioner John M<hi rend="sup">c</hi>Bride would respectfully represent to your Excellency that he was endicted by the Grand Jury for the city of Louisville for keeping a Disorderly House also at the same time for keeping a tipling House boath inditiments were tried at a court held in the month of <date when="--05">May</date> last on the first petitioner was fined one hundred dollars on the second sixty dollars The proof in the first case <hi rend="str">was</hi> on the part of the State was that woman of evil fame were liveing in petitioners House and were often heard to use bad Language to the disturbance of the Neighborhood The proof on the part of Dft was that he occupyed a large House with more rooms than was necessary for his Family that he was compelled to rent out a portion of said House that woman rented Rooms in said House representing themselfs as the wifes of Soldiers who were in the servis of the United State Petitioner after discovering that he had been imposed on and deceived took Legal Steps and ejected said woman from his premises by an action of Forcible Detainer all of which was proven by a Justice of the peace and Sheriff</p>
-<p>The second case the proof on the part of the state showed that Dft sold Liquor by the drink some six months previous to the trial Dft filed his Licens to keep a Coffee House from the city and allso from the Government<pb/>
-<lb/>and should by proof that at the time his application for said Licens were pending before the General Council of said City he had sold Liquor by retail notwithstanding the proof the Jury found petitioner Gilty and found him as aforesaid to wit the first case $100.00 and the second case sixty petitioner has paid one hundred and fifteen dollars on said Fines he would respectfully pray your Excellency to remit the remainder of said fines</p>
-<p>Petitioner would respectfully <hi rend="str">stat</hi> state farther that he is very poor and not able to pay the balance on said fines has a large Family to support he hopes your Excellency will exercise Clemency in the matter and remit the remainder respectfully John McBride</p>
-<p>I concur with W S Reasor in his statement in his representation of this case</p>
-<p>W R Hyan
-<lb/>City Marshall</p>
-<p>Under the circumstances I think the remaining portions of the fines $45 should be remitted</p>
-<p>Geo W Johnston</p>
-<p>The Petitioner, John McBride is an industrious man, &amp; poor. There was some ill feeling manifested by some neighbors against him, in the procescution of the cases mentioned in the Petition. Cases frequently, occur now, in our city, when good men, are deceived by the false representations of <hi rend="underline">bad women</hi>, who represent themselves to be the wives of soldiers &amp; <hi rend="underline">now</hi> I have every reason to believe, that Mr McBride was imposed on and as soon as he found out the true chracter the women who had rented some rooms from him he Ejected them by lawful means, I respectfully Join with him in the his petition</p>
+<p>Your petitioner John M<hi rend="sup">c</hi>Bride would respectfully represent to your Excellency that he was endited by the Grand jury for the city of Louisville for Keeping a Disorderly House also at the same time for Keeping a Tipling House boath inditements were tried at a court held in the month of <date when="--05">May</date> last on the first petitioner was fined one hundred dollars on the second sixty dollars The proof in the first case <hi rend="str">was</hi> on the part of the State was that woman of evil fame were living in petitioners, House and were often heard to use bad Language to the disturbance of the Neighborhood The proof on the part of Dft was that he occupyed a large House with more room than was nessessary for his Family that he was compelled to rent out a portion of said House that woman rented Rooms in said House representing themselfs as the wifes of Soldiers who were in the servis of the United States Petitioner after discovering that he had been imposed on and deceived took Legal Steps and ejected said woman from his premises by an action of Forcible Detainer -- all of which was proven by a Justice of the peace and Sheriff</p>
+<p>The second case the proof on the part of the state Showed that Dft Sold Liquor by the drink some six months previous to the trial Dft filed his Licens to Keep a Coffee House from the city and allso from the Government<pb/>
+<lb/>and showed by proof that at the time his application for said Licens were pending before the General Council of said City he had sold Liquor by retail notwithstanding the proof the Jury found petitioner Gilty and found him as aforesaid to wit the firt case &#36;100.00 and the second case sixty petitioner has paid One hundred and fifteen dollars on said Fines he would respectfully pray your Excellency to remit the remainder of said fines</p>
+<p>petitioner would respectfully <hi rend="str">stat</hi> state farther that he is very poor and not able to pay the balance on said fines has a large Famlly to support he hopes your Excellency will exercise Clemency in the matter and remit the remainder respectfully John M<hi rend="sup">c</hi>Bride</p>
+<p>The Petitioner, John McBride is an industrious man, &amp; poor. There was some ill feeling manifested by some neighbors against him, in the prosecution of the cases mentioned in the Petition. Cases frequently, occur now, in our city, when Good men, are deceived by the false representations of <hi rend="underline">bad women</hi>, who represent themselves to be the wives of soldiers -- &amp; <hi rend="underline">now</hi> I have Every reason to believe, that Mr McBride was imposed on -- and as soon as he found out the true character the women who had rented some rooms from him-he Ejected them by lawful means, I respectfully Join with him in the his petition</p>
 <p>W. G. Reasor
-<lb/>city atto<pb/></p>
+<lb/>city atto</p>
+<p>I concur with W G Reasor in his statement in his representation of this case</p>
+<p>W R Hyan
+<lb/>City Marshal</p>
+<p>Under the circumstances I think the remaining portions of the fines &#36;45 should be remitted</p>
+<p>Geo W Johnston<pb/></p>
 <p>Louisville City Court
 <lb/>vs
-<lb/>J. M<hi rend="sup">c</hi>Bride
-<lb/>$60
+<lb/>J, M<hi rend="sup">c</hi>Bride
+<lb/>&#36;60.
 <lb/>Tipling</p>
-<p>Remit judgment except attys fees &amp; costs <date when="1863-10-22">22<hi rend="sup">d</hi> Oct/ 63</date>
-<lb/>Tho E Bramlette</p>
+<p>Remit judgment except attys. fees &amp; Costs <date when="1863-10-22">22<hi rend="sup">nd</hi> Oct/63</date></p>
+<p>Tho E Bramlette</p>
   </body>
  </text>
 </TEI>

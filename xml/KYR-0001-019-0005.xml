@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0005"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Fort Bragg, California</placeName>
+    <placeName>Fort Bragg, Mendocino County, California</placeName>
     <date when="1861-01-08">8 January 1861</date>
    </creation>
    <textClass>
@@ -64,18 +67,18 @@
 <lb/><date when="1861-01-08">Jan. 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>.
 <lb/>Sir</p>
 <p>I have just this moment heard that South Carolina has left the Union. I do not know what Kentucky has done, nor what she intends to do, but she cannot go wrong and I am with her heart soul and body.</p>
-<p>When she requires my services they are at your commands.</p>
-<p>Whilst she is in the Union I am an office in the United States Army, when she goes out please enroll my name as a private in one of the companies of the Kentucky State Guard, report me "absent with leave," order me to my post and I will obey immediately.</p>
+<p>When She requires my services they are at your commands.</p>
+<p>Whilst she is in the Union I am an officer in the United States Army, when she goes out please enroll my name as a private in one of the companies of the Kentucky State Guard, report me "absent with leave," order me to my post and I will obey immediately.</p>
 <p>Very respectfully
 <lb/>Your Obt. Svt
 <lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> P. Martin
 <lb/>Bat. 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lt. 6<hi rend="underline"><hi rend="sup">th</hi></hi> Inf<hi rend="underline"><hi rend="sup">ty</hi></hi>
 <lb/>U. S. A.</p>
-<p>His Excellency B. Magoffin
+<p>His Excell<hi rend="str">a</hi>ency B. Magoffin
 <lb/>Gov. of Kentucky
 <lb/>Frankfort
-<lb/>KY -- <pb/>
-<lb/>Lieut Martin</p>
+<lb/>KY -- <pb/></p>
+<p>Lieut Martin</p>
   </body>
  </text>
 </TEI>

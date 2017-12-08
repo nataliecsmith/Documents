@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0106"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,9 +63,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort <date when="1861-07-18">July 18 61</date>
+   <p>Frankfort <date when="1861-07-18">July 18 61.</date>
 <lb/>S Black
-<lb/>To Telegraph office
+<lb/>To Telegraph Office
 <lb/><table rend="rules">
 <row>
 	<cell> </cell>
@@ -72,7 +75,7 @@
 </row>
 <row>
 	<cell>Feby</cell>
-	<cell>6</cell>
+	<cell><date when="1861-02-06">6</date></cell>
 	<cell>Dispatch to Geotown</cell>
 	<cell>30</cell>
 </row>
@@ -84,37 +87,37 @@
 </row>
 <row>
 	<cell>"</cell>
-	<cell>18</cell>
-	<cell>" To Kellog Lan</cell>
+	<cell><date when="1861-02-18">18</date></cell>
+	<cell>" To Kellogg Lou</cell>
 	<cell>45</cell>
 </row>
 <row>
 	<cell>"</cell>
-	<cell>25</cell>
+	<cell><date when="1861-02-25">25</date></cell>
 	<cell>" " " "</cell>
 	<cell>35</cell>
 </row>
 <row>
 	<cell>Mch</cell>
-	<cell>6</cell>
-	<cell>" " Stevens Lx</cell>
+	<cell><date when="1861-03-06">6</date></cell>
+	<cell>" " Stevens Lex</cell>
 	<cell>40</cell>
 </row>
 <row>
 	<cell>"</cell>
-	<cell>8</cell>
-	<cell>" " &amp; from Madison</cell>
+	<cell><date when="1861-03-08">8</date></cell>
+	<cell>" " &amp; from <hi rend="str">Lex</hi>Madison</cell>
 	<cell>80</cell>
 </row>
 <row>
 	<cell> </cell>
-	<cell>30</cell>
-	<cell>" from Safe &amp;</cell>
+	<cell><date when="1861-03-30">30</date></cell>
+	<cell>" from <unclear>Safe</unclear> L</cell>
 	<cell>35</cell>
 </row>
 <row>
 	<cell>" </cell>
-	<cell>31</cell>
+	<cell><date when="1861-03-31">31</date></cell>
 	<cell>" to &amp; from Cincinnati</cell>
 	<cell><hi rend="underline">90</hi></cell>
 </row>

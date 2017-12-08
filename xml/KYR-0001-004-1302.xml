@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1302"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,33 +63,33 @@
  </teiHeader>
  <text>
   <body>
-   <p>Dover Ky <date when="1864-11-18">Novr. 18<hi rend="sup">th</hi> 1864</date>
+   <p>Dover Ky <date when="1864-11-18">Novr. 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
 <lb/>To His Excellency,
 <lb/>The Governor of Kentucky -- </p>
-<p>The undersigned citizens of Dover Mason County Kentucky, would respectfully represent that, at the <date when="1864-10">October</date> Term of the Mason Circuit Court, Arthur F. Dobyns was fined the sum of Two hundred dollars, under circumstances, which lead us to invoke the Executive clemency in his behalf.</p>
-<p>Mr. Dobyns was indicted and fined under the law, which prohibits any one from allowing gaming on his premises: And while that law meets with our hearty sanction and approval; we are, in his case, reminded most forcibly, that laws just and humane in their general operation, are often in individual instances oppressive and unjust. Mr Dobyns it appears from the evidence adduced upon the trial allowed a party of of gentlemen at his private residence; to indulge in a game of cards, the object of which must have ^been^ amusement, as the sums bet were too insignificant to deserve the name of gaming. He very frankly admitted to the Court that he and his friends, (as was customary in the neighborhood) occassionally, at his house, played games of cards the main object of which was pastime. And though small sums of money were bet at these games, he never, for a moment, thought they constituted a legitimate subject of enquiry for a Grand-Jury. Even the Court, as we are informed, in adjudging the fine against him, regretted its want of discretion in the case.</p>
+<p>The undersigned citizens of Dover Mason County Kentucky, would respectfully represent that, at the <date when="1864-10">October</date> Term of the Mason Circuit Court, Arthur F. Dobyns was fined the sum of Two hundred dollars, under circumstances which lead us to invoke the Executive clemency in his behalf.</p>
+<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> Dobyns was indicted and fined under the law, which prohibits any one from allowing gaming on his premises: And while that law meets with our hearty Sanction and approval; we are, in his case, reminded most forcibly, that laws just and humane in their general operation, are often in individual instances oppressive and unjust. Mr Dobyns it appears from the Evidence adduced upon the trial allowed a party of of gentlemen at his private residence; to indulge in a game of cards, the object of which must have ^been^ amusement, as the sums bet were too insignificant to deserve the name of gaming. He very frankly admitted to the Court that he and his friends, (as was customary in the neighborhood) occassionally, at his house, played games of cards the main object of which was pastime. And though small sums of money were bet at these games, he never, for a moment, thought they constituted a legitimate Subject of Enquiry for a Grand-Jury. Even the Court, as we are informed, in adjudging the fine against him, regretted its want of discretion in the case.</p>
 <p>In view of the above statements, the undersigned pray the fine may be remitted.</p>
 <p>Most Respectfully.<pb/>
 <lb/>J. C. Mitchell
 <lb/>Tho A Curran
 <lb/>F W Long
-<lb/><hi rend="str">P</hi> P N. Jennings
+<lb/>J P N. Jennings
 <lb/>Marcus Anderson
 <lb/>Tho P Anderson
 <lb/>Ethan Anderson
 <lb/>B L Bacon
-<lb/><unclear>S. S. Yen</unclear>
-<lb/>Rob<hi rend="sup">r</hi>. Y. Evans
+<lb/>S. S <unclear>Tene</unclear>
+<lb/>Rob<hi rend="sup">t</hi> Y. Evans
 <lb/>M Smith
-<lb/>W<hi rend="sup">m</hi> Jennings
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Jennings
 <lb/>John, Anderson
 <lb/>John Brock
-<lb/>John. F. Tabb
+<lb/>John. G. Tabb
 <lb/>T. W. Bledsoe
 <lb/>W B Crupper
 <lb/>T. C. Westfall
 <lb/>E. A. Gibbons.
-<lb/>Rich<hi rend="sup">d</hi> C. <unclear>Serhann</unclear>
+<lb/>Rich<hi rend="sup">d</hi> C. <unclear>Terhune</unclear>
 <lb/>W. D. Jennings
 <lb/>P. J. Anderson
 <lb/>N. F. Conway
@@ -95,7 +98,7 @@
 <p>Mason Cir Ct
 <lb/>vs
 <lb/>A. F. Dobyns
-<lb/>$200,
+<lb/>&#36;200.
 <lb/>Remitted
 <lb/><date when="1865-01-12">12<hi rend="sup">th</hi> Jany/65</date></p>
   </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0022"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,20 +64,20 @@
  <text>
   <body>
    <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
-<lb/>KENTUCKY.</ab></figure>
-<lb/>Head-Quarters Kentucky Volunteers,
+<lb/>KENTUCKY.</ab></figure></p>
+<p>Head-Quarters Kentucky Volunteers,
 <lb/>ADJUTANT GENERAL'S OFFICE.
-<lb/>Frankfort, <date when="1864-10-04">October 4 1864</date>
+<lb/>Frankfort, <date when="1864-10-04">October 4' 1864.</date>
 <lb/>SPECIAL ORDERS,
-<lb/>NO. 67 </p>
-<p>Col P. G. Reese of the 45 Ky Militia is hereby ordered to take such portion of his command as he may deem necessary, and take possession of all properly captured by one Capt Johnson and any other Home or State Guard organization in Grayson County. He will hold such Officers until the property is given up or a satisfactory account of the disposition of some. He will make an inventory of said property designating such as was captured from Guerillas, and such as belonged to Citizens and recaptured, and send said inventory to Brig<hi rend="sup">r</hi> Genl S. G. Suddarth Quarter Master Genl Ky who will give him full instructions in regard to the disposition of said property. He will compel Capt Johnson to show his authority for acting or forming an Independent Company</p>
+<lb/>NO. 67. </p>
+<p>Col P. G. Reese of the 45' Ky Militia is hereby ordered to take such portion of his command as he may deem necessary, and take possession of all properly captured by one Capt Johnson and any other Home or State Guard organization in Grayson County. He will hold such Officers until the property is given up or a satisfactory account of the disposition of same. He will make an inventory of said property designating such as was captured from Guerillas, and such as belonged to Citizens and recaptured, and send said inventory to Brig<hi rend="sup">r</hi> Gen<hi rend="sup">l</hi> S. G. Suddarth Quarter Master Gen<hi rend="sup">l</hi> Ky who will give him full instructions in regard to the disposition of said property. He will compel Capt Johnson- to show his authority for acting or forming an Independent Company</p>
 <p>By command of the Governor:
-<lb/>(sgt) D W. Lindsey
-<lb/>Insp<hi rend="sup">r</hi> &amp; Adjurant General of Kentucky.</p>
+<lb/>(sgd) D W. Lindsey
+<lb/>Insp<hi rend="sup">r</hi> &amp; Adjutant General of Kentucky.</p>
 <p>A true Copy
 <lb/>Attest
 <lb/>D. W. Lindsey
-<lb/>Insp<hi rend="sup">r</hi> &amp; Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> of Ky</p>
+<lb/>Insp<hi rend="sup">r</hi> &amp; adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Ky</p>
   </body>
  </text>
 </TEI>

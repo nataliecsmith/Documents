@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0047"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">John Galvin et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">John Galvin to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4166</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,61 +64,60 @@
  <text>
   <body>
    <p>To the Hon -- Thomas E Bramlette Governor of the State of Kentucky:</p>
-<p>The undersigned Peitioner, John Galvin would respectfully represent and show to your Excellency that on the <date when="1863-08-21">21<hi rend="sup">st</hi> day of August 1863</date>: Two Indictments were returned by the Grand Jury into the City Court of Louisville: The one charging your Petitioner with carrying concealed a deadly weapon: The other with assault upon one Charles Harper. He states that both the Indictments were tried at the same time, and by the same Jury ^on the <date when="1863-09-10">10<hi rend="sup">th</hi> Septr 1863</date>^: That upon the charge of "carrying concealed a deadly weapon" your Petitioner was acquitted by the Jury and on the other charge of Assault: He was found guilty and fined the sum of One Hundred dollars &amp; costs &amp;c.</p>
-<p>Your Petitioner says that He humbly thinks that great injustice (unintentional) was done him. He says that by Trade ^He is^ a carriage-maker: which he has assiduously pursued, and is now pursuing for the support of himself and family; that Charles Harper also professes to be a Carriage-maker but that He idles his time away, and from some unaccountable cause, he seemed to take up some dislike to your petitioner, and would taunt him, in an unfriendly manner; when he would be drinking. and finally threatened your petitioner with an attack: and on the Evening of the difficulty your petitioner believeing he intended to carry out his threat: late in the Evening as your Peitioner was going home. Harper appeared suddenly before your Petitioner, and accosted him, your Petitioner being thus suddenly and roughly accosted by<pb/></p>
-<p>him, drew his pistol and fired without striking him: under the circumstances <hi rend="str">Know</hi> No one but Harper and Your Petitioner could see or Know of the matter: as the trial the law closed the month of your Petitioner, and the State used Harper as its witness who stated what He did state (and He did not state the whole Truth) under feelings of malice and revenge against your Petitioner: Your Petitioner states that He is poor and has a family to support and that He is unable to pay the fine assessed against him and He prays your Excellency to interpose your Executive clemeny in his behalf and remit to him the fine so unjustly imposed upon him: and will ever pray &amp;c:</p>
-<p>John Galvin</p>
+<p>The undersigned Petitioner, John Galvin would respectfully represent and shew to your Excellency that on the <date when="1863-08-21">21<hi rend="sup">st</hi> day of August 1863</date>: Two Indictments were returned by the Grand Jury into the city Court of Louisville: The one charging your Petitioner with carrying concealed a deadly weapon: The other with an Assault upon one Charles Harper He states that both the Indictments were tried at the same time, and by the same Jury: ^on the <date when="1863-09-10">10<hi rend="sup">th</hi> Septr 1863</date>^ That upon the charge of "carrying concealed a deadly weapon" your Petitioner was acquitted by the Jury, and on the other charge of Assault; He was found guilty and fined the sum of One Hundred dollars &amp; costs &amp;c.</p>
+<p>Your Petitioner says that He humbly thinks that great injustice (unintentional) was done him, He says that by Trade ^He is^ a carriage-maker: which he has assiduously pursued, and is now pursuing for the support of himself and family: that Charles Harper also professes to be a Carriage-maker, but that He idles his time away, and from some unaccountable cause, he seemed to take up some dislike to your petitioner, and would taunt him, in an unfriendly manner; when he would be drinking, and finally threatened your petitioner with an attack: and on the Evening of the difficulty Your petitioner believeing he intended to carry out his threat: late in the Evening as your Petitioner was going home. Harper appeared suddenly before your Petitioner, and accosted him, your Petitioner being thus suddenly and roughly accosted by<pb/>
+<lb/>him, drew his pistol and fired without striking him: under the circumstances <hi rend="str">Know</hi>No one but Harper and Your Petitioner could see or Know of the matter: on the trial the law closed the mouth of your Petitioner, and the State used Harper as its witness who stated what He did state, (and He did not state the whole Truth) under feelings of malice and revenge against your Petitioner: Your Petitioner states that He is poor, and has a family to support and that He is unable to pay the fine assessed against him, and He prays your Excellency to interpose your Executive clemeny in his behalf and remit to him the fine so unjustly imposed upon him: and will ever pray &amp;c:</p>
+<p><hi rend="underline">John Galvin</hi></p>
 <p>Subscribed and sworn to before me this <date when="1863-09-12">12<hi rend="sup">th</hi> day of September 1863</date>
-<lb/>Jo<hi rend="sup">s</hi> Clement Justice of the peace Jeff Co K.Y.</p>
+<lb/>Jo<hi rend="sup">s</hi> Clement, Justice of the peace Jeff Co K.Y.</p>
 <p>The undersigned citizens most respectfully join Mr John Galvin in the prayer of the above Petition</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Jo<hi rend="sup">s</hi>. G. Wilson
-<lb/>Possar Needham
-<lb/>J G Barret
-<lb/>Jo<hi rend="sup">s</hi> Clement
+<p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">Jo</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline">. G. Wilson</hi>
+<lb/><unclear><hi rend="underline">Edgar</hi></unclear> <hi rend="underline">Needham</hi>
+<lb/><hi rend="underline">J G Barret</hi>
+<lb/>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> Clement,
 <lb/>Justice of the peace
 <lb/>W K Thomas
-<lb/>Endersan Severson
-<lb/><cb n="2"/>Lovell H Rouseau
-<lb/>Saml S. Jones
+<lb/>Enders and Severson
+<lb/><cb n="2"/>Lovell H. Rousseau
+<lb/>Saml. S. Jones
 <lb/>M. S. Gross
 <lb/>Nathan White
 <lb/>James Bradley
-<lb/>E. Worthingham
+<lb/>E, Worthingham
 <lb/>R. Buser
 <lb/>F Madden
 <lb/>L. D. Pearson
-<lb/>C Bradley
-<lb/>W N Crawford<milestone unit="column" n="1"/><pb/>
+<lb/>C Bradley<milestone unit="column" n="1"/><pb/>
+<lb/>W W Crawford
 <lb/>George Doyle
-<lb/>Thomas Coleman
-<lb/>George Meadows
-<lb/>T. G. Waters
-<lb/>Wm Haas
-<lb/>Caleb W Logan
-<lb/>Tho Williams &amp; Co
-<lb/>Geo Brobbton
+<lb/><hi rend="underline">Thomas Coleman</hi>
+<lb/><hi rend="underline">George Meadows</hi>
+<lb/><hi rend="underline">T, G, Waters</hi>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Haas
+<lb/>Caleb, W, Logan
+<lb/>Thos Williams &amp; Co
+<lb/>Geo Brobston
 <lb/>John Cawein
 <lb/>T. C. Wiley
-<lb/>Wm White
-<lb/>G E Moody
+<lb/>W<hi rend="underline">m</hi> White
+<lb/>G, E, Moody
 <lb/>R. G. Kyle
-<lb/>C Dunell
+<lb/>P <unclear>Darnelli</unclear>
 <lb/>Goerge W Griffy
 <lb/>W. A. Nally
 <lb/>F. D. Stone
-<lb/>W. A. Ronald Sheff
+<lb/>W. A Ronald) Sheff
 <lb/>T. C. Pomeroy
-<lb/>John Walton
+<lb/><hi rend="underline">John Walton</hi>
 <lb/>Jas P Chambers
 <lb/>J F Stone
-<lb/>Th P Shanks
+<lb/>Tho<hi rend="sup">s</hi> Shanks
 <lb/>R. F. Baird</p>
-<p>In this case the law has been vindicated. The Petitioner, is a poor man, <hi rend="str">of fam,</hi> whose family rely solely upon his labor for a support. I think that Justice will have been so observed <hi rend="str">were</hi> if fifty dollars of this fine <hi rend="str">were</hi> ^be^ remitted</p>
-<p>W G Reasor
+<p>In this case the law has been vindicated. The Petitioner, is a poor man, <hi rend="str">of fam</hi>, whose family rely solely upon his labor for a support, I think, that Justice will have been subserved <hi rend="str">were</hi> if fifty dollars of this fine <hi rend="str">were</hi> be remitted</p>
+<p>W. G. Reasor
 <lb/>City atto<pb/></p>
-<p>Louisville
-<lb/>City Court</p>
-<p>Remited $50 of the fine and give 6 mos for payment of balance</p>
+<p>Louisville City Court</p>
+<p>Remit &#36;50. of the fine and <hi rend="str"><unclear/></hi> give 6 <hi rend="underline"><hi rend="sup">mos</hi></hi> for paymint of balance</p>
 <p><date when="1863-09-28">Sept 2<hi rend="str">6</hi>8<hi rend="sup">th</hi> 1863</date>
 <lb/>T E Bramlette</p>
   </body>

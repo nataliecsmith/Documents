@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0173"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Jefferson County, Kentucky</placeName>
-    <date when="1863-11-07">7 November 1863</date>
+    <date when="1863-10-26">26 October 1863</date>
    </creation>
    <textClass>
     <keywords>
@@ -65,20 +68,20 @@
 <lb/><date when="1863-10">October Term 1863</date>
 <lb/><date when="1863-10-26">October 26 1863</date></p>
 <p>The Commonwealth Plff
-<lb/>versus } Indict felony
-<lb/>Jno Riley, James Russell Deft</p>
+<lb/>versus Indict felony
+<lb/>Jno Riley &amp; James Russell Defts</p>
 <p>We of the jury find the prisoner Jno Riley guilty as charged in the within indictment and say he shall be confined in the jail and penetentiary house of this Commonwealth two years and six months And we also find the prisoner James Russell guilty and say he shall be confined in the penitentiary of this Commonwealth One year and we recommend said Russell to Executive Clemency</p>
 <p>J. A. Gilliss "Foreman"</p>
 <p><hi rend="str">and thereupon the</hi>
-<lb/>A Copy Att
-<lb/>Jas P Chambers c</p>
+<lb/>A. Copy Att
+<lb/>Jas P <hi rend="underline">Chambers</hi> c</p>
 <p>To His Excellency,
 <lb/>Thomas E. Bramlette,
 <lb/>Governor of Kentucky:</p>
 <p>I concur, with the Jury, in recommending the above named James Russell to Your Excellency's clemency.</p>
-<p>P. B. Muir</p>
+<p><hi rend="underline">P. B. Muir</hi></p>
 <p>Louisville, Ky.
-<lb/><date when="1863-11-07">Nov. 7. 1863</date></p>
+<lb/><date when="1863-11-07">Nov. 7. 1863.</date></p>
   </body>
  </text>
 </TEI>

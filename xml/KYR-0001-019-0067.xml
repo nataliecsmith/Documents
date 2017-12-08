@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0067"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -65,17 +68,18 @@
 <lb/>Dr. Jno. M. Johnson.
 <lb/>Paducah, Ky.
 <lb/>Dear Sir.</p>
-<p>On my return home, from Memphis, yesterday evening, I found your favor the <date when="1861-05-28">28<hi rend="sup">th</hi></date>, awaiting me.</p>
+<p>On my return home, from Memphis, yesterday evening, I found your favor of the <date when="1861-05-28">28<hi rend="underline"><hi rend="sup">th</hi></hi></date> awaiting me.</p>
 <p>I regret that I was absent, and thus prevented from having a personal interview with you.</p>
-<p>None of the public authorities of this State, either Civil or Military, so far as I know or believe, contemplate or intend to violate the neutrality of Kentucky, as assumed and defined in the proclamation of your Executive, of the <date when="1861-05-19">19<hi rend="sup">th</hi></date> of last month. If that neutrality shall be respected by the Federal authorities and troops, we can have no motive, on our part, to violate it. If, as a private citizen, I correctly understand the policy &amp; purposes of my State, they will be strictly <hi rend="underline">defensive</hi>. Whilst we sincerely sympathize with our friends in Kentucky, ^&amp;^ appreciate their embarrassing and perilous condition, and ardently desire to see their destiny united with ours, we have no disposition or wish to precipitate a crisis upon <hi rend="str">you</hi>them, that might prove destructive to your domestic peace, and frustrate the policy of your State.<pb/></p>
-<p>We have neither the means or desire to prevent the people of Kentucky, or any portion of them, from holding public meetings, and indicating the line of policy, which, in their judgement, will best promote their own security -- but we may decline any alliance with a fraction of her citiznes, calculated to imperil her general safety, and to lead, in any possible contingincy, to her dismemberment. No policy, having a tendency to produce the one, or the other of these effects, has met with favor or countenance, with the public authorities of this State, or with myself, as a private citizen.</p>
+<p>None of the public authorities of this State, either Civil or Military, so far as I know or believe, contemplate or intend to violate the neutrality of Kentucky, as assumed and defined in the proclamation of your Executive, of the <date when="1861-05-19">19<hi rend="underline"><hi rend="sup">th</hi></hi></date> of last month. If that neutrality shall be respected by the Federal authorities and troops, we can have no motive, on our part, to violate it. If, as a private citizen, I correctly understand the policy &amp; purposes of my State, they will be strictly <hi rend="underline">defensive</hi>. Whilst we sincerely sympathize with our friends in Kentucky, ^&amp;^ appreciate their embarrassing and perilous condition, and ardently desire to see their destiny united with ours, we have no disposition or wish to precipitate a crisis upon <hi rend="str">you</hi>them, that might prove destructive to your domestic peace, and frustrate the policy of your State.<pb/></p>
+<p>We have neither the means or desire to prevent the people of Kentucky, or any portion of them, from holding public meetings, and indicating the line of policy, which, in their judgement, will best promote their own security -- but we may decline any alliance with a fraction of her citizens, calculated to imperil her general safety, and to lead, in any possible contingincy, to her dismemberment. No policy, having a tendency to produce the one, or the other of these effects, has met with favor or countenance, with the public authorities of this State, or with myself, as a private citizen.</p>
 <p>Should the position of neutrality assumed by Kentucky be violated, (as I apprehend it will be very soon) by the Federal authorities, and Northern troops marched upon your soil, what new line of policy, with a view to her own protection, and best to enable us to repel any invasion of our territory, the happening of this contingency, may superinduce on the part of our State, I am unable to <hi rend="str">state</hi> say. We must look to the best means of defense to our own State, and of the Confederate States, with which we are allied. These, however, are remote questions, concerning events in the future, which may, or many not transpire, and in respect to which<pb/>
 <lb/>my individual opinions are of no consideration, whatever. </p>
 <p>Our military encampment at Union City, where, within a week, I presume we shall have 10.000 armed troops, is not intended to menace or violate the neutrality of Ky, but simply to repel invasion from our own State. </p>
-<p>In conclusion I will state, as the sincere conviction of my mind, that your Executive need have no apprehension that either Tennessee, or the Confederate States, will be the <hi rend="underline">first</hi> to violate the neutrality of your patriotic and gallant Commonwealth. With assurances of high regard</p>
-<p>I have the honor to be,
+<p>In conclusion I will state, as the sincere conviction of my mind, that your Executive need have no apprehension that either Tennessee, or the Confederate States, will be the <hi rend="underline">first</hi> to violate the neutrality of your patriotic and gallant Commonwealth.</p>
+<p>With assurances of high regard
+<lb/>I have the honor to be,
 <lb/>Very Respectfully,
-<lb/>Your Obt. servant
+<lb/>Your Obt. Servant
 <lb/>Jno. A Gardner</p>
   </body>
  </text>

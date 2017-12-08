@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0106"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,7 +66,7 @@
    <p>Irvine Ky <date when="1865-10-31">31<hi rend="sup">st</hi> Oct 1865</date>
 <lb/>To T. E. Bramlett Govenor of Kentucky
 <lb/>Sir</p>
-<p>John &amp; Robert C Wiseman did on yesterday the <date when="1865-10-30">30.<hi rend="sup">th</hi> day, of October 1865</date> Shoot and Kill Clayton Witt in the County of Estill and are now running at large John Wiseman is about 3<hi rend="str">5</hi>0. years of age a <hi rend="str">small</hi> low heavy set a little Stoop shouldered has a scar on his breast from a shot while in the U S. army dark hair., Robert C Wiseman is about 28 years old about 5. feet 10 Inches high light bule eyes and has a large scar on him from a burn as large as a small plate, now Governor will you be so good as to over a reward for them,</p>
+<p>John &amp; Robert C Wiseman did on yesterday the <date when="1865-10-30">30<hi rend="underline"><hi rend="sup">th</hi></hi> day, of October 1865</date> Shoot and Kill Clayton Witt in the County of Estill and are now running at large John Wiseman is about 3<hi rend="str">5</hi>0. years of age a <hi rend="str">small</hi> low heavy set a little stoop shoudered has a scar on his breast fom a shot while in the US. army dark hair, Robert C Wiseman is about 28 years old about 5. feet 10 Inches high light bule eyes and has a large scar on him from a burn as large as a small plate, now Governor will you be so good as to over a reward for them,</p>
 <p>Yours respectfully
 <lb/>Allen Witt</p>
   </body>

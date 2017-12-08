@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1383"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">John Faulkner and John Bailey, et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">John Faulkner and John Bailey to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG6020</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,28 +64,28 @@
  <text>
   <body>
    <p>Campbellsville <date when="1864-12-13">Dec 13<hi rend="sup">th</hi> 1864</date>
-<lb/>To the Hon Thomas. E. Bramlette Gov of the Commonwealth of Kentucky,</p>
-<p>your petitioners John Baily and John Faulkner State that in the year <date when="1862">1862</date> one Chas. O. P Smith was arrested in Taylor county and tried before an examining court upon the charge of making and Selling Bowie knifes to Slaves; Said Smith was Sent on to further trial; &amp; committed to Jail and your petitioners Baily &amp; Faulkner went on his bond &amp; bailed him out; Soon after that he was bailed; out; he was again arrested on the charge of horse Stealing committed to Jail and remained there until <hi rend="str">his trial was had for</hi> ^the next term of the Taylor Circuit Court, when the Grand Jury failed to indict him for^ for the latter offense, He was acquitted of that charge And your petitioners were advised ^by the Jailor^ and verily Believed that the presence of Said Smith in the Jail <hi rend="str">and his being present all the time during his trial</hi> ^during nearly the whole term of the court^ <hi rend="str">for</hi> ^on^ the charge of horse stealing was a Sufficient delievrying up of Said Smith on their part to release them from his bond and in fact thought that Said Smith was being tried for both offenses at that term of the court; and being told by the Jailor and others as above Stated that they were released they paid no further attention to the matter<pb/>
-<lb/>and thus at the <date when="1864-03">March term of the Taylor Circuit ^Court^ 1864</date> their bond was forfeited and at the <date when="1864-09">Sept Term of Said court ^/64^</date> Execution issued The amount of Said bond <hi rend="str">was</hi> is $<hi rend="str">1</hi> 50,00 and under all the circumstances your petitioners think that your Excellincy Ought to remit Said fine for which they prey &amp;</p>
+<lb/>To, the Hon Thomas. E. Bramlette Gov of the Commonwealth of Kentucky,</p>
+<p>your petitioners John Baily and John Faulkner State that in the year <date when="1862">1862</date> one Chas, O, P Smith was arrested in Taylor county and tried before an Examing court upon the charge of making and Selling Bowie knifes to Slaves; Said Smith was Sent on to further trial; &amp; committed to Jail and your petitioners Baily &amp; Faulkner went on his bond &amp; bailed him out; Soon after that he was bailed; out; he was again arrested on the charge of horse Stealing committed to Jail and remained there until <hi rend="str">his</hi> <hi rend="str">trial</hi> <hi rend="str">was had for</hi> the next term of the Taylor Circuit Court, when the Grand Jury failed to indict him for the latter offense, He was acquitted of<hi rend="str">or</hi> that charge And your petitioners were advised ^by the Jailor^ and verily Believed that the presence of Said Smith in the Jail <hi rend="str">and his being present all the time during his</hi> <hi rend="str">trial</hi> during nearly the whole term of the court, <hi rend="str">for</hi> on the charge of horse stealing was a Sufficient deliver<hi rend="str">yi</hi>ng up of Said Smith on their part to release them from his bond and in fact thought that Said Smith was being tried for both offenses at that term of the court; and being told by the Jailor and others as above Stated that they were released they paid no further attention to the matter<pb/>
+<lb/>and thus at the <date when="1864-03">March Term of the Taylor Circuit Court 1864</date> their bond was forfeited and at the <date when="1864-09">Sept Term of Said court /64</date> Execution issued, <hi rend="str">on which</hi>The amount of Said bond <hi rend="str">was</hi> is &#36;<hi rend="str">1</hi> 50,00 and under all the circumstances your petitioners think that your Excellincy Ought to remit Said fine for which they prey &amp;</p>
 <p>John Faulkner
 <lb/>John Bailey</p>
 <p><stamp type="revenue"/><note place="stamp">F P <unclear/></note></p>
-<p>John S Spurligns } Affidavit</p>
+<p>John S Spurling vs &#125; Affidavit</p>
 <p>John Spurling States that he was Jailor of Taylor county at the time Spoken of in the foregoing petition and that he did tell Said Faulkner that he thought he ^Faulkner &amp; Baily^ was released from Said Bond &amp; and that the facts Stated in the foregoing petition are true</p>
 <p>John Spurling</p>
-<p>Subscribed &amp; Sworn to before me this <date when="1864-12-21">Dec <hi rend="str">13th</hi> 21<hi rend="sup">st</hi> 1864</date></p>
+<p>Subscribed &amp; Sworn to before me this <date when="1864-12-21">Dec <hi rend="str">13</hi><hi rend="str"><hi rend="sup">th</hi></hi> 21<hi rend="sup">st</hi> 1864</date></p>
 <p>J G Mitchell S <unclear/>T C</p>
-<p>We the undersigned citizens of Taylor county believe the Statements in the foregoing petition are true &amp; that Said fine ought to be <hi rend="str">omitted</hi> Remitted</p>
-<p>D. B. Moore clk Taylor circuit ct
+<p>We the undersigned citisens of Taylor County believe the Statements in the foregoing petition are true &amp; that Said fine <unclear>ought</unclear> to be <hi rend="str">Omitted</hi> Remitted</p>
+<p>D, B. Moore Clk Taylor circuit ct
 <lb/>R S Montague Co. Clk
 <lb/>A. F. Gowdy
-<lb/>J,B, M<hi rend="sup">c</hi>whorter A,T,C,
+<lb/>J, B, M<hi rend="sup">c</hi>whoster, S,T,C
 <lb/>J P Davis
 <lb/>J H Chandler<pb/></p>
 <p>Taylor Cir Ct
 <lb/>vs
-<lb/>John Faulkner &amp; John Bailey</p>
-<p>$50
+<lb/>John Faulkner &amp; John Bailey
+<lb/>&#36;50
 <lb/>Remitted
 <lb/><date when="1864-12-23">23<hi rend="sup">d</hi> Dec/64</date></p>
   </body>

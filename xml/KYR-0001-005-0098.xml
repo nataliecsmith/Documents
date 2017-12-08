@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0098"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,32 +64,32 @@
  <text>
   <body>
    <p>Burlington Boone Co Ky
-<lb/><date when="1865-09-11">Sept 11. 1865</date>,
-<lb/>Gov: Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette.
+<lb/><date when="1865-09-11">Sept. 11. 1865</date>,
+<lb/>Gov: Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E, Bramlette,
 <lb/>Dear Sir:</p>
-<p>One John Sanders at the Special <date when="1863-05">May Term 1863</date> of this court was indicted by the Grand Jury of this county for shooting one Joshua Ellis. -- said Indict. is for "<hi rend="underline">murder</hi>" -- </p>
-<p>John Sanders is at large -- and as I understand is in the state of Indiana. The Shff of Switzerland Co in that state wrote me a few days ago inquiring about the Reward for his apprehension. stating that if the <hi rend="underline">Reward</hi> was good and certain, that he would have the said Sanders forthcoming. I lay the matter before you, leaving you to act as you see proper.</p>
+<p>One John Sanders at the Special <date when="1863-05">May Term 1863</date> of this court was indicted by the Grand Jury of this county for Shooting one Joshua Ellis, -- said Indict,, is for "<hi rend="underline">murder</hi>" -- </p>
+<p>John Sanders is at large -- and as I understand is in the state of Indiana, The Shff of Switzerland Co in that state wrote me @ few days ago, inquiring about the Reward for his apprehension, stating that if the <hi rend="underline">Reward</hi> was good and certain, that he would have the said Sanders forthcoming, I lay the matter before you, leaving you to act as you see proper.</p>
 <p>Your Servt.
 <lb/>A G Winston
-<lb/>Clk Boon Circt Ct -- <pb/></p>
-<p>Burlington Boone Co Ky
-<lb/>To his Excellency thos E Bramlette
+<lb/>clk Boon Circt Ct -- <pb/></p>
+<p>Burlington Bane Co Ky
+<lb/>To his Excellency Thos E Bramlette
 <lb/>Gov of Kentucky Sir</p>
-<p>Information having come to me, leading me to beleive that One John Sanders who was indicted at the Boone Circuit Court in <date when="1863-05">May 1863</date>, for the murder of Joshua Ellis is now at large in the State of Indiana (having never been tried) I ask your Ex to offer a reward for the apprehension of the said John Sanders that he may be propperly brought to trial in this county according to law the official charge having been committed in this co</p>
+<p>Information having come to me, leading me to beleive that One John Sanders who was endicted at the Boone Circuit court in <date when="1863-05">May 1863</date>, for the murder of Joshua Ellis is now at large in the state of Indiana (having never been tried) I ask your Ex to offer a reward for the apprehension of the said John Sander that he may be propperly brought to trial in this County according to law the offense charged having been committed in this co</p>
 <p>Robt F" Coleman
-<lb/>Pres juedg Boone Cnty Court</p>
-<p>Burlington, Boone Co. Ky, <date when="1865-09-18">Sept. 18. 65</date>.
+<lb/>Pres juedg Boone Cnty cort</p>
+<p>Burlington, Boone co. Ky,, <date when="1865-09-15">Sept. 15, '65</date>.
 <lb/>Dear Governor:</p>
 <p>I hope you will issue a proclamation offering a reward for the arrest of John Saunders. The murder was unprovoked &amp; diabolical -- &amp; the murderer is now at large in Indiana. Please prepare the papers &amp; direct them to me at Warsaw, where I shall probably remain 2 weeks.</p>
 <p>Your friend,
 <lb/>John L. Scott
-<lb/>Com. Atty</p>
-<p>Reward
+<lb/>Com. atty</p>
+<p><hi rend="str">B</hi>Reward
 <lb/>Boone Cir Ct
 <lb/>vs
 <lb/>John Sanders
-<lb/>$200. offered <date when="1865-09-20">20<hi rend="sup">th</hi> Sept/65</date></p>
-<p>Reward of $200</p>
+<lb/>&#36;200. offered <date when="1865-09-20">20<hi rend="sup">th</hi> Sept/65</date></p>
+<p>Reward of &#36;200</p>
   </body>
  </text>
 </TEI>

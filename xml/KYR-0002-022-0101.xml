@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0101"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">A. D. Kennedy et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">A. D. Kennedy, James E. Wright, and G. T. Blakey to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG12025</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Russellville, Logan County, Kentucky</placeName>
-    <date when="1864-01-06">6 January 1864</date>
+    <date when="1864-06-06">6 June 1864</date>
    </creation>
    <textClass>
     <keywords>
@@ -60,18 +63,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Russellville Ky <date when="1864-01-06">Jan 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
+   <p>Russellville Ky <date when="1864-06-06">Jun 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
 <lb/>His Excellency
 <lb/>Thos E. Bramlette.
-<lb/>Gov. of the State of Ky.
+<lb/>Gov. of the state of Ky.
 <lb/>Sir</p>
-<p>At a meeting of the Logan county court held at this place on the <date when="---01">1<hi rend="underline"><hi rend="sup">st</hi></hi> Inst.</date> In view of the many Guerilla raids occurring in this county. The court took into consideration The propriety of organizing a company of mounted men (But made no record of The same) Whose duty it shall be the patrol The County constantly. The court not being authorized by law to make an appropriation to organize, arm &amp; pay Said company for their service, decided to confer with your Excellency upon the subject, and ask whether you will approve the appropriation from the county levy, for the purpose above indicated, provided that the next General assembly shall authorize it. -- We would further represent to your excellency<pb/>
-<lb/>That this company will be made up of citizens of the county, well acquainted with the haunts of Marauding bands. Thus making their service much more effective against them, than troops in the U. S. service from other parts of the State. Some part of the county is almost daily visited by Guerillas, who rob innocent improtected citizens of property &amp; peace of mind.</p>
-<p>Those bands are generally led on by some one well acquanted with private passages that rendering their capture by soldiers unacquainted with the county almost impossible Hoping that the plan suggested and the appropriation may meet your approbation. We remain.</p>
+<p>At a meeting of the Logan county court held at this place on the <date when="1864-06-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> Inst.</date> In view of the many Guerilla raids occurring in this county. The Court took in to consideration the propriety of organizing a company of mounted men (But made no record of the same) Whose duty it shall be to patrol The County constantly. The court not being authorized by law to make an appropriation to organize, arm &amp; pay Said company for their Service, decided to confer with your Excellency upon the subject, and ask whether you will approve the appropriation from the county levy, for the purpose above indicated, provided that the next General assembly shall authorize it. -- We would further represent to your excellency<pb/>
+<lb/>That this company will be made up of citizens of the county, well acquainted with the haunts of Marauding bands. Thus making their service much more effective against them, than troops in the U. S. Service from other parts of the State. Some part of the county is almost daily visited by Guerillas. who rob innocent improtected citizens of property &amp; peace of mind,</p>
+<p>Those bands are generally led on by some one well acquanted with private passways thus rendering their capture by soldiers unacquainted with the county almost impossible. Hoping that the plan suggested and the appropriation may meet your approbation. We remain.</p>
 <p>Very Respectfully
-<lb/>Your ob<hi rend="sup">t</hi> Servt-
+<lb/>Your ob<hi rend="sup">t</hi> Servt -- ,
 <lb/>A. D. Kennedy Presiding Judge of Logan County
-<lb/>James E Wright Clerk of Logan County court
+<lb/><hi rend="underline">James. E. Wright</hi> Clerk of Logan County court
 <lb/>G. T. Blakey Sheriff</p>
   </body>
  </text>

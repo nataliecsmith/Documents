@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1507"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Bennettsville, Breckinridge County, Kentucky</placeName>
+    <placeName>Breckinridge County, Kentucky</placeName>
     <date when="1861-11-21">21 November 1861</date>
    </creation>
    <textClass>
@@ -61,11 +64,11 @@
  <text>
   <body>
    <p>Breckenridge County Kentucky</p>
-<p>George A Mullin states that he lives 2 miles from where H. B. Margolyes formally kept Tavern near Bennetsville and that <hi rend="str"><unclear/></hi>he ha<hi rend="str">ve</hi>d sold him butter &amp; Eggs. meat &amp;c <hi rend="str">and</hi> that, and as far as he knows he always had plenty for man &amp; horse, of good &amp; substantial food</p>
+<p>George A Mullin states that he lives 2 miles from where H. B. Margolyes formally Kept Tavern near Bennetsville and that he ha<hi rend="str">ve</hi>d sold him butter &amp; Eggs. meat &amp;<hi rend="sup">c</hi> <hi rend="str">and</hi> that and as far as he knows he always had plenty for man &amp; horse. of good &amp; substantial food</p>
 <p>Given under my hand this <date when="1861-11-21">21<hi rend="sup">st</hi> November 1861</date></p>
-<p>george A. Mullin</p>
+<p>george A, Mullin</p>
 <p>Sworn to before me this <date when="1861-11-21">21<hi rend="sup">st </hi>November 1861</date></p>
-<p>Ed Pate J P. B. C</p>
+<p>Ed Pate J P, B, C</p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0059"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,13 +65,14 @@
   <body>
    <p>Catlettsburg Ky
 <lb/><date when="1865-03-26">March 26 1865</date>
-<lb/>Govenor Bramlett
+<lb/>Govener Bramlett
 <lb/>Sir</p>
 <p>Enclosed is a certified copy of an indictment against Calvin Dyer for feloniously receiving stolen goods he has forfeited his recognizence and is now in scioto county ohio please have a requisition for him</p>
 <p>Yours
 <lb/>J D Jones
 <lb/>County Atty<pb/></p>
-<p>Requisition on Governor of Ohio issued &amp;<figure type="hr"/>
+<p>Requisition on Governor of Ohio 
+<lb/>issued &amp; -- 
 <lb/>appt<hi rend="underline"><hi rend="sup">d</hi></hi> Agent to make demand
 <lb/><date when="1865-03-31">31<hi rend="sup">st</hi> Mch 1865</date></p>
   </body>

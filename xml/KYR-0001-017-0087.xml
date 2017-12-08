@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0087"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,7 +63,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>Philada. Pa <date when="1861-02-23">Feb 23/61.</date>
+   <p>Philad<hi rend="sup">a.</hi> P<hi rend="sup">a</hi> <date when="1861-02-23">Feb 23/61,</date>
 <lb/>His Excellency
 <lb/>B. Magoffin
 <lb/>D<hi rend="sup">r</hi> Sir</p>
@@ -70,9 +73,9 @@
 <lb/>162 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> So 4<pb/></p>
 <p>Pennsylvania<figure type="hr"/>
 <lb/>Joshua Sperring
-<lb/>Com<hi rend="sup">r</hi>. of Deeds
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>Phila<hi rend="sup">d</hi>
-<lb/>Iss<hi rend="sup">d</hi> <date when="1861-02-27">Feby 27.<hi rend="sup">th</hi> 1861</date></p>
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-02-27">Feby 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date></p>
 <p>Issue Commission
 <lb/>B. M</p>
   </body>

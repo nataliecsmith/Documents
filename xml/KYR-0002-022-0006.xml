@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0006"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,28 +63,28 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hickman Ky <date when="1863-10-19">Oct 19. 1863</date>
+   <p>Hickman Ky <date when="1863-10-19">Oct 19. 1863</date>.
 <lb/>John Boyle
 <lb/>Adjt Genl Ky Vols.
 <lb/>Sir.</p>
-<p>By the same mail which brings you this letter, I have written to His Excellency Governor Bramlette, in reference to the General Orders issued for the raising of a military force &amp;c. I am glad to see this done: and shall be happy to do what I can to promote the object intended to be effected. This measure ought to have been long since adopted, in as much as it will tend, more than anything else towards quieting this most distracted part of Kentucky. If within the compass of my ability to aid His Excellency. I can be of any service, I will accept any appointment for which I may be designated my references are Genl Combs, Col Bolling Messers. Harlan, James J Miller Esq. and my correspondence on file with Gov. Robinson, in the State Department.</p>
-<p>It seems to me however, that the time ought to be extended by a Special Order for the raising of at least two companies of State Guard in this Co. for some thirty days -- in as much as owing to the difficulties in the way of mails, the two General orders were only viewed this morning as the Clk<pb/>
-<lb/>of the County Court informs me. Can this be done? I see no good reason why it may not, by a special order to date from the appointment of a Colonel &amp; Lieut Col. Throwing myself out of the question. I would respectfully recommend W M Buckner and G. M. Wilburn as competent men, both are loyal, honest and tried men. and will do their duty.</p>
-<p>Kentucky must be defended by Kentuckians and her integrity maintained at all hazards. Whatever we have to complain of, must deferred until the most studendous rebellion the world has ever known is crushed out.</p>
+<p>By the same mail which brings you this letter, I have written to His Excellency Governor Bramlette, in reference to the General Orders issued for the raising of a military force &amp;c. I am glad to see this done: and shall be happy to do what I can to promote the object intended to be effected-- This measure ought to have been long since adopted, in as much as it will tend, more than anything else towards quieting this most distracted part of Kentucky. If within the compass of my ability to aid His Excellency. I can be of any service, I will accept any appointment for which I may be designated-- My references are Genl Combs, Col Bolling-- Messrs. Harlan, James J Miller Esqr. and my correspondence on file with Gov. Robinson, in the State Department.</p>
+<p>It seems to me however, that the time ought to be extended by a Special Order for the raising of at least two Companies of State Guard in this Co. for some thirty days-- in as much as owing to the difficulties in the way of mails, the two General Orders were only received this morning as the Clk<pb/>
+<lb/>of the County Court informs me. Can this be done? I see no good reason why it may not, by a special order to date from the appointment of a Colonel &amp; Lieut Col. Throwing myself out of the question-- I would respectfully recommend W Frs Bucknor and G. M. Wilburn as competent men. bo<hi rend="str"><unclear/></hi>th are loyal, honest and tried men-- and will do their duty.</p>
+<p>Kentucky must be defended by Kentuckians and her integrity maintained at all hazards. Whatever we have to complain of, must deferred until the most stupendous rebellion the world has ever known is crushed out.</p>
 <p>With great respect
-<lb/>Your Obt Servt
+<lb/>Your Obt Sevrt
 <lb/>Geo C Hallet</p>
-<p>P. S. In addition to the gentlemen named, I beg to refer to Hon R K Williams Associate Justice of the Court of Appeals.<pb/></p>
+<p>P S. In addition to the gentlemen named, I beg to refer to Hon R K Williams Associate Justice of the Court of Appeals.<pb/></p>
 <p>Fulton Co 
 <lb/><date when="--10-19">Oct 19</date><figure type="hr"/>
-<lb/><hi rend="underline">Recom"d" for this cuy</hi>
+<lb/><hi rend="underline">Recom"dg" for this coy</hi>
 <lb/><hi rend="underline">Geo Hallet Colonel</hi>
 <lb/><hi rend="underline"><hi rend="str">W Buckner Colonel</hi></hi><hi rend="str">
 <lb/></hi><hi rend="underline">G M Wilburn Lt Col</hi>
-<lb/><hi rend="underline">Ge</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> Hallet</hi><figure type="hr"/></p>
-<p>Issue,</p>
-<p><hi rend="underline">Boyle</hi></p>
-<p>Issued, 40, 256</p>
+<lb/>Ge<hi rend="sup">o</hi> Hallet<figure type="hr"/></p>
+<p>Issue,
+<lb/><hi rend="underline">Boyle</hi>
+<lb/>Issued, 40, 256</p>
   </body>
  </text>
 </TEI>

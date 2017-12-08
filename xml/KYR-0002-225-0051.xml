@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0051"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,16 +63,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>South carrolton Kentucky
-<lb/><date when="1864-07-14">July the 14<hi rend="sup">th</hi> 1864</date>
-<lb/><hi rend="str">To all</hi> For the Information of all persons that may Be concerned</p>
-<p>On the <date when="1863-11-17">17 day of novr. 1863</date> Thos. E. Bramlett governor of this commonwealth authorized me to Raise a Regt. of State guards and acordingly commissioned and as, col, of Said organization I comenced, Recruiting and on the <date when="1863-12-19">19<hi rend="sup">th</hi> day of december</date> I was orderd to disband my Recruits which order I obeyed</p>
-<p>again on the <date when="1864-05-15">15<hi rend="sup">th</hi> day of may</date> I was orderd By his Excellency to Raise a Battallion of Soldiers for the purpose of Supressing Guerillars In Southern Kentucky <unclear/> official Instructions to Impress horses to Mount my Battallion on untill the quarter master of this State could furnish horses and horse Equipments for me I am all so ordered to give vouchers to all persons that I Impress property from<pb/>
+   <p>South carrolton Kentuckey
+<lb/><date when="1864-07-14">July. the 14<hi rend="sup">th</hi> '1864</date>
+<lb/><hi rend="str">To all</hi> For the information of all persons that may Be concerned</p>
+<p>on the <date when="1863-11-17">17 day of novr, 1863</date> Thos. E. Bramlett governor of this commonwealth authorized me to Raise a Regt. of State guards and acordingly commissioned me as, col, of said organization I comenced, Recruiting and on the <date when="1863-12-19">19<hi rend="sup">th</hi> day of december</date> I was orderd to disband my Recruits which order I obeyed</p>
+<p>again on the <date when="1864-05-15">15<hi rend="sup">th</hi> day of may</date> I was orderd By his Excelency to Raise a Battallion of Soldiers for the purpose of Supressing Guerillars In Southern Kentuckey <hi rend="str">S</hi>withe official Instructions to Impress horses, to Mount My Battallion on untill the qarter master of this State could furnish horses and horse Equpments for me I am all so orderd to give vouchers to all persons that I Impress property from<pb/>
 <lb/>By appointing twoo disinterested men to value Said property which I will Take a pleasure In dooing at any Time when called on By the owners of property</p>
-<p>I am further orderd that when any disafected Rebels are guilty of using any language that Is calculated to hinder or discourage my organization that I Sall Imedially arrest all persons So violating those orders and Send them 6th State guard. General Head quarters to Be tried, for treason Before a general court martial</p>
-<p>all of which I will obey Respectfully
-<lb/>Sebastian C. Vick
-<lb/>Col Comd,g, 1<hi rend="sup">st</hi> Regt Southern Kentucky
+<p>I am further orderd that when any disafected Rebels are guilty of using any language that Is calculated to hinder or discourage my organization that I Sall Imediatly arrest all persons So violating those orders and Send then to the State guard, General Headquarters to Be tried, for treason Before a general court martial</p>
+<p>all of which I will obey
+<lb/>Respectfully
+<lb/>Sebastian, C. Vick
+<lb/>Col comd,g, 1<hi rend="sup">st</hi> Regt Southern Kentuckey
 <lb/>State guards<pb/></p>
 <p>South Ca</p>
   </body>

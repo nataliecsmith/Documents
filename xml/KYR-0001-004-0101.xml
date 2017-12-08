@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0101"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Commonwealth of Kentucky v. Swinton Sheppard, Indictment</title>
+    <title level="a" type="main">Commonwealth of Kentucky v. Simeon Sheppard, Judgment</title>
     <title level="a" type="parallel">CWG4220</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,19 +65,18 @@
   <body>
    <p>State of Kentucky
 <lb/>Kenton Circuit Court
-<lb/><date when="--09">Sept Term</date> <date when="1863-09-14">Sept 14. 1863</date>.
+<lb/><date when="--09">Sept Term</date>, <date when="1863-09-14">Sept 14, 1863</date>.
 <lb/>Commonwealth
-<lb/>agst. } Indictment
-<lb/>Simeon Shephard</p>
-<p>"The Sureties in the Recognizance herein John S Nixon &amp; J. R Grant failing to answer though duly summoned it is adjudged that the Commonwealth of Kentucky recover of them the sum of One Hundred Dollars and her costs herein exceeded"</p>
-<p>Copy Att
+<lb/>agst. &#125; Indictment
+<lb/>Simeon Sheppard</p>
+<p>"The Sureties in the Recognizance herein John S Nixon &amp; J. R Grant failing to answer though duly summoned it is adjudged that the Commonwealth of Kentucky recover of them the sum of One Hundred Dollars and her costs herein expended"</p>
+<p>Copy att
 <lb/>B. W. Foley Clk
-<lb/>By A C Ellis DC<pb/></p>
+<lb/>By A C Ellis D C<pb/></p>
 <p>Comwth
-<lb/>v } Judgt
-<lb/>Shephard<figure type="hr"/>
-<lb/><hi rend="underline">Copy</hi>
-<lb/></p>
+<lb/>v &#125; Judgt
+<lb/>Sheppard<figure type="hr"/>
+<lb/><hi rend="underline">Copy</hi></p>
   </body>
  </text>
 </TEI>

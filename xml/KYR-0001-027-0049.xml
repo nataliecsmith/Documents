@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0049"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,15 +66,15 @@
    <p>Boone Furnace Ky. <date when="1862-10-06">October 6" 1862</date>
 <lb/>Gov. Robbinson
 <lb/>Dear Sir</p>
-<p>We arrived at this place with seven Companys of the 117 Ohio V. Regt on the morning of the <date when="1862-10-05">5"</date> about daylight, the Rebbels made an attack on this place on the eve^n^ing of the <date when="1862-10-04">4" inst</date> before the men where at picket and at supper, firing in houses <hi rend="str">and</hi> and driving women &amp; children to the woods <hi rend="str"><unclear/></hi> taken all the goods in the Store Mules &amp; Horsses away with them, value 3,000$.</p>
-<p>This force is encampt at Olive Hill 11 to 1200 strong with 2 peices of arttilery they took two men from this place, one returned yesterday with this information the commanding officer by the name of L<hi rend="underline"><hi rend="sup">t</hi></hi> C<hi rend="underline"><hi rend="sup">ol</hi></hi> H A Edmonsun Tugg Regt V<hi rend="underline"><hi rend="sup">a</hi></hi> the are the terror of the Union men here and have taken possession of the State Road from Cattletsburg. to Owingsville and plundering <hi rend="str"><unclear/></hi>roabing the whole country of Horsses Mules &amp; goods and subsistence, Men women &amp; children are leaving the State for Ohio, men are afraid of staying as the press them in the Rebbel service<pb/></p>
-<p>The Rebels have eaten out Morgan Pike and Countys South of the State Road from the Mouth of Sandy to Owingsville and are compelled to same north of that Road for supplies also keep up a line of communication with there forces in Kentucky and V<hi rend="underline"><hi rend="sup">a</hi></hi> by that Road. and use it in case of a retreat for their forces to V<hi rend="underline"><hi rend="sup">a</hi></hi></p>
-<p>This part of the State will have to have some protection please telegraph to the G<hi rend="underline"><hi rend="sup">ov</hi></hi> of Ohio to let the 117. Regt O. V. take possession of that Road at Olive Hill them and a few companey of <hi rend="str">artilery</hi> Cavalry a a few peses of Artillery and we can raise 4 or 500 Home Guard can hold that Road and give protection to Carter Lewis Byrd &amp; Greenup County, and the Ohio River or the Union Men will have to leave the State with there property and let the Rebels have full sway. The Home Guard killed 75 or 80 men of Morgans men in their late raid</p>
-<p>Shall keep you posted in affairs here and should you want to telegraph send to <hi rend="str"><unclear/></hi> Portsmouth Ohio. Telegraph to Gov Tod of Ohio ^or Gen H G. Wright^ for permission for this Regt to remain it will do more good here in Camp, as this is the point to protect the frontier of Ohio and River<pb/>
+<p>We arrived at this place with seven Companys of the 117 Ohio V. Regt on the morning of the <date when="1862-10-05">5<hi rend="sup">th</hi></date> about day light, the Rebbels made an attack on this place on the ev^n^eing of the <date when="1862-10-04">4" inst</date> before the men where at picket and at supper, <unclear>firing</unclear> in houses <hi rend="str">and</hi> and driving women &amp; children to the woods <hi rend="str">too</hi> taken all the goods in the Store Mules &amp; Horsses away with them, value 3,000&#36;.</p>
+<p>This force is encampt at Olive Hill 11 to 1200 strong with 2 peises of arttilery they took two men from this place, one returned yesterday with this information the commanding officer by the name of L<hi rend="underline"><hi rend="sup">t</hi></hi> C<hi rend="underline"><hi rend="sup">ol</hi></hi> H A Edmonson Tugg Regt V<hi rend="underline"><hi rend="sup">a</hi></hi> the are the terror of the Union men here and have taken possession of the State Road from Cattletsburg. to Owingsville and plundering <hi rend="str"><unclear/></hi>roabing the whole country of Horsses Mules &amp; goods and subsistence, Men women &amp; children are leaving the State for Ohio, men are afraid of staying as the press them in the Rebbel service<pb/></p>
+<p>The Rebels have eaten out Morgan Pike and Countys South of the State Road from the Mouth of Sandy to Owingsville and are compelled to same north of that Road for suppleys. also keep up a line of communication with there forces in Kentucky and V<hi rend="underline"><hi rend="sup">a</hi></hi> by that Road. and use it in case of a retreat for there forces to V<hi rend="underline"><hi rend="sup">a</hi></hi></p>
+<p>This part of the State will have to have some protection please telegraph to the G<hi rend="underline"><hi rend="sup">ov</hi></hi> of Ohio to let the 117. Regt O. V. take prossion of that Road at Olive Hill them and a few companey of <hi rend="str">arttilery</hi> Cavalry a a few pises of Artillery and we can raise 4 or 500 Home Guard can hold that Road and give protection to Carter Lewis Boyd &amp; Greenup County, and the Ohio River, or the Union Men will have to leave the State with there property and let the Rebels have full sway. The Home Guard<hi rend="sup">s</hi> killed 75 or 80 men of Morgans men in there late raid</p>
+<p>Shall keep you posted in affairs here and should you want to telegraph send to <hi rend="str"><unclear/></hi> Portsmouth Ohio. Telegraph to Gov Tod of Ohio ^or Gen H G, Wright^ for premission for the Regt to remain it will do more good here in Camp, as this is the point to protect the frontier of Ohio and River<pb/>
 <lb/>better than have them stationed in Portsmouth</p>
 <p>Please do all you can
 <lb/>Yours Respectfully
-<lb/>S. Eifort</p>
+<lb/>S Eifort</p>
   </body>
  </text>
 </TEI>

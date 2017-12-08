@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1457"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">W. L. Stall et al. to Beriah Magoffin</title>
+    <title level="a" type="main">W. L. Stall to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG10925</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,20 +62,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency B. Magoffin Governor of the Commonwealth of Kentucky -- </p>
-<p>Your Petitioner W. L. Stall will respectfully represent, that some time last year A. B. Hilliard was arrested in Ballard County charged with obtaining goods under false pretense and by the examining court admitted to bail in the sum of Two Hundred Dollars. Your petitioner is the brother in law of said Hilliard, and was prevailed upon by the wife of said Hilliard to go his security on the bail bond in conjunction with one Tho<hi rend="sup">s</hi>. M. Smith. The said Hilliard promised your petitioner that he would attend at court, and induced your petitioner to believe that he would be cleared at court -- Your petitioner states that he signed said bond believing that said Hilliard would comply with the covenants of said bond. Your petitioner states that the said Hilliard failed to appear, the bond was forfeired and at the April Term of the Ballard Circuit Court judgement went against himself and said Smith on said bond -- Your petitioner states that after the said Hilliard failed to appear, he had a bench warrant issued and tried in good faith to have said Hilliard arrested but failed to find him -- </p>
-<p>Your petitioner states that his co-obliger T M Smith is entirely insolvent &amp; said Hilliard has no property out of which any part of said judgement could be paid -- Your petitioner states that he is a poor man with a large<pb/>
-<lb/>family dependant on him for support -- He prays your Excellency to remit the same judgement -- </p>
+   <p>To his Excellency B. MaGoffin Governor of the Commonwealth of Kentucky -- </p>
+<p>Your Petitioner W, L, Stall will respectfully represent, that some time last year A. B. Hilliard was arrested in Ballard County charged with obtaining goods under false pretence and by the examining court admitted to bail in the sum of Two Hundred Dollars. Your petitioner is the brother in law of said Hilliard, and was prevailed upon by the wife of said Hilliard to go his security on the bail bond in conjunction with one Tho<hi rend="underline"><hi rend="sup">s</hi></hi> M. Smith. The said Hilliard promised your petitioner that he would attend at court, and induced your petitioner to believe that he would be cleared at court- Your petitioner states that he signed said bond believing that said Hilliard would comply with the covenants of said bond. Your petitioner states that the said Hilliard failed to appear, the bond was forfeited and at the <date when="--04">april</date> term of the Ballard Circuit Court judgement went against himself and said Smith on said bond- Your petitioner states that after the said Hilliard failed to appear, he had a bench warrant issued and tried in good faith to have said Hilliard arrested but failed to find him -- </p>
+<p>Your petitioner states that his co obliger T. M Smith is entirely insolvent &amp; said Hilliard has no property out of which any part of said judgement could be paid -- Your petitioner states that he is a poor man with a large<pb/>
+<lb/>family dependant on him for support -- He prays your Excellency to remit the said judgement -- </p>
 <p>W. L. Stall</p>
-<p>We concur in the prayer of the above petition, believing M<hi rend="sup">r</hi>. Stalls case is a proper one for the intervention of executive clemency</p>
+<p>We concur in the prayer of the above petition, believing M<hi rend="underline"><hi rend="sup">r</hi></hi> Stall's case is a proper one for the intervention of executive clemency</p>
 <p>C. S. Marshall County Judge</p>
-<p>I Corbett Clerk County &amp; Circuit Courts
+<p>J Corbett clerk County &amp; Circuit Courts
 <lb/>L S Lee Sheriff
-<lb/>J L White County, Atty<pb/></p>
-<p>Ballard Cir. Ct
-<lb/>Remitted 
-<lb/>B. M.</p>
-<p>$200 } Recog
+<lb/>J D White county, atty<pb/></p>
+<p>Ballard Cir. Ct</p>
+<p>Remitted 
+<lb/>B. M,</p>
+<p>&#36;200 &#125; Recog
 <lb/>Hall &amp; Smith
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-09">Octo 9 1861</date></p>
   </body>

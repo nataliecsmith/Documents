@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0037"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -65,23 +68,23 @@
 <p><stamp type="revenue"/><note place="stamp">J W C
 <lb/>N P
 <lb/><date when="1864-06-20">20 June 1864</date></note></p>
-<p>W. T. Cahill a citizen of Harrodsburg Mercer County Ky states on oath that he was present when John Patterson, the person named in Jno. D Hales Petition to Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramlette was recruited by said Hale, and when he joined the Company which Capt Hale was raising for the 2<hi rend="sup">d</hi> Ky heavy artillery &amp; afterwards transferred to 4<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Mounted Infantry and witness saw said Patterson sworn in at the time as a United States Soldier, -- This was all done about three weeks before the charge of rescuing him by Capt Hale was made, &amp; before the Indictment against s<hi rend="underline"><hi rend="sup">d</hi></hi> Hale, and he ^Patterson^ was a regular member of said company at the time the charge of rescuing him was made -- He further states that s<hi rend="underline"><hi rend="sup">d</hi></hi> Capt. Jno. D Hale a few days after the occurance &amp; charge of rescue delivered over said John Patterson to the civil authority of Mercer County &amp; that<pb/>
-<lb/>said Patterson is now under bond for his appearance in the Mercer Circuit Court with good surety, to argue the charge against him -- </p>
+<p>W. T. Cahill a citizen of Harrodsburg Mercer County Ky states on oath that he was present when John Patterson, the person named in Jno. D Hales Petition to Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramlette was recruited by said Hale, and when he joined the Company which Capt Hale was raising for the 2<hi rend="sup">d</hi> Ky heavy artillery &amp; afterwards transferred to 4<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Mounted Infantry and witness saw said Patterson sworn in at the time as a United states Soldier,- This was all done about three weeks before the charge of rescuing him by Capt Hale was made, &amp; before the Indictment against s<hi rend="underline"><hi rend="sup">d</hi></hi> Hale, and he ^Patterson^ was a regular member of said Company at the time the charge of rescuing him was made- He further states that s<hi rend="underline"><hi rend="sup">d</hi></hi> Capt. Jno. D Hale a few days after the occurance &amp; charge of rescue delivered over said John Patterson to the civil authorities of Mercer County &amp; that<pb/>
+<lb/>said Patterson is now under bond for his appearance in the Mercer Circuit Court with good surety, to answer the charge against him -- </p>
 <p><hi rend="underline">W. T. Cahill</hi></p>
 <p>Sworn to before me by W. T. Cahill this <date when="1864-06-20">20<hi rend="sup">th</hi> June 1864</date>.</p>
 <p>J W Cardwell N P
 <lb/><hi rend="underline">Mercer Co Ky</hi></p>
 <p>Mercer County</p>
-<p>L. M. Donovan states on oath that he Knows the statements of the foregoing affidavit of W. T. Cahill are true -- </p>
+<p>L. M. Donovan states on oath that he knows the statements of the foregoing affidavit of W. T. Cahill are true -- </p>
 <p>L M Donivan</p>
 <p>Sworn to before me by L M Donivan this <date when="1864-06-20">20 June 1864</date></p>
-<p>J.W. Cardwell N P.
+<p>J. W. Cardwell N P.
 <lb/>Mercer Co Ky</p>
 <p><stamp type="revenue"/><note place="stamp">J W C
 <lb/>N. P.
 <lb/><date when="1864-06-20">20 June 1864</date></note></p>
-<p><hi rend="underline">Affidavits</hi> of W. T. Cahill &amp; M. L. Donivan</p>
 <p><hi rend="underline">Cahills Affidavit</hi></p>
+<p>Affidavits of W. T. Cahill &amp; M. L. Donivan</p>
   </body>
  </text>
 </TEI>

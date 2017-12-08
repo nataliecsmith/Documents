@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1591"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Thomas J. Hutchison et al. to Beriah Magoffin</title>
+    <title level="a" type="main">Thomas J. Hutchison to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG11059</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <placeName> </placeName>
     <date when="1861-11-12">12 November 1861</date>
    </creation>
    <textClass>
@@ -61,23 +64,21 @@
  <text>
   <body>
    <p>To his Excelency Gov. Magoffin</p>
-<p>having unfortunatly gotten in to a Little difficulty I would most Respectfully request you to remit the fine which amount is Seven dollars. &amp; fifty <hi rend="underline"><hi rend="sup">cts</hi></hi>, I am a poor man with a family and having no steady work. I have not the money to pay <hi rend="str">it</hi> the fine by remitting the above you would confer a favor on me not soon to Be forgotten</p>
-<p>Most Respectfully,
-<lb/>Yours. Tho<hi rend="sup">s</hi>. J. Hutchison</p>
-<p><date when="1861-09-11"><hi rend="underline">Nov. 12/ 61</hi></date>
-<lb/><milestone unit="column" n="2"/><cb n="1"/>R. Gillispie
-<lb/>Louis Bager
+<p>having unfortunatly gotten in to a Little difficulty I would most respectfully request you to remit the fine Which amount is Seven dollars. &amp; fifty <hi rend="underline"><hi rend="sup">cts</hi></hi>, I am a poor man with a family and having no steady work. I have not the money to pay <hi rend="str">it</hi> the fine by remitting the above. you would confer, a favor on me not soon to Be forgotten</p>
+<p>most Respectfully,
+<lb/>Yours. <hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline">. J. Hutchison</hi></p>
+<p><date when="1861-09-11"><hi rend="underline">Nov. 12/61</hi></date>
+<lb/><milestone unit="column" n="2"/><cb n="1"/>R, Gillispie
+<lb/>Louis Bagar
 <lb/><cb n="2"/>Nelson Alley<milestone unit="column" n="1"/><pb/></p>
 <p>Frankfort Po. Ct
-<lb/>$750 } mis
-<lb/>Tho. J. Hutchinson</p>
-<p>Remission Iss<hi rend="sup">d</hi>
-<lb/><hi rend="underline">Decr. 16. 1861</hi></p>
-<p><hi rend="str">Respite 8 Mos</hi>
+<lb/>&#36;7<hi rend="underline"><hi rend="sup">50</hi></hi> &#125; mis
+<lb/>Tho. J. Hutchuson</p>
+<p>Remission Iss<hi rend="sup">d </hi>Decr. 16. 1861<figure type="hr"/></p>
+<p><hi rend="str">Respite 8 Mo</hi>
 <lb/>B. M</p>
 <p>To his Excellency
-<lb/>Gov Magoffin
-<lb/></p>
+<lb/>Gov Magoffin</p>
   </body>
  </text>
 </TEI>

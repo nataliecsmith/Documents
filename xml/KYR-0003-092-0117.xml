@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0117"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">George W. Johnson to Anne E. V. Johnson</title>
+    <title level="a" type="main">George W. Johnson to Ann E. V. Johnson</title>
     <title level="a" type="parallel">CWG14409</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,18 +63,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bowling Green Ky.
+   <p>Bowling Green Ky
 <lb/><date when="1861-10-25">Oct. 25. 1861</date>.
 <lb/>My Dear Ann</p>
-<p>I write again with the hope that my letter may reach you, although from obvious reasons, I must abstain from giving you any news, beyond what is entirely personal and not even all of that. I am as I wrote, <hi rend="str">now</hi> still here, as a volunteer aid of Genl. Buckner with whom I mess, and every day meet with Gen. Johnston and have some social conversation. So far as my associations go, they are so pleasant and agreeable, that if at home or within reach of it, I think I would be very happy. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Buckner is a gentleman, in all particulars -- with true heart and head for his country and friends. and every time I see Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Johnston I discover something to admire and esteem, which had before not been elected. He is eminently a great and good man. and I cannot help loving him. When he laughs, he reminds me greatly of my brother W<hi rend="sup">m</hi> Harry -- </p>
+<p>I write again with the hope that my letter may reach you, although from obvious reasons, I must abstain from giving you any news, beyond what is entirely personal and not even all of that. I am as I wrote, <hi rend="str">now</hi> still here, as a volunteer aid of Genl. Buckner with whom I mess, and every day meet with Gen, Johnston and have some social conversation. So far as my associations go, they are so pleasant and agreeable, that if at home or within reach of it, I think I would be very happy. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Buckner is a Gentleman, in all particulars -- with true heart and head for his country and friends. and every time I see Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Johnston I discover something to admire and esteem, which had before not been <unclear>charted</unclear>. He is eminently a great and good man. and I cannot help loving him. When he laughs, he reminds me greatly of my Brother W<hi rend="sup">m</hi> Henry -- </p>
 <p>I am very well -- my health I think gradually improving; and having shaved this morning &amp; feeling the cool air rather freely around my throat this morning, I think that I will not again use a razor this winter<pb/></p>
-<p>I hardly know what to write to you in regard to myself, without writing of something political or military, which of cource I am restrained from doing. But if I could give you a true transcript of my thoughts hopes and wishes in regard to you, my children and country, I would most willingly do it. Our affections extend from circle to circle, the first embracing ^the^ wife -- loved one only, then to family and children and then to one's country, but oh, how <unclear/> possibly dearer to the human, is the wife of of a man's early manhood, and the mother of his children, that all other affections of the human soul. I think I love my my country, but far beyond is the enterest I feel in you. It is true however, that all our duties must cling together, and no man could maintain his own self respect, in giving himself up to the pleasures of home, when his duties for the present call him elsewhere. If this unhappy war could close, as I have so often wished, in the independence of the South, and free trade with the north, with what I delight could I return to private life, and it's pleasures, to spend the balance of my days calmly with you. It is to me now, and constantly has, been, since I left home, a source of <hi rend="str">pleasure to</hi> consolation to me, to know, that I have done every thing possible to produce this result. Kentucky could have pro-<pb/>
-<lb/>peace on these terms, if her Legislature, had maintained the neutrality of the State, and had proposed her mediation, upon the terms of independence and free trade -- the first to satisfy the South and the latter to save the North, from total physical ruin. These are the terms upon which the North <hi rend="underline">must</hi> ultimately make peace, or be utterly ruined, or conquered as a dependancy of the South. The military genius of our People, their <unclear>unoneminity</unclear> of purpose &amp; the nature of her products insure these results as a necessity. If I were to say this however to some sanguine Union man, he would consider me mad. Time however will prove its truth to a certainty.</p>
-<p>I have written you 5 letters, and will continue to write hoping that they will ultimately reach you, even if examined &amp; opened by the enemy. No letter yet from you. I know you have written and do not think of complaining, but you cannot conceive the delight with which I would welcome a letter from you, to tell me of my little children and loved ones at home. What great pleasure is surely in store for me, and even more than that, for I have scarcely even had a moments despondency as to the issue of the struggle in Kentucky.</p>
+<p>I hardly know what to write to you in regard to myself, without writing of something political or military, which of cource I am restrained from doing. But if I could give you a true transcript of my thoughts hopes and wishes in regard to you, my children and country, I would most willingly do it. Our affections extend from circle to circle, the first embracing ^the^ wife -- loved one only, then to family and children and then to one's country, but oh, how <unclear>im</unclear>possibly dearer to the human, is the wife of of a man's early manhood, and the mother of his children, that all other affections of the human soul. I think I love my my country, but far beyond is the enterest I feel in you. It is true however, that all our duties must cling together, and no man could maintain his own self respect, in giving himself up to the pleasures of home, when his duties for the present call him elsewhere. If this unhappy war could close, as I have so often wished, in the independance of the South, and free trade with the north, with what I delight could I return to private life, and its pleasures, to spend the balance of my days calmly with you. It is to me now, and constantly has, been, since I left home, a source of <hi rend="str">pleasure to</hi> consolation to me, to know, that I have done every thing possible to produce this result. Kentucky could have pro-<pb/>
+<lb/>peace on these terms, if her Legislature, had maintained the neutrality of the State, and had proposed her mediation, upon the terms of independance and free trade -- the first to satisfy the South and the latter to save the North, from total physical ruin.. These are the terms upon which the North <hi rend="underline">must</hi> ultimately make peace, or be utterly ruined, or conquered as a dependancy of the South. The military genius of our People, their <unclear>unanemenity</unclear> of purpose &amp; the nature of her products insure these results as a necessity. If I were to say this however to some sanguine Union man, he would consider me mad.. Time however will prove its truth to a certainty.</p>
+<p>I have written you 5 letters, and will continue to write hoping that they will ultimately reach you, even if examined &amp; opened by the enemy. No letter yet from you. I know you have written and do not think of complaining., but you cannot conceive the delight with which I would welcome a letter from you, to tell me of my little children and loved ones at home. That great pleasure is surely in store for me. and even more than that, for I have scarcely ever had a moments despondency as to the issue of the struggle in Kentucky.</p>
 <p>Kiss every one for me &amp; may the Good God bless and protect you till my return.</p>
 <p>Your affectionate Husband George W Johnson<pb/></p>
 <p>For M<hi rend="underline"><hi rend="sup">rs</hi></hi> Ann E. Johnson
-<lb/>Georgetown Ky.<figure type="hr"/>
+<lb/>Georgetown Ky,<figure type="hr"/>
 <lb/>Care of James Gaines Esq</p>
   </body>
  </text>

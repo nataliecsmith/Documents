@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0174"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -52,26 +55,25 @@
    </creation>
    <textClass>
     <keywords>
-     <term type="genre">Note</term>
+     <term type="genre">Envelope</term>
     </keywords>
    </textClass>
   </profileDesc>
  </teiHeader>
  <text>
   <body>
-   <p><figure type="postmark"><listPlace><place><placeName>GREEN VILLE
-<lb/><date when="--10-29">OCT
-<lb/>29</date>
+   <p><figure type="postmark"><listPlace><place><placeName>GREENVILLE
+<lb/><date when="--10-29">OCT 29</date>
 <lb/>KY.</placeName></place></listPlace></figure></p>
 <p>Thomas E Bramlett Esqr
-<lb/>Governor of Kentucky
+<lb/>Govenor of Kentucky
 <lb/>Frankfort
-<lb/>Ky<pb/></p>
+<lb/>Ky,<pb/></p>
 <p>Muhlenberg Co</p>
-<p>Can't interpose while the case is depending &amp; undetermined. But think the Comths Atty with the consent of the comth ought upon the facts presented to enter a Nolli Prosequi or dimiss the case absolutely</p>
-<p><date when="1863-10-30">Oct 30<hi rend="sup">th</hi> 1863</date>
+<p>Can't interpose while the case is depending &amp; undetermined. But think the Comths Aty with the consent of the court ought upon the facts presented to enter a Nolle prosequi or dimiss the case absolutely</p>
+<p><date when="1863-10-30">Oct 30<hi rend="sup">h</hi> 1863</date>
 <lb/>Tho E Bramlette
-<lb/>ans<hi rend="sup">d</hi> <date when="1863-10-31">31<hi rend="sup">st</hi> Oct/ 63</date></p>
+<lb/>ans<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-10-31">31<hi rend="sup">st</hi> Oct/63</date></p>
   </body>
  </text>
 </TEI>

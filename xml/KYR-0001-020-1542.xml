@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1542"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">N. Wolfe to E. K. Seely</title>
+    <title level="a" type="main">Nathaniel Wolfe to E. K. Seely</title>
     <title level="a" type="parallel">CWG11010</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,17 +63,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1861-11-12">Nov<hi rend="sup">r</hi> 12<hi rend="sup">th</hi> 1861</date>
+   <p>Louisville <date when="1861-11-12">Nov<hi rend="sup">r</hi> 12" 1861</date>
 <lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>Your are the Physician to the County Jail of Jefferson County, and as such I wish you to write to me and state if you have examined, Angelo Devoto in respect to the condition of his health. If you have done so, I will thank you to state whether or not he is a man of delicate frame or not and if confinement in the Penitentiary will not greatly endanger his life. I will get you to state if he has not a family of small children and if they are not wholly dependant on the charity of friends for subsistance </p>
+<p>You are the Physician to the County Jail of Jefferson County, and as such I wish you to write to me and state if you have examined, Angelo Devoto in respect to the condition of his health. If you have done so, I will thank you state whether or not he is a man of delicate frame or not and if confinement in the Penitentiary will not greatly endanger his life. I will get you to state if he has not a family of small children and if they are not wholly dependant on the charity of friends for subsistance </p>
 <p>Very respy 
-<lb/>Yr obt sevt
+<lb/>Yr obt srvt
 <lb/>N. Wolfe</p>
-<p>Dr. E K Seely<pb/></p>
+<p>D<hi rend="sup">r</hi> E K Seely<pb/></p>
 <p>Jefferson Cir. Ct 
-<lb/>Angello DeVoto
+<lb/>Angello. DeVoto
 <lb/><hi rend="underline">1 Yr.</hi> <hi rend="underline">Penty</hi>
-<lb/>Pardon Iss<hi rend="sup">d</hi> <date when="1861-11-15">Nov. 15. 1861</date></p>
+<lb/>Pardon Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-11-15">Nov. 15. 1861</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0093"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,9 +67,9 @@
 <lb/>His Excellency
 <lb/>J F Robinson
 <lb/>Sir</p>
-<p>The Home Guards, of the Sandy Valley having exhausted all there private supplies in the service of these neighborhoods they are compelled to disband and leave there homes, -- or to go into some state or national organization where by they can be supplied, and make a support for there needy families who have been reduced, to want by the rebell thieves and<pb/>
-<lb/>and the necessary absence of there husbands &amp; brothers. These men are anxious to serve there country, but much prefer serving both section and country together they believe as I think all the well active men of this country believes that the <unclear/> are the soldiers who can best defend the mountains. They know every pass -- they have traversed every valley -- have asconded every hill they are familiar with all the haunts of the secessionist and acquainted with all there strategy. These men<pb/>
-<lb/>with an efficient leader well mounted and equipped with good and could do more to protect this part of Kentucky from the predatory <hi rend="str">band</hi> bands which infest it that four times those number on foot, I am satisfied that if these men could get assurance that they would be left in this county so lively as ^it is^ necessary to keep forces here, there can be a batallion raised in an incredibly Short time, the men are now in companies and all that is necessary is to have them mustered in the bearer of this but M<hi rend="sup">c</hi>Bride who<pb/>
+<p>The Home Guards, of the Sandy Valley having exhausted all there private supplies in the service of there neighbourhoods they are compelled to disband and leave there homes, -- or to go into some state or national organization wherby they can be supplied, and make a support for there needy families who have been reduced, to want by the Rebell thieves and<pb/>
+<lb/>and the necessary absence of there husbands &amp; bro<hi rend="str"><unclear/></hi>thers These men are anxious to serve there country, but much prefer serving both section and country together they believe as I think all the <hi rend="str"><unclear/></hi>well advised men of this country believes that the mountaineers are the soldiers who can best defend the mountains-- They know every pass -- they have traversed every valley -- have ascended every hill they are familiar with all the haunts of the secessionist and acquainted with all there strategy. These men<pb/>
+<lb/>with an efficient leader well mounted and equipped with good and could do more to protect this part of Kentucky from the predatory <hi rend="str">band</hi> bands which infest it than four times there number on foot; I am satisfied that if these men could get assurance that they would be left in this country so long as ^it is^ necessary to keep forces here, there can be a batallion -- raised in an incredibly Short time, the men are now in companies, and all that is necessary is to have them mustered in <hi rend="str">t</hi>The bearer of this Lut M<hi rend="sup">c</hi>Bride who<pb/>
 <lb/>bear's a letter from Col Zeigler commending his ability as an officer proposes to organize and, command the batallion he will give you further particulars</p>
 <p>Yours Respectfully
 <lb/>Laban T Moore</p>

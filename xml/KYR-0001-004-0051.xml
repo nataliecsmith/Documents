@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0051"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,40 +64,40 @@
  <text>
   <body>
    <p>To His Excellency Thomas E. Bramlette Governor of the Commonwealth of Kentucky -- </p>
-<p>The undersigned your Petitioner would state that he was indicted at the late Term of the City Court of Louisville on a charge of permitting and suffering gaming in his house Whereby money was lost and won. Knowing the fact that men had gambled in his house and although he had not sanctioned the practice, yet he had not <hi rend="underline">prevented</hi> it, he determined to make no resistance to the Indictment, but <hi rend="underline">confessed</hi> and was fined in the statutory fine of Two Hundred Dollars -- costs of <unclear>course</unclear> -- </p>
-<p>He would most respectfully and truly represent that he is a young man and has just commenced business and that persons much older than himself, for their own amusement, profit or gratification made Free with his house and played games of cards in it; and that he young and inexperienced lost a delicacy in stopping the games and ordering the gentlemen to desist. Therefore he thinks that he in a measure was imposed upon. He will however know better in Future and dispense with all false delicacy on the subject. He will not be laid liable again to such Indictments.<pb/></p>
-<p>He states that he is poor, just commenced business, scarcely twenty one years of age, not making much money. And that the payment of this heavy fine would be onerous upon him. He therefore asks your Excellency to <hi rend="underline">remit</hi> the same and prays that the same be fully and entirely remitted And as in duty bound will ever pray &amp;c</p>
-<p>James H. Cornell<pb/></p>
+<p>The undersigned your Petitioners would state that he was indicted at the late Term of the City Court of Louisville on a charge of permitting and suffering Gaming in his house Whereby money was lost and won. Knowing the fact that men had gambled in his house and although he had not sanctioned the practice, yet he had not <hi rend="underline">prevented</hi> it, he determined to make no resistance to the Indictment, but <hi rend="underline">confessed</hi> and was Fined in the statutory fine of Two Hundred Dollars -- costs of <unclear>course</unclear> -- </p>
+<p>He would most respectfully and truly represent that he is a young man And has just commenced business And that persons much older than himself, for their own amusement, profit or gratification made Free with his house And played games of Cards in it; And that he young and inexperienced felt a delicacy in stopping the games and <hi rend="underline">ordering</hi> the gentlemen to desist. Therefore he thinks that he in a measure was imposed upon. He will however know better in future and dispense with all false delicacy on the subject -- He will not be laid liable again to such Indictments.<pb/>
+<lb/>He states that he is poor, just commenced business, scarcely twenty one years of age, not making much money. And that the payment of this heavy fine would be onerous upon him -- He therefore asks your Excellency to <hi rend="underline">remit</hi> the same, and prays that the same be fully and entirely remitted And as in duty bound will ever pray &amp;c</p>
+<p><hi rend="underline">James. H. Cornell</hi><pb/></p>
 <p>We the undersigned personally acquainted with James H. Cornell the petitioner would most respectfully request your Excellency to pardon him and remit the fine -- </p>
 <p>Hon. Thomas E. Bramlette
-<lb/>Governor</p>
+<lb/>Governors</p>
 <p>I recommend Mr James H Cornell to the clemency of the executive for two reasons; first his youth and inexperience &amp; secondly for his manly confession</p>
 <p>Richard T. Jacob
-<lb/>Taylor S. Smith
-<lb/>Robt R. Hamilton
-<lb/>W. W. Durand
+<lb/>Taylor P. Smith
+<lb/>Robt A. Hamilton
+<lb/>W. W. Durant
 <lb/>J. D. Osborne
-<lb/>Will G Calden
-<lb/>Capt 23<hi rend="sup">d</hi> Ky Inspect Q<unclear/>
+<lb/>Will. G. Holden
+<lb/>Capt 23<hi rend="sup">d</hi> Ky Inspect <unclear/>
 <lb/>Louisville Ky
 <lb/>Geo. D. Prentice
-<lb/>John H. Horne</p>
-<p>I respectfully Join in the prayer of the petitioner -- having sufficient reason for so doing</p>
-<p>W. G. Reasor
-<lb/>City Atto</p>
+<lb/>John H. Howe</p>
+<p>I respectfully Join in the prayer of the petitioner -- having sufficient reason for <hi rend="str">the</hi> so doing</p>
+<p>W G. Reasor
+<lb/>City atto</p>
 <p>I concur in the above</p>
 <p>W R Hydes City Marshal</p>
-<p>Most of the Gentlemen who have signed the foregoing Petition, I presume are personally<pb/></p>
-<p>known to the Governor, two of them are officers of the city. I write with them, on the ground of the youth &amp; inexperience of the Petitioner and his former excellent moral standing &amp; good deportment</p>
-<p>Geo. W. Johnston
-<lb/>Phil Tomppert Jr C. C. C. L</p>
+<p>Most of the Gentlemen who have signed the foregoing Petition, I presume are personally<pb/>
+<lb/>know to the Governor, two of them are officers of the city. I write with them, on the ground of the youth &amp; Inexperience of the Petitioner and his former excellent moral standing &amp; good deportment</p>
+<p>Geo. W. Johnston.
+<lb/><hi rend="underline">Phil Tomppert Jr C C C L</hi></p>
 <p>Louisville City Court
 <lb/>vs
 <lb/>J. H. Cornell
-<lb/>$200 -- </p>
-<p>Remit all except costs and fees of atty
-<lb/><date when="1863-09-24">Sept 24" 1863</date>
-<lb/>Tho E Bramlette</p>
+<lb/>&#36;200 -- </p>
+<p>Remit all except costs and fees of Atty
+<lb/><date when ="1863-09-24">Sept 24<hi rend="sup">th</hi> 1863</date></p>
+<p>Tho E Bramlette</p>
   </body>
  </text>
 </TEI>

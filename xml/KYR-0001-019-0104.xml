@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0104"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,12 +64,12 @@
  <text>
   <body>
    <p>Stanford Ky
-<lb/><date when="1861-07-25">July 25<hi rend="sup">th</hi> 1861</date> -- 
-<lb/>Dear Sir,</p>
-<p>I met M<hi rend="sup">r</hi> Boyle at Nicholasville and he requests me to say to you that the East Tenn, expedition <hi rend="underline">is abandoned</hi> He was then on his way to Cincinnati to inform M<hi rend="sup">r</hi> Nelson of the fact. I found all those in Garrard who were heretofore engaged in the enterprise fully determined upon immediate abandonment of the project this conclusion had been reached by them before my arrival there, doubtlessy M<hi rend="sup">r</hi> B had seen them.</p>
-<p>M<hi rend="sup">r</hi> Boyle requests you to endeaver at once to prevent any action upon the part of Tennessee if in you powers. That you may <hi rend="str">assur</hi> assure the Tennessee authorities that no such enterprise is now in Contemplation -- I am happy to inform you of the successful termination of this dangerous organization to our peace &amp; safety,</p>
-<p>Yours Truly
-<lb/>E. L. VanWinkle</p>
+<lb/><date when="1861-07-25">July 25<hi rend="sup">th</hi> 1861-</date>
+<lb/>Dear Sir.</p>
+<p>I met M<hi rend="sup">r</hi> Boyle at Nicholasville and he requests me to say to you that the East Tenn, expedition <hi rend="underline">is abandoned</hi> He was then on his way to Cincinnati to inform M<hi rend="sup">r</hi> Nelson of the fact. I found all those in Garrard who were heretofore engaged in the enterprise fully determined upon immediate abandonment of the pro<hi rend="str">g</hi>ject- this conclusion had been reached by them before my arrival there, doubtlssy M<hi rend="sup">r</hi> B had seen them,</p>
+<p>M<hi rend="sup">r</hi> Boyle requests you to endeaver at once to prevent any action upon the part of Tennessee if in your power! That you may <hi rend="str">assur</hi> assure the Tennessee Authorities that no such enterprise is now in Contemplation- I am happy to inform you of the successful termination of this dangerous organization to our peace &amp; safety,</p>
+<p>yours Tuly
+<lb/>E L VanWinkle</p>
 <p>Gov Magoffin</p>
   </body>
  </text>

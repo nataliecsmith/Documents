@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0061"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,17 +63,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Robert Cochrans Spencer County, Ky. <date when="1864-12-18">Dec<hi rend="sup">r</hi> 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
+   <p>Robert Cochran,s Spencer
+<lb/>County, Ky, <date when="1864-12-18">Dec<hi rend="sup">r</hi> 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
 <lb/>Gov Bramlette</p>
-<p>My friend Geo Anderson of this County has this morning called ^on^me for a letter of introduction to you, he informs me that his Son joined a recruiting Officer who claimed to belong to Jessee -- while on a Spree and was the next day Captured by Bridwater on the highway without weapons. Mr Anderson is a gentleman and will represent the facts to you correctly. Mr A advocated your election for Govener to my personal knowledge and has all the time that I have known him advocated perfect obedience to all Federal and State laws and &amp; Military orders, I am intimately acquainted with Mr Anderson and know that he went further than I could endorse in the advocacy of the present Administration, Any favour consistent with duty grnated to Mr Anderson will not be dishonored by him, I feel for him as good citizen, His house was my place of refuge the night I escaped from the Guerrillas after my brutal treatment by them He has from the commencement been my <hi rend="underline">friend</hi>.</p>
+<p>My friend Geo Anderson of this County has this morning called ^on^ me for ^a^ letter of introduction to you, he informs me that his <hi rend="str">s</hi>Son joined a recruiting <hi rend="str">o</hi>Officer who claimed to belong to Jessee -- while on a Spree and was the next day Captured by Bridwater on the highway without weapons, Mr Anderson is a gentleman and will represent the facts to you correctly,. Mr A advocated your election for <hi rend="str">g</hi>Govener to my personal knowledge and has all the time that I have known him advocated perfect obedience to all Federal and State laws and &amp; Military orders, I am intimately acquainted with Mr Anderson and know that he went farther than I could endorse in the advocacy of the present <hi rend="str">a</hi>Administration, Any favour consistent with duty granted to Mr Anderson will not be dishonored by him, I feel for him as good citizen, His house was my place of refuge the night I escaped from the Guerrilla,s after my brutal treatment by them He has from the commencement been my <hi rend="underline">friend</hi>.</p>
 <p>Truly
 <lb/>Otho Miller</p>
 <p>P S excuse a miserable pen<pb/></p>
 <p>Spencer County Ky
-<lb/><date when="1864-12-18">&gt;Dec 18" 1864</date><figure type="hr"/>
-<lb/><hi rend="underline">Anderson Geo W</hi>
-<lb/>Miller Otho<figure type="hr"/>
-<lb/>To the Gov<hi rend="sup">r</hi><figure type="hr"/></p>
+<lb/><date when="1864-12-18">>Dec 18" 1864</date><figure type="hr"/></p>
+<p><hi rend="underline">Anderson. Geo W</hi></p>
+<p>Miller Otho<figure type="hr"/></p>
+<p>To the Gov<hi rend="sup">r</hi><figure type="hr"/></p>
 <p>Introduces Mr Geo. Anderson -- you can rely upon what he may state to you -- <figure type="hr"/></p>
 <p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-12-20">Dec 20" 1864</date></p>
   </body>

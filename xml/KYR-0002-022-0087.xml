@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0087"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,35 +63,35 @@
  </teiHeader>
  <text>
   <body>
-   <p>Head Qr<hi rend="sup">s</hi>. 68<hi rend="sup">th</hi> Reg<hi rend="sup">t</hi> Ky E. M.
-<lb/>Louisa <date when="1864-05-26">May 26<hi rend="sup">th</hi> 1864</date>
+   <p>Head Qr<hi rend="underline"><hi rend="sup">s</hi></hi> 68<hi rend="underline"><hi rend="sup">th</hi></hi> Regt Ky, E, M,
+<lb/>Loui<hi rend="str">a</hi>sa <date when="1864-05-26">May 26<hi rend="sup">th</hi> 1864</date>
 <lb/>Quartermaster General
 <lb/>State of Kentucky,
 <lb/>Sir</p>
-<p>the 68<hi rend="sup">th</hi> Regt Ky Enrolled Militia are now on duty at this post, under our order from the Governor calling them into the service for 30 days, we have no camp &amp; Garrison Equipage. I made the enclosed requisition upon the Brigade Quartermaster at this post, he proposes to issue upon the requisition in the event the Governor will endorse his approval upon the requisition.</p>
-<p>This is the second time this (68<hi rend="sup">th</hi>) Regt. has been called into the service we have no means of procuring articles necessary for its use unless authority be given us to purchase. I would respectfully suggest that authority be given me to purchase such articles<pb/>
-<lb/>as an necessary for the use of the Regiment upon the apporveal or order of the C<hi rend="sup">ol</hi> commanding.</p>
+<p>the 68<hi rend="sup">th</hi> Regt Ky Enrolled Militia are now on duty at this post, under an order from the Governor. Calling them into the service for 30 days, we have no Camp &amp; Garrison Equipage, I made the enclosed requisition upon the Brigade Quartermaster at this post, he proposes to issue upon the requisition in the event the Governor will endorse his approval upon the requisition.</p>
+<p>This is the second time this (68<hi rend="sup">th</hi>) Reg<hi rend="sup">t</hi>. has been called into the service we have no means of procuring articles necessary for its use unless authority be given us to purchase. I would respectfuly suggest that authority be given me to purchase such articles<pb/>
+<lb/>as are necessary for the use of the Regiment upon the apporveal or order of the C<hi rend="sup">ol</hi> Commanding.</p>
 <p>I am Gen<hi rend="sup">rl</hi>
-<lb/>Your O<hi rend="sup">bt</hi> Sv<hi rend="sup">t</hi>.
+<lb/>Your Ob<hi rend="sup">t</hi> Sv<hi rend="underline"><hi rend="sup">t</hi></hi>
 <lb/>Thomas Wallace
-<lb/>Lt &amp; Regt Q. M. 68<hi rend="sup">th</hi>, Ky, E. M.<pb/></p>
+<lb/>L<hi rend="sup">t</hi> &amp; Reg<hi rend="sup">t</hi> q, M, 68<hi rend="sup">th</hi> Reg<hi rend="sup">t</hi> Ky, E. M.<pb/></p>
 <p>Ky State Militia
 <lb/>Louisa
 <lb/>Lawrence Co
 <lb/><date when="1864-05-26">May 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
 <lb/>Wallace Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Qr Mr
 <lb/>68<hi rend="underline"><hi rend="sup">th</hi></hi> Regt E. M.</p>
-<p>Makes inquiry in regard to obtaining camp and garrison equipage for his Regt<figure type="hr"/>
-<lb/>Recd Q. M. G. O. <date when="1864-06-01">June 1<hi rend="underline"><hi rend="sup">st</hi></hi> /64.</date></p>
+<p>Makes inquiry in regard to obtaining camp and garrison equipage for his Reg<hi rend="sup">t</hi><figure type="hr"/>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> Q. M. G. O. <date when="1864-06-01">June 1<hi rend="underline"><hi rend="sup">st</hi></hi> /64</date></p>
 <p>68 EM
 <lb/>Office Q. M. G. Ky
-<lb/><date when="1864-06-01">June 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1864</date><figure type="hr"/>
-<lb/>Respy referred to Maj Gen<hi rend="underline"><hi rend="sup">l</hi></hi> D W Lindsey Insp Gen<hi rend="underline"><hi rend="sup">l</hi></hi>.
-<lb/>S G Suddarth
-<lb/>Qe Mr Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky<figure type="hr"/>
-<lb/>ans
+<lb/><date when="1864-06-01">June 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1864</date><figure type="hr"/></p>
+<p>Respy referred to Maj Gen<hi rend="underline"><hi rend="sup">l</hi></hi> D W Lindsey Insp Gen<hi rend="underline"><hi rend="sup">l</hi></hi>.</p>
+<p>S G Suddarth
+<lb/>Qr Mr Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky<figure type="hr"/></p>
+<p>ans
 <lb/>L. A. Page 348<figure type="hr"/>
-<lb/>Recd I. G. O. <date when="1864-06-01">June 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1864.</date></p>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> I. G. O. <date when="1864-06-01">June 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1864.</date></p>
   </body>
  </text>
 </TEI>

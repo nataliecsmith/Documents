@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0107"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,21 +66,20 @@
    <p>J. G. JAMES, Pres't.
 <lb/>J. A. GRINSTEAD, Cash'r</p>
 <p>The Agricultural Deposit Bank
-<lb/>Lexington <date when="1861-06-14">June 14. 1861</date>
-<lb/>G W Johnson <hi rend="italic">Esq. </hi><hi rend="str">Cashier</hi>
+<lb/>Lexington <date when="1861-06-14">June 14. 1861.</date>
+<lb/>G W Johnson Esq<hi rend="italic">. </hi><hi rend="str">Cashier</hi>,
 <lb/>Dear Sir</p>
-<p>Your favor of <gap/> inst <hi rend="str">received with <gap/> enclosures</hi>. ^<unclear/> Johnson's acceptance for $1497^ due &amp; probated 12 <unclear/> as last of which you are <unclear>drawer</unclear> is still unadjusted</p>
+<p>Your favor of <gap/> inst <hi rend="str">received with <gap/> enclosures</hi>. ^<unclear>W D</unclear> Johnson's acceptance for &#36;1497^ due &amp; probated <date when="1860-12">12 Decr last</date> of which you are drawer is still unadjusted</p>
 <p>Respectfully Yours,<hi rend="italic">
-<lb/></hi>James A. Grinstead Cashier.</p>
+<lb/></hi>James A Grinstead Cashier.</p>
 <p>I enclose for collection.<pb/></p>
 <p>J. A Grinstead
-<lb/>Notive of non-pay<hi rend="underline"><hi rend="sup">t</hi></hi> of note -- 
+<lb/>Notice of non-pay<hi rend="underline"><hi rend="sup">t</hi></hi> of note -- 
 <lb/><date when="1861-06-14">June 14, 1861</date>.</p>
 <p>/
 <lb/>7020
 <lb/>8<figure type="hr"/>
-<lb/>0
-<lb/></p>
+<lb/>8</p>
   </body>
  </text>
 </TEI>

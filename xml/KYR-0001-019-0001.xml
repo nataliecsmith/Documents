@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0001"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Christina Adkins</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Christina Adkins</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,15 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Office of the <orgName ref="cwgk:O00000388">Adjutant General</orgName>,<lb/><placeName ref="cwgk:P00000308">Frankfort, Ky</placeName>., <date when="1860-12-19">Dec 19<hi rend="sup">t</hi>, 1860</date>.
+   <p>Office of Adjutant General,
+<lb/>Frankfort, Ky., <date when="1860-12-19">Dec 19<hi rend="sup">t</hi>, 1860</date>.
 <lb/>Sir</p>
-<p>The Contents of this letter having been noticed I answered as follows </p>
-<p>Ample Proof to your showing cause of an insurrection by your order upon the <orgName ref="cwgk:O00000389">Quarter Master General</orgName> the arms would be furnished</p>
+<p>The Contents of this letter haveing been noticed I answerd as follows </p>
+<p>Ample Proof to you showing cause of an insurrection by your Order upon the Quarter Master General the arms would be furnished</p>
 <p>Respectfully
-<lb/><hi rend="str">John</hi><persName ref="cwgk:N00000390">Scott Brown</persName></p>
+<lb/><hi rend="str">Y obt <unclear/></hi>Scott Brown</p>
 <p>To
-<lb/>His Excetency
-<lb/>Gov <persName ref="cwgk:N00000258">Magoffin</persName></p>
+<lb/>His Excelency
+<lb/>Gov Maguffin</p>
   </body>
  </text>
 </TEI>

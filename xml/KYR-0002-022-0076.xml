@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0076"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,20 +63,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>Head Quarters 65<hi rend="underline"><hi rend="sup">th</hi></hi> Kentucky
+   <p>Head Quarters 65<hi rend="sup">th</hi> Kentucky
 <lb/>Enrold Militia
-<lb/>Paintsville Johnson Co Ky
+<lb/>Paintsville Johnson Co, Ky
 <lb/><date when="1864-08-05">August 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
 <lb/>To his Excencley Thomas E Bramlit Gavoner of the State of Kentucky</p>
-<p>In obedieance to your order ordering me to make a company of active militia I am indevering to make the company and have detailed one hundred &amp; one men and have Fifty Five in camp in Paintsville and have put Lie<hi rend="underline"><hi rend="sup">ut</hi></hi> Col G. W. Brown in command he being the best driled man and I think the most compatant in my Reidgmment and Recamend that he be commissioned as captain of the company and have appointed E. H. Walker First Lieutenant C. G. <unclear/> second Lieutenant and John Turner Third Lieutenant and Recommend that they be commissioned if it is leagal for me to appoint the officier I made an effort to map the company by volunteers but could not get more than five or six I then made the detail by ballet out of the Sevral Companys in the Reidgment on the <date when="---23"><hi rend="str">2</hi>3<hi rend="sup">th</hi> of this instant</date> we are <hi rend="str">subsisten</hi> gitting our subsistance from the country have about 45 guns 10 enfield a few shot guns and the balance old guns that the Rebeles left Scaterd about in the country I have vary litle amunition only a litle I got from the united States Troops at Louisa.</p>
-<p>We have a bad chance of information here have no mail to this place the nerist is<pb/>
-<lb/>to Louisa which is 32. miles I have no regulations nor nothing to govern me in my duty in organinzeing the company I tharefore desire all the information from you that ^you^ can give me as it respects the organization of the company and ^how^ they are to be armed &amp; Equipted &amp; clothed and furnished with Subsistence &amp; Co.</p>
-<p>Thare is a good meny Reble Gerrillars in this country and I think the company might be in agrat deal of danger in camp without being beter armed tharefore desire that I heare from you imeadatly..</p>
-<p>The office of Captain in Company <hi rend="str">beleave Vacant</hi> B. having become vacant I had an election heldd in said company on the <date when="---03">3<hi rend="sup">th</hi> of this instant</date> and John S. Miller wase elected Captain on Jessey Murry Third Lieutenant in same company Co. C. John Hilman First Lieutenant Co. E. Nathaniel PSimer wase elected Captain William Vanhoose First Lieutenant &amp; Asey J Fairchild Second Lieutenant-</p>
-<p>The gurillar Sidney Coop made a rade in Paintsville on the night of the <date>16 July</date> ^with about fifty men^ and Robed the storse <hi rend="str">with about fifty men</hi> and the shrriff caled on me and ordered <hi rend="str">me</hi> my Ridgment in and had to Send to Louisa for amunition and hunt up <hi rend="str">the</hi> guns from the country and started in pursuit<pb/>
-<lb/>of the thievs on the <date when="---23">23<hi rend="sup">th</hi></date> about 5 ock P. M. and marched about 15 miles that night the next day pursued on within 7 miles of West liberty and run him out which is about 35 miles from here took several prisoners but coud not git evidance against but one <hi rend="str">who</hi> he belonged to the band I sent him to Louisa and turned him over to the united States forces</p>
-<p>I had seventy Five men with me I went in person G. W. Braun Lt Col &amp; W. W. House Adjt was in the scout with me</p>
-<p>At the Election on the <date when="---01">1<hi rend="sup">st</hi> instant</date> thare wase assale assned at apart of the voting precients for <hi rend="str">Col</hi> Colonel and Lieutenant Colonel and one M<hi rend="underline"><hi rend="sup">r</hi></hi> Auxier wase paled for Colonel &amp; C. C. Price for Lieutenant Colonel and having no <unclear/> wase Eleted the peple no agenral thing in this county did not under stand that that wase the time for Electing a Colonel &amp; Lieut Clonel if it had ben so under stood they could have Elected A loyal man to have <hi rend="str">to</hi> filed them officers, and I think thare is general ^did^satisfaction</p>
+<p>In obedieance to your order ordering me to make acompany of active Militia I am indevering to make the company and have detailed one hundred &amp; one men and have Fifty Five in Camp in Paintsville and have put Lieu<hi rend="underline"><hi rend="sup">t</hi></hi> Col G, W, Brown in Command he being the best driled man and I think the most campatant in my Reidgmment and Recamend that he be Commissioned as Captain of the Company and have appointed <hi rend="str"><unclear/></hi>E, H, Walker First Lieutenant <hi rend="str"><unclear/></hi>C. G. <unclear>Rule</unclear> second Lieutenant and John Turner Third Lieutenant and Recammend that they be commissioned if it is leagal for me to appoint the officier I made an effort to make the company by volunteers but could not get more than five or six I then made the detail by ballet out of the sevral Companeys in the Reidgment on the <date when="1864-08-03"><hi rend="str">2</hi>3<hi rend="sup">th</hi> of this instant</date> we are <hi rend="str">subsisten</hi> gitting our subsistance from the country have about 45 guns 10 enfield a few shot guns and the balance old guns that the Rebles left Scaturd about in the country I have vary litle amunition only a litle I got from the united States Troops at Louisa</p>
+<p>We have a bad chance of infermation here have no Mail to this plase the nerist is<pb/>
+<lb/>to Louisa which is 32, miles I have no regulations nor nothing to govern me in my duty in organinzeing the company I tharefore desire all the information from you that ^you^ can give me. as it respects the org<hi rend="str">i</hi>anization of the Company and ^how^ they are to be armed &amp; Equipted &amp; clothed and furnished with subsistence &amp; Co.</p>
+<p>Thare is a good meny Reble Gerrillars in this country and I think the company might be in agratdeal of danger in the camp without being beter armed tharefore desire that I heare from you imeadatly,,</p>
+<p>The office of Captain in Company <hi rend="str">became Vacant</hi>, B, having became Vacant I had an election heldd in said company on the <date when="1864-08-03">3<hi rend="sup">th</hi> of this instant</date> and John S, Miller wase elected Captain an Jessey Murry Third Lieutenant in same company Co, C, John Hilman First Lieutenant Co, E, Nathaniel P Simer wase elected Captain William Vanhoose First Lieutenant &amp; Asey J Fairchild secand Lieutenant -- </p>
+<p>The gurillar Sidney Coop made a rade in Paintsville on the night of the <date when="1864-07-16">16 July</date> ^with about fifty men^ and Robed the storse <hi rend="str">with about fifty men</hi> and the shrriffe caled on me and I ordered <hi rend="str">me</hi> my Ridgment in and had to send to Louisa for amunition and hunt up <hi rend="str">the</hi> guns from the country and started in pursuit<pb/>
+<lb/>of the thievs on the <date when="1864-07-23">23<hi rend="sup">th</hi></date> about 5 ock P, M, and marched about 15 miles that night the next day pursued on within 7 Miles of West liberty and run him out which is about 35 miles from here took several prisoners but coud not git evidance against but one <hi rend="str">who</hi> he belonged to the band I sent him to Louisa and turned him over to the united States. forces</p>
+<p>I had Seventy Five men with me I went in persan G, W, Brown Lt Col &amp; W, W, House Adjt wase in the scout with me</p>
+<p>At the Election on the <date when="1864-08-01">1<hi rend="sup">st</hi> instant</date> thare wase apole assssed at apart of the voting precients for <hi rend="str">Col</hi> Colonel and Lieutenant Colonel and one M<hi rend="underline"><hi rend="sup">r</hi></hi> Auxier wase poled for Colonel &amp; C, C, Price for Lieutenant Colonel and having no <unclear/> wase Elected the peple no agenral thing in this county did not under stand that that wase the time for Electing a Colonel &amp; Lieut Clonel if it had bin so under stood they could have Elected A loyal Man to have <hi rend="str">to</hi> filed them officers, and I think thare is genral ^dis^satisfaction</p>
 <p>Burges Preston
 <lb/>Col Comdg, 65, Ky, E, M</p>
   </body>

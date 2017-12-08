@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0552"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,50 +63,49 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Thomas E Bramlett,
+   <p>To His Excellency, <hi rend="str">James F. Robinson</hi> Thomas E Bramlett,
 <lb/>Govenor of Kentucky: -- </p>
-<p>Your petitioner, J. R. Rice, respectfully represents and states that at the <date when="1860-04">April term, 1860</date>, of the Mercer Circuit Court, he was fined, by a Jury, sixty dollars <hi rend="str">for</hi> on the charge of selling a drink of whiskey to one P. M. Hale: that at that time your petitioner had license to sell in quantities not less than a quart, and he further states that the drink of whisky for which he was fined was sold to said Hale while your petitioner was absent in another county, by a young man who was <unclear/> for him -- that it was done contrary to the directions and order of your petitioner -- that it was contrary to the practice in his house and done without any knowledge or approval on his part -- He further states that he gave his clerk a positive command not to sell in less than the legal quantity -- </p>
-<p>Your petitioner further says that at the time the fine was imposed he was necessarily absent from the county, and having been assured that the case would be continued had no opportunity to make a defence -- For these reasons he would most respectfully ask your Excellency to remit his fine -- </p>
+<p>Your petitioner, J. R. Rice, respectfully represents and states that at the <date when="1860-04">April term, 1860</date>, of the Mercer Circuit Court, he was fined, by a Jury, sixty dollars <hi rend="str">for selling</hi> on the charge of selling a drink of whisky to one P. M. Hale: that at that time your petitioner had license to sell in quantities not less than a quart, and he further states that the drink of whisky for which he was fined was sold to said Hale while your petitioner was absent in another county, <hi rend="str">and</hi>by a young man who was <unclear/>ing for him -- that it was done contrary to the directions and order of your petitioner -- that it was contrary to the practice in his house and done without any knowledge or approval on his part- He further states that he gave his clerk a positive command not to sell in less than the legal quantity-</p>
+<p>Your petitioner further says that at the time the fine was imposed he was necessarily absent from the county, and having been assured that the case would be continued had no opportunity to make a defence -- For these reasons he would most respectfully ask your Excellency to remit his fine-</p>
 <p>State of Kentucky
-<lb/>Mercer County } Sct -- </p>
+<lb/>Mercer County &#125; sct-</p>
 <p>J. R. Rice says on oath that the<pb/>
 <lb/>statements in the foregoing petition are true -- </p>
 <p>J, R, Rice</p>
-<p>Subscribed and sworn to before me as Police Judge of Harrodsburg, this <date when="1863-08-13">13 day of August 1863</date></p>
+<p>Subscribed and sworn to before me, as Police Judge of Harrodsburg, this <date when="1863-08-13">13 day of August 1863</date></p>
 <p>John G. Kyle P. J. H.</p>
-<p>We the undersigned persons residents of Mercer County join in the prayer of J. R. Rice for the remission of his fine</p>
+<p>We the undersigned persons residents of Mercer County Join in the prayer of J. R. Rice for the remission of his fine</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Names
 <lb/>P M Hale
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> V. <unclear>Frapnall</unclear>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> V. Trapnall
 <lb/>Ben Lee Hardin
-<lb/><hi rend="str">Ben C <unclear>Frapnall</unclear></hi>
+<lb/><hi rend="str">Ben. C. Trapnall</hi>
 <lb/>S A Herndon
 <lb/>Tho<hi rend="sup">s</hi> Edwards P J M C C
-<lb/>Danl Connor
+<lb/>Paul Connor
 <lb/>W W Edwards
-<lb/>C L Abell clk M C
+<lb/>C S Abell clk M C
 <lb/>H, C, Willis
 <lb/>A G Kyle
 <lb/><hi rend="underline">J W. Cardwell</hi> -- 
 <lb/><cb n="2"/>Names</p>
-<p>The undersigned members of the bar at Harrodsburg join in the prayer of J. R. Rice -- </p>
+<p>The undersigned members of the bar at Harrodsburg Join in the prayer of J. R. Rice -- </p>
 <p>Names
 <lb/>John G. Kyle
 <lb/>Jno P Haggin
-<lb/>Ben C. Frapnall<pb/></p>
-<p><milestone unit="column" n="1"/>We the undersigned members of the jury who fined J. R. Rice in the case referred to in his petition Join in his prayer to have his fine remitted -- </p>
+<lb/>Ben. C. Trapnall<pb/></p>
+<p><milestone unit="column" n="1"/>We, the undersigned members of the Jury who fined J. R. Rice in the case referred to in his petition Join in his prayer to have his fine remitted -- </p>
 <p>Names
-<lb/>E Gabbert
-<lb/>M D Hale
-<lb/>J, P, Lahune
-<lb/>S Gord
-<lb/>James Terherne
+<lb/>E gabbert
+<lb/>M. D Hal<hi rend="str">e</hi>l
+<lb/>J. P., Terhune
+<lb/>S Stone
+<lb/>Isaac Terhune
 <lb/>John, W, Grey
 <lb/>Jas Kirby<pb/></p>
-<p>Mercer County
-<lb/>Remission
-<lb/>Refused
-<lb/>Thos E Bramlette</p>
+<p>Mercer County</p>
+<p>Remission refused
+<lb/>Tho E Bramlette</p>
   </body>
  </text>
 </TEI>

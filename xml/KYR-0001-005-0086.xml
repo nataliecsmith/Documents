@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0086"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Campbell County, Kentucky</placeName>
-    <date when="1865-08-24">24 August 1865</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -62,17 +65,17 @@
   <body>
    <p>Campbell Circuit Court
 <lb/>The Commonwealth of Kentucky Plaintiff
-<lb/>Against } Indictment for refusing to receive the vote of a qualified voter
-<lb/>John W Flora &amp; Geo Herendon Defendant</p>
-<p>The Grand Jury of Campbell County, in the name and by the authority of the Commonwealth of Kentucky, accuse John W Flora &amp; Geo Herendon of the offense of refusing to receive the vote of a qualified voter, Committed as follows, viz; The Said John W Flora &amp; George Herendon on the <gap/> day of <date when="1865-08">August, 1865</date>, and on divers other days and times, before and Since that time, and before the finding of this Indictment, in the County and State aforesaid, were officers of an Election &amp; there held at Carthage Precinct, in Said County, under the Constitution &amp; laws of the State of Kentucky, for the Election<pb/>
-<lb/>of a member of the Congress of the United States in the 6<hi rend="underline"><hi rend="sup">th</hi></hi> Congressional District, a State Treasurer, a Senetor from the 25<hi rend="underline"><hi rend="sup">th</hi></hi> Senatorial District, two members of the General Assembly, and a Clerk of the Circuit Court for Said county; The said Flora then &amp; there being a Judge of Said Election; and the Said Herendon being then &amp; there the Sheriff at Said Election, and Severally acting as such, at the time and place aforesaid -- having been duly appointed and qualified as Such Judge &amp; Sheriff; The Jurors aforesaid in the name and by the authority aforesaid, do further say that at the Election aforesaid, and for the purpose aforesaid, at the Precinct -- aforesaid in the County aforesaid, on the day and year aforesaid, Thomas Daniel, a qualified voter of Said Precinct and County, did then &amp; there appear at the Polls before the Judges, Sheriff &amp; Clerk of the Said Election, between the hours of<pb/>
-<lb/>Seven Oclock A. M., and Six Oclock P, M, and then &amp; there offer to vote, Whereupon the Said John W. Flora &amp; George Herendon, as Judge &amp; Sheriff of Said Election Respectively, did Knowingly and unlawfully refuse to receive of the Said Daniel, Contrary to the Statute in Such Case made and provided, and against the peace and dignity of the Commonwealth of Kentucky.</p>
+<lb/>Against &#125; Indictment for refusing to receive the vote of a qualified voter
+<lb/>John W Flora &amp; Geo Herendon Defendants</p>
+<p>The Grand Jury of Campbell County, in the name and by the authority of the Commonwealth of Kentucky, accuse John W Flora &amp; Geo Herendon of the offense of refusing to receive the vote of a qualified voter, Committed as follows, viz; The Said John W Flora and George Herendon on the <gap/> day of <date when="1865-08">August, 1865</date>, and on divers other days and times, before and Since that time, and before the finding of this Indictment, in the County and State aforesaid, were officers of an Election &amp; there held at Carthage Precinct in Said County, under the Constitution &amp; laws of the State of Kentucky, for the Election<pb/>
+<lb/>of a member of the Congress of the United States in the 6<hi rend="underline"><hi rend="sup">th</hi></hi> Congressional District, a State Treasurer, a Senetor from the 25<hi rend="underline"><hi rend="sup">th</hi></hi> Senetorial District, two members of the General Assembly, and a Clerk of the Circuit Court for Said county; The said Flora then &amp; there being a Judge of Said Election; and the Said Herendon being then &amp; there the sheriff at said Election, and severally acting as such, at the time and place aforesaid -- having been duly appointed and qualified as Such Judge &amp; Sheriff; The Jurors aforesaid in the name and by the authority aforesaid, do further say that at the Election aforesaid, and for the purpose aforesaid, at the Precinct -- aforesaid in the County aforesaid, on the day and year aforesaid, Thomas Daniel, a qualified voter of Said Precinct and County, did then &amp; there appear at the Polls before the Judges, Sheriff &amp; Clerk of the said Election, between the hours of<pb/>
+<lb/>Seven Oclock A. M., and Six Oclock P, M, and then &amp; there offer to vote, Whereupon the said John W. Flora and George Herendon, as Judge &amp; Sheriff of said Election Respectively, did Knowingly and unlawfully refuse to receive of the Said Daniel, Contrary to the Statute in Such Case made and provided, and against the peace and dignity of the Commonwealth of Kentucky,</p>
 <p>Witnesses
-<lb/><hi rend="underline">Thomas Daniel</hi></p>
+<lb/><hi rend="underline">Thomas Daniel,</hi></p>
 <p>R. B. Carpenter,
-<lb/>Commonwealths Attorney,</p>
+<lb/>Commonwealths Attorney.</p>
 <p>A Copy
-<lb/>Attest Benj Beall clk
+<lb/>Attest Benj Beall Clk
 <lb/>Campbell Circuit Court<pb/></p>
 <p>131
 <lb/>The Commonwealth

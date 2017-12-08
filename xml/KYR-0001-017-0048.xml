@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0048"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,16 +64,15 @@
  <text>
   <body>
    <p>Salem Livingston Co Ky
-<lb/>To His honorable, Bariah Magoffin Go<hi rend="underline"><hi rend="sup">v</hi></hi> of the Commonwealth (State of Ky,)</p>
+<lb/>To <hi rend="str">B</hi>His honorable, Bariah Magoffin Go<hi rend="underline"><hi rend="sup">v</hi></hi> of the Commonwealth (State of Ky,)</p>
 <p>I hereby present to you my resignation as Justice of the peace in 3<hi rend="sup">d</hi> District Livingston County Ky to take affect on the <date when="1861-02-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> day of February next</date> given under my hand this <date when="1861-01-03">3<hi rend="sup">d</hi> day of Jan 1861</date></p>
-<p>C. A. Berry J. P. L..C<pb/></p>
+<p>C, A. Berry J. P. L. C<pb/></p>
 <p>Livingston Co
 <lb/>Resignation
-<lb/>J. P. Dist
-<lb/>No. 3.
-<lb/>accepted
-<lb/>B. M.
-<lb/><date when="1861-01-15">Jany 15. 1861</date></p>
+<lb/>J. P. Dist No. 3.</p>
+<p>accepted
+<lb/>B. M.</p>
+<p><date when="1861-01-15">Jany 15. 1861</date></p>
   </body>
  </text>
 </TEI>

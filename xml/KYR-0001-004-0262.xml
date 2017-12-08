@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0262"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,21 +62,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the honourable Thos E Bramlett governor of Kentucky the undersigned petitioners would represent unto your honor that at the last term of the Taylor Circuit Court a fine of $20 was assessed against Thomas Spratt, on an indictment for "gaming on the premises of an other" two persons were indicted for the same thing in different indictments, the proof in the two Cases was <hi rend="str">the</hi>by the same wintesses and was <unclear>Pawt=ically</unclear> the same in both cases the jury in one case acquitted the other, &amp; fined Spratt, in his case, the proof was clear that the game was not played on the premises of the man named in the indictment, but on that of an other in the possession occupany &amp; under the controll of an other -- Spratt is a poor man does not follow gaming &amp; the proof stated they were only playing for 5 cents &amp; but a single Game, the undersigned respectfully petition your honour to remit said fine.</p>
-<p>J B McWhorter S. T. C
-<lb/>J. B. Beams D<hi rend="sup">s</hi><pb/></p>
+   <p>To the honourable Thos E Bramlett governor of Kentucky the undersign petitioners would represent unto your honor that at the last term of the Taylor Circuit Court a fine of &#36;20 was assessed against Thomas Spratt, on an indictment for "gaming on the premises of another" two persons were indicted for the same thing in different indictments, the proof in the two Cases was <hi rend="str">the</hi>by the same witnesses and was Identically. the same in both cases the Jury in one case acquitted the other, &amp; fined Spratt, in his Case, the proof was clear that the game was not played on the premises of the man named in the indictment, but on that of an other in the possession occupancy &amp; under the Controll of an other -- spratt is a poor man -- does not follow gaming &amp; the proof stated they were only playing for 5 cents &amp; but a single game, the undersigne respectfully petition your honour to remit said fine,</p>
+<p>J, B, McWhorter S, T, C
+<lb/>J, B, Beams D<hi rend="underline"><hi rend="sup">s</hi></hi><pb/></p>
 <p>To his Excellency T. E. Bramlett Governor of Ky
 <lb/>Sir.</p>
-<p>Having investigated, the facts in the case of the within named Spratt said of the opinion that that it would not be detrimental to the public interest and to justice if the fine assessed against him, be remitted. I therefore respectfully ask that you will remit the Same.</p>
-<p>Very Truly Your
-<lb/>J. C. Chandler</p>
-<p>Refused
-<lb/>Tho E Bramlette</p>
+<p>Having investigated, the facts in the case of the within named Spratt said of the opinion that that it would not be detremental to the public interest and to justice, if the fine assessed against him, be remitted, I therefore respectfully ask that you will remit the Same</p>
+<p>very truly Yours
+<lb/>J H Chandler</p>
+<p>Refused</p>
+<p>Tho E Bramlette</p>
 <p>Taylor Cir Ct
 <lb/>vs
-<lb/>Thos Spratt</p>
-<p>Refused
-<lb/><date when="1863-11-10">10<hi rend="sup">th</hi> Nov/ 63</date>
+<lb/>Th<hi rend="sup">os</hi> Spratt
+<lb/>Refused
+<lb/><date when="1863-11-05">5<hi rend="sup">th</hi> Nov/63</date>
 <lb/>Ans<hi rend="sup">d</hi></p>
   </body>
  </text>

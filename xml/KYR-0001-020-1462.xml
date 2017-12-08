@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1462"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">A. G. Roberts et al. to Beriah Magoffin</title>
+    <title level="a" type="main">John A. Ray to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG10930</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,26 +63,26 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency B. Magoffin Governor of the Commonwealth of Kentucky,</p>
-<p>The undersigned would respectfully represent that John. A. Ray has been conviced by the Pendleton circuit court for keeping a tipling house &amp; find $60 -- and Sentenced by the court to thirty days imprisonment or until he pays the fine and is no in the Jail of the County under the sentence of the court they would respectfully <hi rend="str">represent</hi> state that from information the said Ray is a man of family which is entirely dependant upon his labor &amp; efforts for a mantanance and he is a very poor man utterly unable to pay the fine against him -- the purport of the Evidance upon the trail was to the effect favoring to wit=</p>
-<p>The witness <hi rend="str"><unclear/></hi>proved that in Dec last he sold or let hog drovers have a paint of whisky and at several other times Sold in Quantitys not less than <hi rend="sup">1</hi>/<hi rend="sub">2</hi> gallon one of the purchases there of Set the Ju<hi rend="str">d</hi>gg on Rays table and took a Dram of Spirits so purchased by the half gallon and no proof was before the court Showing he so Sold with the purpose that it should be drank upon his premises that purchasers were seen to Drink in his house of that they had purchased by these Quantities and under the Instructions of the court. the Jury returned a virdict against the undersigned at the present <date when="1861-10">Oct term</date> of Pendleton Circuit Court we the undersigned evoke,<pb/>
-<lb/>the Clemency of the Executve in his behalf -- Especially since Mr Ray bears the character of a Sober industrious though unfortunat poor citizen and we pray your Excellency to remit said fine</p>
-<p>John A. Ray</p>
-<p>Sworn to before me by John A Ray this <date when="1861-10-22">22and day of Oct 1861</date> A G Roberts N P P C</p>
-<p>We the undersigns know the facts set fourth in the above Pet are true &amp; we think the fine should be Remitted</p>
-<p>A. G. Roberts
-<lb/>E. A. W. Roberts
-<lb/><hi rend="underline">T. E. Wood</hi>
+   <p>To his Excelency B. Magoffin Govner of the Commonwealth of Kentucky,</p>
+<p>The undersigned would respectfully represent that John. A. Ray has been convicted by the Pendleton circuit court for keeping a tipling house &amp; find &#36;60 -- and Sentenced by the court to thirty days imprisonment or until he pays the fine and is no in the Jail of the county under the sentance of the court they would respectfully <hi rend="str">represent</hi> State that from information the said Ray is a man of family which is entirely dependant upon his labor &amp; efforts for a mantanance and he is a very poor man utterly unable to pay the fine against him= the purport of the Evidance upon the trial was to the effect following to wit=</p>
+<p>The witness <hi rend="str"><unclear/></hi>proved that in Dec last he sold or let hog drovers have a paint of whisky and at several other times Sold in Quantitys not less than <hi rend="sup">1</hi>/<hi rend="sub">2</hi> gallon one of the purchases there of Set the Ju<hi rend="str">d</hi>gg on Rays table and took a Dram of Spirits so purchased by the half gallon and no proof was before the court Showing he so Sold with the purpose that it should be drank upon his premises that purchasers were seen to Drink in his house of that they had purchased by these Quantities and under the Instructions of the court. the Jury returned a virdict against the undersigned at the present <date when="1861-10">Oct term</date> of Pendleton circuit court we the undersigned evooke,<pb/>
+<lb/>the Clemency of the Execution in his behalf -- Especially since Mr Ray bears the character of a Sober industrious though unfortunat poor citizen and we pray your Excellency to remit said fine</p>
+<p>John A Ray</p>
+<p>sworn to before me by John A Ray this <date when="1861-10-22">22ond day of Oct 1861</date> A G Roberts N P P C</p>
+<p>we the undersigns know the facts set fourth in the above Pet are true &amp; we think the fine should be Remitted</p>
+<p>A. G Roberts
+<lb/>E A W Roberts
+<lb/><hi rend="underline">T E Wood</hi>
 <lb/><hi rend="underline">S. Tho. Hauser</hi> </p>
-<p>I recommend the petitioners to the clemency of the Governer</p>
+<p>I recommend the petitioner to the clemency of the Govrner</p>
 <p>W. E. Arthur
 <lb/>Atty Com'th<pb/></p>
 <p>Pendleton Cir Ct
-<lb/>$60 } Tipling
+<lb/>&#36;60 &#125; Tipling
 <lb/>John A. Ray</p>
 <p>Remitted
 <lb/>B. M.</p>
-<p>Iss<hi rend="sup">d</hi> <date when="1861-10-26">Oct 26. 1861</date></p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-10-26">Oct 26 1861</date></p>
   </body>
  </text>
 </TEI>

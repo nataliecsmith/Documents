@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0039"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,17 +64,17 @@
  <text>
   <body>
    <p>Ordnance Office,
-<lb/>War Department
+<lb/>War Department.
 <lb/>Washington, <date when="1864-05-06">May 6. 1864</date>
-<lb/>His Excell<hi rend="underline"><hi rend="sup">cy</hi></hi> the Governor of Kentucky,
+<lb/>His Excell<hi rend="sup">cy</hi>, the Governor of Kentucky,
 <lb/>Frankfort Ky,
 <lb/>Sir:</p>
-<p>I have the honor to inform you that in pursuance of instructions from the Secretary of War to provide arms and accoutrements for 10,000 Six month's men to be furnished by the State of Kentucky. I have instructed Dr. L. S. Babbitt in command of the <unclear/> Depot at Louisville, to communicate and consult with you as to the best means of accomplishing the object in view; and also to give to the offcers who may receive the arms &amp;c all required information to enable them to have as little trouble as possible, in accounting for the property which may be issued to them.</p>
-<p>He is instructed to issue arms &amp; accoutrements to these troops as fast as they are mustered into the service, upon requisitions duly certified -- <pb/>
-<lb/>certified by the Mustering officer and approved by yourself; your approval to the state that the troops for which the requisition is made, are for troops under this acceptance of six months men.</p>
+<p>I have the honor to inform you that in pursuance of instructions from the Secretary of War to provide arms and accoutrements for 10,000 Six month's men to be furnished by the State of Kentucky. I have instructed Dr L. S. Babbitt in command of the <unclear>Ordn</unclear> Depot at Louisville, to communicate and consult with you as to the best means of accomplishing the object in view; and also to give to the officers who may receive the arms &amp;c, all required information to enable them to have as little trouble as possible, in accounting for the property which may be issued to them.</p>
+<p>He is instructed to issue arms &amp; accoutrements to these troops as fast as they are mustered into the service, upon requisitions duly certified--<pb/>
+<lb/>certified by the Mustering officer and approved by yourself; your approval to the state that the troops for which the requisition is made, are for troops under this acceptance of six months men,</p>
 <p>Very respectfully
 <lb/>your Obt Servt
-<lb/>Chas D Ramsay
+<lb/>Cha D Ramsay
 <lb/>Brig: Gen: Chf Ord.<pb/></p>
 <p>War Department
 <lb/>Ordnance Office
@@ -79,8 +82,8 @@
 <lb/><date when="1864-05-06">May 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
 <lb/>Ramsay Geo D
 <lb/>Brig Gen<hi rend="sup">l </hi>&amp; Chief of O<figure type="hr"/></p>
-<p>To his Excellency the Governor stating he has received instructions from the Secy of War to prepare arm<hi rend="sup">s</hi> for 10000 six months men from Ky. He has accordingly instructed Lt L S. Babbit in Com<hi rend="sup">d</hi> of Ordnance Dep<hi rend="sup">t</hi> at Louisville to confer with you as to the best means to carry out the object in view. Requisitions to be approved by you.<figure type="hr"/></p>
-<p>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-03-10">10 Mar 1864</date></p>
+<p>To his Excellency the Governor. stating he has received instruction<hi rend="sup">s</hi> from the Secy of War to prepare arm<hi rend="sup">s</hi> for 10000 six months men from Ky. He has accordingly instructed Lt L S. Babbit in Com<hi rend="sup">d</hi> of Ordnance Dep<hi rend="sup">t</hi> at Louisville to confer with you as to the best means to carry out the object in view. Requisitions to be approved by you.<figure type="hr"/></p>
+<p>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-03-10">10 May 1864</date></p>
   </body>
  </text>
 </TEI>

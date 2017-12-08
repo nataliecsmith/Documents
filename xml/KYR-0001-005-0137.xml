@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0137"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,7 +63,7 @@
  </teiHeader>
  <text>
   <body>
-   <p><hi rend="underline">Confidential</hi>.
+   <p><hi rend="underline">Confidential</hi>,
 <lb/>Cincinnati <date when="1865-12-22">Decr. 22. 1865</date>
 <lb/>To the Honorable the Governor of Kentucky.
 <lb/>Dear Sir.</p>
@@ -72,7 +75,7 @@
 <lb/>Charles R. Smith
 <lb/>Late Deputy Prov. Marshal
 <lb/>1" District of Ohio.
-<lb/>Address, Lock Drawer N<hi rend="underline"><hi rend="sup">o</hi></hi> 176 Post Office.</p>
+<lb/>Address, Lock Drawer N. 176 Post Office.</p>
   </body>
  </text>
 </TEI>

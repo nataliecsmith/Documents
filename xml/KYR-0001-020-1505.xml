@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1505"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,11 +64,11 @@
  <text>
   <body>
    <p>Hancock County Kentucky</p>
-<p>Jesse <hi rend="str">T</hi>G. Marlow States that he lives and did live at Bennetsville at the time Margolyes kept his tavern near this Town that the said Margolyes, had an entire sufficentcy of Good substantials for men and beasts, has kept a stable and I he and O. P. Spencer say that he had engaged Stable room of him, and heard also that he has of Saml Rice. I borrowed corn of Margolyes and also bought some, I also saw fodder at his tavern Stand, I have been frequently at his tavern and am of the opinion that he kept as orderly &amp; decent a house as any house where drinking is allowed</p>
+<p>Jesse G. Marlow States that he lives and did live at Bennetsville at the time Margolyes Kept his tavern near this Town that the said Margolyes, had an entire sufficentcy of Good substantials for men and beasts. has Kept a stable and I heard O. P. Spencer say that he had engaged Stable room of him, and heard also that he had of Saml Rice. I borrowed corn of Margolyes and also bought some. I also saw fodder at his tavern Stand. I have been frequently at his tavern and am of the opinion that he kept as orderly &amp; decent a house as any house where drinking is allowed</p>
 <p>Given under my hand this <date when="1861-11-21">21<hi rend="sup">st</hi> November 1861</date></p>
 <p>Jesse Marlow</p>
 <p>Sworn to this <date when="1861-11-21">21<hi rend="sup">st</hi> November 1861</date></p>
-<p>Ed Pate J. P. B. C.</p>
+<p>Ed Pate J P. B C.</p>
   </body>
  </text>
 </TEI>

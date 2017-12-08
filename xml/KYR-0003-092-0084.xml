@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0084"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,18 +65,18 @@
   <body>
    <p>Belle Isle <date when="1860-12-02">Dec 2<hi rend="underline"><hi rend="sup">d</hi></hi> 1860</date>
 <lb/>Dear George</p>
-<p>I have not as yet been able to sell Harriett nor do I believe I shall be able to do ^so^ in the present condition of financial affairs in the country. The negro traders tell me they have not sold one this fall. I offered 2 negro men for sale, at public auction, belonging to the Black estate and did not get a bid on them. The rate of interest on money is so great, that every one who has it prefers <hi rend="str">it</hi> loaning, to investing in negroes or any other description of property. I have known the paper of the best <hi rend="str">paper</hi> houses in Vicksburg to sell for <hi rend="underline">4 per cent, per month</hi> discount. Under these circumstances would it not be better to send Harriett up to Miller's place? She is doing nothing in Vicksburg. But if you still desire her to remain I will do the best I can, and in this event you must let me know the lowest price you will take for her.</p>
-<p>Political affairs in this section are in a most critical condition. All of the Cotton States as they are called with the exception of Texas and Arkansas have called Conventions of their citizens or are preparing to do so. A great desire exists to establish a Southern Confederacy, the only question being how shall it be accomplished? Some are in favour of<pb/>
-<lb/>the immediate secession of each state, and then consult with the other ^slave^ states in regard to forming a Union amongst themselves -- Others, and amongst them myself, are in favour of having a general consultation with all the Southern States, before either acts seperately. Having the same rights and interests at stake, I think it would be wrong in any one state to take such a position as would ^force^ others against their wishes to join her, without at least first consulting them on the propriety of the course. What will be the result of this movement, it is impossible to conjecture -- It has already depreciated property to a most alarming extent, deranged financial ^matters^ beyond all precedent, and created distrust where good feeling should exist. A few months and these grave questions will all be settled.</p>
-<p>I sent last week to Messrs Hunter &amp; Bruce the draft of Cobb, <unclear>Marlon</unclear> &amp; Co of Vicksburg on their house in New Orleans (Martin Cobb &amp; Co) to meet your note to them for me. I was compelled to do this as a check on New York could not be obtained in Vicksburg. The draft I sent them is unquestionably good I had to pay the cash for it.</p>
-<p>We are all well - Love to all</p>
+<p>I have not as yet been able to sell Harriett nor do I believe I shall be able to do ^so^ in the present condition of financial affairs in this country. The negro traders tell me they have not sold one this fall. I offered 2 negro men for sale, at public auction, belonging to the Black estate and did not get a bid on them. The rate of interest on money is so great, that every one who has it prefers <hi rend="str">it</hi> loaning, to investing in negroes or any other discription of property. I have known the paper of the best <hi rend="str">paper</hi> houses in Vicksburg to sell for <hi rend="underline">4</hi> <hi rend="underline">per cent, per month</hi> discount. Under these circumstances would it not be better to send Harriett up to Miller's place?. She is doing nothing in Vicksburg. But if you still desire her to remain I will do the best I can, and in this event you must let me know the lowest price you will take for her.</p>
+<p>Political affairs in this section are in a most critical condition. All of the Cotton States as they are called with the exception of Texas and Arkansas have Called Conventions of their citizens or are preparing to do so. A great desire exists to establish a Southern Confederacy, the only question being how shall it be accomplished? Some are in favour of<pb/>
+<lb/>the immediate Secession of each state, and then consult with the other ^slave^ states in regard to forming a union amongst themselves -- Others, and amongst them myself, are in favour of having a general consultation with all the southern States, before either acts seperately- Having the same rights and interests at stake, I think it would be wrong in any one state to take such a position as would ^force^ others against their wishes to join her, without at least first consulting them on the propriety of the course- What will be the result of this movement, it is impossible to conjecture -- It has already depreciated property to a most alarming extent, deranged financial ^matters^ beyond all precedent, and created distrust where good feeling should exist. A few months and these grave questions will all be settled.</p>
+<p>I sent last week to Messrs Hunter &amp; Bruce the draft of Cobb, Manlove &amp; Co of Vicksburg on their house in New Orleans (Martin Cobb &amp; Co) to meet your note to them for me. I was compelled to do this as a check on New York could not be obtained in Vicksburg. The draft I sent them is unquestionably good I had to pay the Cash for it.</p>
+<p>We are all well -- Love to all</p>
 <p>Your Brother
 <lb/>W H Johnson</p>
 <p>Let me hear from you about Harriett<pb/></p>
-<p>W<hi rend="underline"><hi rend="sup">M</hi></hi> H. Johnson
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Johnson
 <lb/><date when="1860">1860</date></p>
 <p>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Johnson
-<lb/><date when="1860-12-02">Dec. 2 1860</date></p>
+<lb/><date when="1860-12-02">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 2 1860</date></p>
   </body>
  </text>
 </TEI>

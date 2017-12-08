@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0295"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">B. Grinstead et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">B. Grinsted et al. to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4414</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,30 +64,29 @@
   <body>
    <p>To his Excellency
 <lb/>The Governor of Ky</p>
-<p>Your petitioner who are all Loyal citizens of Kentucky and Warren County would respectfully represent to your Excellency that James Brown of This county was fined the Sum of Twenty five Dollars at the last <date when="--08">August term</date> of the Equity and criminal court for Warren county for Tipling or retailing Spiritous liquors We know Mr Brown is not in the true Sense of the term a tipler of Spirious liquors but was on this ocasion Induced to get a Jug of Whiskey and to carry it to a Sale by some friends</p>
-<p>We further State Mr Brown to be a civil Steedy and industrious man of Good morral character but verry poor and has a wife and Seven children dependant on him for Support. Therfor we pray your interposition</p>
-<p><date when="1863-11-25">Nov<hi rend="sup">r</hi>. 25" 1863</date> -- 
-<lb/><milestone unit="column" n="2"/><cb n="1"/>B. Grinsted
+<p>Your petitioners who are all Loyal citizens of, Kentucky and Warren County would respectfully represent to your Excellency that James Brown of This County was fined the Sum of Seventy five Dollars at the last <date when="1863-08">August term</date> of the Equity and criminal court for warren county for tipling or retailing Spiritous liquors we know Mr Brown is not in the true Sense of the term a tipler of Spirious liquers but was on this ocasion Induced to get a Jug of Whiskey and to carry it to a Sale by Some friends -- </p>
+<p>We further State Mr Brown to be a civil Steedy and industrious man of Good Morral Character but verry poor and has a wife and Seven children dependant on him for Suport. Therfor we pray your interposition
+<lb/><date when="1863-11-25">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 25" 1863</date> -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>B,, Grinsted
 <lb/>Leonard Harris
-<lb/>E. W. Grinsted
-<lb/>Richard H Caplinger
+<lb/>E. M<hi rend="underline"><hi rend="sup">c</hi></hi> Grinsted
+<lb/>Richard,, H,, Caplinger
 <lb/>H Y Gardner
-<lb/>Thomas S. Elrod
-<lb/>B C Grubbs
+<lb/>Thomas, S, Elrod
+<lb/>B, C, Grider
 <lb/><cb n="2"/>H Grider
 <lb/>P W Potter
 <lb/>Ivy Gardner
 <lb/>Wm M Arnold<milestone unit="column" n="1"/><pb/></p>
-<p>Warren Equity &amp; Crim Court
-<lb/>vs
-<lb/>James Brown
-<lb/>Tipling $20 -- 
-<lb/><date when="1863-12-21">21<hi rend="sup">st</hi> Dec/ 63</date></p>
-<p>I cannot understand could he <unclear>assessed</unclear> The amt does not accord with any law upon the subject of tippling. -- </p>
-<p>T. E. B</p>
-<p>This fine according to law should have been $20 -- it is in excess all above that sum. Remit all except fees &amp; costs which will reduce the penalty to the legal amount or nearly so.</p>
-<p>Tho E Bramlette
-<lb/></p>
+<p>Warren Equity &amp; Crim Court</p>
+<p>I cannot understand could be assessed The amt does not accord with any law -- upon the Subject of tippling. -- </p>
+<p>T, E. B</p>
+<p>vs</p>
+<p>This fine according to law should have been &#36;20 -- it is in excess all above that sum. Remit all except fees &amp; costs which will reduce the penalty to the legal amount or nearly so.</p>
+<p>Tho E Bramlette</p>
+<p>James Brown
+<lb/>Tipling &#36;20 -- 
+<lb/><date when="1863-12-21">21<hi rend="sup">st</hi> Dec/63</date></p>
   </body>
  </text>
 </TEI>

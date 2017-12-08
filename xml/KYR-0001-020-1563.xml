@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1563"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,16 +62,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Affiant States she lives about a quarter of a mile from the house of C H Tomlinson that on the night that Thomas H Estes was killed, her little boy who was at Charles Tomlinsons came running after her and told them his uncle Charles was nearly killed that she went in hast and found him laying on the bed that she examined his head, which had a cut on the forhead about an inch in length which had bled quite freely but he complained altogether of his side which affiant examined and found to be badly bruised He said but little, but said that Tom had struck him with a rock that he thought his ribs was broken she closed the wound put a patch on it to keep it together, then put a bandage around his head the cut on the head soon healed, but he continued to complain of his side until circuit court which was about two months affiant states that she is sister in law to to Charles H Tomlinson that C H Tomlinson married Thomas H Estes sister that Charles was exceeding partial to Tom that most of the people of the surrounding country are related to the Estes family although complaining greatly next morning which was sunday he went on foot to the Stampinground and gave himself up to the officer saying he had done nothing wrong, and that he intended to abide the law Sanford<pb/>
-<lb/>Tomlinson who was presant at the time it took place and remained at Thomas Estes til a late hour at night</p>
-<p>It appears desperate accounts was given about the affair and told Charles was not hurt a great excitement was raised it was soon seen from persons assembled that, that they had heard a bad account of the affairs Thomas H Estes was a verry stout and robus man C Tomlinson is a small and unhealthy man</p>
-<p>On the same night W<hi rend="sup">m</hi> Hockingsmith uncle to Tom Estes came over to see Charles, and told him he had often told him Tom was an<hi rend="str">d</hi> enemy to him but he would never believe it, that when he found it out it would be to his sorrow Charles told him he could not believe Tom was an enemy but did not doubt he believed what he told him but he had found it to his sorrow for he was now satisfied Tom held a <unclear/> grudge against him</p>
+   <p>Affiant States she lives about a quarter of a mile from the house of C H Tomlinson that on the night that Thomas H Estes was killed, her little boy who was at Charles Tomlinsons came running after her and told them his uncle Charles was nearly killed that she went in hast and found him laying on the bed that she examined his head, which had a cut on the forehead about an inch in length which had bled quite freely but he complained altogether of his side which affiant examined and found to be badly bruised He said but little, but said that Tom had struck him with a rock that he thought his ribs was broken she closed the wound put a patch on it to keep it together, then put a bandage around his head the cut on the head soon healed, but he continued to complain of his side until circuit court which was about two months affiant states that she is sister in law to to Charles H Tomlinson that C H Tomlinson married Thomas H Estes sister that Charles was exceeding partial to Tom that most of the people of the surrounding country are related to the Estes family although complaining greatly next morning which was sunday he went on foot to the Stampinground and gave himself up to the officer saying he had done nothing wrong, and that he intended to abide the law Sanford<pb/>
+<lb/>Tomlinson who was presant at the time it took place and remained at Thomas Esteses til a late hour at night</p>
+<p>It appears desperate accounts was given about the affair and told Charles was not hurt a great excitement was raised it was soon seen from persons assembled that, that they had heard a bad account of the affair Thomas H Estes was a verry stout and robus man C Tomlinson is a small and unhealthy man</p>
+<p>On the same night W<hi rend="sup">m</hi> Hockingsmith uncle to Tom Estes came over to see Charles, and told him he had often told him Tom was an<hi rend="str">d</hi> enemy to him but he would never believe it, that when he found it out it would be to his sorrow Charles told him he could not believe Tom was an enemy but did not doubt, he believed what he told him but he had found it to his sorrow for he was now satisfied Tom held a <unclear>secret</unclear> grudge against him</p>
 <p>Lucy Tomlinson</p>
-<p>I have examined the foregoing and know it to be strictly true</p>
+<p>I have examined the foregoing and Know it to be strictly true</p>
 <p>Lucy Tomlinson</p>
-<p>This day Lucy Tomlinson personally appeard be fore me &amp; made Oath that the a bove statement is true this <date when="1859-09-29">29<hi rend="sup">th</hi> Sept 1859</date></p>
-<p>J H Poindextr J. P F C<pb/>
-<lb/></p>
+<p>This day Lucy Tomlinson personally appeard be fore me &amp; made Oath that the a bove statement is true this <date when="1859-09-29">29th Sept 1859</date></p>
+<p>J H Poindextr J P <unclear>F</unclear> C</p>
   </body>
  </text>
 </TEI>

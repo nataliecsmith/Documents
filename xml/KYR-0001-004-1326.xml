@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1326"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,23 +64,23 @@
   <body>
    <p>To his Excellency
 <lb/>Governor Bramlet.</p>
-<p>The undersigned, Petitioner, would most respectfully represent, that he resides in Barren County, near Cave city: that in the fall &amp; winter of 1861 &amp; 2 he was surrounded by rebel troops and rebel neighbors, and was then as well as now a Union man, one of his neighbors by the name of Joseph T. Berry was at that time a rabid secessionist, took a very active part against him, by pointing him out to the rebel soldiers as an Ab. or abolitionist but which he is not now nor never was. Said Berry also informed said soldiers that your petitioner had corn and other forage and actually came to him and informed ^him^ that the rebels would be at his house on such a day, and let him know how much corn &amp; hay he would have to furnish them, there was ^a^ young man living with petitioner, that said Berry &amp; others were constantly advising to join the rebel army, and went and told said soldiers but for the influence of your petitioner they could get said young man to join said army. and thus excited said rebel soldiers against him, during all the time said soldiers were in the nighborhood said Berry took an active part in exciting them against him by which your petitioner experienced great trouble and<pb/>
-<lb/>perplexity of mind and great bodily danger. About this time your petitioner amongst all his other misfortunes had the misfortune to lose his wife by death, A man by the name of M<hi rend="sup">c</hi>Kiney was paying his address to the daughter of your petitioner, much against his will, said M<hi rend="sup">c</hi>Kiney being an avowed rebel, and not a man no how whom he wished his daughter to mary. This <hi rend="str">may</hi> man Berry took a very active part to influence his daughter to mary said M<hi rend="sup">c</hi>Kiney and whilst the provisional govermt was holding this part of the state, and a clerk of their own selection had charge of the county Court clerks office, said Berry without the knowledge or consent of petitioner came to his house, and got his daughter to sign a certificate directing said bogus clerk to issue a license for the marriage of herself &amp; said M<hi rend="sup">c</hi>Kiney, and in that way suceeded in geting them married, since which time said M<hi rend="sup">c</hi>Kiney turned guerilla and was killed by some federal soldiers near glasgow, his daughter with one child has returned to his house where they are now living.</p>
-<p>Whilst said rebel provisional govermt was in force in this county. I was notified to bring his gun or $20 on a certain day<pb/>
-<lb/>to glasgow under penalty of going to jail, on that day just as he was starting from home to pay said $20 Berry and some others came to his house or was rather passing by when petitioner spoke to Berry, and in a mild manner told him he must cease to trouble him as he had been doing that he had once sent to him a mutual friend to ask him to let him and his family alone, When Bery began to abuse him by cursing him ^in^ a most violent manner. Petitioner saw that Berry was armed with pistols and he took up an old gun which he had borrowed from one of his neighbors, with which gun he struck at Berry but did not hit him, after which Berry got a club and knocked your petitioner down, and as he was geting up he drew his knife, and attempted to cut Berry and did succeed in cuting him slightly upon the neck, not going through the skin when they were parted.</p>
-<p><note place="left margin">$<hi rend="underline">150</hi></note>
-<lb/>For which Berry caused him to be indicted in the Barren circuit Court, and at the <date when="1864-09">last Sept.</date> term thereof your petitioner was fined $<hi rend="underline">150.00</hi> and which he has replieved, at the time of said trial your petitioner was confined to bed and was not able to attend said trial, consequently he was fined as aforesaid, he is confident had he been present and could have made the proper defense no such fine would have been inflicted<pb/>
-<lb/>he has been thus particular in seting out same only of the various privations which said Berry had from time to time made against your petitioner, your petitioner is a poor man, And under all the circumstances as he has detailed, he most earnestly asks your Excellency to remit so much of said fine as you are by law authorized to do.</p>
+<p>The undersigned, Petitioner, would most respectly represent, that he resides in Barren County, near Cave City: that in the fall &amp; winter of <date when="1861">1861</date> &amp; <date when="1862">2</date> he was surrounded by rebel troops and rebel neighbors, and was then as well as now a Union man, one of his neighbors by the name of Joseph T. Berry was at that time a rabid secessionist, took a very active part against him, by pointing him out to the rebel Soldiers as an Ab. or abolitionist but which he is not now nor never was. Said Berry also informed said soldiers that your petitioner had corn and other forage and actually came to him and informed ^him^ that the rebels would be at his house on such a day, and let him know how much corn &amp; hay he would have to furnish them, there was ^a^ young man living with petitioner, that said Berry &amp; others were constantly advising to join the rebel army, and went and told said solders but for the influence of your petitioner they could get said young man to join said army. And thus excited said rebel soldiers against him, during all the time said soldiers were in the nighborhood said Berry took an active part in exciting them against him by which your petitioner experienced great trouble and<pb/>
+<lb/>perplexity of mind and great bodily danger. About this time your petitioner amongst all his other misfortunes had the misfortune to lose his wife by death, A man by the name of M<hi rend="sup">c</hi>Kiny was paying his address to the daughter of your petitioner, much against his will, said M<hi rend="sup">c</hi>kiney being an avowed rebel, and not a man no how whom he wished his daughter to mary. This <hi rend="str">may</hi> man Berry took a very active part to influence his daughter to mary said M<hi rend="sup">c</hi>kiny and whilst the provisional govermnt was holding this part of the state, and a clerk of their own selection had charge of the county Court Clerks office, said Berry without the knowledge or consent of petitioner came to his house, and got his daughter to sign a certificate directing said bogus clerk to issue a license for the marriage of herself &amp; said M<hi rend="sup">c</hi>kiny, and in that way Suceeded in geting them married, Since which time said M<hi rend="sup">c</hi>kiny turned guerilla and was killed by some federal soldiers near glasgow, his daughter with one child has returned to his house where thy are now living.</p>
+<p>Whilst said rebel provisional govermnt was in force in this conty. he was notified to bring his gun or &#36;20 on a certain day<pb/>
+<lb/>to glasgow under penalty of going to jail. on that day just as he was starting from home to pay said &#36;20 Bery and some others came to his house or was rather passing by when petitioner spoke to Bery, and in a mild manner told him he must cease to trouble him as he had been doing that he had once sent to him a mutual friend to ask him to let him and his family alone, When Bery began to abuse him by cursing him ^in^ a most violent manner. Petitioner saw that Berry was armed with pistols and he took up an old gun which he had borrowed from one of his neighbors, with which gun he struck at Bery but did not hit him, after which Bery got a club and knocked your petitioner down, and as he was geting up he drew his knife, and attempted to cut Bery and did succeed in cuting him slightly upon the neck, not going through the skin when they were parted.</p>
+<p><note place="left margin">&#36;<hi rend="underline">1.50</hi></note>
+<lb/>For which Berry caused him to be indicted in the Barren circuit Court. and at the <date when="1864-09">last Sept.</date> term thereof your petitioner was fined &#36;<hi rend="underline">150.00</hi> and which he has replied, at the time of said trial your petitioner was confined to bed and was not able to attend said trial, consequently he was fined as aforesaid, he is confident had he been present and could have made the proper defense no such fine would have been inflicted<pb/>
+<lb/>he has been thus particular in seting out some only of the various provacations which said Bery had from time to time made against your petitioner, your petitioner is a poor man, And under all the circumstances as he has detailed, he most earnestly asks your Excellency to remit so much of said fine as you are by law authorized to do.</p>
 <p>E G Evans</p>
-<p>Subscribed and sworn to before me by E. G. Evans this <date when="1864-10-25">25<hi rend="underline"><hi rend="sup">th</hi></hi>. Oct 1864</date></p>
-<p>W. F Evans J. B. C. C.</p>
-<p>Gov. Bramlet I was not the Lawyer of Mr. Evans in the foregoing indictment, I know both Evans and Berry, a more peacable, industrious And quiet and loyal man does not live in this county than Mr Evans, and altho we are of the same name we are not related. Evans as you will see from his petition was greatly <hi rend="str">aggragated</hi> agrivated by Berry, I hope you will release all of the fine that you can. Evans is a much <hi rend="str">made</hi> ^man^ of truth and you can rely on his statements</p>
+<p>Subscribed and sworn to before me by E. G. Evans this <date when="1864-10-25">25<hi rend="underline"><hi rend="sup">th</hi></hi> Oct 1864</date></p>
+<p>W. F. Evans J. B. C. C.</p>
+<p>Gov. Bramlet I was not the Lawyer of Mr. Evans in the foregoing indictment, I know both Evans and Berry, a more peacable, industrious And quiet and loyal man does not live in this county than Mr Evans, and altho we are of the same name we are not related. Evans as you will see from his petition was greatly <hi rend="str">aggragated</hi> agrivated by Berry, I hope you will release all of the fine that you can. Evans is a <hi rend="str">much</hi> ^man^ of truth and you can rely on his statements</p>
 <p>your friend
-<lb/>W. F Evans</p>
+<lb/>W. F. Evans</p>
 <p>Barren Cir Ct
 <lb/>vs
 <lb/>E G Evans
-<lb/>$150
+<lb/>&#36;150
 <lb/>Remit
 <lb/><date when="1864-11-08">8<hi rend="sup">th</hi> Nov/64</date></p>
   </body>

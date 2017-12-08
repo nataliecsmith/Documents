@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0027"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,21 +63,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Litchfield Ky <date when="1863-10-20">Oct 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+   <p>Litchfield Ky <date when="1863-10-20">oct 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
 <lb/>Mr John Boyle Esq</p>
-<p>Sir I noticed an order in the Louisville Journal you directting Some friend to his county to assist <hi rend="str">Some</hi> in this order which you had issued for each county to raise one company of men as State vol and you wishing Some person to Send on for a Lieu Col or Col Ship in some county I wish the Commision of the Lieu Col as to my military capacities I was first a Capt in the State or home Guards and I received my Comission from Gen M<hi rend="sup">c</hi>Cook get camp Nevin in Hardon Co Ky. in <date when="1861-10">Oct 1861</date> and I dun all in my power ever since that time to put down this rebellio and on the <date when="--07-07">7<hi rend="underline"><hi rend="sup">th</hi></hi> of last July</date> I was appointed as Enrooling Officer of Grayson Co and I completed my work and since that time I have been dept prov mar in the 2<hi rend="underline"><hi rend="sup">nd</hi></hi> dist of Ky<pb/>
-<lb/>as to refrences you may apply to Judge D Wortham the Judge of Grayson Co to Lieut Ferry of the 17<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Vol Lieut A R Byers in the 35 Ky vol Q. M T. R. M<hi rend="sup">c</hi>bath of 27 Ky vol &amp; Capt John. h. Grissom prov mar of 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Dist Ky you will please give me an answer to my letter whether <hi rend="str">on</hi> or not I am granted the Commission</p>
+<p>Sir I noticed an order in the Louisville Journal you directting Some friend to his County to assist <hi rend="str">Some</hi> in this order which you had issued for each county to raise one company of men as State vol and you wishing Some person to Send on for a Lieu Col or Col Ship in some county I wish the Commision of a Lieu Col as to my military Capacities I was first a Capt in the State or home Guards and I received my Comission from Gen M<hi rend="sup">c</hi>Cook at camp Nevin in Hardon Co Ky. in <date when="1861-10">Oct 1861</date> and I dun all in my power ever since that time to put down this rebellion and on the <date when="--07-07">7<hi rend="underline"><hi rend="sup">th</hi></hi> of last July</date> I was appointed as Enrooling Officer of Grayson Co and I completed my work and since that time I have been dept prov mar in the 2<hi rend="underline"><hi rend="sup">nd</hi></hi> dist of Ky<pb/>
+<lb/>as to refrences you may apply to Judge D Wortham the Jud<hi rend="str">e</hi>ge of Grayson Co to Lieut Ferry of the 17<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Vol Lieut A R Byers in the 35 Ky vol Q. M T. R, M<hi rend="sup">c</hi>bath of 27 Ky vol &amp; Capt John, R, Grissom prov mar of 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Dist Ky you will please give me an answer to my letter whether <hi rend="str">on</hi> or not I am granted the Commission</p>
 <p>Respectfuly yours
 <lb/>Stephen. G. Crawford<pb/></p>
 <p>Gov. Thomas E. Bramlette
-<lb/>Thomas E. Bramlette<pb/>
-<lb/>Grayson Co<hi rend="sup">y</hi> <date when="1863-10-20">Oct 20/63</date><figure type="hr"/>
-<lb/>Recom"ss" for this County
-<lb/>Stephen G Crawford Lt Col<figure type="hr"/>
-<lb/>citizens<figure type="hr"/>
-<lb/>P. G. Reese Col
-<lb/>issue<figure type="hr"/>
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> I. G. O. <date when="1863-10-25">Oct. 25. 1863</date></p>
+<lb/>Thomas E. Bramlette<pb/></p>
+<p>Grayson Co<hi rend="sup">y</hi> <date when="1863-10-20">Oct 20/63</date><figure type="hr"/>
+<lb/>Recm"dg,, for this County
+<lb/><hi rend="underline">Stephen G Crawford</hi> Lt Col
+<lb/>citizens<figure type="hr"/></p>
+<p>P. G. Reese Col
+<lb/>issue<figure type="hr"/></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> I. G. O. <date when="1863-10-25">Oct. 25. 1863</date></p>
   </body>
  </text>
 </TEI>

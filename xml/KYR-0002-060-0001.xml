@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0001"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,56 +65,66 @@
   <body>
    <p>STATE OF KENTUCKY.<figure type="hr"/>
 <lb/>Office of Quarter-Master General,
-<lb/>Frankfort, Ky., <date when="1865-03-13">March 13, 1865.</date>
+<lb/>Frankfort, Ky., <date when="1865-03-13">March 13, 1865</date>.
 <lb/>To His Excellency
 <lb/>T. E Bramlette
 <lb/>Governer of Ky.
-<lb/>Governor</p>
-<p>We have the honor to recommend the following named persons for appointment and commission on the Staff of the Commander in Chief of the "Kentucky National Legion," for active service.<figure type="hr"/>
+<lb/>Governer</p>
+<p>We have the honor to recommend the following named persons for appointment and commission on the Staff of the Commander in Chief of the "Kentucky National Legion," for Active service.
 <lb/><table rend="rules">
 <row>
 	<cell>1 Jno B. Tilford Jr.</cell>
 	<cell>A. Adjt General</cell>
 	<cell> -- Rank -- Captain</cell>
-</row><figure type="hr"/>
+</row>
 <row>
 	<cell>1 Charles J. Clarke</cell>
 	<cell>Aid de Camp -- </cell>
 	<cell>" 1st Lieut</cell>
-</row><figure type="hr"/>
+</row>
 <row>
 	<cell>1 W. E. Cox</cell>
-	<cell>Aid de Camp.</cell>
-	<cell>1<hi rend="sup">st</hi> do</cell>
-</row><figure type="hr"/>
+	<cell>Aid-de-Camp.</cell>
+	<cell>1<hi rend="sup">t</hi> do</cell>
+</row>
 </table>
-<lb/>And that they be assigned to duty in the Office of the Adjutant General of Ky.<figure type="hr"/>
+<lb/>And that they be assigned to duty in the Office of the Adjutant General of Ky.
 <lb/><table rend="rules">
 <row>
 	<cell>1. S. C. Sayres</cell>
-	<cell>A. Q. M.</cell>
+	<cell>A. Q. M</cell>
 	<cell> -- Rank -- Captain</cell>
-</row><figure type="hr"/>
+</row>
 </table>
-<lb/>And that he be assigned to duty in the office of the Quarter Master General of Ky.</p>
-<p>Also the following clerks, they having served one Year in the Military service of the State of Ky</p>
-<p>Wm Stewart. Clerk in Inspector Generals Office.
-<lb/>Charles Hayden Mustering Officer, Clerk in Adj<hi rend="sup">t</hi> Gen<hi rend="sup">ls</hi> Office<pb/></p>
-<p>The other clerks required by the duties of this Department have not as yet been selected for recommendation -- </p>
-<p>We submit a statment of the clerk Hire necessary at present &amp; the means appropriated for that purpose -- say
+<lb/>And that he be assigned to duty in the Office of the Quarter Master General of Ky.</p>
+<p>Also the following clerks, they having served one Year in the Military service of the State of Ky
 <lb/><table rend="rules">
 <row>
-	<cell>Appropriation in 16<hi rend="sup">th</hi> Sec of Mili. laws</cell>
-	<cell/>
-	<cell>$5400-</cell>
+	<cell>Wm Stewart.</cell>
+	<cell></cell>
+	<cell>Clerk in Inspector Generals Office.</cell>
 </row>
 <row>
-	<cell>1 Clerk in Adj<hi rend="sup">t</hi> Genl Office</cell>
-	<cell>$1200 -- </cell>
+	<cell>Charles Hayden</cell>
+	<cell>Mustering Officer,</cell>
+	<cell>Clerk in Adj<hi rend="sup">t</hi> Gen<hi rend="sup">ls</hi> Office</cell>
+</row>
+</table><pb/>
+<lb/>The other clerks required by the duties of this Department have not as yet been selected for recommendation -- </p>
+<p>We submit a statment of the clerk Hire necessary, at present &amp; the means appropriated for that purpose -- say
+<lb/><table rend="rules">
+<row>
+	<cell>Appropriation in 16<hi rend="sup">th</hi> Sec of Mil. laws</cell>
+	<cell/>
+	<cell>&#36;5400 -- </cell>
+</row>
+<row>
+	<cell>1 Clerk in Adj<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Office</cell>
+	<cell>&#36;1200 -- </cell>
 	<cell/>
 </row>
 <row>
-	<cell>1 " " Insp<hi rend="sup">r</hi> " " </cell>
+	<cell>1 " " Insp<hi rend="sup">t</hi> " " </cell>
 	<cell>1000 -- </cell>
 	<cell/>
 </row>
@@ -121,30 +134,30 @@
 	<cell/>
 </row>
 <row>
-	<cell>1 " " Q. M Gen " "</cell>
+	<cell>1 " " Q. M Gen "</cell>
 	<cell>1200 -- </cell>
 	<cell/>
 </row>
 <row>
 	<cell>1 " " do " </cell>
 	<cell>9.00. -- </cell>
-	<cell>$5100</cell>
+	<cell>&#36;5100</cell>
 </row>
 <row>
 	<cell>Leaving a surplus Yearly of</cell>
 	<cell/>
-	<cell>$300<hi rend="underline"><hi rend="sup">00</hi></hi></cell>
+	<cell>&#36;300<hi rend="underline"><hi rend="sup">00</hi></hi></cell>
 </row>
 </table>
 <lb/>which however may be required for additional assistance.</p>
 <p>All of which is respectfully submitted, with the expression of our opinion, that this is the only arrangement we can now make by which the business of the Military department of the State can be continued in a satisfactory &amp; efficient manner.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>S. G. Suddarth
+<p><milestone unit="column" n="2"/><cb n="1"/>S, G, Suddarth
 <lb/>Q M Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of Ky -- 
 <lb/><cb n="2"/>D, W, Lindsey
-<lb/>Adjt <hi rend="underline">Gen</hi><hi rend="underline"><hi rend="sup">l</hi></hi><hi rend="underline"> Ky</hi><milestone unit="column" n="1"/><pb/></p>
+<lb/>Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky<milestone unit="column" n="1"/><pb/></p>
 <p>Executive office
 <lb/>Frankfort Ky</p>
-<p>The recommendations are approved and the commissions ordered to date from <date when="1865-03-06">6<hi rend="sup">th</hi> March 1865</date> to the several officers herein recommended; -- who will be ordered upon active duty to report to Adjt Genl for assignment to duty. -- The clerks nominated will enter upon duty as of same date. </p>
+<p>The recommendations are approved and the commissions ordered to date from <date when="1865-03-06">6<hi rend="sup">th</hi> March 1865</date> to the several officers herein recommended; -- who will be ordered upon active duty to report to Adjt Genl for assignment to duty. -- The clerks nominated will enter upon duty as of same date. -- </p>
 <p>Adjt Genl Lindsey will issue Commissions and make the proper orders for carrying into effect these appointments.</p>
 <p>Thos E Bramlette
 <lb/>Gov of Ky<pb/></p>
@@ -155,18 +168,18 @@
 <lb/>Q. M. Gen<hi rend="underline"><hi rend="sup">l</hi></hi>
 <lb/>Lindsey D. W.
 <lb/>Adjt. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky<figure type="hr"/></p>
-<p>Recommend several gentlemen for appointment &amp; commission on staff of Comd<hi rend="underline"><hi rend="sup">r</hi></hi> in chief, &amp; ask that they be assigned to duty in offices of Q. M. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> &amp; Adj't Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of the state. Also recommends several for appointment as clerks, with a statement of the clerks Hire necessary at present &amp; the means appropriate for that purpose -- <figure type="hr"/></p>
+<p>Recommend several gentlemen for appointment &amp; commission on staff of Comd<hi rend="underline"><hi rend="sup">r</hi></hi> in chief, &amp; ask that they be assigned to duty in offices of Q. M. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> &amp; Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of the state. Also recommends several for appointment as clerks, with a statement of the clerks Hire necessary at present &amp; the means appropriate for that purpose -- <figure type="hr"/></p>
 <p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-03-14">14 Mar. 1865</date></p>
 <p>Executive office
 <lb/>Frankfort Ky</p>
-<p>The recommendations are approved and the commissions ordered to date from <date when="1865-03-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> March 1865,</date> to the several officers herein reccommended, who will be ordered upon active duty to report to Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi> for assignment to duty. The clerks nominated will enter upon duty as of same date, Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Lindsey will issue commissions and make the proper orders for carrying into effect these appointments -- </p>
+<p>The recommendations are approved and the commissions ordered to date from <date when="1865-03-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> March, 1865,</date> to the several officers herein reccommended, who will be ordered upon active duty to report to Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi> for assignment to duty, The clerks nominated will enter upon duty as of same date, Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Lindsey will issue commissions and make the proper orders for carrying into effect these appointments--</p>
 <p>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
-<lb/>Gov<hi rend="sup">r</hi> of Ky -- <figure type="hr"/>
-<lb/>Issue commissions as recommended
+<lb/>Gov<hi rend="sup">r</hi> of Ky -- <figure type="hr"/></p>
+<p>Issue commissions as recommended.
 <lb/>D W Lindsey
-<lb/>Adj Gen<hi rend="sup">l</hi> KY</p>
+<lb/>Adj Gen Ky</p>
 <p>Coms issd &amp; deld
-<lb/><date when="1865-03-14"><hi rend="underline">March 14' 1865</hi></date></p>
+<lb/><date when="1865-03-14"><hi rend="underline">March 14 1865</hi></date></p>
   </body>
  </text>
 </TEI>

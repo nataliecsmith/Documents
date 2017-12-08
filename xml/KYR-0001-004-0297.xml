@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0297"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,32 +64,32 @@
   <body>
    <p>To Hon Tho<hi rend="sup">s</hi>. E. Bramlett
 <lb/>Governor of Kentucky</p>
-<p>We the undersigned citizens of Webster County would most respectfully represent to you excellency. That at the last <date when="--03">March term</date> of the Webster Circuit Court Isaac Holeman was indicted by the grand jury of this county for keeping a Tipling House was tried at the last term of this Circuit Court and fined Twenty Dollars for said offence, we would state that on the trial the evidenced adduced before the jury was that Holemans son sold one Pint of Whiskey and that although it was not proven in trial that said boys was over 21 years old yet we will state to your excellency that said boy was over 21 years old and was at the time of the trial and is now in the service of the United States in Capt Baker Co 35 Ky Regt, and had said boy been present at the trial we do not believe that the jury would have fined said Holemans anything. The one pint sold by said Holemans son was all that was proven to have been sold; We would state to your excellency that said Holeman is a poor man and criple and it would be hard indeed for him to have to pay said amount of $20 -- he has already been compelled to pay the collector of the Internal Revenue Twenty Dollars for said offince and we would most Respectfully ask your excellency to remit said fine and will ever ask &amp; c<pb/></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Names
-<lb/>John A Brooks
-<lb/>William H Scott
-<lb/>William F Holeman
-<lb/>John W. Sigler
-<lb/>Wilis Jinkins
-<lb/>Ruff W. Wooard
+<p>We the undersigned citizens of Webster County would most respectfully represent to you excellency, That at the last <date when="--03">March term</date> of the Webster Circuit Court Isaac Holeman was indicted by the grand jury of this county for keeping a Tipling House, was tried at the last term of this Circuit Court and fined Twenty Dollars for said offence, we would state that on the trial the evidenced adduced before the jury was that Holemans son sold one Pint of Whiskey, and that although it was not proven in trial that said boy was over 21 years old yet we will state to your excellency that said boy was over 21 years old and was at the time of the trial and is now in the service of the United States in Capt Bakers Co. 35 Ky Regt, and had said boy been present at. the trial we do not believe that the jury would have fined said Holemans any thing, The one pint sold by said Holemans son was all that was proven to have been sold; We would state to your excellency that said Holeman is a poor man and a criple and it would be hard indeed for him to have to pay. said amount of &#36;20= he has already been compelled to pay the collector of the Internal Revenue Twenty Dollars for said offince and we would most Respectfully ask your excellency to remit said fine and will ever ask &amp;c<pb/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Names..
+<lb/>John A. Brooks
+<lb/>William. H Scott
+<lb/>William F. Holeman
+<lb/>John W Sigler
+<lb/>Wilis. Jinkins
+<lb/>Ruff W. woodard
 <lb/>Samuel Woodard
-<lb/>A. J. Liggett
+<lb/>A. J. liggett
 <lb/>J. H. gibson
-<lb/>H. Virgin
-<lb/>John W Watson
+<lb/>H,, Virgin
+<lb/>John, W Watson
 <lb/>N A Gibison
-<lb/>L Saad Watson
+<lb/>Isaac Watson
 <lb/>John C Stone
 <lb/>James A Rabern
-<lb/>John J Carner
-<lb/>Wm C Bayluers
-<lb/>Bailey H Gipson
-<lb/>Josepeh Barborr
+<lb/>John J Carney
+<lb/>Wm C <unclear>Bayluers</unclear>
+<lb/>Baley H Gipson
+<lb/>Josepehe Baborr
 <lb/>Albert Daniel
-<lb/>J N Carner
-<lb/>P W Carner
+<lb/>J N Carney
+<lb/>P W Carney
 <lb/>G W gibson
-<lb/>Henderson Pourd
+<lb/>Hendersen Powell
 <lb/>John H Bumpass
 <lb/>A. Dunkin
 <lb/>G. A. Powell
@@ -96,45 +99,45 @@
 <lb/>Willi Brame
 <lb/><cb n="2"/>Names<milestone unit="column" n="1"/><pb/>
 <lb/>D C Bumpass
-<lb/>Sidney L. Marshall
-<lb/>J Grisans
-<lb/>G H Price
-<lb/>Henderson Powell
-<lb/>William. M. Powell
+<lb/>Sidney L,, Marshall
+<lb/>J Grisam
+<lb/>G J Price
+<lb/>Hendrson Powell
+<lb/>William. M, Powell
 <lb/>William Stone
-<lb/>M. W. Marrs
-<lb/>Thomas Woodard
-<lb/>L. P. Marrs
+<lb/>M, W, Marrs
+<lb/>Thomas, Woodard
+<lb/>J, P, Marrs
 <lb/>W Wiley
-<lb/>W B Egget
-<lb/>Th Egget
-<lb/>james l Gord
-<lb/><hi rend="str">J</hi> Jon J <unclear>Mony</unclear>
+<lb/>W B egget
+<lb/>Th egget
+<lb/>jams Gord
+<lb/><unclear/> <unclear/>
 <lb/>Thomas Ford
 <lb/>James Morhead -- M D
-<lb/>Slarlin Schmetzer "
-<lb/>Western Rideonte
-<lb/>William Rideonte
+<lb/>Starlin Schmetzer "
+<lb/>Western Rideoute
+<lb/>William Rideoute
 <lb/>Stephen morrow
 <lb/>James Russell
-<lb/>John S. Shelton
-<lb/>B. F. Whitl^e^dge
-<lb/>G W Hillman
-<lb/>G W newman
+<lb/>John. S. Shelton
+<lb/>B,, F, Whitl^e^dge
+<lb/>G w Hillman
+<lb/>G w newman
 <lb/>william newman
 <lb/>henderson Watson
 <lb/>Joel Gibsone
 <lb/>George A Gibsone
-<lb/>N Dunkin<pb/></p>
-<p>Remit except costs &amp; fees
-<lb/>Tho E Bramlette
+<lb/>N Dunken<pb/></p>
+<p>Remit except costs &amp; fees</p>
+<p>Tho E Bramlette
 <lb/>Govr</p>
 <p>Webster Cir Ct
 <lb/>vs
 <lb/>Isaac Holeman
-<lb/>$20 -- 
+<lb/>&#36;20 -- 
 <lb/>Tipling
-<lb/><date when="1863-11-05">5th Nov/ 63</date></p>
+<lb/><date when="1863-11-05">5th Nov/63</date></p>
 <p>Direct answer to John A Brooks Dixon Ky</p>
   </body>
  </text>

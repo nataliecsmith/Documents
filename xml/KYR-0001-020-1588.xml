@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1588"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,24 +64,25 @@
  <text>
   <body>
    <p>Flemingsburg Ky
-<lb/><date when="1861-12-12">Dec<hi rend="sup">r</hi> 12<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+<lb/><date when="1861-12-12">Decr 12<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
 <lb/>To His Excellency B McGoffin</p>
-<p>At the <date when="1861-07">July Term 1861</date> of the Fleming Circuit Court the grand Jury of this County indicted John Harman for Standing a <hi rend="underline">Stud</hi> <hi rend="underline">Horse</hi> without a License and at the <date when="--09">September</date> Term thereafter Mr Harman came in to court and confessed a Judgement for <hi rend="underline">Thirty</hi> one dollars (31$) and costs of the action</p>
-<p>The facts are as follows. John Harman has Stood the same Horse in this county two Seasons prior to the one for which he was indicted and both times took out a License not at the commencement of the season as the Law requires but waited untill the close of the season under the impression that the Law only required it done any time within the year intending to do so again and did come in about the time of the year he had done before<pb/>
+<p>At the <date when="1861-07">July Term 1861</date> of the Fleming Circuit Court the grand Jury of this County Indicted John Harman for Standing a <hi rend="underline">Stud</hi> <hi rend="underline">Horse</hi> without a License and at the <date when="--09">September</date> Term thereafter Mr Harman came in to court and confessed a Judgement for <hi rend="underline">Thirty</hi> one dollars (31&#36;) and costs of the action</p>
+<p>The facts are as follows. John Harman has Stood the same Horse in this county two Seasons prior to the one for which he was indicted and both times took out a License not at the commencement of the Season as the Law requires but waited untill the close of the season under the impression that the Law only required it done any time within the year intending to do so again and did come in about the time of the year he had done before<pb/>
 <lb/>and indeed before he knew that he had been Indicted and paid the amount of the License to the Clerk Mr Harman is a Gentleman of Strict integrity and would be as far from violating the Law as any man in the County</p>
-<p>The amount is small but to Mr Harman who has a large and respectable family dependent upon his labour for a support without any other means it is of importance ^to him^ I have been requested by Mr Harman and some of his neighbors to make this statement which I <hi rend="underline">know</hi> myself <hi rend="underline">to</hi> <hi rend="underline">be</hi> <hi rend="underline">true</hi> and solicit your interposition in remitting all but fees and costs and I feel confident if you do so it will be but an act of Justice to Mr Harman and fully vindicate the infraction made upon the law which was unintentional on his part<pb/></p>
-<p>The amount has been replevied and your old friend A W Graham is the security on the bond which wil be out this week The Clerk however informs me that he will not issue Execution untill you are informed of the case</p>
-<p>With sentiments of high regard I am as ever your friend Truly</p>
-<p>Joseph M. Alexander</p>
+<p>The amount is small but to Mr Harman who has a large and respectable family dependent upon his labour for a support without any other means it is of importance ^to him^ I have been requested by Mr Harman and some of his Neighbors to make this statement which I <hi rend="underline">know</hi> myself <hi rend="underline">to</hi> <hi rend="underline">be</hi> <hi rend="underline">true</hi> and solicit your interposition in remitting all but fees and costs and I feel confident if you do so it will be but an act of Justice to Mr Harman and fully vindicate the infraction made upon the law which was unintentional on his part<pb/></p>
+<p>The amount has been replevied and your old friend A W Graham is the security on the bond which will be out this week The Clerk however informs me that he will not issue Execution untill you are informed of the case</p>
+<p>With sentiments of high regard I am as ever your friends Truly</p>
+<p>Joseph M, Alexander</p>
 <p>Please direct to me at Flemingsburg Ky </p>
-<p><hi rend="underline">Jo</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline">. M. Alexander</hi></p>
+<p><hi rend="underline">Jo</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> M, Alexander</hi></p>
 <p>Fleming County Sct</p>
-<p>I Certify that the statements in the foregoing Petition &amp; request are true &amp; from my Knowledge of all the facts I think the fine should be remitted in justice to M<hi rend="sup">r</hi>. Harman</p>
-<p>W. T. Dudley Clerk Fleming cty court<pb/></p>
+<p>I Certify that the statements in the foregoing Petition &amp; request are true &amp; from my Knowledge of all the facts I think the fine should be remitted in justice to M<hi rend="underline"><hi rend="sup">r</hi></hi> Harmon</p>
+<p>W. T. Dudley Clerk 
+<lb/>Fleming cty court<pb/></p>
 <p>Fleming Cir. Ct
-<lb/>$31. } standing horse without licence
+<lb/>&#36;31. &#125; standing horse without licence
 <lb/>Jno Harman
-<lb/>Iss<hi rend="sup">d</hi> <date when="1861-12-18">Dec<hi rend="sup">r</hi> 18. 1861</date></p>
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-12-18">Dec<hi rend="sup">r</hi> 18. 1861</date><figure type="hr"/></p>
 <p>Remitted
 <lb/>B. M</p>
   </body>

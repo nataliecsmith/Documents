@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0043"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,8 +64,8 @@
  <text>
   <body>
    <p>Louisville Ky. <date when="1862-09-11">11 Sept 1862</date></p>
-<p>I certify on honor that Colin G. Gorden was acting as wagon master for the 28 Regiment of Ky volunteers for me the <date when="1862-01-03">3<hi rend="sup">d</hi> day of January 1862</date> until the <date when="1862-04-07">7<hi rend="sup">th</hi> day of April 1862</date>. That the services of Mr. Gorden were faithfully rendered for the Government He had raised for the Regiment forty eight men paid as recruits by Ric<hi rend="sup">d</hi> Menifee, and upon the Consolidation of the Regiment he was thrown out &amp; his men were placed in other Companies. </p>
-<p>Thus -- believing that there was to be a wagon master for the regiment I promised to Mr. Gorden that appointment he and I both believing it had to be filled. Accordingly when the wagons were furnished he was placed in charge of them and the teams. and he had a great trouble and much exposure with the unbroken mules in verry bad weather -- His services were valuable to the Regiment and were faithfully rendered. It was our impression that the salary was forty Dollars per month.</p>
+<p>I certify on honor that Colin G. Gordon was acting as wagon master for the 28 Regiment Of Ky volunteers from the <date when="1862-01-03">3<hi rend="sup">d</hi> day of January 1862</date> until the <date when="1862-04-07">7<hi rend="sup">th</hi> day of April 1862</date>. That the services of Mr. Gordon were faithfully rendered for the Government He had raised for the Regiment forty Eight men paid as recruits by Ric<hi rend="sup">d</hi> Menifee, and upon the Consolidation of the Regiment he was thrown out &amp; his men were placed in other Companies.</p>
+<p>Thus- believing that there was to be a wagon master for the regiment I promised to Mr. Gordon that appointment he and I both believing it had to be filled. Accordingly when the wagons were furnished he was placed in charge of them and the teams and he had a great trouble and much exposure with the unbroken mules in verry bad weather -- His services were valuable to the Regiment and were faithfully rendered. It was our impression that the salary was forty Dollars per month</p>
 <p>W. P. Boone
 <lb/>Lt. Col. Comdg 28 Ky vols</p>
   </body>

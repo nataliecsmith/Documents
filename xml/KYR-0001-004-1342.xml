@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1342"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,10 +66,10 @@
    <p>Cattlettsburg Ky
 <lb/><date when="1864-11-10">Nov 10<hi rend="sup">th</hi> 1864</date>
 <lb/>Thomas E Bramlett Esqr
-<lb/>Govenor of Kentucky
+<lb/>Govener of Kentucky
 <lb/>Dear Sir</p>
-<p>You will please pardon me for again invoking your clemency in behalf of another one of our fellow citizens but the frequent importunity of some of the most respected citizens of Lawrence county and my own sense of justice impells me to ask in ernest expression of the pardon of Gabriel Endicott who is now a prisoner in the Penitentiary of this State upon -- sentence of Man Slaughter -- the petition which will accompany this letter is signed by the very best citizens of the county in which Endicott was<pb/>
-<lb/>convicted, and by some who wer most ernest in his prosecution I myself was employed to prosecute him, His good conduct since he has been in the penitentiary has elicited the favourable consideration of the keeper our Common friend Harry Todd and I am sure no one will be more gratified at his pardon than he, Trusting you may find it consistent with your sense of duty to pardon Endicott</p>
+<p>You will please pardon me for again invoking your clemency in behalf of another one of our fellow citizens but the frequent importunity of some of the most respectable citizens of Lawrence county and my own sense of justice impells me to ask in ernest expression the pardon of Gabriel Endicott who is now a prisoner in the Penitentiary of this State upon -- sentence of Man Slaughter -- the petition which will accompany this letter is signed by the very best citizens of the county in which Endicott was<pb/>
+<lb/>convicted, and by some who wer most ernest in his prosecution I myself was employed to prosecute him, His good conduct since he has been in the penitentiary has elicited the favourable consideration of the Keeper our <hi rend="str"><unclear/></hi>Common friend Harry Todd and I am sure no one will be more gratified at his pardon than he, Trusting you may find it consistent with your sense of duty to pardon Endicott</p>
 <p>I am as ever your friend
 <lb/>and obt servt
 <lb/>Laban T Moore</p>

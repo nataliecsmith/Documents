@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1467"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Grant County, Kentucky</placeName>
     <date when="1861-10-29">29 October 1861</date>
    </creation>
    <textClass>
@@ -60,30 +62,31 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency B MaGoffin Governor of Kentucky Your Petitioners would respectfully represent that at the <hi rend="str">October</hi> <date when="1861-05">May Term of the Grant Circuit Court 1861.</date> one Patrick Bannen was fined fifty Dollars for carrying concealed weapons: we think the assessment of s<hi rend="sup">d</hi> fine a great hardship upon Mr. Bannan He is a very quiet and Gentlemanly citizens, Sober. &amp; discreet. it is the first <hi rend="str">i</hi>offence of which he has even been charged in our county It will meet the universal approbation of the citizen of Grant should your Excellency remit so much of said fine as lies in your power to do. <date when="1861-10-29">Oct 29<hi rend="underline"><hi rend="sup">th</hi></hi> 1861.</date></p>
+   <p>To His Excellency B MaGoffin Governor of Kentucky Your Petitioners would respectfully represent that at the <hi rend="str">October</hi> <date when="1861-05">May Term of the Grant Circuit sourt 1861</date>. one Patrick Bannon was fined fifty Dollars for carrying concealed weapons: we think the assessment of s<hi rend="sup">d</hi> fine a great hardship upon Mr. Bannon He is a very quiet and Gentlemanly citizens, Sober &amp; discreet it is the first <hi rend="str">i</hi>offence of which he has even been charged in our county It will meet the universal approbation of the citizen of Grant should your Excellency remit so much of said fine as lies in your power to do.
+<lb/><date when="1861-10-29">Oct 29<hi rend="underline"><hi rend="sup">th</hi></hi> 18,61</date>.</p>
 <p>E F Nuttall
-<lb/>J. H. Webb
-<lb/>O. D. M<hi rend="underline"><hi rend="sup">c</hi></hi>Manama
-<lb/>W Smith Clk G c c<hi rend="sup">t</hi>
+<lb/>J, H, Webb
+<lb/>O. D, M<hi rend="underline"><hi rend="sup">c</hi></hi>Manama
+<lb/>W Smith clk G c c<hi rend="sup">t</hi>
 <lb/><hi rend="underline">J. O'Hara Jr</hi>
 <lb/>M Burnett
 <lb/>J. M. Callin
-<lb/>W. T. Simmons
+<lb/>W, T, Simmons
 <lb/>T. M. Coombs
-<lb/>Squire Lucas s g c
+<lb/>Squire Lucas s g C
 <lb/>E H Smith
 <lb/>O. P. Hogan
 <lb/>J. W. Collins
 <lb/>Robt H O'Hara
 <lb/>John A Turner
-<lb/><hi rend="underline">P. U. Major</hi> <hi rend="underline">Com'th Atty</hi>
+<lb/><hi rend="underline">P, U, Major</hi> <hi rend="underline">Com'th Atty</hi>
 <lb/>A Kendall<pb/></p>
-<p>Grant Cir. Ct
-<lb/>Remitted 
-<lb/>B. M.</p>
-<p>$50 } Weapons
-<lb/>P. Bannen
-<lb/>Iss<hi rend="sup">d</hi> <date when="1861-11-02">Nov 2 1861</date></p>
+<p>Grant Cir. ct</p>
+<p>Remitted
+<lb/>B. M</p>
+<p>&#36;50. &#125; Weapons
+<lb/>P. Bannen</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-11-02">Nov. 2 1861</date></p>
   </body>
  </text>
 </TEI>

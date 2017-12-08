@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0128"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">James S. Jackson to Anne E. V. Johnson</title>
+    <title level="a" type="main">James S. Jackson to Ann E. V. Johnson</title>
     <title level="a" type="parallel">CWG14418</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,15 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Pittsburg Landing <date when="1862-04-14">April 14<hi rend="underline"><hi rend="sup">th</hi></hi>/62</date>
+   <p>Pittsburg Landing <date when="1862-04-14">April 14<hi rend="underline"><hi rend="sup">th</hi></hi> 62</date>
 <lb/>Mrs Geo. W. Johnson. Dear Madam</p>
-<p>One Thursday afternoon at 2 Clock of the day succeeding the great Battle at this place I recognized the body of your Husband G. W. Johnson badly wounded.</p>
-<p>He was found by Genl M<hi rend="sup">c</hi>Cook Genl Nelson Ordered him to be sent on board the boat, where he was Kindly attended to by the surgical department and a chaplain of an Iowa Regiment-</p>
-<p>As far as my duties would permit it being 9 Ock Wednesday Morning I visited him at the boat to render him every assistance in my power-</p>
-<p>I found him dead. He left many messages for Genl Breckenridge and yourself which you will find inclosed-</p>
-<p>I also send a lock of his hair and will send his body if possible. I have had him packed in a rough box with salt. It was the best I could do. The Chaplain was as attentive to him as a man could be</p>
-<p>Very Respfully J. S. Jackson
-<lb/>Comm 3rd Ky Cavalry</p>
+<p>One Tuesday afternoon at 2 Ock of the day succeeding the great Battle at this place I recognized the body of your Husband G. W Johnson badly wounded.</p>
+<p>He was found by Gen'l M<hi rend="sup">c</hi>Cook Gen'l Nelson Ordered him to be sent on board the boat, where he was Kindly attended to by the medical department and a chaplain of an Iowa Regiment -- </p>
+<p>As soon as my duties would permit it being 9 Ock wednesday Morning I visited him at the boat to render him every assistance in my power -- </p>
+<p>I found him dead. He left many messages for Gen'l Breckenridge and yourself which you will find inclosed -- </p>
+<p>I also send a lock of his hair and will send his body if possible. I have had him packed in a rough box with salt. It was the best I could do. The Caplain was as attentive to him as a man could be</p>
+<p>Very Rspfully J. S. Jackson
+<lb/>com 3<hi rend="sup">d</hi> Ky Cavalry</p>
   </body>
  </text>
 </TEI>

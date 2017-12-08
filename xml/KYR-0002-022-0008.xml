@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0008"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,15 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Head Quarters 40<hi rend="sup">th</hi> Reft Ky Militia
+   <p>Head Quarters 40<hi rend="sup">th</hi> Reg<hi rend="sup">t</hi> Ky Militia
 <lb/>Hickman Ky <date when="1863-11-07">Nov. 7. 1863</date>.
 <lb/>General John Boyle
-<lb/>Adjt Genl Ky Vols.
+<lb/>Adjt Gen<hi rend="sup">l</hi> Ky Vols.
 <lb/>Sir.</p>
-<p>I have the honor to acknowledge the receipt of Instructions without date, but Post-marked <date when="1863-10-27">Oct 27. 1863</date>. directed to myself as Col. Comdg the 40<hi rend="sup">th</hi> Reft Ky Militia. It shall be my endeavor to comply fully with these instructions To this end, I have already ordered the County Court Clerk, to furnish me with a full list of the enrolled militia of the County. Whether a voluntary enlistment of citizens of this County to the <hi rend="underline">maximum</hi> or even <hi rend="underline">minimum</hi> standard can be raised under the Militia Law, is doubtful. We have a strange population, one that expects protection, and yet are fearful, nay tremulous about protecting themselves. Like the wagoner in the Fable, they are ever ready to pray, if not like him. to Hercules to help him out of the mire, they are at least not wanting in their prayers to the Govt, to send them troops, to watch over them. That the Rebel sympathizers should be backward in this matter, does not surprise me; but that there professing to be loyal men, should hold back, astounds me.</p>
-<p>I shall call a public meeting and use my endeavors to get up a company. Should no one else do so, I will myself assume the command and drill them, if raised. In the want of a failure, to effect this, let me advise an immediate draft. In<pb/>
-<lb/>no other part of Ky is a Home force more needed, than here. The organization, discipline &amp;c of the Corps ought to be independent of the command at Columbus; and the responsibility of the commander be alone to the State Authorities. As I had the honor to write a few days since, the persons conferred ought to be enlarged; and the power to inflict punishment upon the outlaws &amp; cutthroats who infest the country and harass the people, summary, when taken in arms. We have dallied too long; and too long have trifled with an incurable disease.</p>
-<p>Since writing last, I have no reason to change the views there expressed; but on the contrary everything to confirm what I then wrote.</p>
+<p>I have the honor to acknowledge the receipt of Instructions without date, but Post-marked <date when="1863-10-27">Oct 27. 1863</date>. directed to myself as Col. comdg the 40<hi rend="sup">th</hi> Reg<hi rend="sup">t</hi> Ky Militia. It shall be my endeavor to comply fully with these instructions To this end, I have already ordered the County Court Clerk, to furnish me with a full list of the enrolled militia of the County. Whether a voluntary enlistment of citizens of this County to the <hi rend="underline">maximum</hi> or even <hi rend="underline">minimum</hi> standard can be raised under the Militia Law, is doubtful. We have a strange population, one that expects protection, and yet are fearful, nay tremulous about protecting themselves. Like the wagoner in the Fable, they are ever ready to pray, if not like him. to Hercules to help him out of the mire, they are at least not wanting in their prayers to the Gov<hi rend="sup">t</hi>, to send them troops, to watch over them. That the Rebel sympathizers should be backward in this matter. does not surprise me; but that tho<hi rend="str">r</hi>se professing to be loyal men, should hold back, astounds me.</p>
+<p>I shall call a public meeting and use my endeavors to get up a Company. Should no one else do so, I will myself assume the Command and drill them, if raised. In the event of a failure, to effect this, let me advise an immediate draft. In<pb/>
+<lb/>no other part of Ky is a Home force more needed, than here. The organization, discipline &amp;c of the Corps ought to be independent of the command at Columbus; and the responsibility of the commander be alone to the State Authorities. As I had the honor to write, a few days since, the persons conferred ought to be enlarged; and the power to inflict punishment upon the outlaws &amp; cutthroats who infest the country and harass the people, summary, when taken in arms. We have dallied too long; and too long have trifled with an incurable disease.</p>
+<p>Since writing last, I have no reason to change the views then expressed; but on the contrary everything to confirm what I then wrote.</p>
 <p>Of my action from time to time, I shall hold you fully advised; and in the endeavor to discharge my duties faithfully and promptly, to the best of my ability, under discouraging circumstances here, in what you cannot but know is a disaffected district; shall do all that a loyal man can do, looking confidently to be sustained by His Excellency, the Governor.</p>
 <p>With great respect
 <lb/>Your Obt Servt
@@ -77,12 +80,12 @@
 <p>40 
 <lb/>Hickman Fulton Co <date when="1863-11-07">Nov. 7. 1863</date>
 <lb/>Col. Geo. C. Hallett
-<lb/>40<hi rend="sup">th</hi> Reg K. M.
-<lb/>Asking further instruction &amp; in regard to the State Guard</p>
-<p>Respectfully referred to Ins. Genl Lindsay.
+<lb/>40th Reg K. M.
+<lb/>asking further instruction &amp; in regard to the State Guard</p>
+<p>Respectfully referred to Ins. Genl. Lindsay.
 <lb/><hi rend="underline">John Boyle</hi>
 <lb/>Adjt. Gen of Ky</p>
-<p>substantially answered by previous letter see letter book p 49</p>
+<p>substantially answered by previous letter see letter book <hi rend="underline">p 49</hi></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0108"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,9 +65,9 @@
   <body>
    <p>Louisville <date when="1863-10-28">Oct 28 1863</date>
 <lb/>Governor Bramlette</p>
-<p>I very seldom presume to interfere in things of this nature but feel calld on to say something on behalf of Col Gorin chargd with <hi rend="underline">maliciously</hi> shooting M C Wood. M<hi rend="sup">r</hi> Wood has entirely recovered. The Col as you know is an old respected member of the bar he is very much troubled so much as to almost unsettle his mind he is very much to be pitied He <hi rend="underline">certainly had no malice</hi> against M<hi rend="sup">r</hi> Wood The shooting was done under very great excitement and the Col labourd under the impression that M<hi rend="sup">r</hi> Wood a powerful and much younger man had struck him and in the act of following up his blows when he fird Public opinion so far as I can gather it is universal that Col Gorin ought to be pardoned in this my own feelings &amp; Judgement as a man and law abiding citizen fully concurs. I trust that you will find no difficulty in relieving Col Gorin</p>
-<p>Very Respectfully
-<lb/>W. W. Fry</p>
+<p>I very seldom presume to interfere in things of this nature but feel calld on to say something in behalf of Col Gorin chargd with <hi rend="underline">maliciously</hi> Shooting W C Wood. M<hi rend="sup">r</hi> wood has entirely recovered. The Col as you know is an old respected member of the bar he is very much troubled so much as to almost unsettle his mind he is very much to be pitied He <hi rend="underline">certainly had no malice</hi> against m<hi rend="sup">r</hi> wood The shooting was done under very great excitement and the col labourd under the impression that M<hi rend="sup">r</hi> wood a powerful and much younger man had struck him and in the act of following up his blows when he fir<hi rend="sup">d</hi> Public opinion so far as I can gather it is universal that Col Gorin ought to be pardoned in this my own feeling<hi rend="underline"><hi rend="sup">s</hi></hi> &amp; Judgment as a man and law abiding citizen fully concurs. I trust that you will find no difficulty in relieving Col Gorin</p>
+<p>very Respectfully
+<lb/><hi rend="underline">W. W. Fry</hi></p>
   </body>
  </text>
 </TEI>

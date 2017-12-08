@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0149"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,71 +63,71 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hartford Ohio County Ky.
-<lb/><date when="1863-10-23">Oct 23<hi rend="sup">rd</hi> 1863</date>
-<lb/>To his Excellency Thomas E Bramlett
-<lb/>governor of Kentucky</p>
-<p>Your petitioners would respectfully represent that at the last term of the Ohio circuit court James A Thomas a judgement was rendered against James A Thomas and Peter Thomas for sixty dollars each under an indictment for keeping a tipling house in the town of Hartford. The house was kept by said James &amp; Peter Thomas was only a small boy who was attending to business for his Uncle James. The circumstances are then at the commencement of this war we had no one in this town who <hi rend="str">would</hi> sold liquor by the small with the exception of a secesh tavern keeper and we Union men were resolved not to purchase of him, we therefore called upon Mr Thomas to open a liquor establishment, which he did, and did sell it by the small, which we consider was necessary under the circumstances, he <hi rend="str">considers</hi> continued to sell until <hi rend="str">a</hi> loyal tavern keepers opened bars for the purpose, and then he discontinued &amp; has sold none since by the small. Now we do believe this is a proper case for executive clemency, and we ask you to remit the fine as far as you can and you will confer a great favor upon us who <hi rend="str">was</hi><pb/>
+   <p>Hartford Ohio county Ky,
+<lb/><date when="1863-10-23">Oct 23<hi rend="sup">rd</hi> 1863.</date>
+<lb/>To his Excellency Thomas E. Bramlett
+<lb/>govenor of Kentucky</p>
+<p>Your petitioners would respectfully represent that at the last term of the Ohio circuit court James A Thomas a judgment was rendered against. James A Thomas and Peter Thomas for sixty dollars each under an indictment for keeping a tipling house in the town of Hartford, The house was kept by said James, &amp; Peter Thomas was only a small boy who was attending to business for his Uncle James -- The circumstances are these. at the commencement of this war we had no one in this town who <hi rend="str">would</hi> sold liquor by the small with the exception of a secesh tavern keeper and we Union men were resolved not to purchase of him, we therefore called upon M<hi rend="sup">r</hi> Thomas to open a liquor establishment, which he did, and did sell it by the small, which we consider was necessary under the circumstances, he <hi rend="str">considered</hi> continued to sell until <hi rend="str">a</hi> loyal tavern keepers opened bars for the purpose, and then he discontinued &amp; has sold none since by the small. Now we do believe this is a proper case for executive clemency, and we ask you to remit the fine as far as you can and you will confer a great favor upon us who <hi rend="str">was</hi><pb/>
 <lb/>were the cause of the opening of said establishment</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>C W Stevens
-<lb/>R T Brell
+<lb/>R T Bell
 <lb/>Robert Row
-<lb/>James Durham
+<lb/>Jonas Durham
 <lb/>M P M<hi rend="sup">c</hi>Dowell
 <lb/>G S Hamilton
-<lb/>Moses Baer
-<lb/>Alfred Stagner
+<lb/>Moses Baer.
+<lb/>Alfred Stogner
 <lb/>John Raly
 <lb/>Griffin Patterson
-<lb/>Alexander Stoyner
+<lb/>Alexander Stogner
 <lb/>C J Lawton who do not drink but think it was a necessity at that particular time
 <lb/>J T Hill
-<lb/>L L Baird
-<lb/>Lieut A. P. Hudson of 12 Cavl Ky
+<lb/>S L Baird
+<lb/>Leut A. P. Hudson of 12 Ky Cavl
 <lb/>E R Murrell
-<lb/>D. B. Cook
-<lb/>J. S. Ford
-<lb/>H. E. Carling
+<lb/>H. R Cook
+<lb/>I. S. Ford
+<lb/>H, E, Carling
 <lb/>S Manzry
 <lb/>Thomas Handly
-<lb/>W<hi rend="sup">m</hi> Rosenberg
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Rosenberg
 <lb/>Simon Levi
-<lb/>J C Shanks
+<lb/>Q C Shanks
 <lb/>Henry Small
-<lb/>Wm. H. Potts
-<lb/>Henry Armends
-<lb/>Louis Armends
+<lb/>Wm, H. Potts
+<lb/>Henry. <unclear>Arments.</unclear>
+<lb/>Louis. <unclear>Arments.</unclear>
 <lb/>A. B. Baird Post Master
-<lb/><cb n="2"/>J. J. Harrison
+<lb/><cb n="2"/>J, J, Harrison
 <lb/>John P Tracy
 <lb/>E. A. Maddox
 <lb/>W<hi rend="sup">m</hi> Hardwick
-<lb/>Alf. Nall
+<lb/>Alf -- Nall
 <lb/>John T Austin
 <lb/>Philip Felix
 <lb/>Henry T Stevens
 <lb/>Granville Crawford
-<lb/>W<hi rend="sup">m</hi> Graves
-<lb/>R. N. Hood
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Graves
+<lb/>R, N, Hood
 <lb/>J L Woodward
-<lb/>F G Pall
+<lb/>F G Nall
 <lb/>D S Hill Presiding Judge Ohio Cty Court
 <lb/>F Sullenger
-<lb/>W. B. Lawton
+<lb/>W, B, Lawton
 <lb/>T J Kerby
-<lb/>A. B. Gratz
+<lb/>A. B, Gratz
 <lb/>Lea Davis
 <lb/>James Gibson
-<lb/>L D Carson
-<lb/>D. A. Miller
+<lb/>L R Carson
+<lb/>D, A, Miller
 <lb/>J B Stevens
-<lb/>W<hi rend="sup">m</hi> M Miller Rep Ohio Co
+<lb/>W H Miller Rep Ohio Co
 <lb/>D. A. Miller Jr
-<lb/>A. L. Molton Clerk Ohio Circuit Court
+<lb/>A. L, Morton clerk Ohio Circuit Court
 <lb/>W. H. Davidson D. C.
-<lb/>Jas B Bennett Marshal of Ohio County
+<lb/>Jas B Bennett Marshal of Oho County
 <lb/>Robbert Moseley
-<lb/>W<hi rend="sup">m</hi> Bryant</p>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Bryant</p>
   </body>
  </text>
 </TEI>

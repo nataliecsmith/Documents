@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0091"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,9 +65,9 @@
   <body>
    <p>Paris <date when="1865-11-09">Nov 9<hi rend="sup">th</hi> 1865</date>
 <lb/>Governor Bramblett</p>
-<p>We are very much afflicted with Captain Reids company here, and we know if you knew how they are doing you would not hesitate to remove them, they are stealing every thing from a chicken up to a horse, it is dangerous for one to be out after night. I was at church last night with some ladies and on our way home a parsel of them were on the road drunk and shooting off their pistols and using all manner of indecent language there was a petition gotten up for the ladies to sign but I thought it best not to have any thing to do with it knowing what a class of soldiers we have near us, if it be necessary to have a petition to get rid of such a pest we can send one as long as a man's arm, signed by ladies or gentlemen, it is not necessary to say any thing more on the subject for I know you will see the importance of removing such a pest from our midst &amp;co Co Co</p>
+<p>We are very much afflicted with Captan Reids company here, and we know if you knew how they are doing you would not hesitate to remove them, they are stealing every thing from a chicken up to a horse, it is dangerous for one to be out after night. I was at church last night with some ladies and on our way home a parsel of them were on the road drunk and shooting off their pistols and using all manner of indecent language there was a petition gotten up for the ladies to sign but I thought it best not to have any thing to do with it Knowing what a class of soldiers we have near us, if it be necessary to have a petition to get rid of such a pest we can send one as long as a man's arm, signed by ladies or gentlemen, it is not necessary to say any thing more on the subject for I know you will see the importance of removing such a pest from our midst &amp;Co Co Co</p>
 <p>Respectfully
-<lb/>Edwin T. Shipp
+<lb/>Edwin. T. Shipp
 <lb/>Paris Bourbon Co Ky</p>
   </body>
  </text>

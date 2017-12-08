@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0012"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,19 +65,19 @@
   <body>
    <p>Knottsville Ky <date when="1861-04-30">April 30<hi rend="sup">th</hi> 1861</date>.
 <lb/>Sir</p>
-<p>I am well aware of the Amount of Important Business You have now on hand Yet I hope You will find time Sufficient to notice this letter. Though an humble Citizen I am Our Cause is mutual.</p>
+<p>I am well aware of the Amount of Important Business you have now on hand yet I hope you will find time Sufficient to notice this letter. Though an humble Citizen I am Our Cause is mutual.</p>
 <p>We want a few of the Best Rifles in North America Our Boys are Marksmen and will ^tell^ where ever they go.</p>
-<p>I am aware of the Scantily furnished Condition of the State But I hope She is able to furnish us with Such guns as we want. Can we get them Or Shall we Arm Ourselves<pb/>
+<p>I am aware of the scantily furnished Condition of the State But I hope She is able to furnish us with Such Guns as we want. Can we get them or Shall we Arm Ourselves<pb/>
 <lb/>as Best we can.</p>
-<p>I hope to hear from You as Soon as the press of Business will allow.</p>
+<p>I hope to hear from you as Soon as the press of Business will allow.</p>
 <p>If the Legislature will do nothing for us we must do for ourselves.</p>
-<p>With due Regard for Your Excellency I Beg leave to Subscribe Myself Your humble Servant,</p>
-<p>A, H, Clements,</p>
-<p>To B. Magoffin
+<p>With due Regard for Your Excellency I Beg leave to Subscribe Myself Your humble Servant,
+<lb/>A, H, Clements,</p>
+<p>To B, Magoffin
 <lb/>Governor of Kentucky,<pb/></p>
 <p>Arms
 <lb/>A. H. Clements
-<lb/>Ans<hi rend="sup">d</hi></p>
+<lb/>ans<hi rend="sup">d</hi></p>
   </body>
  </text>
 </TEI>

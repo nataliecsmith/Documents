@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0136"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">J. A. Marshall to Thomas E. Bramlette</title>
+    <title level="a" type="main">T. A. Marshall to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4255</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,13 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000337">Louisvill</placeName> <date when="1863-09-04">September 4<hi rend="sup">th</hi> 1863</date>
-<lb/>To his Excellency <persName ref="cwgk:N001000">Thomas E. Bramblette
-</persName><lb/>Dear Sir</p>
-<p>I take the liberty of introducing to you M<hi rend="sup">r</hi> <persName ref="cwgk:N002014">J. H. Price</persName>, a practicing Lawyer of this place, and a member of the <orgName ref="cwgk:O00001059">City Council of Louisvill</orgName>.</p>
-<p>M<hi rend="sup">r</hi> Price goes to <placeName ref="cwgk:P00000308">Frankfort</placeName>, as I understand, to solicit the pardon of<persName ref="cwgk:N002001"> a negro woman</persName> who stands convicted of a capital crime by the Judgment of the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName>. I know nothing of the merits of the case, but M<hi rend="sup">r</hi> Price seems to be very confident of the innocence of the woman, and therefore seeks the relieve her from the sentence against her. He will of course make known the grounds of his believe.</p>
+   <p>Louisvill <date when="1863-09-04">September 4<hi rend="sup">th</hi> 1863</date>
+<lb/>To his Excellency Thomas E. Bramblette
+<lb/>Dear Sir</p>
+<p>I take the liberty of introducing to you M<hi rend="sup">r</hi> J. H. Price, a practicing Lawyer of this place, and a member of the City council of Louisvill.</p>
+<p>M<hi rend="sup">r</hi> Price goes to Frankfort, as I understand, to solicit the pardon of a negro woman who stands convicted of a capital crime by the Judgment of the Jefferson Circuit Court. I know nothing of the merits of the case, but M<hi rend="sup">r</hi> Price seems to be very confident of the innocence of the woman, and therefore seeks the relieve her from the sentence against her- He will of course make known the grounds of his belief.</p>
 <p>Yours with great respect &amp;c
-<lb/><persName ref="cwgk:N00000780">T. A. Marshall</persName></p>
+<lb/>T. A. Marshall</p>
   </body>
  </text>
 </TEI>

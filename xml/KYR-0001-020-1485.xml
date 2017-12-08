@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1485"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,12 +63,13 @@
  <text>
   <body>
    <p>To the Honorable, Beriah Magoffin. 
-<lb/>Governor of the Commonwealth. of Kentucky.</p>
-<p>Your petitioner, James Pelly would respectflly represent, that at the <date when="1860-06">June Term of the Kenton Circuit Court, held at Independence ^1860^</date> Ky, an Indictment was found against your petitioner, for cutting One William Stewart with a small pocket Knife, that at the <date when="1861-06">June Term 1861</date> a fine of $50 was assessed against him by a Jury of his Country. </p>
-<p>Your petitioner would further state that at the examining Court he was acquitted, That the testimony was about equally ballanced as to which of the parties commenced the cutting stewart being armed with a larger Knife than your petitioner, and cut your petitioner in several places during the affray that stewart was going about within four or five days, after the difficulty, that your petitioner and stewart; have been up to the time of the affray, and since then on the most intimate terms of Friendship.</p>
-<p>Your Petitioner would further represent that he is in exceedingly moderate circumstances, being a renter with a family who are wholly dependent upon him for a sustainance, that it requires his greatest effort to pay his rent, for a small farm, and meet the daily wants of his family: that if he has the fine to meet it will cause his family to suffer great and almost irrepairable injury. </p>
-<p>We would therefore ask your honor to remit his fine or so much thereof as<pb/>
-<lb/>may under the state of the above facts seem consistent. </p>
+<lb/>Governor of the Commonwealth.
+<lb/>of Kentucky.</p>
+<p>Your petitioner, James Pelly would respectfully represent; that at the <date when="1860-06">June Term of the Kenton Circuit Court; held at Independence -- ^1860^</date> Ky, an Indictment was found against your petitioner, for cutting One William Stewart with a small pocket Knife, that at the <date when="1861-06">June term 1861</date>. a fine of &#36;50. was assessed against him by a Jury of his Country. </p>
+<p>Your petitioner would further state that at the examining Court he was acquitted,. That the te<hi rend="str">m</hi>stimony was about equally ballanced as to which of the parties commenced the cutting stewart being armed with a larger Knife than your petitioner, and cut your petitioner in several places during the affray. that stewart was going about within four or five days, after the difficulty, that your petitioner and stewart; have been up to the time of the affray, and since then on the most intimate terms of Friendship.</p>
+<p>Your Petitioner -- would further represent that he is in exceedingly moderate circumstances, being a renter with a family who are wholly dependent upon him for a sustainance, that it requires his greatest effort to pay his rent, for a small farm, and meet the daily wants of his family: that if he has the fine to meet it will cause his family to suffer great and almost irrepairable injury. </p>
+<p>W<hi rend="str">o</hi>e would therefore ask your honor to remit his fine or so much <hi rend="str">as</hi>thereof as<pb/>
+<lb/>may under the state of the above facts seem consistent,..</p>
 <p>We the undersigned petitioners unite with petitioner, in a prayer to your honor to remit the fine</p>
 <p>John Lambert
 <lb/>C S Armstrong
@@ -73,11 +77,11 @@
 <lb/>John B Hume
 <lb/>James M<hi rend="sup">c</hi>Donnald
 <lb/>John Ragan
-<lb/>Samuel R. Brisler
-<lb/>Mason Stringer
+<lb/>Samuel R. Brislen
+<lb/>Mason Striger
 <lb/>John F Pelley
-<lb/>Samuel Rick
-<lb/>Wm Martin
+<lb/>Samuel Rich
+<lb/>Wm martin
 <lb/>John Van Patten
 <lb/>Josiah Herbert
 <lb/>John H Armstrong</p>
@@ -85,7 +89,7 @@
 <lb/>James Pelly Pet.</p>
 <p>Remitted
 <lb/>B. M. </p>
-<p>$50 } affray
+<p>&#36;50 &#125; affray
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-09">Octo 9. 1861</date></p>
   </body>
  </text>

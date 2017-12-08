@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1571"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">James W. Ray et al. to Beriah Magoffin</title>
+    <title level="a" type="main">James H. Ray et al. to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG11039</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,37 +63,37 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency B. Magoffin Governor of Kentucky,</p>
-<p>The undersigned citizens of Garrard County, respectfully represent that James Duddleson is now confined in the Penitentiary of this state -- and they believe unjustly confined -- &amp; that the Judgment &amp; verdict of the Jury in the case was erroneous -- That he is a man with wife and two young children who have no means of support, and look to him and his labor only for it, and are with out property &amp; means of support &amp; Kneed his labor &amp; assistance for support &amp; for bread, -- they testify that he has always been a man of good moral character &amp; a law abiding citizen, and never until his trail in the Mercer Court was he charged with any office, -- but has always been esteemed as a good citizen, we pray that your Ex<hi rend="sup">lc</hi> will pardon him, and restore him to his family -- <date when="1861-12-08">December 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1861 -- </date></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>James N Ray
+   <p>To His Excellency B, Magoffin Governor of Kentucky,</p>
+<p>The undersigned citizens of Garrard County, respectfully represent that James Duddleson is now confined in the Penitentiary of this state -- and they believe unjustly confined- &amp; that the Judgment &amp; verdict of the Jury in the case was erroneous -- That he is a man with a wife and two young children who have no means of support, and look to him and his labor only for it, and are with out property &amp; means of support &amp; Kneed his labor &amp; assistance for support &amp; for bread, -- they testify that he has always been a man of good moral character &amp; a law abiding citizen, and never until his trial- in the Mercer Court was he charged with any office, -- but has always been esteemed as a good citizen, we pray that your Ex<hi rend="sup">lc</hi> will pardon him, and restore him to his family -- <date when="1861-12-08">December 8<hi rend="underline"><hi rend="sup"> -- </hi></hi>1861 -- </date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>James H Ray
 <lb/>William A Wilson
 <lb/>Michael Ray Junier
-<lb/>Abraham Babor
+<lb/>Abrham Babor
 <lb/>Joseph Ray
 <lb/>James Ward
-<lb/><cb n="2"/>Richard A. Runyon
+<lb/><cb n="2"/>Richard. A, Runyon
 <lb/>William Brother
 <lb/>Isaiah Layne
-<lb/><hi rend="str">Sher</hi> <hi rend="str">Shor</hi> Sherod Layne
+<lb/><hi rend="str">Sher</hi> <hi rend="str">Shor</hi> Sharod Layne
 <lb/>Lawrence Layne
 <lb/>Joseph East<pb/>
-<lb/><cb n="1"/>B H P<unclear/>
+<lb/><cb n="1"/>B F <unclear>Phingo</unclear>
 <lb/>J P Turner
 <lb/>Wm. Hardin
 <lb/>John Hardin
 <lb/>Harrison Ray
-<lb/>George W. Anderson
+<lb/>George. W, Anderson
 <lb/>William R Anderson
 <lb/>William Turner
 <lb/>Ervin Willis
 <lb/>Joseph Toton
 <lb/>James Brim
 <lb/>Moses Ray
-<lb/>Drury Words
+<lb/>Drury Word
 <lb/>Thomas Ward
 <lb/>James Clouse
 <lb/>Er Burton
-<lb/><hi rend="str">K</hi>Henry Davis
+<lb/>Henry Davis
 <lb/>R H Teeter
 <lb/>James Teeter
 <lb/>Wm teeter
@@ -134,7 +137,7 @@
 <lb/>Alex. Jennings<pb/>
 <lb/><cb n="1"/>James East
 <lb/>John East
-<lb/>Wm Blakemon
+<lb/>Wm: Blakemon
 <lb/>James Blakemon
 <lb/>Robert Burton
 <lb/>John Burton
@@ -146,14 +149,14 @@
 <lb/>A L Mathis
 <lb/>Howard Bogy
 <lb/>John Beaumont
-<lb/>Wm Beaumont
+<lb/>Wm Beaimont
 <lb/>Herod Beaumont
 <lb/>James H Rainey
 <lb/>Leander Davidson
 <lb/>Jessa. Davidson
-<lb/>Linsay Gully
+<lb/>Linsey Gully
 <lb/>Ashley Gully
-<lb/>Dolphlin Davis
+<lb/>Dolphin Davis
 <lb/>George Turner
 <lb/>John Turner
 <lb/>Bob Davis
@@ -165,7 +168,7 @@
 <lb/>N. H Teeter
 <lb/>John W Teeter
 <lb/>James Davis
-<lb/>A.. V Davis
+<lb/>A,, V Davis
 <lb/>Harvey Warren
 <lb/>Fremon Prather
 <lb/>E D Dailey
@@ -174,9 +177,9 @@
 <lb/>E L Simpson
 <lb/>Y L Simpson
 <lb/>J H Letcher
-<lb/>James Sanders
+<lb/>James Landers
 <lb/>Thomas Sanders
-<lb/>E J Sadler
+<lb/>E P Sadler
 <lb/>Ri Huble
 <lb/>John Huble
 <lb/>Wm Green
@@ -186,11 +189,11 @@
 <lb/>F A Green
 <lb/>Robert Baker
 <lb/>Charles Baker
-<lb/>P H Litreal
+<lb/>R H Litreal
 <lb/>Jno Warren
 <lb/>Joseph Simpson Cr
 <lb/><unclear/> Ragsdal<milestone unit="column" n="1"/><pb/>
-<lb/>James McManis
+<lb/>James Mcmanis
 <lb/>Jackson Gully
 <lb/>Washington Toton
 <lb/>Jno Toton

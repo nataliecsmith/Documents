@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0210"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Archibald P. Cochran to E. L. Van Winkle</title>
+    <title level="a" type="main">Archibald P. Cochran to Ephraim L. Van Winkle</title>
     <title level="a" type="parallel">CWG4329</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,13 +65,13 @@
   <body>
    <p>Louisville <date when="1863-10-29">Octo 29<hi rend="sup">th</hi> 1863</date>
 <lb/>Hon E. S. Vanwinkle
-<lb/>Secy of State, Frankfort Ky
+<lb/>Sec'y of State, Frankfort Ky
 <lb/>Dear Sir</p>
-<p>In the absence of Gov Bramlette, to whom the enclosed is addressed I take the liberty of enclosing it to you</p>
-<p>I am not personally acquainted with Mr Grant, but know from the representations made to me by his uncle Jno A M Allister of Philad<hi rend="sup">a</hi> (with whom I am well acquainted) that he is an honorable &amp; high minded gentle man For myself I can refer to my brother in law James Speed Esq of this city</p>
-<p>If the request be granted. The papers addressed to my care will reach their destination &amp; I will at once, on knowledge of the amount remit the proper fees</p>
+<p>In the absence of Gov Bramlette, to whom the enclosed is addressed, I take the liberty of enclosing it to you</p>
+<p>I am not personally acquainted with Mr Grant, but know from the representations made to me by his uncle Jno A M<hi rend="sup">c</hi>Allister of Philad<hi rend="sup">a</hi> (with whom I am well acquainted) that he is an honorable &amp; high minded gentleman For myself I can refer to my brother in law James Speed Esq of this city</p>
+<p>If the request be granted. the papers addressed to my care will reach their destination &amp; I will at once. on knowledge of the amount remit the proper fees</p>
 <p>Yours Respy
-<lb/>Arch<hi rend="sup">d</hi> P. Cochran</p>
+<lb/>Arch<hi rend="underline"><hi rend="sup">d</hi></hi> P. Cochran</p>
   </body>
  </text>
 </TEI>

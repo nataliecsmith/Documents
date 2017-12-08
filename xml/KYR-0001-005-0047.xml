@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0047"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Martin Thomas to Thomas E. Bramlette</title>
+    <title level="a" type="main">Commonwealth of Kentucky v. Martin Thomas, Indictment</title>
     <title level="a" type="parallel">CWG0936</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,11 +52,11 @@
   <profileDesc>
    <creation>
     <placeName>Casey County, Kentucky</placeName>
-    <date when="1864-08-01">1 August 1864</date>
+    <date when="1864-05">May 1864</date>
    </creation>
    <textClass>
     <keywords>
-     <term type="genre">Petition</term>
+     <term type="genre">Legal/Financial</term>
     </keywords>
    </textClass>
   </profileDesc>
@@ -61,28 +64,27 @@
  <text>
   <body>
    <p>State of Kentucky
-<lb/>Casey Circuit Court} SS <date when="1864-05">May Term 1864</date></p>
-<p>The Commonwealth of Kentucky Plaintiff
-<lb/>against } Upon Indictment &amp;<hi rend="underline"><hi rend="sup">c</hi></hi>
+<lb/>Casey Circuit Court&#125; SS <date when="1864-05">May Term 1864</date>
+<lb/>The Commonwealth of Kentucky Plaintiff
+<lb/>against &#125; Upon Indictment &amp;<hi rend="underline"><hi rend="sup">c</hi></hi>
 <lb/>M Thomas Defendant</p>
-<p>This day appeared the attorney for the Commonwealth and the Summon having been duly executed on the Defendant and he having failed to Answer the Indictment herein -- It is adjudged by the Court that the Defendant make good his fine with the Commonwealth by the Payment of Nineteen dollars the fine for the offence charged in the Indictment; and that the commonwealth recovers against her Costs herein expended</p>
+<p>This day appeared the attorney for the Commonwealth, and the Summon having been duly executed on the Defendant and he having failed to Answer the Indictment herein- It is adjudged by the Court that the Defendant make good his fine with the Commonwealth by the payment of Nineteen dollars the fine for the offence charged in the Indictment; and that the Commonwealth recovers against her Costs herein expended</p>
 <p>Attest Joel Sweeney Clk C C C</p>
 <p>His Excellency Tho E Bramlette Governor of Ky</p>
-<p>Your petitioner Martin Thomas Sen<hi rend="underline"><hi rend="sup">r</hi></hi> most respectfully represents that the Grand Jury for Casey County Ky found an Indictment against one "<hi rend="underline">Morning</hi> <hi rend="underline">Thomas</hi>," for standing &amp; <unclear>stalling</unclear> to mares his Stud horse without first having obtained a Licence. the Summon executed on your petitioner as being the person indicted and at the <date when="1864-05">May term 1864</date> of the Casey Circuit Court Judgment was rendered on said Indictment for Nineteen Dollars fine &amp; costs by Default upon said Judgment an execution issued &amp; is now in the hands of the sheriff of Casey County for Collection <unclear><hi rend="str">and</hi></unclear>who has demanded of me payment on the ground I suppose that I have ^or had^ an old stud horse (of the Thomas family) in Casey County at the ^time the^ Indictment was made (<date when="1863-05">May term 1863</date>) there being no other Thomas having a stud horse the initials of whose name agrees as well with the person indicted as Mine, I am being identified as the Thomas who was indicted and it may be true the jurors struck at me and failed to give my true &amp; full name: (I know of no Thomas whose name is Morning in the County)<pb/>
-<lb/>In consequence of ill health of myself &amp; Family and my <unclear>frail</unclear>leness of body I made no defence to the indictment &amp; knowing myself innocent of the offence charged I could not believe any man living could or would make good the charge -- as before said, I had a stud Horse about 20 Years of age used by me as a work beast on my Farm and in the Spring of the year <date when="1863">1863</date>, some of my friends &amp; neighbours petitioned me to let him to their mares which I did demanding no price nor receiving any pay for said horses Services, doing it to gratify the fancy ^&amp; whim^ of My neighbour &amp; friends -- the foregoing statements are true</p>
-<p>Now to quiet further proceedings in this matter whether I am held up as the offender or not, the promises considered <hi rend="str">you</hi> I ask at your hands, should my cause merit it; an entire remission of the fine aforesaid or <hi rend="str">with</hi> such <hi rend="str">all</hi> relief as you in your clemency may think proper to grant. will be thankfully received by your friend and Humble Servant.</p>
+<p>Your petitioner Martin Thomas Sen<hi rend="underline"><hi rend="sup">r</hi></hi> most respectfully represents that the Grand Jury for Casey County Ky found an Indictment against one "<hi rend="underline">Morning</hi> <hi rend="underline">Thomas</hi>," for standing &amp; <unclear>stalling</unclear> to Mares his Stud horse without first having obtained a Licence, the Summon executed on your petitioner as being the person indicted and at the <date when="1864-05">May term 1864</date> of the Casey Circuit Court Judgement was rendered on said Indictment for Nineteen Dollars fine &amp; costs by Default upon said Judgement an execution issued &amp; is now in the hands of the sheriff of Casey County for Collection <hi rend="str">and</hi> who has demanded of me payment on the ground I suppose that I have ^or had^ an old Stud horse (of the Thomas family) in Casey County at the ^time the^ Indictment was made (<date when="1863-05">May term 1863</date>) there being no other Thomas having a stud Horse the initials of whose name agrees as well with the person indicted as Mine, I am being identified as the Thomas who was indicted and it may be true the jurors struck at me and failed to give my true &amp; full name: (I know of no Thomas whose name is Morning in the County)<pb/>
+<lb/>In consequence of ill health of myself &amp; Family and my <unclear>fee</unclear>bleness of body I made no defence to the indictment <hi rend="str">&amp;</hi> knowing myself innocent of the offence charged I could not believe any man living could or would make good the charge- as before said, I had a stud Horse about 20 Years of age used by me as a work beast on my Farm and in the Spring of the year <date when="1863">1863</date>. some of my friends &amp; neighbours petitioned me to let him to their Mares which I did demanding no price nor receiving any pay for said horses Services, doing it to gratify the fancy ^&amp; whim^ of My neighbour &amp; friends- the foregoing statements are true Now to quiet further proceedings in this Matter whether I am held up as the offender or not, <hi rend="str">t</hi>the promises considered <hi rend="str">you</hi> I ask at your hands, should my cause merit it; an entire remission of the fine aforesaid or <hi rend="str"><unclear/></hi> such <hi rend="str">all</hi> relief as you in your clemency may think <unclear>proper</unclear> to grant. will be thankfully received by your friend and Humble Servant.</p>
 <p>Martin Thomas</p>
-<p>Subscribed &amp; sworn to before me this <date when="1864-08-01">1 day of Augt 1864</date></p>
+<p>Subscribed &amp; sworn to before me this <date when="1864-08-01">1 day of Augt. 1864</date></p>
 <p>W<hi rend="sup">m</hi> B Cundiff J P c c</p>
 <p>From my acquaintance with M<hi rend="sup">r</hi> Thomas I believe his Statements to be true and think his prayer should be granted by paying the Costs</p>
-<p>Joel Sweeney T. I. F. C C.</p>
+<p><hi rend="str">Joel</hi>Joel Sweeney T. J. F. C C</p>
 <p>M. Thomas
 <lb/>Casey Cir Ct
-<lb/>Standing Stud horse without license
 <lb/>vs
-<lb/>M. Thomas
-<lb/>Remit
-<lb/><date when="1864-10-04">4<hi rend="sup">th</hi> Oct /64</date></p>
+<lb/>M. Thomas</p>
+<p>Standing Stud horse without license</p>
+<p>Remit</p>
+<p><date when="1864-10-04">4<hi rend="sup">th</hi> Oct/64</date></p>
   </body>
  </text>
 </TEI>

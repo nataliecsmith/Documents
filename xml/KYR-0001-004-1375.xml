@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1375"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -66,32 +69,31 @@
 <lb/>Gov of Ky.
 <lb/>Governor.</p>
 <p>This will be handed you by Charles Edwards, a free man, whose son has come to grief. The boy is only thirteen years of age and at this term of the court he was convicted of larceny and his term of service assessed at one year.</p>
-<p>There can be no good attained by sending a youth to the penitentiary. His father assures me he will send his boy away to get him out of bad company the influence of which has undoubtedly lead him into the commission of the crime. He was charged with stealing a copper kettle. Hoping you will Extend the Executive clemency to him</p>
+<p>There can be no good attained by sending a youth to the penitentiary. His father assures me he will send his boy away to get him out of bad company the influence of which has undoubtedly lead him into the commission of the crime. He was charged with stealing a copper kettle. Hoping you will extend the Executive clemency to him</p>
 <p>I am yrs &amp;c
 <lb/>Selby Harney<pb/></p>
-<p>P.S. I shall request M. Martin Bijur. to Enclose herewith or add a recomendation. Mr Bijur is Commonwealths atty Pro Tem.</p>
+<p>P. S. I shall request M. Martin Bijur. to enclose herewith or add a recomendation. Mr Bijur is Commonwealths atty Pro Tem.</p>
 <p>S. H.</p>
 <p>State of Kentucky
-<lb/>Jefferson <hi rend="str">County</hi> Circuit Court</p>
-<p>This is to certify that the Grand Jury of Jeff. Co Ky. on the <date when="1864-11-26">26th of Nov</date> returned an indictment against Joseph Gatson and Seymour Edwards (f. b. c) accused the said Gatson &amp; Edwards of the crime of grand Larceny committed on the -- <gap/> day of <date when="1864-10">Oct. 1864</date> -- : that they stole one brass and copper kettle the property of Smith Wingate: and that the jury in the case of Gatson, the jury returned the following verdict. "We of the jury find the defendent Joseph Gatson guilty; and say that he shall be confined in the penetentiary one year; and unanimously recommend him to the clemency of the Governor.</p>
-<p>(Sign'd) W<hi rend="underline"><hi rend="sup">m</hi></hi> Ross. Foreman</p>
+<lb/>Jefferson <hi rend="str">County</hi>Circuit Court</p>
+<p>This is to certify that the Grand Jury of Jeff. Co Ky, on the <date when="1864-11-26">26th of Nov</date> returned an indictment against Joseph Gatson and Seymour Edwards (f. b. c) accused the said Gatson &amp; Edwards of the crime of grand Larceny committed on the -- day of <date when="1864-10">Oct. 1864</date> -- : that they stole one brass and copper kettle the property of Smith Wingate: and that the jury in the case of Gatson, the jury returned the following verdict. "We of the jury find the defendent Joseph Gatson guilty; and say that he shall be confined in the penetentiary one year; and unanimously recommend him to the clemency of the Governor.</p>
+<p>(Sign'd) W<hi rend="underline"><hi rend="sup">m</hi></hi> Rose. Foreman</p>
 <p>and that in the case of Seymour Edwards the jury find Seymour Edwards guilty as charged in the indictment; and say he shall<pb/>
 <lb/>be confined in the jail and penetentiary house of this commonwealth for the term of one year</p>
-<p>(Sign'd) Jas. G. Carter
+<p>(Sign'<hi rend="underline">d</hi>) Jas. G. Carter
 <lb/>(Foreman</p>
-<p>And further that separate verdicts were rendered by separate jurys because the attorney claimed a severance.</p>
-<p>Att James P. Chambers Clk J c c</p>
+<p>And further that separate verdicts were rendered by separate Jurys because the attorney claimed a severance.</p>
+<p>Att James P. Chambers clk J c c</p>
 <p>Louisville <date when="1864-12-05">Dec. 5. 1864</date>
 <lb/>Gov. Bramlette.</p>
 <p>In the case of Seymour Edwards the same state of facts were proven as in the case of Gatson, The jury in the one case having recommended the party to your clemency. I would respectfully request a pardon for Edwards.</p>
 <p>I am Sir
 <lb/>Yrs &amp;c.
 <lb/>Martin Bijur
-<lb/>Atty for the Com<hi rend="sup">th</hi>
-<lb/>pro tem.<pb/></p>
+<lb/>Atty for the com<hi rend="underline"><hi rend="sup">th</hi></hi> pro tem.<pb/></p>
 <p>Jefferson Cir Ct
 <lb/>vs
-<lb/>Joseph Gatson &amp; Seymour Edwards f b. c
+<lb/>Joseph Gatson &amp; Seymour Edwards f. b. c
 <lb/>Pardoned
 <lb/><date when="1864-12-06">6<hi rend="sup">th</hi> Dec 1864</date></p>
   </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0215"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,24 +64,24 @@
  <text>
   <body>
    <p>Mount Vernon Rockcastle Co Ky
-<lb/>To The Hon the Governor of Kentucky</p>
-<p>Your Petitioner Newton Whitehead states that at the <date when="1863-02">February Term 1863</date> ^of the Rockcastle Circuit Court^ he was fined ^$20^ for retailing whiskey together with some others during the rebel Excitement. The Govenor was petitioned in several cases alike all the ballance were remitted if your Petitioners fine was remitted it fell into the hands of the Rebels and was destroyed. He asks your honor to remit his fine as he is a very poor man and the armies have taken nearly everything he has. we think it would be an act of charity to remit it as in duty bound we will ever pray.</p>
+<lb/>To The Hon the Govenor of Kentucky</p>
+<p>your Petitioner Newton Whitehead states that at the <date when="1863-02">February Term 1863</date> ^of Rockcastle Circuit Court^ he was fined ^&#36;20.^ for retailing whiskey together with some others during the rebel Excitement. The Govenor was petitioned in several cases alike all the ballance were remitted if your Petitioners fine was remitted. it fell into the hands of the Rebels and was destroyed. He asks your honor to remit his fine as he is a very Poor man and the armies have taken nearly everything he has. we think it would be an act of charity to remit it as in duty bound we will ever pray</p>
 <p>Newton Whitehead</p>
 <p>We the under signed know the above facts to be true and ask you to remit his fine</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>B K Bethurum Judge of the Rockcastle County Courty
-<lb/>Wm McClure Sheriff R.C.
+<p><milestone unit="column" n="2"/><cb n="1"/>B K Bethurum Judge of the Rockcastle county court
+<lb/>W<hi rend="sup">m</hi> McClure sheriff R. C.
 <lb/><cb n="2"/>James G Carter
 <lb/>Edwin Shivel
 <lb/>J. J. Williams
 <lb/>W. M. Fish Clerk Rockcastle County Court
-<lb/>E T Fish Clerk Rockcastle Circuit Court
+<lb/>E T Fish clerk Rockcastle circuit court
 <lb/>W. A. Brooks<milestone unit="column" n="1"/><pb/></p>
-<p>Rockcastle Cir Ct</p>
-<p>Simply from the consideration of the well known suffering of the people in that section the fine is ordered to be remitted except costs &amp; fees.</p>
-<p><date when="1863-10-07">Oct 7<hi rend="sup">th</hi> 1863</date>
-<lb/>Tho E Bramlette</p>
+<p>Rockcastle Cir. Ct</p>
+<p>Simply from the Consideration of the well known suffering of the people in this section the fine is ordered to be Remitted except costs &amp; fees.
+<lb/><date when="1863-10-07">Oct 7<hi rend="sup">th</hi> 1863</date></p>
+<p>Tho E Bramlette</p>
 <p>N. Whitehead
-<lb/>$200 -- 
+<lb/>&#36;20 -- 
 <lb/>Tipling</p>
   </body>
  </text>

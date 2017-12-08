@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0037"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">C. S. Stuart et al. to Beriah Magoffin</title>
+    <title level="a" type="main">E. S. Stuart et al. to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG2385</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,24 +63,26 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00001917">Fairview
-</placeName><lb/><placeName ref="cwgk:P00001918">Christian County
-</placeName><lb/><placeName ref="cwgk:P001800">Kentucky
-</placeName><lb/>His Excellency
+   <p>Fairview
+<lb/>Christian County
+<lb/>Kentucky
+<lb/>His Excellency
 <lb/>Beriah M<hi rend="sup">c</hi>Goffin
-<lb/><placeName ref="cwgk:P00000308">Frankfort
-</placeName><lb/>Ky.
+<lb/>Frankfort
+<lb/>Ky.
 <lb/>Dear Sir.</p>
-<p>We of <placeName ref="cwgk:P00001919">Pembroke District</placeName>. Christian County, are literally without a <hi rend="underline">magistrate</hi>. but one in the district; and he living <hi rend="str">some</hi> in one corner of the district some 10 or 12 miles from us. Esq <persName ref="cwgk:N00008301">Moody </persName>died in August last since which time we have been destitute of the servises of the office Judge <persName ref="cwgk:N00001920">A D Rogers</persName> has informed us that he made the reccommendation of <persName ref="cwgk:N00001921">Henderson Wade</persName> to you in <date when="1860-09">september last,</date> that no commission has as yet been received. for Mr Wade to enter upon the discharge of official duties. We pray your honor to attend to our distress at your earliest convenience</p>
+<p>We of Pembroke District. Christian County, are literally without a <hi rend="underline">magistrate</hi>. but one in the district; and he living <hi rend="str">some</hi> in one corner of the district some 10 or 12 miles from us. Esq Moody died in August last since which time we have been destitute of the servises of the offic Judge A D Rogers has informed us that he made the reccommendation of Henderson Wade to you in <date when="1860-09">september last,</date> that no commission has as yet been received, for Mr Wade to enter upon the discharge of official duties. We pray your honor to attend to our distress at your earliest convenience</p>
 <p>With assurance of Our high esteem
-<lb/>We are
-<lb/><persName ref="cwgk:N00001922">E. S. Stuart
-</persName><lb/><persName ref="cwgk:N00001923">John W Peters
-</persName><lb/><persName ref="cwgk:N00001924">G. W. Latham</persName><lb/><persName ref="cwgk:N00001925">Richard Vaughan</persName><lb/><persName ref="cwgk:N00001926">Alex Layne</persName></p>
+<lb/>we are
+<lb/>E, S, Stuart
+<lb/>John W Petrie
+<lb/>G. W. Latham
+<lb/>Richard Vaughan
+<lb/>Alex Layne</p>
 <p><date when="1860-12-24">Decr 24<hi rend="sup">th</hi> 1860</date><pb/></p>
 <p>Issue Commission
 <lb/>B. M</p>
-<p>Com<hi rend="underline"><hi rend="sup">n</hi></hi> Is<hi rend="underline"><hi rend="sup">d</hi></hi>. <date when="1861-01-03">Jany 3</date>
+<p>Com<hi rend="underline"><hi rend="sup">n</hi></hi> Is<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-01-03">Jay 3</date>
 <lb/>Christian Co.</p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0275"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Princeton, Caldwell County, Kentucky</placeName>
-    <date when="1863-03-26">26 March 1863</date>
+    <date when="1863">1863</date>
    </creation>
    <textClass>
     <keywords>
@@ -60,100 +63,100 @@
  </teiHeader>
  <text>
   <body>
-   <p>Princeton Ky <date when="1863-03-26">26 Mr 1863</date></p>
-<p>The undersigned citizens of Caldwell County state that they ^are^ well acquainted with Newman ^Estes^ <hi rend="str">Estes</hi> <hi rend="str">John him &amp; William Wells ^&amp; his associates^</hi> the bail for the appearance of James A Johnson and against whom Judgment was rendered at the present Term, and that under the circumstances (said Johnson having been carried away by the Military Authorities whereby it was placed beyond their power to have him in Court) it would be in their opinion a great hardship to coerce payment from them and respectfully solicit your Excellency to remit said Judgment</p>
+   <p>Princeton Ky <date when="1863">26 <unclear/> 1863</date></p>
+<p>The undersigned citizens of Caldwell county state that they ^are^ well acquainted with Newman ^Estes^ <hi rend="str">Estes</hi> <hi rend="str">^&amp; his associates^</hi> <hi rend="str">John Lewis &amp; William Wells</hi> the bail for the appearance of James A Johnson and against whom Judgment was rendered at the present Term, and that under the circumstances (said Johnson having been carried away by the Military Authorities whereby it was placed beyond their power to have him in Court) it would be in their opinion a great hardship to coerce payment from them and respectfully solicit your Excellency to remit said Judgment</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>M. Dudley
 <lb/>H. E. Ernshimer
-<lb/>M. M. Cash
+<lb/>M. M Cash
 <lb/>John Wheatly
-<lb/>Jno W. Cash
-<lb/>W R Gray
-<lb/>Jno W Simpson
-<lb/>Seth B. Wigginton
+<lb/><hi rend="underline">Jno W. Cash</hi>
+<lb/>W R, Gray
+<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> W Simpson
+<lb/>Seth. B. Wigginton
 <lb/>W. S. Talbott. P. J. T. P.
-<lb/>J. S. Curry
+<lb/>J, S, Curry
 <lb/>E B Martin
 <lb/>Cullen Carter
 <lb/>Alex Walker
-<lb/>Wright Nichls Sr
-<lb/>W E Mitchensson
-<lb/>F W Urey
+<lb/>Wright Nichols S<hi rend="underline"><hi rend="sup">r</hi></hi>
+<lb/>W E. Mitchersson
+<lb/>H W Urey
 <lb/><cb n="2"/>R. L. Wilson
-<lb/>R. B. Ratliff L.C.C.
-<lb/>G. D Watkins Clk
+<lb/>R, B, Ratliff. L.C,C
+<lb/>E. D Watkins clk
 <lb/>A. C. Mayes
-<lb/>Jas Crenshaw
+<lb/>Ja<hi rend="sup">s</hi> Crenshaw
 <lb/>D. J. Bailey
-<lb/>Ed. Baker
-<lb/>U S. Ky. Internal Revenue
-<lb/>J M Hayden
+<lb/>Ed Baker
+<lb/><unclear/> Internal Revenue
+<lb/>J W Hayden
 <lb/>E N Owen
-<lb/>G. B. McDowell
+<lb/>G. B. M<hi rend="underline"><hi rend="sup">c</hi></hi>Dowell.
 <lb/>A. C. Thomson
-<lb/>H. H. Breleford
-<lb/>Jesse Cooksey
-<lb/>J. P. Rascoe<pb/></p>
-<p><note place="left margin">Jury 1863 Nov.</note>
-<lb/><cb n="1"/>D C Mitchenssson
-<lb/>A. W. Forde, Tm P
+<lb/>H. H. Brelsford
+<lb/>Jesse cooksey
+<lb/>J. P. Rascoe<pb/>
+<lb/><note place="left margin">Jury <date when="1863-11">1863 Nov.</date></note>
+<lb/><cb n="1"/>D C Mitchersson
+<lb/>A. W. Forde. Tm P
 <lb/>L S Thomson
 <lb/>Louis Martin
-<lb/>W H Barrett
-<lb/>B J. Grubbs C. C. C
-<lb/>James Gale
-<lb/>A. Reynolds. Dst. Shff
-<lb/>H. M. Witherspoon Foreman
+<lb/>W H Barnett
+<lb/>B J, Grubbs, c, c, c
+<lb/>James. Gale
+<lb/>A. Reynolds. Ds. Shff
+<lb/>H. M Witherspoon Foreman
 <lb/>W. H. M<hi rend="sup">c</hi>Casslin
 <lb/>E. M. Stevens
-<lb/>J W M<hi rend="sup">c</hi>Gowan
+<lb/>J W M<hi rend="underline"><hi rend="sup">c</hi></hi>Gowan
 <lb/>James a Carr
 <lb/>J R Blue
 <lb/>J H Maxwell
 <lb/>D B Glenn
-<lb/>James H. Leech
-<lb/>F A Tecar P P P
-<lb/>R. D. Trabur
+<lb/>James. H. Leech
+<lb/>F A Tecar c c c
+<lb/>R D. Trabue
 <lb/>C T Dabney
-<lb/>Ja<hi rend="sup">s</hi> F Ingram
-<lb/>G. W. Adamson
+<lb/>Ja<hi rend="sup">s</hi> F,, Ingram
+<lb/>G, W, Adamson
 <lb/>Geroge Lewis
-<lb/>Jesse M M<hi rend="sup">c</hi>Cashin
+<lb/>Jesse M M<hi rend="sup">c</hi>cashind
 <lb/>George Jenkins
-<lb/>J. W. Heupending
-<lb/>A. R M<hi rend="sup">c</hi>Dowell
-<lb/>Jas. Wilson
+<lb/>J. W. Harpending
+<lb/>A R M<hi rend="sup">c</hi>Dowell
+<lb/>Jas, Wilson
 <lb/>D. E. Sigler
 <lb/>C. B. Cash
 <lb/>Sam<hi rend="sup">l</hi> Garrett
 <lb/><cb n="2"/>O Ross Baker Clk Caldwell County Court
-<lb/>N. Jones
-<lb/>S. W. M<hi rend="sup">c</hi>Coy
+<lb/>N, Jones
+<lb/>J. W. M<hi rend="sup">c</hi>Coy
 <lb/>W<hi rend="sup">m</hi> P Harman
-<lb/>Joseph A. Mott
+<lb/>Joseph, A, Mott
 <lb/>W. D. Marlow
 <lb/>Jas. B. Sasseen
-<lb/>John J M<hi rend="sup">c</hi>Lin
-<lb/>Richard Burns
+<lb/><hi rend="underline">John</hi> J <hi rend="underline">M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Lin</hi>
+<lb/>Richard <unclear>Burns</unclear>
 <lb/>J M Harper Late Sff
 <lb/>G M Morgan
-<lb/>J. J. Hayden
+<lb/>J, J, Hayden
 <lb/>Peter P Baker
-<lb/>A. D. Alexander
+<lb/>A, D, Alexander
 <lb/>Hugh Craig
-<lb/>L. L. Lindsay
+<lb/>L,, L,, Lindsay
 <lb/>James Craig
-<lb/>Champ. T. Rennaday
+<lb/>Champ. T. Kennaday
 <lb/>J. L. Adamson<milestone unit="column" n="1"/><pb/>
 <lb/>John Garrett
 <lb/>Robert Garrett
 <lb/>W Hunter
-<lb/>W. P. Maxwell
+<lb/>W, P Maxwell
 <lb/>David Willson
 <lb/>F W Dodds
 <lb/>J. M. Crow
 <lb/>James M Crow
 <lb/>E P George
-<lb/>C T TaSallerbad O</p>
+<lb/>C T <unclear>Sal Sallerbad O</unclear></p>
   </body>
  </text>
 </TEI>

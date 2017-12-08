@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0018"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,16 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Elkton <date when="1861-04-26">April 26<hi rend="sup">th</hi> 1861</date> -- 
+   <p>Elkton <date when="1861-04-26">April 26<hi rend="sup">th</hi> 1861</date>.
 <lb/>To his Excellency B Magoffin
 <lb/>Sir.</p>
-<p>By a meeting of our Citizens on last evening, we were appointed a Committee for the purpose of Corresponding with you, to ascertain, Whether, if a Company is formed here for the purpose of aiding in the defence of Kentuckies honor,, her interests, and the Constitutional rights of her people,, -- the state will furnish them arms from the public armory or not, and when &amp; how we can get them -- hopeing a prompt response to this we remain your friends and obt s<hi rend="underline">vts</hi></p>
+<p>By a meeting of our citizens on last evening, we were appointed a Committee, for the purpose of Corresponding with you, to ascertain Whether, if a company is formed here for the purpose of aiding in the defence of Kentuckies honor,, her interests, and the Constitutional rights of her people. the state will furnish them arms from the public armory or not, and when &amp; how we can get them- hopeing a prompt response to this we remain your friends and obt s<hi rend="underline">vts</hi></p>
 <p>John O M<hi rend="sup">c</hi>Reynolds
 <lb/>John N. Bass
 <lb/>John L Davidson
-<lb/>G. Terry } Committee
-<lb/>Benjamin F. Butler<pb/></p>
-<p>Answer as to others That <hi rend="str">the</hi> the law forbids the offering of arms to any, except those companies mustered into state Guard <hi rend="str">If we have them</hi> <hi rend="str">or</hi> They can get arms by so doing if We have them.</p>
+<lb/>G. Terry
+<lb/>Benjamin F. Butler &#125; Committee<pb/></p>
+<p>answer as to others That <hi rend="str">the</hi> the law forbids the offering of arms to any, except those companies mustered into state Guard- <hi rend="str">If we have them</hi> <hi rend="str">or</hi> They can get arms by so doing if we have them.</p>
 <p>B. M</p>
 <p>Elkton
 <lb/>Arms

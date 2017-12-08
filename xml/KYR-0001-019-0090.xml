@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0090"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,10 +63,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville, <date when="1861-06-15">June 15, 1861</date>.
+   <p>Louisville, <date when="1861-06-15">June 15. 1861</date>,
 <lb/>Commonwealth of Kentucky
-<lb/>To Henry Beyrodt Dr,
-<lb/><table rend="rules">
+<lb/>To Henry Beyrodt Dr,</p>
+<p><table rend="rules">
 <row>
 	<cell>1861</cell>
 	<cell> </cell>
@@ -71,29 +74,29 @@
 	<cell> </cell>
 </row>
 <row>
-	<cell>May 31.</cell>
+	<cell><date when="1861-05-31">May 31.</date></cell>
 	<cell>To 500 Haversacks</cell>
-	<cell>@ 18¢</cell>
+	<cell>@ 18&#162;</cell>
 	<cell>90.00</cell>
 </row>
 <row>
-	<cell>June 15.</cell>
+	<cell><date when="1861-06-15">June 15.</date></cell>
 	<cell>" 500 "</cell>
 	<cell>" "</cell>
-	<cell><hi rend="underline">90.00</hi></cell>
+	<cell>90.00</cell>
 </row>
 <row>
-	<cell/>
-	<cell/>
+	<cell></cell>
+	<cell></cell>
 	<cell> </cell>
-	<cell>$180.00</cell>
+	<cell>&#36;180.00</cell>
 </row>
 </table></p>
-<p>Rec<hi rend="sup">d</hi> payment
-<lb/>Head Quarters Ky State Guard
-<lb/>Louisville <date when="1861-06-19">19 June 1861</date>.</p>
-<p>I hereby certify that the 1000 Haversacks mentioned in the foregoing account of Henry Beyrodt were made and delivered by Said Beyrodt under my order for the use of the Kentucky State Guard at thie price therein charged. <hi rend="str">I approve</hi> Said account was made under the provisions of an act Entitled "an Act to Carry into Effect certain provisions of an Act for the better organization of the Militia," <hi rend="underline">approved <date when="1861-04-04">April 4, 1861</date></hi>. I approve said account.</p>
-<p>S. B. Buckner
+<p>Rec<hi rend="sup">d</hi> payment</p>
+<p>Head Quarters Ky State Guard
+<lb/>Louisville, <date when="1861-06-19">19 June 1861</date>.</p>
+<p>I hereby certify that the 1000 Haversacks mentioned in the foregoing account of Henry Beyrodt were made and delivered by Said Beyrodt under my order for the use of the Kentucky State Guard at thie price therein charged. <hi rend="str">I approve</hi> Said account was made under the provisions of an act Entitled "an Act to carry into Effect certain provisions of an Act for the better organization of the Militia", <hi rend="underline">approved <date when="1861-04-04">April 4, 1861</date></hi>, I approve said account.</p>
+<p>S. B. Buckner.
 <lb/>Inspector General.</p>
 <p>Approved
 <lb/>B. Magoffin</p>

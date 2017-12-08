@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0035"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>New York City, New York County, New York</placeName>
+    <placeName>New York, New York County, New York</placeName>
     <date when="1862-09-04">4 September 1862</date>
    </creation>
    <textClass>
@@ -66,15 +69,15 @@
 <lb/>Louisville, Ky.
 <lb/>Sir</p>
 <p>The undersigned begs leave to offer for sale to the Government of your State a lot of new and well made firearms which were consigned to him by some European manufacturers, viz</p>
-<p>1, 26000 1<hi rend="sup">st</hi> class <hi rend="underline">Prussian</hi> muskets -- such as are used in the Prussian army -- with Bajonets -- regulation pattern -- 72 inch bore
+<p>1, 26000 1<hi rend="sup">st</hi> Class <hi rend="underline">Prussian</hi> muskets -- such as are used in the Prussian army -- with Bajonets -- regulation pattern -- 72 inch bore
 <lb/>2, 24000 <hi rend="underline">Belgian</hi> Rifled muskets -- with Bajonets -- 69 inch bore
 <lb/>3, 10000 <hi rend="underline">Enfield</hi> Rifles with Baj.</p>
-<p>All these guns are now in the U. S. Bonded Warehouse in this City and can be delivered to your Government at once upon the payment of the duty or upon the proper order given by the General Govt at Washinigton to Collector Barney that the arms be delivered duty free. -- The <hi rend="underline">Prussian</hi> guns we offer at $10 a piece: though smooth bored they are a most effective weapon, when loaded with ball or buckshot: the <hi rend="underline">Belgian</hi> rifles (No 2) we offer at $10 also: the <hi rend="underline">Enfield</hi> (No 3) at<pb/>
-<lb/>at $20 a piece: 8000 of them are burnished, 2000 unburnished. I warrant all the pieces perfect and like the samples which are in my hands and can be shown to any person whom you may designate. I am confident that all the arms will pass the most rigid inspection and am willing that, if any should be found not up to the standard, they be rejected. </p>
+<p>All these guns are now in the U. S. Bonded Warehouse in this City and can be delivered to your Government at once upon the payment of the duty or upon the proper order given by the General Govt at Washinigton to Collector Barney that the arms be delivered duty free. -- The <hi rend="underline">Prussian</hi> guns we offer at &#36;10 a piece: though smooth bored they are a most effective weapon, when loaded with ball or buckshot: the <hi rend="underline">Belgian</hi> Rifles (No 2) we offer at &#36;10 also: the <hi rend="underline">Enfield</hi> (No 3) at<pb/>
+<lb/>at &#36;20 a piece: 8000 of them are burnished, 2000 unburnished. I warrant all the pieces perfect and like the samples which are in my hands and can be shown to any person whom you may designate. I am confident that all the arms will pass the most rigid inspection and am willing that, if any should be found not up to the standard, they be rejected. </p>
 <p>My terms are net cash upon delivery.</p>
 <p>Should the Government of your State wish to purchase the arms (either all or part of them), you will please to designate a person or Agent in this City, authorized to act in behalf of your Government and make the necessary contract and payment.</p>
 <p>As regards my character and social standing I have the pleasure to refer you to Governor J. A. Andrew of Massachusetts, from whom I hold a letter of introduction to Brig. Gen. Ripley U. S. A. Ordnance Dep. -- If required I can give you also the very highest references in this City.</p>
-<p>By an early reply you will confer a favor.</p>
+<p>By an early reply you will confer a favor,</p>
 <p>I am, Sir,
 <lb/>Respectfully
 <lb/>Your

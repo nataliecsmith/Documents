@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0038"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,17 +64,18 @@
  <text>
   <body>
    <p>To his Excellency the Governor of Kentucky,</p>
-<p>Your petitioner respectfully represents that he was indicted at the last February Term of the Fayette Circuit Court for <hi rend="underline">assault</hi> and <hi rend="underline">battery</hi> that he has been tried and found guilty and a fine of $100; and three months imprisonment assessed against him. While he admits the simple fact of having committed the offense charged he consider, the puneshment very severe. He says he is without money or friends and unless the fine and imprisonment is remitted he will have to stay in jail for about 140 days. In order to avoid this disagreeable necessity, he proposes and promises that if he is released that he will join the U S Army for three years or during the war. That he as always been a Union man, loyal to his government.</p>
-<p><note place="left margin"><stamp type="revenue"/></note></p>
+<p>Your petitioner respectfully represents that he was indicted at the last February Term of the Fayette Circuit Court for <hi rend="underline">assault</hi> and <hi rend="underline">battery</hi> that he has been tried and found guilty and a fine of &#36;100; and three months imprisonment assessed against him. While he admits the simple fact of having committed the offense charged he consider; the puneshment very severe, He says he is without money or friends and unless the fine and imprisonment is remitted he will have to stay in Jail for about 140 days. In order to avoid this disagreeable necessity, he proposes and promises <hi rend="str">that</hi> if he is released that he will join the U S. Army for three years or during the war, That he as always been a Union man, loyal to his government.</p>
+<p><stamp type="revenue"/><note place="stamp">W. A. S.
+<lb/><date when="1864-06-24">June 24
+<lb/>1864.</date></note></p>
 <p>He prays that your excellency will remit his imprisonment and that part of the fine in your power and that you will respite the ^residue^ <hi rend="str">case</hi> for, say three months<pb/>
 <lb/>by which time he will be able pay the ^Commonwealths^ Attorney and other officers their fees, Which is respectfully submitted</p>
 <p>George Payne</p>
 <p>Sworn to before me this <date when="1864-06-24">24 June 1864</date></p>
-<p>Will. A. Stivers.
+<p>Will: A. Stivers.
 <lb/>Notary Public.</p>
 <p><figure type="seal"><ab>W. A. STIVERS
-<lb/>NOTARY
-<lb/>PUBLIC
+<lb/>NOTARY PUBLIC
 <lb/>FAYETTE COUNTY, KY.</ab></figure></p>
 <p>The undersigned unite in the prayer of the petitioner</p>
 <p>G. Stoll Jr
@@ -86,9 +90,9 @@
 <lb/>George Payne</p>
 <p>Remitted upon condition he enlists for three years</p>
 <p>Tho E Bramlette
-<lb/>Gov<hi rend="sup">r</hi>
-<lb/><date when="1864-07-11">11<hi rend="sup">th</hi> July/ 64</date><pb/></p>
-<p>Provided George Payne will join the army for three years or during the war the undersigned would respectfully recommend a remission of the fine and imprisonment against him.</p>
+<lb/>Gov<hi rend="sup">r</hi></p>
+<p><date when="1864-07-11">11<hi rend="sup">th</hi> July/64</date><pb/></p>
+<p>Provided George Payne will join the army for three years or during the war the undersigned would respectfully recommend a remission of the fine and imprisonment against him,</p>
 <p>W C Goodloe
 <lb/>Circuit Judge</p>
 <p>Lexington Ky <date when="1864-06-23">June 23 1864</date></p>

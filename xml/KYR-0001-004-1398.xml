@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1398"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Isaiah Boone et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">Isaiah Boone to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG6035</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,37 +63,35 @@
  </teiHeader>
  <text>
   <body>
-   <p><stamp type="revenue"/><note place="stamp">I B
+   <p><stamp type="revenue"/><note place="stamp">J B
 <lb/><date when="1864-12-01">Dec 1 1864</date></note>
 <lb/>To His Excellency Gov. Bramlette</p>
-<p>The petition of the undersigned Isaiah Boone a citisen of Madison County Ky respectfully sheweth, That sometime in the month of <date when="1864-01">January</date> or <date when="1864-02">February of this year</date> he was in the city of Louisville Ky on business, having carried down the Ky. River a lot of Cedar logs for sale, and was stopping at a hotel kept by a man named Michael Sharer.</p>
-<p>During his stay there a man named Baker was killed by Thomas Woodward, the barkeeper of the house -- Woodward was tried before our examining court and held to bail in the sum of $1500, and Sharer and this petitioner entered on his bond for his appearance before the Jefferson Circuit Court -- Woodward failed to appear before the Court, and petitioner and Sharer jointly paid to a detective policeman $110 to pursue and bring back to trial Woodward He was caught in Burlington Iowa, and brought back to Louisville Ky, where he is now confined in jail to await his trial, In the meanwhile, a proceeding was instituted in the court on the bailbond which had been forfeited, and a judgment rendered against your petitioner at the <date when="1864-11">nov. term 1864</date> for the amount of the bond $1500 &amp; costs, and an execution is now in the hands of the sheriff of Madison County against your petitioner for that judgement -- Woodward was brought back before the judgement -- <pb/>
+<p>The petition of the undersigned Isaiah Boone a citizen of Madison County Ky respectfully sheweth, That sometime in the month of <date when="1864-01">January</date> or <date when="1864-02">February of this year</date> he was in the city of Louisville Ky on business, having carried down the Ky. River a lot of Cedar logs for sale, and was stopping at a hotel kept by a man named Michael Sharer.</p>
+<p>During his stay there a man named Baker was killed by Thomas Woodward, the barkeeper of the house -- Woodward was tried before our examining court and held to bail in the Sum of &#36;1500, and Sharer and this petitioner entered on his bond for his appearance before the Jefferson Circuit Court -- Woodward failed to appear before the Court, and petitioner and Sharer jointly paid to a detective policeman &#36;110 to pursue and bring back to trial Woodward He was caught in Burlington Iowa, and brought back to Louisville Ky, where he is now confined in jail to await his trial. In the meanwhile, a proceeding was instituted in the court on the bail bond which had been forfeited, and a judgment rendered against your petitioner at the <date when="1864-11">Nov. term 1864</date> for the amount of the bond &#36;1500 &amp; costs, and an execution is now in the hands of the Sheriff of Madison County against your petitioner for that judgment -- Woodward was brought back before the judgment -- <pb/>
 <lb/>Your petitioner states that he is poor and has endeavored at all times to do his whole duty to his country -- He was deceived into signing the bail bond originally, and has done all he could to vindicate the State -- He humbly prays your excellency to grant him a remission of all of said judgments within your power &amp; he will ever pray -- as to his character he refers to the accompanying paper -- <date when="1864-11-11">Nov, 11 1864</date></p>
 <p>Isaiah Boone</p>
 <p>State of Kentucky
 <lb/>Madison County Sct.</p>
-<p>Sworn to before me by <hi rend="str"><unclear/></hi> Isaiah Boone This <date when="1864-12-01">Dec 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1864</date></p>
+<p>Sworn to before me by <hi rend="str">Isziah</hi> Isaiah Boone This <date when="1864-12-01">Dec 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1864</date></p>
 <p>John Bennett
-<lb/>Ex. M. C</p>
-<p>We the undersig Citizens of Madison County unite in the above Petition</p>
+<lb/><hi rend="underline">Ex. M. C</hi></p>
+<p>We the undersig citizens of Madison County unite in the above Petition</p>
 <p>J. W. Caperton
-<lb/>Jno. Bennett
+<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> Bennett
 <lb/><hi rend="underline">C. F. Burnam</hi>
-<lb/>J M Shackelford Clk.
-<lb/><hi rend="underline">Madison Circuit Court</hi>
-<lb/>Presly <unclear>Smitt</unclear> D S
-<lb/>S. Parish Sheriff madison
-<lb/>county
+<lb/>J M Shackelford Clk. <hi rend="underline">Madison Circuit Court</hi>
+<lb/>Presly <unclear>Smith</unclear> D S
+<lb/>S. Parish Sheriff Madison county
 <lb/>John Taylor<pb/>
-<lb/>D. C. Wilmore
-<lb/>Talton Roberts
-<lb/>J. Jackson M, D,
-<lb/>William Hadon
+<lb/><unclear>D</unclear>. C. Wilmore
+<lb/><unclear>Talton</unclear> Roberts
+<lb/>A. Jackson M D.
+<lb/>William Haden
 <lb/>H C Lea
 <lb/>M L Cosby
 <lb/>H. W. Haden
 <lb/>C. A. Tuder
-<lb/>James M.. Holman
+<lb/>James M<hi rend="underline"><hi rend="sup">c</hi></hi> Holman
 <lb/>Jesse Newby
 <lb/>Samuel Bennett
 <lb/>Tho<hi rend="sup">s</hi> Broaddus</p>
@@ -99,7 +100,7 @@
 <p>Jefferson Cir Ct
 <lb/>vs
 <lb/>Isaiah Boone
-<lb/>$1500.
+<lb/>&#36;1500.
 <lb/>Remit
 <lb/><date when="1865-01-11">11<hi rend="sup">th</hi> Jany 1865</date>
 <lb/>Remit</p>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1339"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,13 +66,13 @@
    <p>Tilton Fleming Co. Ky
 <lb/><date when="1864-11-01">Nov. 1 1864</date>
 <lb/>Hon. Thos E. Bramlette=</p>
-<p>Dr sr= I was born in Kentucky and have violated its law once, <hi rend="underline">and</hi> <hi rend="underline">once</hi> <hi rend="underline">only</hi>. For the first time in my life I am an applicant for executive clemency.</p>
+<p>Dr Sir= I was born in Kentucky, and have violated its law once, <hi rend="underline">and</hi> <hi rend="underline">once</hi> <hi rend="underline">only</hi>. For the first time in my life I am an applicant for executive clemency.</p>
 <p>I removed to Illinois in <date when="1857">1857,</date> and being unwilling to persuade Bob, an old and faithful slave I had inherited from my father, to leave his wife and children and go with me, I left him where I formerly resided, in Paris, under the guardianship of Rion &amp; Mitchell, of that place, with the understanding that, so long as they would stand in the place of a master to him, and so long as by good conduct and honest labor, he should maintain himself comfortably, I would permit him to enjoy all he could earn.<pb/>
 <lb/>I felt that the condition of my affairs at that time enabled me to indulge my father's old favorite in that way, and, considering the singularly quiet, industrious and irreproachable, character of the man, I did not think that such an arrangement would involve any moral wrong, or that it would be at variance with the policy of the statute against permitting slaves to go at large.</p>
-<p>After leaving Paris I frequently heard from Bob through Rion &amp; Mitchell and <hi rend="underline">always</hi> that he was <hi rend="underline">behaving</hi> <hi rend="underline">well</hi> and <hi rend="underline">doing well</hi>.</p>
+<p>After leaving Paris I frequently heard from Bob through Rion &amp; Mitchell and <hi rend="underline">always</hi> that he was <hi rend="underline">behaving</hi> <hi rend="underline">well</hi> and <hi rend="underline">doing well.</hi></p>
 <p>Having returned to my native state with the intention of residing in this County, the Grand Jury of Bourbon indicted me last Spring for permitting my slave Bob to run at large. It seems that the firm of Rion &amp; Mitchell had, without my<pb/>
 <lb/>knowledge, been dissolved, and in the excitement and confusion of the times, they had overlooked Bob and ceased to act as his masters. Hence the indictment.</p>
-<p>I wrote, after giving bail for my appearance, to learn whether Bob had become a pauper, or in any way obnoxious to the good people of Paris. In answer, Mr Joseph Mitchell, a man of as high standing as any in Bourbon County wrote me a letter which I herewith inclose and beg you to read. It quieted my apprehensions. I did not appear and make a defence at the <hi rend="str">o</hi>October term of the Bourbon Court; but I was fined $40 and costs and the Sheriff of this county has been ordered to collect the fine. I am now a poor man living on rented land and supporting my<pb/>
+<p>I wrote, after giving bail for my appearance, to learn whether Bob had become a pauper, or in any way obnoxious to the good people of Paris. In answer, Mr Joseph Mitchell, a man of as high standing as any in Bourbon County wrote me a letter which I herewith inclose and beg you to read. It quieted my apprehensions. I did not appear and make a defence at the <hi rend="str">o</hi>October term of the Bourbon Court; but I was fined &#36;40 and costs and the Sheriff of this county has been ordered to collect the fine. I am now a poor man living on rented land and supporting my<pb/>
 <lb/>family by the labor of my own hands The season has been unfavorable to my crops and I would have to sell a plough horse to pay the fine. If your excellency can, consistently with the duty you owe the Commonwealth, remit this fine I will testify my gratitude by being more careful in the future to keep from offending the Statutes of our good old State</p>
 <p>If it be required I can get this petition recommended by any number of the citizens of Paris.</p>
 <p>Yrs Respectfully

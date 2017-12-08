@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0079"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,23 +65,23 @@
   <body>
    <p>Cincinnati, <date when="1861-06-11">June 11, 1861</date>.
 <lb/>Gov. B. Magoffin</p>
-<p>I have received information that Tennessee troops are under the orders to occupy Island Number one, six miles below Cairo. In accordance with my understanding with Genl. Buckner, I call upon you to prevent this step. Do you regard the Islands on the Mississippi river above the Tennessee line as within your jurisdiction, and if so, what ones?</p>
+<p>I have received information that Tennessee troops are under orders to occupy Island Number one, six miles below Cairo. In accordance with my understanding with Genl. Buckner, I call upon you to prevent this step. Do you regard the Islands <hi rend="str">o</hi>in the Mississippi river above the Tennessee line as within your jurisdiction, and if so, what ones?</p>
 <p>Respectfully
 <lb/>G. B. McClellan
 <lb/>Adj. Genl. U. S. A.<figure type="hr"/></p>
 <p>Frankfort, Ky. <date when="1861-06-11">June 11, 1861</date>.
-<lb/>Gen. G. B. McClellan, Cincinnati, Ohio</p>
+<lb/>Gen. <hi rend="str"><unclear/></hi>G. B. McClellan, Cincinnati, Ohio</p>
 <p>Gen Buckner has gone to Paducah and Columbus -- has orders to carry out his understanding with you -- am investigating the question of jurisdiction over the Islands to which you allude -- will answer further, probably tomorrow</p>
 <p>B. Magoffin.</p>
-<p>Frankfort, <date when="1861-06-11">June 11, 1861</date>
-<lb/>Gen. S. B. Buckner, Paducah and Columbus Ky</p>
-<p>Gen. McClellan telegraphs me he has reliable information Tennessee troops are under orders for Island No. One, six miles below Cairo, and calls upon me to prevent it according to his understanding with you. It may be we have no jurisdiction over the Islands to which he alludes. I am investigating the question, and have telegraphed him you have orders to carry out understanding -- will telegraph you again tomorrow. The other matter has my approval.</p>
+<p>Frankfort, <date when="1861-06-11">June 11, 1861</date>.
+<lb/>Gen. S. B. Buckner, Paducah and Columbus, Ky</p>
+<p>Gen. McClellan telegraphs me he has reliable information Tennessee troops are under orders for Island No. One, six miles below Cairo, and calls upon me to prevent it according to his understanding with you. It may be we have no jurisdiction over the Islands to which he alludes. I am investigating the question, and have telegraphed him you have orders to carry out the understanding -- will telegraph you again tomorrow. The other matter has my approval.</p>
 <p>B. Magoffin<pb/></p>
 <p>Frankfort, Ky. <date when="1861-06-12">June 12, 1861</date>.
 <lb/>Gen. G. B. McClellan, Cincinnati, Ohio.</p>
 <p>The jurisdiction of Kentucky extends over Wolfe Island, Islands nos. one and eight, and all Islands in the Mississippi river to the Tennessee line similarly situated</p>
 <p>B. Magoffin.</p>
-<p>Copy of despatches between Gen<hi rend="underline"><hi rend="sup">l</hi></hi> McClellan &amp; myself -- </p>
+<p>Copy of despatches between Gen<hi rend="underline"><hi rend="sup">l</hi></hi> M<hi rend="sup">c</hi>Clellan &amp; myself -- </p>
   </body>
  </text>
 </TEI>

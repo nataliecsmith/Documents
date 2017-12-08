@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0029"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,14 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000555">Harrodsburg </placeName><date when="1860-12-08">8 December 1860</date>
-<lb/>His Excellency <persName ref="cwgk:N00000258">Govnr B Magoffin</persName><lb/>Frankfort
+   <p>Harrodsburg <date when="1860-12-08">8 December 1860</date>
+<lb/>His Excellency Govnr B Magoffin
+<lb/>Frankfort
 <lb/>Ky
 <lb/>Dear Sir</p>
-<p><persName ref="cwgk:N00001864">J W Hawkins Esqr</persName> A Justice of the peace for Mercer County has removed from his precinct and also resigned his commission, Please permit me to recommend for your consideration M<hi rend="sup">r</hi> <persName ref="cwgk:N00001865">William H Crutcher</persName> as a very suitable person to fill the office vacated by squire Hawkins</p>
+<p>J W Hawkins Esqr A Justi<hi rend="str">n</hi>ce of the peace for Mercer County has removed from his precinct and also resigned his commission, Please permit me to recommend for your consideration <hi rend="str">M</hi><hi rend="str"><hi rend="sup">r</hi></hi> William H Crutcher as a very suitable person to fill the office vacated by Squire Hawkins</p>
 <p>Your Obt
 <lb/>Humble Servt
-<lb/><persName ref="cwgk:N00001866">Chr Chinn</persName></p>
+<lb/>Chr Chinn</p>
 <p>P S In referance to the affairs of our Government I would say -- <hi rend="underline">Glass right side up</hi></p>
 <p>C C<pb/></p>
 <p>Mercer Co<figure type="hr"/>
@@ -83,7 +79,7 @@
 <lb/>Dist N<hi rend="sup">o</hi> 5
 <lb/>W. H. Crutcher
 <lb/><hi rend="underline">vice</hi>
-<lb/>I W Hawkins
+<lb/>J W Hawkins
 <lb/>Iss<hi rend="sup">d</hi>. Com. <date when="1860-12-13">Dec 13 1860</date></p>
 <p>Issue Commission -- 
 <lb/>B. M</p>

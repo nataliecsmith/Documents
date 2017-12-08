@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1567"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Garrard County, Kentucky</placeName>
     <date when="1861-12-06">6 December 1861</date>
    </creation>
    <textClass>
@@ -63,22 +65,22 @@
    <p>To His Excellency
 <lb/>B. Magoffin
 <lb/>Gov. of Kentucky,</p>
-<p>Your Petitioner Robert. C. Harris would most respectfully State to your Excellency, that about the last of <date when="1858-08">August 1858</date> he went a Security on the Bail Bond of Henry Harris in the Garrard Circuit Court who was charged with the Killing of a man by the name of Isham in that County.</p>
-<p>Said Henry Harris was poor and without friends, and it being the opinion of many good citizens there that he was innocent, the Killing being done in a drunken melee about dark, and one of the party engaged in it left the Same night, and has not to my Knowledge been in the State Since. Henry<pb/>
-<lb/>was very drunk at the time the Killing took place, and he declared to me if he done the deed it was wholly without his Knowledge, never having had one word of difficulty with the man Killed, nor had at the time not So much as a pen Knife -- The Killing was proven to be done with a large Knife.</p>
+<p>Your Petitioner Robert. C. Harris would most respectfully State to your Excellency, that about the last of <date when="1858-08">August 1858</date> he went as Security on the Bail Bond of Henry Harris in the Garrard Circuit Court who was charged with the killing of a man by the name of Isham in that County.</p>
+<p>Said Henry. Harris was poor and without friends, and it being the opinion of many good citizens there that he was innocent, the killing being done in a drunken melee about dark, and one of the party engaged in it left the Same night, and has not to my knowledge been in the State Since. Henry<pb/>
+<lb/>was very drunk at the time the killing took place, and he declared to me if he done the deed it was wholly without his knowledge, never having had one word of difficulty with the man killed, nor had at the time not So much as a pen knife- The killing was proven to be done with a large knife.</p>
 <p>Under these Circumstances and to give Henry a chance to obtain his witnesses I entered his Security on his Bail Bond, and he would have Stood his trial certain had he not been pursuaded by his lawyers not to do So. As Soon as I ascertained that he was gone, I used every effort to find out his whereabouts, but could not get any clue as to where he was at, until last winter when I was told by a very<pb/>
 <lb/>responsible gentleman that it was Supposed that he went Some where near the line of Mexico. The Bail Bond was for Fifteen Hundred dollars, and I have Settled 30 per Cent with the Commonwealths Attorney, and I pray your Excellency that in view of the premises and Circumstances that you release me from Said Bond.</p>
-<p>I refer your Excellecny to the papers filed with your Secretary of State at the time you granted me a Respite, which I think will fully bear me out in the above Statement of facts; and in duty will ever pray &amp;<hi rend="sup">c</hi></p>
+<p>I refer your Excellency to the papers filed with your Secretary of State at the time you granted me a Respite, which I think will fully bear me out in the above Statement of facts; and in duty will ever pray &amp;<hi rend="sup">c</hi></p>
 <p>R C Harris </p>
-<p>Sworn to before me by R. C. Harris <date when="1861-12-06">December 6<hi rend="sup">th</hi> 1861</date></p>
-<p>H. H. Hughes Clk M C C<pb/></p>
-<p>M<hi rend="sup">r</hi> Harris, the within Petitioner is a Hotel Keeper of the "Harris House" at Lebanon -- He formerly lived at Somerset. I have known him over 20 years. He is an industrious public spirited good citizen from my knowledge of him I would give full credit to his sworn statement.</p>
-<p><hi rend="underline">A. J. James</hi></p>
+<p>Sworn to before me by R. C. Harris <date when="1861-12-06">December 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1861.</date></p>
+<p><hi rend="underline">H. H. Hughes</hi> Clk M C C<pb/></p>
+<p>M<hi rend="sup">r</hi> Harris, the within Petitioner is a Hotel keeper of the "Harris House" at Lebanon -- He formerly lived at Somerset. I have known him over 20 years. He is an industrious public spirited good citizen From my knowledge of him I would give full credit to his sworn statement.</p>
+<p><hi rend="underline">A. J. James,</hi></p>
 <p>Garrard Cir. Ct
-<lb/>$1500 } Recogn
-<lb/>Rob<hi rend="sup">t</hi>. C Harris
+<lb/>&#36;1500 &#125; Recog -- 
+<lb/>Rob<hi rend="underline"><hi rend="sup">t</hi></hi> C Harris
 <lb/>Remission Iss<hi rend="sup">d</hi>
-<lb/><date when="1862-04-23">Apr. 23<hi rend="sup">d.</hi> 1862</date></p>
+<lb/><date when="1862-04-23">Apr. 23<hi rend="underline"><hi rend="sup">d</hi></hi> 1862</date></p>
   </body>
  </text>
 </TEI>

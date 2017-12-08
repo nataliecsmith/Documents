@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0266"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,30 +64,30 @@
  <text>
   <body>
    <p>Harrison County Kentucky
-<lb/><date when="1863-11-04">November 4<hi rend="sup">th</hi> 1863</date>.
-<lb/>To His Excellency Thomas E. Bramlette,
+<lb/><date when="1863-11-04">November 4<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.
+<lb/>To His Excellency Thomase E. Bramlette,
 <lb/>Governor of the Commonwealth of Ky.</p>
-<p>We the undersigned jurors would most respectfully state to his Excellency Thomas E. Bramlette Governor of the Commonwealth of Kentucky that we were impanneled and sworn on the <date when="--11-03">3<hi rend="sup">rd</hi> day of November</date> to try a case of the Commonwealth against James Frazier a free man of color. Indicted ^in the Harrison Circuit Court^ for unlawfully coming into the state under the 6<hi rend="sup">th</hi> Section of an act Approved <date when="1860-03-03">March 3<hi rend="sup">rd</hi> 1860</date>. The evidence was that in <date when="1862-09">September</date> ^&amp; <date when="1862-10">October^ 1862</date>, at the time this part of the state was occupied by the rebels, that many of the citizens left the county, some going to Covington some to Cincinnati. That the Deft. went to Covington, got employment about the Hotel, &amp; conducted himself with respect and propriety, that many of the citizens of the county were in Covington &amp; Cincinnati from the <date when="--09-01">1<hi rend="sup">st</hi> of September</date> to the <date when="--10-20">20<hi rend="sup">th</hi> of October</date> and that they did not see him in Cincinnati once. One credible wit-<pb/>
-<lb/>=ness testified that he saw him in Cincinnati once during that time &amp; only once, another heard him say in conversation that he had been in Cincinnati. It was also proved that he was free under the will of A. N. Frazier probated in <date when="1848">1848</date>. Under the law and facts we felt bound to find him guilty, Upon these facts we extended to him all the mercy the law would allow, and feeling that it is a case worthy of further mercy we would most respectfully recommend him to the mercy and clemency of the Executive.</p>
+<p>We the undersigned jurors would most respectfully state to his Excellency Thomas. E. Bramlette Governor of the Commonwealth of Kentucky that we were impanneled and sworn on the <date when="1863-11-03">3<hi rend="underline"><hi rend="sup">rd</hi></hi> day of November</date> to try a case of the Commonwealth against James Frazier a free man of color. Indicted ^in the Harrison Circuit Court^ for unlawfully coming into the state under the 6<hi rend="underline"><hi rend="sup">th</hi></hi> Section of an act Approved <date when="1860-03-03">March 3<hi rend="underline"><hi rend="sup">rd</hi></hi> 1860</date>. The evidence was that in <date when="1862-09">September</date> ^&amp; <date when="1862-10">October^ 1862</date>, at the time this part of the state was occupied by the rebels, that many of the citizens left the county, some going to Covington Some to Cincinnati. That the Deft. went to Covington, got employment about the Hotel, &amp; conducted himself with respect and propriety, that many of the citizens of the county were in Covington &amp; Cincinnati from the <date when="1862-09-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> of September</date> to the <date when="1862-10-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> of October</date> and that they did not see him in Cincinnati once. One credible wit-<pb/>
+<lb/>=ness testified that he saw him in Cincinnati once during that time &amp; only once, another heard him say in conversation that he had been in Cincinnati. It was also proved that he was free under the will of A. W. Frazier probated in <date when="1848">1848</date>. Under the law and facts we felt bound to find him guilty, Upon these facts we extended to him all the mercy the law would allow, and feeling that it is a case worthy of further mercy we would most respectfully recommend him to the mercy and clemency of the Executive.</p>
 <p>R S Holmes
 <lb/>Ja<hi rend="sup">s</hi> T Smith
 <lb/>E G Steward
-<lb/>W<hi rend="sup">m</hi> Hutchens
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Hutchens
 <lb/>T. V. Dills
 <lb/>Lewis Veatch
-<lb/>Thomas Edwards
-<lb/>A J Rennekas
+<lb/>Thomas Edward
+<lb/>A J Rennekar
 <lb/>Aaron H. Wheeler
 <lb/>John Van Deven
-<lb/>Elijah Kirtly
+<lb/>Elijah Kirtley
 <lb/>J W Steward<pb/></p>
-<p>I, James F. Ware Clerk of the Harrison Circuit Court do certify that the foregoing is a true list of the jurors in the case of the Commonwealth of Kentucky vs James Frazier a free man of color, and that they returned a verdict of guilty and assessed his punishment at one years confinement in the penitentiary.
-<lb/><date when="1863-11-04">Nov<hi rend="sup">r</hi> 4 1863</date></p>
-<p>James F. Ware Clerk
+<p>I, James. F. Ware Clerk of the Harrison Circuit Court do certify that the foregoing is a true list of the jurors in the case of the Commonwealth of Kentucky vs James Frazier a free man of color, and that they returned a verdict of guilty and assessed his punishment at one years confinement in the penitentiary.
+<lb/><date when="1863-11-04">Nov<hi rend="sup">r</hi> 4. 1863</date></p>
+<p>James F Ware Clerk
 <lb/>Harrison Circuit Court</p>
-<p>The statement in the above petition of the facts as proved upon the trial <hi rend="str">are</hi> is substantially correct</p>
-<p>B B Carpenter
-<lb/>Comths Atty</p>
+<p>The statement in the above petition of the facts as proved upon the trial <hi rend="str">are</hi> is Substantially correct</p>
+<p>R B Carpenter
+<lb/>Comths Atty.</p>
   </body>
  </text>
 </TEI>

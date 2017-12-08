@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0110"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <date when="1861-07-10">10 July 1861</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -60,13 +63,13 @@
  <text>
   <body>
    <p>Geo W Johnson</p>
-<p>Take notice that on <date when="1861-07-10">July 10. 1861</date> I will at the County Clerks Office in the town of Helena, Ark. take the depositions of various persons to be used as evidence by me in the suit in the Scott Circuit Court wherein I am Pltff. &amp; you are Deft. between the hours of 6 A. M. &amp; 6 P M and continue from day to day if necessary to complete the same.</p>
+<p>Take notice that on <date when="1861-07-10">July 10. 1861</date> I will at the County Clerks office in the town of Helena. Ark, take the depositions of various persons to be read as evidence by me in the suit in the Scott Circuit Court wherein I am Plt'ff, &amp; you are Deft- between the hours of 6 A. M. &amp; 6 P M and continue from day to day if necessary to complete the same-</p>
 <p>R. Higgins</p>
 <p>Water's Atto
 <lb/><unclear/><pb/></p>
-<p>Recused <date when="1861-06-27"><hi rend="str">July </hi>June 27. 1861</date>.</p>
+<p><hi rend="underline">Recused </hi><date when="1861-06-27"><hi rend="underline"><hi rend="str">July </hi></hi><hi rend="underline">June 27</hi>, 1861</date>.</p>
 <p>R Higgins 
-<lb/>Notice to take depositions
+<lb/>notice to take depositions
 <lb/><date when="1861-07-10">July 10 1861</date></p>
   </body>
  </text>

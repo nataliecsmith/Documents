@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0283"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,57 +62,56 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the Excelence of the Govoner of the Commonwealth of Kentucky your petitioner wold Respectible Represent to your Excelence that at the <gap/> term of the Whitley Circuit Court the grand jury of Whitley County Returned an indictment against your petitioner for caring concealed deadley weapons once at the <date when="1863-08">august term of Said Court 1863</date> they had a trial in the absense of your petitioner and Rendered a Judgement against him for fifty dollars fine your petitioner states that he attend the term when court shold have ben held on the two prior days and they was no court in sesion and held owing they wold be no court he went home <hi rend="str">and</hi> beleaving they wold be no court and to his suprise the Judge come and opened court and they tride the aforesaid cause in the absense of your <unclear/> and Rendered the Judgement as before stated your <unclear/> states that if he had of been present in court and trial he wold have been able to of proved that he had Reasonable grounds to beleave that his pearsan was in danger of violence your petitioner states that he is a pore man and if he has said judgement to pay it will do great in Justice to his famley Wheare for he as your Excelence to interpose and to Remite the fine and for all proper Releaf</p>
+   <p>To the Excelence of the Govoner of the Commonwealth of Kentucky your petitioner wold Respectible Represent to your Excelence that at the <gap/> term of the Whitley Circuit Court the grand jury of Whitley County Returned an inditment a gainst your petitioner for caring concealed deadley weapons and at the <date when="1863-08">august term of Said Court 1863</date> they had a trial in the absense of your petitioner and Rendered a Judgement against him for fifty dollars fine your petitioner states that he attend the term when Court shold have ben held on the two <unclear/> days and they was no Court in sesian and baleaving they wold be no court he went hom <hi rend="str">and</hi> beleaving they wold be no Court and to his suprise the Judge come and opened court and they triede the aforesaid cause in the absense of your <unclear/> and Rendered the Judgement as before stated your <unclear/> states that if he had of been present in court and trial he wold have been able to of proved that he had Reasonable Grounds to beleave that his peasan was in danger of violence your petitioner states that he is a pore man and if he has said judgement to pay it will do great in Justice to his famley Wheare for he as your Excelence to interpose and to Remite the fine and for all proper Releaf</p>
 <p>J A Skein<pb/></p>
-<p>sworn to be fore me by J. A. Skein this <date when="1863-11-06">6<hi rend="sup">th</hi> day of Nov 1863</date></p>
-<p>D H. Leforee J P</p>
-<p>We the under signed say we beleave the statements in the foregoing petition to be true and <hi rend="str">ask the</hi> ask the Excelence of the govener to Remit said fine well <hi rend="str">this</hi> that it wold be an act of charity</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Signers names
+<p>sworn to be fore me by J. A Skeen this <date when="1863-11-06"><hi rend="str">day of</hi> 6<hi rend="sup">th</hi> day of Nov 1863</date></p>
+<p>D H. Leforce J P</p>
+<p>We the under signed say we beleave the statements in the foregoing petition to be true and <hi rend="str">ask</hi> <hi rend="str">the</hi> ask the Excelence of the govener to Remit said fine well <hi rend="str">this</hi> that it wold be an act of charity</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Signers naimes
 <lb/>John Smith
-<lb/>D H Lefarce
+<lb/>D H Leforce
 <lb/>William Ellison
-<lb/>W. C. murphy
+<lb/>W, C Murphy
 <lb/>L. P. Bird
 <lb/>A J Curd
 <lb/>E F Adkins
-<lb/>J. Q. Barton
+<lb/>J, Q, Barton
 <lb/>Lewis Adkins
 <lb/>Nelson Taylor
 <lb/>John Raper
-<lb/>P. S. Cuthwith
-<lb/>C. Carter
-<lb/>James S. Plany
+<lb/>P, S, Cuthwith
+<lb/>C Carter
+<lb/>James S. Ramy
 <lb/>Benjamin McKechan
-<lb/>M. L. Rainy
+<lb/>M L Ramy
 <lb/>Jacob Stinson
-<lb/>Wm. A. Miller
-<lb/>L. D. Sutton
-<lb/><cb n="2"/>Signers Names
-<lb/>John Reves
-<lb/>E. G. Sullivan
+<lb/>Wm, H, Miller
+<lb/>L, D, Sutton
+<lb/><cb n="2"/>Signers Naimes
+<lb/>John Reeves
+<lb/>E G Sullivan
 <lb/>James M Rains
-<lb/>W. H. Vanney
-<lb/>Marion Jones
-<lb/>S. T. Sullivan
-<lb/>Thomas Ranes
+<lb/>W, H, Vanney
+<lb/>Marien Jones
+<lb/>D, F Sullivan
+<lb/>Thomis Ranes
 <lb/>William Johnson
 <lb/>Erven Keers
 <lb/>Sebery Woods
-<lb/>G. P. Sullivan
+<lb/>G, P. Sullivan
 <lb/>Samuel Kerr
 <lb/>Harvy Kerr
-<lb/>James M. Hickey
+<lb/>James M, Hickey
 <lb/>James Laymanee
-<lb/>P. W. Woods<milestone unit="column" n="1"/><pb/></p>
-<p>The excuse given in the petition is not a good one for not making defense and in ordinary times would not justify Remission but in a time of Civil War when every loyal man ought to be armed for defense; I think none should be fined for being armed. I therefore Remit the fine except costs &amp; fees <date when="1863-11-24">Nov 24th 1863</date></p>
+<lb/>P, W, Woods,<milestone unit="column" n="1"/><pb/></p>
+<p>The excuse given in the petition is not a good one for not making defense and in ordinary times would not justify Remission but in a time of Civil war when every loyal man ought to be armed for defense; I think none should be fined for being armed. I therefore remit the fine except costs &amp; fees <date when="1863-11-24">Nov 24" 1863</date></p>
 <p>Tho E Bramlette</p>
 <p>Whitley Cir Ct
 <lb/>vs
-<lb/>J. A. Skein
-<lb/>concealed
-<lb/>weapons
-<lb/>$50 -- 
-<lb/><date when="1863-11-24">24<hi rend="sup">th</hi> Nov/ 63</date></p>
+<lb/>J, A. Skeen
+<lb/>Concealed Weapons
+<lb/>&#36;50 -- 
+<lb/><date when="1863-11-24">24<hi rend="sup">th</hi> Nov/63</date></p>
   </body>
  </text>
 </TEI>

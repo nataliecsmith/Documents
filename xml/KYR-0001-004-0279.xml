@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0279"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,19 +65,19 @@
   <body>
    <p>Caldwell County &amp; Circuit
 <lb/>To His Excellency Gov Bramlett</p>
-<p>The undersigned Members of the Bar and officers of the Court, would state that at the present term of the Caldwell Circuit Court a Judgment was rendered against Newman Estes &amp; others as bail for one James A Johnson in the sum of Seven Thousand dollars by reason of the failure of said Johnson to surrender himself. He having been as we are informed &amp; believe arrested by the Military Authorities &amp; sent south before the present term. From all we know of the case we respectfully solicit in Mr Este' behalf your kind intervention, beliving it would be a great hardship to compel him to pay the same</p>
+<p>The undersigned Members of the Bar and officers of the Court, would state that at the present term of the Caldwell Circuit Court a Judgment was rendered against Newman Estes &amp; others as bail for one James A Johnson in the sum of Seven Thousand dollars by reason of the failure of said Johnson to surrender himself. He having been as we are informed &amp; believe arrested by the Military Authorities &amp; sent south before the present term, From all we know of the case we respectfully solicit in Mr Estis' behalf your kind intervention, beleiving it would be a great hardship to compel him to pay the same</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>R. T. Petree
-<lb/>Cir. Judge
+<lb/>Cir. Judge.
 <lb/><cb n="2"/>Tho. C. Dabney
-<lb/>L. Peppers
+<lb/>L. Pepper
 <lb/>D. W. M<hi rend="sup">c</hi>Goodwin
 <lb/>R L Wilson
-<lb/>S. Marble
-<lb/><hi rend="underline">J. N. Turner</hi>
-<lb/>S J Boyd
-<lb/>J R Hunter
+<lb/>S, Marble
+<lb/><hi rend="underline">J.</hi> <hi rend="underline">N.</hi> <hi rend="underline">Turner</hi>
+<lb/>S. J. Boyd
+<lb/><hi rend="underline">J R Hunter</hi>
 <lb/>W. Smith
-<lb/>F. M. English<milestone unit="column" n="1"/><pb/></p>
+<lb/>F, M, English -- <milestone unit="column" n="1"/><pb/></p>
 <p>Petition</p>
   </body>
  </text>

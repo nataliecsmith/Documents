@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0066"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <date when="1861-02-07">7 February 1861</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -60,13 +63,17 @@
  <text>
   <body>
    <p>Notaries</p>
-<p>Jeremiah Davidson Greenup Co.
-<lb/>A. Boyd McCracken "
-<lb/>Jas. D. White Ballard
-<lb/>Chas. Wickliffe "<pb/></p>
+<p>Jeremiah Davidson <hi rend="underline">Greenup Co.</hi>
+<lb/>A. Boyd M<hi rend="sup">c</hi>Cracken "
+<lb/>Ja<hi rend="sup">s.</hi> D. White Ballard
+<lb/>Cha<hi rend="underline"><hi rend="sup">s.</hi></hi> Wickliffe "<pb/></p>
 <p>Notaries
 <lb/>Confirmed
 <lb/><date when="1861-02-07">Feby 7. 1861</date></p>
+<p><figure type="seal"><ab>KENTUCKY STATE
+<lb/>AGRICULTURAL SOCIETY
+<lb/><unclear/> PRESS BY
+<lb/><unclear/> WALL CIN O</ab></figure></p>
   </body>
  </text>
 </TEI>

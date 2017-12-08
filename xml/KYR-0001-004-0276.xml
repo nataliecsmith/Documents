@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0276"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,17 +65,17 @@
   <body>
    <p>Caldwell Circuit Court
 <lb/><date when="1863-11">November Term 1863</date>.
-<lb/>Comlth of Ky <gap/> Plaintiff
-<lb/>Against } Judgement of Forfeited Recog<hi rend="underline"><hi rend="sup">d</hi></hi>
+<lb/>Comlth of Ky Plaintiff
+<lb/>Against &#125; Judgement on Forfeited Recog<hi rend="underline"><hi rend="sup">d</hi></hi>
 <lb/>Newman Estes &amp; others defendants</p>
-<p>It is therefore adjudged by the court that the plaintiff recover of said defendant the sum of seven thousand dollars, and her costs herein expended.</p>
+<p>It is therefore adjudged by the court that the plaintiff recover of said defendant the sum of Seven Thousand dollars, and her costs herein expended.</p>
 <p>A Copy
 <lb/>Attest E P Watkins clk c c c
 <lb/>By Frank W Dabney D C.<pb/></p>
 <p>Comlth of Ky
-<lb/>v } Judgement
+<lb/>v &#125; Judgement
 <lb/>Newman Estes &amp; others</p>
-<p>A copy</p>
+<p>A Copy</p>
   </body>
  </text>
 </TEI>

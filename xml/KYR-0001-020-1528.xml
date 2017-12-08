@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1528"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Athens, Fayette County, Kentucky</placeName>
     <date when="1861-11-05">5 November 1861</date>
    </creation>
    <textClass>
@@ -61,11 +63,11 @@
  <text>
   <body>
    <p>To his Excellency the Governor of Kentucky.</p>
-<p>Your Petitioner, Columbus Kent, would respectfully represent that shortly after the last August Election he was fined by Judge John Parker, Town Judge at Athens, Fayette County, Kentucky, the sum of fourteen dollars and the costs amounting to $6<hi rend="underline"><hi rend="sup">10</hi></hi></p>
-<p>This fine was inflicted for noise and disorder while intoxicated on the day of said election. Your Petitioner is not in the habit of getting drunk or of disturbing any one. He was with his friends on that day and excited about the election and so drank too much. He injured <hi rend="str">to</hi> no one; the public was but little disturbed by the noise he made.</p>
+<p>Your Petitioner, Columbus Kent, would respectfully represent that shortly after the last August Election he was fined by Judge <hi rend="str">P</hi>John Parker, <hi rend="str">C</hi>Town Judge at Athens, Fayette County, Kentucky, the sum of fourteen dollars and the costs am<hi rend="str">t</hi>ounting to &#36;6<hi rend="underline"><hi rend="sup">10</hi></hi></p>
+<p>This fine was inflicted for noise and disorder while intoxicated on the day of said election. Your Petitioner is not in the habit of getting drunk or of disturbing any one. He was with his friends on that day and <hi rend="str"><unclear/></hi>excited about the election and so drank too much. He injured <hi rend="str">to</hi> no one; the public was but little disturbed by the noise he made.</p>
 <p>The above is a truthful detail of the facts connected with the above named spree and the conseqeuent fine. Your petitioner is heartily ashamed of it. He has conducted himself in a sober and orderly manner ever since.</p>
-<p>He would now respectfully ask Your Excellency to remit said fine. He is poor; has his Mother, who is a widow, to support and while he acknowledges that he was guilty of the above disorder; he hopes that you will think the payment of the costs a sufficient penalty for it.</p>
-<p><date when="1861-11-05">Nov 5 1861</date><pb/></p>
+<p>He would now respectfully ask Your Excellency to remit said fine. He is poor; has his Mother, who is a widow, to support and while he acknowledges that he was guilty of the above disorder; he hopes that you will think the payment of the costs a sufficient penalty for it.
+<lb/><date when="1861-11-05">Nov 5' 1861</date><pb/></p>
 <p>We the undersigned Citizens of Fayette County respectfully request Your Excellency to grant the request of the within C Kent. He is an Honest hard working man and behaves himself in a becoming manner -- and is not in the habit of getting on sprees and creating disturbances respectfully</p>
 <p>J. C. Cochran
 <lb/>J R Gross
@@ -77,7 +79,7 @@
 <lb/><hi rend="underline">John M Clay
 <lb/></hi>J H Craig</p>
 <p>Athens Po. Ct
-<lb/>$14 } breach</p>
+<lb/>&#36;14 &#125; breach</p>
 <p>Remitted 
 <lb/>B. M</p>
 <p>C. Kent

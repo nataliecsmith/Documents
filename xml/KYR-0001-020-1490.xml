@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1490"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Michael Scott et al. to Beriah Magoffin</title>
+    <title level="a" type="main">Michael Scott to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG10958</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Frankfort, Franklin County, Kentucky </placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -64,20 +66,20 @@
 <p>Your Petitioner Michael Scott would respectfully represent that he was fined in the court of the Police Judge of the city of Frankfort, on the <date when="1861-07-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> of July 1861,</date> the sum of ten dollars with costs upon a charge of breach of the peace -- </p>
 <p>This fine is still unpaid He is a very poor man, has a wife and <hi rend="str">five or six</hi> Two children small and helpless all dependant upon his labor for a support. He has resided in Franfort 20 or 30 years and this is the only time he was ever fined. </p>
 <p>He is a hard working man and the money which will necessarily be taken to pay the fine is absolutely necessary for the sustenance of his family. </p>
-<p>He promises he will not get into any such predicament again.<pb/></p>
-<p>He respectfully prays your Excellency to pardon and remit the fine. The costs will be quite a punishment for his offense.</p>
+<p>He promises he will not get into any such predicament again<pb/></p>
+<p>He respectfully prays your Excellency to pardon and remit the fine. The costs will be quite a punisment for his offence.</p>
 <p>Mike ^his X mark^ Scott</p>
 <p>We the undersigned believe the statement of the foregoing Petition to be true and respectfully ask that the fine be remitted.</p>
-<p>W. J. Chinn
+<p>W. J, Chinn
 <lb/>Scott Brown
-<lb/>R. A. Brawser
+<lb/>R, A, <unclear>Brawser</unclear>
 <lb/>Jno. N. Crutcher
 <lb/>W C Sneed
 <lb/>W Franklin
 <lb/>G, W, Miller
 <lb/>M B Chinn
-<lb/>W. S. Dehoney
-<lb/>G. W. Robb
+<lb/>W. S, Dehoney
+<lb/>G, W, Robb
 <lb/>H R Williams
 <lb/>John Harrod Sr
 <lb/>G H Jett
@@ -85,25 +87,25 @@
 <lb/>S A Scearce
 <lb/>Eli B Getz
 <lb/>Nelson Alley
-<lb/>J. R. Watson
-<lb/>Ben Luckett<pb/>
+<lb/>J, R Watson
+<lb/><hi rend="underline">Ben Luckett</hi><pb/>
 <lb/><hi rend="underline">W H</hi> <hi rend="underline">Greenup</hi>
-<lb/>Ben <unclear/>
+<lb/><hi rend="underline">Ben <unclear>Fannel</unclear></hi>
 <lb/>Philip Ott
 <lb/>James Welch
 <lb/>A Kahn
-<lb/>John Augrave&gt;
-<lb/>H Hardis
-<lb/>Ja<hi rend="sup">s</hi>. P. O'Hara
+<lb/>John <unclear>Augrave</unclear>
+<lb/>H Hardie
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> P. O-Hara
 <lb/>P. Joyce
 <lb/>T. Callaghan
-<lb/>A. P. Williams<pb/></p>
+<lb/><hi rend="underline">A. P. Williams</hi><pb/></p>
 <p>Frankfort Po. Ct</p>
 <p>Remitted
-<lb/>B. M.</p>
-<p>$10 } misdemeanor
+<lb/>B. M</p>
+<p>&#36;10 &#125; misdemeanor
 <lb/>Mike Scott
-<lb/>Iss<hi rend="sup">d</hi>. <date when="1861-10-05">Octo. 5. 1861</date></p>
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-10-05">Octo. 5. 1861</date></p>
   </body>
  </text>
 </TEI>

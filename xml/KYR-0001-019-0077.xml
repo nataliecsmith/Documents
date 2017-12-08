@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0077"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,15 +67,15 @@
 <lb/>Hon B Magoffin
 <lb/>Governor of Kentucky
 <lb/>Sir:</p>
-<p>Having formed a company of Home Guards at this place I desire to know if Your Excellency can furnish it with arms. It is a cavalry company numbering about fifty effective men. The officers were not elected in accordance with the provisions of the Military Bill; but will be if it is possible to obtain arms. Our exposed condition here on the border, subject as we are to the violence of the mobs from the other side of the river, makes it necessary that the company should be armed as soon as possible.<pb/></p>
-<p>Also, because Garrett Davis and other "Union shrieking", submission, abolition Lincolnites are receiving arms from <hi rend="underline">their</hi> master and we desire to be armed.</p>
-<p>Please answer.
-<lb/>Yours very resp:
+<p>Having formed a company of "Home Guards" at this place I desire to know if <hi rend="str">y</hi>Your Excellency can furnish it with arms. It is a cavalry company numbering about fifty effective men. The officers were not elected in accordance with the provisions of the Military Bill, but will be if it is possible to obtain arms. Our exposed condition here on the border, subject as we are to the violence of mobs from the other side of the river, makes it necessary that the company should be armed as soon as possible.<pb/></p>
+<p>Also, because Garrett Davis and other "Union shrieking", submissions abolition Lincolnites are receiving arms from <hi rend="underline">their</hi> master we disire to be armed.</p>
+<p>Please answer.</p>
+<p>Yours very resp--
 <lb/>V. Finnell. Capt
 <lb/>Verona
 <lb/>Ky<pb/></p>
-<p>Arms-<figure type="hr"/></p>
-<p>Sec will an swer all arms have been distributed to Which Home Guard are entitled -- </p>
+<p>Arms--<figure type="hr"/></p>
+<p>Sec will answer all arms have been distributed to which Home Guard are entitled -- </p>
   </body>
  </text>
 </TEI>

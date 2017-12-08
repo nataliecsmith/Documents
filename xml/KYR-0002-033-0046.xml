@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0046"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,32 +66,26 @@
    <p>IN THE NAME AND BY THE AUTHORITY OF 
 <lb/>The Commonwealth of Kentucky,
 <lb/><figure type="seal"><ab>KENTUCKY
-<lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure>
+<lb/>UNITED WE STAND DIVIDED WE FALL.</ab></figure>
 <lb/>JAMES F. ROBINSON,
 <lb/>GOVERNOR OF SAID COMMONWEALTH,
 <lb/>To all whom these Presents shall come, Greeting:</p>
-<p>Know Ye, that William G. Rogers having been duly appointed to the office of Quarter Master, with rank of 1st Lieutenant, vice Elias Thomasson out of service <date when="1862-06-30">June 30. 1862</date> -- In the 2 Cavalry Regiment of Kentucky Volunteer Militia, organized under the Acts of the General Assembly of the Commonwealth, and to be mustered into the service of the United States:</p>
+<p>Know Ye, that William G. Rogers having been duly appointed to the office of Quarter Master, with rank of 1st Lieutenant, vice Elias Thomasson out of service <date when="1862-06-30">June 30, 1862</date>- In the 2 Cavalry Regiment of Kentucky Volunteer Militia, organized under the Acts of the General Assembly of the Commonwealth, and to be mustered into the service of the United States:</p>
 <p>NOW KNOW YOU, That, by the powers vested in me by the Constitution and Laws of said State, and reposing special trust and confidence in your patriotism, valor, fidelity, and ability, I do, by these presents Commission you as 1 Lieutenant as aforesaid, for the term of three years unless sooner discharged, upon condition that you take the oath indorsed hereon, within ten days from receipt hereof, sending a certifate thereof to General Headquarters; and I do hereby authorize and require you to discharge, all and singular, the duties and services appertaining to your said office, agreeably to law and general regulations, and to obey such orders and instructions as you shall, from time to time, receive from your superior officers.</p>
 <p><figure type="seal"><ab>SEAL OF KENTUCKY
 <lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
 <p>In Testimony Whereof, I have hereunto set my name, and caused the seal of the State of Kentucky to be affixed, at Frankfort, the <date when="1862-10-28">Twenty Eighth day of October, in the year of our Lord one thousand eight hundred and sixty=two</date> and in the eighty=Seventh year of the Independence of the United States of America.</p>
-<p><hi rend="underline">J F Robinson</hi> </p>
+<p><hi rend="underline">J. F. Robinson</hi> </p>
 <p>BY THE GOVERNOR:
-<lb/>D. C. Wickliffe, <hi rend="italic">Secretary of State</hi>. </p>
-<p>Commonwealth Office -- WM E. HUGHES, State Printer<pb/></p>
+<lb/>D.. C. Wickliffe, Secretary of State. </p>
+<p>Commonwealth Office -- WM. E. HUGHES, State Printer<pb/></p>
 <p>2 Cav<figure type="hr"/>
-<lb/>Q<hi rend="sup">r</hi>. Mas.
+<lb/>Q<hi rend="underline"><hi rend="sup">r</hi></hi> Mas.
 <lb/>Rogers
 <lb/>Copy Comm: returned<figure type="hr"/></p>
-<p>OATH.<figure type="hr"/></p>
-<p>I <gap/>do solemnly swear, that I will faithfully support the Constitution of the United States and the Constitution of the State of Kentucky, and will discharge, all and singular, the duties and services appertaining to the office of <gap/> in the Kentucky Volunteer Militia, agreeably to law and general regulations, and will obey such orders and instructions as I shall from time to time receive from the proper officers. </p>
-<p><gap/></p>
-<p>Before me, personally appeared the above <gap/> and made the oath above written, and signed the same in my presence.</p>
-<p><gap/></p>
-<p><gap/> A. D. 186<gap/><figure type="hr"/></p>
-<p>A copy from the record -- the Original being lost or mislaid</p>
+<p>A copy from the record- the Original being lost or mislaid</p>
 <p>John W. Finnell
-<lb/>Adj<hi rend="sup">t</hi>. Gen<hi rend="sup">l</hi>. Ken. Vols.</p>
+<lb/><hi rend="underline">Adj</hi><hi rend="underline"><hi rend="sup">t</hi></hi><hi rend="underline"> Gen</hi><hi rend="underline"><hi rend="sup">l</hi></hi><hi rend="underline"> Ken. Vols.</hi></p>
   </body>
  </text>
 </TEI>

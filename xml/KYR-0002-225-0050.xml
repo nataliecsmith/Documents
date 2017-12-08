@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0050"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,14 +63,13 @@
  <text>
   <body>
    <p>To the Excellance of Thos E Bramblette Gov of Ky</p>
-<p>I take this Method of leting you know the condition of the Recruiting operation here as you will see from the pattiton sent to you by the citizens of this place that we want A commander here I. had thout of going to see you my self but concluded to write to you and Remain here til I could here from you if the plan propose by the citizens in this patition does not <hi rend="str">a</hi> meet youre approval I would be very glad if you would asign me A position some whare Els in the army as I cant stay at home on account of the gurillers I have spent a great deal of time and money in the Recruiting Servis I would like very mutch as I cant stay at home to have Some place that I could make my expences</p>
-<p>I would greatly prefer working here as I am well acquainted with the country and I think if you give me command of those troops I can make a Respectable command of them I am sure I can controle them and make them good soldiers</p>
+<p>I take this Method of leting you know the condition of the Recruiting operation here as you will see from the pattiton sent to you by the Citizens of this place that we want A commander here I. had thaut of going to see you my self but concluded to write to you and Remain here til I could here from you if the plan propose by the citizens in this patition does not <hi rend="str">a</hi> meet youre approvel I would be very glad if you would asign me A position some whare Els in the army as I. cant stay at home on account of the gurillers I have spent a great deal of time and money in the Recruiting servis I would like very mutch as I cant stay at home to have some place that I could make my expences</p>
+<p>I would greatly prefur working here as I am well acquainted with the country and I think if you give me command of those troops I can make a Respectable command of then I am sure I can controle them and make them good soldiers</p>
 <p>sir I have the honor
-<lb/>to be youre obedient Servant
-<lb/>J. L Woodward<pb/></p>
+<lb/>to be youre obedient servant J. L Woodward<pb/></p>
 <p>Owensboro Ky<figure type="hr"/>
-<lb/>Woodward J L<figure type="hr"/></p>
-<p>To the Governor desiring to be placed in command of all the troops in and around Owensboro<figure type="hr"/></p>
+<lb/>Woodward J L'<figure type="hr"/></p>
+<p>To the Governor desiring to be placed in command of all the troops in and around Owensboro.<figure type="hr"/></p>
 <p>Answered. <date when="1864-08-05">Aug. 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date> on letter book B. Page 17<figure type="hr"/>
 <lb/>Rec<hi rend="sup">d</hi> A. G O. <date when="1864-08-05">5<hi rend="underline"><hi rend="sup">th</hi></hi> Aug 1864</date></p>
   </body>

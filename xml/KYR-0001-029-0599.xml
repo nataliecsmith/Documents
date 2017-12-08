@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0599"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Rockcastle County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -60,21 +62,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency the Governor of the Com"lth of Kentucky</p>
-<p>Your petitioner Lewis Bucher respectfully showeth that at the <date when="1862-08">Agust Term of the Rockcastle Circuit Court 1862</date> that he confessed Jud"<hi rend="sup">t</hi> for $20 + cost upon an Indict agst him for for keeping a Tipling house. He states that the offense if any, was committed under the following circumstances: he lived on the Wilderness &amp; Turnpike road between Craborchard &amp; M<hi rend="sup">t</hi> Vernon &amp; had some spirits which he sold to neighbors by the half gallon having a small store.. but where the armies passed the road they compelled me to let them have it in such quanities as they desired. &amp; for this he was indicted. he is poor <hi rend="str">but</hi> and a Loyal man out &amp; out. This only by the way however: under the circumstances he prays a remission of the fine</p>
-<p>Your Ob<hi rend="sup">t</hi> Ser<hi rend="sup">t</hi> -- 
+   <p>To his Excellency
+<lb/>the Governor of the Com"lth of Kentucky</p>
+<p>Your petitioner Lewis Bucher respectfully showeth that at the <date when="1862-08">Agust Term of the Rockcastle Circuit Court 1862</date> that he confessed Jud"<hi rend="sup">t</hi> for &#36;20 + cost upon an Indict agst him for for Keeping a Tipling house. He states that the offense if any, was committed under the following circumstances: he lived on the Wilderness &amp; Turnpike road between Craborchard &amp; M<hi rend="sup">t</hi> vernon. &amp; had some spirits which he sold to neighbors by the half gallon having a small store.. but when the armies passed the road they compelled me to let them have it in such quanities as they desired. &amp; for this he was indicted. he is poor. <hi rend="str">but</hi> and a Loyal man out &amp; out. This only by the way however: under the circumstances he prays a remission of the fine</p>
+<p>Your Ob<hi rend="sup">t</hi> Sev'<hi rend="sup">t</hi>-
 <lb/>Lewis Bucher</p>
 <p>Gov Robinson
-<lb/>Dear Sir</p>
+<lb/>Dear sir</p>
 <p>I hope that you will remit the foregoing fine</p>
-<p>G Pearl</p>
-<p>over gov<hi rend="underline"><hi rend="sup">r</hi></hi> } Judge of the 12<hi rend="sup">th</hi> Judicial Dist of Ky<pb/></p>
-<p>Your message is well rec<hi rend="sup">d</hi> here &amp; considered a very able Document I hope the Legislature will carry out its suggestion &amp; prior examples -- Such passing comming from such sources is what will sustain this government agst usurpation as well as rebellion -- </p>
+<p>G Pearl
+<lb/>Judge of the 12<hi rend="sup">th</hi> Judicial Dist of Ky</p>
+<p>over gov<hi rend="underline"><hi rend="sup">r</hi></hi> <pb/></p>
+<p>Your message is will rec<hi rend="sup">d</hi> here &amp; considered avery able Document I hope the Legislature will cary out its Suggestion &amp; principles -- Such <unclear/> Coming from such Sources is what will sustain this government <hi rend="str">in</hi> agst usurpation as well as reb<hi rend="str">l</hi>ellion -- </p>
 <p>Respectfully
 <lb/>J. A. Moore</p>
-<p>Send the remission (if granted to me.</p>
+<p>Send the remission (if granted to me,</p>
 <p>J. A. Moore</p>
-<p>My respects our Senator &amp; Representative W<hi rend="sup">m</hi> Gillis &amp; Bachelor</p>
+<p>My respects. our Senator &amp; Representative W<hi rend="sup">m</hi>. Gillis &amp; Bachelor</p>
 <p><hi rend="underline">J A M</hi></p>
   </body>
  </text>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0535"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">George C. Haller to James F. Robinson</title>
+    <title level="a" type="main">George C. Hallet to James F. Robinson</title>
     <title level="a" type="parallel">CWG8987</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,16 +63,17 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00002504">Hickman</placeName> Ky <date when="1863-08-17">Aug 17. 1863</date>.
-<lb/><persName ref="cwgk:N001004">His Excellency Gov. Robinson.</persName><lb/>Sir.</p>
-<p>You will receive herewith a petition from M<hi rend="underline"><hi rend="sup">r</hi></hi> <persName ref="cwgk:N00000969">Mont. G Wilson</persName>, asking to have a fine of $20.00 imposed upon him by the <orgName ref="cwgk:O00000380">Fulton Eq. &amp; Crim Ct.</orgName> at <date when="1861-05">May Term 1861</date>. for gaming, remitted. as also the recommendation of myself and other loyal officials.</p>
-<p>The case is peculiarly hard. M<hi rend="underline"><hi rend="sup">r</hi></hi> Wilson in consequence of his attachment to the Union has been made to suffer and is now in really distressing circumstances. He is a respectable but poor man, with a small family of children, some of whom are sick. Of great firmness of character, I got him the appointment of enrolling officer for this County -- He has or is just about concluding his duty, which has been laborious and dangerous.</p>
-<p>His conviction of the offense is truly stated. It was only the casual meeting of three friends under the circumstances detailed.</p>
-<p>If consistent with duty, no one would feel more rejoiced than myself in the remission to him of the fine. This indeed seems to be just in as much as both the others have received<persName ref="cwgk:N00000258"> your predecessor's</persName> clemency</p>
+   <p>Hickman Ky <date when="1863-08-17">Aug 17. 1863</date>.
+<lb/>His Excellency Gov. Robinson.
+<lb/>Sir.</p>
+<p>You will receive herewith a petition from M<hi rend="underline"><hi rend="sup">r</hi></hi> Mont. G Wilson, asking to have a fine of &#36;20.00 imposed upon him by the Fulton Eq. &amp; Crim Ct. at <date when="1861-05">May Term 1861</date>. for gaming, remitted- as also the recommendation of myself and other loyal officials.</p>
+<p>The case is peculiarly hard. M<hi rend="underline"><hi rend="sup">r</hi></hi> Wilson in consequence of his attachment to the Union has been made to suffer and is now in really distressing circumstances- He is a respectable but poor man, with a small family of children, some of whom are sick. Of great firmness of character, I got him the appointment of Enrolling officer for this County- He has or is just about concluding his duty- which has been laborious and dangerous.</p>
+<p>His conviction of the offense is truly stated -- It was only the casual meeting of three friends under the circumstances detailed.</p>
+<p>If consistent with duty, no one would feel more rejoiced than myself in the remission to him of the fine. This indeed seems to be just in as much as both the others have received your predecessor's clemency</p>
 <p>With great respect
 <lb/>Your most obt sevt
-<lb/><persName ref="cwgk:N00000888">Geo C Haller
-</persName><lb/>County Atty.</p>
+<lb/>Geo C. Hallet
+<lb/>County Atty.</p>
   </body>
  </text>
 </TEI>

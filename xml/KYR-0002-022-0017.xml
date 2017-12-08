@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0017"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -65,10 +68,10 @@
 <lb/>Major Gen<hi rend="sup">l</hi> D W Lindsey
 <lb/>Inspector General of Kentucky,
 <lb/>General,</p>
-<p>It is a painful and humiliating admission, but one that I am compelled to make in all candor, that there is very little if any patriotism existent in the breasts of the citizens of this section of the state. When I wrote for the assurance from Head qrs, that if a company of Home Guards was formed here, and regularly mustered into the State Guard, they should not be called upon to do duty out of the County, it was upon the solemn pledge of some thirty-two men, and the assurances of others, that they would go into it at once. Immediately upon the receipt of your assurance, under date of the <date when="--02-26">26<hi rend="sup">th</hi> of February</date>, I caused a notice to be put up, calling on the citizens to enroll their names and sign the requisite documents, preparatory to organization A copy of the notice is enclosed herewith, as also copies of the papers, which being kept open until last night at 12 o'clock, were only signed by nine men, I return the names of these Gentlemen, as an act of Justice to them. One of these Wade H Pyle is a returned co erced conscript, and a deserter from the Rebel army, but a soundly loyal man.</p>
-<p>These then, so far as is thus evidenced, are the true men of the County liable to military duty. With this pregnant fact before me, how can I but feel mortified, deeply senisbly mortified?<pb/>
-<lb/>Like the people of England, they appear to be but <hi rend="underline">traders</hi>; and for the purpose of driving their vocations, unlike them, are not even disposed to make an effort to defend themselves. They appear too, to have acted with base duplicity towards General Reed, Commdg the Dist of Cairo, as will appear from the following statement -- </p>
-<p>About the <date when="--02-24">24<hi rend="sup">th</hi> of February</date>, Genl Reed detained a large quantity of goods destined for this place, at Cairo. The owners immediately proceeded to his Head Qrs. and in an interview had with him, he said_that if they would form a company of Home Guards, and report the names of some forty or fifty members with their officers, he would issue <hi rend="underline">provisional</hi> Commissions, and report the same to the Governor of the State, and that as soon as this was done, he would permit the transit of the goods. The question as to his right to do this, it is unnecessary to discuss as it is sufficient to say, that they came down, and making up a list of some fifty eight or fifty nine names, with officers &amp;c, they proceeded to Cairo, reported the same to the General and got their goods through. Since then, General Reed has sent down <hi rend="underline">provisional</hi> Commissions; but to get the company thus formed, together, is more than Capt Davis can do.</p>
+<p>It is a painful and humiliating admission, but one that I am compelled to make in all candor, that there is very little if any patriotism existent in the breasts of the citizens of this section of the state. When I wrote for the assurance from Head qrs, that if a company of Home Guards was formed here, and regularly mustered into the State Guard, they should not be called upon to do duty out of the County, it was upon the solemn pledge of some thirty-two men, and the assurances of others, that they would go into it at once. Immediately upon the receipt of your assurance, under date of the <date when="1864-02-26">26<hi rend="sup">th</hi> of February</date>, I caused a notice to be put up, calling on the citizens to enroll their names and sign the requisite documents, preparatory to organization A copy of the notice is enclosed herewith, as also copies of the papers, which being kept open until last night at 12 o'clock, were only signed by nine men, I return the names of these Gentlemen, as an act of Justice to them, One of these Wade H Pyle is a returned co erced conscript, and a deserter from the Rebel army, but a soundly loyal man.</p>
+<p>These then, so far as is thus evidenced, are the true men of the County liable to military duty. With this pregnant fact before me, how can I, but feel mortified, deeply senisbly mortified?<pb/></p>
+<p>Like the people of England, they appear to be but <hi rend="underline">traders</hi>; and for the purpose of driving their vocations, unlike them, are not even disposed to make an effort to defend themselves. They appear too, to have acted with base duplicity towards General Reed, Commdg the Dist of Cairo, as will appear from the following statement -- </p>
+<p>About the <date when="1864-02-24">24<hi rend="sup">th</hi> of February</date>, Gen<hi rend="sup">l</hi> Reed detained a large quantity of goods destined for this place, at Cairo. The owners immediately proceeded to his Head Qrs, and in an interview had with him, he said- that if they would form a Company of Home Guards, and report the names of some forty or fifty members with their officers, he would issue <hi rend="underline">provisional</hi> Commissions, and report the same to the Governor of the State, and that as soon as this was done, he would permit the transit of the goods. The question as to his right to do this, it is unnecessary to discuss- as it is sufficient to say, that they came down, and making up a list of some fifty eight or fifty nine names, with officers &amp;c, they proceeded to Cairo, reported the same to the General and got their goods through. Since then, General Reed has sent down <hi rend="underline">provisional</hi> Commissions; but to get the Company thus formed, together, is more than Capt Davis can do.</p>
 <p>Acting in conjunction with him, I desired to get these men to do what was contemplated by General Reed, the formation of a Home Guard Company; and to this end, have been in correspondence with him on the subject, but to effect this patriotic purpose, has been beyond Capt Davis' utmost endeavours. Even under their voluntary association, he has failed to get them together, for drill or discipline The honest truth is, they got their goods, and now seem to be indifferent as to the result.<pb/>
 <lb/>Such a state of things is lamentable, but how can it be helped?</p>
 <p>All that remains for me to say is, that I hope and trust in God, the draft will be promptly ordered and enforced upon them.</p>
@@ -76,14 +79,14 @@
 <p>I am General
 <lb/>Your Obt Servt
 <lb/>Geo C Hallet
-<lb/>Col Comdg 40<hi rend="sup">th</hi> Reft Ky. E. M.<pb/></p>
+<lb/>Col Comdg 40<hi rend="sup">th</hi> Regt Ky. E. M.<pb/></p>
 <p>Ky State Militia
 <lb/>Hickman Kentucky
-<lb/><date when="1864-03-10">March 10. 1864</date><figure type="hr"/>
-<lb/>Hallet, Geo. C
-<lb/>Col 40 Reg Ky E. M</p>
+<lb/><date when="1864-03-10">March 10- 1864</date><figure type="hr"/></p>
+<p>Hallet. Geo. C
+<lb/>Col 40 Reg Ky E. M.</p>
 <p>Gives the reasons why a company cannot be organized in his County and advises a draft<figure type="hr"/></p>
-<p>Red I. G. O. <date when="1864-04">Apl <gap/> 1864</date></p>
+<p>Rec I. G. O. <date when="1864-04">Apl <gap/> 1864</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0033"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,11 +65,11 @@
   <body>
    <p>Bark Camp Mills Ky.
 <lb/><date when="1863-11-18">18<hi rend="underline"><hi rend="sup">th</hi></hi> Nov. 1863</date>.
-<lb/>Gov. Bramlette -- </p>
-<p>Dr Sir -- I have confered with Many Citizens of our County since my return form Frankfort and think I cannot do better than to present the name of Henry L. Gilliss as a suitable person for the office of Lieut. Col. He was formerly Lieut. in the 16<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Inf. -- discharged on account of ill health -- and a gentleman. I know the proper channel for such communications is through the Adjt_ Genl -- but having had a conversation with you upon the subject and no acquaintance with the Gen<hi rend="underline"><hi rend="sup">l</hi></hi> I have taken the liberty to trespass thus far upon your attention,</p>
-<p>With regard to the active Militia or S. Guard -- I think two or more companies could be raised in this Co-provided they can feel any certainly of permisison to protect their own borders. They wish to feel that their organization will add to the security of this section of the state. It seems but justice to a county so unanimously &amp; unconditionally loyal -- after furnishing so many men (about 1.00) to the Federal armies, from a sparse population -- that it should -- in furnishing additional volunteers -- receive the benefit of such latitude as may be within the province of the Executive, to exercise -- <pb/>
-<lb/>Point Isabel -- is becoming a place of importance. The Gov<hi rend="underline"><hi rend="sup">t</hi></hi> is making it a Post -- building a commissary Store house 400 feet in length &amp;c. &amp;c. The first rise in the river is expected to bring a fleet of Steam Boats laden with stores for our troops in E. Tenn.</p>
-<p>I find no letter paper at hand, and we have little use for record paper at home. Our Clerks have not dared attempt the keeping of their offices open regularly, until Burnside passed beyond us. we have had one session of our Circuit Court in two years.</p>
+<lb/>Gov. Bramlette-</p>
+<p>D<hi rend="sup">r</hi> Sir- I have confered with Many Citizens of our County since my return form Frankfort and think I cannot do better than to present the name of Henry L. Gilliss as a suitable person for the office of Lieut. Col- He was formerly Lieut. in the 16<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Inf. -- discharged on account of ill health -- and a gentleman. I know the proper channel for such communications is through the Adj<hi rend="underline"><hi rend="sup">t</hi></hi> Genl but having had a conversation with you upon the subject and no acquaintance with the Gen<hi rend="underline"><hi rend="sup">l</hi></hi> I have taken the liberty to trespass thus far upon your attention.</p>
+<p>With regard to the active Militia or S. Guard -- I think two or more companies could be raised in this Co- provided they can feel any certainly of permisison to protect their own borders. They wish to feel that their organization will add to the security of this section of the State. It seems but justice to a county so unanimously &amp; unconditionally loyal -- after furnishing so many men (about 600) to the Federal Armies, from a sparse population -- that it should -- in furnishing additional volunteers -- receive the benefit of such latitude as may be within the province of the Executive, to exercise- <pb/>
+<lb/>Point Isabel- is becoming a place of importance. The Gov<hi rend="underline"><hi rend="sup">t</hi></hi> is making it a Post -- building a commissary Store house 400 feet in length &amp;c, &amp;c. The first rise in the river is expected to bring a fleet of Steam Boats laden with stores for our troops in E. Tenn.</p>
+<p>I find no letter paper at hand, and we have little use for record paper at home. Our clerks have not dared attempt the Keeping of their offices open regularly, until Burnside passed beyond us, we have had one session of our circuit Court in two years.</p>
 <p>I am Sir
 <lb/>Yours Truly
 <lb/>O. J. Skinner</p>

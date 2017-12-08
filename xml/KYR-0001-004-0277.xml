@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0277"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,7 +63,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>Indeed under the cirumstances he feels that it would be a great hardship for him to be compelled to pay anything. He also here submits the affidavits of Thomas W Picking and Bryant <hi rend="underline">Nichols</hi> and earnestly solicits a remission of said Judgment</p>
+   <p>Indeed under the cirumstances he feels that it would be a great hardship for him to be compelled to pay anything, He also here submits the affidavits of Thomas W Pickring and Bryant <hi rend="underline">Nichols</hi> and earnestly solicits a remission of said Judgment</p>
 <p>Newman Estes</p>
 <p>Newman Estes this day personally appeared before me and was sworn by me that the statements in the foregoing petition he believes to be true, this <date when="1863-11-26">26<hi rend="sup">th</hi> day of Nov<hi rend="sup">r</hi> 1863</date>.</p>
 <p>J. C. Barnes Examiner
@@ -69,14 +72,13 @@
 <lb/>clerk Caldwell Circuit Court<pb/></p>
 <p>Remit
 <lb/>Caldwell Cir Ct
-<lb/>vs
-<lb/>Newman Estes
-<lb/>$7,000 forfeiture
-<lb/><date when="1863-12-12">12th Dec/ 63</date></p>
-<p>The Defense was sufficient &amp; should have been no held by the court, the Judgment of the court was wrong upon the facts</p>
-<p><hi rend="str">Therefo</hi> I therefore unhesitatingly Remit all except fees and costs &amp; make the exception because of the constitutional restriction</p>
-<p>Tho E Bramlette
-<lb/></p>
+<lb/>vs</p>
+<p>The Defense was sufficient &amp; should have been no held by the court, the Judgement of the court was wrong upon the facts</p>
+<p><hi rend="str">The f</hi> I therefore unhesitatingly remit all except fees and costs &amp; make the exception because of the constitutional restriction</p>
+<p>Tho E Bramlette</p>
+<p>Newman Estes
+<lb/>&#36;7,000 forfeiture
+<lb/><date when="1863-12-12">12<hi rend="sup">th</hi> <hi rend="str">N</hi>Dec/63</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0259"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,25 +63,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>Flemingsburg <date when="1863-11-12">Nov<hi rend="sup">r</hi>. 12<hi rend="sup">th</hi> 1863</date>
+   <p>Flemingsburg <date when="1863-11-12">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 12<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
 <lb/>To His Excellency Thomas E. Bramlett
 <lb/>Governor of Kentucky
 <lb/>Sir.</p>
-<p>Diana Pitt, Spinster, was fined at the <date when="--09">last September term</date> of the Fleming Circuit Court Sixty dollars and costs on an Indictment for keeping a tippling house- and not having any property subject to execution is now confined in the jail of county at county expense on a capias pro fine. She is an unmarried woman but has managed to have several children-the youngest only about six months old. She has been in jail several days and there is no probability that she can give security; and will, unless the fine is remitted have to remain for thirty days. We think that there is no public good to be attained by confining her longer in jail-and it will increase the county expense. The judgment so far as it could influence her future conduct has done all it can do. We therefore respectfully ask your excellency to remit So much of said fine as you constitutionally and legally can remit, and pardon and remit all the imprisonment annexed to the fine. We respectfully ask your immediate action on this matter</p>
+<p>Diana Pitt, Spinster, was fined at the <date when="--09">last September term</date> of the Fleming Circuit Court Sixty dollars and costs on an Indictment for keeping a tippling house -- and not having any property subject to execution is now confined in the jail of county at county expense on a capias <hi rend="underline">pro</hi> <hi rend="underline">fine</hi>-- She is an unmarried woman but has managed to have several children-- the youngest only about six months old-- She has been in jail several days and there is no probability that she can give security; and will, unless the fine is remitted have to remain for thirty days-- We think that there is no public good to be attained by confining her longer in jail -- and it will increase the county expense-- The judgment so far as it could influence her future conduct has done all it can do-- We therefore respectfully ask your excellency to remit So much of said fine as you constitutionally and legally can remit, and pardon and remit all the imprisonment annexed to the fine -- We respectfully ask your immediate action on this matter</p>
 <p>Your Obedient<pb/>
 <lb/>Servants
 <lb/>Leander M. Cox
-<lb/>W<hi rend="sup">m</hi> H. Cord
-<lb/>County attorney.
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Cord,
+<lb/>County attorney,
 <lb/>John M. Harbeson
 <lb/>M. L. Harbeson</p>
-<p>P. S. If you remit mail to clerk of the court J. M. Harbeson Esq.</p>
+<p>P. S. If you remit mail to click of the court J. M. Harbeson Esq -- </p>
 <p><hi rend="underline">L. M. Cox</hi><pb/></p>
-<p>Fleming County
-<lb/>Remission
-<lb/>Refused
-<lb/>Tho E Bramlette
-<lb/><date when="1863">63</date></p>
+<p>Fleming County</p>
+<p>Remission
+<lb/>Refused</p>
+<p>Tho E Bramlette</p>
   </body>
  </text>
 </TEI>

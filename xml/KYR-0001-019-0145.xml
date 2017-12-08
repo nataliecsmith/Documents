@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0145"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,9 +65,9 @@
   <body>
    <p>State of Kentucky,
 <lb/>Campbell County</p>
-<p>Fifty two citizens of this County having organized themselves into a home Guard under the recent act of the General Assembly to be styled the ^Flag Springs^ home Guard <hi rend="str">of</hi> and Said Company having Completed their organzation by ellecting their officers and taken the oath as required by said act -- I F. A Boyd Presiding Judge of the Campbell County Court do certify the above facts and authorize and Consent that arms be immediately issued to said Company as provided by law, Said Company having Executive Bond with ample security for the return of said arms</p>
-<p>Given under my hand on this day <date when="1861-06-14">14th of June 1861</date></p>
-<p><hi rend="underline">F. A.</hi> <hi rend="underline">Boyd</hi> <hi rend="underline">P. J. c. c. c.</hi></p>
+<p>Fifty two citizens of this County having organized themselves into a home Guard under the recent act of the General Assembly to be styled the ^Flag Springs^ home Guard <hi rend="str">of</hi> and said Company having Completed their organzation by ellecting their officers and taken the oath as required by said act -- I F. A Boyd Presiding Judge of the Campbell County Court do certify the above facts. and authorize and consent that arms be immediately issued to said Company as provided by law, said Company having Exectuted Bond with ample security for the return of said arms</p>
+<p>Given under my hand on this <date when="1861-06-14">14<hi rend="sup">th</hi> of June 1861</date></p>
+<p><hi rend="underline">F. A.</hi> <hi rend="underline">Boyd</hi> <hi rend="underline">P. J. c. c c</hi></p>
   </body>
  </text>
 </TEI>

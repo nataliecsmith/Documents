@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0059"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,20 +65,20 @@
   <body>
    <p>Greenville <date when="1864-11-11">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 11.<hi rend="sup">th</hi> 1864</date>
 <lb/>Governor Bramlette,</p>
-<p>The writer who lives a few miles from Greenville is &amp; ever has been a Union Man -- He has two sons in the Federal Army. He writes to complain of the conduct of some of the men calling themselves State Guards under command of Col. P. C Vick</p>
-<p>Some 8 or 10 days ago four of them came to my House -- I was from home, they treated my wife disrepectfully -- took by force my wagon &amp; servant -- ordered him to drive into my best corn &amp; filled the wagon offering no pay therefore -- Now Governor although our crops are very scant and we have not an ear of corn to spare, I would not have regarded this so much if the wrong had stopped here -- I have a favorite servant man (my only ones) who has a wife and two children belonging to me -- One of the party named Drerren pursued and caught my servant woman and despite her resistance committed violence on her. The poor woman<pb/>
-<lb/>and her husband, who I believe are faithful to one another have been greatly distressed and outraged, and I as their protector feel deeply injured -- I can look for no protection or redress from the officers in command, for it is the general opinion they are ineficient and cannot keep their men in order. Some of the men I believe wished to behave rightly -- they say they have received no pay, and have been living on the country -- The citizens have contributed some money to support them, and to keep them from starving.</p>
+<p>The writer who lives a few miles from Greenville is &amp; ever has been a Union man -- He has two sons in the Federal Army. He writes to complain of the conduct of some of the men calling themselves State Guards under command of Col. P. C Vick</p>
+<p>Some 8 or 10 days ago four of them came to my House -- I was from home, they treated my wife <hi rend="str"><unclear/></hi>disrespectfully -- took by force my wagon &amp; servant -- ordered him to drive into my best corn &amp; filled the wagon offering no pay therefor -- Now Governor although our crops are very scant and we have not an ear of corn to spare, I would not have regarded this so much if the wrong had stopped here -- I have a favorite servant man (my only one) who has a wife and two children belonging to me -- One of the party named Dre<unclear>rr</unclear>en pursued and caught my servant woman and despite her resistance committed violence on her. The poor woman<pb/>
+<lb/>and her husband, who I believe are faithful to one another have been greatly distressed and outraged, and I as their protector feel deeply injured -- I can look for no protection or redress from the officers in command, for it is the general opinion they are ineficient and cannot keep their men in order. Some of the men I believe wished to behave right -- they say they have received no pay, and have been living on the country -- The citizens have contributed some money to support them, and to keep them from starving.</p>
 <p>Now Governor, I think you ought to send an<hi rend="str">d</hi> agent down to enquire into the conduct &amp; value of there Troops -- If they are State Troops to putting on the proper footing by paying them something -- for many of their families are in want --  -- and appointing a paymaster to pay their way -- </p>
 <p>Please do not let it be known that I have written the above, as private injury might be inflicted on me, but for the truth of what I have written, make inquiry of all good men here. -- </p>
-<p>Respectfully
+<p>Respectfully.
 <lb/>H. H Martin<pb/></p>
 <p>Head Qrs. Ky. St. Guard.
 <lb/>Greenville Muhlenburg Co. Ky
 <lb/><date when="1864-11-11">November 11 -- 1864</date>.<figure type="hr"/>
 <lb/>Martin H. H.<figure type="hr"/></p>
-<p>Complains of the conduct of some state Grd. troops under the command of Col. Vick they took from him a wagon load of Corn -- insulted his wife, and violated his negro woman<figure type="hr"/></p>
+<p>Complains of the conduct of some state Grd. troops under the command of Col. Vick they took from him a wagon load of corn- insulted his wife, and violated his negro woman<figure type="hr"/></p>
 <p>An<hi rend="underline"><hi rend="sup">s</hi></hi> <date when="1864-11-15">Nov. 15. 1864</date> on Letter book B. P. 135 -- <figure type="hr"/>
-<lb/>R. I. G. O. <date when="1864-11-14">Novr. 14 -- 64</date></p>
+<lb/>R. I. G. O. <date when="1864-11-14">Novr. 14 64</date></p>
   </body>
  </text>
 </TEI>

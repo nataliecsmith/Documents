@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0107"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,35 +63,33 @@
  </teiHeader>
  <text>
   <body>
-   <p>71
-<lb/>Head quarters 71<hi rend="sup">st</hi> Regt. Ky. E. M.
-<lb/>Geenville Muhlenurg County, Ky.
+   <p>Heade quarters 71<hi rend="sup">st</hi> Regt, Ky. E, M,
+<lb/>Geenville Muhlenburg county, Ky.
 <lb/><date when="1864-05-23">May the 23<hi rend="sup">d</hi> 1864</date>
-<lb/>Govornor Thos. E. Bramlett</p>
-<p>Sir I have the honor to Report To you that on the <date when="---14">14<hi rend="sup">th</hi></date> I Recevd orders from Gen John. Boyle to Comend Recruiting one company In my Regimental district In compliance with your Excelencys call for ten thousand Troops for Six months Serveses, I. acordingly, accepted the order and comend, making arangements to Recruit Recruted a few men the day I Receivd orders</p>
-<p>On Monday the <date when="---14">14</date> our town was Invaded. By thirty guirilars of Gen. Morgans, camd, I. Iincdiatly Turnd out. Sixty. <hi rend="str">of</hi>men of my Regt. I could not Raise But 36. guns of which their was not more than 10 Efective Guns with But litel ammunition I persud. the guirilars from muhlenburg through the counties of Hopkins, webster Henderson union and drove them Into critenden. I was unable to get any assitance from the malitia of this counties after persons the guirilars untill my men and horses was Broke down and finding it imposible to overtake His Enemy<pb/>
-<lb/>I Returned to madisonville their orderd my men to Greenvill theire to disband and return to their homes at madisonvill I Joind in with a company of the 35<hi rend="sup">th</hi> Ky Mtd. Inf. to persue the guirilars after traveling out Some ten or twelve miles the comander Received. orders to quit the persuit and I Returnd home</p>
-<p>I will doo all that is in my power to Recruite a full company though It Is very dificult to Rais men here from the Exposed. condition It places Recruites. In. By Endangering then. to capture and abuse from thoes Thieving Bands That continually Infest our country and now we are more Exposed than we have Ever Bin here Before</p>
-<p>I have allways Bin able to By ammunition untill now their is no ammunition In this section and we cant get any Braught In to our Relief</p>
-<p>Therefore without guns and amunition We are defenceless and have to Bear the murderous Insults of ther assasins</p>
-<p>Sir If I had from three to five hundred good Guns with a good Suply of ammunition we could and would keepe our country clear of the Enemy the militia of Muhlenburg is all ways Ready and Willing to turn out<pb/>
-<lb/>In the defence of their homes, and ar willing to asist our neighboring counties, If thoes counties would turn out with us, But they will not asist us for I have Earnestly apeald <hi rend="str">th</hi> to comanders of the counties wher I have Scouted and Every apeal has Bin treated withe contemptions In difference, my men often Insulted and discorouged through I would Say to the credit of Some of the Sitizens of madisonvill a few Greeted my worn out men with a kindeness that characterizes, a loyal civilized people. without the aide of the militia of other counties I cannot drive the guirilars from a country, Where they ar harbord, aided, and comforted, without the asistance of thoes whoo well know the hiding places of the marauders</p>
-<p>The malitia of Every county Should assist Each other By a mutual cooporation with Each other from this fact the guirilars Never dare to make any Stand at all In my district for as soon as they Invad olde Muhlenburg her Loyal Sons ar In hot chace after then and By the time that I can organize a suficent comapny to persen. them they ar out of my district and If was to adopt the cowardly, or, disafected policy of my adjoining counties It would Be Beter not to offer Resistence<pb/>
-<lb/>To the Enemy and Let there pilage at their own will</p>
-<p>as long as other counties Refuse or fail to assist us our labour Is in vain of no Efect and unless the militia and the officers of the militia ar compleled to help to defend their selves the orders of the law is of ours. Efect</p>
-<p>If It is necesary that Muhlenburg county Shall defend those counties Bordering on her, I would Suggest to your Excelencys Honor that <hi rend="str">he</hi> The Loyal Enrolled Militia of Should Be well armd and properly mustered in to the state Servis So that when the guirilars Invades us we can turn out a Suficient, no, of men to kill capture or drive then out and when they are drove out let our men Return to their houses and Receive the pay that would Be justly due to them for the time that they was in actual Serves &amp; <unclear/></p>
-<p>Sir I would Say to you that I feel anxious to know wheither. It will meete with your aprooval for me to have the com,d, That your most devoted friendes has so Earnestly petitiond your Excelency to confer upon me I would say to you that I am not only willing But anxious to Serve my Bleeding country In the maner that would Be Best calculated to ReEnstall her to her former prosperity and glory</p>
-<p>Sir, I, Remain, your most obedt. Servant Sebastian. C. Vick<figure type="hr"/>
-<lb/>Col comdg. The 71<hi rend="sup">st</hi> Regt Ky. E. M.<pb/></p>
+<lb/>Govornor Thos, E, Bramlett</p>
+<p>Sir I have the honor to Report To you that on the <date when="1864-05-14">14<hi rend="sup">th</hi></date> I Receivd orders from Gen John, Boyle to Comence Recruiting one company In my Regimental district <hi rend="str">to</hi>In compliance with your Excelencys call for ten thousand Troops for Six months Serveses, I, acordingly, accepted the order and comenc,d, making arangements to Recruit Recruted a, few, men the day I Receivd orders</p>
+<p>on Monday the <date when="1864-05-14">14</date> our Town was Invaded. By thirty guirilars Of Gen. Morgan,s, com,d, I, Imediatly Turnd out. Sixty, <hi rend="str">of</hi>men of my, Regt, I coul,d, not Raise But 36, guns of which their was not more than 10 Efective Guns with But litel amunition I persu,d, the guirilars from muhlenburg through the counties of Hopkins, webster Henderson union and drove them, Into. critenden, I was unable to get any assitance from the malitia of thes counties after persuing the guirilars untill my men and horses was Broke down and finding It imposible to overtake the Enemy<pb/>
+<lb/>I Returned to madisonvill their orderd my men to Greenvill theire to disband and Return to their homes at madisonvill I Joind in with a company of the 35<hi rend="sup">th</hi> Ky Mtd. Inf. to persue the guirilars after traveling out Som ten or twelve miles the comander Receiv,d, orders to quit the persuit and I Returnd hom</p>
+<p>I will doo all that Is in my power to Recruite, a, full company though It Is very dificult to Rais men here from the Expose,d, condition It places Recruites, In. By Endangering them. to capture and abuse from thoes Thieving Bands That continuely Infest our country and now we are more Exposed than we have Ever Bin here Before</p>
+<p>I have allways Bin able to B<hi rend="str">uy</hi>y amunition untill now their Is no ammunition In this Section and we, can,t, get any Braught In to our Reliefe</p>
+<p>Thirefore without guns and amunition We are defenceless and have to Bear the murderous Insults of thes assasins</p>
+<p>Sir If I had from three to five hundred good Guns with a good Suply of amunition we could and would keepe our country clear of the. Enemy the Militia of Muhlenburg is all ways Ready and Willing to turn out<pb/>
+<lb/>In the defence of their homes, and ar willing to asist our neighboring counties, If thoes counties would turn out with, us,</p>
+<p>But they will not, asist us for I have Earnestly apeald <hi rend="str">th</hi> to the comanders of the counties wher I have Scouted and Every apeal has Bin treated withe contemptous In difference, my men often Insulted and discorouged through I would Say to the credit of Some of the Sitizens of madisonvill a few Greeted my worn out men with, a, kindeness that characterizes, a loyal civilized people. Without the aide of the militia of other counties I cannot drive the guirilars from, a, country, Where they ar harbord, aided, and, comforted, without the asistance of thoes whoo well know the hiding places of the marauders</p>
+<p>The malitia of Every county Should assist Each other By a mutual cooporation with Each other from this fact the guirilars never dare to make any Stand at, all. In my district for as Soon as they Invad olde Muhlenburg her Loyal Sons ar In hot chace after then and By the time that I can organize a suficent company to persue, them they ar out of my district and, If. was to adopt the cowardly, or, disafected policy of my adjoining counties It would Be Beter not to offer Resistence<pb/>
+<lb/>To the Enemy and Let them pilage at their own will</p>
+<p>as long as other counties Refuse or fail to assist us our labour Is in vain of no Efect and unless the Militia and the officers of The Militia ar compell,d to help to defend their Selves the orders of the law Is of no, Efect</p>
+<p>If It is necesary that Muhlenburg county Shall defend thoes counties Bordering on her, I, would Suggest to your Excelencys Honor that her<hi rend="str">he</hi> Loyal Enroll,d, Militia <hi rend="str">of</hi> Should Be well arm,d, and properly mustered In to the State Servis So that when the guirilars Invades us We can turn out a Suficient no. of men to kill capture or drive them out and when they are drove out let our men Return to their houses and Receive the pay that Would Be justly due to them for the time that they was in actual Servis &amp; <unclear/></p>
+<p>Sir I would say to you that I feels anxious to know Wheither, It will meete with your aprooval for me to have the com,d, That your most devoted friendes has So Earnestly petitiond your Excelency to confer upon me I would Say to you that I am not only willing But anxious to Serve my Bleeding country In the maner that would Be Best calculated to ReEnstall her to her former prosperity and glory</p>
+<p>Sir, I, Remain, your most obed,t, Servant Sebastian, C. Vick col comd,g, the 71<hi rend="sup">st</hi> Regt Ky. E. M,<pb/></p>
 <p>Ky State Militia
 <lb/>Greenville Muhlenburg Co. Ky<figure type="hr"/>
-<lb/>Vick Sebastian V. Vol
-<lb/>comdg. 71. Reg E. M.</p>
-<p>Gives an account of his expedition against Guerillas -- and also of the Militia of <unclear/> neighboring counties wants ammuntions &amp;c<figure type="hr"/></p>
-<p>Answered <date when="1864-06-04">June 4- 1864</date>
+<lb/>Vick Sebastian C. Col Comdg. 71. Reg E. M.</p>
+<p>Gives an account of his expedition against Guerrillas-- and also of the Militia of <unclear>sevel</unclear> neighboring counties wants ammuntion &amp;c<figure type="hr"/></p>
+<p>Answered <date when="1864-06-04">June 4. 1864</date>
 <lb/>See letter book Page 361
-<lb/>Refered by the Gov<figure type="hr"/>
-<lb/>Rec. I. G. O. <date when="1864-06-04">June 4 -- 1864</date></p>
+<lb/>Refered by the Gov<figure type="hr"/></p>
+<p>Rec. I. G. O. <date when="1864-06-04">June 4-- 1864</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0023"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,17 +64,17 @@
  <text>
   <body>
    <p>Waynesburg <date when="1862-11-13">nov 13<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
-<lb/>To the Military Govner of the State of Ky
+<lb/>To the Military Govner of the state of Ky
 <lb/>Dear Sir</p>
-<p>I want the permission from you to make up a company of 60 men in the county of Lincoln and State of Kentucky my object is to put down theiving tha are braeking in to Stores in this place and Kneghbours Houses and stealing negroes and in fact all kind of depedatians now i prpose to have these men A<unclear/> and we dont want to ta<hi rend="str">k</hi>x the Goverment with Horses <hi rend="str">will</hi> We will ride our on when Nessesary but we would properly want Some guns and ammunition and i would Like for your Honor to instruct me what to do and how to manage the cause if you permit me to Rais said company if i rais Said company it will be of old men and <unclear/> and can get them in 24 Hours please to me a mediately Respectfully your obediant servant</p>
+<p>I want the permushion from you to make up a company of 60 men in the county of Lincoln and state of Kintucky my object is, to put down theeving tha are braeking in to stores, in this, place and Kneghbours, Houses, and stailing negroes, and in fact all Kind of depedatians, now i prpose to have these men <hi rend="str"><unclear/></hi>Augurinesed and we dont want to ta<hi rend="str">k</hi>x the Goverment with Horses <hi rend="str">wit</hi> We will ride our on when Nessesary but we would properly want Some guns and ammunition and i would Like for your Honor to in struct me what to do and how to manage the cause if you permit me to Rais said company if i rais said company <hi rend="str">if</hi> it will be of old men. and buoys and i can get them in 24 Hours please to me a mediately Respectfully your obidiant survant</p>
 <p>W. F Camden<pb/></p>
 <p>Waynesburg Ky,
 <lb/><date when="1862-11-13">Nov. 13/62</date><figure type="hr"/>
-<lb/>Camden W. F.<figure type="hr"/></p>
-<p>Authority to raise troops to protect his region.<figure type="hr"/></p>
-<p>military
+<lb/>Camden. W. F.<figure type="hr"/></p>
+<p>Authority to raise troop to protect his region.<figure type="hr"/></p>
+<p>Military
 <lb/>W F Camden</p>
-<p><unclear/> asked to raise men in Lincoln</p>
+<p>Leave asked to raise men in Lincoln</p>
 <p>W. F. Camden</p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0260"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,22 +63,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>Princeton Ky <date when="1863-11-28">Nov 28 1863</date>.
-<lb/>Thos E Bramlett
+   <p>Princeton Ky <date when="1863-11-28">Novr 28. 1863</date>.
+<lb/>Tho<hi rend="sup">s</hi> E Bramlett
 <lb/>Gov of Ky."
 <lb/>Dear Sir.</p>
-<p>Not having any acquaintance and having a little business officially would state to you that at the <date when="--11">November Term</date> of our Caldwell Circuit Court I was fined $10. &amp; cost for gaming, the truth is there was several of us in together, and myself and one other was all that was indicted or fined we were not really playing for any thing, only what a man might eat and drink for instance a game of euchre, and the person beat saw proper to treat he did so if not he did not I think we were presented an account of some impartialty in the matter perhaps some one was sitting bye at the time outsider &amp; did not understand the matter." I live in the country &amp; just came to town &amp; got into the game not in the habbitt of playing often." there fore I hope and trust you will remit my fine of $10. and in so doing you will</p>
-<p>oblige &amp;c -- 
+<p>Not having any acquaintances and having a little business officially would state to you that at the <date when="--11">November Term</date> of our Caldwell Circuit Court I was fined &#36;10. &amp; cost for gaming, the truth is there was several of us in together and myself and one other was all that was indicted or fined we were not really playing for any thing, only what a man might eat and drink for instance a game of euchre, and the person beat saw proper to treat he did so if not he did not I think we were presented an account of some impar^t^ialty in the matter perhaps some one was sitting bye at the time outsider &amp; did not understand the matter." I live in the country &amp; just came to town &amp; got into the game not in the habbit of playing often." there fore I hope and trust you will remit my fine of &#36;10, and in so doing you will</p>
+<p>oblige &amp;<hi rend="sup">c -- </hi>
 <lb/>J W Wylie</p>
 <p>I believe the statements as made by Mr ^Wylie^ to be true as he is a man of good standing &amp; reputation</p>
-<p>W E <unclear>Mitchersson</unclear>
-<lb/>D C Caldwell Co Court Ky<pb/></p>
-<p><date when="1863-12-03">Dec 3<hi rend="sup">rd</hi> 63</date>
-<lb/>Refused
-<lb/>Tho E Bramlette
-<lb/>Ans<hi rend="sup">d</hi>
-<lb/><date when="1863-12-05">5<hi rend="sup">th</hi> Dec/ 63</date>
-<lb/>Caldwell County</p>
+<p>W E Mitchusson
+<lb/>D C c<hi rend="str">l</hi>aldwell Co court Ky<pb/></p>
+<p><date when="1863-12-03">Decr 3<hi rend="sup">d</hi> 63</date>
+<lb/>Refused</p>
+<p>Tho E Bramlette</p>
+<p>Ans<hi rend="sup">d</hi>
+<lb/><date when="1863-12-05">5<hi rend="sup">th</hi> Dec/63</date>
+<lb/>Caldwell
+<lb/>County</p>
   </body>
  </text>
 </TEI>

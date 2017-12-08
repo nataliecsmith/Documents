@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0053"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,26 +63,27 @@
  </teiHeader>
  <text>
   <body>
-   <p>Mt Vernon Ky
-<lb/><date when="1863-09-14">Sept 14<hi rend="sup">th</hi> 1863</date>.
+   <p>M<hi rend="underline"><hi rend="sup">t</hi></hi> Vernon Ky
+<lb/><date when="1863-09-14">Sept 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.
 <lb/>Gov Bramlette.</p>
-<p>D<hi rend="sup">r</hi> Sir Your petitioner Albert Owens, would most Respectively state that at the last <date when="--08">August</date> term of the Rockcastle circuit court, he was fined for gaming &amp;c He would state that last fall while Kirby Smith had invaded Ky. he with his neighbor boys was lying out watching the rebels pass. and while thus engaged, and to pass off time <hi rend="str">we</hi> concluded to take a game at cards and to make it more interesting bet 5.cts a game. at court following one of the party was called before the grand Jury, an indictment was gotten, when called in court we confessed Judgement, we didnt think at the time of playing of violating law, your petitioner is a poor man &amp; a little fine falls heavily upon ^him^ therefore he would most Respectfully ask your Honor to remit his fine, and he promises that he has played his last game for anything of value;</p>
-<p>Most Respectfully Albert Owens.</p>
-<p>We the undersigned hope you will remit M<hi rend="sup">r</hi>. Owens fine</p>
-<p>M J Cook
-<lb/>W. M. Fish ck of the Rockcastle County Court 
-<lb/>Edwin Shiver<pb/></p>
+<p>D<hi rend="underline"><hi rend="sup">r</hi></hi> Sir Your petitioner Albert Owens, would most Respectively state that at the last <date when="--08">August</date> term of the Rockcastle Circuit Court, he was fined for gaming, &amp;c He would state that last fall while Kirby Smith had invaded Ky. he with his neighbors boys was lying out watching the rebels pass. and while thus engaged, and to pass off time <hi rend="str">we</hi> concluded to take a game at cards and to make it more interesting <hi rend="str"><unclear/></hi> bet 5. cts a game. at court following one of the party was called before the grand Jury, an indictment was gotten. when called in court we confessed Judgement, we did'nt think at the time of playing of violating law, Your petitioner is a poor man &amp; a little fine<hi rend="str">d</hi> falls heavily upon ^him^ therefore he would most Respectfully ask your Honor to remit his fine, and he promises that he has played his last game for anything of value;</p>
+<p>Most Respectfully
+<lb/>Albert Owens.</p>
+<p>We the undersigned hope you will remit M<hi rend="underline"><hi rend="sup">r</hi></hi> Owen<hi rend="underline"><hi rend="sup">s</hi></hi> fine</p>
+<p>M J, Cook
+<lb/>W, M, Fish ck of the Rockcastle County Court 
+<lb/>Edwin Shivel<pb/></p>
+<p>Albert Owens of Rock Castle fined for gaming prays Remission does not give the date of Judgt nor Am<hi rend="underline"><hi rend="sup">t</hi></hi> <date when="1863-09-19">Sept 19<hi rend="sup">th</hi> 1863</date>.</p>
+<p>T E Bramlette</p>
+<p>Ans<hi rend="sup">d</hi> <date when="1863-09-19">19<hi rend="sup">th</hi> Sept 1863</date></p>
+<p>Remit all except costs &amp; fees</p>
+<p>T E Bramlette</p>
 <p>Rockcastle Cir
 <lb/>vs
 <lb/>Albert Owens
-<lb/>$20 -- 
-<lb/>Gaming</p>
-<p><date when="1863-10-08">8th Oct/ 63</date></p>
-<p>Albert Owens of Rock Castle fined for gaming prays Remission does not give the date of Judgt nor Am<hi rend="sup">t</hi> <date when="1863-09-19">Sept 19<hi rend="sup">th</hi> 1863</date>.</p>
-<p>TE Bramlette</p>
-<p>Ans<hi rend="sup">d</hi> <date when="1863-09-19">19<hi rend="sup">th</hi> Sept 1863</date></p>
-<p>Remit all except costs &amp; fees
-<lb/>T E Bramlette</p>
+<lb/>&#36;20 -- 
+<lb/><hi rend="str">T</hi>Gaming
+<lb/><date when="1863-10-08">8<hi rend="sup">th</hi> Oct/63</date></p>
   </body>
  </text>
 </TEI>

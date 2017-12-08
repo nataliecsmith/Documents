@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1401"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">R. F. Stine et al. to Charles S. Morehead</title>
+    <title level="a" type="main">Riley F. Stone et al. to Charles S. Morehead</title>
     <title level="a" type="parallel">CWG10869</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,145 +62,147 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hon. C. S. Morehead Governor of Kentucky.</p>
-<p>We The undersigned citizens of Marshall County respectfully represent to your Excellency that the case of our fellow citizen John H. Dix is one of those hardships under the law which can only be relieved by and through the exercise of your executive clemency, and which we, -- knowing <hi rend="underline">all</hi> the various circumstances attending the case &amp; too numerous to be stated in detail -- know and represent to be one that does in truth &amp; Justice &amp; right need and require the aid of the executive clemency. Said John H. Dix, at the <date when="1858-03">March Term 1858</date> of the Marshall Equity and Criminal Court, was fined fifty dollars upon a charge of selling spiritous liquors to a slave the property of John L. Burradell without a written ^order^ from the owner &amp;c of said slave. Written orders from said Burradell signed by him were produced at the trial, but not being dated were held inadmissable under the act of <date when="1856-02-27">February 27, 1856</date>, Session Acts 1855 -- 6. Vol. 1. p. 42. which requires the order to be also dated, The other requisitions of the act were complied with, We therefore pray for the remission of said fifty dollars fine.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/> R. F. Stine
-<lb/>J. C. Gilbert
-<lb/>C. E. Miller
-<lb/>R. M. Caine
-<lb/><cb n="2"/>S. P. Ezell
+   <p>Hon. C, S. Morehead Governor of Kentucky.</p>
+<p>We The undersigned citizens of Marshall County respectfully represent to your Excellency that the case of our fellow citizen John H. Dix is one of those hardships under the law which can only be relieved by and through the exercise of your executive clemency. and which we, -- knowing <hi rend="underline">all</hi> the various circumstances attending the case &amp; too numerous to be Stated in detail -- know and represent to be one that does in truth &amp; Justice &amp; right need and require the aid of the executive clemency. Said John H. Dix, at the <date when="1858-03">March Term 1858</date> of the Marshall Equity and Criminal Court, was fined fifty dollars upon a charge of Selling Spiritous liquors to a slave the property of John L. Burradell without a written ^order^ from the owner &amp;c of said slave. Written orders from Said Burradell signed by him were produced at the trial, but not being dated were held inadmissable under the act of <date when="1856-02-27">February 27, 1856</date>, Session Acts <date when="1855">1855</date> -- <date when="1856">6</date>. Vol. 1. p. 42. which requires the order to be also dated. The other requisitions of the act were complied with, We therefore pray for the remission of said fifty dollar fine.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/> R. F, Stone
+<lb/>J, C. Gilbert
+<lb/>C. E Miller
+<lb/>R.. M, Cain
+<lb/><cb n="2"/>S. D. Ezell
 <lb/>W. downing
-<lb/>L. S. Locker
-<lb/>M. C. Acher
-<lb/>Bas. Holland
+<lb/>L, S, Locker
+<lb/>M. C. Archer
+<lb/>Bas, Holland
 <lb/>J K Baker<pb/>
-<lb/><cb n="1"/> G. B. Dunn
-<lb/>William Ethridge
+<lb/><cb n="1"/> G,, B, Dunn
+<lb/>William Etheridge
 <lb/>A G Johnston
 <lb/>D, C, Cook
-<lb/>Geo. R. R. Nelson
+<lb/>Rev R R, Nelson
 <lb/>Elisha Grady
 <lb/>Caleb Lindsay
 <lb/>John, Bridgeman,
 <lb/>Martin Lindsay
 <lb/>W, K, Lindsay
-<lb/>G. P. Ferrell
+<lb/>G, P. Ferrell;
 <lb/>William Lindsay
 <lb/>James, M, Cox
 <lb/>Daniel Cross
-<lb/>R Lindsay
-<lb/>A. J. Downing
+<lb/><unclear>N</unclear> Lindsay
+<lb/>A, J, Downing
 <lb/>W, B, Clay
-<lb/>J. L. Culp
-<lb/>Jno. P. Locker
+<lb/>J L, Culp
+<lb/>Jno, P, Locker
 <lb/>David Walker
 <lb/>Wm A Tinnin
 <lb/>B, C, Cooper Juror
 <lb/>James Burnham
-<lb/><unclear/> H Cook
-<lb/>R. F. gregory
+<lb/>J. H Cook
+<lb/>R, F, Gregory
 <lb/>T. E. Gregory
 <lb/>W H Yancy
-<lb/>Joel Terrell
-<lb/>Rev <unclear/> H. Dorington
+<lb/>Joel, Terrell,
+<lb/>Rev W<hi rend="underline"><hi rend="sup">m</hi></hi> H, Dorington
 <lb/>Rev J, R, B, Watkins
-<lb/>P. L. Heath
-<lb/>A. W. Thomas
-<lb/>J. W. Fields
-<lb/><cb n="2"/>Rev. C. C. Coulter
-<lb/>W. S. Wyatt
-<lb/>C. P. Rudolph.
-<lb/>W. J. byers J. P. 
+<lb/>P, J, Heath
+<lb/>A. W. Thomas,
+<lb/>J, W, Fields
+<lb/><cb n="2"/>Rev C. C. Coulter-
+<lb/>W, S, Wyatt
+<lb/>C. J. Rudolph.
+<lb/>W J lyons J. P. 
 <lb/>P. V. Hendricks
-<lb/>L. Sainor
-<lb/>W. H. Gray
-<lb/>M D Gowen
+<lb/>L, Sainor
+<lb/>Wm H Gray
+<lb/>M D <unclear>Gouren</unclear>
 <lb/>M Dunn
-<lb/>C C Dorrah
+<lb/>C C Dorroh
 <lb/>S. M. Lindsey
-<lb/>G. W. Slaughter
-<lb/>A. Hasting
-<lb/>A. M. Derrington
-<lb/>Ja<hi rend="sup">s</hi>. P. Locker
+<lb/>G W Slaughter
+<lb/>A, Hasting
+<lb/>A, M. Derrington
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> S, Locker
 <lb/>P Mullins
 <lb/>W. Good
-<lb/>E. Caldwell
+<lb/>E, Caldwell
 <lb/>C Lindsey
-<lb/>B. F. Thomas
+<lb/>B, F, ThomaS
 <lb/>Thomas Fields
 <lb/>James. Downing.
 <lb/>John Jones
 <lb/>J L Burradell
-<lb/>(owner of the Slave)
-<lb/>Goe, W, Wyath,
+<lb/>owner of the Slave
+<lb/>Goe, W, Wyatts,
 <lb/>Jesse Bell
 <lb/>Wm Washburn
 <lb/>D. M. C. Jordan
 <lb/>P G Henson
 <lb/>T. S. hendrix
-<lb/>Wm Nelson
-<lb/>J W Whitnell<milestone unit="column" n="1"/><pb/>
+<lb/>Wm M Nelson
+<lb/>J W Whitnel<milestone unit="column" n="1"/><pb/>
 <lb/>Ridley Morgan
 <lb/>J. Boden
 <lb/>E. H. Pace
-<lb/>J. T. Pace
+<lb/>J, T, Pace
 <lb/>J. E. Ford
 <lb/>G. B. Roberts jr
 <lb/>A G Gilbert
-<lb/>Geo. M<hi rend="underline"><hi rend="sup">c</hi></hi>Meanors
-<lb/>N. B. Roark
-<lb/>J. W. Pierson
-<lb/>J. H. Riley
+<lb/>Geo. M<hi rend="underline">c</hi>.Manus
+<lb/>N. B. Roach
+<lb/>J, W, Pierson
+<lb/>J H. Riley
 <lb/>John Johnston
-<lb/>W W Hilkinson
-<lb/>B H Peck
+<lb/>W W Wilkinson
+<lb/>B F Peck
 <lb/>R Rowland
 <lb/>R. M. Clark
 <lb/>G B Roberts Senr
-<lb/>James H Layne
+<lb/>James H <unclear>Layne</unclear>
 <lb/>W, W, Strow
 <lb/>Jas R Wilson
 <lb/>John. W. Brandon<pb/>
-<lb/>J. H. Hamilton
-<lb/>G S Jones
-<lb/>J. M. <unclear/>
-<lb/>R. K. Sherman
-<lb/>W. Story, Jr
-<lb/>F. J. Salle
+<lb/>J, H, Hamelton
+<lb/>G. S Jones
+<lb/>J M. <unclear>Rowatine</unclear>
+<lb/>R, K Thomas
+<lb/>W<hi rend="sup">m</hi> Story Jr
+<lb/><unclear>F.</unclear> J Salle
 <lb/>Saml Duncan
-<lb/>G W Walker
-<lb/>J. T. Bush
+<lb/>J M ,Walker
+<lb/>J, T, Bush
 <lb/>Samuel Cox
-<lb/>H. M. Stice
-<lb/>James Davis
-<lb/>J. Finch
-<lb/>J J Dearest
+<lb/>H, M, Stice
+<lb/>James, Davis,
+<lb/>J, Finch
+<lb/>J J, Dearest
 <lb/>J R Covington
 <lb/>Rev James Lindsay, sen
-<lb/>Thom. Lindsay
-<lb/>Rich<hi rend="sup">d</hi>. Straton
-<lb/>W. <unclear/> Flora
+<lb/>James Lindsay jr
+<lb/>Rich<hi rend="sup">d</hi>. Stratton
+<lb/>W, <unclear>M</unclear> Flora
 <lb/>William Downing J P
-<lb/><unclear/> Young
-<lb/>R S, Stone
+<lb/>John Young
+<lb/>R, S, Stone
 <lb/>A T Cox
-<lb/>A. B. King
-<lb/>N. A. Washington
+<lb/>A, B, King
+<lb/><unclear/> A. Washington jr
 <lb/>James Brien
-<lb/>Casey,, P,, Brein
+<lb/><unclear>Benj</unclear>,, P,, Brien
 <lb/>C J Stahl
 <lb/>John Fields Sen
-<lb/>A. M. Covington
+<lb/>A, M, Covington
 <lb/>Jas H Brian
-<lb/>G. Washburn
-<lb/>J. E. Wolfe</p>
+<lb/>G, Washburn
+<lb/>J, E, Wolfe</p>
 <p>Marshall Co
-<lb/>John H. Dix
-<lb/>$50 
-<lb/>Respite for five months
-<lb/>Jn<hi rend="sup">o</hi>. Q. A. King<figure type="hr"/>
-<lb/><date when="1858-05-22">22 May 1858</date>
-<lb/>Remitted B. M. 
+<lb/>John H. Dix</p>
+<p>&#36;50 </p>
+<p>Respite for five months
+<lb/><hi rend="underline">Jn</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> Q. A. King</hi></p>
+<p><date when="1858-05-22">22 May 1858</date></p>
+<p>Remitted
+<lb/>B. M.
+<lb/> 
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-09-16">Sept 16, 1861</date></p>
   </body>
  </text>

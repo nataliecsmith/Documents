@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0031"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">John G. Foster, Special Field Orders, No. 114</title>
+    <title level="a" type="main">J. T. Anderson, Special Field Orders, No. 114</title>
     <title level="a" type="parallel">CWG11582</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,14 +67,14 @@
 <lb/>Knoxville, East Tennessee, <date when="1863-12-22">Dec<hi rend="sup">r.</hi> 22<hi rend="sup">d</hi> 1863</date>
 <lb/>SPECIAL FIELD ORDERS,
 <lb/>No. 114</p>
-<p><hi rend="underline">5</hi>,, ,, ,, ,, The resignation of Capt. <hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> Perkins</hi> Co "C" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav<hi rend="sup">y</hi>, tendered on account of physical disability, is hereby accepted to take effect <date when="1863-12-25">Dec<hi rend="sup">r.</hi> 25<hi rend="sup">h</hi> 1863.</date> any balance of pay due him at that time, will be suspended, until satisfatory evidence is furnished to the <hi rend="underline">Paymaster</hi>, that he is not indebted to the U. S. Gov<hi rend="sup">t</hi>.</p>
-<p>By Order of Major General <hi rend="str">Burnside</hi> Foster.</p>
-<p>J T Anderson
+<p><hi rend="underline">5</hi> ,, ,, ,, ,, The resignation of Capt. <hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> Perkins</hi> Co "C" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav<hi rend="sup">y</hi>, tendered on account of physical disability, is hereby accepted to take effect <date when="1863-12-25">Dec<hi rend="sup">r.</hi> 25<hi rend="sup">th</hi> 1863</date>, any balance of pay due him at that time, will be suspended, until satisfactory evidence is furnished to the <hi rend="underline">Paymaster</hi>, that he is not indebted to the U. S. Gov<hi rend="sup">t</hi>.</p>
+<p>By Order of Major General <hi rend="str">Burnside.</hi> Foster.
+<lb/>J T Anderson
 <lb/><hi rend="str">Assistant Adjutant General.</hi> 
-<lb/>Major &amp; A. D. C.</p>
-<p>1.2.3.4.
-<lb/><figure type="hr"/><date when="1863-08-18">Aug 18. 1863</date><figure type="hr"/></p>
-<p>Gov<hi rend="sup">r.</hi> Ky<pb/></p>
+<lb/>Major &amp; A. D. C</p>
+<p>1. 2. 3. 4.<figure type="hr"/>
+<lb/><date when="1863-08-18">Aug 18. 1863</date><figure type="hr"/></p>
+<p>Gov<hi rend="sup">r</hi> Ky<pb/></p>
 <p>1 Cav<hi rend="sup">y</hi><figure type="hr"/>
 <lb/>Capt. Perkins<figure type="hr"/>
 <lb/>Resig:<figure type="hr"/>

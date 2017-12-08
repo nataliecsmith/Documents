@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1521"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">R. H. Allen to Nathaniel Gaither</title>
+    <title level="a" type="main">B. H. Allen to Nathaniel Gaither</title>
     <title level="a" type="parallel">CWG10989</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,12 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington Ky <date when="1861-11-18">November 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+   <p>Lexington Ky <date when="1861-11-18">November 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1861.</date>
 <lb/>Hon Nathaniel Gaither:
 <lb/>Secretary of State;</p>
-<p>Dear Sir, Accompanying this I send the Governor a petition to remit a fine inflicted in the Bourbon Circuit Court against Robert H Thompson of Our City -- The Governor through his Clemency, respited this fine in <date when="1860-10">October -- 60.</date> Thompson is a poor man, and it would be a great hardship for him to pay a fine of $75<hi rend="underline"><hi rend="sup">00</hi></hi> -- He has already paid $30<hi rend="underline"><hi rend="sup">00</hi></hi> costs -- The respite has run out, and I trust you will send us a remission immediately -- Direct it to</p>
+<p>Dear Sir, Accompanying this I send the Govenor a petition to remit a fine inflicted in the Bourbon Circuit Court against Robert H Thompson of our city -- The Govenor through his Clemency, respited this fine in <date when="1860-10">October -- 60.</date> Thompson is a poor man, and it would be a great hardship for him to pay a fine of &#36;75<hi rend="underline"><hi rend="sup">00</hi></hi> -- He has already paid &#36;30<hi rend="underline"><hi rend="sup">00</hi></hi> costs -- The respite has run out, and I trust you will send us a remission immediately -- Direct it to</p>
 <p>Yours truly 
-<lb/>R H Allen</p>
+<lb/>B H Allen</p>
   </body>
  </text>
 </TEI>

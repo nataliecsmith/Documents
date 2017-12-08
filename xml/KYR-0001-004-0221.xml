@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0221"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,15 +64,15 @@
  <text>
   <body>
    <p>T E Bramlett Gov. of Kentucky</p>
-<p>Your petitioner Edward B Mitchall would state that some time in the month of <date when="1862-10">October 1862</date> James D. Amos I had learned <hi rend="str">there</hi> was engaged with the gurrillas in <unclear>feering</unclear> into the S B Nashville on the Ohio River at whats called Bucks Island abot six miles above Caseyville Union County Ky I charged said Amos with being concerned in the shooting in the boat he cursed me called me a Dam lyar and a dam Linconite I returned the lye in the same language Amos is a large man weighs ovo 200 pounds and overbaring I weigh about 145 pounds Amos drew a pistol on me and shot the ball gowing through my clothes we then clenchid I succeedid in getting his pistol ater he had me down he got off of me as soon as I got the pistol and run I shot at him twice ^one^ of the shots struck him in the back on <unclear>tretched</unclear> his hand it was Amos own pistol I shot him with and the same he fired at the <unclear>passanir</unclear> of the stemer Nashville with I am and always have been a Union man and that was the whole cause of our difficulty said Amos often said he would drive every Union man from his neighorhood<pb/></p>
-<p>The Grand Jury found bills agains myself and Amos and the <date when="--10">October term</date> of the Union Circuit Court I was fined seventy five dollars. All the witnesses were what is call Sothern Simpethisers or Rebills In the part of the county that I reside in there was only three Union men besides myself. And under the circumstances, your petitioner would humbly ask your Excilancy to remit the fine of 75$. Amos was fined the same amount</p>
-<p>E. B. Mitchell</p>
+<p>Your petitioner Edward B Mitchall would state that some time in the month of <date when="1862-10">October 1862</date>, James. D. Amos I had learned <hi rend="str">there</hi> was engaged with the gurrillas in feering into the S B Nashville on the ohio River at whats called Bucks Island Abot six miles above Caseyville Union County Ky I charged said Ames with being concerned in the shooting in the boat he cursed me called me a dam lyar and a dam Linconite I returned the lye in the same language Ames is a large man weighs ovo 200 pounds and overbaring I weigh about 145 pounds Ames drew a pistol on me and shot the ball gowing through my clothes we then clenched I succeedid in gitting his pistol after he had me down he got off of me as soon as I got the pistol and run I shot at him twice ^one^ of the shots struck him in the back on <unclear>tutched</unclear> his hand it was Amos own pistol I shot him with and the same he fired at the passenirs of the stemer Nashville with I am and always have been a Union man and that was the whole Cause of our difficulty Said Ames often said he would drive every Union man from his neighorhood<pb/></p>
+<p>The Grand jury found bills agains myself and Ames and the <date when="--10">October term</date> of the Union Circuit Court I was fined Seventy five dollars. All the witnesses were what is call Sothern Simperthisers or Rebills In the part of the county that I reside in there was only three Union men besides myself. And Under the circumstances, your petitioner would humbly ask your Exclancy to remit the fine of 75&#36;. Ames was fined the same amount</p>
+<p>E B. Mitchell</p>
 <p>Sworn to and subscribed before me this <date when="1863-10-24">24 day of October 1863</date></p>
 <p>Attest
-<lb/>J W Fennie P. J. C.</p>
-<p>We the undersigned Union Men of Union County would respectfully ask the Governor of Kentucky T E Bramlet to remit the fine of seventy five dollars imposed on E B Mitchall at the <date when="--10">October term</date> of said Court we know Mitchall to be a true and loyal man and dont think he should be made pay one cent for shooting Dr. James D Amos. We know Amos and when <hi rend="str">he had his Rebells with him</hi> he is overbaring and very abrusive Further we think Mitchell under the circumstances would have been justifiable had he killed Amos at the time</p>
-<p>We would respectfully ask your exclency to interpose your authority and remit said fine your Respectfully<pb/></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>J W Fennie
+<lb/>J W Finnie P. J. C</p>
+<p>We the undersigned Union Men of Union County would respectfully ask the Governor of Kentucky T E Bramlet to remit the fine of seventy five dollars imposed on E B Mitchall at the <date when="--10">October term</date> of said Court we know Mitchall to be a true and loyal man and dont<hi rend="str">h</hi> think he should be made pay one cent for shooting D<hi rend="sup">r</hi> James D Ames. We know Ames and when <hi rend="str">he had his Rebells with him</hi> he is overbaring and verry abrusive Further we think Mitchell under the circumstances would have been justifiable had he killed Ames at the time</p>
+<p>We would respectfully ask your exclency to interpose Your authority and remit said fine your Respectfully<pb/></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>J W Finnie
 <lb/>J G Burough
 <lb/>G. P. Riggs
 <lb/>James Love
@@ -78,39 +81,39 @@
 <lb/>William Robinson
 <lb/>John Cocker
 <lb/>J J Batey
-<lb/>P. W. Anderson
-<lb/>John Yeakey
-<lb/>J H Carhe
+<lb/>P. W. Anderson.
+<lb/>John York Jr
+<lb/>J H Carlise
 <lb/>D A Burroughs
 <lb/>W<hi rend="sup">m</hi> Harroway
 <lb/>J M Gentery
-<lb/>William Waltserf
+<lb/>William Walker
 <lb/>D Finnie
 <lb/>D J Berry
-<lb/>Jno Moyer
-<lb/>Jerouse A. Gregory
+<lb/>Jno M Dyer
+<lb/>James A. Gregory
 <lb/>W H Cowan
 <lb/>Robert Miller
-<lb/>Jno Bunyer
+<lb/>Jno Burges
 <lb/>Hardin Omer
-<lb/>Danl. A. Brooks
-<lb/><cb n="2"/>T A Buckham
+<lb/>Danl, A, Brooks
+<lb/><cb n="2"/>T A. Buckham
 <lb/>Miles Davis
 <lb/>W H Shook
 <lb/>S Orr
 <lb/>W. C. Metcalfe
 <lb/>John Tate<milestone unit="column" n="1"/></p>
-<p>There is an affidavt filed in my office proving all the statement of E B Mitchell by a man that was with the gurillars at the time of S B Nashville was fired into and a man killed </p>
-<p>Given under my hand as Police Judge of Caseyville Union County Ky
-<lb/>J W Fennie
+<p>There is an affidavt filid in my office proving all the statements of E B Mitchel by a man that was with the gurillars at the time the S B Nashville was fierd into and a Man Killid </p>
+<p>Given under my hand as Police Judge of Caseyville Union County Ky</p>
+<p>J W Finnie
 <lb/>P. J. C<pb/></p>
 <p>Union Cir Ct
 <lb/>vs
-<lb/>E B Mitchell
-<lb/>$75 -- </p>
-<p>Breach of Peace
+<lb/>E. B. Mitchel
+<lb/>&#36;75 -- 
+<lb/>Breach of Peace
 <lb/>Remitted
-<lb/><date when="1863-11-05">5<hi rend="sup">th</hi> Nov/ 63</date></p>
+<lb/><date when="1863-11-05">5<hi rend="sup">th</hi> Nov/63</date></p>
   </body>
  </text>
 </TEI>

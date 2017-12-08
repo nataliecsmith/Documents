@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1566"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,14 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Affiant was at the inquest held over Thomas Estes and Knows there was no contradictons in Sanford Tomlinsons statement, as stated by some at the final trial Knows that Alexander Hamilton was mistaken when he swore that S Tomlinson stated that Tom did not have hold of Charles when he shot him and Givings Toms Bortherinlaw was mistaken when he swore that he stated Charles shot him with a little self cocking pistol that he knew he had such a one Givings asked if it was his opinion Charles shot him The witness stated that he believed Charles had a small self cocking pistol in his pocket and when attacked by Tom pulled it out and attempted to use it as a club and by a punch it went off from a pressure of the finger on the trigger and done the mischief without intending it It was altogether an unfair and confused examination and<pb/>
-<lb/>and is surprising that the witness got through with out apparant contradictions ignorant and unnecessary questions was asked in rapid seccession, and sometimes more than one juror questioning at the same time</p>
-<p>a fact was slicited by a question asked by Plummer, who was not on the jury, and appeared to be an enemy to the witness, which is considered sufficient to have cleared Charles, but appears to have been Kept of view in the subsequent examinations by the cunning of the counsel The question was in these words Look here sir I have a question to ask you did not you sir last night here in the house take the woman by the arm and <unclear>ghirt</unclear> arround and say to her go out of here madam and dont keep such a fuss, it does harm I<hi rend="str">t</hi> remember the answer to this interrogatory The answer was no sir, no sir I done no such thing I would have been a brute to have treated with such <unclear/>, no one was a better friend to Tom than myself and Charls was as good a friend as I was<pb/></p>
-<p>no one sympathised more for the woman an her little children than I did I will tell you what I did do I took hold of the sleeve of the dress and pulled her gently to get her attention and asked her not to take on if she could possibly avoid it then extended my arm over the rest of them and asked them not to take on remarking it was calculated to alarm Tom and do mischief that he was in hopes he would talk if he did wanted them all to hear what he would say beleeved he would tell them he was altogether to blame that all originated f<hi rend="str">o</hi>rom an act of his own folly Affiant Knows there was many contradictory accounts of the affair told by persons that Knew nothing about it The relations of Estes are verry numerous and many of them ignorant and unprincipled, who propagated thousands of lies in relation to it, which was given credence by Sanford Tomlinsons enemies, who are persons considered men of respectability But it is strange it did not occur to the<pb/>
-<lb/>minds of people how they Knew the things they related to be true as no human being was presant but Sanford Tomlinson and there could be no contradictions nor no discrepencies detected in his statement affiant States that Charles Tomlinson has been represented as a verry bad man and a quarrelsome person he can say in truth Charles Tomlinson was a peaceable man as lives or lived in this vicinity and the favorite of the neighborhood affiant believes there is verry few persons of the neighborhood but has knowlege of the above facts, and a great deal more if they would state them He has great reason to believe that there are persons who has Knowledge of facts sufficient to have cleared him but was prevented from fear of the <unclear/> of certain persons</p>
+   <p>Affiant was at the inquest held over Thomas Estes and knows there was no contradictons in Sanford Tomlinsons Statement, as stated by some at the final trial Knows that Alexander Hamilton was mistaken when he swore that S Tomlinson Stated that Tom did not have hold of Charles when he shot him and Givings Toms Brotherinlaw was mistaken when he swore that he stated Charles shot him with a little self cocking pistol that he knew he had such a one Givings asked if it was his opinion Charles shot him The witness Stated that he believed Charles had a small self cocking pistol in his pocket and when attacked by Tom pulled it out and attempted to use it as a club and by a punch it went off from a pressure of the finger on the trigger and done the mischief without intening it It was altogether an unfair and confused examination and<pb/>
+<lb/>and is surprising that the witness got through with out apparant contradictions ignorant and unnecessary questions was asked in rapid secession, and sometimes more than one juror questioning at the same time</p>
+<p>A fact was elicited by a question asked by Plummer, who was not on the jury, and appeared to be an enemy to the witness, which is considered sufficient to have cleared Charles, but appears to have been kept of view in the subsequent examinations by the cunning, of the counsel The question was in these words Look here sir I have a question to ask you did not you see last night here in the house take the woman by the arm and <unclear>ghirt</unclear> arround and say to her go out of here madam and dont keep such a fuss, it does harm I<hi rend="str">t</hi> remember the answer to this interrogatory The answer was no sir, no sir I done not such thing I would have been a brute to have treated with such rudeness, no one was a better friend to Tom than myself and Charls was as good a friend as I was<pb/></p>
+<p>no one sympathised more for the woman an her little children than I did I will tell you what I did do I took hold of the sleeve of the dress and pulled her gently to get her attention and asked her not to take on if she could possibly avoid it then extended my arm over the rest of them and asked them not to take on remarking it was calculated to alarm Tom and do mischief that he was in hopes he would talk if he did wanted them all to hear what he would say beleeved he would tell them he was altogether to blame that all originated f<hi rend="str">o</hi>rom an act of his own folly Affiant knows there was many contradictory accounts of the affair told by persons that knew nothing about it The relations of Estes are verry numerous and many of them ignorant and unprincipled; who propagated thousands of lies in relation to it, which was given credence by Sanford Tomlinsons enemies, who are persons considered men of respectability But it is strange it did not occur to the<pb/>
+<lb/>minds of people how they knew the things they related to be true as no human being was presant but Sanford Tomlinson and there could be no contradictions nor nor discrepencies detected in his statement affiant States that Charles Tomlinson has been represented as a verry bad man and a quarrelsome person he can say in truth Charles Tomlinson was a peaceable man as lives or lived in this vicinity and the favorite of the neighborhood Aaffiant believes there is verry few persons of the neighborhood but has knowlege of the above facts, and a great deal more if they would state them He has great reason to believe that there are persons who has Knowledge of facts sufficient to have cleared him but was prevented from fear of the <unclear/> of certain persons</p>
 <p>Thomas Newton</p>
-<p>Thos Newton, this day before me Swore to and Subscribed the foregoing Affidavit, and I certify that Said Newton is a young man of veracity Given under my hand this <date when="1861-12-10">10<hi rend="sup">th</hi> day of Dec ^1861^</date></p>
-<p>J. E. Alsop J. P. S. C</p>
+<p>Thos Newton, this day before me Swore to and Subscribed the foregoing Affidavit, and I certify that Sad Newton, is a young man of veracity Given under my hand this <date when="1861-12-10">10<hi rend="sup">th</hi> day of Dec ^1861^</date></p>
+<p>J, E, Alsop J, P, S, c</p>
   </body>
  </text>
 </TEI>

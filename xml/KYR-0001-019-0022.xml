@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0022"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,15 +64,15 @@
  <text>
   <body>
    <p>South-Western Telegraph Company.<figure type="hr"/></p>
-<p>THE PUBLIC are notified, that in order to guard agains mistakes in the transmission of messages, every message of importance ought to be repeated, by being sent back from the station at which it is to be received, to the station from which it is originally sent. Half the usual price for transmission will be charged for repeating the message, and while this Company will, as heretofore, use every precaution to ensure correctness, it will not be responsibile for mistakes or delays in the transmission or delivery of repeated messages, beyond an amount exceeding two hundred times the amount paid for sending the message; nor will it be responsible for mistakes or delays in the transmission of unrepeated messages, from whatever cause they may arise, nor for delays arising from interruptions in the working of its Telegraphs, nor for any mistake or omission of any other Company, over whose lines a message is to be sent to reach the place of destination.</p>
+<p>THE PUBLIC are notified, that in order to guard agains mistakes in the transmission of messages, every message of importance ought to be repeated, by being sent back from the station at which it is to be received, to the station from which it is originally sent. Half the usual price for transmission will be charged for repeating the message, and while this Company will, as heretofore, use every precaution to ensure correctness, it will not be responsible for mistakes or delays in the transmission or delivery of repeated messages, beyond an amount exceeding two hundred times the amount paid for sending the message; nor will it be responsible for mistakes or delays in the transmission of unrepeated messages, from whatever cause they may arise, nor for delays arising from interruptions in the working of its Telegraphs, nor for any mistake or omission of any other Company, over whose lines a message is to be sent to reach the place of destination.</p>
 <p>All messages will hereafter be received by this Company for transmission, subject to the above conditions.</p>
-<p>N. GREEN, Pres't, Louisville, Ky.<figure type="hr"/>
-<lb/><gap/><date when="1861">1861</date>
+<p>N. GREEN, Pres't, Louisville, Ky.<figure type="hr"/></p>
+<p><gap/><date when="1861">1861</date>
 <lb/>By Telegraph from New Orleans <date when="1861-04-26">Apl 26th 1861</date>
 <lb/>To Gov. Beriah Magoffin</p>
-<p>Have purchased two pieces heavy Ordnance two thousand muskets six hundred Kegs powder send transfer from some bank in Kentucky to some bank here placing thirty thousand dollars subject my order cannot negotiate &amp; change</p>
-<p>Luke P. Blackburn
-<lb/>$3<hi rend="underline">40</hi></p>
+<p>Have purchased two pieces heavy Ordnance two thousand muskets six hundred Kegs powder send transfer from some bank in Kentucky to some bank here placing thirty thousand dollars subject my order cannot negotiate exchange</p>
+<p>Luke P. Blackburn</p>
+<p>&#36;3<hi rend="underline">40</hi></p>
   </body>
  </text>
 </TEI>

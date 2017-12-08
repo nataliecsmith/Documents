@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0548"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,14 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00002081">Lyon County Kentucky</placeName></p>
-<p>The affiant <persName ref="cwgk:N00003871">Alfred Brock</persName> states that he was a juror in the Case of <orgName ref="cwgk:O001025">the Commonwealth</orgName> against <persName ref="cwgk:N00002080">Uriah Kevil</persName> &amp;<hi rend="sup">c</hi> which was tried at the last <date when="--06">June</date> term of the <orgName ref="cwgk:O00000412">Lyon Circuit Court</orgName>, &amp; states that the testimony of Dr.<persName ref="cwgk:N00002085"> Geiser</persName> did not agree with the ballance of the evidence adduced <hi rend="str">in the Cause</hi>, upon the trial of the Cause,</p>
-<p>A. Brock</p>
-<p>Sworn to before me by Alfred Brock this <date when="1863-08-05">5 day of August 1863</date>,</p>
-<p><persName ref="cwgk:N00002700">A H Dudley</persName> clk.</p>
-<p>I am personally acquainted with A Brock and know him to be a man of truth and veracity. <date when="1863-08-05">Aug 5 1863</date>.</p>
+   <p>Lyon County Kentucky</p>
+<p>The affiant Alfred Brock states that he was a juror in the Case of the Commonwealth against Uriah Kevil &amp;<hi rend="sup">c</hi> which was tried at the last <date when="--06">June</date> term of the Lyon Circuit Court, &amp; states that the testimony of Dr. Yeiser did not agree with the ballance of the evidence adduced <hi rend="str">in the Cause</hi>, upon the trial of the Cause,</p>
+<p><hi rend="str">A</hi>
+<lb/>A. Brock</p>
+<p>Sworn to before me by Alfred Brock this <date when="1863-08-05">5 day of August 1863</date>.</p>
+<p>A H Dudley clk.</p>
+<p>I am perrsonally acquainted with A Brock and know him to be a man of truth and veracity, <date when="1863-08-05">Aug 5 1863</date>.</p>
 <p>A. H. Dudley clk
-<lb/><orgName ref="cwgk:O00000647">Lyon County Court</orgName></p>
+<lb/>Lyon C<hi rend="str">ourt</hi>ounty Court</p>
   </body>
  </text>
 </TEI>

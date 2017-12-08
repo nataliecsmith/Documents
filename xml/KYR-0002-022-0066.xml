@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0066"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,12 +67,12 @@
 <lb/>City of Louisville &amp; County of Jefferson
 <lb/>Louisville <date when="1862-10-04">Oct 4<hi rend="sup">th</hi> 1862</date>
 <lb/>Gen<hi rend="sup">l</hi></p>
-<p>The Board upon exemptions having completed their labors, I have the honor to make the following report of the condition of the Enrollment as ordered by his Excellency the Governor, together with the division of the city &amp; county into regimental districts</p>
-<p>Statement A which I herewith transmit shows the complete Enrollment of the city &amp; county, together with the Exemptions, the number of men subject to Military duty &amp; the division into Regimental districts in accordance with the State Guard basis; with the following as a company viz: one captain; one First Lieutenant; one Second Lieutenant; Five Sergeants; Four Corporals, &amp; Seventy Six privates; making rank &amp; file 88 men.</p>
-<p>Each regimental district consisting of 3 Battalions of 6 companies each, making in all 158 &amp; without the field &amp; Staff.</p>
+<p>The Board upon exemptions having completed their labors, I have the honor to make the following report of the condition of the Enrollment as ordered by his Excellency the Governor, together with the division of the city &amp; county into regimental district.</p>
+<p>Statement A which I herewith transmit shews the complete Enrollment of the city &amp; county, together with the Exemptions, the number of men subject to Military duty &amp; the division into Regimental districts in accordance with the State Guard basis; with the following as a company viz; one captain; one First Lieutenant; one Second Lieutenant; Five sergeants; Four corporals, &amp; Seventy Six privates; making rank &amp; file 88 Men.</p>
+<p>Each regimental district consisting of 3 Battalions of 6 companies Each, making in all 1584 without the field &amp; Staff.</p>
 <p>Statement B Shows the Same<pb/>
-<lb/>in city, divided into regimental districts upon the U. S. basis, of medium regiments.</p>
-<p>Statement C, shows the same in county upon the same basis.</p>
+<lb/>in city, divided into regimental districts upon the U. S. basis, of medium regiments,</p>
+<p>Statement, C, shews the same in county upon the Same basis.</p>
 <p>The following is a recapitulation,</p>
 <p><table rend="rules">
 <row>
@@ -80,27 +83,27 @@
 </row>
 <row>
 	<cell>Upon State Guard basis</cell>
-	<cell>5 Districts,</cell>
+	<cell>5 Districts.</cell>
 	<cell>1 Dis' -- </cell>
 	<cell>6 Dis</cell>
 </row>
 <row>
-	<cell>" U. S. Do</cell>
+	<cell>" U. S, Do</cell>
 	<cell>8 Do,</cell>
 	<cell>2 Do -- </cell>
 	<cell>10 Do</cell>
 </row>
 </table></p>
-<p>The Board upon Exemptions, having completed their labors I deem it may duty, &amp; it is with great pleasure that I am thus enabled to testify to the correct, impartial &amp; loyal manner in which the gentlemen, who composed said board, have performed their several duties &amp; am fully of the opinion, that better appointments could not have been made.</p>
-<p>The record of Enrollment &amp; Exemption is now in the hands of the binder &amp; I shall be enabled to submit it to you, next Wednesday.</p>
+<p>The Board upon Exemptions, having completed their labors I deem it my duty, &amp; it is with great pleasure that I am thus enabled to testify to the correct, impartial &amp; loyal manner in which the gentlemen, who composed said board, have performed their several duties &amp; am fully of the opinion, that better appointments could not have been made.</p>
+<p>The record of Enrollment &amp; Exemption is now in the hands of the binder &amp; I shall be Enabled to submit it to you, next Wednesday,</p>
 <p>Respectfully
 <lb/>Jno W. Gray
 <lb/>Acting Brig Genl
 <lb/>K. S. G.</p>
 <p>To
 <lb/>Jn<hi rend="sup">o</hi> W Finnell
-<lb/>Adjt. Gen. Ky Vols<pb/>
-<lb/>Jefferson Co.</p>
+<lb/>Adjt. Gen. Ky Vols<pb/></p>
+<p>Jefferson Co.</p>
   </body>
  </text>
 </TEI>

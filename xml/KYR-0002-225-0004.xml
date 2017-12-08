@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0004"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,16 +65,15 @@
   <body>
    <p>Laurel County Ky
 <lb/><date when="1861-08-12">August 12th 1861</date></p>
-<p>Mr B, Magoffin Gov of Ky Dear Sir I had thought we did not need any arms in this part of the Country. But Circumstances now Cause me with the ballance of the Country too think different. I with many Others think that we greatly Stand in need of arms to protect our homes. I have it from Reliable Source to day that men in the Country have Commissioned Robing. I have Know dout as to the truth of the case Some of the party is now under arrest. There is many circumstances that cause me to believe that we greatly Stand in need of arms I can make up a home guard Company of good sober Study Citizens. Now sir you being one of the board if we organize a home guard company according to the act of the Leg-<hi rend="str">islater</hi>islature We wish to know of you if we can get arms. It is thought by a good many that We cant get any I tell them that I think different This much I know that we will be copeled to pay our portion of taxes to pay for the State arms therefore we think that it is our right that We Should have our Cote of arms I understood to day that our Compnay in our County is like to get 44 stand. I wrote a few days ago to J, S C, Garrard for information about arms and have not Received any answer yet, You will please do me the favor to answer me by Return Mail and give me all the necessary information<pb/>
-<lb/>about getting arms We think it useless to be at the troble to make a Company if there is no prospect of getting arms I desire that you Should know who I am In order ^that^ you may Know I will Relate one <hi rend="str">think that</hi> thing that you will probably Recollect. I am the gentlemen that went with you from London to Brittain ^(then on your way to Barbourville)^ the time that you and Bell was canvassing the State for the office of Governor, By two day notice, I think we can organize a company and Send every thing necessary to the board, of <hi rend="underline">Comd</hi><hi rend="underline"><hi rend="sup">s</hi></hi></p>
+<p>Mr B, Magoffin Gov of Ky Dear Sir</p>
+<p>I had thought we did not need any arms in this part of the Country, But Circumstances now Cause me with the ballance of the Country too think different, I with many others think that we greatly stand in need of arms to protect our homes. I have it from Reliable Source to day that men in the Country have Commmensed Robing, I have Know dout as to the truth of the case Some of the party is now under arrest, There is many Circumstances that cause me to believe that we greatly stand in need of arms I can make up a home guard Company of good Sober Sturdy Citizens. Now sir you being one of the board if we organize a home guard company According to the act of the Leg<hi rend="str">islator</hi>islature We wish to Know of you if we can get arms, It is thought by a good many that we cant get any I tell them that I think different This much I know that we will be copeled to pay our portion of taxes to pay for the State arms therefore we think that it is our right that We Should have our Cote of arms I understood to day that our Company in our County is like to get 44 stand, I wrote a few days ago to J, H, Garrard for information about arms and have not Received any answer yet, You will please do me the favor to answer me by Return mail and give me all the necessary information<pb/>
+<lb/>about getting arms We think it useless to be at the troble to make a Company if there is no prospect of getting arms I desire that you Should Know Who I am In Order ^that^ you may Know I will Relate ane <hi rend="str">think that</hi> thing that you will probably Recollect. I am the gentlemen that went with you from London to Brittains ^(then on your way to Barbourville)^ the time that you and Bell was Canvassing the State for the office of Governor, By two day notice, I think we can Organize a Company and Send <hi rend="str"><unclear/></hi>every thing necessary to the board, of <hi rend="underline">Com'</hi><hi rend="underline"><hi rend="sup">s</hi></hi></p>
 <p>Yours Truly &amp;c
 <lb/><hi rend="underline">H, J, Jones</hi></p>
-<p>Refer to P. Swigert
-<lb/>B. M.</p>
+<p>Refer to P. Swigert-- B. M.</p>
 <p>H. J. Jones
 <lb/>Laurel County</p>
-<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> from Ord: Ky
-<lb/><unclear>army</unclear><date when="1861-08-21">21. Aug 1861</date></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> from pres: &amp; ans <date when="1861-08-21">21. Aug 1861</date>.</p>
   </body>
  </text>
 </TEI>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1574"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">James C. Brookover et al. to Beriah Magoffin</title>
+    <title level="a" type="main">James C. Brookover to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG11042</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Maysville, Mason County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -61,70 +63,69 @@
  <text>
   <body>
    <p>To his Excellency Beriah Magoffin Govenor of the Commonwealth of Kentucky:</p>
-<p>Your petitioner James C Brookover resident in the city Maysville and state of Kentucky states that at the late <date when="1861-07">July</date> Term of the Mason Circuit Court he was fines by the Judge thereof the sum of fifty -- dollars for selling on one occassion a glass of liquor to a slave of G H M<hi rend="sup">c'</hi>Atee -- <gap/> M<hi rend="sup">c</hi>Atee had told your petitioner to let his slave have what ever he wanted provided he paid for it, and he had perchased and paid for under that <hi rend="underline">parol</hi> license at different times some groceries.</p>
-<p>Thomas Greer the Clerk of your petitioner sold to said slave a single glass of spirits without his consent or knowledge and against the general order to the Clerk not to sell or give to any slave whatever, liquor -- ; the sale was made by the Clerk against his order and was done by him in ignorance of the extemely stringant law upon the subject -- The jury however under the influence of (as he believes) a very <hi rend="underline">suspicious</hi> <hi rend="underline">Jealousy</hi> and a too rigid construction of the law found him guilty and he was accordingly fined: He has stated the facts and hopes you will find in them sufficient to authorize you to remit said fine, which he most respectfully prays you to do.</p>
-<p>James. C. Brookover X</p>
-<p>The undersigned Concur and unite with Mr Brookover in the above petition</p>
+<p>Your petitioner James C Brookover resident in the city Maysville and state of Kentucky states that at the late <date when="1861-07">July</date> Term of the Mason Circuit Court he was fined by the Judge thereof the sum of fifty -- dollars for selling on one occassion a glass of liquor to a slave of G H M<hi rend="sup">c'</hi>Atee -- <gap/> M<hi rend="sup">c</hi>Atee had told your petitioner to let his slave have what ever he wanted provided he paid for it, and he had perchased and paid for under that <hi rend="underline">parol</hi> license at different times some groceries;</p>
+<p>Thomas Greer the Clerk of your petitioner sold to said slave a single glass of spirits without his consent or knowledge and against the general order to the Clerk not to sell or give to any slave whatever, liquor--; the sale was made by the Clerk against his order and was done by him in ignorance of the extemely stringant law upon the subject-- The jury however under the influence of (as he believes) a very <hi rend="underline">suspicious</hi> <hi rend="underline">Jealousy</hi> and a too rigid construction of the law found him Guilty and he was accordingly fined: He has stated the facts and hopes you will find in them sufficient to authorize you to remit said fine, which he most respectfully prays you to do.</p>
+<p>James, C, Brookover X</p>
+<p>The undersigned Concur and unites with Mr Brookover in the above petition</p>
 <p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">Jn</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> D Taylor
 <lb/></hi><cb n="2"/><hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> J. Throop
 <lb/>Emery Whitaker</hi><milestone unit="column" n="1"/><hi rend="underline">
-<lb/></hi>over 2 page }<pb/></p>
+<lb/></hi>over 2<hi rend="sup">d</hi> page &#125;<pb/></p>
 <p>Geo Forrester
-<lb/>G H M<hi rend="sup">c</hi>Atee owner of the slave
+<lb/>G H M<hi rend="sup">c</hi>Atee owner of the Slave
 <lb/>Jno R. Clarke
-<lb/><milestone unit="column" n="2"/><cb n="1"/>H M<hi rend="underline"><hi rend="sup">c</hi></hi>Collough
-<lb/>Ja<hi rend="sup">s</hi> P. Poynter
-<lb/><unclear/> Dryden
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Rese
+<lb/>H M<hi rend="underline"><hi rend="sup">c</hi></hi>Collough
+<lb/><milestone unit="column" n="2"/><cb n="1"/>Ja<hi rend="sup">s</hi> P. Poynter
+<lb/><unclear>S Dryden</unclear>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Reese
 <lb/>Daniel P Hunt
 <lb/>John. A. Mitchell
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Balen
-<lb/>James S Garesan
-<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi>. J <unclear/>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Bolen
+<lb/>James S garesan
+<lb/><hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> J. <unclear>Glowe</unclear></hi>
 <lb/>George Wormald
 <lb/>Robert Bell <hi rend="str"><unclear/>
 <lb/></hi>Nelson Whitaker
-<lb/>Geo. W. Sulser
+<lb/>Geo. W. Sulser.
 <lb/>Keith Berry.
 <lb/>Robt A Cochran
 <lb/>F. H. <unclear/>
 <lb/>Jno <unclear/>
-<lb/>Thos J Farley
-<lb/>John A Nelson
-<lb/>J.. W.. Crafford
-<lb/>W. H. Longhridge
-<lb/>George W Suller
+<lb/>Tho<hi rend="sup">s</hi> J Farley
+<lb/>John A Wilson
+<lb/>J,, W,, Crafford
+<lb/>W. H. Loughridge
+<lb/>George W Sulcer
 <lb/>Hugh Murns
 <lb/>E H Wood
-<lb/>J. H. Rains
+<lb/>J, H, Rains
 <lb/>Franklin Wise
 <lb/>Charles Mytinger
 <lb/>Jerry T Young
-<lb/><cb n="2"/>John A. Longhridge
+<lb/><cb n="2"/>John A. Loughridge
 <lb/>Robert Downing
 <lb/>R. King
 <lb/>Simon Nelson
 <lb/>Richard Reed
 <lb/>W. P. Watkins
-<lb/>William M<hi rend="sup">c</hi>Doniel
-<lb/>Thomas E Grier
-<lb/>Eli. D Hickon
-<lb/>C.. Bell
-<lb/>James.. Bridges
-<lb/>Wm F A<unclear>Amerton</unclear>
-<lb/>R D Crawford
+<lb/>William M<hi rend="sup">c</hi>Daniel
+<lb/>Thomas E <hi rend="underline">Grier</hi>
+<lb/>Eli D Hickon
+<lb/>C,, Bell
+<lb/>James,, Bridges
+<lb/>Wm F <unclear>A Merton</unclear>
+<lb/><unclear/> D Crawford
 <lb/>Azro Whitaker
 <lb/>James Childs
 <lb/>Ebenezer Christie
-<lb/>J. B. A. Leedy<milestone unit="column" n="1"/><pb/></p>
+<lb/>J, B, A, Leedy<milestone unit="column" n="1"/><pb/></p>
 <p>Mason Cir. Ct
-<lb/>James C. Brookover's 
-<lb/>Petition.<figure type="hr"/></p>
-<p>$50 } Selling liquor</p>
-<p>Sec. State: If remitted please hand remitter to 
-<lb/>John L. Scott.</p>
+<lb/>James C. Brookover's Petition.<figure type="hr"/>
+<lb/>&#36;50. &#125; Selling liquor</p>
+<p>Sec. State:
+<lb/>If remitted please hand remitter to John L. Scott.</p>
 <p>Remission
-<lb/>Iss<hi rend="sup">d</hi>. <date when="1861-12-09">Dec<hi rend="sup">r</hi> 9. 1861</date></p>
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-12-09">Dec<hi rend="sup">r</hi> 9. 1861</date></p>
   </body>
  </text>
 </TEI>

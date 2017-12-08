@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0116"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,32 +63,31 @@
  </teiHeader>
  <text>
   <body>
-   <p>Edmund J. Shakelford -- Lieut. Col.
+   <p>Edmund J. <hi rend="underline">Shakelford -- Lieut. Col.</hi>
 <lb/>Richmond Ky
 <lb/><date when="1863-10-14">Octr 14<hi rend="sup">th</hi> 1863</date>
-<lb/>Tho E Bramlett
+<lb/>Tho E Bramlett<hi rend="str">E</hi>
 <lb/>Gov of Ky
-<lb/>Dear Sir</p>
+<lb/>Dear sir</p>
 <p>I send you the name of Col James W Caperton who is the man to act as Colonel and John Bennett Esq who will act as Lieutenant Colonel under the State Law</p>
 <p>Hoping you will Commission them -- and allow them at once to proceed to organize a Volunteer Company under your Order No 3 Issued from Head Quarters. Kentucky Volunteer Frankfort Ky <date when="1863-10-08">Oct 8<hi rend="sup">th</hi> 1863</date></p>
-<p>Under such leaders as Col Caperton and Mr Bennett I am Satisfied the Compay will be raised -- and when raised &amp; organized -- I will be risking nothing in saying they will contitut as much as any men in carring out your order in which you say Ky Shall be free from its Murderous foes.</p>
+<p>Under such leaders as Col Caperton and Mr Bennett I am Satisfied the Compay will be raised-- and when raised &amp; organized-- I will be risking nothing in saying they will contribut as much as any men in carring out your order in which you say Ky Shall be free from its Murderous foes,</p>
 <p>Very Respectfully
 <lb/>P. P. Ballard</p>
-<p>They can give you my recommendation your desire -- but deem it unnecesary as you Know both the Gentlemen<pb/></p>
+<p>They can give you any recommendation you desire-- but deem it unnecesary as you know both the Gentlemen<pb/></p>
 <p>Madison Cty Oct<figure type="hr"/>
-<lb/>Recm"d"<figure type="hr"/>
-<lb/><hi rend="underline">James Caperton Col
-<lb/>Edmund J Shackelford</hi><figure type="hr"/>
-<lb/>Issue
-<lb/><hi rend="underline">Boyle</hi>
-<lb/>Issued, 72, 384
-<lb/><unclear/><pb/>
-<lb/>Madison Co <date when="1863-10-14">Oct 14/63</date><figure type="hr"/>
-<lb/>Recom"d" for com"d" Officer of this country
-<lb/><hi rend="underline">Jas W Caperton Col
-<lb/></hi><hi rend="underline"><hi rend="str">John Bennett Lt Col</hi></hi><hi rend="underline">
-<lb/></hi>Edmund J Shackelford<hi rend="underline">
-<lb/></hi>P Ballard</p>
+<lb/>Recm"dg,,<figure type="hr"/>
+<lb/>James W Caperton Col<figure type="hr"/>
+<lb/>Edmund J Shackelford<figure type="hr"/></p>
+<p>Issue
+<lb/><hi rend="underline">Boyle</hi></p>
+<p>Issued, 72, 384<figure type="hr"/></p>
+<p><unclear/><pb/></p>
+<p>Madison Co <date when="1863-10-14">Oct 14/63</date><figure type="hr"/>
+<lb/>Recom'dg, for com"dg,, Officer of this county
+<lb/>Ja<hi rend="sup">s</hi> W Ca<hi rend="str">s</hi>perton Col<figure type="hr"/>
+<lb/><hi rend="str">John Bennett</hi> Lt Col<figure type="hr"/><hi rend="underline">
+<lb/></hi>Edmund J Shackelford P Ballard</p>
   </body>
  </text>
 </TEI>

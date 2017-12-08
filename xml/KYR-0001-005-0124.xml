@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0124"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Bourbon County, Kentucky</placeName>
-    <date when="1862-11-24">24 November 1862</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -64,9 +67,7 @@
 <lb/>The Commonwealth of Kentucky,
 <lb/>AGAINST
 <lb/>William E. Simms</p>
-<p>THE GRAND JURY of Bourbon county, in the name and by the authority of the Commonwealth of Kentucky, accuse William E. Simms of the 
-<lb/>Crime of Treason,
-<lb/>committed as follows, viz: The said William E. Simms on the <date when="1862-11-24">24th day of November 1862</date>, in the county aforesaid, being an inhabitant of and residing in said Commonwealth, in the county aforesaid, and owing allegiance and fidelity to said Commonwealth, did unlawfully, maliciously and traitoriously, compass, imagine and intend to raise and levy war, insurrection and rebellion against said Commonwealth; and the said <gap/> with a multitude of persons unknown to this Grand Jury, did assemble themselves together in said Commonwealth; armed with guns, swords and other warlike weapons, to be used traitoriously against said Commonwealth, and did, then and there, wickedly, unlawfully and maliciously ordain, prepare and levy war publicly against said Commonwealth, contrary to the duty of his allegiance and fidelity and against the peace and dignity of the Commonwealth of Kentucky.</p>
+<p>THE GRAND JURY of Bourbon county, in the name and by the authority of the Commonwealth of Kentucky, accuse William E Simms of the Crime of Treason, committed as follows, viz: The said William E. Simms on the <date when="1862-11-24">24<hi rend="sup">th</hi> day of November 1862</date>, in the county aforesaid, being an inhabitant of and residing in said Commonwealth, in the county aforesaid, and owing allegiance and fidelity to said Commonwealth, did unlawfully, maliciously and traitoriously, compass, imagine and intend to raise and levy war, insurrection and rebellion against said Commonwealth; and the said <gap/> with a multitude of persons unknown to this Grand Jury, did assemble themselves together in said Commonwealth, armed with guns, swords and other warlike weapons, to be used traitoriously against said Commonwealth, and did, then and there, wickedly, unlawfully and maliciously ordain, prepare and levy war publicly against said Commonwealth, contrary to the duty of his allegiance and fidelity and against the peace and dignity of the Commonwealth of Kentucky.</p>
 <p>W. S. DOWNEY,
 <lb/>COMMONWEALTH'S ATTORNEY.</p>
 <p>WITNESSES:
@@ -77,21 +78,22 @@
 <lb/>Ben Schooler
 <lb/>Allen Bashford</p>
 <p>A copy att James Paton Clk
-<lb/>By Ben G. Paton D.C<pb/></p>
+<lb/>By Ben G. Paton D. C<pb/></p>
 <p>Bourbon County
-<lb/>vs
-<lb/>The Commonwealth of Kentucky
-<lb/>agt } "copy" Indictment for treason
+<lb/>vs</p>
+<p>The Commonwealth of Kentucky
+<lb/>agt &#125; "copy" Indictment for treason
 <lb/>William Simms<figure type="hr"/>
 <lb/>A True Bill
 <lb/>C S. Brent
 <lb/>Foreman<figure type="hr"/>
 <lb/>Filed <date when="1862-11-29">Novr 29th 1862</date>
 <lb/>Bench Warrant issd <date when="1862-12-03">Dec 3<hi rend="sup">rd</hi> 1862</date>
-<lb/><date when="1863-04">1863 Apr</date> Filed away with leave to reinstate on Docket
-<lb/>A Copy Att J. Paton clk
-<lb/>By Ben G. Paton D C<figure type="hr"/>
-<lb/>Fee 50¢ paid <date when="1865-10-23">23<hi rend="sup">d</hi> Oct 1865</date>
+<lb/><date when="1863-04">1863 Apr</date> Filed away with leave to reinstate on Docket</p>
+<p>A Copy Att J. Paton clk
+<lb/>By Ben G. Paton D C<figure type="hr"/></p>
+<p>Fee 50&#162; paid
+<lb/><date when="1865-10-23">23<hi rend="sup">d</hi> Oct 1865</date>
 <lb/>Respited until end next General Assembly,</p>
   </body>
  </text>

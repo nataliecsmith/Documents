@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0539"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,14 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bet it known that I have been living in <placeName ref="cwgk:P00002472">Caldwell County Ky</placeName>. about 30 years. and am ^and^ have been a near neighbour to <persName ref="cwgk:N00003856">Drury Kevil</persName> for many years I was at said Kevils house on Sabbath morning <date when="1861-02">Feby 1861</date> <persName ref="cwgk:N00002080">Uriah Kevil</persName> the Son of <persName ref="cwgk:N00003856">Drury Kevil</persName> was at home when I went to said Kevils. -- Some time in the morning <persName ref="cwgk:N00003857">Captain Winston</persName> whose Camp was some two miles from my house tho I had never been at it and some twenty to twenty five man called at M<hi rend="underline"><hi rend="sup">r</hi></hi> Kevils and the Captain inquired if <persName ref="cwgk:N00002080">Uriah Kevil</persName> knew the way to D<hi rend="underline"><hi rend="sup">r</hi></hi> Yiezers -- who on stating that he did was required by Winston to accompany him and show him the way. And in about two hours Winston <orgName ref="cwgk:O00003858">this Company</orgName> returned by said <persName ref="cwgk:N00003856">Drury Kevil</persName>s and went on to his Camp as I was informed by <persName ref="cwgk:N00002080">Uriah Kevil</persName> who did not go on with the Company but stopped at his Fathers house</p>
-<p><placeName ref="cwgk:P00002273">Princeton Ky</placeName> <date when="1863-08-03">August 3<hi rend="sup">rd</hi> 1863</date>
-<lb/><persName ref="cwgk:N00003860">P,, Conway</persName></p>
-<p>Sworn to before me by P. Conway this <date when="1863-08-04">4<hi rend="sup">th</hi> day of August 1863.</date>
-<lb/><persName ref="cwgk:N00003859">J. C. Barnes</persName> Ex<hi rend="underline"><hi rend="sup">r</hi></hi> C. C.</p>
-<p>We beleive P. Conway whose name appears to the foregoing affidavit is a man of truth and veracity and ^his^ statements when made under oath or otherwise is entitled to full faith and credit. M<hi rend="underline"><hi rend="sup">r</hi></hi> Conway has resided in Caldwell County Ky. for many years and we are well acquainted with him</p>
-<p><date when="1863-08-04">August 4 1863</date>
-<lb/><persName ref="cwgk:N00003864">E. P. Watkins</persName> Clerk<lb/><orgName ref="cwgk:O00000363">Caldwell Circuit Court</orgName><pb/></p>
+   <p>Bet it known that I have been living in Caldwell County Ky about 30 years and am ^and^ have been a near neighbour to Drury Kevil for many years I was at said Kevils house on Sabbath Morning <date when="1861-02">Feby 1861</date> Uriah Kevil The Son of Drury Kevil was at home when I went to said Kevils. -- Some time in the Morning Captain Winston whose Camp was Some two miles from my house tho I had never been at it and some twenty to twenty five men called at M<hi rend="underline"><hi rend="sup">r</hi></hi> Kevils and the Captain inquired if Uriah Kevil knew the way to D<hi rend="underline"><hi rend="sup">r</hi></hi> Yiezers -- who on stating that he did was required by Winston to accompany him and show him the way. And in about two hours Winston this Company returned by said Drury Kevils and went on to his Camp as I was informed by Uriah Kevil who did not go on with the Company but stopped at his Fathers house
+<lb/>Princeton Ky <date when="1863-08-03">August 3<hi rend="sup">rd</hi> 1863</date></p>
+<p>P.. Conway</p>
+<p>sworn to before me by P. Conway this <date when="1863-08-04">4<hi rend="sup">th</hi> day of August 1863.</date></p>
+<p>J. C. Barnes Ex<hi rend="underline"><hi rend="sup">r</hi></hi> C. C.</p>
+<p>We beleive P. Conway whose name appears to the foregoing affidavit is a man of truth and veracity and ^his^ statements when made under oath or otherwise is entitled to full faith and credit. M<hi rend="underline"><hi rend="sup">r</hi></hi> Conway has resided in Caldwell County Ky. for many years and We are well acquainted with him
+<lb/><date when="1863-08-04">August 4 1863</date>.</p>
+<p>E. P. Watkins clerk
+<lb/><hi rend="underline">Caldwell Circuit Court</hi><pb/></p>
 <p>P Conways Afft</p>
   </body>
  </text>

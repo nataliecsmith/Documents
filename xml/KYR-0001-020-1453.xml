@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1453"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,17 +63,17 @@
  </teiHeader>
  <text>
   <body>
-   <p><note place="header">N<hi rend="sup">o</hi>. 3.</note>
+   <p><note place="header">N<hi rend="underline"><hi rend="sup">o</hi></hi> 3.</note>
 <lb/>To His Excellency
 <lb/>Beriah Ma<hi rend="str">C</hi>goffin
 <lb/>Governor.</p>
-<p>The undersigned citizens of the city of Covington, Kenton County Kentucky respectfully pray that your Excellency would grant to William Nichols, now confined in the Penitentiary at Frankfort a full pardon and remission of the convictions and sentences under which he is so confined, being for the cutting and stabbing of one G. W. Duffey and one Reffert. The undersigned have known said William Nichols for many years (most of us) and have always known and regarded him as a peaceful, industrious and quiet man, and believe this is the first charge of a criminal nature ever made against him. He has a family of little children entirely dependant on his daily labor for support, and on their account as well as his own, we earnestly pray that the executive clemency may be interposed on his behalf.</p>
-<p>E. T. Clarkson foreman of the Jury
+<p>The undersigned citizens of the city of Covington, Kenton County Kentucky respectfully pray that your Excellency would grant to William Nichols, now confined in the Penitentiary at Frankfort a full pardon and remission of the convictions and sentences under which he is so confined, being for the cutting and stabbing of one G. W. Duffey and one Reffert. The undersigned have known Said William Nichols for many years, (most of us) and have always known and regarded him as a peaceful, industrious and quiet man, and believe this is the first charge of a criminal nature ever made against him. He has a family of little children entirely dependant on his daily labor for support, and on their account as well as his own, we earnestly pray that the executive clemency may be interposed in his behalf.</p>
+<p>E. T, Clarkson foreman of the Jury
 <lb/><milestone unit="column" n="2"/><cb n="1"/>Morgan Richards
-<lb/>Edward Darris
+<lb/>Edward Davis
 <lb/>David J Jones
-<lb/><cb n="2"/>John Richards
-<lb/>William Evans
+<lb/><cb n="2"/>John. Richards
+<lb/>William Owens
 <lb/>Jenkin Edwards<pb/>
 <lb/><cb n="1"/>Henry Ward
 <lb/>Richard Richards
@@ -79,37 +82,37 @@
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Barron
 <lb/>J. H. Easton
 <lb/>Martin Berte
-<lb/>Hichel Goetz
+<lb/><hi rend="str">H</hi>Michel Goetz
 <lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Broomall
-<lb/>Euch. Brereton
+<lb/>Ench, Brereton
 <lb/>Isaac Yelton
 <lb/>Jacob Brereton
-<lb/>John E Genes
+<lb/>John E Jones
 <lb/>James Riley
-<lb/>Edwin <unclear>J. martin</unclear>
+<lb/>Edwin J. <unclear>martin</unclear>
 <lb/>Thomas Hale
 <lb/>Edward Owen
 <lb/>W E Jones
-<lb/>James Lawyers
+<lb/>James Sawyers
 <lb/>David Y Jones
-<lb/>Benjamine Owens
-<lb/>Hiram Bond -- "A juror in the case"
+<lb/>Benjamine Owans
+<lb/>Hiram Bond- 'A Juror in the case'
 <lb/>B. Averbark
 <lb/>John Williams
 <lb/>George Garner
 <lb/>Hugh Lynch
-<lb/>W F Maddox
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Warson -- A Foreman in the case
+<lb/>W F Maddux
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Wason- A Foreman in the case
 <lb/>Thomas Davis 
 <lb/>John N Maxwell (a juror)
 <lb/>Geo Phillips
-<lb/><cb n="2"/>James D. Rees (a juror)
+<lb/><cb n="2"/>James. D. Rees (a juror)
 <lb/>C. Blackburn a Juror
-<lb/>N. E. Borwill Juror
-<lb/>J. B. Wasson Juror
-<lb/>J. E. Lett. Juror
+<lb/>H, E, Boswell Juror
+<lb/>J, B, Wasson Juror
+<lb/>J, E- Lett. Juror
 <lb/>L L D Daniel juror
-<lb/>S. S. Newman Juror </p>
+<lb/>S. S.Newman Juror </p>
   </body>
  </text>
 </TEI>

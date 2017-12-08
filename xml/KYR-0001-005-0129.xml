@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0129"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,16 +64,18 @@
  <text>
   <body>
    <p>To His Excellency Thos E. Bramlette Governor of the Commonwealth of Kentucky.</p>
-<p>The undersigned N. Sandifer Presiding Judge of the Garrard County Court would respectfully represent to your Honor that at the <date when="1865-02">February term 1865</date> of the Garrard Circuit Court an<hi rend="str">d</hi> indictment was found by the Grand Jury of s'd court against Green Slaughter and James Slaughter for the murder of one Absolum Pollard and that the s'd Slaughters are yet at large the civil officers of this county being unable to take them or even find them and that they are very dangerous characters; and would respectfully petition your Honor to offer a reward to the very extent of the law for the apprehension of the s'd Slaughters.</p>
-<p>The description of Green Slaughter is as follows, to wit, About 35 years old, about 5 feet ten inches high, heavy set weighs about 180 lbs, black eyes, black hair and whiskers and the description of James Slaughter is as follows, to wit, about 19 years old, round face about 5 feet 6 to 8 inch high and slightly round Shouldered and heavy set; this the <date when="1865-11-06">6<hi rend="sup">th</hi> day of Nov<hi rend="sup">r</hi> 1865</date></p>
+<p>The undersigned N. Sandifer Presiding Judge of the Garrard County court would respectfully represent to your Honor that at the <date when="1865-02">February term 1865</date> of the Garrard Circuit Court an<hi rend="str">d</hi> indictment was found by the Grand Jury of s'd court against Green Slaughter and James Slaughter for the murder of one Absolum Pollard and that the s'd Slaughters are yet at large the civil officers of this county being unable to take them or even find them and that they are very dangerous characters; and would respectfully petition your Honor to offer a reward to the very extent of the law for the apprehension of the s'd Slaughters.</p>
+<p>The description of Green Slaughter is as follows, to wit, About 35 years old, about 5 feet ten inches high, heavy set weighs about 180 lbs, black eyes, black hair and whiskers and the description of James Slaughter is as follows, to wit, about 19 years old, round face about 5 feet 6 to 8 inch high and slightly round Shouldered and heavy set; this the <date when="1865-11-06">6<hi rend="sup">th</hi> day of Novr 1865</date></p>
 <p>N Sandifer P, J, G, C, C<pb/></p>
 <p>Garrard Co
-<lb/>Reward $500. for Judge of Garrard County Cour
-<lb/>To } Petition for Reward
-<lb/>James &amp; Green Slaughter
-<lb/>T. E. Bramlette Gov. &amp;c
-<lb/>murder of A. Pollard $250 each
-<lb/><date when="1865-11-08">8<hi rend="sup">th</hi> Nov /65</date></p>
+<lb/>Reward &#36;500, for</p>
+<p>Judge of Garrard County Court
+<lb/>To &#125; Petition for Reward</p>
+<p>James &amp; Green Slaughter</p>
+<p>T. E. Bramlette Gov. &amp;<hi rend="sup">c</hi></p>
+<p>murder of A, Pollard</p>
+<p>&#36;250 each</p>
+<p><date when="1865-11-08">8<hi rend="sup">th</hi> Nov/65</date></p>
   </body>
  </text>
 </TEI>

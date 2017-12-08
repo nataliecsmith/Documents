@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0042"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,18 +63,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1862-09-15">Sep 15. 1862</date>
+   <p>Louisville <date when="1862-09-15">Sep 15, 1862</date>
 <lb/>To His Ex<hi rend="sup">y</hi>
-<lb/>J. F Robinson, Gov<hi rend="sup">r</hi> of Ky
+<lb/>J F Robinson Gov<hi rend="sup">r</hi> of Ky
 <lb/>Dear Sir</p>
-<p>In pursuance of what I conceive to be the duty of evry loyal man at a time like this. to <hi rend="str">keep</hi> lay before the proper authorities any information which may be of public interest I respectfully beg to inform you that Isaac Everett, who is recruiting a company in or near this city is &amp; has been a violent secessionist -- that twice he went to the southern part of the state for the purpose of joining <hi rend="str">m</hi>Morgan &amp; <hi rend="str">on</hi> <hi rend="str">his</hi> <hi rend="str">last</hi> was brought back by his relations, At the last attempt he was brought back on Saturday<pb/>
-<lb/>night &amp; on Monday morning had a recruiting commission. For the truth of this you can refer to the father of the young man Isaac Everett Sr. I can produce proper evidence if necessary.</p>
-<p>I have reason to believe that an application will be made to commission Turner Anderson of Mead C<hi rend="sup">o</hi> Ky in the 17<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Mr T. A. is &amp; has been a secessionist from the beginning I know it is impossible for the appointing power to know of the standing of evry applicant &amp; conceive it to be the duty of evry loyal man to give proper information in regard to applicants who are unworthy of trust. </p>
-<p>I am Dep marshall of the L Chancery Court &amp; am ready to stand to the information<pb/>
+<p>In pursuance of what I conceive to be the duty of any loyal man at a time like this. to <hi rend="str">keep</hi> lay before the proper authorities any information which may be of public interest I respectfully beg to inform you that Isaac Everett, who is recruiting a company in or near this city is &amp; has been a violent secessionist that twice he went to the southern part of the state for the purpose of joining <hi rend="str">m</hi>Morgan &amp; <hi rend="str">on</hi> <hi rend="str">his</hi> <hi rend="str">last</hi> was brought back by his relations, At the last attempt he was brought back on Saturday<pb/>
+<lb/>night &amp; on Monday morning had a recruiting commission, For the truth of this you can refer to the father of the young man Isaac Everett Sr, I can produce proper evidence if necessary,</p>
+<p>I have reason to believe that an application will be made to commission Turner Anderson of Mead C<hi rend="underline"><hi rend="sup">o</hi></hi> Ky in the 17<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Mr T- A, is &amp; has been a secessionist from the beginning I know it is impossible for the appointing power to know of the standing of any applicant &amp; conceive it to be the duty of any loyal man to give proper information in regard to applicants who are unworthy of trust.</p>
+<p>I am Dep Marshal of the L Chancery Court &amp; am ready to stand to the information<pb/>
 <lb/>I give at any time &amp; place required. I refer you to Hon J Speed, N Wolf, B Ballard &amp; the Union men of the city generally</p>
 <p>Very Respectfully
-<lb/>N. B. Gault.<pb/>
-<lb/>N B. Gault</p>
+<lb/>N, B. Gault,<pb/></p>
+<p>N B. Gault</p>
   </body>
  </text>
 </TEI>

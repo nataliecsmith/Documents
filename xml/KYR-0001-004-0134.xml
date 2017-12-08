@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0134"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Caroline Dennent to Thomas E. Bramlette</title>
+    <title level="a" type="main">Caroline Dement to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4253</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -67,30 +62,38 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency <persName ref="cwgk:N001000">Thomas E. Bramlet</persName> Governor of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
-<p>Your Petitioner, <persName ref="cwgk:N002001">Caroline</persName>, a woman of color, would respectfully state that she was tried in the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName> at the May term upon a charge of Murder, she was convicted &amp; sentenced to be hung <date when="--08-14">August 14th</date>. A petition for a respite was pesented to <persName ref="cwgk:N001004">your predecessor</persName> which was kindly granted. Your petitioner now prays your Excellency to grant her a full pardon. She is innocent of the crime charged, &amp; that your Excellency may be impressed with the truth of the statement she will state the leading &amp; important features of the case.</p>
+   <p>To His Excellency Thomas E, Bramlet Govenor of Kentucky</p>
+<p>Your Petitioner, Caroline, a woman of color, would respectfully state that she was tried in the Jefferson circuit court at the <date when="--05">may</date> term upon a charge of Murder, she was convicted &amp; sentenced to be hung <date when="--08-14">August 14th</date>, A petition for a respite was pesented to your predecessor which was kindly granted. Your petitioner now prays your Excellency to grant her a full pardon. She is innocent of the crime charged, &amp; that your Excellency may be impressed with the truth of the statement she will state the leading &amp; important features of the case.</p>
 <p>The evidence was altogether circumstantial.</p>
-<p>Your petitioner lived in the state of <placeName ref="cwgk:P001001">Tennessee</placeName>, her master <persName ref="cwgk:N00001057">Mr. Dennent </persName>had joined the army. When <persName ref="cwgk:N002042">General Beull</persName>'s <orgName ref="cwgk:O001001">army </orgName>marched from <placeName ref="cwgk:P001001">Tennessee</placeName> to <placeName ref="cwgk:P00000337">Louisville </placeName>she was brought along in the train. On her arrival in <placeName ref="cwgk:P00000337">Louisville </placeName>she found her self in a strange place without any one to advise with. She was houseless &amp; home less, &amp; "had not where to lay her head."<pb/>
-<lb/>In this forlorn condition she was arrested as a fugitive slave by a Policeman &amp; carried to M<hi rend="sup">r</hi> Willis Levys that she might have a home, untill such time as her master might come &amp; take her back to <placeName ref="cwgk:P001001">Tennessee</placeName>. For this kindness she was greatful. She endeavored to pay for this kindness, by being attentive to her duties as a servant; watchful of their interest, &amp; in all things to be faithful &amp; trustworthy.</p>
-<p>The family of Mr Levy consisted of himself <persName ref="cwgk:N002005">his wife</persName> &amp; a lovely little Girl called <persName ref="cwgk:N002006">Blanch </persName>about fifteen months old. This little child died Sudenly, &amp; a practical chemist discovered that the stomach contained stichnine.</p>
-<p>The child was fed by petitioner at breakfast, it was carried into the mothers chambers, it was playful &amp; fondled its mother. In a little while petitioner led the child into the yard &amp; several minutes there after the child was seized with convulsions &amp; in a short time expired.</p>
-<p>Mr Levy had bought some strichnine several months before &amp; had on two oaccassions put some out once to poison tame pegions, &amp; once he split three<pb/>
+<p>Your petitioner lived in the state of Tennesee, her master Mr. Dement had joined the army. When General Beull's army marched from Tennesee to Louisville she was brought along in the train. On her arrival in Louisville she found her self in a strange place without any one to advise with, She was houseless &amp; home less, &amp; "had not where to lay her head."<pb/>
+<lb/>In this forlorn condition she was arrested as a fugative slave by a Policeman &amp; carried to M<hi rend="sup">r</hi> Willis Levys that she might have a home, untill such time as her master might come &amp; take her back to Tennesee. For this kindness she was greatful. She endeavored to pay for this kindness, by being attentive to her duties as a servant; watchful of their interest, &amp; in all things to be faithful &amp; trustworthy.</p>
+<p>The family of Mr Levy consisted of him self his wife &amp; a lovely little Girl called Blanch about fifteen months old. This little child died sudenly, &amp; a practical chemist discovered that the stomach contained strichnine.</p>
+<p>The child was fed by petitioner at breakfast, it was carried into the mothers chamber, it was playful &amp; fondled its mother. In a little while petitioner led the child into the yard &amp; several minutes there after the child was seized with convulsions &amp; in a short time expired.</p>
+<p>Mr Levy had bought some strichnine several months before &amp; had on two occassions put some out, once to poison tame pigeons, &amp; once he split three<pb/>
 <lb/>pieces of meat &amp; put in some of the poison, &amp; put it just under the cill of the house to poison cats; This Mr Levy stated in evidence. Mr Levy &amp; his wife both stated that petitioner appeared to love the little child, &amp; delighted to do little kind things to please it at all times.</p>
 <p>Mr &amp; Mrs Levy testified that petitioner was obedient; was not impudent, &amp; obeyed with cheerfulness all commands. The above statements are matters of evidence, brought out on the trial of the case, &amp; that too, from the witnesses introduced by the commonwealth, for your petitioner had none. Your petitioner will now state one important fact which was not developed on the trial, Mr Levy put out the poison on more than two occassions; he put it out many times to kill Dogs &amp; Cats, &amp; it was never taken up, &amp; what became of it no one knows.</p>
-<p>Your petitioner plead not guilty before the Jury. She plead not guilty before the Judge when she received he sentence, &amp; before God &amp; High Heaven she is innocent of the crime charged.<pb/>
+<p>Your petitioner plead not guilty before the Jury, She plead not guilty before the Judge when she received her sentence, &amp; before God &amp; High Heaven she is innocent of the crime charged.<pb/>
 <lb/>She could not have perpetrated Such a deed upon any one, much less upon one so innocent &amp; so lovely. The act belies every instinct of her nature. She is alive to the feelings of a woman &amp; a Mother.</p>
 <p>Your petitioner prays your Excellency to grant her a pardon</p>
-<p>Caroline ^her X mark^ Dennent</p>
-<p>We the undersigned citizens of Louisville Ky unite in the prayer of the petitioners, &amp; most respectfully request your Excellency to grant her a pardon</p>
-<p><persName ref="cwgk:N002026">H C Thomas</persName> ast Jailer<lb/><persName ref="cwgk:N002027">John g Enlow</persName> Policeman<lb/><persName ref="cwgk:N002028">Charls Juno</persName> Policeman</p>
-<p>I prosecuted the petitioner, Caroline, in the <orgName ref="cwgk:O001838">city court of Louoisville</orgName>, and from strong circumstances made known to me since <hi rend="underline">that</hi> trial, I feel that Executive clemency will have been worthily bestowed if she be fully pardoned</p>
-<p><persName ref="cwgk:N002029">W. G. Reasor
-</persName><lb/>City Attorney</p>
-<p><persName ref="cwgk:N002030">Burton Farmer
-</persName><lb/>Turn Key at Jail
-<lb/><persName ref="cwgk:N002031">A C Cross</persName> Policiman<lb/><persName ref="cwgk:N002032">Wm Cross </persName>Poleceman<lb/><persName ref="cwgk:N002033">Henry C Russell </persName><unclear>D M, E D</unclear>
-<lb/><persName ref="cwgk:N002034">John H Williams</persName> Policeman<lb/><persName ref="cwgk:N002035">Georges Jonas</persName> Interpaeter<lb/><persName ref="cwgk:N002036">J C Baird</persName> Policeman<lb/><persName ref="cwgk:N002037">Robt A Hamilton
-</persName><lb/><persName ref="cwgk:N002038">Phil Tomppert Jr.</persName> C C C L</p>
+<p>Caroline ^her X mark^ Dement</p>
+<p>We the undersigned citizens of Louisville Ky unite in the prayer of the petitioner, &amp; most respectfully request your Excellency to grant her a pardon</p>
+<p>H C Thomas ast Jailer
+<lb/>John g Enlow Policeman
+<lb/>Charls Juno Policeman</p>
+<p>I prosecuted the petitioner. Caroline. in the city court of Louisville, and from strong circumstances made known to me since <hi rend="underline">that</hi> trial, I feel that Executive clemency, will have been worthily bestowed if she be fully pardoned</p>
+<p>W, G, Reasor
+<lb/>City attorny</p>
+<p>Burton Farmer
+<lb/>Turn Key at Jail
+<lb/>J, W, Knight
+<lb/>A C Cross Policiman
+<lb/>Wm Cross Poleasma
+<lb/>Henry C Russell <unclear>D M, E D</unclear>
+<lb/>John H Williams Policeman
+<lb/>George Jonas Interpaeter
+<lb/>J C Baird Policeman
+<lb/>Robt A Hamilton
+<lb/>Phil Tomppert. Jr. C C C L</p>
   </body>
  </text>
 </TEI>

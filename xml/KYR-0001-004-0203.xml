@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0203"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,51 +63,54 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort Ky <date when="1863-10-28">Oct 28-1863</date>
+   <p>Frankfort Ky <date when="1863-10-28">Oct 28 -- 1863</date>
 <lb/>To His Excellency
 <lb/>Gov. Bramlette:</p>
-<p>Your petitioner Eli M<hi rend="sup">c</hi>Daniel pray you to remit a fine of ten dollars imposed upon him by the City Court of Frankfort Ky. about the <date when="1863-09-03">3<hi rend="underline"><hi rend="sup">rd</hi></hi></date> or <date when="1863-09-04">4<hi rend="underline"><hi rend="sup">th</hi></hi> day of Sept. 1863</date>, for committing a breach of the peace as was formed in the juries verdict, by drawing a pistol upon one Rev. T. W. Moore who had attacked his person by throwing stones at him. He states that he committed no such breach of the peace, he not being the attacking party, nor did he so intend. He further states that he has a family to provide for and is little able to do so, being poor and often without labor to perform. He also subjoins to this his petition, the approval of many worthy citizens of the city of Frankfort, as being just and who are willing that he should be relieved of the said fine.</p>
-<p>With due regard he is your humble servant
+<p>Your petitioner Eli M<hi rend="underline"><hi rend="sup">c</hi></hi>Daniel pray you to remit a fine of ten dollars imposed upon him by the City Court of Frankfort Ky, about the <date when="1863-09-03">3<hi rend="underline"><hi rend="sup">rd</hi></hi></date> or <date when="1863-09-04">4<hi rend="underline"><hi rend="sup">th</hi></hi> day of Sept. 1863</date>. for committing a breach of the peace as was found in the juries verdict, by drawing a pistol upon one Rev. T. W. Moore who had attacked his person by throwing stones at him, He states that he committed no such breach of the peace, he not being the attacking party, nor did he so intend, He further states that he has a family to provide for and is little able to do so, being poor and often without labor to perform. He also subjoins to this his petition, the approval of many worthy Citizens of the City of Frankfort, as being just and who are willing that he should be relieved of the said fine.</p>
+<p>With due regard he is
+<lb/>your humble servant
 <lb/>E W M<hi rend="sup">c</hi>Daniel<pb/></p>
-<p>We the undersigned willilgly approve the above petition of Eli M<hi rend="sup">c</hi>Daniel and recommend the Governor to remit the said fine.</p>
+<p>We the undersigned willilgly approve the above petition of Eli M<hi rend="sup">c</hi>Daniel, and recommend the Govenor to remit the said fine,</p>
 <p>Very respectfully
 <lb/><milestone unit="column" n="2"/><cb n="1"/>D. G. Venable
 <lb/>J. C. Hendricks
-<lb/>Robt Gillson, Juryman
+<lb/>Rob<hi rend="underline"><hi rend="sup">t</hi></hi> Gillson Juryman
 <lb/>John. J. Quin
 <lb/>William. T. Bacon
 <lb/>Elias Stone
 <lb/>John Whitehead Juriman
-<lb/>Henry J Meets
-<lb/>James S. Duvall
+<lb/>Henry J Keets
+<lb/>James T. Duvall
 <lb/>A Kahn Juriman
-<lb/>John Callaghan
-<lb/>Jn<hi rend="sup">o</hi> S Philips
-<lb/>P Joyce Juriman
-<lb/>I recommend the fine to be remitted P. U. Major
-<lb/>T. Callaghan
-<lb/>W. B. Holeman
-<lb/>Jno M Cruther
-<lb/>Tho<hi rend="sup">s</hi>. C. Kyle.
+<lb/>John callaghan
+<lb/>Jn<hi rend="sup">o</hi> S Philips Juriman
+<lb/>P. Joyce Juriman</p>
+<p>I recommend the fine to be remitted,
+<lb/>P. U. Major<figure type="hr"/></p>
+<p>T. Callaghan
+<lb/>W, B, Holeman
+<lb/>Jno M Crutcher
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> C, Kyle,
 <lb/>H R Powell
 <lb/>James M. Todd
-<lb/>G. W. Miller Juryman
-<lb/>W H Gray
-<lb/>A. G. Cammack
+<lb/>G, W, Miller Juryman
+<lb/><hi rend="underline">W H Gray</hi>
+<lb/>A. G. Carmmack
 <lb/>J. Baltzell
-<lb/><cb n="2"/>F. R. Watson Juryman
+<lb/><cb n="2"/>J R Watson, Juryman
 <lb/>W. A. Gaines
-<lb/>L F. Vandenbergh
-<lb/>Ben. F. Freehs Juryman<milestone unit="column" n="1"/><pb/></p>
+<lb/>L F, Vandenbergh
+<lb/><hi rend="underline">B, F, <unclear>Meeks</unclear> Juryman</hi><milestone unit="column" n="1"/><pb/></p>
 <p>City Ct. Frankfort
+<lb/>vs
 <lb/>E. W. M<hi rend="sup">c</hi>Daniel
 <lb/>Petition for Remission</p>
 <p>Remit the fine except fees &amp; costs
-<lb/><date when="1863-10-30">Oct 30<hi rend="sup">th</hi> 1863</date>
-<lb/>Tho E Bramlette
+<lb/><date when="1863-10-30">Oct 30<hi rend="sup">th</hi> 1863</date></p>
+<p>Tho E Bramlette
 <lb/>Gov<hi rend="sup">r</hi></p>
 <p>Breach Peace
-<lb/>$10 -- </p>
+<lb/>&#36;10 -- </p>
   </body>
  </text>
 </TEI>

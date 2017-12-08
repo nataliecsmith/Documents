@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0040"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,12 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>The affiant B P Cissell states that in the year <date when="1856">1856</date> he qualified as the Guardian for Samuel, William, Sarah, Carrie &amp; Angeline Ten, that Samuel, William &amp; Sarah has arrived at Majority he has divided the property &amp; settled with said parties Carrie &amp; Angiline are girl of quite tender years, &amp; own under said division two slaves each, one owns a small girl &amp; Phil, a man about 26 or 27 yrs old, the other a girl a boy named Dick about 14 years old. That these slaves are all the property said Children own that yield any income to raise &amp; educate them. That for the year <date when="1864">1864</date> he had hired Phil to D R Burbank for 240$ Dick to same for $225. That neither of said slaves as he verily believes was fit for military duty, one of them, Dick was not even enrolled. That During the late raid of one Col Cunningham ^of the U S Army^ with an armed force of slaves in Union County said two slaves were captured on the farm of said D R Burbank in Union County &amp; carried to Paducah or some part to affiant unknown and have never been returned and affiant has been informed that Said Cunningham insists that all said slaves are now forever free &amp; refuses to allow any of them to return -- </p>
+   <p>The affiant B P Cissell states that in the year <date when="1856">1856</date> he qualified as the Guardian for Samuel, William, Sarah, Carrie &amp; Angeline <unclear>Ten</unclear>, that Samuel, William &amp; Sarah has arrived at Majority he has divided the property &amp; settled with said parties Carrie &amp; Angiline are girl of quite tender years, &amp; own under said devision two Slaves each, one owns a small girl &amp; Phil, a Man about 26 or 27 yrs old, the other a girl a boy named Dick about 14 years old. That theise slaves are all the property said Children own that yield any income to raise &amp; educate them. That for the year <date when="1864">1864</date> he had hired Phil to D R Burbank for 240&#36; Dick to same for &#36;225. That neither ofsaid slaves as he verily believes was fit for Military duty, one of them, Dick was not even enrolled. That During the late raid of one Col Cunningham ^of the U S Army^ with an armed force of slaves in Union County said two Slaves were captured on the farm of said D R Burbank in Union County &amp; carried to Paducah or some part to affiant unknown and have never been returned and affiant has been informed that Said Cunningham insists that all said slaves are now forever free &amp; refuses to allow any of them to return -- </p>
 <p>B P Cissell</p>
 <p>Sworn to before me by B P Cissell, <date when="1864-06-08">June 8<hi rend="sup">th</hi> 1864</date></p>
 <p>D. C. James Clk. u Ct Ct<pb/></p>
-<p>B P Cissell's
-<lb/>Afft -- </p>
+<p>B P Cissells' afft -- </p>
   </body>
  </text>
 </TEI>

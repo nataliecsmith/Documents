@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0246"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,60 +62,59 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Tho<hi rend="sup">s</hi> E Bramlett
-<lb/>Governor of the State of Kentucky</p>
-<p>your petioner would respectfully represent that William L Johnson was at the <date when="--10">October term</date> of the Trimble Circuit Court fined Seventy Five dollars for Stabing James Bell, on the premises of your petioner, William L. Johnson an act which he was provoked to do by threatening language which his victim used toward him, and further he would represent that he is poor and unable to pay the find, and has a family of a wife and Two children, And William L. Johnson, prays you that he is a law abiding man has never Solicited any difficulty with no person, and that he sacrificed his former home, and moved Ten miles of from his persecutors to avoid further difficulty, and he would pray you to remit his find or as much of it as your Excellency may judge propper</p>
+   <p>To His Excellency Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlett
+<lb/>Governor of the state of Kentucky your petioners would respectfully represent that William L Johnson was at the <date when="--10">October term</date> of the Trimble Circuit Court fined Seventy Five dollars for stabing James. Bell, on the premises of your petioner, William L. Johnson an act which he was provoked to do, by threatening language which his victim used toward him, and further he would represent that he is poor and unable to pay the find, and has a family of a wife an Two children, And William L. Johnson, prays you that he is a law abiding man has never solicited any difficulty with no person, and that he sacrificed his former home, and moved Ten miles of from his persecutors to avoid further difficulty, and he would pray you to remit his find or as much of it as your Excellency may judge propper</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>T M M<hi rend="sup">c</hi>Carty
-<lb/>Jno Mikin
+<lb/>Geo Mullikin
 <lb/>Jas. B. Cook
 <lb/>George Wright
-<lb/>B. G. Wright
-<lb/>T. E. Skidmore
-<lb/>R H Knisley
+<lb/>B G. Wright
+<lb/>T, E, Skidmore
+<lb/>R H <unclear>King</unclear>
 <lb/>D S Lane
 <lb/>E Ray
-<lb/>L. M<hi rend="sup">c</hi>Kere
+<lb/>L. <unclear>Aikens</unclear>
 <lb/>W P Maddox
 <lb/>F A Adams
 <lb/><cb n="2"/>J. Y. Newkirk
-<lb/>John. J. Morgan
+<lb/>John, J, Morgan
 <lb/>John W. Stewart
 <lb/>Jo<hi rend="sup">s</hi>. F. Pittman
-<lb/>T. B. gatewood
-<lb/>A. J. Wright
+<lb/>T. B gatewood
+<lb/>A. J Wright
 <lb/>W. J. Wright
-<lb/>J T Ladd Word
+<lb/>J T Ladd Md
 <lb/>Greenup W. Cholson
-<lb/>C Utley
+<lb/>C. Ulley
 <lb/>Wm. Herrel
 <lb/>J H Lane<milestone unit="column" n="1"/><pb/>
 <lb/>Wm J Parker
 <lb/>J B Pierce
 <lb/>Thomas Jones
 <lb/>David gilham
-<lb/>P. R. Smith
+<lb/>P. R. Smith,
 <lb/>A Burnett
 <lb/>J Lingate
 <lb/>J G C Carraco
 <lb/>C B berry
 <lb/>J. F. Young
-<lb/>H W Gaar
+<lb/>H. W Gaar
 <lb/>Jesse J Jones
 <lb/>William Robbins
 <lb/>Silas Gatewood
-<lb/>D R Larue
-<lb/>Thos Obinard
-<lb/>Jenny Larue sr
-<lb/>P M Staples
+<lb/>G R Larue
+<lb/>Thos <unclear>Olinard</unclear>
+<lb/>Henry Larue sr
+<lb/>J M Staples
 <lb/>James Staples
-<lb/>Hensay T Canada
-<lb/>W. Strattone P. M.</p>
+<lb/>Henesey T Canada
+<lb/>W, Strattone P. M.</p>
 <p>Trimble Cir Ct
 <lb/>vs
 <lb/>W<hi rend="sup">m</hi> L. Johnson
-<lb/>$75 -- 
+<lb/>&#36;75--
 <lb/>Stabbing
-<lb/>Respited 12 mos
+<lb/>Respited 12 Mos
 <lb/><date when="1863-11-16">16<hi rend="sup">th</hi> Nov 1863</date></p>
   </body>
  </text>

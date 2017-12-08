@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0083"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,22 +66,22 @@
    <p>Midway <date when="1865-02-15">Feby 15" 65</date>
 <lb/>Gov. Bramlette
 <lb/>Dear Sir</p>
-<p>I trouble you with a line in regard to the recruiting officer for the State Service at this place who professes to have authority -- from you to raise a company &amp;c, I refer to W. W. Harper -- and as a citizen and a Union man in behalf of the cause -- the community, your own good name and of common decency I protest against such an appointment -- As badly as this service demands men and as much as we have<pb/>
-<lb/>suffered from guerrillas we as a community had rather Quantrell, would pay an <hi rend="underline">occasional</hi> visit than be annoyed by this man in "brief authority" -- all the time.</p>
-<p>This is not malice -- I am one of the very few who are on friendly terms with Harper in town, but in Heavens name dont give any such man a commission.</p>
+<p>I trouble you with a line in regard to the recruiting officer for the State Service at this place who professes to have authority from you to raise a company &amp;c, I refer to W. W. Harper -- and as a citizen and a union man in behalf of the cause -- the community, Your own good name and of common decency I protest against such an appointment -- As badly as the service demands men and as much as we have<pb/>
+<lb/>suffered from guerrillas we as a community had rather Quantrell would pay an <hi rend="underline">occasional</hi> visit than be annoyed by this man in "brief authority" -- all the time,</p>
+<p>This is not malice -- I am one of the very few who are on friendly terms with Harper in town, but in Heavens name dont give any such man a commission,</p>
 <p>I do not think he caught a single recruit yet assuming authority from you damages the cause very much with decent people</p>
-<p>I do not care to have my name known in this tho if <hi rend="underline">necessary</hi> I shall not shrink from it one jot -- but he is<pb/>
-<lb/>not the kind of man to have in the place nor a <hi rend="underline">desirable</hi> <hi rend="underline">enemy</hi>.</p>
-<p>Col M<hi rend="sup">c</hi>Leod or W, Y, Poynter can represent his case to you</p>
+<p>I do not care to have my name known in this tho if <hi rend="underline">necessary</hi> I shall not shrink from it one jot- but he is<pb/>
+<lb/>not the Kind of man to have in the place nor a <hi rend="underline">desirable</hi> <hi rend="underline">enemy</hi>,</p>
+<p>Col M<hi rend="sup">c</hi>Leod or W. Y. Poynter can represent his case to you</p>
 <p>Very Truly Yrs &amp;c
-<lb/><hi rend="underline">M. E, Poynter</hi><pb/></p>
+<lb/><hi rend="underline">M. E. Poynter</hi><pb/></p>
 <p>Midway Ky
 <lb/><date when="1865-02-15">February 15<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date><figure type="hr"/>
 <lb/>Poynter M. E<figure type="hr"/>
-<lb/>To Gov. B -- <figure type="hr"/></p>
-<p>Asks in the name of heaven &amp;c that the authority of W. W Harper at that place be revoked -- as he is unfit, &amp; will damage the cause -- refers to W. T. Poynter and Col M<hi rend="sup">c</hi>Leod -- member from Woodford Co -- <figure type="hr"/></p>
-<p>L B No. 10. <date when="1865">1865</date> P 113<figure type="hr"/>
-<lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1865-02-16">Feby 16" 1865</date></p>
+<lb/>To Gov. B- <figure type="hr"/></p>
+<p>Asks in the name of heaven &amp;c that the authority of W. W Harper at that place be revoked- as he is unfit, &amp; will damage the cause -- refers to W. T. Poynter and Col M<hi rend="sup">c</hi>Leod -- member from Woodford Co -- <figure type="hr"/></p>
+<p>L. B. No. 10. <date when="1865">1865</date> P 113<figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1865-02-16">Feby 16<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date></p>
   </body>
  </text>
 </TEI>

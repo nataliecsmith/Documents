@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0084"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,32 +63,32 @@
  </teiHeader>
  <text>
   <body>
-   <p>Stanford <date when="1865-02-12">Feb 12th 1865</date>
+   <p>Stanford <date when="1865-02-12">Feb 12<hi rend="sup">th</hi> 1865</date>
 <lb/>His Exelency
 <lb/>Thos E Bramlete Gov Ky
 <lb/>Dear Sir</p>
-<p>Our part of the state is verry much infested with guerrillas who are murdering our citizens stealing our horses and devastating our country generally and we stand in great need of help. If it is possible for you to send us a company of cavalry to be stationed for a short time at Hustonville it will be the means of saving the town and surrounding county, our need is pressing and our wants are urgent.</p>
-<p>The facts in the case are about these three ^two^ weeks ago a band of cut throats came to Hustonville killed Leut Connigham and Stole several horses made there way to Danville committed sundry depredations then and moved off into the vicinity of Harrodsburgh when Capt Bridgewater came up with them and punished them severly a few days since they returned to the Roling Fork in the nighborhood of Maj George <unclear/> murdered Mr Pruett of Casey County when Capt Bridgewater again assembled his men surprised them at night killed four of their member and dispersed the balance from the prisoners take from their band we learn that it is the determination of there leader to burn the town of Hustonville we do not know when to look for them but we feel assured that they will return and reek there vengance on the defensless<pb/>
-<lb/>town and its inhabitants now we do pray you to send us some help, if you have not got it at your command perhaps a suggestion from you to the Genl Commanding would have the effect to get us some help from the Federal forces in Ky if the storm can be stayed for a short time our own men will volunteer and defend themselves and there houses as soon as they can be armed and equiped by the state our men are anxious to go into the state service and will immediately commence enroling themselves for that purpose all they <unclear/> is protection untill they can be organized and equiped Capt Bridgewater and his men have done all that could be done with the limited force under his command if he had more guns and ammunition he could man them in sufficient force to rid this part of the state of all such maurading and murdering theives hoping that you will give this a ^favorable^ consideration we are</p>
+<p>our part of the state is verry much infested with guerrellas who are murdering our citizens stealing our horses and devastating our county generally and we stand in great need of help, If it is possible for you to send us a company of Cavalry to be stationed for a short time at Hustonsville it will be the means of saving the town and surrounding county, our need is pressing and our wants are urgent,</p>
+<p>The facts in the case are about these <hi rend="str">three</hi> ^two^ weeks ago a band of cut throats came to Hustonville killed Leut Cunigham and stole several horses made there way to Danville committed sundry depredations then and moved off into the vicinity of Harrodsburgh when Capt Bridgewater came up with them and punished them severly a few days since they returned to the Roling Fork in the neighbourhood of Maj Georg <unclear>Dry</unclear> murdered M<hi rend="sup">r</hi> Pruett of Casey County when Capt Bridgewater again assembled his men surprised them at night killed four of there number and dispersed the balance from the prisoners take from there band we learn that it is the determination of there leader to burn the town of Hustonville we do not know when to look for them but we feel assured that they will return and reek thare vengance on the defensless<pb/>
+<lb/>town and its inhabitants now we do pray you to send us some help, if you have not got it at your command perhaps a suggestion from you to the Gnl Commanding would have the effect to get us some help from the Federal forces in Ky if the storm can be stayed for a short time our own men will volunteer and defend themselves and there houses as soon as they can be armed and equiped by the state our men are anxious to go into the state service and will immediately commence enroling themselves for that purpose all they want is protection untill they can be organized and equiped Capt Bridgewater and his men have done all that could be done with the limited force under his command if he had more guns and ammunition he could man them in sufficient force to rid this part of the state of all such maurading and murdering theives hoping that you will give this a ^favorable^ consideration we are</p>
 <p>Sir your obedient friends
-<lb/>George Drye of Casey Co
+<lb/>George Drye of Casy Co
 <lb/>J S Robertson of Lincoln Co
-<lb/>B.. F.. Brown Hustonville
-<lb/>A. A. Campbell. Do
-<lb/>A Hicks. Do<pb/></p>
+<lb/>B,, F,, Brown.. Hustonville
+<lb/>A. A. Campbell, D<hi rend="underline"><hi rend="sup">o</hi></hi>
+<lb/>, A Hicks, D<hi rend="underline">o</hi><pb/></p>
 <p>Stanford Ky
 <lb/><date when="1865-02-12">Feby, 12" 1865</date><figure type="hr"/>
-<lb/>Robertson J. S. And others<figure type="hr"/>
-<lb/>To the Gov.<figure type="hr"/>
-<lb/>Asks that a Co. of Cavy. be stationed at Hustonville -- <figure type="hr"/>
-<lb/>L B No 10-<date when="1865">1865</date> P. 160<figure type="hr"/>
-<lb/>Recd A. G. O. Ky <date when="1865-02-16">16 Feby 1865</date><pb/></p>
+<lb/>Robertson J. S. and others<figure type="hr"/>
+<lb/>To the Gov-<figure type="hr"/></p>
+<p>Asks that a Co. of Cavy. be stationed at Hustonsville -- <figure type="hr"/></p>
+<p>L B N<hi rend="sup">o</hi> 10 -- <date when="1865">1865</date> P. 160<figure type="hr"/>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-02-16">16 Feby 1865</date><pb/></p>
 <p><figure type="postmark"/>
-<lb/>To His Excellency
-<lb/>Thos E Bramlete
-<lb/>Frankfort
+<lb/>To His Excelency
+<lb/>Tho<hi rend="sup">s</hi> E Bramlete
+<lb/>Frankford
 <lb/>Ky</p>
-<p>There are clevermen but ought to know we have no cavalry to send.</p>
+<p>These are clever men but ought to know we have no cavalry to send.</p>
   </body>
  </text>
 </TEI>

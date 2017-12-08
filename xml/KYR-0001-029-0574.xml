@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0574"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -67,11 +62,27 @@
  </teiHeader>
  <text>
   <body>
-   <p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00004959">Greanup Jordan</persName><lb/><persName ref="cwgk:N00004961">Aaron Gardner</persName><lb/><persName ref="cwgk:N00004963">J B Thirk</persName><lb/><persName ref="cwgk:N00004964">Wesly Gooding</persName><lb/><persName ref="cwgk:N00004965">Thomas A Jones</persName><lb/><persName ref="cwgk:N00005009">William Dearing</persName><lb/><persName ref="cwgk:N00005010">Beice Hinton</persName><lb/>Alexander M<hi rend="sup">c</hi>Ilvain
-<lb/><persName ref="cwgk:N00005011">James Reed</persName><lb/><persName ref="cwgk:N00005012">Thos Campell</persName><lb/>George M<hi rend="sup">c</hi>Ilvain
-<lb/><cb n="2"/><persName ref="cwgk:N00005013">Geo, F, Stewart</persName>,<lb/><persName ref="cwgk:N00005016">William Hurst</persName><lb/><persName ref="cwgk:N00005017">John Patten
-</persName><lb/><persName ref="cwgk:N00005020">Richard Carpenter, Jr</persName><lb/><persName ref="cwgk:N00005052">Aaron Owens</persName><lb/><persName ref="cwgk:N00005061">John C Hinton</persName><lb/><persName ref="cwgk:N00005075">James H Kirk</persName><lb/><persName ref="cwgk:N00005080">Horace Hawes</persName><lb/>John M<hi rend="sup">c</hi>Ilvain
-<lb/><persName ref="cwgk:N00005081">Ben A Oakley</persName></p>
+   <p><milestone unit="column" n="2"/><cb n="1"/>Greanup Jordan
+<lb/>Aaron Gardner
+<lb/>J B Frisk
+<lb/>Wesly Gooding
+<lb/>Thomas A Jones
+<lb/>William Dearing
+<lb/>Brice Hinton
+<lb/>Alexander M<hi rend="sup">c</hi>Ilvain
+<lb/>James Reed
+<lb/>Thos Campell
+<lb/>George M<hi rend="sup">c</hi>Ilvain
+<lb/><cb n="2"/>Geo, F, Stewart,
+<lb/>William Hurst
+<lb/>John Patten
+<lb/>Richard Carpenter, Jr
+<lb/>AAron Owens
+<lb/>John C Hinton
+<lb/>James H Kirk
+<lb/>Horace Hawes
+<lb/>John M<hi rend="sup">c</hi>Ilvain
+<lb/>Ben A Oakley</p>
   </body>
  </text>
 </TEI>

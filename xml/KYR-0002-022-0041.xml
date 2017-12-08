@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0041"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">James Prentice and J. S. Payne to Thomas B. Fairleigh</title>
+    <title level="a" type="main">James Prentis and J. F. Payne to Thomas B. Fairleigh</title>
     <title level="a" type="parallel">CWG11966</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,32 +63,33 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lewisport, Ky <date when="1864-08-03">Aug 3<hi rend="sup">d</hi> 64</date>
-<lb/>Col Fairbaugh
+   <p>Lewisport. Ky <date when="1864-08-03">Aug 3<hi rend="sup">d</hi> 64</date>
+<lb/>Col Fairleigh
 <lb/>Sir</p>
-<p>We beg leave to warn you &amp; the authorities at Frankfort of an imposition designed to be practised on by the Rebels &amp; Rebel sympathisers here -- You are aware no doubt of the several Guerilla Raids which have been upon us lately in which they have entirely disarmed all the loyal men here, taken all the horses they could &amp; all the money &amp; goods they desired besides causing the rather premature death of M<hi rend="sup">r</hi>. S. B. Bell Shff of the County by the effects of personal ill treatment operating on a <unclear/> already enfeebled by disease -- after their first raid here the loyall men were gratified that Capt Hedrick proposed to become Provost Marshall here &amp; <hi rend="str">has</hi> ^that he is^ also now as ^we^ hear raising a company under a Commission from the Gov to protect the Town &amp; County -- after his appointment of Provost Marshall Capt H -- provided other Gun Boat at Counselor &amp; brot in down to make some arrest here in consequence of over to last page. Complicity<pb/>
-<lb/>with the Guerillas when here &amp; the news being promptly carried to this same land they returned here several days past are second of the Capt &amp; a few others swearing that they would take their lives -- The Capt however &amp; the others fortunately escaped over the River -- Now the Rebels here have been just detected in getting up a secret petition to the Gov to countermand the Commission of Capt H. and ^it^ is against this insidious appeal that we wish to warn you &amp; through the Gov. at Frankfort.</p>
-<p>all loyal Men here that we are aware of vary much desire that Capt H. be permitted to raise his Men &amp; use them for our protection_ and ^if^ any other information reaches you it is false and insidious -- A Man by the name of Sanford here considered here as a spy &amp; imposter is named in the papers we saw as bearer of the paper &amp; the Gov. &amp; in it he is claimed to be a loyal Man_ but all of us consider him as cunning &amp; <unclear/> <unclear/> Rebel -- For the unconditional loyalty of the first undersigned he refers you to the Editor of the "Press" or to J. M. Stephens of your City, and your father in Brandenburg whom he was with a few days past -- ^The^ Public office of the 2<hi rend="sup">d</hi> name is surely enough for his loyalty</p>
+<p>We beg leave to warn you &amp; the authorities at Frankfort of an imposition designed to be practised on by the Rebels &amp; Rebel sympathisers here -- You are aware no doubt of the several Guerilla Raids which have been upon us lately in which they have entirely disarmed all the loyal men here, taken all the horses they could &amp; all the money &amp; goods they desired besides causing the rather premature death of M<hi rend="underline"><hi rend="sup">r</hi></hi> S. B. Pell Shff of the County by the effects of personal ill treatment operating on a Constitution already enfeebled by disease -- after their first raid here the loyall men were gratified that Capt Hendrick proposed to become Provost Marshall here &amp; ^that he is^ <hi rend="str">has</hi> also now as ^we^ hear raising a company under a Commission from the Gov to protect the Town &amp; County -- after his appointment of Provost Marshall Capt H-- proceeded on the Gun Boat at Cannelon &amp; bro<hi rend="sup">t</hi> in down to make some arrest here in consequence of complicity
+<lb/>(over to last page)<pb/>
+<lb/>with the Guerillas when here &amp; the news being promptly carried to this same band they returned here several days post in search of the Capt &amp; a few others swearing that they would take their lives-- The Capt however &amp; the others fortunately escaped over the River -- Now the Rebels here have been just detected in getting up a secret petition to the Gov to countermand the Commission of Capt H-- and ^it^ is against this insidious appeal that we wish to warn you &amp; through the Gov. at Frankfort--</p>
+<p>all loyal men here that we are aware of vary much desire that Capt H. be permitted to raise his men &amp; use them for our protection -- and ^if^ any other information reaches you it is false and insidious -- a man by the name of Sanford here considered here as a spy &amp; imposter is named in the paper we saw as bearer of the paper to the Gov-- &amp; in it he is claimed to be a loyal Man-- but all of us consider him as cunning &amp; <unclear/> Yankee Rebel-- For the unconditional loyalty of the first undersigned he refers you to the editor of the "Press" or to J. M. Stephens of your City, and your father in Brandenburg whom he was with a few days past -- ^The^ Public office of the 2<hi rend="sup">d</hi> name is surely enough for his loyalty</p>
 <p>Resply in haste
 <lb/>Jas Prentis -- </p>
-<p>J S Payne D. W</p>
-<p>P. S. We do not desire our names to be made public unnecessarily -- </p>
-<p>J P<pb/></p>
+<p>J F Payne P. M</p>
+<p>P. S. We do not desire our names to be used in public unnecessarily -- </p>
+<p>J F P<pb/></p>
 <p><hi rend="underline">Lewisport</hi> <hi rend="underline">Ky</hi> <date when="1864-08-03"><hi rend="underline">Aug 3</hi><hi rend="underline"><hi rend="sup">d</hi></hi><hi rend="underline"> 1864</hi></date><hi rend="underline">
-<lb/>Prentis</hi> <hi rend="underline">James</hi> and <hi rend="underline">Payne</hi> <hi rend="underline">J.</hi> <hi rend="underline">F.</hi> <hi rend="underline">P.</hi> <hi rend="underline">M.</hi>
+<lb/>Prentis</hi> <hi rend="underline">James</hi> and
+<lb/><hi rend="underline">Payne</hi> <hi rend="underline">J,</hi> <hi rend="underline">F,</hi> <hi rend="underline">P.</hi> <hi rend="underline">M,</hi>
 <lb/>(Citizens)</p>
-<p>Report that <hi rend="underline">Guerillas</hi> have in their raids disarmed the loyal citizens taken their horses money and Goods caused the premature death of S. B. Bell Sheriff of the County by ill treatment and requests that Capt Hedrick P. M. be allowed to raise a Co for our protection, also, report one Sanford as trying to raise a Co who is consider by all as a spy and yarker Rebel and ought to be treated as such<figure type="hr"/>
-<lb/>L B N<hi rend="sup">o</hi>5 - <date when="1864">1864</date> P 371
-<lb/>Rec<hi rend="sup">d</hi> A G O <date when="1864-08-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> Aug 1864</date></p>
+<p>Report that <hi rend="underline">Guerillas</hi> have in their raids disarmed the loyal citizens taken their horses Money and Goods caused the premature death of S, B, Bell Sheriff of the County by ill treatment and requests that Capt Hendrick P. M. be allowed to raise a Co for our protection, also, report one Sanford as trying to raise a Co who is consider by all as a spy and <hi rend="str"><unclear/></hi>Yankee Rebel and ought to be treated as such<figure type="hr"/></p>
+<p>L B N<hi rend="sup">o</hi>5 -- <date when="1864">1864</date> P 371
+<lb/>Rec<hi rend="sup">d</hi> A G O. <date when="1864-08-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> Aug 1864</date></p>
 <p>Head-Quarters Military Commanders.
-<lb/>P. N<hi rend="sup">o</hi>16= M C 8= <date when="1864">1864</date>
-<lb/>Louisville, Ky., <date when="1864-08-08">August 8 1864.</date></p>
-<p>Respectfully forwarded to
-<lb/>Thomas J. Bramlette
+<lb/>P. N<hi rend="underline"><hi rend="sup">o</hi></hi> 16= M C 8-- <date when="1864">1864</date>
+<lb/>Louisville, Ky., <date when="1864-08-08">August 8<hi rend="sup">th</hi> 1864</date>.</p>
+<p>Respectfully forwarded to Thomas I. Bramlette
 <lb/>Gov'r State of Kentucky</p>
-<p>Tho. B Fairleigh
-<lb/><hi rend="italic">Lieut. Col. 26th Ky. V. V. I., Commanding.</hi><figure type="hr"/>
-<lb/>Hancock Co. 50</p>
+<p>Tho. B. Fairleigh
+<lb/>Lieut. Col. 26th Ky. V. V. I., Commanding.<figure type="hr"/></p>
+<p>Hancock Co, <hi rend="underline">50</hi></p>
   </body>
  </text>
 </TEI>

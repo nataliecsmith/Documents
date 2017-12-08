@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0230"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,19 +64,21 @@
  <text>
   <body>
    <p>Paducah Ky <date when="1863-11-13">Nov 13 1863</date>
-<lb/>To His Excellency Thomas E. Bramlette
+<lb/>To His
+<lb/>Excellency
+<lb/>Thomas E. Bramlette
 <lb/>Frankfort, Ky</p>
-<p>Dear Sir. some two or three years ago &amp; during my term of service as Equity &amp; Criminal Judge of the first Judicial district, an Indictment was returned us W<hi rend="sup">m</hi> Wood, charging him with suffering Gaming in his House &amp;c. upon the trial the proof showed the following facts (viz) That W<hi rend="sup">m</hi> Wood was the owner of a Coffee House in Jersey City, that a party of 4 or 5 gentlemen were at his house, and a proposition was made and acceded to engage in a game of Cards for Oysters, that a Deck of Cards was sent for and the party then played for some oysters. This was all the gaming that was established by the Evidence that Evidence also concluded to show that Mr Wood was a man of good standing and was opposed to gaming, and that none of the witnesses had ever known of any others gam<pb/>
-<lb/>-ing in his house, upon this proof a verdict was returned vs Mr Wood accessing his fine at $200. &amp; costs and Judgement was rendered, accordingly the Judgement has never been paid and Mr Wood was a few days since arrested &amp; confined in Jail for a short time &amp; some of his friends then Replevied the Judgt. Mr Wood is a very poor man about fifty years old. These facts are written at the request of Mr Wood who I understand intends applying to you for Executive Clemency</p>
+<p>Dear Sir, some two or three years ago &amp; during my term of service as Equity &amp; Criminal Judge of the first Judicial district, an Indictment was returned vs W<hi rend="sup">m</hi> Wood, charging him with suffering Gaming in his House &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> upon the trial the proof showed the following facts. (viz) That W<hi rend="sup">m</hi> Wood was the owner of a Coffee House in Jersey City, that a party of 4 or 5 gentlemen were at his house, and a proposition was made and acceded to engage in a game of cards for Oysters, that a Deck of cards was sent for and the party then played for some oysters. this was all the gaming that was established by the Evidence. that Evidence also concluded to show that Mr Wood was a man of good standing, and was opposed to gaming, and that none of the witnesses had ever known of any others gam<pb/>
+<lb/>-ing in his house,. upon this proof a verdict was returned vs Mr Wood assessing his fine at &#36;200. &amp; costs. and Judgement was rendered accordingly the Judgement has never been paid and Mr Wood was a few days since arrested &amp; confined in Jail for a short time &amp; some of his friends then Replevied the Judgt. Mr Wood is a very poor man about fifty years old. These facts are written at the request of Mr Wood, who I understand intends applying to you for Executive clemency</p>
 <p>Very Respectfully
-<lb/>Your Obt Sevt
+<lb/>Your Obt. Sevt
 <lb/>J. M. Bigger</p>
 <p>Gov Bramlett.</p>
-<p>The above statement of the facts in the case cited, cannot fail to convince you of the merits of the claim to executive clemency. </p>
+<p>The above statement of the facts in this case cited, cannot fail to convince you of the merits of the claim to executive clemency. </p>
 <p>I have known Mr. Woods for many years and can vouch for his good conduct and strict observance of law, and I cheerfully join in the petition asking the interposition of Executive clemency, by remiting the fine</p>
 <p>I have the honor to be Sir
 <lb/>Very Respectfully,
-<lb/>your Obt Sevt.
+<lb/>Your Obt Servt.
 <lb/>R. B. J. Twyman</p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1366"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,10 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Paris Ky <date when="1864-12-19">Decr 19th 1864</date>
+   <p>Paris Ky <date when="1864-12-19">Decr 19<hi rend="sup">th</hi> 1864</date>
 <lb/>Govr Tho E. Bramlet</p>
-<p>Dr Sir I have a favour for a Friend to to ask of you on the <date when="1864-12-12">12th of this Month</date> I sent by the bearer Dr Harnard a petition to you signed by a no of persons asking the releas of a Fine in the Circuit Court against one Columbus Tate he was on a bond for the forthcoming of Negro at the Court in <date when="1861">1861</date> when court was in cession Mr Tate brought the Negro in and gave him up to the Sheriff in open Court when the cas was Continued Mr Tate had gone home in Good Faith and the Sheriff let the Negro as he stated in the petion as Sheriff Dr Harnard had is pocket robed which contained the petition as he will state to you If you can not rule as Mr Tate of the fine We <hi rend="str">do</hi> only ask the fine and not the Fees if not the release he wants a Respite to give him Tim to have the petion signed as the Sheriff is preparing him he is a Stead industrious Man and has a large Family and is hard to Live but honest your Friend &amp; voter</p>
-<p>A. S. Thomson<pb/></p>
+<p>Dr Sir I have a favour for a Friend to to ask of you on the <date when="1864-12-12">12th of this Month</date> I sent by the bearer Dr Harnard a petition to you signed by a no of persons asking the releas of a Fine in the Circuit Court against one Columbus Tate he was on a bond for the forthcoming of Negro at the Court in <date when="1861">1861</date> when court was in cession Mr Tate brought the Negro in and gave him up to the Sheriff in open Court when the cas was Continued Mr Tate had gone home in Good Faith and the Sheriff let the Negro as he stated in the petion as Sheriff Dr Har<hi rend="str">a</hi>nard had is Pocket robed which contained the petition as he will state to you If you can not releas Mr Tate of the fine <hi rend="str"><unclear/></hi>he <hi rend="str">do</hi> only ask the fine and not the Fees if not the release he wants a Respite to give him Tim to have the petien signed as the Sheriff is preping him he is a Stead industrious Man and has a large Family and is hard to Live but honest </p>
+<p>Your Friend &amp; voter
+<lb/>A. S. Thomson<pb/></p>
 <p>To His Excelency Gov Bramlette</p>
 <p>The writer of the within is the sheriff elect of this county &amp; is reliable</p>
 <p>Jno C. Brent</p>

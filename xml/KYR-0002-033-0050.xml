@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0050"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,24 +67,24 @@
 <lb/><date when="1863-04-21">April 21. 1863</date>
 <lb/>Adjt. Genl. Boyle:
 <lb/>D<hi rend="sup">r</hi> Sir -- </p>
-<p>The recommendation of <hi rend="underline">Louis W. Little</hi> for promotion, on file at Your office, is approved and a vacancy Existing in Co. "<hi rend="underline">E</hi>" 2<hi rend="sup">d</hi> Ky. Cavalry is recommended -- </p>
+<p>The recommendation of <hi rend="underline">Louis W. Little</hi> for promotion, on file at Your office, is approved and a vacancy Existing in Co. "<hi rend="underline">E</hi>" 2<hi rend="sup">d</hi> Ky. Cavalry is recommended=</p>
 <p>I am Sir
 <lb/>very Respectfully 
 <lb/>Henry E Collins
-<lb/>Lt Col 2<hi rend="sup">d</hi> Ky Cavly</p>
-<p><figure type="hr"/>Louis W. Little com 1: Lieut Company C 2<hi rend="sup">d</hi> Cav<hi rend="sup">y</hi>. -- <date when="1864-04-21">April 21. 1864</date> -- vice Bird P. Brooks dismissed.<figure type="hr"/>
-<lb/>1. 2. 3. 4. 5<pb/></p>
+<lb/>Lt Col 2<hi rend="sup">d</hi> Ky Cavly<figure type="hr"/></p>
+<p>Louis W. Little com 1: Lieut Company C. 2<hi rend="sup">nd</hi> Cav<hi rend="sup">y</hi>. -- <date when="1864-04-21">April 21. 1864</date> -- vice Bird P. Brooks dismissed-<figure type="hr"/></p>
+<p>1. 2. 3. 4. 5<pb/></p>
 <p><hi rend="underline">2 Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi><hi rend="underline">
-<lb/>Cincinnati Ohio
-<lb/></hi><date when="1864-04-21">April 21<hi rend="underline"><hi rend="sup">s</hi></hi> 1864</date><figure type="hr"/>
-<lb/>Collins H. E 
-<lb/>Lt. Col 2<hi rend="sup">d</hi> Cav<hi rend="sup">l</hi> <figure type="hr"/></p>
+<lb/></hi>Cincinnati Ohio
+<lb/><date when="1864-04-21">April 21<hi rend="underline"><hi rend="sup">s</hi></hi> 1864</date><figure type="hr"/>
+<lb/>Collins H. E
+<lb/>Lt. Col 2<hi rend="sup">d</hi> Cav<hi rend="sup">l</hi><figure type="hr"/></p>
 <p>Says the recommendation on file in your office of <hi rend="underline">Louis W Little</hi> is approved and a vacancy in Co "E" is recommended.<figure type="hr"/></p>
-<p>Issue Co<hi rend="sup">y</hi> C.
-<lb/><hi rend="underline">Boyle</hi> 
-<lb/><note place="body">Com issd &amp; deld
-<lb/><date when="1864-04-30">April 30. 1864</date></note><figure type="hr"/>
-<lb/>Rec<hi rend="sup">d</hi> A G. O. <date when="1864-04-29">29" Apr<hi rend="sup">l</hi> 1864</date></p>
+<p>Issue Co<hi rend="sup">y</hi>. C.
+<lb/><hi rend="underline">Boyle</hi> </p>
+<p>Com issd &amp; deld
+<lb/><date when="1864-04-30"><hi rend="underline">April 30. 1864</hi></date><figure type="hr"/></p>
+<p>Rec<hi rend="sup">d</hi> A G. O. <date when="1864-04-29">29" Apr<hi rend="sup">l</hi> 1864</date></p>
   </body>
  </text>
 </TEI>

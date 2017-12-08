@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0156"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,46 +64,48 @@
  <text>
   <body>
    <p>To His Excellency the Governor of the State of Kentucky</p>
-<p>C P Springer a citizen of Mercer County State of Kentucky would respectfully represent that on the <date when="1863-08-28">28<hi rend="sup">th</hi> day of August 1863</date> two judgments for $5 &amp; costs each were rendered against him by the Police Judge of Harrodsburg both of s<hi rend="sup">d</hi> Judgments were rendered on charges of drunkenness &amp; disorder He states that he is a poor man a painter by trade and has dependent on him for support a wife and five children and an aged father and mother they are entirely dependent on your petitioner. He states that the two acts of offence for which he was adjudged to pay fines as in two cases were infact but one case of continued intoxication He states that since the said offense he has done nothing to lay himself liable to a simalar charge. That the drunkenness and disorder if any was committed in an unguarded moment, that he did not do now threaten any violence to any person or property and believes that the <hi rend="str">most</hi> only injury done at all was done to himself in the regrets &amp; most piculiar caused to his own feelings He states he is not addicted to drinking spiritous liquors as a habit He his wife &amp; children an aged mother and<pb/>
-<lb/>^father^ have no means of support except from the proceeds of his daily labor and that the amount of said fines if he shall have to pay same will very much lessen his ability to discharge his so duties to his family. Wherefore he places his case before your excellency and prays that in your clemency you will remit him of said fines.</p>
+<p>C P Springer a citizen of Mercer County State of Kentucky would respectfully represent that on the <date when="1863-08-28">28<hi rend="sup">th</hi> day of August 1863</date> two judgments for &#36;5 &amp; costs each were rendered against him by the Police Judge of Harrodsburg both of s<hi rend="underline"><hi rend="sup">d</hi></hi> Judgments were rendered on charges of drunkenness &amp; disorder He states that he is a poor man a painter by trade and has dependent on him for support a wife and five children and an aged father and mother they are wholy dependent on your petitioner. He states that the two acts of offence for which he was adjudged to pay fines as in two cases were infact but one case of continued intoxication He states that since the said offense he has done nothing to lay himself liable to a simalar charge. That the drunkenness and disorder if any was committed in an unguarded moment, that he did not do nor threaten any violence to any person or property and believes that he <hi rend="str">most</hi> only injury done atall was done to him-self in the regrets &amp; mortification caused to his own feelings He states he is not addicted to drinking spiritous liquors as a habit -- </p>
+<p>He his wife &amp; children an aged mother and<pb/>
+<lb/>^father^ have no means of support except from the proceeds of his daily labor and that the amount of said fines if he should have to pay same will very much lessen his ability to discharge his sd duties to his family. Wherefore he places his case before your excellency and prays that in your clemency you will remit him of said fines.</p>
 <p>C. P. Springer</p>
 <p>State of Kentucky Mercer County</p>
-<p>I J P Haggin do certify that on this <date when="1863-10-29">29<hi rend="sup">th</hi> day of October 1863</date> C P Springer came before me and made oath that the statements of <gap/> foregoing petition are true to the <gap/> his knowledge &amp; relief &amp; sd Springer in my presence subscribed the said affidavit</p>
+<p>I J P Haggin do certify that on this <date when="1863-10-29">29<hi rend="sup">th</hi> day of October 1863</date> C P Springer came before me and made oath that the statements of <unclear>the</unclear> foregoing petition are true to the be<unclear>st of</unclear> his knowledge &amp; relief. &amp; sd springer in my presence subscribed the said affidavit</p>
 <p><stamp type="revenue"/><note place="stamp">J P H
 <lb/><date when="1863-10-29">Octo 29<hi rend="sup">th</hi>
 <lb/>1863</date></note></p>
 <p>Witness my hand this <date when="1863-10-29">Octo 29<hi rend="sup">th</hi> 1863</date> as Examiner afsd</p>
 <p>J P Haggin Examiner</p>
-<p>The undersigned citizens of Harrodsburg unite in the <hi rend="str">foregoin</hi> prayer of the foregoing petition <gap/> J P Haggin</p>
-<p>We the undersigned want Mr. Springer relieved of the above fines</p>
+<p>The undersigned citizens of Harrodsburg unite in the <hi rend="str">foregoin</hi> prayer of the foregoing petition</p>
+<p>J P Haggin</p>
+<p>We the undersigned wish Mr. Springer releaved of the above finds</p>
 <p>A G Kyle
-<lb/>C. S. Abell
-<lb/>J. W. Cardwell<pb/>
-<lb/>R. R. Hunt
-<lb/>Thos C Beel
-<lb/>Richard Board C.M.C.C.
-<lb/>M. V. Bowens J.M.C
-<lb/>G. W. Rose
-<lb/>B. N. Brewer
-<lb/>T W Batton
-<lb/>P. M. Hale
-<lb/>S S M Fatridge
+<lb/>C, S, abell
+<lb/><hi rend="underline">J. W. Cardwell</hi><pb/>
+<lb/>R, R, Hunt
+<lb/>Tho C Beel
+<lb/>Richard Board C, M. C, C,
+<lb/>M, V, Bowen, J, M, C
+<lb/>G, W, Rose
+<lb/>B V Brewer
+<lb/>T W Bottom
+<lb/>P, M, Hale
+<lb/>S S M<hi rend="sup">c</hi>Fatridge
 <lb/>L G Hale
-<lb/>Tho H Daviess
+<lb/>Tho H Daviess,
 <lb/>W. H. Daniel
-<lb/>John G. Kyle Police Judge of Harrodburg
-<lb/>Thos Edward Presiding Judge of Mercer County Court<pb/></p>
+<lb/>John G. Kyle Police<hi rend="str"><unclear/></hi> Judge of Harrodsburg
+<lb/>Tho<hi rend="sup">s</hi> Edwards Presiding Judge of Mercer County Court<pb/></p>
 <p>Merc
 <lb/>vs
 <lb/>C. P. Springer
-<lb/><date when="1863-11-30">30<hi rend="sup">th</hi> Nov/ 63</date> refused
-<lb/>ans<hi rend="sup">d</hi></p>
+<lb/><date when="1863-11-30">30<hi rend="sup">th</hi> Nov/63</date> refused
+<lb/>ans<hi rend="underline"><hi rend="sup">d</hi></hi></p>
 <p>Mercer County</p>
 <p><figure type="postmark"><listPlace><place><placeName>HARRODSBURG
 <lb/><date when="--10-30">OCT
 <lb/>30</date>
 <lb/>KY</placeName></place></listPlace></figure></p>
-<p>Pet for remission of fines-
+<p>Pet for remission of fines -- 
 <lb/>Harrodsburg</p>
 <p>Refused
 <lb/>Tho E Bramlette</p>

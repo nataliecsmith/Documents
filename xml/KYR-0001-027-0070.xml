@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0070"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,13 +62,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>1. Provost Marshals in the department commanded by Brig: Gen: Boyle, are hereby notified that in obedience to general order No 9, I have been appointed, and have entered upon the discharge of the duties of Provost Marshal General for the department under the command of Gen Boyle.</p>
-<p>2. The Federal and State authorities being now in harmony it is intended as soon as possible to hand over to the State authorities the duty of keeping peace in the State. In the meantime while indiscriminate arrests are strongly condemned; no arrests must be made except for such causes as are set forth in general order No 4. from the head quarters of Gen Boyle; the charge must be specific and supported by the written affidavit of one or more responsible parties</p>
+   <p>1. Provost Marshals in the department commanded by Brig: Gen: Boyle, are hereby notified that in obedience to general order No 9. I have been appointed, and have entered upon the discharge of the duties of Provost Marshal General for the department under the command of Gen Boyle.</p>
+<p>2. The Federal and State authorities being now in harmony it is intended as soon as possible to hand over to the State authorities the duty of keeping peace in the State. In the meantime while indiscriminate arrests are strongly condemned; no arrests must be made except for such causes as are set forth in general order No 4, from the head quarters of Gen Boyle; the charge must be specific and supported by the written affidavit of one or more responsible parties</p>
 <p>3 Persons must not be sent to these head quarters without the charges and proof. The cost of holding prisoners shall not exceed forty cents per day.</p>
 <p>4. Provost marshals and Home guard's organised by him act voluntarily and<pb/>
 <lb/>without compensation. Their subsistance when on duty must be furnished by the counties in which they act.<pb/></p>
-<p>1. Complaints have been made to these head quarters that some of the Provost Marshals have taken money from persons, arrested, in the shape of fees for oaths bonds &amp;c; such conduct is hereby reprehended, and Provost Marshals who may do so hereafter either directly or indirectly will be arrested and brought to these head quarters.</p>
-<p>2 I am ordered by Gen Boyle to remove and appoint Provost Marshals as the Govenor may order, and to exicute my office under the Govenor.<pb/></p>
+<p>1. Complaints have been made to these head quarters that some of the Provost Marshals have taken money from persons arrested, in the shape of fees for oaths bonds &amp;c; such conduct is hereby reprehended, and Provost Marshals who may do so hereafter either directly or indirectly will be arrested and brought to these head quarters.</p>
+<p>2 I am ordered by Gen Boyle to remove and appoint Provost Marshals as the Govenor may order, and to execute my office under the Govenor.<pb/></p>
 <p>Provo. Marshals
 <lb/>Procla</p>
   </body>

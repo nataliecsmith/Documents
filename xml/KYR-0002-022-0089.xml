@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0089"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,22 +66,21 @@
    <p>Louisa Ky
 <lb/><date when="1865-06-22">June 22 1865</date>
 <lb/>To his Exelancy Thomas E Bramlett
-<lb/>Govenor of Ky
+<lb/>Governer of Ky
 <lb/>Gov</p>
-<p>In obedaince to circular No (1) from the Inspector Genls office I recruited a compay of the Kentucky National Legion for Lawrence County as Soon as I have it Recruited I wrote to the Inspector Genl that I was Ready for orders or otherwise I was ready to be mustered into Service that has been almost one month Since and I have not herd one word about it not Even up to this date. I desire if the order is not revoked to know Something about What I must do I have ben ready to Muster Since the 40" <date when="--05">May</date> and my men are getting Impatient Waiting So long Without some word I have a compay of ninety three (95) men most of which is vetteran Soldiers men Who have ben tryan and men who will do good for thare county or State Let them be ordered Whare they may the Sheriff (Mr Allison) Was talking with me about the compay and I did not know any thing to tell him he is verry anxious for the compay to be organized if the compay is organized I will give you the names of the offices. Drura J Burchett Captain. Ezekel Chapman 1<hi rend="sup">st</hi> Lieutenant and Isaac Bloss 2<hi rend="sup">nd</hi> Lieutenant if thare is to be an organization of that kind in<pb/>
-<lb/>in our county I would like to know the time that we are to be mustered into service so that I can have the company togather and be mustered with Service at once. The reason Why I address you on this subject is that I have ben writing to the different departments for a time and they are not Pay any attention to me Whatever hoping that you will <hi rend="underline">cases</hi> me to have an answer to my subject</p>
-<p>I am Govenor
-<lb/>your Obt Servt Respctfully
-<lb/>D. J. Burchett Late
-<lb/>Major 14" Ky Vol Infty
-<lb/>Louisa Ky<pb/></p>
-<p>Lawrence
-<lb/>Louisa, <date when="1865-06-22">June 22, 1865.</date><figure type="hr"/>
+<p>In obedance to circular No (1) from the Inspector Genls office I recruited a compay of the Kentucky National Legion for Lawrence County as Soon as I had it Recruited I wrote to the Inspector Genl that I was Ready for orders or otherwise I was ready to be mustered into Service that has been almost one Month Since and I have not herd one word about it not even up to this date. I desire if the order is not revoked to know Something about what I must do I have ben ready to muster Since the 40" <date when="--05">May</date> and my men are gitting Impatient Waiting So long without some word I have a compay of ninety three (93) men most of which is vetteran soldiers. men whoe have ben tryne and men who will do good fer thare county or State Let them be ordered whare they may the Sheriff (Mr Allison) was talking with me about the compay and I did not know any thing to tell him he is verry anxious for the compay to be organized if the compay is organizid I will give you the names of the offices. Drura J Burchett Captain. Ezekel Chapman 1<hi rend="sup">st</hi> Lieutenant and Isaac Bloss 2<hi rend="sup">nd</hi> Lieutenant if thare is to be an organization of that kind in<pb/>
+<lb/>in our county I would Like to know the time that we are to be mustered into service so that I can have the company togather and be mustered into Service at once. the reason why I address you on this subject is that I have ben writing to the diffirent departments fer a time and they are not Pay any attention to me whatever hoping that you will <hi rend="underline">caus</hi> me to have an answer to my subjict</p>
+<p>I am Govoner
+<lb/>your obt Servt Respectfully
+<lb/>D. J, Burchett Late
+<lb/>Major 14" Ky vol Infty
+<lb/>Louisa, Ky<pb/></p>
+<p>Louisa, <date when="1865-06-22">June 22, 1865.</date><figure type="hr"/>
 <lb/>Burchett, D. J.
 <lb/>To Gov.<figure type="hr"/></p>
-<p>says he wrote to Ins. Gen sometime since, and has received no answer says he has ninety-three men, and send names of officers elected.<figure type="hr"/></p>
-<p>An. <date when="1865-07-12">July 12, 65.</date> Let B'k B. p 252.<figure type="hr"/>
-<lb/>Rec In. Gen. Off. <date when="1865-06-30">June 30, 65</date></p>
+<p>says he wrote to <hi rend="str">G</hi>Ins. Gen. sometime since, and has received no answer says he has ninety-three men, and sends names of officers elected.<figure type="hr"/></p>
+<p>An. <date when="1865-07-12">July 12, '65.</date> Let B'k B. p 252.<figure type="hr"/>
+<lb/>Rec In. Gen. off. <date when="1865-06-30">Ju<hi rend="str">l</hi>ne 30, '65</date></p>
   </body>
  </text>
 </TEI>

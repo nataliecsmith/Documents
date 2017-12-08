@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0062"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Oweingsville, Bath County, Kentucky</placeName>
+    <placeName>Owingsville, Bath County, Kentucky</placeName>
     <date when="1865-05-01">1 May 1865</date>
    </creation>
    <textClass>
@@ -65,12 +68,12 @@
 <lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Tho<hi rend="sup">s</hi> E Bramlett
 <lb/>Frankfort Ky
 <lb/>Dear Sir</p>
-<p>On the <date when="1865-04-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> day of April 1865</date>, Wilkins Warren committed a most foul murder in this County, by murdering one Adams. Warren has pled he shot Adams twice, cut out one of his testicles, cut off his left ear, and shot in two places. Warren was formerly in the State Service. (6 months) was a Lieutenant is about 33 years of age, Slight man. about 5 feet 10 inches high quick spoken, dark hair and eyes, and generally wears a military coat, high top boots, and checked pants. It is one of the most brutal murders that I ever heard of.. The verdict of the Jury in this case stating these facts have been returned<pb/>
+<p>On the <date when="1865-04-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> day of April 1865</date>, Wilkens Warren committed a most foul murder in this County, by murdering one Adams, Warren has fled he shot Adams twice, cut out one of his testicles, cut off of his left ear, and shot in two places, Warren was formerly in the State Service, (6 months) was a Lieutenant is about 33 years of age, Slight made, about 5 feet 10 <hi rend="str">w</hi>inches high quick spoken, dark hair and eyes, and generally wears a military Coat, high top boots, and checked pants,, It is one of the most brutal murders that I ever heard of,, The verdict of the Jury in this case stating these facts have been returned<pb/>
 <lb/>in my office,,</p>
 <p>Given under my hand the date above written</p>
 <p>V. B. Young C B C C</p>
 <p>Reward
-<lb/>$300 -- 
+<lb/>&#36;300 -- 
 <lb/><date when="1865-05-13">13<hi rend="sup">th</hi> May/65</date></p>
   </body>
  </text>

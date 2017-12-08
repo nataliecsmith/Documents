@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0234"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Commonwealth of Kentucky v. Andrew Straus, Brief</title>
+    <title level="a" type="main">Logan A. Wood, Brief</title>
     <title level="a" type="parallel">CWG4353</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,21 +62,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Jefferson Circuit Court
+   <p>Jefferson Circuit court
 <lb/>Commonwealth Ky Plff
-<lb/>vs } Brief for Straus before the Governor
+<lb/>vs &#125; Brief for Straus, before the Governor
 <lb/>Andrew Straus Deft</p>
-<p>I would suggest to your Excellency, that this is a case pending in the Jefferson Circuit Court of The Commonwealth vs Andrew Straus- a Scirefacias on an old bail-bond given in <date when="1855">1855</date>, as Surety for one Charles Wicke. The facts are Stated in Straus' petition, &amp; the letter of W. A. Ronald, Sheriff.</p>
-<p>There is no Judgmt yet against Straus. The summons was not Served in time for the <date when="--10">Oct term</date> of our court. And I think it is a case where the the remiting power can be Judicially and properly exercised to to prevent a Judgement.</p>
-<p>For your power to remit the whole of it I refer you to "Article 3<hi rend="sup">d</hi> Section 10 of "The New Consitution Ky." Stanton's Rev. Statutes page 129 of 1<hi rend="sup">st</hi> vol.</p>
+<p>I would Suggest to your Excellency, that this is a case pending in the Jefferson Circuit court of The Commonwealth vs Andrew Straus -- a Scirefacias on an old bail-bond given in <date when="1855">1855</date> -- as Surety for one Charles Wicke. The facts are Stated in Straus' petition, &amp; the letter of W. A. Ronald, Sheriff.</p>
+<p>There is no Judgemt yet against Straus- the Summons was not Served in time for the <date when="1863-10">Oct term</date> of our court. And I think it is a case where the the remiting power can be Judicially and properly exercised to to prevent a Judgment.</p>
+<p>For your power to remit the whole of it I refer you to "Article 3<hi rend="sup">d</hi> Section 10 of "The New Consitution Ky". Stanton's Rev. Statutes page 129 of 1<hi rend="sup">st</hi> Vol.</p>
 <p>And also the case of Commonwealth vs Morgan 14. B Monroe 392. And the Commonwealth vs Spraggins. 18. B. Monroe 513.</p>
-<p>I would not be understood as desiring<pb/>
-<lb/>to deprive the officers of the Circuit Court of their legitimate fees, nor the Commonwealth's atty. But this is a case wherein the ^present^ States attorny has had no trouble; nor would he ever have Set this prosecution on foot, if it had not been for this man Fehrrenback. It appears to me that this is a case where excutive interposition is demanded. The Commonwealth Should not be made the instrument through and by which to grati the personal Spite of one <hi rend="str">individual</hi> ^citizen^ toward another=; and especially where no public good can result from it, as in this case. The Judgmt against F. is about all Straus is worth; and if he is made to pay the $800 recognizance it will ruin him</p>
+<p>I would not be understood as diseng<pb/>
+<lb/>to deprive the officers of the Circuit court of their legitimate fees -- nor the Commonwealth's atty. But this is a case wherein the ^present^ States attorney has had no trouble; nor would he ever have set this prosecution on foot -- if it had not been for this man Fherrenback. It appears to me that this is a case where excutive interposition is demanded. The Commonwealth Should not be made the instrument through and by which to grati the personal Spite of one <hi rend="str">individual</hi> citizen toward another=; and especially where no public good can result from it, as in this case. The Judgmt against F. is about all Straus is worth; and if he is made to pay the &#36;800 recognizance it will ruin him.</p>
 <p>Respectfully
 <lb/>L. A. Wood</p>
 <p>Commonwealth
 <lb/>vs
-<lb/>Straus, 3</p>
+<lb/>Straus, </p>
   </body>
  </text>
 </TEI>

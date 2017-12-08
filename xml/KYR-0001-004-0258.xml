@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0258"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,13 +64,13 @@
  <text>
   <body>
    <p>Louisville Jail
-<lb/><date when="1863-11-09">Nov. 9th 1863</date>.
+<lb/><date when="1863-11-09">Nov. 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.
 <lb/>To his Excellency Gov. Bramlett.</p>
-<p>Honorable Sir= I Henry Mabel a prisoner confined in Louisville Jail and under sentence to the Penetentiary for 4 years for horse stealing caused by the influence of others. I enlisted when the war broke out in 1<hi rend="sup">st</hi> Wisconsin -- three months service -- then at the end of that time was discharged -- then enlisted in the 10<hi rend="underline"><hi rend="sup">th</hi></hi> Wisconsin Co. B. I was in the service at the time of my arrest 2 years 6 m was under the immediate command of Gen. O. M. Mitchel I was in the battle of Stevenson, Alabama, received a ball in my right hip -- after that battle was placed under the command of Gen. Roussau -- then we came from Alabama marching night &amp; day to save the city of Louisville, and our only substance on the way was flower &amp; water -- and the water we had was of the very worst discription where horses and hogs were rooting in -- the pond holes in this state in particular -- when we arrived here we remained 3 days -- then marched back until we arrived at Perryville -- our regiment got engaged at Peryville at half-past ten in the morning -- at half-past-four I got hit in my right ankle -- struck by a piece of shell -- and did not then give up. at five I got shot through the mussle of my right leg -- I then was conveyed to the Hospital at Perryville -- where I lay on my back for two months without turning over -- I have had some shlivers taken out of my leg. I was laid up for <hi rend="str">two</hi> ^eight^ months with them two wounds.<pb/></p>
-<p>Honorable Sir -- I have now given you a correct account of my trials and hardships during the present war -- and I am now ancious and willing to return to my regiment and again be counted one of the many that are fighting for our glorious union. I think my trials and hardships during the present war entitles me to your concideration and if your clemency can with consistancy be extended to an unfortunate Soldier, more sinned against than Sined -- will be gratefully remembered by your humble servant. -- I have no relations or friends to do anything for me and my only hope is your gracious clemency. I promise you to become a good -- sober man it was through bad company &amp; drink that I got here -- I am a native of France, four years in this country. I hope you will not forget me.</p>
+<p>Honorable Sir= I Henry Mabel a prisoner confined in Louisville Jail and under Sentence to the Penetentiay for 4 years- for horse stealing caused by the influence of others -- I enlisted when the war broke out in 1<hi rend="underline"><hi rend="sup">st</hi></hi> Wisconsin -- three months service -- then at the end of that time was discharged -- then enlisted in the 10<hi rend="underline"><hi rend="sup">th</hi></hi> Wisconsin Co. B. -- I was in the service at the time of my arrest 2 years 6 M was under the immediate command of Gen. O. M. Mitchel, I was in the battle of stevenson, Alabama, received a ball in my right hip -- after that battle was placed under the command of Gen. Roussau -- <hi rend="str">w</hi>then we came from Alabama marching night &amp; day to save the city of Louisville, and our only substance on the way was flower &amp; water -- and the water we had was of the very worst discription where horses and hogs were rooting in -- the pond holes in this state in particular -- when we arrived here we remained 3 days -- then marched back until we arrived at Perryville -- our regiment got engaged at Peryville at half-past ten in the morning -- at half-past-four I got hit in my right ankle- struck by a piece of shell -- and did not then give up. at five I got shot through the mussle of my right leg -- I then was conveyed to the Hospital at Perryville -- where I lay on my back for two months without turning over -- I have had some shlivers taken out of my leg. I was laid up for <hi rend="str">two</hi> eight months with them two wounds,<pb/>
+<lb/>Honorable Sir -- I have now given you a correct account of my trials and hardships during the present war -- and I am now ancious and willing to return to my regiment and again be counted one of the many that are fighting for our glorious union. I think my trials and hardships during the present war entitles me to your concideration and if your clemency can with Consistancy be extended to an unfortunate Soldier, more sinned against than Sined -- will be gratefully remembered by your humble servant. -- I have no relations or friends to do anything for me and my only hope is your gracious clemency, I promise you to become a good -- sober man it was through bad company &amp; drink that I got here -- I am a native of France, four years in this county, I hope you will not forget me.</p>
 <p>And your humble servant
 <lb/>will ever pray.
-<lb/>Henry Mable x</p>
+<lb/>Henry Mable X</p>
   </body>
  </text>
 </TEI>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0065"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Don Carlos Buell, Special Orders, No. 18</title>
+    <title level="a" type="main">Don Carlos Buell, Special Order, No. 18</title>
     <title level="a" type="parallel">CWG11990</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,15 +66,15 @@
    <p>Head-Quarters Department of the <hi rend="str">Cumberland</hi> Ohio.
 <lb/>Louisville, Ky. <date when="1861-12-02">Decr 2<hi rend="underline"><hi rend="sup">d</hi></hi> 1861</date>
 <lb/>Special Order
-<lb/>N<hi rend="sup">o</hi> 18 }
-<lb/>"Extract"<figure type="hr"/>
-<lb/>V. One company of the troops employed as a Police force in this city will be reported to the State Military Board for assignment to such Regiment in process of organization as they may think proper<figure type="hr"/>
-<lb/>By command of Brig Genl Buell
-<lb/>Owen. D. <unclear/>
+<lb/>N<hi rend="sup">o</hi> 18
+<lb/>"Extract"<figure type="hr"/></p>
+<p>V. One company of the troops employed as a Police force in this city will be reported to the State Military Board for assignment to such Regiment in process of organization as they may think proper<figure type="hr"/></p>
+<p>By Command of Brig Genl Buell
+<lb/>Oliver D. Greene
 <lb/>Asst. Adgt. Genl</p>
 <p>J. W. Finnell
-<lb/>Adjt Genl<pb/>
-<lb/>O D Green
+<lb/>Adjt Genl<pb/></p>
+<p>O D Green
 <lb/><date when="1861-12-02">Dec 2<hi rend="sup">nd</hi> 1861</date></p>
   </body>
  </text>

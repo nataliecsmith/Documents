@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0074"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,23 +67,22 @@
 <lb/><date when="1861-02-02">Febuary 2<hi rend="sup">nd</hi> 1861</date>
 <lb/>To the
 <lb/>Hon Beriah Magoffin</p>
-<p>Dear Sir Some months ago I resighned my commission as a Justice of the peace for this district with the intention of moving from the county Since circumstances have caused me to settle here again permanently and It seems to be the wish of the neighborhood that I shall again act as a Justice of the peace of this district to which arrangement I have consented provided you will reappoint me &amp; send the commission</p>
+<p>Dear Sir Some months ago I resighned my commission as a Justice of the peace for this district with the intention of moving from the county Since circumstances have caused me to settle here again permanently and It seems to be the wish of the neighborhood that I shall again act as a Justice of the peace of this district to which arrangement I have consented provided you will reappointe me &amp; send the commission</p>
 <p>Yours Truly
 <lb/>William S Watwood</p>
 <p>We the undersighned fully concur in the above representation of W S Watwood Esq &amp; hope that he may be reappointed</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Jno J Rouch
+<p><milestone unit="column" n="2"/><cb n="1"/>Jno J Roach
 <lb/>L. U. Landrum
-<lb/>Jno. C. Whitlock
+<lb/>Jno, C Whitlock
 <lb/>Thos. S. Campbell
-<lb/><cb n="2"/>Wm Richards
-<lb/>W. H. Malone
+<lb/><cb n="2"/>W<hi rend="sup">m</hi> Richards
+<lb/>W, H, Malone
 <lb/>Joseph,, Hite<milestone unit="column" n="1"/><pb/></p>
 <p>Trigg Co<figure type="hr"/>
-<lb/>J. P.
-<lb/>Dist N<hi rend="sup">o</hi> 4
-<lb/>W<hi rend="sup">m</hi>. S. Watwood</p>
-<p>Iss<hi rend="sup">d</hi>. <date when="1861-02-13">Feby 13 1861</date></p>
-<p>Issue Commisson
+<lb/>J. P. Dist N<hi rend="sup">o</hi> 4
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> S. Watwood</p>
+<p>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-02-13">Febry 13 1861</date></p>
+<p>Issue commisson
 <lb/>B. M</p>
   </body>
  </text>

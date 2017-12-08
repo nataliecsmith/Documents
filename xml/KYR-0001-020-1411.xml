@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1411"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,22 +63,22 @@
  <text>
   <body>
    <p><date when="1861-09-16">Sep 16. 1861</date>
-<lb/>To his Excellency B Magoffin Gov of Kentucky</p>
-<p>The undersigned respectfully adamently request your Excellency to release from his penalty, inflicted by a Jury of Woodford County upon a warrant for a breach of the peace committed in Said County and which is more particularly referred to &amp; set out in the paper accompanying this petition, Frank Armstrong. It is true that he did commit a breach of the peace as charged, but he respectfully represent that his offense was committed under circumstances of great aggravation to him and we believe he is truly penetent therefor. If you will pardon him, we can assure you that the offense will not be repeated and that he will take himself out of the way.</p>
+<lb/>To his Excellency B Magoffin Govr of Kentucky</p>
+<p>The undersigned respectfully adamently request your Excellency to release from his penalty, inflicted by a Jury of Woodford County upon a warrant for a breach of the peace committed in Said County and which is more particularly referred to &amp; set out in the paper accompanying this petition, Frank Armstrong. It is true that he did commit a breach of the peace as charged, but he respectfully represent that his offense was committed under Circumstances of great aggravation to him and we believe he is truly penetent therefor. If you will pardon him, we can assure you that the offense will not be repeated and that he will take himself out of the way.</p>
 <p>Respectfully
 <lb/>W T Martin
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L Graddy
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L, Graddy
 <lb/>D P Robb Police Judge
 <lb/>Town of Versailles
 <lb/>S,, Stone T M V <hi rend="str">of</hi> 
 <lb/>Mason R Henry
-<lb/>W. J. Carlyle
+<lb/><hi rend="underline">W, J, Carlyle</hi>
 <lb/>Saml S. Darneal
-<lb/>Lavenia Armstrong, wife of F Armstrong<pb/></p>
-<p>Versailles Cir. Ct
-<lb/>Respite 3 Mo
+<lb/>Lavenia Armstron. wife of F Armstrong<pb/></p>
+<p>Versailles Cir. Ct</p>
+<p>Respite 3 Mo
 <lb/>B. M.</p>
-<p><hi rend="str"><unclear/></hi>Fifteen <hi rend="str"><unclear/></hi>days Imprisonment
+<p><hi rend="str"><unclear/></hi>Fifteen <hi rend="str">dollars</hi>days Imprisonment
 <lb/>Frank Armstrong
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-09-16">Sept 16. 1861</date></p>
   </body>

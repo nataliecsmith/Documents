@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0051"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,11 +65,11 @@
   <body>
    <p>State of Kentucky
 <lb/>Franklin County Sct</p>
-<p>I George W Goins a Justice of the peace for said County do Certify that on this day Gen<hi rend="sup">l</hi> Peter Dudley came personally before me in my Office and made oath that he would faithfully ^uphold to the best of his ability^ execute the provisions of th the act of the General assembly of the Commonwealth of Kentucky passed On the <date when="1861-05-23">23<hi rend="underline"><hi rend="sup">d</hi></hi> day of May 1861</date>. "A Senate Bill for the regulation of the Militia And to provide for the Arming of the State" Said Dudley being one of the Commissionsers appointed under, and to Carry out the objects of Said act -- </p>
+<p>I George W Gwin a Justice of the peace for said County do Certify that on this day Genl Peter Dudley came personally before me in my Office and made oath that he would faithfully ^uphold to the best of his ability -- ^ execute the provisions of the Act of the General Assembly of the Commonwealth of Kentucky passed On the <date when="1861-05-23">23<hi rend="underline"><hi rend="sup">d</hi></hi> day of May 1861</date>. "A Senate Bill for. the regulation of the Militia And to provide for the Arming of the State" Said Dudley being one of the Commissioners appointed under, and to Carry out the objects of Said act -- </p>
 <p>Given under my hand this <date when="1861-05-25">25<hi rend="sup">th</hi> day of May 1861</date>.
 <lb/><hi rend="underline">Geo W. Gwin</hi> J. P. F. C<pb/></p>
 <p>Franklin County Sct.</p>
-<p>Samuel Gill this day appeared before the undersigned a Justice of the peace for Said County and took the oath mentioned in the within Certificate as administered to Genl Peter Dudly Witness my hand this <date when="1861-05-31">31<hi rend="sup">st.</hi> day of May 1861</date></p>
+<p>Samuel Gill this day appeared before the undersigned a Justice of the peace for said County and took the oath mentioned in the within Certificate as administered to Genl Peter Dudly Witness my hand this <date when="1861-05-31">31<hi rend="sup">st.</hi> day of May 1861</date></p>
 <p><hi rend="underline">G. W. Gwin</hi> J. P.</p>
   </body>
  </text>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0021"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">D. W. Lindsey, Special Orders, No. 76</title>
+    <title level="a" type="main">Daniel W. Lindsey, Special Orders, No. 76</title>
     <title level="a" type="parallel">CWG13637</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,13 +67,13 @@
 <lb/>Adjutant=General's Office,
 <lb/>Frankfort, <date when="1865-09-06">Sep 6, 1865</date>.
 <lb/>Special Orders
-<lb/>No 76 }</p>
-<p>Lt H L Keesel of Co B North <unclear/> <unclear/>ion will be mustered out as 1<hi rend="sup">s</hi> Lt to date the <date>19 of m<unclear/></date> to complete his record.</p>
+<lb/>No 76</p>
+<p>Lt H L Keesee of Co B North <unclear/> <unclear/>ion will be mustered out as 1<hi rend="sup">s</hi> Lt to date the 19 of m<unclear/> to complete his record.</p>
 <p>And whereas there is an incomplete muster of the following named officers on file in this office, made by Maj C. W. Quiggins Special Mustering officer for the State, Lt C Haydon State Mustering officer is hereby directed to muster them in, in their respective grades, as of the date set opposite their names</p>
 <p>It appearing from proper information that they have performed the duties as such, by proper authority from the dates mentioned. viz
 <lb/><table rend="rules">
 <row>
-	<cell>H. L, Keesel</cell>
+	<cell>H. L. Keesee</cell>
 	<cell>Capt Co B</cell>
 	<cell>to date <date when="1865-03-20">20 March 1865</date></cell>
 </row>

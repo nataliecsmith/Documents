@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0001"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,13 +64,13 @@
  <text>
   <body>
    <p>Allatoona Geo
-<lb/><date when="1864-06-05">June 5" 1864.</date>
+<lb/><date when="1864-06-05">June 5" 1864</date>.
 <lb/>E. F. Vanwinkle
-<lb/>Dear Sir,</p>
-<p>I have just sent on a petition signed by all the officers of the 1<hi rend="underline"><hi rend="sup">st</hi></hi>, to Gov Bramlette, to have Lt Col Adams <hi rend="str">Adams</hi> Commissioned Col of the Regiment. please let me know by letter immediately if the Gov -- will Commission any one as Colonel, as we want to mak Capt Keene Major of the Regiment as soon as a vacancy occurs. if Adams is promoted there will then be two vacancies and Keene and Capt Rowland can both be made Majors. How is the enlistment of six months men getting along, what is Wolford doing. is there a chance for me to raise a Regiment in Ky. what have you and Fox done towards getting Law License for me. All the 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky send their regards to you. </p>
+<lb/>Dear sir,</p>
+<p>I have just sent on a petition signed by all the officers of the 1<hi rend="underline"><hi rend="sup">st</hi></hi>, to Gov Bramlette, to have Lt Col Adams <hi rend="str">Adams</hi> Commissioned Col of the Regiment. please let me know by letter immediately if the Gov-- will Commission any one as Colonel, as we want to make Capt Keene Major of the Regiment as soon as a vacancy occurs. if Adams is promoted there will then be two vacancies and Keene and Capt. Rowland can both be made Majors. How is the enlistment of six months men getting along, what is Wolford doing. is there a chance for me to raise a Regiment in Ky. what have you and Fox done towards getting Law License for me, all the 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky send their regards to you,</p>
 <p>Ever your friend
-<lb/>W. D. Carpenter.</p>
-<p>The 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky numbers over one Thousand men now and I think we should have the full no of officers allowed us. </p>
+<lb/>W. D. Carpenter,</p>
+<p><note place="left margin">The 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky numbers over one Thousand men now and I think we should have the full no of officers allowed us,</note></p>
   </body>
  </text>
 </TEI>

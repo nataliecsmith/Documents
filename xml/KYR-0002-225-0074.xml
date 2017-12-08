@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0074"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,28 +67,28 @@
 <lb/>To his Excelency
 <lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlette
 <lb/>Gov of Ky</p>
-<p>Dr Sir Our Country is literally filled with Guerillas, as has been the Case for a Considerable Time an organised State or -- National Force <hi rend="underline">Mounted</hi> <hi rend="underline">Armed</hi> and Equiped is Necessary more especially here to rid the Country of those unprinclipled thieves &amp; cutthroats. <hi rend="underline">And</hi> <hi rend="underline">I</hi> p<hi rend="underline">ro</hi>pose, <hi rend="underline">Gov</hi>, to Raise in this Country a Company Composed of the best Material for the purpose of Riding the country of those prowling thieves. And to Assist the Civil as well as the Military in the discharge of all of their Duties legally</p>
+<p>Dr Sir Our Country is literally filled with Guerillas, as has been the Case for a Considerable Time an organised State or -- National force <hi rend="underline">Mounted</hi> <hi rend="underline">Armed</hi> and Equiped is Necessary More especially here to rid the Country of those unprincipaled thieves &amp; cutthroats. <hi rend="underline">And</hi> <hi rend="underline">I</hi> <hi rend="underline">propose</hi> (<hi rend="underline">Gov</hi>) to raise in this Country a Company Composed of the best Material for the purpose of riding the country of those prowling thieves. And to Assist the Civil as well as the Military in the discharge of all of their Duties legally</p>
 <p><hi rend="underline">Meredith Martin</hi><pb/></p>
-<p>I have directed this to your notice <hi rend="underline">Gov</hi> particularly because you know me personally, but I feel Confident that if you will <hi rend="underline">vest</hi> in me that authority that I will Raise a Company that will Reflect no discredit to the State I am Gov your most obt Servt -- </p>
-<p>Meredith <hi rend="underline">Martin</hi><pb/></p>
 <p>Glasgow Ky
 <lb/><date when="1865-04-20">April 20. 1865</date><figure type="hr"/>
 <lb/>Martin Meredith
 <lb/>to
-<lb/>Gov. Bramlette<figure type="hr"/></p>
-<p>Says his Country is literally filled wih Guerillas &amp; Cut-throats says he will raise a Company of good men if you will give him authority that shall be no discredit to the State<figure type="hr"/></p>
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramlette<figure type="hr"/></p>
+<p>Says his Country is literally filled with Guerillas &amp; Cut-throats says he will raise a Company of good men if you will give him authority that shall be no discredit to the State -- <figure type="hr"/></p>
 <p>H<hi rend="underline"><hi rend="sup">d</hi></hi> Qrs Ky Volunteers 
 <lb/>Adj<hi rend="sup">t</hi> Generals Office
 <lb/><date when="1865-04-22">April 22<hi rend="sup">d</hi> 1865</date></p>
 <p>Respectfully referred to Maj W H Hays Insp<hi rend="sup">t</hi> Gen<hi rend="sup">l</hi> Ky.</p>
 <p>By order of the Governor</p>
-<p>D. W. Lindsey
+<p>D, W, Lindsey
 <lb/>Adj Gen<hi rend="sup">l</hi> Ky</p>
-<p><hi rend="underline">L B. N</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> 12. P. 22</hi><figure type="hr"/>
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A G. O. <date when="1865-04-22">April 22. 1865</date></p>
-<p>Reciev. Ins Gen Off. <date when="1865-04-24">April, 24/64</date>.
-<lb/>Ans. <date when="1865-04-24">Ap. 24, 64</date> Letter Book B
-<lb/>page <hi rend="str">13</hi> page 174</p>
+<p><hi rend="underline">L B.</hi> <hi rend="underline">N</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> 12.</hi> <hi rend="underline">P. 22</hi><figure type="hr"/></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A G. O. <date when="1865-04-22">April 22. 1865</date></p>
+<p>Reciev. Ins. Gen. Off. <date when="1865-04-24">April, 24/64</date>.<figure type="hr"/>
+<lb/>Ans. <date when="1865-04-24">Ap. 24, 64</date>, Letter Book B page <hi rend="str">13</hi> page 174<pb/></p>
+<p>I have directed this to your Notice <hi rend="underline">Gov</hi> particularly because you know Me personally, but I feel Confident that if you will <hi rend="underline">vest</hi> in Me that Authority that I will Raise a Company that will reflect no discredit to the State</p>
+<p>I am Gov your Most obt Servt -- 
+<lb/><hi rend="underline">Meredith Martin</hi></p>
   </body>
  </text>
 </TEI>

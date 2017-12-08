@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0062"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -78,8 +81,7 @@
 </row>
 <row>
 	<cell>Robt. N. Winn</cell>
-	<cell>" Clarke "
-<lb/></cell>
+	<cell>" Clarke "</cell>
 </row>
 <row>
 	<cell>W. A. Piner</cell>
@@ -102,8 +104,8 @@
 	<cell>" Daviess "</cell>
 </row>
 <row>
-	<cell>Jas. W. Cochran</cell>
-	<cell>" Fayette "</cell>
+	<cell>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W. Cochran</cell>
+	<cell>Fayette "</cell>
 </row>
 <row>
 	<cell>Tho. S. Wherritt</cell>
@@ -111,14 +113,14 @@
 </row>
 <row>
 	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Owens Jr.</cell>
-	<cell>" Hickman "</cell>
+	<cell>Hickman "</cell>
 </row>
 <row>
-	<cell>Geo. F. Beatty</cell>
+	<cell>Geo F. Beatty</cell>
 	<cell>" Henderson "</cell>
 </row>
 <row>
-	<cell>L. H. Lyne</cell>
+	<cell>L. H Lyne</cell>
 	<cell>" " "</cell>
 </row>
 <row>
@@ -126,7 +128,7 @@
 	<cell>" Jefferson "</cell>
 </row>
 <row>
-	<cell>Robt. W. Watts</cell>
+	<cell>Rob<hi rend="underline"><hi rend="sup">t</hi></hi> A. Watts</cell>
 	<cell>" " "</cell>
 </row>
 <row>
@@ -134,11 +136,11 @@
 	<cell>" " "</cell>
 </row>
 <row>
-	<cell>Jos. A Hamilton</cell>
-	<cell>" " '</cell>
+	<cell>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> A Hamilton</cell>
+	<cell>" " "</cell>
 </row>
 <row>
-	<cell>H N. Sanders</cell>
+	<cell>H V. Sanders</cell>
 	<cell>" " "</cell>
 </row>
 <row>
@@ -150,7 +152,7 @@
 	<cell>" " "</cell>
 </row>
 <row>
-	<cell>Jas. Chambers</cell>
+	<cell>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Chambers</cell>
 	<cell>" " "</cell>
 </row>
 <row>
@@ -160,48 +162,47 @@
 </table><pb/>
 <lb/><table rend="rules">
 <row>
-	<cell>W H Beymouth</cell>
-	<cell>Jefferson county
-<lb/></cell>
+	<cell>W H Beymoth</cell>
+	<cell>Jefferson County</cell>
 </row>
 <row>
 	<cell>Jas. Harrison</cell>
-	<cell>" " </cell>
+	<cell>" "</cell>
 </row>
 <row>
-	<cell>W. G. Reason</cell>
-	<cell>" " </cell>
+	<cell>W. G. Reasor</cell>
+	<cell>" "</cell>
 </row>
 <row>
-	<cell>B. D. Kennedy</cell>
+	<cell>B. D Kennedy</cell>
 	<cell>" " </cell>
 </row>
 <row>
 	<cell>W. Mar^r^iner</cell>
-	<cell>" " </cell>
+	<cell>" "</cell>
 </row>
 <row>
 	<cell>A. M. Stout</cell>
-	<cell>" " </cell>
+	<cell>" "</cell>
 </row>
 <row>
-	<cell>Chas. Frank</cell>
-	<cell>" " </cell>
+	<cell>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> Frank</cell>
+	<cell>" "</cell>
 </row>
 <row>
 	<cell>W. F. Bullock</cell>
-	<cell>" " </cell>
+	<cell>" "</cell>
 </row>
 <row>
-	<cell>Jas. J. Dozier</cell>
-	<cell>" " </cell>
+	<cell>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> I. Dozier</cell>
+	<cell>" "</cell>
 </row>
 <row>
-	<cell>B. S. McDougle</cell>
-	<cell>" " </cell>
+	<cell>B. S. M<hi rend="sup">c</hi>Dougle</cell>
+	<cell>" "</cell>
 </row>
 <row>
-	<cell>H. C. Pindle</cell>
+	<cell>H. C. Pindell</cell>
 	<cell>" "</cell>
 </row>
 <row>
@@ -209,7 +210,7 @@
 	<cell>Kenton " T. A Flanagan</cell>
 </row>
 <row>
-	<cell>Jas. Ayars Jr.</cell>
+	<cell>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Ayars Jr.</cell>
 	<cell>Kenton "</cell>
 </row>
 <row>
@@ -217,11 +218,11 @@
 	<cell>" "</cell>
 </row>
 <row>
-	<cell>Jos Harris Jr</cell>
-	<cell>McCracken "</cell>
+	<cell>Jo<hi rend="sup">s</hi> Harris Jr</cell>
+	<cell>M<hi rend="sup">c</hi>Cracken "</cell>
 </row>
 <row>
-	<cell>J. R. Lambath</cell>
+	<cell>J. R. Lambuth</cell>
 	<cell>Muhlenberg "</cell>
 </row>
 <row>
@@ -233,7 +234,7 @@
 	<cell>Marion County</cell>
 </row>
 <row>
-	<cell>W W Howard</cell>
+	<cell>W<hi rend="sup">m</hi> W Howard</cell>
 	<cell>Nicholas "</cell>
 </row>
 <row>
@@ -254,22 +255,22 @@
 </row>
 <row>
 	<cell>W. P. Hays</cell>
-	<cell>Warren</cell>
+	<cell>Warren "</cell>
 </row>
 <row>
 	<cell>A. C M<hi rend="sup">c</hi>Elroy</cell>
-	<cell>Washington</cell>
+	<cell>Washington "</cell>
 </row>
 <row>
 	<cell>G C Gaines</cell>
 	<cell>Webster "</cell>
 </row>
 <row>
-	<cell>W. F. Vaughn</cell>
+	<cell>W. F. Vaughan</cell>
 	<cell>" "</cell>
 </row>
 <row>
-	<cell>H S Woolfolk</cell>
+	<cell>H L Woolfolk</cell>
 	<cell>" "</cell>
 </row>
 <row>
@@ -277,18 +278,17 @@
 	<cell>" "</cell>
 </row>
 <row>
-	<cell>Conrad Schoeder</cell>
+	<cell>Conrad Shroeder</cell>
 	<cell>Jefferson "</cell>
 </row>
 <row>
-	<cell>Fred A Frische</cell>
+	<cell>Fred<hi rend="sup">k</hi> Frische</cell>
 	<cell>" "</cell>
 </row>
 </table>
 <lb/><pb/></p>
-<p>Notaries
-<lb/>Confirmed
-<lb/><date when="1861-02-05">Feby. 5. 1861</date></p>
+<p>Notaries Confirmed
+<lb/><date when="1861-02-05">Feby 5. 1861</date></p>
   </body>
  </text>
 </TEI>

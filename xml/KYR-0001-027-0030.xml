@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0030"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,7 +66,7 @@
    <p>Louisville Friday Night
 <lb/><date when="1862-08-29">August 29th 62</date>
 <lb/>Gov Robinson,</p>
-<p>I have reliable information that Morgan was at Glasgow to-day with 2000 Cavalry &amp; 2 or 3 pieces of artilery -- He will doubtless attack our forces <hi rend="str"><unclear/></hi> &amp; attempt to Destroy Green River bridge, unless we have sifficient force to repulse the enemy, in that event he may turn his course toward Lebanon, &amp; try to advance towards the Capitol -- I suggest that <hi rend="underline">every</hi> effort be made to be in the best state of defense -- It would be disastrous to us should be take Frankfort.</p>
+<p>I have reliable information that Morgan was at Glasgow to-day with 2000 Cavalry &amp; 2 or 3 pieces of artillery- He will doubtless attack our forces <hi rend="str"><unclear/></hi> &amp; attempt to Destroy Green River bridge, unless we have sufficient force to repulse the enemy, in that event he may turn his course toward Lebanon, &amp; try to advance towards the Capitol- I suggest that <hi rend="underline">every</hi> effort be made to be in the best state of defense -- - It would be disastrous to us should he take Frankfort</p>
 <p>I am truly
 <lb/>Your friend
 <lb/>G. T. Wood<pb/></p>

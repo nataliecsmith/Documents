@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0094"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Campbell County, Kentucky</placeName>
     <date when="1863-09-18">18 September 1863</date>
    </creation>
    <textClass>
@@ -61,42 +63,41 @@
  <text>
   <body>
    <p>To his Excellency Governor Bramblette of Ky.</p>
-<p>The undersigned petitioners respectfully state that at the <date when="1863-09">August Term 1863</date> of the Campbell Circuit Court Sebastian Gramer was fined for keeping a Tipling house the Sum of sixty dollars &amp; costs This is an exceedingly hard case, agst. a very poor man, and is in our judgement such as calls for Executive clemency.</p>
-<p>s<hi rend="sup">d</hi> Gramer is a German unacquainted with the laws of Kentucky &amp; has always looked upon <hi rend="underline">Native wine</hi> ^(as he says)^ to be as natural and innocent a drink as <hi rend="underline">water</hi>. He was keeping a small grocery in Jamestown and obtained a license to sell <hi rend="underline">beer</hi> from the Trustees. This, Gramer innocently supposed justified at least ^the sale of^ Native wine. It was proven by one witness on the trial (Charles Slain) that Gramer had let him have native wine as often as <hi rend="underline">two or three times</hi> &amp; this was all the evidence. We as jurors who tried the case and as citizens of the immediate vicinity respectfully ask the Governor to remit this fine &amp; we are satisfied that public justice will not suffer &amp; that M<hi rend="sup">r</hi> Gramer will never again offend agst the law which he has innocently done as we believe in this case.
-<lb/><date when="1863-09-18">Sept. 18. 1863</date><pb/></p>
+<p>The undersigned petitioners respectfully state that at this <date when="1863-09">August Term 1863</date> of this Campbell Circuit Court Sebastian Gramer was fined for keeping a tipling house the sum of sixty dollars &amp; costs This is an exceedingly hard case, agst. a very poor man, and is in our judgement such as calls for Executive clemency -- </p>
+<p>s<hi rend="underline"><hi rend="sup">d</hi></hi> Gramer is a German unacquainted with the laws of Kentucky &amp; has always looked upon <hi rend="underline">Native wine</hi> ^(as he says)^ to be as natural and innocent a drink as <hi rend="underline">water</hi> -- He was keeping a small grocery in Jamestown and obtained a license to sell <hi rend="underline">beer</hi>, from the Trustees- This, Gramer innocently supposed justified at least ^the sale of^ Native wine -- It was proven by one witness on the trial (Charles Slain) that Gramer had let him have native wine as often as <hi rend="underline">two or three times</hi> &amp; this was all the evidence -- We as jurors who tried the case and as citizens of the immediate vicinity respectfully ask the Governor to remit this fine &amp; we are satisfied that public justice will not suffer &amp; that M<hi rend="sup">r</hi> Gramer will never again offend agst the law which he has innocently done as we believe in this case-
+<lb/><date when="1863-09-18">Sep. 18. 1863</date><pb/></p>
 <p>Campbell Circuit Court
-<lb/><date when="1863-09-05">August 5th 1863</date>
+<lb/><date when="1863-08-05">August 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
 <lb/>Commonwealth
-<lb/>vs, On Indictment
+<lb/>Vs, On Indictment
 <lb/>S. Gramer</p>
-<p>The parties appeared and the defendant plead not guilty thereupon came a Jury, viz: J. O. Prather, J. Constans, P. H. Kemper, Lewis Donahower, W<hi rend="sup">m</hi> M. Neyman, S. Allen, John Butcher, John Nelson, Thos. Marston, Chas. Murnan, Geo. Summers &amp; B. Caruthers: who were sworn to try the issue after hearing the evidence returned the following verdict, viz: "We the jury find the defend't guilty of keeping a tippling house as charged in the indictment, P.A.C. Kemper, foreman." It is therefore adjudged that the commonwealth recover of the defendant a fine of Sixty Dollars, and the costs of this proceeding; and that the defendant stand convicted until the fine is paid such commutal not to exceed 30 days.</p>
+<p>The parties appeared and the defendant plead not guilty thereupon came a Jury, viz: J. O. Prather, J. Constans, P. H. Kemper, Lewis Donahower, W<hi rend="underline"><hi rend="sup">m</hi></hi> M. Neyman, S. Allen, John Butcher, John Nelson, Thos. Marston, Chas. Murnan, Geo. Summers &amp; B. Caruthers; who were sworn to try the issue after hearing the evidence returned the following verdict, viz: "We the jury find the defend't guilty of Keeping a tippling house as charged in the indictment, P. A. C, Kemper, foreman." It is therefore adjudged that the commonwealth recover of the defendant a fine of Sixty Dollars, and the costs of this proceeding; and that the defendant stand convicted until the fine is paid such commutal not to exceed 30 days.</p>
 <p>A Copy Attest, Gus. Arttman, C. C. C.
-<lb/>by H. Sine, D.C</p>
+<lb/>by H. Sine, D, C</p>
 <p><hi rend="underline">Petitioners Names</hi>
 <lb/>John Butcher Juror
 <lb/>Thomas A Martin Juror
 <lb/>Jacob Constans Juror
 <lb/>L B Donahower Juror
 <lb/>Geo Summers Juror<pb/>
-<lb/>Charles Wetzel Juror
+<lb/><hi rend="underline">Charles</hi> Wetzel. Juror
 <lb/>J Horsfall Jailor
-<lb/>Staphan Allen Juror
-<lb/>Theodore Truiven Mayor of Jamestown
+<lb/>Stephan Allen Juror
+<lb/>Theodore <unclear>Truiven</unclear> Mayer of Jamestown
 <lb/>John Bukemeier Truste
-<lb/>Rudolfh Krune Truste
-<lb/>James Feslar Trustee
-<lb/>Moses R Harris Justice
-<lb/>W<hi rend="sup">m</hi> Tiemann Trustee
-<lb/>Charles Kuhlmann Trustee<pb/></p>
+<lb/>Rudolph Krune Truste
+<lb/>James Feslar trustee
+<lb/>Moses R Harris Trustee
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Tiemann Trustee
+<lb/>Charles <unclear>Kuhlmann</unclear> Trustee<pb/></p>
 <p>Campbell Cir Ct
-<lb/>vs
-<lb/>S. Gramer
+<lb/>vs</p>
+<p>Remit all except fees and costs</p>
+<p>Tho E Bramlette</p>
+<p>S. Gramer
 <lb/>Tipling
-<lb/>$60 -- 
-<lb/><date when="1863-11-10">10<hi rend="sup">th</hi> Nov/ 63</date></p>
-<p>Remit all except fees and costs
-<lb/>Tho E Bramlette
-<lb/></p>
+<lb/>&#36;60 -- 
+<lb/><date when="1863-11-10">10<hi rend="sup">th</hi> Nov/63</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0255"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,23 +63,22 @@
  <text>
   <body>
    <p>State of Kentucky 
-<lb/>Court of Appeals } <date when="1863-12-11">Decr 11<hi rend="sup">th</hi> 1863</date>.</p>
-<p>Geo. Sidle, appellant
-<lb/>vs } Appeal from Harrison Circuit Court.
-<lb/>Commlth, appellee</p>
+<lb/>Court of Appeals &#125; <date when="1863-12-11">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 11th, 1863</date>.
+<lb/>Geo, Sidle, appellant,
+<lb/>vs, &#125; Appeal from Harrison Circuit Court.
+<lb/>Comwlth, appellee</p>
 <p>The Court being sufficiently advised, delivered the following opinion herein to wit.</p>
 <p>It may be conceded that in view of the evidence &amp; of the instructions given at the instance of the Comwlth, the refusal by the Court to give the instruction asked by the deft was erroneous &amp; highly prejudicial to his case.</p>
-<p>But the bill of exceptions does not show that <hi rend="underline">all</hi> the instructions given by the Court are contained in it. &amp; by the Criminal Code, a judgment cannot be reversed for an error in instructing or refusing to instruct the Jury unless the bill of exceptions contain all the instructions given by the Court (sec 335.)</p>
-<p>The cases of Clem. vs. Comwlth. 3.Met. 11. &amp; Hamilton.v. Comwlth. decided <date when="1863-06">June term 1863</date>. are very similar to the present case. &amp; are conclusive as to the effect to be given to the Section referred to. In the former case it was said that the code of practice in criminal cases abounds with restructions upon<pb/>
-<lb/>upon the Jurisdiction &amp; power of this Court in cases of felony &amp; that these restrictions cannot be disregarded <hi rend="underline">whatever may be the hardship of their application to particular cases</hi>.</p>
-<p>For the reasons stated the Judgment of Conviction must be affirmed.
+<p>But the bill of exceptions does not show that <hi rend="underline">all</hi> the instructions given by the Court are Contained in it. &amp; by the Criminal Code, a judgment Cannot be reversed for an error in instructing or refusing to instruct the Jury unless the bill of exceptions contain all the instructions given by the Court. (sec 335,)</p>
+<p>The cases of Clem, vs, Comwlth. 3, Met, 11, &amp; Hamilton v. Comwlth. decided <date when="1863-06">June term 1863</date>, are very similar to the present case. &amp; are conclusive as to the effect to be given to the Section referred to. In the former case it was said that the code of practice in criminal cases abounds with restrictions upon<pb/>
+<lb/>upon the Jurisdiction &amp; power of this Court in cases of felony &amp; that these restrictions cannot be disregarded <hi rend="underline">whatever</hi> <hi rend="underline">may be</hi> <hi rend="underline">the hardship</hi> <hi rend="underline">of their</hi> <hi rend="underline">application</hi> <hi rend="underline">to particular</hi> <hi rend="underline">cases</hi>.</p>
+<p>For the reasons stated the Judgment of Conviction must be affirmed,
 <lb/>A Copy attest.</p>
-<p>1<hi rend="sup">1</hi>/<hi rend="sub">2</hi></p>
-<p>Sidle
-<lb/>vs.
-<lb/>Comwelth.
-<lb/>Co Opinion<figure type="hr"/>
-<lb/><date when="1863-12-11">1863. Dec 11th</date>.
+<p>1<hi rend="sup">1</hi>/<hi rend="sub">2</hi>
+<lb/>Sidle
+<lb/>vs. &#125; Co Opinion
+<lb/>Comwlth.<figure type="hr"/>
+<lb/><date when="1863-12-11">1863, Dec. 11th</date>.
 <lb/>Affirmed.<figure type="hr"/>
 <lb/>Harrison.</p>
   </body>

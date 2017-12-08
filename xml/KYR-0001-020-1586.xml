@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1586"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Gorden C. Coburn et al. to Beriah Magoffin</title>
+    <title level="a" type="main">Gorden Clabern et al. to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG11054</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,21 +65,21 @@
   <body>
    <p>State of Ky
 <lb/>Carter County Sct
-<lb/>To His Excellency B. Magoffin Governor</p>
-<p>the under signed petitioners would represent to your Excellency that Alfred M<hi rend="sup">c</hi>Gloan was fined the sum of $10,00 in the Carter circuit Court for a breach of the peace Now we think his case kneeds your clemency and we petition your Excellency to remit said fine for these reasons (to wit) Mr M<hi rend="sup">c</hi>Gloan is a good citizen with a Large family to support and <hi rend="str">we</hi> <hi rend="str">the</hi> <hi rend="str">think</hi> he is in Labouring circumstances and we are in formed that the whole matter was done by being aggrevated to make the Breach Now for <hi rend="str">pray</hi> for his relief we shall ever pray</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Gorden C <unclear>Coburn</unclear>
-<lb/>Joseph C<unclear/>
+<lb/>To His Excellency B, Magoffin Governor</p>
+<p>the under signed petitioners would represent to your Excellency that Alfred M<hi rend="sup">c</hi>Gloan was fined the sum of &#36;10,00 in the Carter circuit Court for a breach of the peace Now we think his case kneeds your clemency and we petition your Excellency to remit said fine for these reasons (to wit) Mr M<hi rend="sup">c</hi>Gloan is a good citizen with a Large family to support and <hi rend="str">we</hi> <hi rend="str">the</hi> <hi rend="str">think</hi> he is in Labouring circumstances and we are informed that the whole matter was done <hi rend="str">by</hi> <hi rend="str">by</hi> <unclear/>ing aggrevated to make the Breach. Now for <hi rend="str">pray</hi> for his relief we shall ever pray</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Gorden Clabern
+<lb/>Joseph <unclear>Courdancy</unclear>
 <lb/>Robert E McGlone
 <lb/>Jesse Samnis
 <lb/>AARon Loope
 <lb/>John N M<hi rend="sup">c</hi>Glone
 <lb/>Jams W M<hi rend="underline"><hi rend="sup">c</hi></hi>Allister
 <lb/>T. J. Smith
-<lb/>W. Mcormack
-<lb/>Harrison L Williams
-<lb/>Daniel. H. Underwood
+<lb/>W, Mcormack
+<lb/>Harrison L williams
+<lb/>Daniel, H, Underwood
 <lb/>S. P. Ratcliff
-<lb/>J. J. H. Gamble
+<lb/>J, J, H, Gamble
 <lb/>Sanders Burress
 <lb/>G W Worten
 <lb/>Amos Daniel
@@ -86,23 +89,23 @@
 <lb/>Joseph M<hi rend="sup">c</hi>Glone
 <lb/>James Jordan
 <lb/>Enoch Stone
-<lb/>MurPhy Kitchon
+<lb/>Murphy Kitchen
 <lb/>Lee J Yats
 <lb/>George M<hi rend="sup">c</hi>glone
-<lb/>Elijah Sorten
-<lb/>I H. McGlone
+<lb/>Eligah Sarten
+<lb/>I. H. McGlone
 <lb/>Vincent Furguson
-<lb/>thomas Smith
+<lb/>thomas smith
 <lb/>Nathan Simmons
 <lb/>Ephraim A Simmons
 <lb/>Thomas S M<hi rend="sup">c</hi>Cley
 <lb/>James E Bush<milestone unit="column" n="1"/><pb/></p>
 <p>Remitted
-<lb/>B.M</p>
+<lb/>B. M</p>
 <p>Carter Cir. Ct
-<lb/>$10. } Breach</p>
+<lb/>&#36;10. &#125; Breach</p>
 <p>A. M<hi rend="sup">c</hi>Gloan
-<lb/>Is<hi rend="sup">d</hi>. <date when="1861-12-27">Dec<hi rend="sup">r</hi> 27. 1861</date></p>
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-12-27">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 27. 1861</date></p>
   </body>
  </text>
 </TEI>

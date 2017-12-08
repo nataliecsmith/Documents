@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0125"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Chr. Chinn to Beriah Magoffin</title>
+    <title level="a" type="main">W. A. Hooe and Christopher Chinn to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG12047</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,15 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>74
-<lb/>Harrodsburg <date when="1861-06-04">4 June '61</date>
+   <p>Harrodsburg <date when="1861-06-04">4' June '61</date>
 <lb/>Gov<hi rend="sup">r</hi> Magoffin
 <lb/>D Sir,</p>
 <p>We have formed a Home Guard for our town under the late law on that subject, our officers are good &amp; true men, and I think we are entitled to arms, we are in that portion of the state where slavery exists to a considerable extent, and we wish to be armed, please give attention to this for us and see that we get good arms</p>
-<p>Truly yr friends
-<lb/>W A Hode
+<p>Truly yr friends'
+<lb/>W A Hooe
 <lb/>Chr Chinn</p>
-<p>P. S. This will be handed you by Capt Cardwell our captain<pb/></p>
+<p>P, S, This will be handed you by Capt Cardwell our captain<pb/></p>
 <p>Home Guard
 <lb/>Mercer Co
 <lb/>Capt Cardwell</p>

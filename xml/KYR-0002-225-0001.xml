@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0001"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,10 +63,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>R R Ironworks Ky <date when="1861-07-17">July 17<hi rend="sup">th</hi> 1861</date>
+   <p>R R Ironworks Ky <date when="1861-07-17">July 17<hi rend="sup"> -- </hi>1861</date>
 <lb/>Phil Swigert Esqr
 <lb/>Dear Sir</p>
-<p>I suppose there will be application made to the commission for the distribution of guns for a company that was said to be organized in Station Powell County A C Daniel Capt. &amp; I am sorry to say a son of mine S. G Jackson 1<hi rend="sup">st </hi>Lieutenant <hi rend="sup">2</hi>/<hi rend="sub">3</hi> of the Company are rank secessionist &amp; had a secession flag waiving the day the Company was raised. the company is of the worst kind of man as to character except a few. I think they took no oath but subscribed to a paper &amp; which they will pay no regard. I think the Certificate<pb/>
+<p>I suppose there will be application made to the Commission for the distribution of guns for a company that was said to be organized in Stanton Powell County A C-- Daniel. Capt. &amp; I am sorry to say a son of mine S. G Jackson 1,<hi rend="sup">st </hi>Lieutenant <hi rend="sup">2</hi>/<hi rend="sub">3</hi> of the Company are rank secessionist &amp; had a secession flag waiving the day the Company was raised. the company is of the worst kind of men as to Character except a few. I think they took no oath but subscribed to a paper &amp; which they will pay no regard. I think the Certificate<pb/>
 <lb/>of the County Judge is not according to law from what I have heard I hope they will get no arms</p>
 <p>Your Truly &amp;<hi rend="str">P</hi>
 <lb/>Josiah A Jackson</p>
@@ -71,8 +74,7 @@
 <p>J A J</p>
 <p>J. A. Jackson
 <lb/>Estill County
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> of any <date when="1861-07-18">18" July 1861</date>.
-<lb/></p>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> &amp; ans <date when="1861-07-18">18<hi rend="sup"> -- </hi>July 1861</date>.</p>
   </body>
  </text>
 </TEI>

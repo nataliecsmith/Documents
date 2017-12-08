@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0011"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -66,7 +69,7 @@
 <lb/>Dear Sir</p>
 <p>The City Council &amp; Military Authorities here ordered the Citizens to enrol themselves and drill every day from 4 to 6 ock P M, during which time all business is suspended.</p>
 <p>We have been obeying this order and regularly drilling. But we have no guns except some shot guns and but few of them. The Company to which I belong is well officered and the men good &amp; true. I was told the only way to procure arms was to write to you or Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Finnell.</p>
-<p>There some guns here in the hands of the quartermaster but he says he can only issue them upon the order of Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Boyle.</p>
+<p>There some Guns here in the hands of the quartermaster but he says he can only issue them upon the order of Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Boyle.</p>
 <p>We have drilled thru evenings without Guns, and I promised our officers, Capt Williams &amp;c I would write to know if arms could be procured.</p>
 <p>Fifty guns, with those we have belonging to us individually would do for our Company.</p>
 <p>Yours truly

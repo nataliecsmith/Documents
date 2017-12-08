@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0523"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,19 +63,19 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P001809">Brandenburg</placeName> <date when="1863-08-15">Aug<hi rend="underline"><hi rend="sup">t</hi></hi> 15<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
-<lb/><persName ref="cwgk:N001004">Gov. Robinson</persName></p>
-<p>At Our last Term in the prosecuting of the Coml<hi rend="underline"><hi rend="sup">th</hi></hi> vs <persName ref="cwgk:N00000962">Andrew Bickerstaff</persName> for keeping a tipling house a fine of $60. was assessed against the Deft. at the time neither the Deft nor any one else thought of asking a remission of the fine altho M<hi rend="underline"><hi rend="sup">r</hi></hi> Bickerstaff had had a merchants license and was fined in consequence that in the instances persons who had bought whiskey in the authorized quantity drank of it about the house</p>
-<p>But when <persName ref="cwgk:N00004777">Morgans force</persName> was here they cleaned M<hi rend="underline"><hi rend="sup">r</hi></hi> Bickerstaff out and about sized his entire stock in trade, so that now he has not the means to pay the fine &amp; must be sorely harassed if it is exacted These being the facts I am constrained again to violate my resolution not to interfere to relieve persons indicted before me and in this instance beg your Excellency to remit this fine</p>
-<p>Several of Our people were ruined by Morgan. I was chased into the Woods &amp; starved two days but lost nothing but a fine saddled hourse,</p>
-<p>o<hi rend="underline"><hi rend="sup">btly</hi></hi> &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> 
-<lb/><persName ref="cwgk:N00000963">J. Stuart</persName> Judge<pb/></p>
-<p><orgName ref="cwgk:O00000431">Meade Cir. Ct</orgName><figure type="hr"/>
-<lb/>Fine remitted
-<lb/><hi rend="underline">J F Robinson</hi>
-<lb/>$60. } Tipling
+   <p>Brandenburg <date when="1863-08-15">Aug<hi rend="underline"><hi rend="sup">t</hi></hi> 15<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+<lb/>Gov. Robinson</p>
+<p>At Our last Term in the prosecution of the Coml<hi rend="underline"><hi rend="sup">th</hi></hi> vs Andrew Bickerstaff for keeping a tipling house a fine of &#36;60. was assessed against the Deft. at the time neither the Deft nor any One else thought of asking a remission of the fine altho M<hi rend="underline"><hi rend="sup">r</hi></hi> Bickerstaff had had a Merchants license and was fined in consequence that in two instances persons who had bought whisky in the authorized quantity drank of it about the house</p>
+<p>But when Morgans force was here they cleaned M<hi rend="underline"><hi rend="sup">r</hi></hi> Bickerstaff out and about sized his entire stock in trade, so that now he has not the means to pay the fine &amp; must be sorely harassed if it is exacted These being the facts I am Constrained again to violate my resolutions not to interfere to relieve persons inicted before me and in this instance beg your Excellency to remit this fine</p>
+<p>Several of Our people were ruined by Morgan. I was chased into the woods &amp; starved two days but lost nothing but a fine saddled horse,</p>
+<p>Ob<hi rend="underline"><hi rend="sup">tly</hi></hi> &amp; <hi rend="underline"><hi rend="sup">c</hi></hi> 
+<lb/>J. Stuart Judge<pb/></p>
+<p>Meade Cir. Ct<figure type="hr"/></p>
+<p>Fine remitted
+<lb/><hi rend="underline">J F Robinson</hi></p>
+<p>&#36;60. &#125; Tipling
 <lb/>A. Bickerstaff
-<lb/>Iss<hi rend="sup">d</hi> <date when="1863-08-18">Aug. 18. 1863</date></p>
+<lb/>Iss<hi rend="sup">d.</hi> <date when="1863-08-18">Aug. 18. 1863</date></p>
   </body>
  </text>
 </TEI>

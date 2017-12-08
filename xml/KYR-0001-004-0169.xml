@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0169"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,35 +67,35 @@
 <lb/>Hon. Thos. E. Bramlette
 <lb/>Governor of Kentucky &amp;c.</p>
 <p>Your Petitioner, Charles Smith, would respectfully represent that he is a young man, and never until called to answer this Indictment, under which, as the accompanying certificate of the Clerk will show, he was convicted has he been charged with the commission of any crime.</p>
-<p>He would further state ^that^ for five years last past he has been a faithful soldier for the Government, and was seriously wounded, being shot through the lungs at the battle of Stone River, from which wound he long languished in the hospital in this City (Louisville Ky.)</p>
+<p>He would further state ^that^ for five years last past he has been a faithful soldier for the Government, and was seriously wounded, being shot through the lungs at the battle of Stone River, from which wound he long languished in the hospital in this city (Louisville Ky.)</p>
 <p>He further states that he is very poor and counsel was assigned him by the Court, upon the trial of his case, he not being able to employ counsel of his own selection. He was charged with stealing some five or six dollars in Treasury notes and at the time he was destitute and influenced by intoxication.</p>
 <p>Your Excellency will see from the accompanying certificate of the Clerk that<pb/>
-<lb/>the Jury in their Verdict have recommended your Petitioner to Executive Clemency. He desires to rejoin his Regiment (the 3<hi rend="sup">rd</hi> United States Regular Cavalry) and live an honest life.</p>
+<lb/>the Jury, in their Verdict have recommended your Petitioner to Executive Clemency. He desires to rejoin his Regiment (the 3<hi rend="underline"><hi rend="sup">rd</hi></hi> United States Regular Cavalry) and live an honest life.</p>
 <p>Your Petitioner finally states that he has a widowed Mother dependent for her support on his earnings, that he has always remitted to her the larger portion of his income and will continue so to do as long as her and his life are spared.</p>
 <p>He humbly prays Your Excellency to exercise your power of pardon in his case and restore him to liberty and he will ever continue to pray.</p>
 <p>Charles ^his X mark^ Smith</p>
-<p>Subscribed and sworn to by Charles Smith before me this <date when="1863-10-13">thirtieth day of October 1863</date></p>
+<p>Subscribed and sworn to by Charles Smith before me this <date when="1863-10-30">thirtieth day of October 1863</date></p>
 <p>Jno H Talbott
 <lb/>Notary Publick
 <lb/>Jefferson County</p>
 <p><figure type="seal"><ab>JNO. H. TALBOTT
-<lb/>NOTARY
-<lb/>PUBLIC.
-<lb/>JEFFERSON CO., KY.</ab></figure></p>
-<p>As the Jury have recommended Charles Smith to Executive Clemency I am induced also to ask his pardon resplly &amp;c</p>
-<p>P. B. Muir
-<lb/>W. G. Reasor<pb/></p>
+<lb/>NOTARY PUBLIC.
+<lb/>JEFFERSON CO. KY.</ab></figure></p>
+<p>As the Jury have recommended Charles Smith to Executive Clemency I am induced also to ask his pardon </p>
+<p>resplly &amp;
+<lb/>P. B. Muir
+<lb/>W, G, Reasor<pb/></p>
 <p>We the undersigned Jurors who tried the case of the Commonwealth vs. Charles Smith join with him in his Petition to your Excellency and recommend him to Executive Clemency.</p>
 <p>J H Meyers foreman
-<lb/>S A Hartwell
-<lb/>W. W. Owens
-<lb/>M. Billing
-<lb/>Hu Arterburn
-<lb/>Leams Hughs
-<lb/>W<hi rend="sup">m</hi> Winston
-<lb/>John Ashwraft<pb/></p>
-<p>Petition
-<lb/>Geo. Kilpatrick.</p>
+<lb/><hi rend="underline">S A. Hartwell</hi>
+<lb/>W. W. Owen
+<lb/><hi rend="underline">M. Billing</hi>
+<lb/><hi rend="underline">H,, Orterturn</hi>
+<lb/>Leams. Hughs
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Winston
+<lb/>John Ashcraft<pb/></p>
+<p>Petition</p>
+<p>Geo. Kilpatrick.</p>
   </body>
  </text>
 </TEI>

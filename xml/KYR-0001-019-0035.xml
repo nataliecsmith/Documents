@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0035"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,10 +64,10 @@
  <text>
   <body>
    <p>Executive Department
-<lb/>Frankfort <date when="1861-05-02">May 2 1861</date>
+<lb/>Frankfort <date when="1861-05-02">May 2. 1861</date>
 <lb/>To B. J. Adams
 <lb/>Louisville -- </p>
-<p>Cashier Branch Southern Bank at Louisville Pay to A. O. Brannin and B. J. Admas on order amount of funds to credit of Commonwealth in your Branch -- to be used in arming the state -- </p>
+<p>Cashi<hi rend="str">r</hi>er Branch Southern Bank at Louisville Pay to A. O. Brannin and B. J. Adams on order amount of funds to credit of Commonwealth in your Branch- to be used in arming the state -- </p>
 <p>B. Magoffin
 <lb/>Governor of Kentucky</p>
   </body>

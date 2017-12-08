@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0023"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,24 +65,23 @@
   <body>
    <p>Irvine <date when="1865-07-15">July. 15" 1865</date>
 <lb/>Gov. Bramlette</p>
-<p>The undersigned citizens of Estill, Owsley, Breathitt, Perry, Letcher, Harlan &amp; Clay would respectfully ask that at least three (3) of the companies of the "Three Forks Bat." be retained in the service for two or three months longer <hi rend="underline">at</hi> <hi rend="underline">least</hi> -- We ask especially that Capt. Cardwell be not now mustered out, -- we would also ask that Capt. Combs &amp; Blankinships companies be retained -- </p>
-<p>At present we have peace and quiet in the counties named, but the guerrillas are only suppressed for the present and in consequence of the presence of Union forces &amp; should they be mustered out they will again appear and we fear in a worse and more desperate warfare than hertofore -- If the troops are all mustered out it will leave us in a worse condition than when the forces now here were formed. We hope and trust you will not disregard this petition -- The whole Batallion is now here representing the whole country from this to the Virginia line and are exceedingly anxious that you should be here on Monday next and Make them a speach -- If you will come, you will have a <hi rend="underline">large</hi> <hi rend="underline">crowd</hi> We will expect you -- You have ere this rec<hi rend="underline"><hi rend="sup">d</hi></hi> a letter from citizens of this county scoleciting you to 'be here Monday -- Please<pb/>
+<p>The undersigned citizens of Estill, Owsley, Breathitt, Perry, Letcher, Harlan &amp; Clay would respectfully ask that at least three (3) of the companies of the "Three Forks Bat." be retained in the sevice for two or three months longer <hi rend="underline">at</hi> <hi rend="underline">least</hi> -- We ask especially that Capt. Cardwell be not now mustered out, -- we would also ask that Capt. Combs &amp; Blankinships companies be retained -- </p>
+<p>At present we have peace and quiet in the counties named, but the guerrillas are only suppressed for the present and in consequence of the presence of Union forces, &amp; should they be mustered out they will again appear and we fear in a worse and more desperate warfare than hertofore -- If the troops are all mustered out it will leave us in a worse condition than when the forces now here were formed. We hope and trust you will not disregard this petition -- The whole Batallion is now here representing the whole country from this to the Virginia line and are exceedingly anxious that you should be here on Monday next and Make them a speach -- If you will come, you will have a <hi rend="underline">large</hi> <hi rend="underline">crowd</hi> We will expect you -- You have ere this rec<hi rend="underline"><hi rend="sup">d</hi></hi> a letter from citizens of this county scoleciting you to be here Monday -- Please<pb/>
 <lb/>answer immediately -- </p>
 <p>Respectfully
 <lb/>Isaac N. Cardwell
 <lb/>R. B. Jameson
-<lb/>J. B. Ashcroft
+<lb/>J, B, Ashcroft
 <lb/>P, D, Scholl
 <lb/>Tho<hi rend="sup">s</hi> H Carson
 <lb/>Carter Jett
-<lb/>G Thurden
+<lb/>E <unclear>Thurden</unclear>
 <lb/>Thomas Sewell
-<lb/>Francis M Vaughn Cap Co
-<lb/>'B' Three Forks Bat
+<lb/>Francis M Vaughn Capt Co (B) Three Forks Bat
 <lb/>W S Thompson
-<lb/>H J Arnold Lt Co 'B'
+<lb/>H G Arnold Lt,, Co 'B'
 <lb/>D, B, Scholl
-<lb/>Philip Harrison
+<lb/>Philip. Harriman
 <lb/>Caldwell Oaks 1<hi rend="sup">st</hi> Lieut Co. B.
 <lb/>W<hi rend="sup">m</hi> B Eversole Capt
 <lb/>Edward Marcum</p>

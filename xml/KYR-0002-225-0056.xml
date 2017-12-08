@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0056"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,13 +67,13 @@
 <lb/>Gov Bramlette
 <lb/>Dear Sir</p>
 <p>Capt Westerfield I understand is under arrest at Frankfort -- charged with shipping negroes across the Ohio river and disposing of them -- &amp; destroying papers of citizens -- Now sir I believe all those charges <hi rend="str">are</hi> false &amp; I hope you will at least give him a speedy trial upon those charges</p>
-<p>He &amp; his Co have been very active in keeping out the guerrillas in our county &amp; if he has erred it has been in favor of Union Men &amp; against Guerrillas &amp; their friends</p>
-<p>It is true he has pressed horses while in the pursuit of Guerrillas but he has I think in every instance returned them I will venture the assertion that no good Union man has ever complained of him -- his opposers are secesh and copperheads or <hi rend="underline">union</hi> <hi rend="underline">men</hi> with wooll in their teeth</p>
-<p>Very Respectfully
-<lb/>J. J. Harrison<pb/></p>
+<p>He &amp; his Co have been very active in keeping out the guerrillas in our county &amp; if he has erred it has been in favor of Union men &amp; against Guerrillas &amp; their friends</p>
+<p>It i<hi rend="str">t</hi>s true he has pressed horses while in the pursuit of Guerrillas but he has I think in every instance returned them I will venture the assertion that no good Union man has ever complained of him -- his opposers are secesh and copperheads or <hi rend="underline">union</hi> <hi rend="underline">men</hi> with wooll in their teeth</p>
+<p>very Respectfully
+<lb/>J, J, Harrison<pb/></p>
 <p>Hartford Ky
 <lb/><date when="1864-10-07">Oct 7" 1864</date> -- <figure type="hr"/>
-<lb/>Harrison J. J.<figure type="hr"/>
+<lb/>Harrison J. J -- <figure type="hr"/>
 <lb/>To the Gov -- <figure type="hr"/></p>
 <p>Believes all charges against Capt Westerfield who is a Frankfort under arrest -- to be false. hopes that he may have a speedy trial -- <figure type="hr"/></p>
 <p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-10-10">Oct 10" 1864</date> -- </p>

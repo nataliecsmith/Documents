@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0034"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Henry County, Kentucky</placeName>
+    <placeName>Kentucky</placeName>
     <date when="1862-09-02">2 September 1862</date>
    </creation>
    <textClass>
@@ -61,29 +64,29 @@
  <text>
   <body>
    <p>To His Excelency the Governor of Kentucky</p>
-<p>The undersigned officers of the Henry Circuit Court and Citizens who are knowing to the facts here submitted; would state to your Excelency that for some years past fines have been imposed by the Jury's in the said Circuit Court ag<hi rend="sup">t</hi>. person's under Indictments for various offenses -- that executions had from time to time been placed into the Shff's hands of said County on which Success of Satisfaction -- that the Trustee of the Jury fund finding it his duty to renew said Executions and to issue others on Judgments ag<hi rend="sup">t</hi>. others did on the <gap/> day of <gap/> 18<gap/> <hi rend="str">fine</hi> cause all of said Executions to issue &amp; placed the same into the hands of C M H<unclear/> late Shff of said County on the <gap/> day of <gap/> 18<gap/> and that he retained the Same in his hands (hoping that by waiting the Commonwealth might make some of his demands) until the <gap/> day of <gap/> 186<gap/> thereby subjecting said H<unclear/> as Shff to a motion on the part of said Trustee <hi rend="str">to at</hi> and at the <date when="1862-09">Sep<hi rend="sup">r</hi>. Term 1862</date> of said Court a Judgment was rendered ag<hi rend="sup">t</hi>. him for the full am<hi rend="sup">t</hi>. of all of said Exo<hi rend="sup">s </hi>^<unclear/>^ &amp; ^$^ 30 per cent damages for failing to return as af<hi rend="sup">d</hi>. Now the undersigned would<pb/>
-<lb/>respectfully petition, that the Judg<hi rend="sup">t</hi>. af<hi rend="sup">d</hi>. be by y<hi rend="sup">r</hi>. clemency remitted to far as the ComWealth is concerned, and particularly as the said Exo<hi rend="sup">s</hi>. have been again renewed and <hi rend="str"><unclear/></hi> now placed into the hands of the present Shff of said County for Collection -- and the ComWealth may by the last Exco<hi rend="sup">s</hi> receive full satisfaction of his claims ag<hi rend="sup">t</hi>. the several persons ag<hi rend="sup">t</hi>. whom fines have been assessed -- &amp; <hi rend="str">Will </hi>We will pray &amp;c</p>
-<p><hi rend="str">Sep</hi> A list of said Exo<hi rend="sup">s</hi> is here sent to y<hi rend="sup">r</hi>. Excellency -- 
-<lb/><date when="1862-09-02">Sep<hi rend="sup">r</hi>. 2 1862</date></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Tho<hi rend="sup">s</hi>. Pearce, Sr, 
-<lb/>Thomas M. Buckley D. M. <unclear/> M
+<p>The undersigned officers of the Henry Circuit Court and Citizens who are knowing to the facts here submitted; would state to your Excelency that for some years past fines have been imposed by, the Jury's in the said Circuit Court ag<hi rend="underline"><hi rend="sup">t</hi></hi> person's under Indictments for various offences- that executions had from time to time been placed into the Shff's hands of said County without Success of Satisfaction- that the Trustee of the Jury fund finding it his duty to renew Said Executions and to issue others on Judgments ag<hi rend="underline"><hi rend="sup">t</hi></hi> others did on the <gap/> day of <gap/> 18<gap/> <hi rend="str">issue</hi> cause all of said Executions to issue &amp; placed the same into the hands of C M H<unclear/> late Shff of said County on the <gap/> day of <gap/> 18<gap/> and that he retained the Same in his hands (hoping that by waiting the Commonwealth might make Some of his demands) until the <gap/> day of <gap/> 186<gap/> thereby subjecting said H<unclear/> as Shff to a motion on the part of said Trustee <hi rend="str">to a</hi> and at the <date when="1862-09">Sep<hi rend="underline"><hi rend="sup">r</hi></hi> Term 1862</date> of said Court a Judgment was rendered ag<hi rend="underline"><hi rend="sup">t</hi></hi> him for the full am<hi rend="underline"><hi rend="sup">t</hi></hi> of all of said Ex<hi rend="sup">os </hi>^<unclear/>^ &amp; ^&#36;^ 30 per Cent. damages for failing to return as af<hi rend="underline"><hi rend="sup">d</hi></hi> -- Now the undersigned would<pb/>
+<lb/>respectfully petition, that the Judg<hi rend="underline"><hi rend="sup">t</hi></hi> af<hi rend="underline"><hi rend="sup">d</hi></hi> be <unclear/> y<hi rend="underline"><hi rend="sup">r</hi></hi> clemency remitted So far as the Com Wealth is concerned, and particularly as the said Exo<hi rend="underline"><hi rend="sup">s</hi></hi> have been again renewed and <hi rend="str"><unclear/></hi> now placed into the hands of the present Shff of said County for Collection -- and the Com Wealth may by the last Exco<hi rend="sup">s</hi> receive full Satisfaction of her claims ag<hi rend="underline"><hi rend="sup">t</hi></hi> the Sveral persons ag<hi rend="underline"><hi rend="sup">t</hi></hi> whom fines have been assessed -- &amp; <hi rend="str">Will </hi>We Will pray &amp;c</p>
+<p><hi rend="str">Sep</hi> A list of said Exo<hi rend="sup">s</hi> is here Sent to y<hi rend="underline"><hi rend="sup">r</hi></hi> Excelency -- 
+<lb/><date when="1862-09-02">Sep<hi rend="underline"><hi rend="sup">r</hi></hi> 2. 1862</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Tho<hi rend="sup">s</hi>, Pearce, Sr, 
+<lb/>Thomas M. Buckley D, M, <hi rend="str">S</hi> M. M
 <lb/>I N Webb Judge pro tem 
-<lb/>M B. Pearce
+<lb/>M B Pearce -- 
 <lb/>County Court Clerk 
-<lb/>W. J. Brewer Sheriff ^Elect^
+<lb/>W. J, Brewer Sheriff-Elect
 <lb/><cb n="2"/>E. P. Thomas late clk H C C C
 <lb/>E. P Thomas Trus Jury fund=
 <lb/>E F Nuttall
 <lb/>B Selby
-<lb/>S. W. Hunt P. M.
-<lb/>J P Sparks
+<lb/>S. W. Hunt. P. M.
+<lb/><hi rend="underline">J' P. Sparks</hi>
 <lb/>J.. N. Oliver
 <lb/>John J, Berry
-<lb/>S E DeHann
-<lb/>L D Owen Sherriff of Henry
+<lb/>S E De<unclear>Hann</unclear>,
+<lb/>L D Owen, Sherriff of Henry
 <lb/>W. J. Thomas D C formerly
 <lb/>C M Mathews
-<lb/>Tho. S. Haydon</p>
+<lb/><hi rend="underline">Tho. S, Haydon</hi></p>
   </body>
  </text>
 </TEI>

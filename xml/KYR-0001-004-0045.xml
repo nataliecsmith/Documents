@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0045"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,13 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Journal Office
-<lb/>Louisville <date when="1863-09-15">Sept 15, 1863</date>
+   <p>Journal office
+<lb/>Louisville <date when="1863-09-15">Sep<hi rend="sup">t</hi> 15. 1863</date>
 <lb/>Hon Thomas E Bramlette
-<lb/>Governor
+<lb/>Governer
 <lb/>Dear Sir</p>
-<p>I do not sign the peition for pardon and remission of the fines Mr James H Cornell because it is not strong enough to present the case properly to you. I have known Mr Cornell from his boyhood; he is but a youth yet and has just entered into business and zealously working to and in the support of a widowed mother. He is a good and exemplary young man. The upper room of his coffee House was occupied by some gentleman as a private club room, and it was there gambling was carried on. He was aware of it but did not think it was improper for a club to do it as it is known the Louisville Club indulge largely in that direction. When informed against he was suprised that he had rendered himself ameanable to the law,<pb/>
-<lb/>and <unclear>panbly</unclear> cunfessed the facts and thus saved the state the expense of a trial The fine of $200 and costs will, if paid by him put him and his family to great distress. I have never but once before asked the remission of a fine but I assure you my dear Sir, in this case you may exercise, "the sweetest highest gift of power" and in so doing you will confer a particular favor upon</p>
+<p>I do not sign the peition for the pardon and remission of the fine of M<hi rend="sup">r</hi> James H Cornell, because it is not strong enough to present the case properly to you. I have know M<hi rend="sup">r</hi> Cornell from his boyhood; he is but a youth yet and has just entered into busines and zealously working to and in the support of a widowed mother. He is a good and exemplary young man The upper room of his coffee House was occupied by some gentleman as a private club room, and it was there gambling was carried on. He was aware of it but did not think it was improper for a club to do it as it is know the Louisville Club indulge largely in that direction. When informed against he was surprised that he had rendered himself ameanable to the law,<pb/>
+<lb/>and <unclear/> confessed the facts and thus saved the state the expense of a trial The fine of &#36;200 and costs will, if paid by him put him and his family to great distress. I have never but once before asked the remission of a fine but I assure you my dear Sir, in this case you may exercise, "the sweetest hihest gift of power" and in so doing, you will confer a particular favor upon</p>
 <p>Yours most cordially
 <lb/>James S. Wallace</p>
   </body>

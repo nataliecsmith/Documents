@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0020"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Commonwealth of Kentucky v. Daniel H. Basinger et al., Indictment</title>
+    <title level="a" type="main">Commonwealth of Kentucky v. Daniel H. Basinger, John R. Basinger, and Lewis Baker, Indictment</title>
     <title level="a" type="parallel">CWG0909</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Breckinridge County, Kentucky</placeName>
-    <date when="1864-01-08">8 January 1864</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -62,10 +65,10 @@
   <body>
    <p>Breckenridge Circuit Court
 <lb/>Commonwealth of. Kentucky
-<lb/>against } Indictment
-<lb/>Daniel. H. ^B^asinger John. R. Bassinger and Lewis Baker</p>
+<lb/>against
+<lb/>Daniel. H ^B^asinger John. R. Baysinger and Lewis Baker &#125; Indictment</p>
 <p>the grand Jury of Breckenridge County in the name &amp; by the authority of the Commonwealth of Kentucky accuse Daniel. H. Basinger John. R. Basinger &amp; Lewis. Baker of the crime of murder committed as follows viz -- </p>
-<p>the Said Daniel. H. Basinger John. R. Basinger &amp; Lewis Baker on the <gap/> day of <date when="1862-12">December &amp; Year 1862</date> in the county afs<hi rend="underline"><hi rend="sup">d</hi></hi> did feloniously and with mallas aforethought Kill and Murder Davis E Crawford by striking him with axes hammers &amp; clubs against the peace &amp; dignenty of the Commonwealth of Kentucky.</p>
+<p>the Said Daniel. H. Basinger John. R. Baysinger &amp; Lewis Baker on the <gap/> day of <date when="1862-12">December &amp; Year 1862</date> in the county afr<hi rend="underline"><hi rend="sup">d</hi></hi> did feloniously and with mallas aforethought Kill and Murder Davis E Crawford by striking him with axes Hammers &amp; clubs aganst the peace &amp; digninty of the Commonwealth of Kentucky.</p>
 <p>Information by Miss Angeline Baker M<hi rend="underline"><hi rend="sup">rs</hi></hi> Ann Tate Thomas Nichols &amp; Sarah his wife John Thomas Samuel C. Crawford Amelia Ann Stuart Zachariah<pb/>
 <lb/>T Witt Littleberry Dowell Felix Dowell Eliza<hi rend="str">b</hi> Roberts Alexander Roberts M<hi rend="underline"><hi rend="sup">rs</hi></hi> Margaret Overton Lycurgus French &amp; Wilson Jarrett Summons for the comlth -- M<hi rend="sup">rs</hi> Mary Ann Beard Clark Baker Benjamin. F. Allen &amp; James A Turner</p>
 <p>a copy att
@@ -75,14 +78,14 @@
 <lb/>Circuit Judge</p>
 <p>Breckenridge Co
 <lb/>The Commonwealth. of. Ky
-<lb/>vs } Murder
+<lb/>vs &#125; Murder
 <lb/>Dan. H. Basinger
 <lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> R. Basinger
 <lb/>Lewis. Baker<figure type="hr"/>
 <lb/>A true Bill<figure type="hr"/>
-<lb/>Reward of $250.<hi rend="underline"><hi rend="sup">00</hi></hi> for Lewis Baker
-<lb/>Tho E Bramlette
-<lb/><date when="1864-01-11">11<hi rend="sup">th</hi> Jany 1864</date></p>
+<lb/>Reward of &#36;250.<hi rend="underline"><hi rend="sup">00</hi></hi> for Lewis Baker
+<lb/>Tho E Bramlette</p>
+<p><date when="1864-01-11">11<hi rend="sup">th</hi> Jany 1864</date></p>
   </body>
  </text>
 </TEI>

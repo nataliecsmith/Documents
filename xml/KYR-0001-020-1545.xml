@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1545"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Patrick Cummins et al. to Beriah Magoffin</title>
+    <title level="a" type="main">Patrick Cummins to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG11013</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,29 +65,31 @@
   <body>
    <p>To the Hon<hi rend="underline"><hi rend="sup">ble</hi></hi> Beriah M<hi rend="sup">c</hi>Goffin, Governor of the Commonwealth of Kentucky
 <lb/>Sir</p>
-<p>Your petitioner Parick Cummins begs respectfully to represent, that, <hi rend="str">a few days Since</hi> on the 2<hi rend="underline"><hi rend="sup">nd</hi></hi> day of <date when="--09">September</date> Court a fine or verdict was rendered against him in the Police Court of the City of Louisville on the prosecution of Hannah Duffy, <hi rend="str"><unclear/></hi>for the sum of <hi rend="str">Sixty</hi> $50. dollars, &amp; ^at same times for Keeping a tipling house, <hi rend="str">Fifty</hi> $60 dollars -- ^ The said Hanna -- with others, occupied <hi rend="underline">Rooms</hi> as <hi rend="underline">tenants</hi> in the house of Petitioner, -- during his absence, She with another woman -- both under the influence of Liquor became engaged in a fight &amp; used each other badly up -- your petitioner at this time came back to his house, &amp; finding the Condition of affairs between these two women, he in Company with a M<hi rend="sup">r</hi> Gill went up to Seperate &amp; if possible to pacify these enraged belligerants, M<hi rend="underline"><hi rend="sup">rs</hi></hi>. Duffy was perfectly mad with rage, and attacking y<hi rend="sup">r</hi> petitioner with a <hi rend="underline">Knife</hi> &amp; <hi rend="underline">Brickbat</hi>, she cut him below the <hi rend="underline">knee</hi> &amp; to prevent further injuries, he was Compelled to lay hold on her &amp; to wrest from her the weapons of attack, your petitioner used no more force than was necessary for said purpose and did not inflict any injury to her person --  --, Out of <hi rend="underline">pure</hi> <hi rend="underline">malice</hi> she charged <hi rend="underline">him</hi><pb/>
-<lb/>with committing an Assault on her ^added that he kept a tipling house^ And without proof to sustain her charge y<hi rend="sup">r</hi> petitioner not being able to procure witnesses ^except, one W. J Quick, who disproved all her statements^ on his behalf was hurried into trial &amp; he was subjected most unjustly to the foregoing Verdict</p>
-<p>Your Petitioner is a poor man, Keeping a small Grocery for Support of himself and family -- and in the present <hi rend="underline">awful</hi>, and distressing times of trouble and alarm, would be ruined by the exacting off him the said finis, he then humbly prays y<hi rend="sup">r</hi> Excellency would extend to him that clemency to which he is so justly entitled ^and order this fine to be remitted^ and as in duty bound will ever pray. </p>
-<p>Patrick Cumming</p>
+<p>Your petitioner Patrick Cummins begs respectfully to represent, that, <hi rend="str">a few days Since</hi> on the 2<hi rend="underline"><hi rend="sup">nd</hi></hi> day of <date when="--09">September</date> Court a fine or Verdict was rendered against him in the Police Court of the City of Louisville on the prosecution of Hannah Duffy, <hi rend="str">she</hi> For the sum of <hi rend="str">Sixty</hi> &#36;50. dollars, &amp; at same times for Keeping a tipling house <hi rend="str">Fifty</hi> ^&#36;60-^ dollars -- The said Hanna- with others, occupied <hi rend="underline">Rooms</hi> as <hi rend="underline">tenants</hi> in the house of Petitioner,- during his absence, She with another woman -- both under the influence of Liquor became engaged in afight &amp; used each other badly up -- your petitioner at this time came back to his house, &amp; finding the Condition of affairs between these two <hi rend="underline">women</hi>, he in Company with a M<hi rend="sup">r</hi> Gill went up to Seperate &amp; if possible to pacify these enraged be<hi rend="str">l</hi>ligerent,, M<hi rend="underline"><hi rend="sup">rs</hi></hi> Duffy was perfectly mad with rage, and attacked y<hi rend="sup">r</hi> petitioner, with a <hi rend="underline">Knife</hi> &amp; <hi rend="underline">Brickbat</hi>, She cut him below the <hi rend="underline">Knee</hi> &amp; to prevent further injuries, he was Compelled tolay hold on her &amp; to wrest from her that weapons of attack, your petitioner used no more force than was necessary for said purpose and did not inflict any injury to her person- -, Out of <hi rend="underline">pure</hi> <hi rend="underline">malice</hi> she charged <hi rend="underline">him</hi><pb/>
+<lb/>with committing an Assault on her ^added that he kept a tipling house^ And without proof to Sustain her charge y<hi rend="sup">r</hi> petitioner not being able to procure witnesses ^except, one W. J Quick, who disproved all her statements^ on his behalf was hurried into trial &amp; he was Subjected most <hi rend="underline">unjustly</hi> to the foregoing Verdict</p>
+<p>Your Petitioner is a poor man, Keeping a small Grocery for Support of himself and family, -- and in the present <hi rend="underline">Awful</hi>, and distressing times of trouble and Alarm, would be ruined by the exacting off him the Said finis, he then humbly prays y<hi rend="sup">r</hi> Excellency would extend to him that clemency to which he is so justly entitled and order this fine to be remitted: and as in duty bound will ever pray. </p>
+<p>Patrick Cummins</p>
 <p>We join in the prayer of the foregoing Petition -- </p>
-<p>W. R. Murphy -- <unclear/>, &amp;e</p>
-<p>I Join with Petitioner, and recommend that the fine of $50- be remitted,</p>
-<p>W. G. Reasor</p>
-<p>I Know Pat Cummins to be a man of industrious habits sober and temperate he is a poor man and from my knowledge of the case recom<hi rend="str">e</hi>mend him to your clemmency as a man deserving your sympathies } W R Hydes M. C. C. L<pb/></p>
-<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> Cummins is a Temperate man quiet &amp; civil &amp; clever Citizen I. concur with M<hi rend="sup">r</hi>. Reasor the city atto in recommending the remission of the fine of Fifty Dollars. Geo. W. Johnston.</p>
-<p>The Fines assessed against Cummings was $50 for an assault on H. Duffy &amp; $60 for Keeping a Tipling House</p>
+<p>W. R. Murphy- atty, &amp;c</p>
+<p>I Join with Petitioner, and recommend, that the fine of &#36;50- be remitted,</p>
+<p>W, G, Reasor</p>
+<p>I Know Pat Cummins to be a man of industrious habits sober and temperate he is a poor man and from my knowledge of the case recom<hi rend="str">e</hi>mend him to your clemmency as a man deserving your sympathies </p>
+<p>W R Hydes M, C, C, L<pb/></p>
+<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> Cummins is a Temperate man quiet &amp; civil &amp; clever citizen I concur with M<hi rend="underline"><hi rend="sup">r</hi></hi> Reasor the city atto in recommending the remission of the fine of Fifty Dollars. </p>
+<p>Geo. W. Johnston.</p>
+<p>The Fines assessed against Cummings was &#36;50 for an assault on H. Duffy &amp; &#36;60 for Keeping a Tipling House</p>
 <p>Johnston.</p>
-<p>Mr Cummins has been in our Employ for five Years, and we can truely concur in all that has been said in his <hi rend="underline">favour</hi> as sober industrious and trustworthy -- he has a wife and four children whom he is struggling to support, his wife attends the grocery while he works for us -- and we would earnestly reccomend that the <hi rend="underline">fines</hi> above named be remitted -- We have always found him a man of <hi rend="underline">truth</hi></p>
+<p>Mr Cummins has been in our employ for five years, and we can truly concur in all that has been Said in his <hi rend="underline">favour</hi> as Sober industrious and trustworthy- he has a wife and four children whom he is struggling to support, his wife attends the grocery while he works for us -- and we would earnestly reccomend that the <hi rend="underline">fines</hi> above named be remitted -- We have always found him a man of <hi rend="underline">truth</hi></p>
 <p> -- J. F. Stone. &amp; Co -- 
 <lb/> -- Carriage Dealers -- </p>
 <p>P.S Please direct Patrick Cummins
-<lb/>Case J T Stone &amp; Co
+<lb/>case J F Stone &amp; Co
 <lb/> -- Louisville Ky -- <pb/></p>
 <p>Louisville City Ct</p>
-<p>Remitted as to the fine of $50 -- 
+<p>Remitted as to the fine of &#36;50 -- 
 <lb/>B. M.</p>
-<p>$50 } Mis
-<lb/>Pat. Cumminss
+<p>&#36;50 &#125; Mis
+<lb/>Pat. Cummins
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-11-19">Nov 19. 1861</date></p>
   </body>
  </text>

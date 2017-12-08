@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0097"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,12 +31,14 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
     </respStmt>
    </seriesStmt>
+   <notesStmt>
+    <note type="editorial">The final page of this document was previously published as KYR-0001-005-0096, "Unknown, Note." It has been merged into this record.</note>
+   </notesStmt>
    <sourceDesc>
     <msDesc>
     <msIdentifier>
@@ -62,18 +68,20 @@
   <body>
    <p>To His Excellency Thos E Bramlette
 <lb/>Gov of the State of Kentucky</p>
-<p>Under the provisions of the Revised Statutes Chap 28 sec 22 on the petition of the County Judge or Circuit Judge of the County, You are authorized to issue a proclamation and offer a reward in aggravated cases of murder and other felonies against the person when the accused shall flee from Justice, I therefore as Judge of the Woodford County Court respectfully petition Your Excellency to offer a reward for the apprehension of the persons described in the accompanying paper herewith, They from all the information I can gather on or about the <date when="--08-19">19<hi rend="underline"><hi rend="sup">th</hi></hi> day of August</date> ^past^ within this county Robbed and assaulted in an aggravated manner Benja Martin an Old man and Fantly Johnson both respectable Citizens of the County and having done so fled from Justice and are now at liberty,</p>
-<p>W. J. Steele P. J. W. C. C</p>
-<p><date when="1865-09-02">Sep 2<hi rend="sup">nd</hi> 1865</date><pb/></p>
-<p>$750
+<p>Under the provisions of the Revised Statutes Chap 28 sec 22 on the petition of the County Judge or Circuit Judge of the County, You are authorized to issue a proclamation and offer a reward in aggravated cases of murder and other felonies against the person when the accused shall flee from Justice, I therefore as Judge of the Woodford County Court respectfully petition Your Excellency to offer a reward for the apprehension of the persons described in the accompanying paper herewith, They from all the information I can gather on or about the <date when="1865-08-19">19<hi rend="underline"><hi rend="sup">th</hi></hi> day of August</date> ^past^ within this county Robbed and assaulted in an aggravated manner Benja Martin an Old man and Fantly Johnson both respectable Citizens of the County and having done so fled from Justice and are now at liberty,
+<lb/><date when="1865-09-02">Sep 2<hi rend="sup">nd</hi> 1865</date></p>
+<p>W, J. Steele P, J. W. C. C<pb/></p>
+<p>&#36;750
 <lb/>Reward
 <lb/>Woodford Co
-<lb/>Tho<hi rend="sup">s</hi> Jenkins
-<lb/>Anthony Smith &amp; John Bishop
-<lb/>Reward $250
-<lb/>each
-<lb/><date when="1865-09-03">3<hi rend="sup">rd</hi> Sept /65</date>
-<lb/>Reward increased on the 6<hi rend="sup">th</hi> inst to $500, each</p>
+<lb/>Tho<hi rend="sup">s</hi> Jenkins Anthony Smith &amp; John Bishop</p>
+<p>Reward &#36;250 each
+<lb/><date when="1865-09-03"><unclear>3</unclear><hi rend="sup">rd</hi> Sept/65</date>
+<lb/>Reward increased on the 6<hi rend="sup">th</hi> inst to &#36;500, each<pb/></p>
+<p>A Descriptive List of Robbers as follows</p>
+<p>Tho<hi rend="sup">s</hi> Jenkins about five feet and Ten Inches High, light Hair, Hazel, Eyes. and little stooped Shoulder hardly sufficient to discover at a distance and will weigh about 170 pounds- lives in Mercer County near Duncansville, Ky</p>
+<p>Anthony Smith is about Five feet &amp; eight inches in height, Black hair Dark Eyes. and will weigh about one hundred &amp; Eighty Pounds. Lives in Washington County near Cornishville, Ky</p>
+<p>John Bishop is about Five feet three inches in height and has Light hair Hazel Eyes -- fine voice, and weighs about One hundred &amp; Thirty Pounds, and lives in Mercer County near Duncansville Ky</p>
   </body>
  </text>
 </TEI>

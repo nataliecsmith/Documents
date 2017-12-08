@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0056"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,13 +62,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>A. H. Kininmouth
+   <p>A. H. Kininmonth
 <lb/>Sheriff Butler County
 <lb/>Revenue <date when="1862">1862</date></p>
 <p><table rend="rules">
 <row>
 	<cell>Judgment for Principal</cell>
-	<cell>$522.75</cell>
+	<cell>&#36;522.75</cell>
 </row>
 <row>
 	<cell>" " Damages</cell>
@@ -75,15 +78,15 @@
 	<cell>" " Costs</cell>
 	<cell>7.45</cell>
 </row>
-</table>
-<lb/>Paid in full except Damages
-<lb/><date when="1863-09-25">Sept 25 1863</date> -- </p>
-<p>Attest Greant Green Aud
-<lb/>By C. Bailey Asst<pb/></p>
+</table></p>
+<p>Paid in full except Damages
+<lb/><date when="1863-09-25">Sept 25<hi rend="sup"><unclear/></hi> 1863</date> -- </p>
+<p>Attest Grant Green Aud
+<lb/>By C. Bailey asst<pb/></p>
 <p>Butler Co
 <lb/>Shff
 <lb/>Remitted Damages
-<lb/>$104.<hi rend="sup">55</hi>
+<lb/>&#36;104.<hi rend="underline"><hi rend="sup">55</hi></hi>
 <lb/><date when="1863-09-26">26<hi rend="sup">th</hi> Sept 1863</date></p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0070"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,12 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hickman Ky <date when="1863-09-23">Septr 23. 1863</date>.
+   <p>Hickman Ky <date when="1863-09-23">Sept<hi rend="sup">r</hi> 23. 1863</date>.
 <lb/>His Excellency Thos E Bramlette
 <lb/>Governor of the Com. of Kentucky.
 <lb/>Sir.</p>
 <p>You will receive herewith a petition and accompanying documents, asking for the interposition of the Executive clemency.</p>
-<p>As I have a full knowledge of all the facts, I cannot but write in the recommendation of the Comwth's Atty &amp; the Presiding Judge of the Court. The case is one eminently desrving consider:</p>
+<p>As I have a full knowledge of all the facts, I cannot but unite in the recommendation of the Commth's Atty &amp; the Predsiding Judge of the Court. The case is one eminently desrving considr:</p>
 <p>With great respect
 <lb/>Your Excellency's
 <lb/>Obt Servt

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0022"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>McLean County, Kentucky</placeName>
-    <date when="1864-03-28">28 March 1864</date>
+    <date when="1864-03-29">29 March 1864</date>
    </creation>
    <textClass>
     <keywords>
@@ -64,67 +67,67 @@
 <lb/>M<hi rend="sup">c</hi>Lean Circuit Court</p>
 <p>Pleas before Hon James Stuart Judge of the M<hi rend="sup">c</hi>Lean Circuit Court at the Court house in Calhoun <date when="1864-03-26">March 26th 1864</date></p>
 <p>Commonwealth of Ky Plff
-<lb/>vs } Indictment for Felony
+<lb/>vs &#125; Indictment for Felony
 <lb/>Thomas B Lawton &amp; others whose names to the Grand Jury are unknown Deft</p>
-<p>The Grand Jury of M<hi rend="sup">c</hi>Lean County in the name and by the Authority of the Commonwealth of Kentucky, accuse Thomas Lawton &amp; others whose names to the Grand Jury are unknown, of the Crime of Robbery as follows viz; The said Thomas Lawton and others whose names to the Grand Jury are unknown, on the <gap/> day of <date when="1862-10">October 1862</date> and in the County afs<hi rend="sup">d</hi> feloniously took &amp; carried away a horse the property of Gray R. Stringer &amp; in his presence &amp; against his will by putting him in fear of some immediate Injury to his person against the peace and dignity of the Com-<pb/>
+<p>The Grand Jury of M<hi rend="sup">c</hi>Lean County in the name and by the Authority of the Commonwealth of Kentucky, accuse Thomas Lawton &amp; others whose names to the Grand Jury are unknown, of the Crime of Robbery as follows viz; The said Thomas Lawton and others whose names to the Grand Jury are unknown, on the <gap/> day of <date when="1862-10">October 1862</date> and in the County afs<hi rend="sup">d</hi> feloniously took &amp; carriedaway. a horse the property of Gray R. Stringer &amp; in his presince &amp; against his will by putting him in fear of some immediate Injury to his person against the peace and dignity of the Com-<pb/>
 <lb/><note place="header">2</note>
 <lb/>monwealth of Kentucky -- </p>
-<p>2nd The Grand Jurors afsd on their Oaths further Say and accuse; &amp; in the name and by the authority of the commonwealth of Kentucky Thomas Lawton, &amp; others <hi rend="str">to who</hi> whose names to the Grand Jury are unknown of the offense of unlawfully, but not with a felonious intention taking &amp; carrying <hi rend="str">the</hi>away the personal property of another Committed as follows viz: -- The Said Thomas Lawton &amp; others whose names to the Grand Jury are unknown on the <gap/> day of October 1862, in the County afs<hi rend="underline"><hi rend="sup">d</hi></hi> unlawfully but not with a felonious intention took and Carried away a horse <hi rend="str">the p</hi> not their property <unclear><hi rend="str">so</hi></unclear>to any one of them but the personal property of Gray R Stringer, ^&amp; against the sd Stringers will &amp; out of his possession &amp;^ of the Value of Seventy five dollars &amp; did then &amp; there convert the same to their own use &amp; against the peace &amp; Dignity of the Commonwealth of Kentucky</p>
+<p>2nd The Grand Jurors afsd on their Oaths further Say and accuse; &amp; in the name and by the authority of the Commonwealth of Kentucky Thomas Lawton. &amp; others <hi rend="str">to</hi> <hi rend="str">who</hi> whose names to the Grand Jury are unknown, of the offense of unlawfully, but not with a felonious intention taking &amp; carrying <hi rend="str">the</hi>away the personal property of another Committed as follows viz: -- The Said Thomas Lawton &amp; others whose names to the Grand Jury are unknown on the <gap/> day of <date when="1862-10">October 1862.</date> in the County afs<hi rend="underline"><hi rend="sup">d</hi></hi> unlawfully but not with a felonious intention took and Carried away a horse <hi rend="str">the p</hi> not their property <hi rend="str"><unclear/></hi> any one of them but the personal property of Gray R Stringer, ^&amp; against the sd Stringer will &amp; out of his possession &amp;^ of the Value of Seventy five dollars &amp; did then &amp; there convert the same to their own use &amp; against the peace &amp; Dignity of the Commonwealth of Kentucky</p>
 <p>Information by
 <lb/>Gray R Stringer
-<lb/>Harding Stringer
+<lb/>Hardin g Stringer
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> E Clark.<figure type="hr"/></p>
 <p>Endorsed</p>
 <p>A. true bill, J. M Hancock foreman<pb/>
 <lb/><note place="header">3</note>
 <lb/>of the Grand Jury<figure type="hr"/></p>
 <p>Returned by the Grand Jury in open Court and filed <date when="1863-03-16">16th March 1863</date>.</p>
-<p>Lewis L Moore clk</p>
+<p>Louis L Moore clk</p>
 <p><note place="left margin">Order at <date when="1864-03">March term 1864</date> <date when="1864-03-17">March 17<hi rend="sup">th</hi> 1864</date></note>
-<lb/>The parties came by their Counsel and the atty for the Comwth anounced <hi rend="str">that</hi> the Commonwealth was ready for trial, and the defendant moved the court for a continuance and filed his affidavit herein, and the Court being sufficiently advised overruled said motion and it <hi rend="str">leave</hi> is ordered by the court that further time given the defendant until next monday to prepare for trial it is therefore ordered that this prosecution be set for the seventh day of this term and the defendant is held on his former recognisance for his appearance on that day</p>
-<p><note place="left margin">Grounds for Continuance Filed <date when="1864-03-21">21<hi rend="sup">st</hi> March 1864</date></note>
+<lb/>The parties came by their Counsel and the atty for the Comwth announced <hi rend="str"><unclear/></hi>that the Commonwealth was ready for trial, and the defendant moved the Court for a continuance and filed his affidavit herein. and the Court being sufficiently advised overruled said motion and it <hi rend="str">leave</hi> is ordered by the court that further <hi rend="str">trial</hi>time given the defendant until next monday to prepare for trial it is therefore ordered that this prosecution be set for the seventh day of this term and the defendant is held on his former recognisance for his appearance on that day</p>
+<p><note place ="left margin">Grounds for Continuance Filed <date when="1864-03-21">21<hi rend="sup">st</hi> March 1864</date></note>
 <lb/>M<hi rend="sup">c</hi>Lean Circuit Court</p>
-<p>The defendant says that he is not ready <hi rend="str"><unclear/></hi>, for the trial of this Cause, because he says that Since the calling of this cause at this term he has used every<pb/>
+<p>The defendant says that he is not ready <hi rend="str">for</hi>yet, for the trial of this Cause, because he says that Since the Calling of this Cause at this term he has used every<pb/>
 <lb/><note place="header">4</note>
-<lb/>effort in his possession to procure the attendance of his witnesses he went to Webster County with attachments against Owen &amp; Stubblefield but was only enabled to have the attachment served on Stubblefield who is in attendance he did not have time to go to Hopkins County to have the attachments served on Cha<hi rend="underline"><hi rend="sup">s</hi></hi> Robertson for whom he had an attachment nor did he send it to Hopkins County because the said Robertson as he was infomed was temporarily absent. at Evansville Ia. He verily believes the attenance of all his witnesses at the next term &amp; will use every effort in his power to do so, if a continuance is granted. which he asks not for delay but that Justice may be done</p>
+<lb/>effort in his possession to procure the attendance of his witnesses he went to Webster County with attachments against Owen &amp; Stubblefield but was only enabled to have the attachment served on Stubblefield who is in attendance he did not have time to go to Hopkins County to have the attachments served. on Cha<hi rend="underline"><hi rend="sup">s</hi></hi> Robertson for whom he had an attachment nor did he send it to Hopkins County because the said Robertson as he was infomed was temporarily absent. at Evansville Ia. He verily believes the attenance of all his witnesses at the next term &amp; will use every effort in his power to do so. if a continuance is granted. which he asks not for delay but that Justice may be done</p>
 <p>T B Lawton</p>
-<p>Sworn to be fore me this <date when="1864-03-21">21. March 1864</date></p>
+<p>Sworn to before me this <date when="1864-03-21">21. March 1864</date></p>
 <p>Louis L Moore clk</p>
 <p>And thereupon the folowing order was made viz:</p>
-<p><note place="left margin">Order at <date when="1864-03-07">March term 1864<figure type="hr"/>
+<p><note place ="left margin">Order at <date when="1864-03-07">March term 1864<figure type="hr"/>
 <lb/>7<hi rend="underline"><hi rend="sup">th</hi></hi> day</date></note></p>
 <p>This day came as well the atty for the Comth as the deft in proper person and by his Counsel &amp; the deft tendered an<pb/>
 <lb/><note place="header">5</note>
-<lb/>additional affidavit for a continuance of this Cause and moved the Court <hi rend="str">from</hi>for a Continuance which was peremtorily <hi rend="str">refused</hi>, overruled by the Court and to which ruling of the Court he deft excepts, and thereupon the defendant demurred to the Indictment, and upon said demurrer being offered by the deft the Atty for the Comwth dismissed the 2nd Count in the indictment and the Same was ordered by the Court Dismissed, and after the Said Second Count in the Indictment was dismissed as aforesaid by the atty for the Comwth, the demurrer to said indictment was overruled, And the defendant upon the record plead not guilty of the Charge contained in said indictment and also a special plea which was ordered to be filed, and the atty for the Comth tendered a demurrer to said plea which is ordered to be filed and the matters of Law arising upon said demurrer being understood, it is ordered that the same be sustained and there being not time to Conclude the trial of this Cause to day the same is<pb/>
+<lb/>additional affidavit for a continuance of this Cause and moved the Court <hi rend="str">from</hi>for a Continuance which was peremtorily <hi rend="str">refused</hi>, overruled by the Court and to which ruling of the Court he deft excepts, and thereupon the defendant demurred to the Indictment, and upon said demurrer being offered by the deft the Atty for the Comwth dismissed the 2nd Court in the indictment and the Same was ordered by the Court Dismissed, and after the Said Second Count in the Indictment was dismissed as aforesaid by the atty for the Comwth, the demurrer to said indictment was overruled, And the defendant upon the record plead not guilty of the charge contained in said indictment and also a special plea which was ordered to be filed, and the atty for the Comth tendered a demurrer to said plea which is ordered to be filed and the matters of Law arising upon said demurrer being understood, it is ordered that the same be sustained and there being not time to conclude the trial of this Cause to day the same is<pb/>
 <lb/><note place="header">6</note>
-<lb/>laid over until tomorrow.</p>
-<p><note place="leftmargin">Demurrer to Indic<hi rend="underline"><hi rend="sup">t</hi></hi></note>
-<lb/>The defendt Demurrs to the Indictment
-<lb/><unclear/> &amp; p j,<figure type="hr"/></p>
+<lb/>laid over until tomorrow,</p>
+<p><note place="leftmargin">Demurrer to Indict</note>
+<lb/>The defend<hi rend="sup">t</hi> Demurrs to the Indictment
+<lb/><unclear>Null &amp;</unclear> <unclear/>,<figure type="hr"/></p>
 <p><note place="left margin">Plea Filed <date when="1864-03-21">March 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1864</date></note>
-<lb/>The defend<hi rend="sup">t</hi> Lawton for plea to the Indictment says that at the time they have mentioned in the Indictment was taken he was a regular Soldier &amp; in the service of the army of the So Called Confederate States of America and took the said horse in <hi rend="str">the</hi> obedience to the command of his Superior officer, who was in command of a large force <hi rend="str">who was in Com</hi> in M<hi rend="sup">c</hi>Lean County. He says that the taking was not felonious, was not from motives of gain or advantageous to himself but was because of the Command and necessity put upon him by his sd superior officer, He says the taking of s<hi rend="sup">d</hi> horse was justified by the laws of war, which at the time superceded and rendered in operative the Civil law of M<hi rend="sup">c</hi>Clean County, and his said taking was no violation of such superceded <hi rend="str">and</hi> <hi rend="str">inoperative</hi> civil law. that by his s<hi rend="sup">d</hi> taking <hi rend="str">and</hi>of s<hi rend="sup">d</hi> horse and by reason of his<pb/>
+<lb/>The defend<hi rend="sup">t</hi> Lawton for plea to the Indictment says that at the time they have mentioned in the indictment was taken he was a regular Soldier &amp; in the service of the army of the So Called Confederate States of America and took the said horse in <hi rend="str">the</hi> obedience to the command of his Superior officer, who was in command of a large force <hi rend="str">who was in Comm</hi> in M<hi rend="sup">c</hi>Lean County. He says that the taking was not felonious, was not from motives of gain or advantageous to himself but was because of the Command and necessity put upon him by his sd superior officers, He says the taking of sd horse was justified by the laws of war, which at the time superceded and rendered in operative the Civil law of M<hi rend="sup">c</hi>Lean County, and his said taking was no violation of such superceded <hi rend="str">and inoperative</hi> civil law. that by his s<hi rend="sup">d</hi> taking <hi rend="str">and</hi>of s<hi rend="sup">d</hi> horse and by reason of his<pb/>
 <lb/><note place="header">7.</note>
-<lb/>being a Confederate Soldier as afsd he became and was amenable to the military authorities of the ^Federal^ Government, and so being amenable he afterwards surrendered himself in Custody of the said Military authorities who had power and right to inflict him such punishment as he may have deserved by reason of the Premises</p>
-<p>They the said Military Authorities subsequently discharged, released and acquitted him of sd offence from Custody upon his taking the oath of allegiance to the Federal Government, and executing bond with with good security conditioned as required by said military authorities when he did. He was released by Major T G Brown, Commanding the Military post at Ramsey in M<hi rend="sup">c</hi>Lean County, on the <date when="1863-01-26">26 day of January 1863</date>, his said release being in writing and signed by said Major and he files it herewith as part hereof, he pleads the foregoing facts in abatement of the indictment herein asking to go hence without <unclear>day</unclear><pb/></p>
+<lb/>being a Confederate Soldier as afsd he became and was amenable to the Military authorities of the ^Federal^ Government, and so being amenable he afterwards surrendered himself in Custody of the said Military authorities who had power and right to inflict him such punishment as he may have deserved by reason of the Premises</p>
+<p>They the said Military Authorities subsequently discharged, released and acquitted him of sd offence from Custody upon his taking the oath of allegiance to the Federal Government. and executing bond with with good security conditioned as required by said Military authorities when he did. He was released by Major T G Brown, Commanding the Military post at Rumsey in M<hi rend="sup">c</hi>Lean County, on the <date when="1863-01-26">26 day of January 1863</date>, his said release being in Writing and signed by said Major and he files it herewith as part hereof. he pleads the foregoing facts in abatement of the indictment herein asking to go hense without delay<pb/></p>
 <p><note place="header">8</note>
-<lb/>He further says, that at the time s<hi rend="sup">d</hi> horse was taken Genl J T Boyle Commanding in Kentucky the said Boyle being Chief Federal Officer of said State by Authority vested in him, as such Commander, proclaimed and declared the state of Kentucky under Marital Law. and the sd state by reason thereof, was under Martial law &amp; that <hi rend="str">sd state by reason thereof</hi> in obedience thereto deft surrendered, himself as a prisoner of war and was taken before the said Major Brown &amp; upon the terms &amp; conditions required by him deft was released, for all former offences committed by him as a soldier in the service of the so called Confederate States of America</p>
+<lb/>He further says, that at the time s<hi rend="sup">d</hi> horse was taken Genl J T Boyle Commanding in Kentucky the said Boyle being Chief Federal Officer of said State by Authority vested in him, as such Commander, proclaimed and declared the state of Kentucky under Marital Law. and the sd state by reason thereof, was under Martial law &amp; that <hi rend="str">sd State by reason thereof</hi> in obedience thereto deft surrendered himself as a prisoner of war and was taken before the said Major Brown &amp; upon the terms &amp; conditions required by him deft was released, for all former offences committed by him as a soldier in the service of the so called Confederate States of America</p>
 <p><unclear>Wall p j</unclear></p>
-<p><note place="left margin">Major Browns Release.</note>
+<p><note place ="left margin">Major Browns Release</note>
 <lb/>HeadQuarters U S Forces
-<lb/><date when="1863-01-25">Jany 25, 1863</date>, Ramsey Ky</p>
+<lb/><date when="1863-01-20">Jany 20, 1863</date>. Ramsey Ky</p>
 <p>This is to certify that Thomas B Lawton, has this day appeared before me, and taken the Oath of Allegiance to the United States, and has given bond for faithful obedience of same and is hereby released,</p>
 <p>By order of
 <lb/>Maj T G Brown
 <lb/>Commanding at Ramsey Ky<pb/></p>
 <p><note place="header">9</note>
-<lb/><note place="left margin">Order <date when="1864-03-22">March 22d 1864</date></note>
-<lb/>This Cause Came on for trial and the defendant waived a formal arraignment and plead not guilty Whereupon came the following Jury towit L B Thomas, Ben Franklin, W, H, Townsend, Giles Green, James Hines, Jno E Robertson, J G M<hi rend="sup">c</hi>Quinn H B Nale, J F Thomas, Jacob Snider A B Vaughn, and J F Stinnett who being duly sworn to well and truly try the issue in the above cause according to the law and testimony, The testimony having been heard. and the argument of Counsel began the Court adjourned until tomorrow morning and the Jury were allowed to disperse, and the prisoner remanded to the Custody of the Sheriff to be returned at 9-Oclock tomorrow morning.</p>
-<p><note place="left margin">Order <date when="1864-03-25">March 25<hi rend="sup">th </hi>1864</date></note>
-<lb/>This day came as well the atty for the Comwth and Deft in proper person and the Jury herein empanneled on the Eighth day: towit L B Thomas Ben Franklin W. H. Townsend, Giles Green James Hines John E Robertson J. F. M<hi rend="sup">c</hi>Quinn H. B. Nall J F Thomas Jacob Snider<pb/>
+<lb/><note place="left margin">Order <date when="1864-03-22">March 22<hi rend="sup">nd</hi> 1864</date></note>
+<lb/>This Cause Came on for trial and the defendant waived a formal arraignment and plead not guilty Whereupon Came the following Jury towit L B Thomas, Ben Franklin, W, H, Townsend, Giles Green, James Hines, Jno E Robertson, J F M<hi rend="sup">c</hi>Quinn H B Nall, J F Thomas, Jacob Snider A B Vaughn, and J F Stinnett who being duly sworn to well and truly try the issue in the above cause according to the law and testimony, The testimony having been heard, and the argument of Counsel began the Court adjourned until tomorrow Morning and the Jury were allowed to disperse, and the prisoner remanded to the Custody of the Sheriff to be returned at 9 -- Oclock tomorrow Morning,</p>
+<p><note place="left margin"><hi rend="str">186</hi>Order <date when="1864-03-25">March 25<hi rend="sup">th </hi>1864</date></note>
+<lb/>This day came as well the atty for the Comwth and Deft in proper person and the Jury herein empanneled on the Eighth day; towit L B Thomas Ben Franklin W, H, Townsend, Giles Green James Hines John E Robertson J, F M<hi rend="sup">c</hi>Quinn H, B. Nall J F Thomas Jacob Snider<pb/>
 <lb/><note place="header">10</note>
-<lb/>A B Vaughan and J F Stronett and returned a verdict at half past nine oclock at night the Court being about to adjourn within two days, as follows viz. "We the Jury find Thomas Lawton the defendant guilty as charged in the within indictment and fix his punishment at three years imprisonment in the penetentiary of this State; John E Robertson foreman" and after the verdict the Jury presented a petition to his excellency the Govenor of this Commonwealth which is ordered to be entered of record and reads as follows,</p>
-<p><note place="left margin">'Petition to Govenor for Pardon"</note>
-<lb/>"We the undersigned are the Jury that has just now returned a verdict against Thomas Lawton under an indictment against him in the M<hi rend="sup">c</hi>Lean Circuit Court now we respectfully but most <hi rend="underline">Earnestly</hi>. importune his Excellency to pardon the deft. we will say we would not have found this verdict except from the strictest conscientious convictions. We hope the peculiar circumstances<pb/>
+<lb/>A B Vaughan and J F Stinnett and returned a verdict at half past nine o clock at night the Court being about to adjourn within two days, as follows Viz. "We the Jury find Thomas Lawton the defendant guilty as charged in the within indictment and fix his punishment at three years imprisonment in the penetentiary of this State; John E Robertson foreman" and after the verdict the Jury presented a petition to his excellency the Governor of this Commonwealth which is ordered to be entered of record and reads as follows,</p>
+<p><note place="left margin">'Petition to Governr, for Pardon"</note>
+<lb/>"We the undersigned are the Jury that has just now returned a verdict against Thomas Lawton under an indictment against him in the M<hi rend="sup">c</hi>Lean Circuit Court now we respectfully but most <hi rend="underline">Earnestly</hi> importune his Excellency to pardon the deft. we will say we would not have found this verdict except from the strictest conscientious convictions. We hope the peculiar circumstances<pb/>
 <lb/><note place="header">11</note>
 <lb/>of his case will be made known to your excellency by others</p>
 <p>John E Robertson
@@ -132,22 +135,22 @@
 <lb/>Benjamin H. Franklin
 <lb/>A. B. Vaughan
 <lb/>L B Thomas
-<lb/>J. F M<hi rend="sup">c</hi>Quinn
+<lb/>J, F M<hi rend="sup">c</hi>Quinn
 <lb/>John F. Thomas
 <lb/>James Hines
-<lb/>James P Stinnett
-<lb/>H. B. Nall
-<lb/>J G Green
+<lb/>James F Stinnett
+<lb/>H, B Nall
+<lb/>J. G Green
 <lb/>W. H. Townsend</p>
-<p><note place="left margin">order <date when="1864-03-26">march 26th 1864</date></note>
-<lb/>The defendant came by his and filed grounds for a new trial and the Court fixed the hour of two oclock this Evening for the hearing</p>
+<p><note place="left margin">order <date when="1864-03-26">March 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></note>
+<lb/>The defendant came by his and filed grounds for a new trial and the Court fixed the hour of two o clock this Evening for the hearing</p>
 <p>The defendant being set to the bar and on due consideration had of the motion herein for a new trial. It is adjudged that the same be overruled to which the defendant excepts and the court<pb/>
 <lb/><note place="header">12</note>
-<lb/>being about to adjourn for the term,, within two days within two days, and six hours having since the verdict herein was returned the court proceeded to recite to the defendant the finding of the indictment herein, and the several steps taken therein the empannelling of the Jury and the Verdict and inquired of the defendant whether he had any thing further to urge or say why Judgment <hi rend="str"><unclear/></hi>of the court should not be rendered, and the defendant having no other or further thing to say, It is adjudged that the said defendant be now removed to the Jail of this County and there safely Kept until he shall be demanded by the Sheriff of this County who shall convey him to the Jail and Penetentiary house of this Commonwealth where he shall be confined at hard labor for the term and time of three years from this date, and to his Judgment the deft excepts, and<pb/>
+<lb/>being about to adjourn for the term,, within two days within two days, and six hours having since the verdict herein was returned the court proceeded to recite to the defendant the finding of the indictment herein, and the several steps taken therein the empannelling of the Jury and the Verdict and inquired of the defendant whether he had any thing further to urge or say why Judgment <hi rend="str"><unclear/></hi>of the court should not be rendered, and the defendant having no other or further thing to say, It is adjudged that the said defendant be now removed to the Jail of this County and there safely Kept until he shall be demanded by the Sheriff of this County who shall convey him to the Jail and Penetentiary house of this Commonwealth where he shall be confined at hard labor for the term and time of three years from this da<hi rend="str">y</hi>te, and to his Judgment the deft excepts, and<pb/>
 <lb/><note place="header">13</note>
 <lb/>thereupon the Deft prayed an appeal to the Court of appeals and twenty days from this day are given within which to lay a transcript of the record herein before a Judge of the Court of Appeals to obtain his appeal</p>
-<p><note place="left margin">order Concerning Instructions</note>
-<lb/>After the hearing of the evidence in this prosecution the Deft moved the Court to instruct the Jury as in papers marked A, B, C, D, E, &amp; F, and marked refused, and the Court refused the said instructions to which the defendant excepts, and also instructed the Jury as Contained in the papers marked 1, 2, 3, 4, &amp; 5, to which the defendant excepts.</p>
+<p><note place ="left margin">order Concerning Instructions</note>
+<lb/>After the hearing of the evidence in this prosecution the Deft moved the Court to instruct the Jury as in papers marked A, B, C, D, E, &amp; F, and marked refused, and the Court refused the said instructions to which the defendant excepts, and also instructed the Jury as contained in the papers marked 1, 2, 3, 4 &amp; 5, to which the defendant excepts.</p>
 <p><note place="left margin">Refused instructions (A)</note>
 <lb/>Refused</p>
 <p>The Court instructs the Jury that if they believe from the evidence that deft was compelled, by an armed force to take from the possession of G R Stringer the horse charged in the indictment and that said deft acting under<pb/>
@@ -155,9 +158,9 @@
 <lb/>fear of danger of his life or great or great bodily harm and against his own consent, took said horse without the felonious intent to commit the crime of robbery they ought to find him not guilty</p>
 <p><note place="left margin">Refused Instructions (B)</note>
 <lb/>Refused</p>
-<p>The Court instructs the Jury that unless they believe from the evidence that the defendant took the horse with the intent to steal him and took him by putting the alleged owner Stringer in fear they <hi rend="str">might</hi>ought to find the deft not guilty</p>
+<p>The Court instructs the Jury that unless they believe from the evidence that the defendant took the horse with the intent to steal him and took him by putting the alleged <hi rend="str">St</hi>owner Stringer in fear they <hi rend="str">might</hi>ought to find the defet not guilty</p>
 <p>Refused</p>
-<p>That the said horse must have been taken by actual force and violence from the alleged owner Stringer or he must have had reasonable grounds to believe that his person or property was in immediate danger of injury: which belief must have been superinduced by the conduct or threats of the defendant else there was no robbery and they ought to find the deft not guilty<pb/></p>
+<p>That the said horse must have been taken by actual force and violence from the alleged owner stringer, or he must have had reasonable grounds, to believe that his person or property was in immediate danger of injury: which belief must have been superinduced by the conduct or threats of the defendant else there was no robbery and they ought to find the deft not guilty<pb/></p>
 <p><note place="header">15</note>
 <lb/><note place="left margin">Refused Instructions (C)</note>
 <lb/>Refused</p>
@@ -168,13 +171,13 @@
 <p><note place="left margin">(E)</note>
 <lb/>Refused</p>
 <p><hi rend="str">That</hi> the Court further instructs the jury that although they may believe from the evidence that the taking was unlawful and against the will and consent of said Stringer, yet, unless they further believe from the evidence that the said taking was felonious &amp; forcible ^or by^ and the putting the said Stringer in fear they ought to find the defendant not Guilty</p>
-<p><note place="left margin">F.</note>
-<lb/>Refused
-<lb/>The Court further instructs the Jury that although they<pb/>
+<p><note place="left margin">F,</note>
+<lb/>Refused</p>
+<p>The Court further instructs the Jury that although they<pb/>
 <lb/><note place="header">16</note>
 <lb/>may believe ^from^ the evidence that the taking was wrongful and might subject the deft to a civil liability to the owner, yet unless they shall further believe from the evidence that the said deft took the said horse from an evil mind, and intended to commit crime that he is not amenable to the criminal law</p>
 <p>It is of the essence of crime that there must have been an evil heart</p>
-<p><note place="left margin">Given Instructions No 1.</note>
+<p><note place="left margin">Given Instructions No 1,</note>
 <lb/>Given</p>
 <p>The Court instructs the jury that if they have a reasonable doubt of the defendant being proven to be guilty of the offence he is entitled to acquittal</p>
 <p><note place="left margin">No 2</note>
@@ -182,7 +185,7 @@
 <p>The court further instructs the Jury that unless they believe from the evidence that the Deft took said horse from the possession or presence of the alledged owner Stringer feloniously &amp; with the intent to rob they might find the deft not guilty</p>
 <p><note place="left margin">No 3</note>
 <lb/><hi rend="str">Refused</hi>Given</p>
-<p>The Court restricts the Jury that if they believe from the evidence that the deft took from the possession<pb/>
+<p>The Court instructs the Jury that if they believe from the evidence that the deft took from the possession<pb/>
 <lb/><note place="header">17</note>
 <lb/>and Control of Stringer the horse mentioned in the indictment against the will of said Stringer and by putting him in fear. and took the said horse away with a felonious intent that they ought to find the Deft guilty and for his punishment at confinement in the penetentiary a period not under three years and not over ten years</p>
 <p><note place="left margin">No 4</note>
@@ -194,11 +197,11 @@
 <p><note place="left margin">Motion for New Trial</note>
 <lb/>The deft states as a ground for a new trial that the verdict of the Jury is against the instructions<pb/>
 <lb/><note place="header">18</note>
-<lb/>of the Court, and against the Law and Evidence adduced in the Cause and that the defenant has discovered testimony since the trial which testimony if it ^had^ come before the Jury they would not have agreed to a verdict of guilty wherefore he prays your honor that he may have a new trial and thereby be enabled to bring all of the facts before the court and Jury that Justice may be done to the Commonwealth and this defendant he makes this application that <hi rend="str">th</hi>He may have sheer Justice and for no other purpose</p>
+<lb/>of the Court, and against the Law and Evidence adduced in the Cause and that the defendent has discovered, testimony since the trial which testimony if it ^had^ come before the Jury they would not have agreed to a verdict of guilty wherefore he prays your honor that he may have a new trial and thereby be enabled to bring all of the facts before the Court and Jury that Justice may be done to the Commonwealth and this defendant he makes this application that <hi rend="str">the</hi>he may have sheer Justice and for no other purpose</p>
 <p><note place="left margin">Grounds for new Trial</note>
-<lb/>The defendant moves the Court for a new trial in this cause and for cause</p>
+<lb/>The defendant moves the Court for a new trial in this Cause and for cause</p>
 <p>Says that the verdict was not rendered by a fair expression of opinion by the Jurors</p>
-<p>2 that the defendant has Discovered, important evidence in his favor since the rendition of the verdict.</p>
+<p>2 that the defendant has Discovered, important evidence in his favor since the rendition of the verdict,</p>
 <p>3 that the Jury recieved evidence out of Court,</p>
 <p>4 misconduct of the Jurors to<pb/>
 <lb/><note place="header">19</note>
@@ -206,23 +209,21 @@
 <p>1st as to instructions of Court
 <lb/>2 " " to the evidence failing to prove intent
 <lb/>3 " " to influence brought about by public opinion
-<lb/>4 " " to the <unclear/> of Counsel
+<lb/>4 " " to the argument of Counsel
 <lb/>5 " " to the newly discovered testimony the discretionary power of the Court as the importance of the grounds.</p>
-<p>Note -- </p>
-<p>Deft. offered to Read as Evidence on the motion for new trial the following affidavit &amp; statement <hi rend="str">of</hi> <unclear><hi rend="str">one</hi></unclear> <hi rend="str">of the Jurors -- to wit</hi></p>
-<p>John G Barnes States that he was present when Andrew Rhay was sworn into the Confederate service as a soldier and knows that he was regularly Enlisted and sworn as such prior to the <hi rend="str"><unclear/></hi>findings of this Indictment at least as early as <date when="1861-10">October 1861</date>.</p>
-<p>John G Barnes</p>
-<p>sworn to before me by John G Barnes <date when="1864-03-26">March 26' 1864</date>
-<lb/>D Little P, J, M, C, C,<pb/></p>
-<p>I Lewis L Moore clerk of the M<hi rend="sup">c</hi>Lean Circuit Court, do certify that the foregoing 19 pages contain a<hi rend="str">ll</hi> complete transcript of the case of the Commonwealth of Ky v Tho<hi rend="sup">s</hi> B Lawton Indicted for Robbery</p>
-<p>Given under my hand the <date when="1864-03-28">28<hi rend="sup">th</hi> day of March 1864</date></p>
-<p>Lewis L Moore C, M, C, C<pb/></p>
-<p>M<hi rend="sup">c</hi>Lean Cir Ct.
+<p>note -- </p>
+<p>Deft. Offered to Read as Evidence on the motion for new trial the following affidavit &amp; statement <hi rend="str">of</hi> <hi rend="str">one</hi> <hi rend="str">of the Jurors-to wit</hi></p>
+<p>John G Barnes States that he was present when Andrew Rhay was sworn into the Confederate service as a soldier and knows that he was regularly Enlisted and sworn as such prior to the <hi rend="str"><unclear/></hi>findings of this Indictment at least as early as <date when="1861-10">October 1861</date>. John G Barnes</p>
+<p>sworn to before me by John G Barnes <date when="1864-03-26">March 26' 1864</date></p>
+<p>D Little P, J, M, C, C<pb/></p>
+<p>I Louis L Moore clerk of the M<hi rend="sup">c</hi>Lean Circuit Court, do certify that the foregoing 19 pages contain a<hi rend="str">ll</hi> complete transcript of the Case of the Commonwealth of Ky v Tho<hi rend="sup">s</hi> B Lawton Indicted for Robbery</p>
+<p>Given under my hand the <date when="1864-03-29">2<hi rend="str">8</hi>9<hi rend="sup">th</hi> day of March 1864</date></p>
+<p>Louis L Moore <hi rend="str">c</hi>C, M, C, C<pb/></p>
+<p>MLean Cir Ct
 <lb/>vs
 <lb/>Tho<hi rend="sup">s</hi> B. Lawton
-<lb/>Felony
-<lb/><hi rend="underline">Pardon</hi> granted
-<lb/><date when="1864-04-02">April 2<hi rend="sup">d</hi> 1864</date></p>
+<lb/>Felony</p>
+<p><hi rend="underline">Pardon</hi> granted <date when="1864-04-02">April 2<hi rend="sup">d</hi> <hi rend="underline">1864</hi></date></p>
 <p>Tho E Bramlette
 <lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of <hi rend="underline">Ky</hi></p>
   </body>

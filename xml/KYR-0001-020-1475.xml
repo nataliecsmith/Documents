@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1475"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,54 +64,54 @@
  <text>
   <body>
    <p>Scott County Ky -- <date when="1861-10-09">Oct 9<hi rend="sup">th</hi> 1861</date>
-<lb/>To his Excellency Beriah Magoffin -- </p>
-<p>The undersigned citizens of Scott County -- recommend to your clemency Sanford Chowning -- who at the November term of the Scott Circuit court was found guilty of keeping a tipling house and fined Sixty Dollars -- </p>
-<p><hi rend="str">The circumstances of the <unclear/> case was not agravtating -- and grew out of an ignorance of the hability of Chowning</hi> -- ^Chowning^ <hi rend="str">who</hi> is a poor man -- and will be greatly distressed at this time by the enforcing of the judgement -- </p>
+<lb/>To his Excellency Beriah Magoffin-</p>
+<p>The undersigned citizens of Scott county- recommend to your clemency Sanferd Chowning -- who at the November term of the Scott Circuit court was found guilty of keeping a tipling house and fined Sixty Dollars -- </p>
+<p><hi rend="str">The circumstances of the f<unclear/> case was not agravtating -- and grew out of an ignorance of the hability of Chowning</hi> -- ^Chowning^ <hi rend="str">who</hi> is a poor man -- and will be greatly distressed at this time by the enforcing of the Judgement -- </p>
 <p>James Y Kelly
 <lb/>Bat T Thompson
 <lb/>S R Thomson
-<lb/>Ed Lucas 
+<lb/>Ed Lucas
 <lb/>Sam W Thompson
 <lb/>G W Offutt
 <lb/>Geo E Prewitt
-<lb/>^Direct anwer to^ T. I. Burns
+<lb/>^Direct answer to^ T. I. Burns
 <lb/>D W Gatwood
 <lb/>J C Applegate
 <lb/>C D Smith
-<lb/><hi rend="str">T</hi>I. T Pratt
+<lb/>J. T Pratt
 <lb/>A Hawkins<pb/>
 <lb/>W R Webb
 <lb/>M Polk
-<lb/>W F Polk
-<lb/>Sam W Tony
+<lb/>W F Pullen
+<lb/>Sam W Long
 <lb/>Sam Godey
 <lb/>William Jackson
 <lb/>A M Hall
-<lb/>S W A Rawlins
+<lb/>S W H Rawlins
 <lb/>Y H Godey
-<lb/>Jas. N. Long
+<lb/>Jno. N. Long
 <lb/>T Pullen
 <lb/>L Covington
-<lb/>W. S. FitsGerald
-<lb/>W Samuels
-<lb/>A. P. Hils
+<lb/>W, S, Fitsgerald
+<lb/>W, Samuell
+<lb/>A P Hils
 <lb/>John N wash
-<lb/>A G morison
+<lb/>A G, morison
 <lb/>J D Whitton
 <lb/>M Powel
-<lb/>J, H, Whitton
+<lb/>T, H, Whitton
 <lb/>E. D. Conley
 <lb/>Reuben Bridding
 <lb/>Jas. S. Whitton
-<lb/>M. L. Whitton
+<lb/>M L. Whitton
 <lb/>R H Whitton
-<lb/>John <unclear/>
+<lb/>J <unclear/>
 <lb/>J A Nall
-<lb/>M. B. Southwith
+<lb/>W. B. Southworth
 <lb/>Austin Alsop
 <lb/><hi rend="str">G</hi> George Sullavan<pb/>
 <lb/>James Taylor
-<lb/>Jos. Bawlins
+<lb/>Jos, B <unclear/>
 <lb/>Flem glass
 <lb/>Nelson Jones
 <lb/>Noel G. W. Noe

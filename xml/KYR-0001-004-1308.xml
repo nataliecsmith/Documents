@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1308"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,15 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency
+   <p>To his Excelency
 <lb/>Gov. Bramlette</p>
-<p><stamp type="revenue"/><note place="stamp">R S P
+<p><stamp type="revenue"/><note place="stamp">R S K
 <lb/><date when="1864-11-29">29 Nov 1864</date></note></p>
-<p>Your Pettioner would represent that at the fall term of the Equity &amp; Criminal Court in Warren County in <date when="1859">1859</date> he was fined Sixty dollars. for Selling Spirits contrary to law. the inditement was founded on a witness predjutice against me I had not been in the practice of violating the law and am not now, never keep and tiple Spiritious liquors -- nor never Intend to am a Loyal citizen and law abiding man though <hi rend="underline">poor</hi> -- I have never paid the fine from the fact I have not been able to do So and Suport my family I pray your Excelency to remit the fine -- and will ever pray -- </p>
+<p>Your Pettioner would represent that at the fall term of the Equity &amp; Criminal court in warren County in <date when="1859">1859</date> he was fined Sixty dollars for Selling Spirits contrary to law. the inditement was founded on a witness predjutice against me I had not been in the practice of violating the law and am not now, never keep and tiple Spiritious liquors-nor never Intend to am a Loyal citizen and law abiding man though <hi rend="underline">poor</hi>-I have never paid the fine from the fact I have not been able to do So and Suport my family I pray your Excelency to remit the fine-and will ever pray-</p>
 <p>John Larrance</p>
-<p>Sworn to befor the undersigned Justice of the peace for Warren county by John Larrance this <date when="1864-11-29">29<hi rend="sup">th</hi> Novr 1864</date></p>
-<p>R. S. Pinvales J. P. W. C.<pb/></p>
-<p>We the undersigned neighbors and acquaintances of John Larrance represent to your Excelency that we know the petitioner and represent him to be a good citizen a Loyal man peaceable and Industrious with a large family and would respectfully represent him as worthy of Executive Clemency Respt -- yours -- </p>
+<p>Sworn to befor the undersigned Justice of the peace for warren county by John Larrane this <date when="1864-11-29">29<hi rend="sup">th</hi> Novr 1864</date></p>
+<p>R. S. Knowles J. P. W. C.<pb/></p>
+<p>We the undersigned neighbors and acquaintances of John Larrane represent to your Excelency that we know the petitioner and represent him to be a good citizen a Loyal man peaceable and Industrious with a large family and would respectfully represent him as worthy of Executive Clemency Respt -- Yours -- </p>
 <p>G W Pedigo
 <lb/>Preston Doughty
 <lb/>James Doughty
@@ -85,7 +88,7 @@
 <p>Warren Equity &amp; Crim Ct
 <lb/>vs
 <lb/>John Larrance
-<lb/>$60.
+<lb/>&#36;60.
 <lb/>Tipling
 <lb/>Remitted
 <lb/><date when="1865-01-07">7<hi rend="sup">th</hi> Jany/65</date></p>

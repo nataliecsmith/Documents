@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0095"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,12 +62,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>M<hi rend="sup">r</hi> Wm R. Thompson
+   <p>M<hi rend="underline"><hi rend="sup">r</hi></hi> W<hi rend="underline"><hi rend="sup">m</hi></hi> R. Thompson
 <lb/>Dr. Sir</p>
-<p>Yours I Just rec<hi rend="underline"><hi rend="sup">d</hi></hi> and will send you a few lines that I think will answer your purpose the Breach of the Peace was commited on the <date when="1863-08-03">3<hi rend="underline"><hi rend="sup">rd</hi></hi> Aug 1863</date>. Executed on the Parties the 10<hi rend="str">1</hi><hi rend="sup">st</hi> and tried at Lewis Leaches on the <date when="--08-11">11<hi rend="sup">th</hi> day of Aug</date> (R A. Wise</p>
+<p>yours I Just rec<hi rend="underline"><hi rend="sup">d</hi></hi> and will send you a few lines that I think will answer your purpose the Breach of the Peace was Commited on the <date when="1863-08-03">3<hi rend="underline"><hi rend="sup">rd</hi></hi> Aug 1863</date>- Executed on the parties the 1<unclear/><hi rend="underline"><hi rend="sup">st</hi></hi> and tried at Lewis Leaches on the <date when="--08-11">11<hi rend="sup">th</hi> day of Aug</date> (R A. Wise</p>
 <p>We of the Jury Find Hillry Jackson for the Commonwealth. Fifteen Dollars and Cost<hi rend="underline"><hi rend="sup">s</hi></hi></p>
-<p>We of the Jury Find also George Jackson for the Commonwealth Fifteen Dollars and cost<hi rend="sup">s</hi></p>
-<p>(Sined) B. H. Crist forman</p>
+<p>We of the Jury Find also George Jackson for the Commonwealth Fifteen Dollars and cost<hi rend="underline"><hi rend="sup">s</hi></hi></p>
+<p>(Sined) B, H. Crist forman</p>
 <p>I presume this is all you want to see</p>
 <p>I Remain yours Respectfully
 <lb/>R. A. Wise</p>

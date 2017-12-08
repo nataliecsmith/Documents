@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0055"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Manfordville, Hart County, Kentucky</placeName>
+    <placeName>Munfordville, Hart County, Kentucky</placeName>
     <date when="1861-05-25">25 May 1861</date>
    </creation>
    <textClass>
@@ -63,14 +66,14 @@
    <p>Munfordville Saturday
 <lb/><date when="1861-05-25">May 25<hi rend="sup">th</hi> 1861</date>
 <lb/>To/
-<lb/>His Excellency B. Maggoffin
+<lb/>His excellency B. Maggoffin
 <lb/>Governor of Kentucky of Ky
 <lb/>My friend,</p>
-<p>I see from the papers of yesterday that the Military Bill has passed, that your excellency other gentlemen &amp; myself compose the board. Supposing that it is desirable to have a meeting of the board at the earliest day practicable, I write to say that I will go to Frankfort any day you may suggest as suitable for the board to hold its first meeting. I have not been informed, but do not permit myself to doubt, about the Banks furnishing us with the money. Advise me immediately when <hi rend="str">to</hi> <hi rend="str">that</hi> ^I shall^ be at Frankfort.</p>
+<p>I see from the papers of yesterday that the Military Bill has passed, that your excellency other gentlemen &amp; myself compose the board. Supposing that it is desirable to have a meeting of the board at the earliest day practicable, I write to say that I will go to Frankfort any day you may suggest as suitable for the board to hold its first meeting. I have not been informed, but do not permit myself to doubt, about the Banks furnishing us with the money. Advise me immediately when <hi rend="str">to that</hi> ^I shall^ visit Frankfort.</p>
 <p>I am Respectfully
 <lb/><hi rend="underline">G. T. Wood</hi><pb/></p>
 <p>Sec will answer Co<hi rend="sup">l </hi>Wood -- B. M
-<lb/>:Ans<hi rend="sup">d</hi></p>
+<lb/>Ans<hi rend="sup">d</hi></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0085"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,12 +62,13 @@
  </teiHeader>
  <text>
   <body>
-   <p><unclear/> <date when="1860-12-15">Dec 15th 1860</date>
-<lb/>G. W. Johnson Esqr.
+   <p><unclear>Arkan</unclear> <date when="1860-12-15">Decr 15th 1860</date>
+<lb/>G. W. Johnson Esq<hi rend="underline"><hi rend="sup">r</hi></hi>
 <lb/>Dear Sir</p>
-<p>I wrote you some weeks since reguesting you to remit me some money to pay for you <unclear>deadening</unclear>. As I have received no response I take it for granted you did not receive it. I have sent to Judge Breckenridge of St. Louis a check on you for $100 which you will please pay as I have already at great inconvenience <unclear>adressed</unclear> for you. I have had <unclear>deadened</unclear> of your land about 280 acres &amp; stopped. So soon as I <unclear/> the land I will draw on your for the ballance. If you will remit me the Amt of your taxes I will take pleasur in paying them for you. Your friend truly</p>
-<p>Lewis Castleman<pb/></p>
-<p>Lewis Castleman
+<p>I wrote you some weeks since requesting you to remit me some mony to pay for your deadening. As I have received no response I take it for granted you did not receive it. I have send to Judge Breckenridge of S<hi rend="sup">t</hi> Louis a check on you for &#36;100 which you will please pay as I have already at great inconvenience advanced for you I have had deadened of your land about 280 acres &amp; stopped. So soon as I <unclear/> the land I will draw on your for the ballance. If you will remit me the Amt of your taxes I will take pleasur in payng them for you.</p>
+<p>Your friend truly
+<lb/><hi rend="underline">Lewis Castleman</hi><pb/></p>
+<p>Lewis C<hi rend="str"><unclear/></hi>astleman
 <lb/><date when="1860-12-15">Dec<hi rend="underline"><hi rend="sup">r </hi></hi>15 1860</date></p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0118"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,28 +63,27 @@
  </teiHeader>
  <text>
   <body>
-   <p>Mt Sterling Ky <date when="1864-09-14">14" Sep' 1864</date>
+   <p>M<hi rend="sup">t</hi> Sterling Ky. <date when="1864-09-14">14" Sep' 1864</date>
 <lb/>To
 <lb/>His Excellency
-<lb/>Tho<hi rend="sup">s</hi>. E. Bramlette,
+<lb/>Tho<hi rend="sup">s</hi>, E. Bramlette,
 <lb/>Frankfort. Ky
 <lb/>Sir</p>
-<p>I beg to inform your Excellency that I believe I can raise a Company of men for Train and Railroad protection: or, any other duty subject to your Excellency's order -- but unattached to any Regiment -- if you will commission me to do so,</p>
-<p>I beg most respectfully to refer your Excellency to the following Citizens of Lebanon Ky.</p>
-<p>Messrs. L. A. Spaulding, Dick Ben Spaulding, Len Edlin, and William Brickin.</p>
+<p>I beg to inform your Excellency that I believe I can raize a Company of Men for Train and Railroad protection: or, any other duty subject to your Excellency's order-- but-- unattached to any Regment-- if you will Commission me to do so,</p>
+<p>I beg most respectfully to refer your Excellency to the following citizens of Lebanon Ky.</p>
+<p>Messrs. L, A. Spaulding, Wick Ben -- Spaulding, Len Edlin, and William Brickin,</p>
 <p>Most respectfully
 <lb/>Your Excellency's
 <lb/>Humble Servant
 <lb/>Paul. J. Rattigan<pb/></p>
-<p>Mt Sterling - Montgomery
-<lb/>Ky State Guard
+<p>Ky State Guard
 <lb/>Mt. Sterling Ky
 <lb/><date when="1864-09-14">Septr 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
-<lb/>Rattigan Paul J.<figure type="hr"/>
+<lb/>Rattigan Paul. J.<figure type="hr"/>
 <lb/>To the Gov. and referred</p>
-<p>Asking authority to raise a Company for train or R. R. duty or any other - subject to the Governors order; but does not want to be attached to a Regt. Refers to divers gentlemen of Lebanon Ky.<figure type="hr"/></p>
-<p>ansd pag 83 Ltr Bk B<figure type="hr"/>
-<lb/>R. I G O. <date when="1864-09-16">Septr 16- 1864</date></p>
+<p>Asking authority to raise a Company for train or R. R. duty or any other. subject to the Govrnors order; but does not want to be attached to a Regt. Refers to divers gentlemen of Lebanon Ky.<figure type="hr"/></p>
+<p>ansd pag 83 Ltr BK B<figure type="hr"/></p>
+<p>R. I G O. <date when="1864-09-16">Septr 16-- 1864</date></p>
   </body>
  </text>
 </TEI>

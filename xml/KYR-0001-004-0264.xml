@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0264"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,32 +64,32 @@
  <text>
   <body>
    <p>Commonwealth of Kentucky
-<lb/>versus } Indict felony Jefferson Circuit Court.
+<lb/>versus &#125; Indict felony Jefferson Circuit Court
 <lb/>Jas C Bradley</p>
-<p>We the undersigned hereby certify that the only pleadings had in the above styled case is as the indictment &amp; plea of Guilty &amp; that there was no evidence offered upon the trial <date when="1863-01-30">Jany 30. 1863</date>.</p>
+<p>We the undersigned hereby Certify that the only pleadings had in the above styled case is was the indictment &amp; plea of Guilty, &amp; that there was no evidence offered upon the trial <date when="1863-01-30">Jany 30. 1863</date>.</p>
 <p>Att
-<lb/>Jas P Chambers J c C
+<lb/>Jas P Chambers c J c c
 <lb/>J R Dupuy
-<lb/>Com'att</p>
+<lb/>Com'atty</p>
 <p>State of Kentucky, Sct:</p>
 <p>L. A. Wood states that he is a member of the Louisville Bar and was present in the Criminal Court in Lousville last fall when Mr. Bradley was tried &amp; convicted in that Court upon a charge of stealing a pistol, and sentenced to one year's imprisonment in the Penitentiary.</p>
 <p>When the case was called for trial Bradley seemed to be without counsel altogether -- or rather there seemed to be some difficulty or misunderstanding between him and Mr. Price, who had been<pb/>
 <lb/>his lawyer in the examining Court -- This difficulty between them sprung up just before the case was called, and although I did not hear the words that passed between them, Price got up and left him alone, and went away form him. The case was then called in a few minutes and Price at first declined to act as his counsel.</p>
-<p>Bradley then rose up in Court and told the Judge that he wanted Judge Bullock as his lawyer. Bullock not being in court at the time was called by the Sheriff; and while the court was waiting for Judge Bullock to come, Bradley applied for a continuance, and stated that he was innocent of the charge. That he wanted to send to Chicago for certain witnesses whose names he mentioned, and who knew him and would prove that he was a man of good character. Judge Bullock failed to answer or to appear in Court. The Court then ruled him to <hi rend="underline">immediate trial</hi> he having no lawyer at all to defend him. This all occurred within the space of 5 minutes or 10 minutes at most.</p>
+<p>Bradley then rose up in Court and told the Judge that he wanted Judge Bullock as his lawyer-- Bullock not being in court at the time was called by the Sheriff; and while the Court was waiting for Judge Bullock to Come, Bradley applied for a continuance, and stated that he was innocent of the charge -- That he wanted to send to Chicago for certain witnesses whose names he mentioned, and who knew him and would prove that he was a man of good character. Judge Bullock failed to answer or to appear in Court. The Court then ruled him to <hi rend="underline">immediate trial</hi> he having no lawyer at all to defend him. This all occurred within the space of 5 minutes. or 10 minutes at most.</p>
 <p>Bradley, still being without counsel, put in the plea of not guilty himself.</p>
-<p>The court then ordered the Jury to be sworn without appointing, or assigning any counsel for Bradley.</p>
+<p>The Court then ordered the Jury to be sworn without appointing, or assigning any counsel for Bradley.</p>
 <p>After the Jury was sworn, and when the Commonwealth's attorney was about to commence examining<pb/>
-<lb/>the first wintess for the prosecution, I am not certain, but my best impression and belief is, That Bradley, seeing his helpless condition, appealed to Price to assist him in his trial. Price then came to Bradley- and after Price &amp; Bradley had a short consultation together, and before any testimony was given to the Jury, Price, his lawyer, got up and put in the pleas of guilty in the name of Bradley- and the Jury returned a verdict for one years confinement in the Penitentiary.</p>
+<lb/>the first wintess for the prosecution, I am not certain, but my best impression and belief is, that Bradley, seeing his helpless condition, appealed to Price to assist him in his trial. Price then came to Bradley -- and after Price &amp; Bradley had a short consultation together, and before any testimony was given to the Jury, Price, his lawyer, got up and put in the pleas of guilty in the name of Bradley -- and the Jury returned a verdict for one year's confinement in the Penitentiary.</p>
 <p>L. A. Wood.</p>
-<p>Subscribed &amp; sworn to before me by L A Wood this <date when="1863-01-30">30 Jany 1863</date>.</p>
-<p>Att Jas P. Chambers c of c</p>
-<p>I have known L. A. Wood Esq<hi rend="sup">r</hi> who has made to foregoing affidavit for more than ten years -- and have known his father and familty relations for over 20 years. L A Wood is of good character and entitled to full credit on oath. His father and family are highly respectable, and good citizens. <date when="1863-01-31">Jan. 31 1863</date>.</p>
-<p>A. J. James.<pb/></p>
-<p>Jon. C. Bradley
+<p>Subscribed &amp; sworn to before me by L A Wood this <date when="1863-01-30">30 Jany 1863</date>,</p>
+<p>Att Jas P. Chambers c J c c</p>
+<p>I have known L. A. Wood Esq<hi rend="underline"><hi rend="sup">r</hi></hi> who has made to foregoing affidavit for more than ten years -- and have known his father and familty relations for over 20 years. L A Wood is of good character and entitled to full credit on oath -- His father and family are highly respectable, and good citizens. <date when="1863-01-31">Jan. 31 1863</date>.</p>
+<p><hi rend="underline">A. J. James</hi>.<pb/></p>
+<p>Jas. C. Bradley
 <lb/>Petn for Pardon
-<lb/><date when="1863-11-03">3<hi rend="sup">d</hi> Nov/ 63</date></p>
-<p>To be pardoned the day before his term expires
-<lb/>T E Bramlette</p>
+<lb/><date when="1863-11-03">3<hi rend="sup">d</hi> Nov/63</date></p>
+<p>To be pardoned the day before his term expires</p>
+<p>T E Bramlette</p>
   </body>
  </text>
 </TEI>

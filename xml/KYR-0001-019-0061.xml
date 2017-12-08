@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0061"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,8 +65,8 @@
   <body>
    <p>Somerset <date when="1861-05-30">30<hi rend="sup">th </hi>May 1861</date>
 <lb/>My Dear Sir</p>
-<p>will you See the Goviner Mcgoffin &amp; Committee for arming the State &amp; See if I can git a contract to furnish a Quantity of Saltpeter a Quantity of Powder I have plans of find Locating for a Powder Mill Plenty of Water Power and Plenty of Caves to work 300 hands and could in Short Time be Mooving the business a hed Someone must have this contract &amp; there is no one that I Know have the Same facility I have -- a Trusty Experianced Man in the Mill is all I Should be Lacking to go right on with the Business I am writing to old friend Swagart on the Same Subject See what you can do for Me</p>
-<p>Very Truly C, Wait</p>
+<p>will you See the Goviner Mcgoffin &amp; committee for arming the State &amp; See if I can git a contract to furnish a Quantity of Salt-peter a Quantity of Powder I have plans of fine Locality for a Powder Mill Plenty of water Power and Plenty of caves to work 300 hands and could in a Short Time be mooving the business a hed Some one must have this contract &amp; these is no one that I Know have the Same facilitis I have -- a <unclear>Trusty</unclear> Experianced man in the Mill is all I Should be Lacking to go right on with the Business I am writing to old friend Swagart on the Same Subject See what you can do for Me</p>
+<p><unclear>Vary</unclear> Truly C, Wait</p>
   </body>
  </text>
 </TEI>

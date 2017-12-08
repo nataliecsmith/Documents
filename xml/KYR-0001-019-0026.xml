@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0026"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,10 +66,10 @@
    <p>Alexandria Campbell Co Ky
 <lb/><date when="1861-04-17">April the 17 1861</date>
 <lb/>B Magofin Esqr</p>
-<p>Respected sir I have been induced to tax your time and patience by a portion of my company and <hi rend="underline">number</hi> of our best Farmres Merchants &amp; and Mechanics By informing you I have received no answer from my call for armes for my company our presant position leads us to fear we will have use for them before we will learn to use them properly I am ^happy^ to inform you your answer to Lincans call on Kentucky for men is received and indorced by most respect<hi rend="str">fully</hi>able if not by a majority we find our selves surounded by those who will back the the<pb/>
+<p>Respected sir I have been induced to tax your time and patience by a portion of my company and <hi rend="underline">number</hi> of our best Farmers Merchants &amp; and Mechanics By informing you I have recived no answer from my call for armes for my company our presant position leads us to fear we will have use for them before we will learn to use them properly I am ^happy^ to inform you your answer to Lincans call on Kentucky for men is <hi rend="underline">received</hi> and indorced by most respect<hi rend="str">fully</hi>able if not by a majority we find our selves surounded by those who will back the the<pb/>
 <lb/>administration if not overpowered by numbers in the state</p>
 <p>I have the pleasure to be your <hi rend="underline">obedient</hi> <hi rend="underline">servant</hi>
-<lb/>B. J. Beall Capt of the Campbell County Rangers</p>
+<lb/>B, J, Beall Capt of the Campbell County Rangers</p>
 <p>To his Excelency
 <lb/>B Magofin Go<hi rend="underline"><hi rend="sup">v</hi></hi> of Ky<pb/></p>
 <p>Arms<figure type="hr"/>

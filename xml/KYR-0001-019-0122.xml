@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0122"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Beriah Magoffin to John M. Johnson and Unknown</title>
+    <title level="a" type="main">Beriah Magoffin to John M. Johnson and Campbell</title>
     <title level="a" type="parallel">CWG1428</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,36 +67,19 @@
 <lb/><date when="1861-08-22">Aug 22<hi rend="sup">nd</hi> 1861</date> -- 
 <lb/>D<hi rend="sup">r</hi> J. M. Johnson &amp; Judge Campbell
 <lb/>Paducah Ky -- </p>
-<p>I will do all in my power to protect the lives property &amp; peace of our people. Report as <hi rend="str">dir</hi> requested in my dispatch of the morning after conference with Commander at Cairo, and include Seizure of Steamer Ferry -- </p>
+<p><hi rend="str">F</hi>I will do all in my power to protect the lives property &amp; peace of our people. Report as <hi rend="str">dire</hi> requested in my dispatch of the morning, after conference with Commander at Cairo, and include Seizure of Steamer Terry -- </p>
 <p>B. Magoffin -- </p>
-<p><table rend="rules">
-<row>
-	<cell>  </cell>
-	<cell> </cell>
-	<cell>66</cell>
-	<cell>  </cell>
-</row>
-<row>
-	<cell>38</cell>
-	<cell>F66</cell>
-	<cell>&amp; <hi rend="underline">324</hi></cell>
-	<cell>pd</cell>
-</row>
-<row>
-	<cell> </cell>
-	<cell> </cell>
-	<cell>390</cell>
-	<cell> </cell>
-</row>
-</table>
-<lb/>36</p>
+<p>66
+<lb/>38. F. 66 &amp; <hi rend="underline">324</hi> pd
+<lb/>390</p>
+<p>36</p>
 <p>280
 <lb/><hi rend="underline">110</hi></p>
-<p>390
+<p>3<hi rend="str">8</hi>90
 <lb/><hi rend="underline">66</hi>
 <lb/>324<pb/></p>
-<p>22
-<lb/>Thursday <date when="1861-08-22">August 22n<hi rend="sup">d</hi></date></p>
+<p>22</p>
+<p>Thursday <date when="1861-08-22">August 22n<hi rend="sup">d</hi></date></p>
   </body>
  </text>
 </TEI>

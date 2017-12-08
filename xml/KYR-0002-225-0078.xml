@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0078"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -66,14 +69,14 @@
 <lb/>Frankfort Ky
 <lb/>Dear Sir,</p>
 <p>We desire to raise a company in this county under the late act of the Legislature. Capt. Jno. P. Grinstead late of the 9<hi rend="sup">th</hi> Ky Infantry is willing to undertake the enterprise, &amp; I take pleasure in saying that he is a suitable person for the position. At present we have a small negro force which will leave soon, &amp; we will be left defencelss. Our court house has been threatened by the guerrillas. I trust therefore that you will at once give authority<pb/>
-<lb/>to Capt. Grinstead to raise a company in this county for our protection -- </p>
+<lb/>to Capt. Grinstead to raise a company in this county for our protection-</p>
 <p>Be pleased to let me hear from you at an early day in regard to this matter</p>
-<p>Yours truly
+<p>Yours Truly
 <lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> Sampson</hi><pb/></p>
 <p>W<hi rend="underline"><hi rend="sup">m</hi></hi> Sampson,
 <lb/>Glasgow, Ky.<figure type="hr"/></p>
-<p>Recommending Capt John P. Grinstead, late of 9<hi rend="sup">th</hi> Ky. Vol. Inf. as suitable person to raise Co. of Active Militia.<figure type="hr"/></p>
-<p>Answered <date when="1863-04-03">April 3/63</date></p>
+<p>Recommending Capt- John P. Grinstead, late of 9<hi rend="sup">th</hi> Ky. Vol, Inf. as suitable person to raise Co. of Active Militia.<figure type="hr"/></p>
+<p>Answered <date when="1865-04-03">April 3/65</date></p>
   </body>
  </text>
 </TEI>

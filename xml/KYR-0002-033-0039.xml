@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0039"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Horatio G. Wright, Special Orders, No. 27</title>
+    <title level="a" type="main">C. W. Foster, Special Orders, No. 27</title>
     <title level="a" type="parallel">CWG11590</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,20 +64,19 @@
  <text>
   <body>
    <p>HEAD QUARTERS, DEPARTMENT OF THE OHIO.
-<lb/>Cincinnati, Ohio <date when="1863-01-14">January 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+<lb/><hi rend="italic">Cincinnati, Ohio</hi> <date when="1863-01-14">January 14<hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="italic">186</hi>3</date>
 <lb/>SPECIAL ORDERS,
 <lb/>No. 27</p>
 <p>The resignation of 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lieutenant <hi rend="underline">Richard W. Davis</hi> 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Regiment Cavalry Kentucky Volunteers, is hereby accepted, to take effect on the <date when="1863-01-16">(16<hi rend="underline"><hi rend="sup">th</hi></hi>) sixteenth day of January 1863.</date></p>
 <p>BY ORDER OF MAJOR GENERAL WRIGHT.
 <lb/>C. W. Foster
 <lb/>Assistant Adjutant General. </p>
-<p>1.2.3.4.5.6
-<lb/>1.</p>
+<p>1.2.3.4.5.6</p>
+<p>1.</p>
 <p>Governor of Kentucky<pb/></p>
 <p>2 Cav
 <lb/>Lt. Davis
-<lb/>resig
-<lb/>filed <date when="1863-01-24">Jan 24. 1863.</date></p>
+<lb/>resig filed <date when="1863-01-24">Jan 24, 1863,</date></p>
   </body>
  </text>
 </TEI>

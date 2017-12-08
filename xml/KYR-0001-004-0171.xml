@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0171"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,16 +64,16 @@
  <text>
   <body>
    <p>State of Kentucky
-<lb/>Jefferson Circuit Court
-<lb/><date when="1863-10">October Term 1863</date>
-<lb/><date when="1863-10-27">October 27<hi rend="sup">th</hi> 1863</date></p>
-<p>We the Jury find Chas Smith, the prisoner <hi rend="str">the prisoner</hi> herein guilty, as charged in this Indictment, and say he shall be confined one year in the jail and penetentiary House of the Commonwealth and recommend him to executive clemency.</p>
-<p>J. H. Myers "Foreman"</p>
-<p>I James P. Chambers Clerk of the Jefferson Circuit Court in the State of Kentucky, do hereby certify that the foregoing is a true and correct copy of the verdict rendered by the Jury, in the case of the Comth vs Chs Smith</p>
-<p>Witness my hand as clerk this <date when="1863-10-29">29 Octo 1863</date></p>
-<p>Att. James. P. Chambers clk<pb/></p>
-<p>Certificate
-<lb/>Geo. Kilpatrick</p>
+<lb/>Jefferson Circuit Court &#125; sct.
+<lb/><date when="1863-10">October Term 1863.</date>
+<lb/><date when="1863-10-27">October 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1863.</date></p>
+<p>We the Jury find Chas Smith the prisoner <hi rend="str">the</hi> <hi rend="str">prisoner</hi> herein guilty, as charged in this Indictment, and say he shall be confined one year in the jail and penetentiary House of the Commonwealth and recommend him to executive clemency.</p>
+<p>J. H. Myers. "Foreman"</p>
+<p>I James, P, Chambers clerk of the Jefferson Circuit Court. in the State of Kentucky, do hereby certify that the foregoing is a true and correct copy of the verdict rendered by the Jury. in the case of the Comth vs Chas Smith</p>
+<p>Witness my hand as clerk this <date when="1863-10-29">29 Octo 1863.</date></p>
+<p>Att. <hi rend="underline">James, P, Chambers</hi> clk<pb/></p>
+<p>Certificate</p>
+<p>Geo. Kilpatrick</p>
   </body>
  </text>
 </TEI>

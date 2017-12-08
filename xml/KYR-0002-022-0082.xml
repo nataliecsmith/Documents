@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0082"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,20 +65,19 @@
   <body>
    <p>Frankfort Ky <date when="1865-03-30">30<hi rend="sup">th</hi> Mch 1865</date>
 <lb/>Major W. H. Hays
-<lb/>Inspector General of kentucky.
+<lb/>Inspector General of Kentucky,
 <lb/>Major.</p>
-<p>I have been written to by numerous acquaintances in <hi rend="underline">Lewis</hi> <hi rend="underline">County</hi> &amp; requested by them to represent, through you to His Excellency the Governor, the expediency of entrusting the Command of any active State troops for that county to Capt <hi rend="underline">Joseph W. Cottingham</hi>.</p>
+<p>I have been written to by numerous acquaintances in <hi rend="underline">Lewis</hi> <hi rend="underline">County</hi> &amp; requested by them to represent, through you to His Excellency the Governor, the expediency of entrusting the Command of any active State troops for that county to Capt <hi rend="underline">Joseph W Cottingham.</hi></p>
 <p>I have a very intimate personal knowledge of Captain Cottingham's merits as an officer. He served under my command for two (2) years and under all circumstances approved himself an officer of judgement, courage and activity.</p>
 <p>As I know the loyal men of Lewis County quite generally, I feel safe in saying that I think the appointment of Capt Cottingham would be highly satisfactory -- </p>
 <p>I have the honor to be
-<lb/>Very respectfully yr Ob<hi rend="sup">t</hi> Sv<hi rend="sup">t</hi>
-<lb/>Jno. Mason Brown
+<lb/>Very respectfully yr ob<hi rend="sup">t</hi> Sv<hi rend="sup">t</hi>
+<lb/>Jno: Mason Brown
 <lb/>late Col 45 Ky Vols<pb/></p>
-<p>Lewis
-<lb/>Jos. W. Cottingham<figure type="hr"/>
+<p>Jo<hi rend="sup">s</hi>. W. Cottingham<figure type="hr"/>
 <lb/>Lewis Co. Ky.<figure type="hr"/>
-<lb/>Recommended as Capt. of Active Militia in Lewis County, by Col. John M Brown<figure type="hr"/>
-<lb/>answered <date when="1865-04-10">April 10/'65</date></p>
+<lb/>Recommended as Capt. of Active Militia in Lewis county, <hi rend="str">C</hi>by Col. John M Brown<figure type="hr"/></p>
+<p>answered <date when="1865-04-10">April 10/'65</date></p>
   </body>
  </text>
 </TEI>

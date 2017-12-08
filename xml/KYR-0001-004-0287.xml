@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0287"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,18 +66,17 @@
    <p>Grant County Ky
 <lb/><date when="1863-11-09">Nov: <hi rend="str">1</hi>9<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.
 <lb/>To His Excellency
-<lb/>The Governor of Kentucky</p>
-<p>Your Petitioner D. E. Craig respectfully states that at the late <date when="--10">October term</date> of the Grant Circuit Court he was fined T<hi rend="str">hirty</hi>wenty Dollars under an indictment for gaming on the premises of James W. Collins in W<hi rend="sup">ms</hi>Town. He says that he was indicted and fined heretofore for the same act. The testimony before the trial jury at the late term was that of only one witness ^B. Wilson^ who testified with much Doubt as to whether the supposed gaming was within five years before the finding of the indictment. Since the finding of the indict at the late term, he has convened with the witness and he now says that the gaming he referred to is the same for which your petitioner was personally fined and that He is now satisfied that it accured more than five years <hi rend="str">ago</hi> ^before the finding of said indictments^. Your Petitioner would further state that he has not played at any games on the premises of said Collins or elsewhere in W<hi rend="sup">ms</hi>Town within five years before the finding of said indictment</p>
-<p>D. E. Craig<pb/></p>
+<lb/>The Govenor of Kentucky,</p>
+<p>Your Petitioner D. E. Craig respectfully states that at the late <date when="1863-10">October term</date> of the Grant circuit court he was fined T<hi rend="str">hirty</hi>wenty Dollars under an indictment for Gaming on the premises of James W. Collins in W<hi rend="underline"><hi rend="sup">ms</hi></hi>Town. He says that he was indicted and fined heretofore for the same act. The testimony before the trial jury at the late term was that of only one witness ^B. Wilson^ who testified with much Doubt as to whether the supposed gaming was within five years before the finding of the indictment,- Since the finding of the verdict at the late term, he has convened with the witness and he now says that the gaming he referred to is the same for which your Petitioner was personally fined. and that He is now satisfied that it accured more than five years <hi rend="str">ago</hi> ^before the finding of said indictment^ -- Your Petitioner would further state that he has not played at any games on the premises of said Collins or else where in W<hi rend="underline"><hi rend="sup">ms</hi></hi>Town within five years before the finding of said indictment</p>
+<p>D, E, Craig<pb/></p>
 <p>Grant Cir Ct
 <lb/>vs
 <lb/>D. E. Craig
 <lb/>Gaming
-<lb/>$20 -- 
-<lb/><date when="1863-11-23">23d Nov 1863</date></p>
-<p>Remit all except costs &amp; fees
-<lb/>Tho E Bramlette
-<lb/>Gov<hi rend="sup">r</hi></p>
+<lb/>&#36;20 -- 
+<lb/><date when="1863-11-23">23<hi rend="sup">d</hi> Nov 1863</date></p>
+<p>Remit all except costs &amp; fees</p>
+<p>Tho E Bramlette Gov<hi rend="sup">r</hi></p>
   </body>
  </text>
 </TEI>

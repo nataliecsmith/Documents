@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0041"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,35 +64,36 @@
  <text>
   <body>
    <p>To His Excellency,
-<lb/>Hon. Thos E. Bramlette,
+<lb/>Hon. <hi rend="str">Jas <unclear/> <unclear/></hi>Thos. E. Bramlette,
 <lb/>Governor of Kentucky,</p>
-<p>Your petitioner, Isaac Sutton, a resident for a number of years past in the City of Covington Ky., would respectfully represent that, at the last June term of the Kenton Circuit Court, he was fined $60, by verdict of a jury for the offence of keeping a tippling house.</p>
-<p>Our statutes require that both city and state licence should be obtained in order to keep a coffee-house or restaurat in the city aforesaid. Of the latter duty your petitioner was, until an indictment had been brought against him, in <date when="--03">March last</date>, <hi rend="underline">entirely ignorant</hi>. The amount required to be paid for city licence is a large, and that required to be paid for county licence comparatively a very small sum.<pb/></p>
-<p>Your petitioner had paid the amount required of him on account of city licence, and duly performed all that was required of him by the city ordinance, as will appear by the certificate of the city clerk enclosed herewith. Nothing was ever said to him, nor was he ever told by any one of several persons with whom he advised on the subject, of his duty to take out <hi rend="underline">county</hi> as well as city licence. He was laboring under the impression that he had fully complied with the law in the premises; and would have obtained county licence which duly amounted to $10, immediately had he known it was his duty to do so.</p>
+<p>Your petitioner, Isaac Sutton, a resident for a number of years past in the city of Covington Ky., would respectfully represent that, at the last <date when="--06">June term</date> of the Kenton Circuit Court, he was fined &#36;60, by verdict of a jury for the offence of keeping a tippling house.</p>
+<p>Our statutes require that both city and state licence should be obtained in order to keep a coffee-house or restaurat in the city aforesaid. Of the latter duty your petitioner was, until an indictment had been brought against him, in <date when="--03">March last</date>, <hi rend="underline">entirely ignorant.</hi> The amount required to be paid for city licence is a large, and that required to be paid for county licence comparatively a very small sum.<pb/></p>
+<p>Your petitioner had paid the amount required of him on account of city licence, and duly performed all that was required of him by the city ordinance, as will appear by the certificate of the city clerk enclosed herewith. Nothing was ever said to him, nor was he ever told by any one of several persons with whom he advised on the subject, of his duty to take out <hi rend="underline">county</hi> as well as city licence. He was laboring under the impression that he had fully complied with the law in the premises; and would have obtained county licence, which only amounted to &#36;10; immediately had he known it was his duty to do so.</p>
 <p>Soon as he was informed it was his duty to take out county licence, which information came from a friend, and about the time said indictment was being prepared against him, -- he did so at once. A certificate showing he has paid said county licence is enclosed herewith.<pb/></p>
-<p>At trial your petitioner could only defend himself by pleading his utter ignorance of the law as regards the taking out of <hi rend="underline">county</hi> in addition to the city licence, which licence required was in amount but a mere trifle; and producing evidences that he had paid large sums for licence to the city of Covington, in attestation of his good faith and of his design to comply with the law. This defence was adjudged insufficient; but his honor Judge Doniphan, judge of said circuit, stated then on the bench that his case was one which merited executive clemency.</p>
+<p>At trial your petitioner could only defend himself by pleading his utter ignorance of the law as regards the taking out of <hi rend="underline">county</hi> in addition to the city licence, which licence required was in amount but a mere trifle; and producing evidences that he had paid large sums for licence to the city of Covington, in attestation of his good faith and of his design to comply with the law. His defence was adjudged insufficient; but his honor- Judge Doniphan, judge of said circuit, stated then on the bench that his case was one which merited executive clemency.</p>
 <p>Your petitioner would, in view of the premises, most respectfully ask a remission of the fine aforesaid</p>
 <p>Isaac Sutton</p>
 <p>State of Kentucky Kenton County</p>
 <p>Personally appeared before me a Justice of the peace in and for the county aforesaid Isaac Sutton and made oath that he believes the statements in the foregoing petition are true</p>
 <p>Isaac Sutton</p>
-<p>Sworn to ^and subscribed^ before me by Issac Sutton this <date when="--09-01">1st day of <hi rend="str">August 1863</hi> September <unclear>1863</unclear></date></p>
-<p>J B Lincenum J P K. Co
-<lb/><stamp type="revenue"/><note place="stamp"><unclear/></note><pb/></p>
-<p>We of the Jury who tried the case and heard the evidence in the case of the Commonwealth vs Isaac Sutton mentioned in the peition aforesaid, would respectfully ask that the prayer of said peitioner be granted.</p>
+<p>Sworn to ^and subscribed^ before me by Issac Sutton this <date when="--09-01">1<hi rend="sup">st</hi> day of <hi rend="str">August 1863</hi> September 1863</date></p>
+<p>J B Lendrum J P K. Co
+<lb/><stamp type="revenue"/><note place="stamp">J B L
+<lb/><date when="1863-09-01">Sept 1<hi rend="sup">st</hi> 63</date></note><pb/></p>
+<p>We of the Jury who tried the case and heard the evidence in the case of the Commonwealth vs Isaac Sutton mentioned in the petition aforesaid, would respectfully ask that the prayer of said peitioner be granted.</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Peter Longshore
 <lb/>Ja<hi rend="sup">s</hi> Steers
 <lb/>W W Rogers
-<lb/>Moses Swain
+<lb/>Moses Swim
 <lb/><cb n="2"/>Michael Moore
-<lb/>John O Donnell
+<lb/>John ODonnell
 <lb/>John Wesner
 <lb/>J H Meyers
 <lb/>J Arnold
 <lb/>John Herold<milestone unit="column" n="1"/></p>
-<p>I certify that one of the jurors (Capt. Wm Wason) who tried the above case of Com<hi rend="sup">wth</hi> vs Isaac Sutton, departed this life a few weeks since; another of the Jurors has recently left the state, so that his signature could not be obtained: The signatures of the remaining ten I believe to be in the handwriting of the jurors respectively.</p>
-<p>R. Richardson
-<lb/><date when="1863-09-04"><hi rend="underline">Sept</hi><hi rend="underline"><hi rend="sup">r</hi></hi><hi rend="underline"> 4, 1863</hi></date></p>
+<p>I certify that one of the jurors, (Capt. W<hi rend="underline"><hi rend="sup">m</hi></hi> Wason) who tried the above case of Com<hi rend="underline"><hi rend="sup">wth</hi></hi> vs Isaac Sutton, departed this life a few weeks since; another of the Jurors has recently left the State, so that his signature could not be obtained: The signatures of the remaining ten I believe to be in the handwriting of the jurors respectively.</p>
+<p><date when="1863-09-04"><hi rend="underline">Sept. 4, 1863</hi></date>
+<lb/>R. Richardson</p>
   </body>
  </text>
 </TEI>

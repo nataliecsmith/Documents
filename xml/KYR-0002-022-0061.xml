@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0061"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Louisville, Jefferson County, Kentucky</placeName>
-    <date when="1865-12-16">16 December 1865</date>
+    <date when="1864-12-16">16 December 1864</date>
    </creation>
    <textClass>
     <keywords>
@@ -60,14 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky <date when="1865-12-16">Dec 16 1865</date>
+   <p>Louisville Ky <date when="1864-12-16">Dec, 16 1864</date>
 <lb/>Gov Bramlete
 <lb/>Sir</p>
-<p>There is in Louisville at this time Between Twenty and Twenty five men Part of whom formerly Belonged to your old Regt. The 3<hi rend="underline"><hi rend="sup">rd</hi></hi> who want me to Raise a Company in the State service</p>
-<p>I write to you for Permission to arm and Equip these men, and Permit them to go to Pulaskin County in this State With me And I will ensure that I sware a full company in Six weeks</p>
-<p>I was 1<hi rend="sup">st</hi> Lieut= of Co A 10<hi rend="underline"><hi rend="sup">th</hi></hi> Ky infantry Resigned in Disability</p>
-<p>Col Hays was late commander advised me to write to you Personally</p>
-<p>I can ^(give)^ any Refferance necessary and Hopeing That you will give me a favorable answer</p>
+<p>There is in Louisville at this time Between Twenty and Twenty five men Part of whom formerly Belonged to your old Regt. The 3<hi rend="underline"><hi rend="sup">rd</hi></hi> who want me To Raise a Company in the State Service</p>
+<p>I write to you for Permission to arm and Equip these men, and Permit them to go to Pulaski County in this State with me and I will ensure that I sware a full Company in Six weeks</p>
+<p>I was 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut- of Co A 10<hi rend="underline"><hi rend="sup">th</hi></hi> Ky infantry Resigned on Disability</p>
+<p>Col Hays our late commander advised me to write to you Personally</p>
+<p>I can ^give^ any Refferance necessary and Hopeing that you will give me a favorable answer</p>
 <p>I Remain your most
 <lb/>Obt Servt
 <lb/>Jas Reynolds<pb/></p>
@@ -75,14 +78,14 @@
 <lb/><date when="1864-12-16">Dec 16" 1864</date><figure type="hr"/>
 <lb/>Reynolds Jas.
 <lb/>formerly 1" Lt Co. A. 10" Ky I.<figure type="hr"/>
-<lb/>To The Gov-<figure type="hr"/>
-<lb/>Desires permission to raise a Co. for state service-<figure type="hr"/>
-<lb/>Issue authority for company State troops 12 months service</p>
+<lb/>To The Gov -- <figure type="hr"/>
+<lb/>Desires permission to raise a Co. for state service -- <figure type="hr"/></p>
+<p>Issue authority for company State troops 12 months service</p>
 <p>D W Lindsey
-<lb/>Insp &amp; Adj Gen<hi rend="sup">l</hi>
-<lb/><date when="1864-12-18">Dec 18. 1864</date>
-<lb/><hi rend="underline">30 w 30</hi><figure type="hr"/>
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-12-19">Dec 19" 1864</date></p>
+<lb/>Insp &amp; Adj Gen<hi rend="sup">l</hi></p>
+<p><date when="1864-12-18">Dec 18. 1864</date>
+<lb/><hi rend="underline">30 W 30</hi><figure type="hr"/></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-12-19">Dec 19" 1864</date></p>
   </body>
  </text>
 </TEI>

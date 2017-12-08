@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1540"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,20 +65,20 @@
   <body>
    <p>To Hon. B. Magoffin,
 <lb/>Governor of Kentucky:</p>
-<p>Your Petitioner would most respectfully state that her former name was Hawkins, and that she is the mother of Charles Hawkins, a youth of about 20 years of age, who has been confined in the Kentucky Penitentiary since the <date when="1860-10-02">2nd. day of October, 1860,</date> upon a charge of stabbing Thomas Murray, an Irishman, in Louisville.</p>
+<p>Your Petitioner would most respectfully state that her former name was Hawkins, and that she is the mother of Charles Hawkins, a youth of about 20 years of age, who has been confined in the Kentucky Penitentiary since the <date when="1860-10-02">2nd. day of October, 1860,</date> upon a charge of stabbing Thomas Murray, an Irish<hi rend="str">a</hi>man, in Louisville.</p>
 <p>He was sentenced for two years, and has already served out more than half of his time. </p>
 <p>She states that the cutting was so slight that Murray never lost an hour's labor on account of it -- and that it was done purely in self-defense, there being no less than three men engaged in fighting her son at the time he inflicted the slight wound on Murray.</p>
 <p>She further states that her son would not have been convicted, as she verily believes, had he been properly defended. His lawyer was an habitual drunkard, and did not give the case such legal attention as it needed.</p>
-<p>She states that some time after the conviction of her son, and after he was in the Penitentiary, she forwarded a Petition to your Excellency, praying for the pardin of her son. This Petition was signed by the Prosecuting attorney &amp; others.</p>
-<p>Sometime afterwards she was moved by a desire to procure the pardin of her son to such an extent, that she perhaps violated a rule of propriety by troubling your Excellency with a second Petition for the same purpose. This Petition was signed by 10 of the 12 jurymen who found the verdict, the other two having left the State.<pb/></p>
-<p>She states that one of these Petitioners was accompanied by an affidavit signed by Thomas Murray, showing that he had not done justice to her son in giving in to his testimony before the jury, and asking your Excellency's interference in favor of her son.</p>
-<p>Not having received any notice that your Excellency has ever received the last Petition, and the letters and papers accompanying it, she begs your Excellency's pardon for again troubling you with her sorrows.</p>
+<p>She states that some time after the conviction of her son, and after he was in the Penitentiary, she forwarded a Petitien to your Excellency, praying for the pardin of her son. This Petitien was signed by the Prosecuting attorney &amp; others.</p>
+<p>Sometime afterwards she was moved by a desire to procure the parden of her son to such an extent, that she perhaps violated a rule of propriety by troubling your Excellency with a second Petition for the same purpose. This Petitien was signed by 10 of the 12 jurymen who found the verdict, the other two having left the State.<pb/></p>
+<p>She states that one of these Petitiens was accompanied by an affidavit signed by Thomas Murray, showing that he had not done justice to her son in giving in his testimony before the jury, and asking your Excellency's interference in favor of her son.</p>
+<p>Not having received any notice that your Excellency has ever received the last Petitien, and the letters and papers accompanying it, she begs your Excellency's pardon for again troubling you with her sorrows.</p>
 <p>She most humbly beseeches your Excellency's clemency in behalf of her son. He has already suffered a heavy penalty for doing what any youth of hot blood and spirit would have done when set upon by three men each stouter than himself.</p>
 <p>She begs your Excellency to consider her prayer and pardon her son, who is still dear to her, although disgraced in the eyes of a censorious and unforgiving world.
 <lb/>Frankfort, Ky., <date when="1861-11-20">Nov. 20, 1861.</date></p>
 <p>Sarah S Scott<pb/></p>
 <p>Jefferson Cir. Ct
-<lb/>Charles Hawkin's Petition</p>
+<lb/>Charles Hawkin's Petition.</p>
 <p>Issue pardon
 <lb/>B. M. </p>
 <p>Iss<hi rend="sup">d</hi> <date when="1861-11-25">Nov 25 1861</date></p>

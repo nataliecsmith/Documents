@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1447"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Joseph Clement, Affidavit</title>
+    <title level="a" type="main">Maria Jannar, Affidavit</title>
     <title level="a" type="parallel">CWG10915</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,16 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky Jefferson Co.</p>
-<p>The affiant Mary Yaner states on Oath that She is the wife of Frederick Yaner who is at this time confined in the Penatenitiary of the state and that the statements contained in the petition heare unto attached are twice</p>
-<p>Maria <unclear>jannah</unclear></p>
+   <p>State of Kentucky Jefferson Co <unclear>sct</unclear></p>
+<p>The affiant Mary Yaner states on Oath that She is the wife of Frederick Yaner who is at this time confined in the Penatenitiary of this state and that the statements contained in the petition heare unto attached are true</p>
+<p><unclear>Maria janna<hi rend="str">h</hi>r</unclear></p>
 <p>Subscribed and sworn to before me this <date when="1861-12-12">12th day of Dec 1861</date></p>
-<p>J<hi rend="underline"><hi rend="sup">os</hi></hi> Clement J. P. J. C</p>
-<p>Anna Smith States on Oath that She is the same person mentioned in the petition heare unto attached and that she has arrived to the age of seventeen years That at the time of the trail of her Step Father F. Yanner in the Circuit of Jefferson County of the charge mentioned in the petition She was greatly embarased and fritened being very Young she dose not recollect all the statements She then made before the Jury She futher States that she has reflected considerably on the case up to this time and is of opinion that Yaner being Beastly intoxicated at the time said act was commited for<pb/>
-<lb/>which he was convicted could not have been conscius of what he did ^if gilty^ further that Yanner up to that time on all occasions treated her with kindness and affection She would therefore request his pardon</p>
+<p>Jos,, Clement. J. P. J. C</p>
+<p>Anna Smith States on Oath that She is the same person mentioned in the petition heare unto attached and that she has arrived to the age of seventeen years That at the time of the trail of her Step Father F Yanner in the Circuit of Jefferson County on the charge mentioned in the petition She was greatly embarased and fritened being very Young she dose not recallect all the Statements She then made before the Jury She futher States that she has reflected considerably on the case up to this time and is of opinion that Yaner being Beastly intoxicated at the time said act was commited for<pb/>
+<lb/>which he was convicted could not have been conscius of what he did ^if gilty^ further that Yanner up to that time on all occasions treated her with kindness and offection She would therefore request his pardon</p>
 <p>Anna ^her X mark^ Smith</p>
 <p>Subscribed and sworn before me this <date when="1861-12-12">12th day of Dec 1861</date></p>
-<p>J<hi rend="underline"><hi rend="sup">os</hi></hi> Clement J P J C</p>
+<p>J<hi rend="underline"><hi rend="sup">os</hi></hi> Clement. J P J C</p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1306"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,10 +64,10 @@
  <text>
   <body>
    <p>County of Fleming State of Kentucky</p>
-<p>W. W. Hammonds being first duly sworn deposeth and says that on or about the first day of <date when="1863-09">September 1863</date> in the evening returning from circuit court on the Flemingsburg &amp; Elizaville Pike when near the Tool gate John Rickets passed me and verry soon caught up with Samuel Mitchel and others when I heard some <hi rend="str">altercation</hi> loud talking but could not hear what was said but Rickets and Mitchel seamed to be quarling when I hurried up when near them I saw Mitchel draw a pistol out of his left pocket of his coat with his left hand and elevated it in the air keeping the Muzzle up and imediately returned it into his pocket and heard no threats to shoot or any thing of the kind. by this time I came up with them when Mitchel said ^to Rickets^ now I have shown you my pistol show me yours as you say you have one. M<hi rend="sup">r </hi>Rickets was riding on the right hand side of Mitchel all the time and so far as I saw or heard said Mitchel made no threat or attempt to hear<hi rend="str">d</hi>t said Rickets on that or any other occasion</p>
-<p>W W, Hammonds</p>
+<p>W. W. Hammonds being first duly sworn deposeth and says that on or about the first day of <date when="1863-09">September 1863</date> in the Evening returning from circuit court on the Flemingsburg &amp; Elizaville Pike when near the Tool gate John Rickets passed me and verry soon caught up with Samuel Mitchel and others when I heard some <hi rend="str">altercation</hi> loud talking but could not hear what was said but Rickets and Mitchel seamed to be quarling when I hurried up when near them I saw Mitchel draw a pistol out of his left pocket of his coat with his left hand and elevated it in the air keeping the Muzzle up and imediately returned it into his pocket and heard no threats to shoot or any thing of the kind, by this time I came up with them when Mitchel said ^to Rickets^ now I have shown you my pistol show me yours as you say you have one. M<hi rend="sup">r </hi>Rickets was riding on the right hand side of Mitchel all the time and so far as I saw or heard said Mitchel made no threat or attempt to hear<hi rend="str">d</hi>t said Rickets on that or any other occasion</p>
+<p>W W. Hammonds</p>
 <p>Subscribed and sworn to by W. W. Hammonds before a Justice of the peace in and for Fleming County this <date when="1864-11-25">25 day of November 1864</date></p>
-<p>J. H. Dewey J. P. F. C</p>
+<p>O. H Dewey J. P. F. C</p>
   </body>
  </text>
 </TEI>

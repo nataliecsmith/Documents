@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0157"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,26 +63,26 @@
  <text>
   <body>
    <p>To His Excellency the Governor of Kentucky</p>
-<p>John P Beal having been fined the sum of $17.<hi rend="underline"><hi rend="sup">00</hi></hi> before W<hi rend="sup">m</hi> Cox Justice of the peace for Carroll County for assault &amp; Battery upon Tho D Wright. We the undersigned from our knowledge of the facts and circumstances believing that said fine was improperly imposed on said Beal and that he acted in self defence and as a Justice of the peace of the County to suppress a breach of the peace. respectfully pray your Excellency to remit said fine
+<p>John P Beal having been fined the sum of &#36;17.<hi rend="underline"><hi rend="sup">00</hi></hi> before W<hi rend="sup">m</hi> Cox Justice of the peace for Carroll County for assault &amp; Battery upon Tho D Wright- We the undersigned from our knowledge of the facts and circumstances believing that said fine was improperly imposed on Said Beal and that he acted in self defence and as a Justice of the peace of the County to suppress a breach of the peace, respectfully pray your Excellency to remit said fine
 <lb/><date when="1863-10-26">Oct 26. 1863</date>.</p>
-<p>We the undersigned Petitioners do say that the said J. P. Beal is a well ordered citizen and is a man that is not able to work for a living and is not able to pay the fine Even if it was justly approved but buy unjustly impose we that it not right he should pay the sum -- you will Examine your Executive Journal you will find he has been Elected Justice of the Peace of Carroll County.</p>
-<p>We Come begging your honor to remit the fine for the sake of his family</p>
-<p>H. B. <unclear/> G. S.<pb/></p>
-<p><unclear/> M<unclear>Colyer</unclear>
+<p>We the undersigned Petitioners do say that the said J. P. Beal is a well ordered citizen and is a man that is not able to work for a living and is not able to pay the fine Even if it was Justly imposed but very unjustly impose we thout it not right he should pay the same -- you will Examine your Executive Journal you will find he has been Elected Justice of the Peace of Carroll County.</p>
+<p>we come beging your honor to remit the fine for the sake of his family</p>
+<p>H B, <unclear/> G, s,<pb/></p>
+<p><unclear/> M <unclear>Collyer</unclear>
 <lb/>R. T. McCann
-<lb/>R. R. Gwinn
-<lb/>H. C. Hindheld
-<lb/>Allen Hanks C.C.C.C
-<lb/>A J Guthrie ast assessor 4 Dist Ky
-<lb/>W. G. Cline
-<lb/>J W Lingenfelt -- <unclear/> of Carroll County
-<lb/>Jn<hi rend="sup">o</hi> T. Lewis -- M.D.
-<lb/>C. M. Stringfellar
-<lb/>A. N. Carlisle= Pro. Mar. Carroll County Ky
-<lb/>O. Coburn
-<lb/>J A Crawford<pb/></p>
-<p>Release done at to Carollton Ky
-<lb/>J. P. Been</p>
+<lb/>R. B. Guinn
+<lb/>H. C. Threlkeld
+<lb/>Allen Hanks C, C, C, C
+<lb/>A I Guthrie ast assessor 4 Dist Ky
+<lb/>W, G, Cline
+<lb/>I W Lingenfelter -- Cornr of Carroll County
+<lb/><hi rend="underline">Jn</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline"> T.</hi> Lewis -- M. D.
+<lb/>C. N. Stringfellow
+<lb/>A. V, Carlisle= Pro. Mar. Carroll. County Ky
+<lb/>O, Coburn
+<lb/>J A. Crawford<pb/></p>
+<p>Please Direct to Carollton Ky</p>
+<p>J, P, Beel</p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0182"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,56 +63,57 @@
  </teiHeader>
  <text>
   <body>
-   <p>Midway <date when="1863-10-06">October 6<hi rend="sup">th</hi>/ 63</date>
-<lb/>To his Excelency Thomas E. Bramblett
-<lb/>Governor of the State of Ky</p>
-<p>We the undersigned Citizens of Woodford County, would respectfuly Petition your honor to Remit a fine of Seventy Dollars that was imposed on D. R. Price in Versailles on the <date when="1863-10-05">5<hi rend="sup">th</hi> Oct 1863</date></p>
+   <p>Midway <date when="1863-10-06">Octobr 6<hi rend="sup">th</hi>/63</date>
+<lb/>To his Excelency
+<lb/>Tho<hi rend="sup">s</hi>, E. Bramblett
+<lb/>Govenor of the State of Ky</p>
+<p>We the undersigned Citizens of Woodford County, would respectfuly Petition your honor to Remit a fine of Seventy Dollars that was imposed on D. B. Price in Versailles on the <date when="1863-10-05">5<hi rend="sup">th</hi> Oct 1863</date></p>
 <p>Very Respectfully
-<lb/>Yours &amp;c
+<lb/>Yours &amp;
 <lb/><milestone unit="column" n="2"/><cb n="1"/>R H Davenport) Trustee
 <lb/>John H Martin
 <lb/>John Coyle) Trustee
 <lb/>M. E. Poynter
-<lb/>T D Martin
+<lb/>T D <hi rend="underline">Martin</hi>
 <lb/>Wm. N. Thomosson J. P. W. C
 <lb/>D. M. Jolly
 <lb/>Jacob Merryman
 <lb/>C W Norwood
 <lb/>S. T. Woolums) Trustee
 <lb/>John Sutton
-<lb/>Ja<hi rend="sup">s</hi>. W. Pates
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W. Pates
 <lb/>J T Pates
 <lb/>S. B. Utterback
 <lb/>J W Martin) Trustee
-<lb/>Cha<hi rend="sup">s</hi>. H. Buford
-<lb/>John F. Warts
-<lb/>Sam. B. Wallace
-<lb/>W<hi rend="sup">m</hi>. R. Buford
-<lb/>J. H. Noolums
-<lb/>S. W. Paine
-<lb/>C Hurst
-<lb/>E Warts
-<lb/><cb n="2"/>James N Woolums PM.
-<lb/>T C Moore
+<lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> H. Buford
+<lb/>John F. <unclear>Waits</unclear>
+<lb/><hi rend="underline">Sam</hi>, B, Wallace
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> R. Buford. -- 
+<lb/>J. H, Woolums
+<lb/>S, W, Paine
+<lb/>C C <hi rend="underline">Hurst</hi>
+<lb/>E Waits
+<lb/><cb n="2"/>James, M, Woolums. P M
+<lb/>T C Wood
 <lb/>James Ford
-<lb/>L. F. Fleming
-<lb/>W<hi rend="sup">m</hi> W. Harper
+<lb/>L. I. Fleming
+<lb/>W<hi rend="sup">m</hi> W Harper
 <lb/>Legrand Lucas
-<lb/>L. D. Cabler
-<lb/>G. Hall
+<lb/>L, D, Cable
+<lb/>G, Hall
 <lb/>John Hammonds
 <lb/>D. Lehmann) Trustee
 <lb/>Milton Kereheval
-<lb/>W. A. Leavy
+<lb/><hi rend="underline">W. A.</hi> <hi rend="underline">Leavy</hi>
 <lb/>Jesse McConnell
-<lb/>E. B. Suter
+<lb/>E. N. <unclear>Suter</unclear>
 <lb/>Thomas Martin
-<lb/>C. C. Ricketts
-<lb/>W F Patterson
+<lb/>R. C. Ricketts
+<lb/><hi rend="underline">W F Patterson</hi>
 <lb/>H D Davis
-<lb/>W<hi rend="sup">m</hi> A Moore
-<lb/>Lewis J Hord<pb/></p>
-<p>Pet for remission</p>
+<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi> <hi rend="underline">A Moore</hi>
+<lb/>Lewis J Ford<pb/></p>
+<p><milestone unit="column" n="1"/>Pet for remission</p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0057"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,16 +65,14 @@
   <body>
    <p>The State of Kentucky
 <lb/>County of Jefferson</p>
-<p>This day William McKinzie (Enjineer of the United States Navy) made oath before me that on the <date when="1865-02-25">25th day of February 1865</date> in the City of Louisville Ky, a felony was committed by the felonious stealing and carrying away from the person and pocket of the offiant, (Wm McKinzie) six fifty d<unclear/>united states Treasury note <unclear/> of which were compound wi<unclear/> notes and the other a fifty dollar Treasury note worth fifty dollars Each amounting in all to the sum of three hundred dollars in money, and one twenty dollar gold piece, also a diamond cluster ring with six setts worth $1500,00 and that he has good grounds to suspect and verily believes that William Krochehane <hi rend="underline">alias</hi> <hi rend="underline">George</hi> A Miller, <hi rend="underline">alias</hi> William Ashton has been guilty of the crime of feloniously stealing and carrying away from the said Wm McKenzie the aforesaid money and property, and that the said William <unclear>Krochahone</unclear> alias George A Miller, alias William Ashton is now a fugitive from Justice at larg in the state of<gap/><pb/>
-<lb/>and thus this affidavit is made for the purpose of geting a requisition for him from the Govenor of <hi rend="str">said state</hi> Kentucky to <hi rend="str">of</hi> the Governor of the state of <gap/></p>
+<p>This day William McKinzie (Enjineer of the United States Navy) made oath before me that on the <date when="1865-02-25">25th day of February 1865</date> in the City of Louisville Ky. a felony was committed by the felonious stealing and carrying away from the person and pocket of the offiant, (Wm McKinzie) six fifty d<unclear/> United States Treasury note <unclear/> of which were compound into <unclear/> notes and the other a fifty dollar Treasury note worth fifty dollars Each amounting in all to the sum of three hundred dollars in money, and one twenty dollar gold piece, also a diamond cluster ring with six setts worth &#36;1500,00 and that he has good grounds to suspect and verily believes that William Krachahone <hi rend="underline">alias</hi> George A Miller, <hi rend="underline">alias</hi> William <hi rend="str">a</hi>Ashton has been guilty of the crime of feloniously stealing and carrying away from the said Wm McKenzie the aforesaid money and property, and that the said William Krachahone <hi rend="underline">alias</hi> George A Miller, <hi rend="underline">Alias</hi> William Ashton is now a fugitive from Justice at larg in the state of<gap/><pb/>
+<lb/>and thus this affidavit is made for the purpose of geting a requisition for him from the Govonr of <hi rend="str">said state</hi> Kentucky to <hi rend="str">of</hi> the Governor of the state of <gap/></p>
 <p>W<hi rend="sup">m</hi> McKenzie</p>
-<p>Subscribed and sworn to before me by William McKenzie the <date when="1865-02-27">27th day of Feb 1865</date></p>
-<p>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> Clement Justice of the peace Jeff Coty</p>
+<p>Subscribed and sworn to before me by William McKenzie this <date when="1865-02-27">27th day of Feb 1865</date>.</p>
+<p>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> Clement Justice of the peace Jeff Co Ky</p>
 <p>Requisition
-<lb/>affidavit for
-<lb/>Requisition
-<lb/>issued
-<lb/><date when="1865-05-05">5<hi rend="sup">th</hi> May 1865</date></p>
+<lb/>Affidavit for Requisition
+<lb/>issued <date when="1865-05-05">5<hi rend="sup">th</hi> May 1865</date></p>
 <p>(Forwarded)</p>
   </body>
  </text>

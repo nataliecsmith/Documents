@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1414"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Richard H. Stanton et al. to Beriah Maoffin</title>
+    <title level="a" type="main">Richard H. Stanton to Beriah Maoffin</title>
     <title level="a" type="parallel">CWG10882</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,36 +65,36 @@
   <body>
    <p>Carlisle, Ky,
 <lb/><date when="1861-09-17">Sep 17 1861</date>
-<lb/>Hon B. Magoffin,</p>
-<p>Sir, Our friend W<hi rend="sup">m</hi> Still became security upon a replevin bond for Michel Burns, who was fined at the last term of the Nicholas Circuit Court $50, for carrying concealed deadly weapons, Since the bond was given Burns has died ^without any means or property,^ and M<hi rend="sup">r</hi> Still now asks that the amount thereof may be remitted. I respectfully unite in that request and ask that M<hi rend="sup">r</hi> Still may be released, and the amount of the bond remitted,</p>
+<lb/>Hon B, Magoffin,</p>
+<p>Sir, Our friend W<hi rend="sup">m</hi> Still became security upon a replevin bond for Michel Burns, who was fined at the last term of the Nicholas Circuit Court &#36;50, for carrying concealed deadly weapons, Since the bond was given Burns has died ^without any means or property,^ and M<hi rend="sup">r</hi> Still now asks that the amount thereof may be remitted. I respectfully unite in that request and ask that M<hi rend="sup">r</hi> Still may be released, and the amount of the bond remitted,</p>
 <p>Respectfully, 
-<lb/>Your Obt Sevt 
+<lb/>Your Obt Svt 
 <lb/>R H Stanton</p>
 <p>We, citizens of Nicholas County, recommend to the Governor, the propriety of remitting the above. <date when="1861-09-18">Sept. 18, 1861.</date></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>John F M<hi rend="sup">c</hi>Millan
+<p><milestone unit="column" n="2"/><cb n="1"/>John F, M<hi rend="sup">c</hi>Millan
 <lb/>E. M. Ewing
 <lb/>Robert Sims
 <lb/><cb n="2"/>Benj. F. Edwards
 <lb/>W. P. Ross
-<lb/>R B Kiddard
+<lb/><hi rend="underline">R B Kiddard</hi>
 <lb/>A. J. Banta
 <lb/>William Norvell
 <lb/>E C Burden
 <lb/>Thomas E. Quisenberry
 <lb/>A J Bante Jnr
-<lb/><hi rend="underline">J. L. Arnold</hi>
-<lb/>John M. Ball
+<lb/><hi rend="underline">J. L.</hi> <hi rend="underline">Arnold</hi>
+<lb/>John M, Ball
 <lb/>J H Holladay
 <lb/>W. W. Howard
 <lb/>Fitch Munger
 <lb/>Milford Berry
 <lb/>Jonathan Johnson<milestone unit="column" n="1"/><pb/></p>
 <p>Nicholas Cir. Ct
-<lb/>$50. } Weapons
+<lb/>&#36;50. &#125; Weapons
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Still
-<lb/>Iss<hi rend="sup">d</hi>. <date when="1861-09-20">Sept 20.<hi rend="sup">th</hi> 1861</date></p>
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-09-20">Sept 20.<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date><figure type="hr"/></p>
 <p>Remitted
-<lb/>B. M. </p>
+<lb/>B, M </p>
   </body>
  </text>
 </TEI>

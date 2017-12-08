@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0121"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,20 +64,19 @@
  <text>
   <body>
    <p>Mt. Sterling Ky. <date when="1864-08-16">Aug. 16<hi rend="sup">th</hi> 1864</date>
-<lb/>Gov. T. E. Bramlette
+<lb/>Gov. T. E. Bramlette,
 <lb/>Dear Sir,</p>
 <p>Being Judge of this County, the people think it is proper &amp; right that I should make inquiry &amp; endeavor to ascertain the number of negroes who are credited to this (Montgomery) County on the rolls in the state Military department at Frankfort.</p>
-<p>There ^were^ recruited here during the spring from 125 to perhaps 175 negroes, by the U. S. Military Authorities. Now I desire to know how many we have credit for. I see a notice in the Louisville Journal of Commissioner Flint suggesting the propriety of County Judges appointing commissioners in their respective counties to ascertain the number of negroes enlisted from each county. My object is to know the number we have credit for, &amp; if it does not seem enough, we will take some steps immediately to ascertain the Correct number to which this county is entitled. Will you be so kind as to <hi rend="str">have <unclear/></hi> refer the matter to the Adjt. Genl. who will please send me a statement of the number &amp;c ^as early as possible^ of negro recruits credited to this County &amp; oblige</p>
-<p>Yours Most Respectfully.
+<p>There ^were^ recruited here during the spring from 125 to perhaps 175 negroes, by the U. S. Military Authorities. Now I desire to know how many we have credit for. I see a notice in the Louisville Journal of Commissioner Flint suggesting the propriety of County Judges appointing commissioners in their respective counties to ascertain the number of negroes enlisted from each county. My object is to know the number we have credit for, &amp; if it does not seem enough, we will take some steps immediately to ascertain the Correct number to which this county is entitled. Will you be so kind as to <hi rend="str">have <unclear/> <unclear/></hi> refer this matter to the Adjt. Genl. who will please send me a statement of the number &amp;c ^as early as possible^ of negro recruits credited to this County &amp; oblige</p>
+<p>Yours Most Respctflly.
 <lb/>C. Brock<pb/></p>
-<p>MONTGOMERY
-<lb/>Mt Sterling Ky
+<p>Mt Sterling Ky
 <lb/><date when="1864-08-16">Aug 16<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
 <lb/>Brock C.
 <lb/>Judge of Co Ct<figure type="hr"/></p>
-<p>Being Judge of county court, thinks it proper and right to inquire and endeavor to ascertain the number of negros credited to Montgomery County</p>
+<p>Being Judge of county court, thinks it proper and right to inquire and endeavor to ascertain the number of negros credited to Montgomery County.</p>
 <p>Says that 125, perhaps 175 have been recruited by the U. S. military authorities<figure type="hr"/>
-<lb/>L. B. No 5 - <date when="1864">1864</date> - P.. 479<figure type="hr"/>
+<lb/>L. B. No 5 -- <date when="1864">1864</date> -- P.. 479<figure type="hr"/>
 <lb/>Rec<hi rend="sup">d</hi> A. G. O <date when="1864-08-18">Aug 18. 1864</date></p>
   </body>
  </text>

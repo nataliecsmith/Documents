@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1596"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Henry Topmiller et al. to Beriah Magoffin</title>
+    <title level="a" type="main">Henry Topmiller and Bernard Topmiller to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG11064</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,8 +64,8 @@
  <text>
   <body>
    <p>To Beriah Magoffin Governor of Ky</p>
-<p>Your Petitioners Bernard and Henry Topmitter, would respectfully represent to your honour that, they were sentenced to the Penetentiary for one year this day. they were charged with Steeling 22 geese and they state that the geese as they believed belonged to them but owing to the instruction of the Court they were convicted of steeling them when they had no such intention wherefore they pray that they be reprieved and your Petitioners will ever pray &amp;C,</p>
-<p>Covington Ky <date when="1861-12-31">Dec 31<hi rend="sup">st</hi> 1861</date></p>
+<p>Your Petitioners Bernard and Henry Topmitter, would respectfully represent to your honour that, they were sentenced to the Penetentiary for one year this day. they were charged with Steeling 22 geese and they state that the geese as they believed belonged to them but owing to the instruction of the Court they were convicted of steeling them when they had no such intention wherefore they pray that they be reprieved and your petitioners will ever pray &amp;C,
+<lb/>Covington Ky <date when="1861-12-31">Dec 31<hi rend="sup">st</hi> 1861</date></p>
 <p>Henry Topmiller
 <lb/>Bernard Topmiller</p>
 <p>We the undersigned Jury men who tried the case of the Commonwealth against Henry &amp; Bernhard TopMiller respectfully join in the forgoing petition for a release or reprieve of said Topmillers as we felt from the instructions of the Court to find them guilty but we think they both ought to be reprieved this <date when="1861-12-31">31<hi rend="sup">st</hi> day of December 1861</date></p>
@@ -77,15 +80,16 @@
 <lb/>H C Boswell
 <lb/>J B Wassen
 <lb/>August Droscher
-<lb/>Henry L Halley.
+<lb/>Henry S Halley
 <lb/>Ennis Thomas<milestone unit="column" n="1"/><pb/></p>
 <p>Cov <date when="1861-12-31">Dec <hi rend="str">29</hi>31<hi rend="sup">st</hi> 1861</date></p>
-<p>Dear Gov. The foregoing names are the names of the Jury men that tried the case they <hi rend="str">ha</hi> asked me to draw up a petition asking the remission or their reprieve the statements in the Petition I know are true will you please attend to this at your earliest opportunity and direct to me at Covington Ky</p>
+<p>Dear Gov. The foregoing names are the names of the Jury men that tried the case they <hi rend="str">ha</hi> asked me to draw up a petition asking the remission or their reprieve the statements in the Petition I know are true</p>
+<p>will you please attend to this at your earliest opportunity and direct to me at Covington Ky</p>
 <p>Yours with all due respects
-<lb/>S. C. Perrin</p>
+<lb/>S C Perrin</p>
 <p>B Magoffin
 <lb/>Franfort Ky</p>
-<p>Kenton Cir. Ct
+<p>Kenton Cir. ct
 <lb/>Henry &amp; Bernard Topmiller
 <lb/>Stealing 22 geese
 <lb/><hi rend="str">2</hi>1 yrs Penty

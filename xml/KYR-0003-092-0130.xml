@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0130"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,14 +65,14 @@
   <body>
    <p>Louisville Ky
 <lb/><date when="1862-08-16">April 16<hi rend="sup">th</hi> 1862</date>.</p>
-<p>I have just examined the body of the late Geo. W. Johnson, and can state in positive terms that I am able to identify the body beyond all doubt. I travelled to Virginia with him last <date when="1861-08">August,</date> when he showed me the old injury to his left arm and hand; which I now perceive was damaged. I am also able to recognize the face.</p>
-<p>He had two wounds: -- One in the right thigh, a flesh wound, and not mortal:- a second in the abdomen about half way between the navel and pubis a little to right of the median line. This last<pb/>
+<p>I have just examined the body of the late Geo. W, Johnson, and can state in positive terms that I am able to identify the body beyond all doubt. I travelled to Virginia with him last <date when="1861-08">August,</date> when he showed me the old injury to his left arm and hand; which I now perceive <unclear>unchanged</unclear>. I am also able to recognize the f<unclear/>.</p>
+<p>He rec<hi rend="sup">d</hi> two wounds: -- One in the right thigh, a flesh wound, and not mortal:- a second in the abdomen about half way between the navel and pubis a little to right of the median line. This last<pb/>
 <lb/>wound was, beyond doubt, the cause of his death. He must have died very soon after receiving this last wound; probably from loss of blood, and with very little suffering.</p>
-<p>Both of his wounds were rec<hi rend="sup">d</hi> in front and were apparently from minie balls.</p>
+<p>Both of his wounds were rec<hi rend="sup">d</hi> in front and were apparently from mine balls.</p>
 <p>G. W. Bayless
-<lb/>John Matthews</p>
-<p>Doctors, Bayliss &amp; Matthews, at my request, have been with me in this examination and I have no dificulty in recognising the remains of my friend.</p>
-<p><hi rend="underline">Geo. Hancock</hi></p>
+<lb/>John <unclear/> Matthews</p>
+<p>Doctors, Bayliss &amp; Matthews- at my request, have been with me in this examination and I have no dificulty in recognising the remains of my friend.</p>
+<p><hi rend="underline">Geo: Hancock</hi></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0045"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,21 +64,21 @@
  <text>
   <body>
    <p>Washington <date when="1862-10-14">14 Octo 62</date>
-<lb/>Gov J. F. Robinson
+<lb/>Gov J. F Robinson
 <lb/>Dear Sir.</p>
-<p>I failed to get an interview with Mr. Stanton till Sunday -- Both he &amp; the President were present -- They both gave your letter careful consideration -- </p>
-<p>While they have not done all that I desire to be done -- The department <hi rend="str">have</hi> has given such instructions to Genl Wright as will prevent the repetetion of such abuses as we have had from petty provost marsalls in the future -- and in a seperate order directed him to arrest any Provost Marshall in the state who has in any way used the power given; to<pb/>
+<p>I failed to get an interview with Mr Stanton till Sunday -- Both he &amp; the President were present- They both gave your letter careful consideration -- </p>
+<p>While they have not done all that I desire to be done -- The department <hi rend="str">have</hi> has given such instructions to Genl Wright as will <unclear>prevent</unclear> the repetetion of such abuses as we have had from petty provost marshalls in the future -- and in a seperate order directed him to arrest any Provost Marshall in the state who has in any way used the power given; to<pb/>
 <lb/>exact fees from parties arrested for administering the oath -- or who have in any way abused their trust for private gain -- </p>
 <p>Now if we can have one or two of these rascals punished it will do us much good in the future and effectively stop this nuisance -- </p>
 <p>The Govt is anxious to make an example of some of them -- and they will rely upon you as Gov and the loyal citizens of Ky to give Genl Wright the necessary information -- </p>
-<p>Your despatch about Morgans men came too late the matter had been decided in the morning -- I saw Genl Halleck in the<pb/>
+<p>Your despatch about Morgans Men came too late the matter had been decided in the morning -- I saw Genl Halleck in the<pb/>
 <lb/>evening &amp; submitted your despatch to him -- </p>
-<p>He said that the who<hi rend="str"><unclear/></hi>le matter had been considered -- That he must send men where according to his judgment they are most needed.</p>
+<p>He said that the who<hi rend="str"><unclear/></hi>le matter had been considered -- That he must send men where according to his judgment they were most needed.</p>
 <p>I will leave here on thursday &amp; See Genl Wright as I return -- You will I trust find that my visit here has been productive of much good</p>
 <p>Your friend &amp;c
 <lb/>J. F. Speed.</p>
 <p>Recd Finnells letter for Carbines will try &amp; get some.<pb/></p>
-<p>J. F. Speed</p>
+<p>J, F Speed</p>
   </body>
  </text>
 </TEI>

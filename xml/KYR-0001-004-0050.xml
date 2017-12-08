@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0050"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,8 +67,8 @@
 <lb/>Revenue <date when="1862">1862</date></p>
 <p><table rend="rules">
 <row>
-	<cell>Judgment for Principles</cell>
-	<cell>$3269.70</cell>
+	<cell>Judgment for Principle</cell>
+	<cell>&#36;3269.70</cell>
 </row>
 <row>
 	<cell>" " Damages</cell>
@@ -75,16 +78,15 @@
 	<cell>" " Cost</cell>
 	<cell>7.45</cell>
 </row>
-</table>
-<lb/>Paid in full except Damages
-<lb/><date when="1863-09-24">Sept 24<hi rend="sup">th</hi> 1863</date></p>
+</table></p>
+<p>Paid in full except Damages
+<lb/><date when="1863-09-24">Sept 24<hi rend="sup">th</hi> 1863 -- </date></p>
 <p>Attest Grant Green Aud
-<lb/>By C. Bailey Asst<pb/></p>
+<lb/><hi rend="underline">By C. Bailey Asst</hi><pb/></p>
 <p>Remit the damages
-<lb/><date when="1863-09-24">Sept 24" 1863</date>
+<lb/><date when="1863-09-24">Sept 24<hi rend="sup">th</hi> 1863</date>
 <lb/>Tho E Bramlette</p>
-<p>Franklin
-<lb/>Ct Court
+<p>Franklin Ct Court
 <lb/>J. M. Harper
 <lb/>Shff
 <lb/>Caldwell Co.</p>

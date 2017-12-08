@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0101-001-0001"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>##</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +44,7 @@
       <settlement>Lexington</settlement>
       <repository>Mary Todd Lincoln House, A Property of Kentucky Mansions Preservation Foundation, Inc.</repository>
       <collection>Helm Place Collection</collection>
-      <idno/>
+      <idno></idno>
      </msIdentifier>
     </msDesc>
    </sourceDesc>
@@ -68,15 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000337">Louisville</placeName>, <date when="1863-05-15">May 15<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date> -- 
+   <p>Louisville, <date when="1863-05-15">May 15<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date> -- 
 <lb/>Sir,</p>
-<p>There is a man in the <orgName ref="cwgk:O00000266">Penetentiary </orgName>named <persName ref="cwgk:N00000267">Calvin Fairbanks</persName> -- He was sent from this city ten or twelve years ago for stealing negroes -- I witnessed a part of his trial, and am satisfied that he was a fanatic, his stealing was not from a love of gain or revenge, but from a mistaken sense of his duty as a philanthropist. The punishment he has already suffered is a sufficient warning to others not to be guilty of a like mistake. If his fault was a grievous one, grievously has he answered it -- </p>
+<p>There is a man in the Penetentiary named Calvin Fairbanks- He was sent from this city ten or twelve years ago for stealing negroes -- I witnessed a part of his trial, and am satisfied that he was a fanatic, his stealing was not from a love of gain or revenge, but from a mistaken sense of his duty as a philanthropist. The punishment he has already suffered is a sufficient warning to others not to be guilty of a like mistake. If his fault was a grievous one, grievously has he answered it -- </p>
 <p>I trust sir, that you may find it consistent with your sense of duty to pardon the poor fellow, that he may have some chance to do good for the remainder of his days -- </p>
 <p>I am Sir, most
 <lb/>respectfully your
 <lb/>obt servt
-<lb/><persName ref="cwgk:N00000205">James Speed</persName></p>
-<p>Gov <persName ref="cwgk:N001004">James F, Robinson</persName>,<lb/>Frankfort,
+<lb/>James Speed</p>
+<p>Gov James F, Robinson,
+<lb/>Frankfort,
 <lb/>Ky -- <pb/></p>
 <p>Gov<hi rend="sup">r</hi> James F Robinson,
 <lb/>Frankfort,

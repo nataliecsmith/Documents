@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0008"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,11 +67,11 @@
 <lb/><date when="1864-06-08">June 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.
 <lb/>His Excellency
 <lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlette
-<lb/>Gov<hi rend="sup">r</hi> State Ky,
+<lb/>Gov<hi rend="sup">nr</hi> State Ky,
 <lb/>Govenor.</p>
 <p>I have the honor to enclose a letter from Col Wolford.</p>
 <p>I saw him on Monday, and he was pleased to say, that he would be glad if you would at once issue my commission</p>
-<p>He requested me to say to you, that it would be necessary to have a mustering officer at Lebanon by the <date when="1864-08-19">19<hi rend="sup">th</hi> inst</date> -- as the Companies would be on the ground by that time.</p>
+<p>He requested me to say to you, 'that it would be necessary to have a mustering officer at Lebanon by the <date when="1864-08-19">19<hi rend="sup">th</hi> inst</date> -- as the Companies would be on the ground by that time.</p>
 <p>He is confident that he will have more than enough to fill his Regiment.</p>
 <p>I have the honor to be your most obt servt.
 <lb/>Al. D. Hynes.</p>
@@ -76,16 +79,14 @@
 <lb/>1 Reg<hi rend="underline"><hi rend="sup">t</hi></hi> Capitol Guard
 <lb/><date when="1864-05-15">May 15. 1864</date><pb/></p>
 <p>Bardstown Ky
-<lb/><date when="1864-06-08">June 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
-<lb/>1 Reg<hi rend="underline"><hi rend="sup">t</hi></hi> Capitol Guard<figure type="hr"/>
-<lb/>Co. B
-<lb/>4<hi rend="underline"><hi rend="sup">th</hi></hi> Cavalry
+<lb/><date when="1864-06-08">June 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
+<p>1 Reg<hi rend="underline"><hi rend="sup">t</hi></hi> <hi rend="underline">Capitol Guard</hi><figure type="hr"/>
 <lb/>Hynes Al. D<figure type="hr"/></p>
 <p>To the Governor inclosing note from Col Wolford recommending him for Adjt of his regiment. Will need a mustering officer at Lebanon by the <date when="1864-08-19">19<hi rend="underline"><hi rend="sup">th</hi></hi>.</date><figure type="hr"/></p>
 <p>Issue commission as Adjt. This regiment will be mustered into the state service only and be held for capital defence</p>
 <p>Tho E Bramlette</p>
-<p><note place="body">Com issd &amp; fow<hi rend="sup">d</hi>
-<lb/><date when="1864-06-17">June 1<hi rend="str">5</hi>7 1864</date><figure type="hr"/></note>
+<p>Com iss<hi rend="sup">d</hi> &amp; fow<hi rend="sup">d</hi>
+<lb/><date when="1864-06-17"><hi rend="underline">June 1</hi><hi rend="underline"><hi rend="str">7</hi></hi><hi rend="underline">5 1864</hi></date><figure type="hr"/>
 <lb/>Rec<hi rend="sup">d</hi> A G O. <date when="1864-06-15">15 June 1864</date></p>
   </body>
  </text>

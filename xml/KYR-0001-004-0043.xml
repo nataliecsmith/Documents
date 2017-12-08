@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0043"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,41 +63,40 @@
  <text>
   <body>
    <p>To His Excellency
-<lb/>The Governor of Kentucky</p>
-<p>The undersigned who are all citizens of Paducah Ky state that they are acquainted with M<hi rend="sup">rs</hi> L. J. Trowell who was fined at our last Court for permitting slave to go at large and trade for himself. The fine is $40. &amp; costs. She is poor and since the Army has been here viz. <date when="1861-09-06">6<hi rend="sup">th</hi> Sept 1861</date> she has been unable to control said slave who is a man and the meanest negro in Kentucky. She has all the while tried by warning and otherwise to keep persons from trading with him. Such was the evidence and such the facts in the case. Mrs Trowell was from home when case was tried and did not know of trial. The sheriff has the execution. We do think the case is entitled to Executive Clemency. -- </p>
+<lb/>The Govenir of Kentucky</p>
+<p>The undersigned who are all citizens of Paducah Ky -- state that they are acquainted with M<hi rend="underline"><hi rend="sup">rs</hi></hi> L. J. Trowell who was fined at our last Court for permitting slave to go at large and trade for himself. The fine is &#36;40. &amp; costs -- She is poor and Since the Army has been here viz. <date when="1861-09-06">6<hi rend="sup">th</hi> Sept 1861</date> she has been unable to control said slave who is a man and the meanest negro in Kentucky. She has all the while tried by warning and otherwise to keep persons from trading with him -- Such was the evidences and such the facts in the case -- M<hi rend="underline"><hi rend="sup">rs</hi></hi> Trowell was from home whin case was tried and did not know of trial -- The Sheriff has the execution -- We do think the case is entitled to Executive Clemency, -- </p>
 <p><milestone unit="column" n="2"/><cb n="1"/>G W Ratcliffe
 <lb/>William Nolen
-<lb/>P C Ross
-<lb/>B F Gross
-<lb/>Thos Moore
+<lb/>P, C, Ross
+<lb/>B, F Gross
+<lb/>Thos moore
 <lb/>S. H. Stone
 <lb/>Josiah Watts
-<lb/><cb n="2"/>J. B. Husbands
-<lb/>G. H. Morrow
+<lb/><cb n="2"/>J, B, Husbands
+<lb/>G, H, Morrow
 <lb/>Robt Davis
 <lb/>R S Ratcliffe
-<lb/>L. T. Trimble
+<lb/><hi rend="underline">L, S, Trimble</hi>
 <lb/>G. A. Flournoy
-<lb/>A. G. See<milestone unit="column" n="1"/><pb/>
+<lb/>A. G. Lee<milestone unit="column" n="1"/><pb/>
 <lb/>Wm. W. Herndon
-<lb/>John Q. A. King
+<lb/><hi rend="underline">John Q. A. King</hi>
 <lb/>D A Given
-<lb/>R M Haydock
-<lb/>G. F. Robb
-<lb/>W. F Norton
+<lb/>R, M, Haydock
+<lb/>G. F. Rabb
+<lb/>W F Norton
 <lb/>John C Steele
 <lb/>Jo<hi rend="sup">s</hi> Fowler
-<lb/>A. J. Baily
-<lb/>W<hi rend="sup">m</hi> T Overstreet<pb/></p>
-<p>McCracken
-<lb/>Cir Ct
+<lb/>A, I, Baily
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> T Overstreet.<pb/></p>
+<p>M<hi rend="sup">c</hi>Cracken Cir Ct
 <lb/>vs
-<lb/>Mrs. F. J. Trowell
-<lb/>$40 -- 
-<lb/>Remit<hi rend="sup">d</hi> <date when="1863-09-14">14<hi rend="sup">th</hi> Sept/63</date></p>
-<p>Remit all except attys part &amp; costs
-<lb/><date when="1863-09-14">Sept 14<hi rend="sup">th</hi> 1863</date>
-<lb/>Thos. E. Bramlette</p>
+<lb/>Mrs L. J. Trowell
+<lb/>&#36;40 -- 
+<lb/>Remit<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-09-14">14<hi rend="sup">th</hi> Sept/63</date></p>
+<p>Remit all except Attys part &amp; costs
+<lb/><date when="1863-09-14">Sep<hi rend="underline"><hi rend="sup">t</hi></hi> 14<hi rend="sup">th</hi> 1863</date>
+<lb/>Tho. E. Bramlette</p>
   </body>
  </text>
 </TEI>

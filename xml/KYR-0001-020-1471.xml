@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1471"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Commonwealth of Kentucky v. Henry Self and William Burns, Judgment</title>
+    <title level="a" type="main">Jefferson Circuit Court, Order</title>
     <title level="a" type="parallel">CWG10939</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,16 +64,16 @@
  <text>
   <body>
    <p>State of Kentucky <date when="1861-10">October Term 1861</date>
-<lb/>Jefferson Circuit Court <date when="1861-10-21">October 21 1861</date>
-<lb/>The Commonwealth Plff
-<lb/>vs } Indict felony
+<lb/>Jefferson Circuit Court <date when="1861-10-21">October 21 1861</date></p>
+<p>The Commonwealth Plff
+<lb/>vs Indict felony
 <lb/>Henry Self &amp; William Burns Defts</p>
-<p>The deft Henry Self being solemnly called to appear in discharge of the recognizance entered into by him in this Court on the <date when="1861-05-11">11 day of May 1861,</date> came not but made default. It is therefore considered by the Court that the Clerk of this Court issue a writ of Scire facias against the said Henry Self together with Green Self his bail returnable to the next Term of this Court to show cause if any they have or can why the Commonwealth shall not have Judgement and execution thereon against them for the sum of five hundred dollars each according to the form and effect of said recognizance and for a breach of the conditions thereof</p>
-<p>A Copy Attest
+<p>The deft Henry Self being solemnly called to appear in discharge of the recognizance entered into by him in this Court on the <date when="1861-05-11">11 day of May 1861,</date> came not but made default, It is therefore considered by the Court that the Clerk of this Court issue a writ of Scire facias against the said Henry Self together with Green Self his bail returnable to the next Term of this Court to show cause if any they have or can why the Commonwealth shall not have Judgement and execution thereon against them for the sum of five hundred dollars each according to the form and effect of said recognizance and for a breach of the conditions thereof</p>
+<p>A copy attest
 <lb/>Lee Chambers D C
 <lb/>for James P Chambers c<pb/></p>
 <p>Commonwealth
-<lb/>vs } Copy Order
+<lb/>vs &#125; Copy Order
 <lb/>Henry Self &amp;<hi rend="sup">c</hi></p>
   </body>
  </text>

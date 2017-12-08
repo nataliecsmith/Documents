@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0239"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,28 +64,28 @@
   <body>
    <p>To his Excellency
 <lb/>Thomas E Bramlette</p>
-<p>We the undersigned citizens of Harrison County most Respectfully petition that Geo Sidle be pardoned from from the Penitentary <hi rend="str">has sentences</hi> having been ^<hi rend="str">found</hi> convicted^ by a Jury in the Harrison Circuit Court, &amp; sentenced to confinement in <unclear>Purdatuin</unclear> for 2 years and Eleven months<figure type="hr"/></p>
+<p>We the undersigned citizens of Harrison County Most Respectfuly petition that Geo Sidle be pardoned from the Penitentary <hi rend="str">his sentence</hi> having been ^<hi rend="str">found</hi> convicted^ by a Jury in the Harrison Circuit Court &amp; sentenced to confinement in the <unclear>Pentation</unclear> for 2 years and Eleven months<figure type="hr"/></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Names
 <lb/>Fieldon Stone
 <lb/>Cornelius Dunn
-<lb/>Wm Courtney
-<lb/>Jas W Lathe
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> C Gragg MD
-<lb/>William N. Scott MD
+<lb/>W<hi rend="sup">m</hi> Courtney
+<lb/>Jas W. Lathe
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> C. Gragg M D
+<lb/>William. N. Scott.. M D
 <lb/>H. H. Harding
 <lb/>William Bishop
 <lb/>Henry Basket
 <lb/>Harrison Cummins
 <lb/>William Simms
 <lb/>H. L. Webb
-<lb/>E T. Long
+<lb/>E. T. Long
 <lb/>James S Long
 <lb/>Joseph Smith
 <lb/>Levi Wells
 <lb/>G W Burns
 <lb/>W T Burns
-<lb/>W. W. Talbert
-<lb/><cb n="2"/>Names.</p>
+<lb/>W, W, Talbert
+<lb/><cb n="2"/>Names-</p>
   </body>
  </text>
 </TEI>

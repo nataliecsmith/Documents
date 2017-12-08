@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0105"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,19 +65,19 @@
   <body>
    <p>Eminence Henry County Ky. <date when="1864-01-01">Jan <hi rend="underline">1st 1864</hi></date>
 <lb/>A Remonstrance
-<lb/>To His Excellency Thomas E Bramlette Gov of Ky</p>
-<p>The undersigned having heard that application had been made to your Excellency for a remission of the bond, in the case of the Commonwealth agai^n^st George Myres <hi rend="str">tried</hi> in the Henry Circuit Court charged with horse stealing to which C M Mathews is security, &amp; hearing that you had stayed the execution of jugements in the case, and believeing that the bond should be paid, and that you would not remit the bond upon a knowledge of the following facts would respectfully submit, the following. That Mathews was council for Myres and was fully acquianted with all the facts in the case, &amp; that had he made his appearance for trial he would undoubtedly have been sent to the penitentiary ^for^ <hi rend="str">of</hi> a term of years. That Mathews was fully secured against loss in signing the bond, by Myres giving him a title to his farm in Indiana worth a great deal more than the amount of the bond, also received from him two horses and it is believed an amount of Money besides, in short <hi rend="str">your</hi> we believe Mathews was made safe in signing the bond of Myres. Also that the Legislature of Ky at its last session, upon a full &amp; fair presentation of all the facts in the case appropriated five hundred dollars of the bond money to the loosers of the property. When collected and paid into the state Treasury. And Now in consideration of the above representation, &amp; in as much as the loosers of the property spent over two hundred dollars ($200) in search of the stolen property, we respectfully ask that you do no remit the bond, and that you remove the hindrance to the execution of the judgement of the Court<pb/></p>
+<lb/>To His Excellency Thomas E Bramlette Gov of Ky.</p>
+<p>The undersigned having heard that application had been made to your Excellency for a remission of the bond, in the Case of the Commonwealth agai^n^st George Myres <hi rend="str">tried</hi> in the Henry Circuit Court charged with horse stealing. to which C M, Mathews is security, &amp; hearing that you had stayed the execution of jugements in the case, and believeing that the bond should be paid, and that you would not remit the bond upon a knowledge of the following facts would respectfully Submit, the following; That Mathews was council for Myres and was fully acquianted with all the facts in the case, &amp; that had he made his appearance for trial he would undoubtedly have been sent to the penitentiary ^for^ <hi rend="str">of</hi> a term of years. That Mathews was fully secured against loss in signing the bond, by Myres giving him a title to his farm in Indiana worth a great deal more than the amount of the bond, also received from him two horses and it is believed an amount of Money besides, in short <hi rend="str">your</hi> we believe Mathews was made safe in signing the bond of Myres, Also that the Legislature of Ky at its last session, upon a full &amp; fair presentation of all the facts in the case appropriated five hundred dollars of the bond money to the loosers of the property. When collected and paid into the state Treasury, And thou in Consideration of the above representation, &amp; in as much as the loosers of the property spent over two hundred dollars (&#36;200) in search of the stolen property, we respectfully ask that you do no remit the bond, and that you remove the hindrance to the execution of the judgement of the Court,<pb/></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>John A Hornsby
-<lb/>J. W Moody
+<lb/>J. W. Moody
 <lb/>S W Gould
 <lb/>S. T. Drane
-<lb/>P Thorn Callaway
+<lb/>J Thorn Callaway
 <lb/>Thomas Todd
-<lb/>J. M. Callaway
-<lb/>Ja<hi rend="sup">s</hi>. H. Drane
+<lb/>J M Callaway
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi>. H. Drane
 <lb/>Leonard Drane
 <lb/>Luke Hopkins
-<lb/><cb n="2"/>J. P. Sparks<milestone unit="column" n="1"/><pb/></p>
+<lb/><cb n="2"/><hi rend="underline">J. P. Sparks</hi><milestone unit="column" n="1"/><pb/></p>
 <p>Papers in relation to the Mathews case
 <lb/>Remonstrance</p>
   </body>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0116"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">George W. Johnson to Anne E. V. Johnson</title>
+    <title level="a" type="main">George W. Johnson to Ann E. V. Johnson</title>
     <title level="a" type="parallel">CWG14408</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,19 +63,19 @@
  </teiHeader>
  <text>
   <body>
-   <p><note place="left margin">XXX Direct your letter <hi rend="str">George</hi> to me ^here^ and inclose it in an Envelope and that in another Envelope and <hi rend="underline">direct</hi> that to <hi rend="underline">George W -- Norton at Russelville Ky -- Care of the Commerical Bank at Paducah"</hi></note></p>
+   <p><note place="left margin">XXX Direct your letter <hi rend="str">George</hi> to me ^here^ and inclose it in an Envelope and that in another Envelope and <hi rend="underline">direct</hi> that to <hi rend="underline">George W -- Norton</hi> <hi rend="underline">at Russelville Ky -- Care of the Commerical Bank at Paducah</hi>"</note></p>
 <p>Bowling Green Ky
 <lb/><date when="1861-12-16">Dec 16. 1861</date>.
 <lb/>My Dear Ann</p>
 <p>I have not written to you for some time and have dispaired of hearing from you at all. I know that you have written often, as I have to you, but I presume my letters to you are intercepted and detained as I presume yours are to me. I now hope that this may reach you, as I send this by means which hope will be successfull You must continue to make efforts to get a letter to me, as one may reach me at last; and I would prize it more than any thing else on earth. No letter or direct information from any of you, has ever reached me since I left home in September.</p>
-<p>I am now here, in good health, and Matty is with Capt Morgan a few miles out of the Town. The power which has been placed in my hands, by the People here, I intend to use for the Benefit of the People in every part of the State, and of every party so far as that is possible in consistence with a fixed and unalterable determination for it to remain in the Southern Confederacy.<pb/>
-<lb/>In other words, I intend to adhere <unclear>till</unclear> death to the position taken, by our People, no private Citizen shall be able to say truly that I have injured him. Of course you know that our State is admitted into the Southern Confederacy and our Deputies elected to Richmond else I would not state it in this letter, for it the condition under which I am now writing to you, to state nothing of a political or military character.</p>
-<p>Matty had a severe attack of measles several weeks ago, but I took up to Gen Buckners head quarters, where I then worked, and he was well taken care of and has entirely recovered -- Since his recovery he has been on two Scouting Expeditions, beyond Green River and Resorted to burn the bridge over Bacon Creek under the noses of the enemy. Morgan is an Excellent Officer, much talked of here intelligent, active daring and prudent also. He thinks a great deal of Matty and is very kind to him -- The character of his service is very dangerous, but I trust that God will protect our son.</p>
-<p>George Ward is now here from Lake Washington, to see Junius who is much better than he has been and does service every day. I saw Breckridge however on <pb/>
+<p>I am now here, in good health, and Matty is with Capt Morgan a few miles out of the Town. The power which has been placed in my hands, by the People here, I intend to use for the benefit of the People in every part of the State, and of every party. so far as that is possible in consistence with a fixed and un<hi rend="str">l</hi>alterable determination for it to remain in the Southern Confederacy.<pb/>
+<lb/>In other words, I intend to adhere till death to the position taken, by our People, no private Citizen shall be able to say truly that I have injured him. Of cource you know that our State is admitted into the Southern Confederacy and our Deputies elected to Richmond Else I would not state it in this letter, for it the condition under which I am now writing to you, to state nothing of a political or military character.</p>
+<p>Matty had a severe attack of measles several weeks ago, but I took up to Gen Buckners head quarters, where I then messed, and he was well taken care of and has entirely recovered -- Since his recovery he has been on two Scouting Expeditions, beyond Green river and <unclear>reported</unclear> to burn the bridge over Bacon Creek under the noses of the enemy. Morgan is an excellent Officer, much talked of here intelligent, active daring and prudent also. He thinks a great deal of Matty and is very kind to him -- The character of his service is very dangerous, but I trust that God will protect our son.</p>
+<p>George Ward is now here from Lake Washington, to see Junius who is much better than he has been. and does service every day. I saw Breckridge however -- on <pb/>
 <lb/>yesterday, who thinks it best to give Junius a furlough for a short time, and I concur fully with him. He will probably start tomorrow for the South.</p>
-<p>John Viley is also very well. He and Matty and Lewis Payne have grown very much. Matty's uniform cant be worn by him. <unclear>These</unclear> are all in the finest health now, freezing for a fight which may be very near or very distant -- it being impossible to tell any thing about it. </p>
-<p>Remus Paynes' sons are all well. John Breckenridge told me to say, that he had said to all of them, that when they were sick they must at once report to him -- He himself has had a very severe attack of Jandice, but is now, I consider, well His eye are no longer yellow and he looks very well indeed</p>
-<p>How often do I think of you, my dear wife; and of you, my children, may God in his infinite mercy, bless you and protect better than I have been able to do. I have no heart, to think of my home except in connection with you. You must manage every thing as you please. Give my love to <hi rend="underline">all</hi> our friends. I do not name them because I have not Space.</p>
+<p>John Viley is also very well. He and Matty and Lewis Payne, have grown very much. Matty's Uniform cant be worn by him. There are all in the finest health now, freezing for a fight. which may be very near or very distant -- it being impossible to tell any thing about it. </p>
+<p>Remus Paynes' sons are all well. John Breckenridge told me to say, that he had said to all of them, that when they were sick they must at once report to him- He himself has had a very severe attack of Jaundice, but is now, I consider, well His eyes are no longer yellow and he looks very well indeed</p>
+<p>How often do I think of you, my dear wife; and of you, my children, may God in his infinite mercy, bless you and protect better than I have been able to do. I have no heart, to think of my home except in connection with you. You must manage every thing as you please. Give my love to <hi rend="underline">all</hi> our friends. I do not name them because I have not Space-</p>
 <p>Your Husband
 <lb/>George W Johnson<pb/></p>
 <p>M<hi rend="underline"><hi rend="sup">rs</hi></hi> Ann E. Johnson

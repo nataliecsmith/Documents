@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0213"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,25 +64,25 @@
   <body>
    <p>(John S Fisher)</p>
 <p>To His Excellency Gov Bramlett</p>
-<p>The undersigned a citizen of Christian County Ky would respectfully represent that at the last <date when="--03">March term</date> of the Christian Circuit Court he was tried under an indictment for Usurpation of the office of Jailer of said county and fined the sum of five Hundred Dollars. That under the order of the Confederate General while their army occupied Hopkinsville the Keys of the Jail for three or four days were placed in his hands this was the extent of his connection with that office, that he emprisioned no one <hi rend="str">one</hi> while thus acting. He sincerely regrets having had any thing to do with that matter. He has taken the oath of allegiance to the United States and has executed a bond with security for his good cordial and loyal deportment in future and is determined to strictly comply with its conditions. He has never been in arms against the United States &amp; never expects to be but will in future be a law abiding and loyal citizens. He has no estate out of which he can pay said fine. To deprive him of his liberty will deprive him of the means to support his family. He respectfully ask your Excellency to remit the fines.</p>
-<p><date when="1863-10-15">October 15. 1863</date> J S Fisher</p>
-<p>The undersigned loyal citizens of Christian County relying upon &amp; confiding in the statements of Mr Fisher request the remission of his fine</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>R. T. M<hi rend="sup">c</hi>Daniel
-<lb/>Sheriff of Christian. Co. Ky
+<p>The undersigned a citizen of Christian County Ky would respectfully represent that at the last <date when="--03">March term</date> of the Christian Circuit Court he was tried under an indictment for Usurpation of the office of Jailer of said county and fined the sum of five Hundred Dollars. That under the order of the Confederate General while their army occupied Hopkinsville the Keys of the Jail for three or four days were placed in his hands, this was the extent of his connection with that office, that he emprisioned no one <hi rend="str">one</hi> while thus acting. He sincerely regrets having had any thing to do with that matter. He has taken the oath of allegiance to the United States and has executed a bond with security for his good conduct and loyal deportment in future and is determined to strictly comply with its conditions. He has never been in arms against the United States &amp; never expects to be but will in future be a law abiding and loyal citizen. He has no estate out of which he can pay said fine. To deprive him of his liberty will deprive him of the means to support his family. He respectfully ask your Excellency to remit the fines.
+<lb/><date when="1863-10-15">October 15. 1863</date></p>
+<p>J S Fisher</p>
+<p>The undersigned loyal citizens of Christian County relying upon &amp; confiding in the statements of M<hi rend="sup">r</hi> Fisher request the remission of his fine</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>R. T. M<hi rend="sup">c</hi>Daniel.
+<lb/>Sheriff of Christian, Co, Ky
 <lb/>B S Campbell
-<lb/><cb n="2"/>
-<lb/>James F. Buckner
-<lb/>Geo. Poind
-<lb/>Jno. D. Car
-<lb/>Wm P Hop<milestone unit="column" n="1"/><pb/></p>
+<lb/><cb n="2"/>James F. Buckner
+<lb/>Geo. Poind<unclear/>
+<lb/>Jno D. Car
+<lb/>W<hi rend="sup">m</hi> P Hop<unclear/><milestone unit="column" n="1"/><pb/></p>
 <p>Christian Cir Ct
-<lb/>vs
-<lb/>Remit all except fees &amp; costs
-<lb/><hi rend="str">Oct</hi> <date when="1863-11-15">Nov. 15<hi rend="sup">th</hi> 1863</date>
-<lb/>Tho E Bramlette
-<lb/>Gov<hi rend="sup">r</hi></p>
+<lb/>vs</p>
+<p>Remit all except fees &amp; costs
+<lb/><hi rend="str">Oct</hi> <date when="1863-11-15">Nov. 15" 1863</date></p>
+<p>Tho E Bramlette
+<lb/>Gov</p>
 <p>John S. Fisher
-<lb/>$500 -- 
+<lb/>&#36;500 -- 
 <lb/>Usurpation of Office</p>
   </body>
  </text>

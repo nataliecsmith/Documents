@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1534"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Grant County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -60,22 +62,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency. The Governor of the commonwealth of Kentucky The undersigned would most respectfully represent and State to your Excellency that at the <date when="1859-05">May term 1859</date> of the Grant circuit court a judgement was rendered in favor of the Commonwealth V<hi rend="underline"><hi rend="sup">s</hi></hi> John D Duncan &amp; William Duncan on a Recognisance Bond for the appearance of Isaac Duncan their Brother who was charged with Stealing a small quantity of Bacon -- They would further state that William Duncan has no property and can in no way assisting in satisfying the aforesaid judgment and that to require John D Duncan to pay said judgement would take all the property in his possession and would leave himself and family in destitute circumstances John D Duncan is living upon rented land The say that if there ever was a case which commended itself to Executive Clemency this is one which in an eminent degree deserves the favorable consideration of his excellency -- The said judgement was for the sum of $250<hi rend="sup">00/100</hi> They have no hesitancy in Saying that if your Excellency will remit so much of said judgement as in Your power to do that it would approved by all good men who know the circumstances -- </p>
-<p>W. L. Simmons
-<lb/>T. M Combs Deputy Sheriff
+   <p>To his Excellency. The Governor of the commonwealth of Kentucky The undersigned would most respectfully represent and state to your Excellency that at the <date when="1859-05">May term 1859</date> of the Grant circuit court a judgment was rendered in favor of the Commonwealth V<hi rend="underline"><hi rend="sup">s</hi></hi> John-- D Duncan &amp; William Duncan on a Recognisance Bond for the appearance of Isaac Duncan their Brother who was charged with Stealing a small quantity of Bacon -- They would further state that william Duncan has no property and can in no way assisting in satisfying the aforesaid judgment and that to require John D Duncan to pay said Judgment would take all the property in his possession and would leave himself and family in destitute circumstances John D Duncan is living upon rented land The say that if there ever was a case which commended itself to Executive Clemency this is one which in an eminent degree deserves the favorable consideration of his excellency -- The said Judgment was for the sum of &#36;250.<hi rend="sup">00</hi>/<hi rend="sub">100</hi> They have no hesitency in Saying that if your Excellency will remit so much of said judgment as in Your power to do that it would approved by all good men who know the circumstances -- </p>
+<p>W, L, Simmons
+<lb/>T. M Coombs Deputy Sheriff
 <lb/>T Stroud J G C
 <lb/>W Smith Clk G c ct
 <lb/>H Hall P J G C C
-<lb/>O. D. M<hi rend="sup">c</hi>manama atto for Grant County
+<lb/>O. D. M<hi rend="underline"><hi rend="sup">c</hi></hi>manama atto for Grant County
 <lb/>E T Nuttall Judge
-<lb/>P. U. Major Comth Atty<pb/></p>
-<p>Grant Cir. Ct
-<lb/>Petition for John D Duncan from Garret County<figure type="hr"/></p>
+<lb/>P, U, Major Comth Atty<pb/></p>
+<p>Grant. Cir. Ct
+<lb/>Petition for John D Duncan from Grant County<figure type="hr"/></p>
 <p>Remitted
 <lb/>B. M. </p>
-<p>$200 } Recog
-<lb/>Jno. D &amp; W<hi rend="underline"><hi rend="sup">m</hi></hi> Duncan
-<lb/>Iss<hi rend="sup">d</hi> <date when="1861-11-02">Nov 2. 1861</date></p>
+<p>&#36;250 &#125; Recog
+<lb/>Jno. D. &amp; W<hi rend="underline"><hi rend="sup">m</hi></hi> Duncan
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-11-02">Nov 2. 1861</date></p>
   </body>
  </text>
 </TEI>

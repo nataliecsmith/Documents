@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0035"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,37 +63,38 @@
  <text>
   <body>
    <p>H<hi rend="underline"><hi rend="sup">d</hi></hi> Q<hi rend="underline"><hi rend="sup">rs</hi></hi> 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav
-<lb/><date when="1864-06-09">June 30" 1864.</date>
+<lb/><date when="1864-06-09">June 30" 1864</date>.
 <lb/>Gov Bramlette
 <lb/>Sir</p>
-<p>I received a Communication from the Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi><hi rend="sup">s</hi> office Calling for an official Copy of the ^acceptance of the^ resignations of Major Drye, Capts Fishback &amp; Smith. I send herewith those for Drye &amp; Smith. And as only one Copy was furnished this office in refference to Fishbacks He himself took it with him to enable him to draw pay. But his resignation was accepted to take date from <date when="1864-06-09">June 9" 1864.</date></p>
-<p>I will again Call your attention to the recommendation of Capt Rowland for major vice Drye resigned and of Lt Roberts to be made Capt Co "K" vice Rowland promoted and Lt T. N. Bruner to be made 1<hi rend="sup">st</hi> Lt vice Roberst promoted Also Lt ^I. D.^ Batie to be made Capt Co "L" vice Fishback resigned. &amp; orderly Sergt ^G. J.^ Vaught to be made 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt Co "L" vice Batie promoted. also Lt Pankey to be made Capt of Co "I" vice Smith <hi rend="str">promoted</hi>resigned &amp; Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Graves to be made 2<hi rend="sup">nd</hi> Lt vice <hi rend="str">p</hi>Pankey promoted</p>
+<p>I received a Communication from the Adjt Gen<hi rend="underline"><hi rend="sup">ls</hi></hi> office Calling for an official Copy of the ^acceptance of the^ resignations of major Drye, Capts Fishback &amp; Smith. I send herewith those for Drye &amp; Smith. And as only one Copy was furnished this office in refference to Fishbacks He himself took it with him to enable him to draw pay. But his resignation was accepted to take date from <date when="1864-06-09">June 9" 1864</date>.</p>
+<p>I will again Call your attention to the recommendation of Capt Rowland for major vice Drye resigned and of Lt Roberts to be made Capt Co "K" vice Rowland promoted. and Lt S, N, Bruner to be made 1<hi rend="sup">st</hi> Lt vice Roberts promoted Also Lt I. D. Batie to be made Capt Co "L" vice Fishback resigned. &amp; orderly Sergt ^G. I.^ Vaught to be made 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt Co 'L" vice Batie promoted. Also Lt Pankey to be made Capt of Co "I" vice Smith <hi rend="str">promoted</hi>resigned &amp; Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Graves to be made 2<hi rend="sup">nd</hi> Lt vice Pankey promoted</p>
 <p>Enclosed herein please find recommenda^tions^ for Maj Helveti to be made Lt Col, and Capt Keen to be Major vice Helveti promoted.</p>
-<p>I will also recommend to you for promotion 1<hi rend="sup">st</hi> Lt John. C. M<hi rend="sup">c</hi>Lain to be Capt Co "I" vice Keen promoted &amp; <hi rend="str">order</hi> 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt A. C. Smith to be 1<hi rend="sup">st</hi> Lt vice M<hi rend="sup">c</hi>Lain promoted &amp; orderly Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Sandusky Bruton to be 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt vice Smith promoted.</p>
+<p>I will also recommend to you for promotion 1<hi rend="sup">st</hi> Lt John. C. M<hi rend="sup">c</hi>Lain to be Capt Co "I" vice Keen promoted. &amp; <hi rend="str">order</hi> 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt A. C. Smith to be 1<hi rend="sup">st</hi> Lt vice M<hi rend="sup">c</hi>Lain promoted &amp; orderly Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Sandusky Bruton to be 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt vice Smith promoted.</p>
 <p>I am very Resptly
-<lb/>your ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
+<lb/>Your ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
 <lb/>Silas Adams Col
-<lb/><hi rend="str">Col</hi> Comdg Reg<hi rend="sup">t</hi>.</p>
+<lb/><hi rend="str">Col</hi> Comdg Regt.</p>
 <p>By 
 <lb/>W. D. Carpenter
-<lb/>Adjt 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav<pb/></p>
-<p><figure type="hr"/>1 Lieut Jno C M<hi rend="sup">c</hi>Lain to be Capt Co<hi rend="sup">y</hi> I 1 Cav<hi rend="sup">y</hi> <date when="1864-06-30">June 30. 1864</date> vice A. S. Keene promo
+<lb/>Adjt
+<lb/>1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav<pb/></p>
+<p><figure type="hr"/>1 Lieut Jno C. M<hi rend="sup">c</hi>Lain to be Capt Co<hi rend="sup">y</hi> I. 1 Cav<hi rend="sup">y</hi> <date when="1864-06-30">June 30. 1864</date> vice A. S. Keene promo
 <lb/><note place="left margin">1. 2. 3. 4</note><figure type="hr"/></p>
-<p>2 Lieut A. C. Smith com 1 Lieut Co<hi rend="sup">y</hi> I 1 Cav<hi rend="sup">y</hi> <date when="1864-06-30">June 30. 1864</date> vice Jno C. M<hi rend="sup">c</hi><hi rend="str">C</hi>Lain promo
+<p>2 Lieut A. C. Smith com 1 Lieut Co<hi rend="sup">y</hi> I. 1 Cav<hi rend="sup">y</hi> <date when="1864-06-30">June 30. 1864</date> vice Jno C. M<hi rend="sup">c</hi><hi rend="str">C</hi>Lain promo
 <lb/><note place="left margin">1. 2. 3. 4</note><figure type="hr"/></p>
 <p>O. S. Sandusky Bruton com 2 Lt. Co<hi rend="sup">y</hi> I. 1 Cav<hi rend="sup">y</hi> <date when="1864-06-30">June 30. 1864</date> vice A. C. Smith promo.
 <lb/><note place="left margin">1. 2. 3. 4</note><figure type="hr"/></p>
-<p>1 <hi rend="underline">Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi>
+<p>1' <hi rend="underline">Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi>
 <lb/>Head Qrs 1<hi rend="sup">s</hi> Ky Cav<hi rend="sup">y</hi>
 <lb/><date when="1864-06-30">June 30. 1864.</date><figure type="hr"/>
 <lb/>Adams Silas
-<lb/>Colonel<figure type="hr"/></p>
-<p>Encloses copies of the order accepting the resignations of Maj. Drye and Capt. Smith. asks that Commissions for Officers heretofore recommended to fill their places be issued and also recommends sundry other officers for Commission.<figure type="hr"/></p>
+<lb/>Colonel.<figure type="hr"/></p>
+<p>Encloses copies of the order accepting the resignation of Maj. Drye and Capt. Smith. asks that Commissions for Officers heretofore recommended to fill their places be issued and also recommends sundry other officers for Commission.<figure type="hr"/></p>
 <p>Issue
-<lb/><hi rend="underline">Boyle</hi> 
-<lb/><note place="body">Com Iss<hi rend="sup">d</hi> &amp; forw<hi rend="sup">d</hi>
-<lb/>July 9. 1864</note><figure type="hr"/>
-<lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-07-05">July 5. 1864</date></p>
+<lb/><hi rend="underline">Boyle</hi> </p>
+<p>Com Issd &amp; forw<hi rend="sup">d</hi>
+<lb/>July 9. 1864<figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-07-05">July 6. 1864</date></p>
   </body>
  </text>
 </TEI>

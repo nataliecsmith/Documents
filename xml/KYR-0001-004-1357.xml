@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1357"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">W. T. Cahill et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">Callet Charles et al. to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG5994</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,12 +63,12 @@
  <text>
   <body>
    <p>To His Excellency Thomas E. Bramlette, Govenor of the state of Kentucky,</p>
-<p>The undersigned citizens of Mercer County most respectfully unite in the Petition of John Patterson, to your Excellency, and ask you to pardon him -- 
+<p>The undersigned citizens of Mercer County, most respectfully unite in the Petition of John Patterson, to your Excellency, and ask you to pardon him-
 <lb/><date when="1864-11-14">Nov. 14, 1864.</date></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Callet Childs
+<p><milestone unit="column" n="2"/><cb n="1"/>Callet Charls
 <lb/>Henry Taylor
 <lb/>M Cummins
-<lb/>Matthew Patterson
+<lb/>Mathew Patterson
 <lb/>James Divine
 <lb/>John C McIntire
 <lb/>William Purdom
@@ -73,7 +76,7 @@
 <lb/>James Lawson
 <lb/>G W Tompkins
 <lb/>M D Hall
-<lb/>D C May
+<lb/>D. C. May.
 <lb/>A. D. Haynes
 <lb/>Ashley Patterson
 <lb/>Jno L Gibson
@@ -84,57 +87,57 @@
 <lb/>John B. Jennings
 <lb/>P W Bottom
 <lb/>John Burk
-<lb/>Patricy treynor
+<lb/>Patrick treynor
 <lb/>John Hill
-<lb/>Frank Trarer
+<lb/>Frank. Traves
 <lb/><cb n="2"/>W. T. Cahill
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Payne
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> g Smith
-<lb/>John W. Debann
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> G Smith
+<lb/>John W. Debam
 <lb/>J. D. Hale
 <lb/>Charles Fitzmorris
 <lb/>Waller Fitzmorris
 <lb/>M. V. Bowen
 <lb/>J. H. Faircloth
-<lb/>Ben C Allen
+<lb/>Ben C Allin
 <lb/>S S M Fatridge
-<lb/>James Walters
+<lb/>James. Walters
 <lb/>W A Nooe
-<lb/>J K Slaughter
+<lb/>J. K Slaughter
 <lb/>J C, Dean
-<lb/>James D Martin
-<lb/>Thos J. Vanausdall
+<lb/>James D Hardin
+<lb/>Thos,, J,, Vanarsdall
 <lb/>S H Graves
 <lb/>Iverson, L, Bottom
 <lb/>J W Hale
 <lb/>L. G. Hale
 <lb/>E H Carter
-<lb/>Richard Board 
+<lb/>Richard Board C, M, C, C
 <lb/>W, A. Jennings<milestone unit="column" n="1"/><pb/>
-<lb/><hi rend="str">Nae</hi> Names
-<lb/>george W gibson
-<lb/>basel p davies
-<lb/>G W Conley
+<lb/><hi rend="str">Naes</hi> Names
+<lb/>George W <hi rend="str"><unclear/></hi> gibson
+<lb/>basel, p davies
+<lb/>G W Conling
 <lb/>Jesse Salle
 <lb/>John Henry
 <lb/>Elisha Low
-<lb/>Jesse Dechazure
-<lb/>S R. Price
+<lb/>Jesse Deshzure
+<lb/>S. R. Price
 <lb/>R Norvell
 <lb/>Henry Norvell
 <lb/>Allen Hungate
 <lb/>John Kirkland
 <lb/>William hatchel
-<lb/>John. A. hutchinsen
+<lb/>John. A. <unclear/>
 <lb/>John Divine
-<lb/>B. H. Nichols
+<lb/>B, H, Nichols
 <lb/>M pinkstun
 <lb/>Elijah Hale
 <lb/>Sherrod Williams
 <lb/>J, W Penney
 <lb/>John Collier
 <lb/>Michael M<hi rend="underline"><hi rend="sup">c</hi></hi>Cristal
-<lb/>Harvey. J. Burns</p>
+<lb/>Harvy. J. Burns</p>
   </body>
  </text>
 </TEI>

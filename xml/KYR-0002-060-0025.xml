@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0025"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,7 +66,7 @@
    <p>Beattyville <date when="1864-11-28">No<hi rend="underline"><hi rend="sup">v</hi></hi> 28<hi rend="sup">th</hi> 1864</date>
 <lb/>To his Excelance
 <lb/>Thomas P Bramlett</p>
-<p>We have proceeded to elect a Captain. M<hi rend="sup">r</hi> Frances M Vaughn to Command the State Guard troops of Mountain Rangers. recruited by John A Stamper these Company are full 84 members. and hope you will extend to the mountains that are suffering distruction from Gurillas that is roving through the Country. ^arms &amp;C^ This Company has been doing service ever since it was first organized, and have done more for this Country than any other troops that has ever been here without them we will have to leave our homes. and all of little property -- after furnishing more men in the field than any other portion of the Country -- the election of Captian Vaughn gives general Satisfaction to the Company and Citizens, we feel that it is due us to have them armed and clothed and fed as they are bound to stay together for there safety and the safety of the Country</p>
+<p>We have proceeded to elect a Captain M<hi rend="sup">r</hi> Frances M Vaughn to Command the State Guard troops of Mountain Rangers. recruited by John A Stamper there Company are full 84 members. and hope you will extend to the mountans that are suffering distruction from Gurellas that is roving through the Country- ^arms &amp;C^ This Company has been doing service ever since it was first organized, and have done more for this Country than any other troops that has ever been here without them we will have to leave our homes. and all of little property- after furnishing more men in the field than any other portion of the Country- the election of Captain Vaughn gives general Satisfaction to the Company and Citizens, we feel that it is due us to have them armed and clothed and fed as they are bound to stay together for there safety and the safety of the Country</p>
 <p>respectfully
 <lb/>James F Blount<pb/></p>
 <p>Beattyville Ky
@@ -71,7 +74,7 @@
 <lb/>Blount James F<figure type="hr"/>
 <lb/>To The Gov<figure type="hr"/></p>
 <p>Requests that you will arm, clothe, &amp;c the Co of state Guards commanded by Capt Frances M Vaughn<figure type="hr"/></p>
-<p>L B no 8 <date when="1864">1864</date> <hi rend="underline">P 249</hi><figure type="hr"/>
+<p>L B No 8 <date when="1864">1864</date> <hi rend="underline">P 249</hi><figure type="hr"/>
 <lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-11-30">Nov 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
   </body>
  </text>

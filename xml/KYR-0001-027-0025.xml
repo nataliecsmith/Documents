@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0025"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,14 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>(Th. Davis)
-<lb/>Harrodsburg Ky <date when="1862-08-27">27<hi rend="sup">th</hi> August/62</date>
+   <p><note place="header"><hi rend="underline">(Th. Davis)</hi></note></p>
+<p>Harrodsburg Ky <date when="1862-08-27">27<hi rend="sup">th</hi> August/62</date>
 <lb/>Hon Jas F Robinson
 <lb/>Dr Sir,</p>
-<p>The Civil Law being yet the paramount law of this state, martial Law not having yet been declared, and the Courts of Law affording neither protection of person rights or property -- I therefore appeal to you Sir Governor of Kentucky, for protection against a most malicious persecution from Mr W E Riley, Provost Marshal of this County, &amp; his band of reckless armed murderers. -- For the past week I have been a fugitive amid the fields &amp; woods the cornfields &amp; thickets fired into for me, for no cause under the sun, save that some of these men learned I had a superior rifle &amp; coveted it. -- The limits of a sheet of paper will not admit of Explanation -- neither will your time &amp; patience give due weight to a written statement -- I am as loyal a citizen as any in Kentucky -- believing in the Constitution willing to abide by it, &amp; submit to the laws of this state cheerfully. &amp; in good faith -- receiving in return my constitutional rights -- neither a rebel, secessionist, or traitor.<pb/>
-<lb/>&amp; neither am I a believer in the murderous anarchy now prevailing under regency of his Honor Mr W E Riley -- </p>
-<p>I have never aided the rebellion in any mode -- The care of a wife &amp; six small children, &amp; the paralysis of one eye, destroying its vision, would forbid my entering the Southern army, even had I the inclination, &amp; were there no Confiscation Law, binding everything I own as a dependence for family -- All I ask is the priviledge of enjoying my <hi rend="underline">opinions</hi> -- staying at home laboring for my family as a peaceable farmer, &amp; taking care of my little ones these perilous times -- </p>
-<p>I have known you Sir personally since I was a child -- &amp; I know well that you would disapprove of such outrageous conduct as we have to submit to here -- To the end of justice Sir, I entreat you either to order me to appear at Frankfort, for a Constitutional trial -- or else, grant me the priviledge of going to Frankfort &amp; have Ten minutes interview with you, when I shall with pleasure hold myself subject to the orders of the Governor of Kentucky -- </p>
+<p>The Civil Law being yet the paramount law of this state, martial Law not having yet been declared, and the Courts of Law affording neither protection of person rights or property- I therefore appeal to you Sir Governor of Kentucky, for protection against a most malicious persecution from Mr W E Riley, Provost Marshal of this County, &amp; his band of reckless armed murderers -- For the past week I have been a fugitive amid the fields &amp; woods the cornfields &amp; thickets fired into for me, for no cause under the sun, save that some of these men learned I had a superior rifle &amp; covetd it- -- The limits of a sheet of paper will not admit of Explanation- neither will your time or patience give due weight to a written statement -- I am as loyal a citizen as any in Kentucky -- believing in the Constitution willing to abide by it, &amp; submit to the laws of this state cheerfully, &amp; in good faith -- receiving in return my constitutional rights -- neither a rebel, secessionist, or traitor.<pb/>
+<lb/>&amp; neither am I a believer in the murderous anarchy now prevailing under reg<hi rend="str">a</hi>ency of his Honor Mr W E Riley -- </p>
+<p>I have never aided the rebellion in any mode- The care of a wife &amp; six <hi rend="str"><unclear/></hi>small children, &amp; the paralysis of one eye, destroying its vision, would forbid my entering the Southern- army, even had I the inclination, &amp; were there no Confiscation Law, binding everything I own as a dependance for family -- All I ask is the priviledge of enjoying my <hi rend="underline">opinions</hi>- staying at <hi rend="str">c</hi>home labring for my family as a peaceable farmer, &amp; taking care of my little ones these perilous times -- </p>
+<p>I have known you Sir personally since I was a child -- &amp; I know well that you <hi rend="str">d</hi>would disapprove of such outrageous conduct as we have to submit to here -- To the end of justice Sir, I entreat you either to order me to appear at Frankfort, for a Constitutional trial -- or else, grant me the priviledge of going to Frankfort, &amp; have Ten minutes interview with you, when I shall with pleasure hold myself subject to the orders of the Governor of Kentucky -- </p>
 <p>Your obt svt
 <lb/>Theodore H Daviess,</p>
   </body>

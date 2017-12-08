@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0065"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,12 +66,13 @@
    <p>Frankfort <date when="1865-06-07">June 7<hi rend="sup">th</hi> 1865</date>
 <lb/>Jas R Page
 <lb/>Asst Secty -- </p>
-<p>Prepare Proclamation offering reward of $300. for the arrest and delivery to the Jailor of Adair County, of Green Johnson for the Murder of John Miller of Adair County -- in May</p>
-<p>You or Van can sign my name to the document_ &amp; send it to the Journal on Friday -- as by that time I know the proper application will be forwarded.</p>
+<p>Prepare Proclamation offering reward of &#36;300, for the arrest and delivery to the Jailor of Adair County- of Green Johnson for the murder of John Miller of Adair County- in May.</p>
+<p>You or Van can sign my name to the document -- &amp; send it to the Journal on Friday -- as by that time I know the proper application will be forwarded.</p>
 <p>Thos E Bramlette</p>
 <p>P S, I will get back on Saturday<pb/></p>
 <p>Reward
-<lb/>$300. for Green Johnson
+<lb/>&#36;300,
+<lb/>for Green Johnson
 <lb/>issued <date when="1865-06-09">9<hi rend="sup">th</hi> June/65</date></p>
   </body>
  </text>

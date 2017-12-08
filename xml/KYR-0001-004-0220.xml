@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0220"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,30 +62,30 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his excellency Thos E. Bramlett We would respectfully state that Henry Stallings was fined thirty dollars before M. P. Heady police judge of Shepherdsville in September last for a breach of the peace we think the fine was excessive. Stallings is a poor man, and we respectfully ask your excellency to remit all of said fine except five dollars which together with the costs would be simple punishment for the offence.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>L. Hoglan P. J. B. C C
-<lb/>John G. L. Holmesnil
-<lb/>Martin Bats
+   <p>To his excellency Thos E. Bramlett we would respectfully state that Henry Stallings was fined thirty dollars before M. P. Heady police judge of shepherdsville in September last for a breach of the peace we think the fine was excessive. stallings is a poor man, and we respectfully ask your excellency to remit all of said fine except five dollars which together with the costs would be ample punishment for the offence.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>L. Hoglan P J B C C
+<lb/>John G L. Holmes<unclear/>
+<lb/>Martin Bates
 <lb/>Michael Troutman
-<lb/>Sterling L Couglen
+<lb/>Stearling L Couglen
 <lb/>James Y Pope
-<lb/>Lloyd Friddle T. M. S
+<lb/>Lloyd Friddle T, M, S
 <lb/>Isaac Moore
-<lb/><cb n="2"/>W<hi rend="sup">m</hi>. Chaddie
-<lb/>W<hi rend="sup">m</hi> R Thompson
-<lb/>B. F. Troutman
+<lb/><cb n="2"/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Chaddie
+<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> R Thompson
+<lb/></hi>B. F. Troutman
 <lb/>John C Brian
-<lb/>R. F Joyce
+<lb/>R, F Joyce
 <lb/>J. T. Friddle
 <lb/>Ch. R. Samuels
 <lb/>W. J. Colbow
 <lb/>John Richerson
-<lb/>W. O. Barbour
-<lb/>Dr. A. D. Coffee
+<lb/>W, O, Barbour
+<lb/>Dr A, D, Coffee
 <lb/>William H. Coffee
 <lb/>Perry Burks
 <lb/>Woodford M<hi rend="sup">c</hi>Dowell
-<lb/>E. H. McCormick
+<lb/>E. H. M<hi rend="sup">c</hi>Cormick
 <lb/>S. A. M<hi rend="sup">c</hi>Kay
 <lb/>T L Dix</p>
   </body>

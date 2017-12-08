@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0280"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,16 +67,16 @@
 <lb/><date when="1863-11-12">November 12<hi rend="sup">th</hi> 1863</date>
 <lb/>To his Excellency
 <lb/>Gov Bramlette</p>
-<p>Dear Sir, At the late term of the Mason Circuit Court, I was fined for selling spiritous liquors to a slave, whose an agreed statement of facts, a copy of which together with a Copy of the judgment I enclose. I have kept a Bar in Maysville for a number of years, and have always endeavored to comply with the strict letter and spirit of the law. I knew that I had no right to sell liquor to a slave and always refused to do so without the permission of the master. I knew the boy to whom the liquor in this instance was sold, to be the slave of my neighbor Samuel W Wood, but I knew that he was hired to a free negro barber who also kept a shop a few doors from me. The negro boy came in with the barber to whom he was hired, and his temporary master told me to let him have a drink of whiskey, and supposing I had a right to do so under this authority I sold the boy a drink for himself and his temporary master. Poliltical excitement was bitter at the time and I was indicted for selling, although s w wood cared nothing about the matter, and although it was the only drink the boy ever took at my bar. I respectfully required your excellency to remit so much of the fine as by law you are permitted to do, as the balance makes a sum as large as I am able to pay</p>
+<p>Dear Sir, At the late term of the Mason Circuit Court, I was fined for selling spiritous liquors to a slave- upon an agreed statement of facts, a copy of which together with a Copy of the judgment I enclose- I have kept a Bar in Maysville for a number of years, and have always endeavored to Comply with the strict letter and Spirit of the law- I knew that I had no right to sell liquor to a slave and always refused to do so without the permission of the master. I knew the boy to whom the liquor in this instance was sold, to be the slave of my neighbor Samuel W Wood, but I knew that he was hired to a free negro barber who also kept a shop a few doors from me, The negro boy Came in with the barber to whom he was hired, and his temporary master told me to let him have a drink of whiskey, and supposing I had a right to do so under this authority I sold the boy a drink for himself and his temporary master. Poliltical excitement was bitter at the time and I was indicted for selling, although S W Wood Cared nothing about the matter, and allthough it was the only drink the boy ever took at my bar -- I respectfully request your excellency to remit so much of the fine as by law you are permitted to do -- as the balance makes a sum as large as I am able to pay</p>
 <p>Respectfully Peter Miller<pb/></p>
 <p>Mason Cir Ct
 <lb/>vs
 <lb/>Peter Miller
-<lb/>$50 -- 
+<lb/>&#36;50 -- 
 <lb/>Tipling
 <lb/><date when="1863-11-16">16<hi rend="sup">th</hi> Nov 1863</date></p>
-<p>Remit except fees &amp; costs
-<lb/>Tho E Bramlette</p>
+<p>Remit except fees &amp; costs</p>
+<p>Tho E Bramlette</p>
   </body>
  </text>
 </TEI>

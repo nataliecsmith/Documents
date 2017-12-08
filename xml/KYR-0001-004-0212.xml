@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0212"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,78 +63,79 @@
  </teiHeader>
  <text>
   <body>
-   <p>Carlisle <date when="1863-10-03">Oct. 3<hi rend="sup">d</hi>. 1863</date>
+   <p>Carlisle <date when="1863-10-03">Oct; 3<hi rend="underline"><hi rend="sup">d</hi></hi> 1863</date>
 <lb/>To his Excellency Thomas E. Bramblet
 <lb/>Gov. of Kentucky</p>
-<p>Your Petitioner Robert Shannon would represent that some time in <date when="--03">March</date> last he became Bail for his son John B. Shannon in the Fleming Circuit Court in the sum of $500. for the appearance of his son at the <date when="--09">Sept. Term</date> following to answer to an Indictment pending against his son for horse stealing. He states that his son did not appear at the <date when="--09">September Term</date> as required and his Recognizance was Forfeited. The circumstances of the alledged crime of his son are these. In <date when="1862">1862</date> his son, then Residing in the South East part of of Nicholas County, was a member of the home Guards &amp; when the Rebels came into the County ^in the <date when="1862">fall of 1862</date>^ unexpected to him he left home in a hurry on foot, when twelve miles from home in Fleming County he took a horse belonging to Henry Johnson and rode it and was afterwards arrested for stealing the horse The horse was found with him and restored to its owner &amp; his son Indicted as above stated. Since which his son has removed to Illinois where he now resides. He says his son is poor almost without means &amp; Your Peittioner is also poor and to pay the liability on his forfeited Recognizance will oppress &amp; distress him. He says his son was in danger and it was necessary for him to leave home as he did The taking of the horse tho. not justified at all <hi rend="str">were</hi> ^was^ under the circumstances above stated and in view of these &amp; his own condition<pb/>
+<p>Your Petitioner Robert Shannon would represent that some time in <date when="1863-03">March</date> last he became Bail for his son John B. Shannon in the Fleming Circuit Court in the sum of &#36;500. for the appearance of his son at the <date when="1863-09">Sept. Term</date> following to answer to an Indictment pending against his son for horse stealing- He states that his son did not appear at the <date when="-1863-09">September Term</date> as required and his Recognizance was Forfeited- The circumstances of the alledged crime of his son are these- In <date when="1862">1862</date> his son, then Residing in the South East part of of Nicholas County, was a member of the home Guards &amp; when the Rebels came into the County ^in the <date when="1862">fall of 1862</date>^ unexpected to him he left home in a hurry on foot, when twelve miles from home in Fleming County he took a horse belonging to Henry Johnson and rode it and was afterwards arrested for stealing the horse The horse was found with him and restored to its owner &amp; his son Indicted as above stated. Since which his son has removed to Illinois where he now resides- He says his son is poor almost without means &amp; Your Peittioner is also poor and to pay the liability on his forfeited Recognizance will oppress &amp; distress him- He says his son was in danger and it was necessary for him to leave home as he did The taking of the horse tho. not justified at all <hi rend="str">were</hi> ^was^ under the circumstances above stated. and in view of these &amp; his own Condition<pb/>
 <lb/>he is induced to ask the Clemincy of your Honor. Your Petitioner knew he was not able to stand the Bail if it was forfeited, but he could not refuse his sons request</p>
-<p>He therefore prays you will remit the forfeited Bond &amp; will ever pray &amp;c.</p>
+<p>He therefore prays you will remit the forfeited Bond &amp; will ever pray &amp;<hi rend="sup">c</hi>.</p>
 <p>Robert Shannon</p>
-<p>We are acquainted with Robert Shannon &amp; his son &amp; from information believe the facts set forth in his Petition are true &amp; we <hi rend="str">join in his</hi> think his case presents strong grounds &amp; good grounds for the Executive Clemency.</p>
+<p>We <hi rend="str"><unclear/></hi>are acquainted with Robert Shannon &amp; his son &amp; from information believe the facts set forth in his Petition are true &amp; we <hi rend="str">join in his</hi> think his case presents strong grounds. &amp; good grounds for the Executive Clemency-</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Morgan Sears
 <lb/>Samuel Wilson
 <lb/>William Williams
-<lb/>David D. Wilson
-<lb/>Drury B. Hopkins
-<lb/>Hiram P. Crain
+<lb/>David. D, Wilson
+<lb/>Drury. B. Hopkins
+<lb/>Hiram. P. Crain
 <lb/>Neely fullerton
-<lb/>George W. Henry
-<lb/>John. H. Hamilton
+<lb/>George, W, Heney
+<lb/>John, H, Hamilton
 <lb/>Perry H. M Hazelrigg
-<lb/>James H Cagsoday
+<lb/>James H Cassaday
 <lb/>John Hensey
-<lb/>Jalin J. Hopkins
-<lb/>R. M. Campbell
+<lb/>Jalin, J, Hopkins
+<lb/>.R. M. Campbell
 <lb/>John Vaughan
-<lb/>Christian Bothnown
-<lb/>W. T. McClary
+<lb/>Christian Bothrown
+<lb/>W, T, M<hi rend="sup">c</hi>Clary
 <lb/>Henry Peratt
 <lb/>M C Wilson
 <lb/><cb n="2"/>Fitch Munger
-<lb/>A W Blain S. N. C
-<lb/>Jno A. Campbell D. C. N. C. C
-<lb/>W.W. Howard Dept Clk. N. C. C
-<lb/>John F McMillan Speed E. A. S
+<lb/>A W Blain S, n, C
+<lb/>Jno A. Campbell D. C. n. C. C
+<lb/>Ja<hi rend="sup">s</hi>. L. Arnold C. N. C. C.
+<lb/>W. W. Howard Depty clk. n. c. c
+<lb/>John F M<hi rend="sup">c</hi>Millan Special E n, A. S.
 <lb/>E. M. Ewing
-<lb/>R S Evans N.Co. atty.
+<lb/>R S Evans ^N.^ Co. atty.
 <lb/>M. B. Smedley
 <lb/>J. Irvin
 <lb/>Benj. F. Edwards
 <lb/>W M<hi rend="sup">c</hi>Intire
 <lb/>Jones Seares
-<lb/>J R R Vareln
+<lb/>J R B<unclear/>
 <lb/>J R Mackeey
 <lb/>Samuel Sparks
-<lb/>D. R. McCullough<pb/>
+<lb/>J, R, M<hi rend="sup">c</hi>Cullough<pb/>
 <lb/><cb n="1"/>James T. Peratt
 <lb/>Henry Vaughan
-<lb/>John Y Wilson
+<lb/>John S Wilson
 <lb/>Thomas Vaughn
 <lb/>Georg. H Troutman
-<lb/>W<hi rend="sup">m</hi>. T. Henkle
-<lb/>W S Hartley
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> D. Henkle
+<lb/>W N Hartley
 <lb/>William Hensey
-<lb/>James T Vaughn
+<lb/>James <unclear/> Vaughn
 <lb/>John Black
 <lb/>Theomas Shannon
-<lb/>W. T. Herrin
+<lb/>W, T, Herrin
 <lb/>R Scott
 <lb/>W. Sudeth
 <lb/>Van R Hardwick
 <lb/><cb n="2"/>Thomas Boyd
-<lb/>James Foster
-<lb/>E. G. Hayden
+<lb/>James Foster -- 
+<lb/>E. G. Hayden.
 <lb/>T. W. Smart
-<lb/>T. P. Mills
+<lb/>T, P, Mills
 <lb/>W<hi rend="sup">m</hi> Secrest<milestone unit="column" n="1"/></p>
-<p>I am the <unclear/> from whom here <unclear/> the <unclear/> your Petitioner was to have <unclear/> I received <unclear/><unclear/> to the Govenor to <unclear/><unclear/> Bond which <unclear/><unclear/> <unclear/> I be <unclear/> <unclear/> business <unclear/><pb/></p>
-<p><hi rend="str">Nicholas</hi> Fleming Cir Ct
+<p>I am the <unclear/> from whom the horse mentioned in the <unclear/> <unclear/> ^<unclear/>^ <unclear/> was <unclear/> <unclear/>. I <unclear/> <unclear/> to the Govenor to remit <unclear/> Bond which Mr. <unclear/> <unclear/> I believe it a proper use of <unclear>clemency</unclear> -- <pb/></p>
+<p><hi rend="str">Nicholas</hi> Fleming Cir Ct.
 <lb/>vs</p>
-<p>Remit all except costs &amp; fees
+<p>Remit all except costs &amp; <hi rend="str"><unclear/></hi>fees
 <lb/>Tho E Bramlette</p>
 <p>Robert Shannon
 <lb/>Bail Bond
-<lb/>$500.
+<lb/>&#36;500.
 <lb/><date when="1864-01-16">16<hi rend="sup">th</hi> Jany 1864</date></p>
 <p>Send to F. Munger
 <lb/>Carlisle</p>

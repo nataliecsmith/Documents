@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0112"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,20 +64,20 @@
  <text>
   <body>
    <p>Munfordville Ky.
-<lb/><date when="1861-08-07">Aug 7<hi rend="underline"><hi rend="sup">th</hi></hi>/61</date>
+<lb/><date when="1861-08-07">Aug 7<hi rend="underline"><hi rend="sup">th</hi></hi>/61</date>.
 <lb/>To
 <lb/>His Excellency B. Magoffin.
 <lb/>Gov of Kentucky.</p>
-<p>I did not until last evening recieve yours of the <date when="1861-08-03">3<hi rend="underline"><hi rend="sup">rd</hi></hi></date> appointing me the special agent of the State of Ky to proceed to Tennessee and recieve the arms unlawfuly signed at Mayfield and removed to Union City.</p>
-<p>Feeling as I do deeply, sensible of the manifestation of your confidence, anxious from consideration of your presumed friendship for yourself as well as the most earnest desire to do any duty &amp; perform any service of which I am capable, that will in any way promote the interest of this proud State, of which you are its Chief Magistrate &amp; I an humble citizen -- I would most cheerfully hasten to discharge the duty devolved on me, but for the reason that since my return home from the Capitol I have been quite indisposed, so much so as to be confined to my room, a portion of the time to my couch &amp; under the necessity of calling on my daughter to act as an amanuensis. And do not feel as if it would be prudent for me now subject myself to the fatigue incident to Railway travel.</p>
-<p>I ought perhaps to add nothing -- yet if you do not approve &amp; your Excellency does not act on my suggestions I will at least have the satisfaction of knowing I have discharged my duty &amp; you will do me the justice to say I have.</p>
-<p>You doubtless recollect that I repeated to you what our mutual friend Dr Johnson said to me in relation to the Miltary Board I do not pretend to repeat the Dr's language, but the substance was that the complexion of the Board being Union, the people of the District did not feel as if any favor would be shown them, but the contrary. They felt as if they were entitled to the arms and they had been told that they were sent there for distribution<pb/>
-<lb/>and were not more than their just proportion of the arms belonging to the State. They believed if the guns were brought on this side Tennesse River they would not receive any further share in any future distribution. Dr Johnson as he always is was open frank &amp; manly in all he said to me &amp; I admire &amp; <hi rend="str">ador</hi> honor him for it. I will add that not only Dr Johnson but A P. Thompson Esq, Judge Campbell &amp; in fact most if not all the leading "Southern rights party" in Paducah &amp; Judge Boon &amp; other leading members of the party in Mayfield treated me with all the politeness for which that community are so famous; were I to return I would expect to meet the same treatment. <hi rend="underline">Yet</hi> in view of the peculiarly sensitive state of the public mind in that region -- I incline to the opinion that it would be better for you to select some Southern rights man, who is known to be prudent &amp; discreet. </p>
-<p>I think it might be more agreeable to that community. The <hi rend="underline">only</hi> object <hi rend="underline">I have </hi>is that the person selected by you may be capable of accomplishing the most good &amp; believing that a <hi rend="underline">Southern rights man</hi> would be <hi rend="underline">most acceptable</hi>. I respectfully suggest that you select some gentleman of that party.</p>
+<p>I did not until last evening recieve yours of the <date when="1861-08-03">3<hi rend="underline"><hi rend="sup">rd</hi></hi></date> appointing me the special agent of the State of Ky to proceed to Tennessee and recieve the arms unlawfully signed at Mayfield and removed to Union City.</p>
+<p>Feeling as I do deeply, sensible of the manifestation of your confidence, anxious from consideration of your presumed friendship for yourself as well as the most earnest desire to do any duty &amp; perform any service of which I am capable, that will in any way promote the interest of this proud State, of which you are its Chief Magistrate &amp; I an humble citizen I would most cheerfully hasten to discharge the duty devolved on me, but for the reason that since my return home from the Capitol I have been quite indisposed, so much so as to be confined to my room, a portion of the time to my couch &amp; under the necessity of calling on my daughter to act as an amanuensis. And do not feel as if it would be prudent for me now subject myself to the fatigue incident to Railway travel.</p>
+<p>I ought perhaps to add nothing -- yet if you do not approve &amp; your Excellency does not act on my suggestion, I will at least have the satisfaction of knowing I have discharged my duty &amp; you will do me the justice to say I have.</p>
+<p>You doubtless recollect that I repeated to you what our mutual friend Dr Johnson said to me, in relation to the Miltary Board -- I do not pretend to repeat the Dr's language, but the substance was that the complexion of the Board being Union, the people of the District did not feel as if any favor would be shown them, but the contrary. They felt as if they were entitled to the arms and they had been told that they were sent there for distribution<pb/>
+<lb/>and were not more than their just proportion of the arms belonging to the State. They believed if the guns were brought on this side Tennesse River they would not receive any further share in any future distribution. Dr Johnson as he always is was open frank &amp; manly in all he said to me &amp; I admire &amp; <hi rend="str">adm</hi>honor him for it. I will add that not only Dr Johnson but A P. Thompson Esq, Judge Campbell &amp; in fact most if not all the leading "Southern rights party" in Paducah &amp; Judge Boon &amp; other leading members of the party in Mayfield treated me with all the politeness for which that community are so famous; were I to return I would expect to meet the same treatment. <hi rend="underline">Yet</hi> in view of the peculiarly sensitive state of the public mind in that region -- I incline to the opinion that it would be better for you to select some Southern rights man, who is known to be prudent &amp; discreet. </p>
+<p>I think it might be more agreeable to that community. The <hi rend="underline">only</hi> object <hi rend="underline">I have</hi> is that the person selected by you may be capable of accomplishing the most <hi rend="underline">good</hi> &amp; believing that a <hi rend="underline">Southern rights man</hi> would be <hi rend="underline">most acceptable.</hi> I respectfully suggest that you select some gentleman of that party.</p>
 <p>I am very truly
 <lb/>&amp; Respectfully
 <lb/>G. T. Wood.<pb/></p>
-<p>Co<hi rend="sup">l</hi> Wood</p>
+<p>Col Wood</p>
   </body>
  </text>
 </TEI>

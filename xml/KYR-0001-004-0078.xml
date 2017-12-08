@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0078"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">M. W. Sherill et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">M. W. Sherill to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4197</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <date>n.d.</date>
+    <date when="1863-09">September 1863</date>
    </creation>
    <textClass>
     <keywords>
@@ -59,34 +62,31 @@
  </teiHeader>
  <text>
   <body>
-   <p>To Governor Thomas E Bramlette</p>
-<p>The undersigned M. W. Sherrill states that he is a member of the firm of M. W. Sherrill &amp; Co, of Louisville, commission merchants and Jobbers of Tobacco and Cigars. He was tried and fined one hundred dollars, for pedling without license, by the Presiding Judge of the Lincoln county court, on the <date when="1863-09-26">26<hi rend="sup">th</hi> day of Sept 1863</date>.</p>
+   <p>To Governor Thomas E Bramlette:</p>
+<p>The undersigned M. W. Sherrill states that he is a member of the firm of M. W. Sherrill &amp; Co, of Louisville, commission merchants and Jobbers of Tobacco and cigars. He was tried and fined one hundred dollars, for pedling without license, by the Presiding Judge of the Lincoln county court, on the <date when="1863-09-26">26<hi rend="sup">th</hi> day of Sept 1863</date>.</p>
 <p>He admits a technical violation of the law, but alleges the following circumstances in excuse and extenuation.</p>
-<p>One James T. Vanarsdale connected with the business of said firm, and interested in the sales made by him, on the <date when="1863-06-01">1<hi rend="sup">st</hi> day of June 1863</date>, obtained from the Mercer County Court a regular license to peddle goods issued to him from <hi rend="str">said</hi> the store of said firm. Said Vanarsdale loaded a suitable wagon with said goods, and had progressed on his trip through twelve counties when he was taken sick, and wrote to the undersigned to take hi<hi rend="str">m</hi>s place in order to finish out the sales in the few remaining <unclear><hi rend="str">Inst</hi></unclear> counties yet unvisited. At great sacrifice I left my business at Louisville and proceeded to his fathers residence in Mercer County,<pb/>
-<lb/>where I found Vanarsdale very ill, his life despaired of, and more for his accommodation than any thing else, and with no hope, of a just remun^er^ation for my time and absence from my own business, consented to visit the two or three counties yet unvisited by Vanarsdale. Accordingly I proceeded to Lincoln County, in <hi rend="str">further acc</hi> accordance with such purpose to fulfil said Vanarsdale's prior engagements. It was important to the interest of said Vanarsdale, who depended solely on this business for a support, that he should make his regular rounds. The character of the business required this regularity, in order to supply his customers When in Stanford, to his surprise, he was charged with violating the license law, and fined one hundred dollars, which he immediately deposited with the County Judge of Lincoln. The county Judge and officer declined to receive any costs, being satisfied that I had not purposely or intentionally violated the law. I took with me the license of Vanarsdale, thinking at the time that it was sufficient, especially as I was merely acting for him.</p>
+<p>One James T. Vanarsdale connected with the business of said firm, and interested in the sales made by him, on the <date when="1863-06-01">1<hi rend="sup">st</hi> day of June 1863</date>, obtained from the Mercer county Court a regular license to peddle goods issued to him from <hi rend="str">said</hi> the store of said firm. Said Vanarsdale loaded a suitable wagon with said goods, and had progressed on his trip through twelve counties when he was taken sick, and wrote to the undersigned to take hi<hi rend="str">m</hi>s place in order to finish out the sales in the few remaining <unclear/> counties yet unvisited. At great sacrifice I left my business at Louisville and proceeded to his fathers residence in Mercer County,<pb/>
+<lb/>where I found Vanarsdale very ill, his life despaired of, and more for his accommodation than any thing else, and with no hope, of a just remun^er^ation for my time and absence from my own business, consented to visit the two or three counties yet unvisited by Vanarsdale. Accordingly I proceeded to Lincoln county, in <hi rend="str">further <unclear/></hi> accordance with such purpose to fulfil said Vanarsdale's prior engagements. It was important to the interest of said Vanarsdale, who depended solely on this business for a support, that he should make his regular rounds. The character of the business required this regularity, in order to supply his customers, When in Stanford, to his surprise, he was charged with violating the license law, and fined one hundred dollars, which he immediately deposited with the County Judge of Lincoln. The county Judge and officer declined to receive any costs, being satisfied that I had not purposely or intentionally violated the law. I took with me the License of Vanarsdale, thinking at the time that it was sufficient, especially as I was merely acting for him.</p>
 <p>The goods peddled were issued from the<pb/>
-<lb/>store of said firm of M. W. Sherrill &amp; Co.</p>
-<p>The undersigned is a regular Merchant in Louisville, and has never, knowingly violated any law, and in view of the statement which he here makes, asks that so much of said fine as is due to the State be remitted</p>
-<p>M. W. Sherrill
-<lb/>Subscribed &amp; sworn to before me this <date when="1863"><gap/> 28<hi rend="sup">th</hi> 1863</date>. -- 
-<lb/>John R. Graham P. J. C. F.</p>
-<p><stamp type="revenue"/><note place="stamp">JRG
-<lb/>Sept 29
-<lb/>1863</note>
-<lb/><stamp type="revenue"/><note place="stamp">JRG
-<lb/>Sept 29
-<lb/>1863</note>
-<lb/><stamp type="revenue"/><note place="stamp">JRG
-<lb/>Sept 29
-<lb/>1863</note></p>
-<p>I have known M<hi rend="sup">r</hi>. Sherrill for a number of years and believe him to be an honorabl business man, &amp; gentleman.</p>
+<lb/>store of said firm of M, W, Sherrill &amp; Co.</p>
+<p>The undersigned is a regular merchant in Louisville, and has never, Knowingly violated any law, and in view of the statement which he here makes, asks that so much of said fine as is due to the State be remitted</p>
+<p>M. W. Sherrill</p>
+<p>subscribed &amp; sworn to before me this <date when="1863-09-28">28<hi rend="sup">th</hi> 1863</date>. -- </p>
+<p>John R, Graham P. J. C. f.</p>
+<p><stamp type="revenue"/><note place="stamp">J R G
+<lb/><date when="1863-09-29">Sep 29 1863</date></note>
+<lb/><stamp type="revenue"/><note place="stamp">J R G
+<lb/><date when="1863-09-29">Sep 29 1863</date></note>
+<lb/><stamp type="revenue"/><note place="stamp">J R G
+<lb/><date when="1863-09-29">Sep 29 1863</date></note></p>
+<p>I have Known M<hi rend="underline"><hi rend="sup">r</hi></hi> Sherrill for a number of Years and believe him to be an honorabl business man, &amp; gentleman.</p>
 <p>R. Runyan</p>
-<p>I am well acquainted with James T. Vanarsdale. He has a family, is without estate, and entirely dependent upon the business in which he was engaged when taken sick. He has been subject to long and dangerous spells of sickness which <hi rend="str">prospect</hi> prostrate him and incapacitate him for business. I have known, for sometime that he was connected with the house of Sherrill &amp; Co. Tho' not personally acquainted with M W Sherrill I believe the case to the be meritorious. Vanarsdale is a worthy man, of fine charater and loyal to the state &amp; government. He suffered (heavily for him) from the rebel invasions.
-<lb/>James Harlan Jr<pb/>
-<lb/>Since Mr Sherrils statement was written I learned from him that Vanarsdale was to have all the profits of this trip, so suddenly interrupted, and that the loss would be heavy to him.</p>
+<p>I am well acquainted with James T. Vanarsdale. He has a family, is without estate, and entirely dependant upon the business in which he was engaged when taken sick. He has been subject to long and dangerous spells of sickness which <hi rend="str">prospect</hi> prostrate him and incapacitate him for business- I have known, for some time that he was connected with the house of Sherrill &amp; Co. Tho' not personally acquainted with M W Sherril I believe the case to the be meritorious. Vanarsdale is a worthy man, of fine charater and loyal to the state &amp; government. He suffered (heavily for him) from the rebel invasions.</p>
+<p>James Harlan Jr<pb/></p>
+<p>Since Mr Sherrils statement was written I learned from him that Vanarsdale was to have all the profits of this trip, so suddenly interrupted, and that the loss would be heavy to him -- </p>
 <p>James Harlan Jr</p>
-<p>Mr Secretary note file these with my statement in the matter of M W Sherrill for remission of fine a week or ten days ago</p>
-<p>J H jr
+<p>Mr Secretary will file these with my statement in the matter of M W Sherrill for remission of fine- a week or ten days ago</p>
+<p>J H j<hi rend="sup">r</hi>
 <lb/><date when="1863-10-09">Oct 9<hi rend="sup">th</hi> 1863</date></p>
   </body>
  </text>

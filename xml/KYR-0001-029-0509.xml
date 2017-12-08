@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0509"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,20 +63,21 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P001815">Henderson Ky</placeName>, <date when="1863-08-10">Aug 10<hi rend="sup">th</hi> 1863</date>,
-<lb/>To <persName ref="cwgk:N001004">His Excellency The Governor</persName> of <orgName ref="cwgk:O001025">Kentucky</orgName>:<lb/>Sir:</p>
-<p>Your petitioners respectfully represent that they were the sureties of <persName ref="cwgk:N00000840">Decins Priest</persName> Sheriff of <orgName ref="cwgk:O00000633">Henderson County</orgName>, in his Revenue Bond for the year <date when="1861">1861</date>, that a judgment has been rendered against them in the <orgName ref="cwgk:O00000376">Franklin Circuit court</orgName>, for the balance of the revenue for that year remaining unpaid, being for five or six thousand dollars, and also for the sum of two thousand six hundred &amp; fifty dollars &amp; 96 cts, damages -- The said Priest is a man of but limited means, and in addition to the foregoing has other liabilities as sheriff, for which these petitioners are responsible. They will have the judgment for the revenue to pay, as doubtless large amounts in other liabilities, and will doubtless suffer large losses thereby, They are willing to make the Commonwealth whole, by paying the balance of the revenue and interest, but they respectfully represent that the payment of the damages theron would be a great hardship to them -- They therefore respectfully petition your excellency to remit the amount of the said damages. And they will ever pray -- </p>
+   <p>Henderson Ky, <date when="1863-08-10">Aug 10<hi rend="sup">th</hi> 1863</date>,
+<lb/>To His Excellency The Governor of Kentucky:
+<lb/>Sir:</p>
+<p>Your petitioners respectfully represent that they were the sureties of Decius Priest Sheriff of Henderson County, in his Revenue Bond for the year <date when="1861">1861</date>-- that a judgment has been rendered against them in the Franklin Circuit Court, for the balance of the revenue for that year remaining unpaid, being for five or six thousand dollars, and also for the sum of two thousand six hundred &amp; fifty dollars &amp; 96 cts, damages-- The said Priest is a man of but limited means, and in addition to the foregoing has other liabilities as Sheriff, for which these petitioners are responsible. They will have the judgment for the revenue to pay, as doubtless large amounts on other liabilities, and will doubtless suffer large losses thereby, They are willing to make the Commonwealth whole, by paying the balance of the revenue and interest, but they respectfully represent that the payment of the damages thereon would be a great hardship to them-- They therefore respectfully petition your excellency to remit the amount of the said damages, And they will ever pray -- </p>
 <p>Respectfully &amp;c,
 <lb/>Jackson M<hi rend="sup">c</hi>Clain
-<lb/><persName ref="cwgk:N00000841">N, G, Standley</persName><pb/></p>
+<lb/>N, G, Standley<pb/></p>
 <p>Frankllin Cir. Ct
-<lb/>$2,650 96 } Damages
-<lb/>Damages remitted
-<lb/>J F Robinson
-<lb/>Decins Priest 
+<lb/>&#36;2,6.50 96 &#125; Damages</p>
+<p>Damages remitted
+<lb/>J F Robinson</p>
+<p>Decius Priest 
 <lb/>Sheff Henderson Co
 <lb/><date when="1861">1861</date>
-<lb/>Iss<hi rend="sup">d</hi> <date when="1863-08-28">Aug 28 1863</date></p>
+<lb/>Iss<hi rend="sup">d</hi> <date when="1863-08-28">Aug 25 1863</date></p>
   </body>
  </text>
 </TEI>

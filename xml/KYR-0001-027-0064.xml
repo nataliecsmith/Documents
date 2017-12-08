@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0064"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,25 +66,25 @@
    <p><note place="header">No 1</note>
 <lb/>Frankfort <date when="1862-10-13">Oct 13<hi rend="underline"><hi rend="sup">th</hi></hi> /62</date>
 <lb/>Dear Sir</p>
-<p>I do not intend to obtrude my opinions upon you, but feel it to be my duty to give you a few military facts.</p>
+<p>I do not intend to obtrude my opinions upon you, but feel it to be my duty to give you a few military facts--</p>
 <p>Chapter 1st</p>
-<p>1<hi rend="sup">st</hi> I arrived here at one O'clock P. M. on thursday &amp; found Gen Dumont encamped, with a large force, of Infantry, with several batteries &amp; some 1.000 or 1500 Cavalry on both sides of the river, -- his advance having aided in driving out Scotts cavalry -- (a few hundred) the night before &amp; prevent<hi rend="str">ed</hi>ing them from burning the bridge. -- (2<hi rend="sup">d</hi>) On friday morning I received the following information from M<hi rend="sup">r</hi> Scarce (a true Union man) from Versailles -- (see paper N<hi rend="sup">o</hi> 1.) and went with him -- first to Genl Grainger -- 2<hi rend="sup">nd</hi> in Command, located with his troops, on the Dudley farm, who replied that he could not move without orders -- I then took M<hi rend="sup">r</hi> Scarce to Genl Dumont &amp; urged him, <hi rend="underline">at once</hi>, to send Genl Graingers division -- Say 1000 Cavalry one or two<pb/>
+<p>1<hi rend="sup">st</hi> I arrived here at one O'clock P. M. on thursday &amp; found Gen Dumont encamped, with a large force, of Infantry, with Several batteries &amp; some 1.000 or 1500 Cavalry on both sides of the river --, his advance having aided in driving out Scotts cavalry-- (a few hundred) the night before &amp; prevent<hi rend="str">ed</hi>ing them from burning the bridge. -- (2<hi rend="sup">d</hi>) On friday morning I received the following information from Mr Scarce (a true Union man) from Versailles -- (See paper No 1.) and went with him-- first to Genl Grainger -- 2<hi rend="sup">nd</hi> in Command, located with his troops, on the Dudley farm, who replied that he could not move without orders -- I then took Mr Scarce to Genl Dumont &amp; urged him, <hi rend="underline">at once</hi>, to send Genl Graingers division-- Say 1000 Cavalry one or two<pb/>
 <lb/>Batteries of some 4 or 5 Regiments of Infantry in pursuit, via Versailles to Nicholasville &amp; as far as the bridge, at the mouth of Hickman, -- hoping thereby to overtake the enemy -- cut off his heavy trains -- <hi rend="underline">in part</hi> -- &amp; save the bridge.</p>
-<p>3rd On Saturday, Col Miller was sent to Versailles with several thousand Infantry -- some Cavalry &amp; artillery -- reaching there that evening &amp; capturing some 150 Rebels; -- I presume the Sick in the hospitals. He remained there till 12 or 1 oclock yesterday &amp; <hi rend="underline">then</hi> started in pursuit. After marching a few miles towards Nicholasville &amp; finding no enemy, he <hi rend="underline">faced about</hi> &amp; camped, last Night 3 Miles on this side of Versailles. What he will do next God knows, I have no idea.</p>
-<p>4<hi rend="underline"><hi rend="sup">th</hi></hi> Genl <hi rend="underline">Granger</hi> marched also on Saturday with a large force of Cavalry &amp; Infantry with one or two Batteries towards <hi rend="str">Lousville</hi> Lawrenceburg,, which he reached about dark, drove out the enemy in considerable force &amp; <hi rend="str">afterwards</hi> captured some prisoners. -- <pb/></p>
+<p>3rd On Saturday, Col Miller was sent to Versailles with Several thousand Infantry -- some Cavalry &amp; artillery -- reaching there that evening &amp; capturing some 150 Rebels, -- I presume the Sick in the hospitals. He remained there till 12 or 1 Oclock yesterday &amp; <hi rend="underline">then</hi> started in pursuit. After marching a few miles, towards Nicholasville &amp; finding no enemy, he <hi rend="underline">faced about</hi> &amp; camped, last Night, 3 Miles on this side of Versailles. What he will do next-- God knows, I have no idea.</p>
+<p>4<hi rend="underline"><hi rend="sup">th</hi></hi> Genl <hi rend="underline">Granger</hi> marched also on Saturday with a large force of Cavalry &amp; Infantry with one or two Batteries, towards <hi rend="str">Lousville</hi> Lawrenceburg, which he reached about dark, drove out the enemy in considerable force &amp; <hi rend="str">afterwards</hi> captured some prisoners. -- <pb/></p>
 <p>What he has since done, I have not heard. So much for Genl Dumont &amp; his army.</p>
 <p>Chapter 2<hi rend="underline"><hi rend="sup">nd</hi></hi></p>
-<p>A gentleman well known to you M<hi rend="sup">r</hi>. D. E. Harcourt arrived here last Night from Georgetown, who walked up from here on Saturday &amp; gives me the following information -- </p>
-<p>1<hi rend="sup">st</hi> At Elkhorn bridge he was stoped by Capt White, at the head of about <hi rend="underline">eight</hi> Rebel Cavalry, <hi rend="str"><unclear/></hi>who cautioned him not to tell he had seen them, as they were looking out for Federal Pickets.</p>
-<p>2<hi rend="sup">nd</hi> Genl <hi rend="underline">Pratt</hi> reached Georgetown yesterday at 3 oclock P. M. and gave M<hi rend="sup">r</hi> Harcourt the following information, which he hastened to communicate to Genl Dumond last Night &amp; to me this morning Viz That he had left Genl Burbridge with a large column of Infantry, Artillery &amp; cavalry at Williamstown (Say 9000) &amp; understood that Genl Green Clay Smith was at the head of a similar Column on the great State dirt road to Cynthaiana -- all waiting<pb/>
-<lb/>for orders &amp; to hear from Genl <hi rend="underline">Dumont</hi>; Reminding me, very much, of the remarkable pursuit of Morgan, on his late raid -- when two columns -- each large enough to whip him, (if well commanded) after coming up with him at Paris, <hi rend="underline">rested</hi> <hi rend="underline">a</hi> <hi rend="underline">day</hi> <hi rend="underline">&amp; night</hi> &amp; then pursued him in double-<hi rend="underline">Slow</hi>-time.</p>
+<p>A gentleman well known to you M<hi rend="underline"><hi rend="sup">r</hi></hi> D. E. Harcourt arrived here last Night from Georgetown, who walked up from here on Saturday &amp; gives me the following information--</p>
+<p>1<hi rend="sup">st</hi> At Elkhorn bridge he was stoped by Capt White, at the head of about <hi rend="underline">eight</hi> Rebels Cavalry, <hi rend="str"><unclear/></hi>who cautioned him not to tell he had seen them, as they were looking out for Federal Pickets.</p>
+<p>2<hi rend="sup">nd</hi> Genl <hi rend="underline">Pratt</hi> reached Georgetown yesterday at 3 oclock P. M. and gave M<hi rend="sup">r</hi> Harcourt the following information, which he hastened to communicate to Genl Dumont last Night &amp; to me this Morning Viz That he had left Genl Burbridge with a large column of Infantry, Artillery &amp; cavalry at Williamstown (Say 9000) &amp; understood that Genl Green Clay Smith was at the head of a similar Column on the great State dirt road to Cynthiana-- all waiting<pb/>
+<lb/>for orders &amp; to hear from Genl <hi rend="underline">Dumont</hi>; Reminding me, very much, of the remarkable pursuit of Morgan, on his late raid -- when two columns -- each large enough to whip him, (if well commanded) after coming up with him at Paris -- <hi rend="underline">rested</hi> <hi rend="underline">a</hi> <hi rend="underline">day</hi> <hi rend="underline">&amp; night</hi> &amp; then pursued him in double <hi rend="underline">Slow</hi>-time.</p>
 <p>Remarks</p>
-<p>1<hi rend="sup">st</hi> I would stake my life, &amp; so told Genl. Dumont, that there is not, at this time, &amp; was not on yesterday, 1000 armed Rebels -- all told -- North of the Kentucky River &amp; yet these large Columns, instead of moving ahead rapidly on Braggs rear &amp; supporting Genl Buell, will wait on each other till they can do no good &amp; then march into our rich counties &amp; consume or destroy all that the Rebels have left us.</p>
-<p>Respectfully Yours
-<lb/>Most Ob't Sv't.</p>
+<p>1<hi rend="sup">st</hi> I would stake my life, &amp; so told Genl. Dumont, that there is not, at this time, &amp; was not on yesterday-- 1000 armed Rebels -- all told-- North of the Kentucky River &amp; yet these large columns, instead of moving ahead rapidly on Braggs rear &amp; supporting Genl Buell, will wait on each other till they can do no good &amp; then march into our rich counties &amp; consume or destroy all that the Rebels have left us.</p>
+<p>Respectfully Your
+<lb/>Most Ob't. Sv't.</p>
 <p>His Excel. Gov Robinson<pb/></p>
 <p>Paper No 1</p>
-<p>M<hi rend="sup">r</hi>. Scarce informed me &amp; I wrote to Genl Dumont &amp; told him that a Column of Rebel Infantry (say 5000 or 6000) left Versailles on the Nicholasville Turnpike Wednesday Evening -- leaving only some 150 sick in the hospitals -- that Genl <hi rend="underline">Scott</hi> left these with all his cavalry, except Col Stearns Regiment, which was encamped at Harts farm, on this side of Versailles -- about 2 oclock thursday afternoon &amp; was followed by Col Stearnes at 7 oclock the same Evening -- towards Nicholasville -- That a large train of Waggons which had started towards Harrodsburg, was brought back &amp; sent off also on the turnpike road to Nicholasville &amp;c &amp; c. He had also received reliable information that with the exception of a small cavalry force, all the Rebels left Lexington Wednesday-Evening in haste and confusion.</p>
+<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> Scarce informed me &amp; I wrote to Genl Dumont &amp; told him that a column of Rebel Infantry (say 5000 or 6000) left Versailles on the Nicholasville Turnpike Wednesday-- Evening-- leaving only some 150 sick in the hospitals -- That Genl <hi rend="underline">Scott</hi> left there with all his cavalry, except Col Stearns Regiment, which was encamped at Harts farm, on this side of Versailles -- about 2 oclock thursday afternoon &amp; was followed by Col Stearnes at 7 oclock the Same Evening-- towards Nicholasville -- That a large train of Waggons which had started towards Harrodsburg, was brought back &amp; sent off also on the turnpike road to Nicholasville &amp;c &amp;c. He had also received reliable information that with the exception of a small cavalry force, all the Rebels left Lexington Wednesday-Evening in haste and Confusion.</p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0232"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -52,16 +55,15 @@
    </creation>
    <textClass>
     <keywords>
-     <term type="genre">Petition</term>
+     <term type="genre">Legal/Financial</term>
     </keywords>
    </textClass>
   </profileDesc>
  </teiHeader>
  <text>
   <body>
-   <p>I am personally acquainted with Andrew Strauss. He is a mechanic, a poor hard working man, and I should think that were he compelled to pay a fine of $800 -- it would operate very seriously to the detriment of himself &amp; family, if not him him pecuniarily. He has a large family dependent Solely upon his exertions for support. <date when="1863-11-11">Novr 11th 1863</date>.</p>
-<p>Harry Stucky Ck Lou 
-<lb/>Chancery Court</p>
+   <p>I am personally acquainted with Andrew Strauss. He is a mechanic, a poor hard working man, and I should think that were he compelled to pay a fine of &#36;800 -- it would operate very seriously to the detriment of himself &amp; family, if not him him pecuniarily -- He has a large family dependent Solely upon his exertions for support. <date when="1863-11-11">Novr 11<hi rend="sup">th</hi> 1863</date>,</p>
+<p>Harry Stucky Ck Lou Chancery Court,</p>
   </body>
  </text>
 </TEI>

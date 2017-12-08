@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0086"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,15 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>24 Pine Street New York
+   <p>24 Pine street New York
 <lb/><date when="1861-02-26">26 Feb'y 1861</date>
 <lb/>Messrs Kinkead &amp; Barr.
 <lb/>Gentlemen.</p>
-<p>Your favors of the <date when="1861-02-01">1st</date> and <date when="1861-02-23">23<hi rend="underline"><hi rend="sup">d</hi></hi></date> of Feb'y are received and I am much obliged to you for the trouble you have taken. I enclose you an aff't and the $5. fee which are to be forwarded to the Sec'y of State of Kentucky -- </p>
+<p>Your favors of the <date when="1861-02-01">1st</date> and <date when="1861-02-23">23<hi rend="underline"><hi rend="sup">d</hi></hi></date> of Feb'y are received and I am much obliged to you for the trouble you have taken. I enclose you an aff't and the &#36;5. fee which are to be forwarded to the Sec'y of State of Kentucky-</p>
 <p>Mr Hoffman will send you in a few days the draft for the collection concerning which he wrote you a short time ago.</p>
 <p>Very truly yours
-<lb/>Thomas Darlington
-<lb/></p>
+<lb/>Thomas Darlington</p>
   </body>
  </text>
 </TEI>

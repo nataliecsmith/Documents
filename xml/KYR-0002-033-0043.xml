@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0043"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Eward D. Townsend, Special Orders, No. 309</title>
+    <title level="a" type="main">Edward D. Townsend, Special Orders, No. 309</title>
     <title level="a" type="parallel">CWG11594</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,9 +67,9 @@
 <lb/>ADJUTANT GENERAL'S OFFICE,
 <lb/><hi rend="italic">Washington, </hi><date when="1864-09-19"><hi rend="italic">September</hi> 19<hi rend="italic">th</hi>, 1864.</date>
 <lb/>SPECIAL ORDERS,
-<lb/>No. 309.</p>
-<p>(<hi rend="italic">Extract</hi>.)<figure type="hr"/></p>
-<p>44. The following named officers and enlisted man, unconditionally released Prisoners of War, will proceed to join their regiments for duty with permission to delay <hi rend="italic">en route</hi> twenty days: -- 
+<lb/>No. 309.
+<lb/>(<hi rend="italic">Extract</hi>.)<figure type="hr"/></p>
+<p>44. The following named officers and enlisted man, unconditionally released Prisoners of War, will proceed to join their regiments for duty, with permission to delay <hi rend="italic">en route</hi> twenty days: -- 
 <lb/>Surgeon <hi rend="italic">J. Y. Finley</hi>, 2d Kentucky Cavalry.<figure type="hr"/></p>
 <p>By order of the Secretary of War:
 <lb/>E. D. TOWNSEND, 
@@ -76,13 +79,13 @@
 <lb/><hi rend="italic">Assistant Adjutant General.</hi> </p>
 <p>Governor of Kentucky<pb/></p>
 <p>War Department
-<lb/>Adjutant Generals office 
-<lb/>Washington <date when="1864-09-19">Sep. 19. 1864.</date><figure type="hr"/>
-<lb/>2<hi rend="sup">d</hi> Cav
-<lb/>Townsend E. D.
+<lb/>Adjutant Generals Office 
+<lb/>Washington <date when="1864-09-19">Sep. 19. 1864-</date><figure type="hr"/>
+<lb/>2<hi rend="sup">d</hi> cav</p>
+<p>Townsend E D.
 <lb/>A. A. G.<figure type="hr"/></p>
 <p>Following named officer will proceed to join his Regiment for duty with permission to delay en-route 20 days.
-<lb/><hi rend="underline">Sug J. Y. Finley 2 Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi><figure type="hr"/></p>
+<lb/><hi rend="underline">Surg</hi> <hi rend="underline">J. Y. Finley 2 Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi><figure type="hr"/></p>
 <p>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-09-24">Sept 24. 1864</date></p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0021"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,7 +64,7 @@
  <text>
   <body>
    <p>(Copy)
-<lb/>Rockcastle County, <date when="1862-08-21">Wed. aug. <hi rend="underline">21</hi> 1862</date>, 9 p.m.
+<lb/>Rockcastle County, <date when="1862-08-21">wed, aug. <hi rend="underline">21</hi> 1862</date>, 9 p.m.
 <lb/>Capt. S. B. Brown.</p>
 <p>I have ascertained to a certainty <hi rend="str">to a certainty</hi> that the rebels are in great force at and below London. About 1000 Cavalry at London and three or four thousand infantry beyond there towards Barboursville. I have seen several there who were prisoners, and four different men who were with waggons tell me that they laid in the woods and saw the infantry passing for half a day towards Barboursville. They have destroyed everything south of here and we are feeding the last corn we can get: we cannot live here -- there is nothing more for horses -- it is all nonsense to talk about feeding the little patches of green corn to our horses, that would starve the women &amp; children &amp; kill our horses.</p>
 <p>There are also four hundred rebels at M<hi rend="underline"><hi rend="sup">t</hi></hi> Vernon. They are threatening me from both positions &amp; some danger of them getting between me &amp; Richmond.</p>
@@ -73,8 +76,8 @@
 <p>Telegraph the substance of this to the Gen<hi rend="underline"><hi rend="sup">l</hi></hi> and send this letter to him.</p>
 <p>If there were no forces in front of us we could not live here: everything destroyed.</p>
 <p>Leonidas Metcalfe
-<lb/>Col<hi rend="underline"><hi rend="sup">n</hi></hi> of Cav.
-<lb/>W. M. Oden, Lieut. Col<hi rend="underline"><hi rend="sup">n</hi></hi>
+<lb/>Col<hi rend="underline"><hi rend="sup">n</hi></hi> of Cav,
+<lb/>W. M. Oden, Lieu<hi rend="sup">t</hi>, Col<hi rend="underline"><hi rend="sup">n</hi></hi>
 <lb/>J. K. Faulkner, Major
 <lb/>Chas Milward. Maj.</p>
   </body>

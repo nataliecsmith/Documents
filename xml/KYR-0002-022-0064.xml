@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0064"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,25 +63,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>Headquarters Kentucky volunteers,
-<lb/>Adjutant= General's Office,
-<lb/>Frankfort, <date when="1865-01-20">Jany 20", 1865.</date>
+   <p>Headquarters Kentucky Volunteers,
+<lb/>Adjutant=General's Office,
+<lb/>Frankfort, <date when="1865-01-20">Jany 20', 1865.</date>
 <lb/>Geo B. Baum Esq
 <lb/>Louisville, Ky.
 <lb/>Sir,</p>
 <p>Herewith I send you authority to recruit a Company for one year State service.</p>
-<p>Maj Duncan 13' Infy &amp; Col Hays 10' Infy are each of them raising a Regiment of State troops and I would suggest that you act in concert with one of them in raising your Company as I doubt not it would be beneficial to both of you interests.</p>
-<p>Respy
-<lb/>Your Obed Serv<hi rend="sup">t</hi>
+<p>Maj Duncan 13' Infy &amp; Col Hays 10' Infy are each of them raising a Regiment of State troops and I would suggest that you act in concert with one of them in raising your Company as I doubt not it would be beneficial to both of your interests.</p>
+<p>Resp<hi rend="sup">y</hi>
+<lb/>Your Obed Ser<hi rend="sup">t</hi>
 <lb/>D. W. Lindsey
-<lb/>Insp<hi rend="sup">r</hi> &amp; Adj Gen<hi rend="sup">l</hi> Ky<pb/></p>
-<p><hi rend="underline">State service</hi>
-<lb/><hi rend="underline">Baum George B.</hi>
-<lb/>Authy cancelled
-<lb/><date when="1863-03-29"><hi rend="underline">Mar 29, 1863-</hi></date>
-<lb/>Cancel authority
-<lb/>(Returned from Dead Letter Office).
-<lb/>D W Lindsey
+<lb/>Inspr &amp; Adj Genl Ky<pb/></p>
+<p>State service.<figure type="hr"/>
+<lb/>Baum George B.<figure type="hr"/></p>
+<p>Authy cancelled
+<lb/><date when="1865-03-27">Mar 27. 1865</date><figure type="hr"/></p>
+<p>Cancel authority
+<lb/>(Returned from Dead Letter Office).</p>
+<p>D W Lindsey
 <lb/><date when="1865-03-27">Mch 27<hi rend="sup">th </hi>1865</date></p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0067"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <date when="1865">1865</date>
+    <date when="1865-06">June 1865</date>
    </creation>
    <textClass>
     <keywords>
@@ -62,11 +65,11 @@
    <p>Dennis Fox (it is said) Killed Pat. Caulay <date when="1865-06-07">June 7<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date> in Louisville Ky.</p>
 <p>Fox is an Irish labourer about 26 years of age -- 5 ft 7 or 8 inches high -- spare, with sharp features -- light brown hair -- sandy complexion -- wide mouth -- flat nose and down look -- </p>
 <p>Dear Governor</p>
-<p>The above description of Dennis Fox has been handed me by the brother of the murdered man. Fox has fled. It is thought that the offer of a suitable reward by your Excellency would secure his arrest. The friends of of the murdered man are poor and I recommend the offer by your Excellency of a reward of about $150 or $200.</p>
+<p>The above description of Dennis Fox has been handed me by the brother of the murdered man. Fox has fled. It is thought that the offer of a suitable reward by your Excellency would secure his arrest. The friends of of the murdered man are poor and I recommend the offer by your Excellency of a reward of about &#36;150 or &#36;200.</p>
 <p>Your friend &amp;c.
 <lb/><hi rend="underline">P. B Muir</hi><pb/></p>
 <p>Reward
-<lb/>$250
+<lb/>&#36;250.
 <lb/>For Dennis Fox
 <lb/>Offered <date when="1865-06-27">27 June 1865</date></p>
   </body>

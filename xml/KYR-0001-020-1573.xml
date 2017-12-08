@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1573"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">T. E. Moore et al. to Beriah Magoffin</title>
+    <title level="a" type="main">T. E. Moore to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG11041</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,32 +64,32 @@
  <text>
   <body>
    <p>To his Excellency Govenor M<hi rend="sup">c</hi>Goffin.</p>
-<p>Your petitioners would respectfully represent that David Boner and Joseph Hendricks were at the present <date when="1861-10">Oct</date> Term of the Pendleton Circuit Court found guilty by the verdict of a jury of breaking into the store house of Thomas Wheeler in the County of Pendleton with intent to commit a fellony. They are mere boys, have always sustained a good character, and whether guilty or not your petitioners believe that their pardon, would be promotive of their reformation. They are respectfully connected: no other charge has ever been brought or prefered against them. Your petitioners, with strong assurances from the accused of th<unclear/> reformation, respectfully request your Exellency to pardon them. </p>
-<p><milestone unit="column" n="2"/><cb n="1"/>I with A. G. Roberts defended the young men who have petitioned for Executive clemency. They are respectably connected: are quite young and I believe their pardon would have the effect to reform them if guilty. L. F. Throope</p>
-<p>I endorse the statements of Maj Throope A G Roberts</p>
+<p>Your petitioners would respectfully represent that David Boner and Joseph Hendricks were at the present <date when="1861-10">Oct</date> term of the Pendleton Circuit Court found guilty by the verdict of a jury of breaking into the store house of Thomas Wheeler in the County of Pendleton with intent to commit a fellony. They are mere boys, have always sustained a good character, and whether guilty or not your petitioners believe that their pardon, would be promotive of their reformation. They are respectfully connected: no other charge has ever been brought or prefered against them. Your petitioners, with strong assurances from the accused of th<unclear/> reformation, respectfully request your Exellency to pardon them. </p>
+<p><milestone unit="column" n="2"/><cb n="1"/>I with A. G. Roberts defended the young men who have petitioned for Executive clemency. They are respectably connected: are quite young and I believe their pardon would have the effect to reform them if guilty. L. F. Swoope</p>
+<p>I endorse the statements of Maj Swoope A G Roberts</p>
 <p>E J Rawlings
 <lb/><hi rend="underline">S. Tho. Hauser</hi>
 <lb/>J. S. Coleman
 <lb/><cb n="2"/><hi rend="underline">T E Moore</hi><milestone unit="column" n="1"/></p>
-<p>The undersigned, who were jurors in the case above mentioned unite with the petitoners for the pardon of David Boner &amp; Joseph Hendricks<pb/></p>
+<p>The undersigned, who were jurors in the case above mentioned, unite with the petitoners for the pardon of David Boner &amp; Joseph Hendricks<pb/></p>
 <p>R W Dudley Juror
-<lb/>W G Myers Juror
+<lb/><unclear>W G</unclear> Myers Juror
 <lb/>N J Levengood Juror
-<lb/>John M. Pribble Juror
+<lb/>John, M. Pribble Juror
 <lb/>G. W. Lewis Juror
 <lb/>C F Ellis Juror
 <lb/>James W Logan Jur
 <lb/>Wesley Purdy Jur
 <lb/>Taylor Ewing Juror
-<lb/>John Childers Jr</p>
+<lb/>John Childers Ju</p>
 <p>Commonwealth of Kentucky
-<lb/>Pendleton Circuit Court } Sct</p>
-<p>I Geo M Ameson D C for M Mullins <unclear/> do hereby certif that foregoing list of names Served as Jurors on the with named case. Given under my hand this <date when="1861-12-09">9<hi rend="sup">th</hi> day of December 1861</date></p>
+<lb/>Pendleton Circuit Court &#125; Sct</p>
+<p>I Geo W Jameson D C for M Mullins <unclear/> do hereby certif that foregoing list of names Served as Jurors on the with named case. Given under my hand this <date when="1861-12-09">9<hi rend="sup">th</hi> day of December 1861</date></p>
 <p>M Mullins Ck
-<lb/>By Geo. W Ameson D C<pb/></p>
+<lb/>By Geo. W Jameson D C<pb/></p>
 <p>Hendricks Case
 <lb/>Pendleton
-<lb/><unclear/></p>
+<lb/>P<unclear/></p>
   </body>
  </text>
 </TEI>

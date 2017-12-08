@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0229"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,13 +64,13 @@
  <text>
   <body>
    <p>Louisville <date when="1863-11-03">Nov 3<hi rend="underline"><hi rend="sup">rd</hi></hi> 1863</date></p>
-<p>Govner Bramlet your honer &amp; Excelency: I William Walker have bin Tried &amp; Convicted to the Penitentiarey for one year &amp; it is my first ofence. So I can onley Recomend my self to your kind mercy to be pardoned. I am a member of the twentey fourth Ohio vols. &amp; have bin true to my cuntrey's laws &amp; have nobely discharg^ed^ my duty as a Soledier for the period of to years &amp; allso I have a widoed Mother to mantain whom it greavs my heart with horer to part with noing that I am the only one in this world for her to depend on for assistance your honer I can state to you veary plainley the reason why I am in this Sad &amp; disgrasfull State it is not because I natuerley posesed a felonious disposition. but becas I hav bin deprived of &amp; Seperatid from thos kind<pb/>
-<lb/>friends. That instenced me. &amp; hav bin led astray. by inteligent men whouse influince &amp; wickid temtations &amp; vises &amp; inticing habits have at length brought me to my ruin and I think providence that I hav bin detected in this my first offence and braught to acount for it at the hands of Justice how it greavs me when I think that onley twelve months ago I was <unclear>aseid</unclear> with honesty and piety &amp; was blesed with the qualities of eney society &amp; now to think that I am incarcerated in this contemtible prison &amp; found guilty &amp; convicted of a greavious &amp; felonious Crime. Deprived of two years liberty and sentanced to a glumey sell. to dwell with the the veary demons of wickedness and outlaws of the world is this my dome, your honer I pray not!</p>
+<p>Govner Bramlet your honer &amp; Excelency: I William Walker have bin Tried &amp; Convicted to the Penitenicrey for one year &amp; it is my first ofence So I can onley Recomend my Self to <hi rend="str">t</hi>your kind mercy to be pardoned. I am a member of the twentey fourth Ohio vols &amp; have bin true to my cuntreys laws &amp; have nobely discharg^ed^ my duty as a Soldier for the period of to years &amp; allso I have a widoed Mother to mantain whoom it greavs my heart with horer to part with noing that I am the only one in this world for her to depend on for assistance your honer I can stat to you veary plainley the reason why I am in this Sad &amp; disgrasfull State it is not because I natuerley posesed a felonious disposition but becas I hav bin deprived of &amp; Seperatid from thos kind<pb/>
+<lb/>friends that instruced me &amp; hav bin led astray by inteligent men whouse influince &amp; wickid temtations &amp; vises &amp; enticing habits have at length brought me to my ruin and I thank providence that I hav bin detected in this my first offence and brought to acount for it at the hands of Justice- how it greavs me when I think that onley twelve months ago I was <unclear/> with honesty and piety &amp; was blesed with the qualities of eney society &amp; now to think that I am incarcerated in this contemtible prison &amp; found guilty &amp; convicted of a greavious &amp; felonious Crime Deprived of two years liberty and sentanced to a glumey sell to dwell with the the veary demons of wickedness and outlaws of the world is this my dome., your honer I pray not!</p>
 <p>William Walker
-<lb/>Co. B. 24th Reg. O. V<pb/></p>
-<p>Jefferson County
-<lb/>Pardon Refused
-<lb/>Tho E Bramlette</p>
+<lb/>Co, B, 24th Reg. O. V<pb/></p>
+<p>Jefferson county</p>
+<p>Pardon Refused</p>
+<p>Tho E Bramlette</p>
   </body>
  </text>
 </TEI>

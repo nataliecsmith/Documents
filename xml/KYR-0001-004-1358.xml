@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1358"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,18 +64,18 @@
   <body>
    <p>To his Excellency Gov Tho<hi rend="sup">s</hi> E Bramlette -- </p>
 <p>Your petitioners represent that they were jurors in the case of the Commonwealth against John Patterson tried at the <date when="1864-11">November Term 1864</date> of the Mercer Circuit Court on a charge of maliciously shooting &amp; wounding A G Kyle and as such under the instructions of the Court they gave &amp; rendered a verdict of guilty against the said Patterson &amp; affixed his punishment at confinement in the Penitentiary at one year -- </p>
-<p>They allege that three reputable witnesses (Towit) James Taylor, D<hi rend="sup">r</hi> Wallace and Elijah Gabbert stated on the trial of said cause, that they saw the prisoner at the time the alleged shooting was done, and they each stated they believed and were satisfied that the prisoner had not shot A G Kyle, nor had the prisoner fired at the said Kyle, and the said Kyle testified on trial of said cause that no ill feeling or bad blood had ever existed so far as he had reason to know or beleive between himself &amp; the prisoner,</p>
+<p>They allege that three reputable witnesses (Towit) James Taylor, D<hi rend="sup">r</hi> Wallace and Elijah Gabbert stated on the trial of said cause, that they saw the prisoner at the time the alleged shooting was done, and they each stated they believed and were satisfied that the prisoner had not shot A G Kyle, nor had the prisoner fired at the said Kyle, And the said Kyle testified on trial of said cause that no ill feeling or bad blood had ever existed so far as he had reason to know or beleive between himself &amp; the prisoner,</p>
 <p>But as jurors in the said cause they state that they beleive the case presents strong reasons for Executive clemency and they therefore pray your Excellency to grant him a full pardon for the commission of the above offence and they will ever pray &amp; c<pb/></p>
 <p>J L. Martin
 <lb/>Jonas Robb
 <lb/>A Q Sims
-<lb/>J C McDaniel
+<lb/>J C M Daniel
 <lb/>H W Mitchell
 <lb/>Joseph yeast
 <lb/>Dan<hi rend="sup">l</hi> F James
-<lb/>George Ramey
+<lb/>George Raney
 <lb/>J H Adams
-<lb/>W B <unclear>Dranes</unclear>
+<lb/>W B Semones
 <lb/>Cornelius Donovan</p>
   </body>
  </text>

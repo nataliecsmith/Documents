@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0244"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,20 +62,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Thomas E Bramlette Governor of Ky -- </p>
-<p>Your Petitioner Prudence Hundley states that her son <hi rend="underline">John Newton</hi> was fined in the city court of Louisville on the <date when="--09-09">9<hi rend="underline"><hi rend="sup">th</hi></hi> of September</date> last in the sum of Fifty dollars on a charge of carrying concealed a deadly weapon, to wit, a pistol -- </p>
-<p>She states that her ^son^ is only 17 years of age, and this act of imprudence on his part is likely to cost her more money tha<hi rend="str">t</hi>n she is able to pay at this time. She is poor and a widow and the costs &amp; commissions upon this fine are onerous. She prays to be releived. She further states that some one had threatened the life of her son as She has been informed And that he took this means to defend himself. But she considers that it was an act of imprudence upon his part and she has admonished him accordingly. He is unable to pay a cent, And she must bear the brunt of the whole affair unless relieved by your Excellency. She prays a remission of the fine. And promises to use her endeavors to prevent a repetition of the offence.</p>
+   <p>To His Excellency Thomas E. Bramlette Governor of Ky -- </p>
+<p>Your Petitioner Prudence Hundley states that her son <hi rend="underline">John</hi> <hi rend="underline">Newton</hi> was fined in the City Court of Louisville on the <date when="1863-09-09">9<hi rend="underline"><hi rend="sup">th</hi></hi> of September</date> last in the sum of Fifty dollars on a charge of carrying concealed a deadly weapon, to wit, a pistol -- </p>
+<p>She states that her ^son^ is only 17 years of age, and this act of imprudence on his part is likely to cost her more money tha<hi rend="str">t</hi>n she is able to pay at this time. She is poor and a widow and the costs &amp; commissions upon this fine are onerous- She prays to be releived- She further states that some one had threatened the life of her son as she has been informed and that he took this means to defend himself. But she considers that it was an act of imprudence upon his part and she has admonished him accordingly- He is unable to pay a cent, And she must bear the brunt of the whole affair unless relieved by your Excellency- She prays a remission of the fine- And promises to use her endeavors to prevent a repetition of the offence -- </p>
 <p>Prudence Hundley
 <lb/>for her son John Newton</p>
-<p><note place="left margin">Direct <hi rend="underline">pardon</hi> to Clerk of the City Court of Louisville.</note><pb/></p>
+<p><note place="left margin">&amp;#9758; Direct <hi rend="underline">pardon</hi> to Clerk of the City Court of Louisville -- </note><pb/></p>
 <p>Louisville City Court
-<lb/>vs
-<lb/>John Newton
-<lb/>Carry Con<hi rend="sup">d</hi> Weapon
-<lb/><date when="1863-11-10">10<hi rend="sup">th</hi> Nov/ 63</date></p>
-<p>Respite 12 mos
-<lb/>Tho E Bramlette
-<lb/></p>
+<lb/>vs</p>
+<p>Respite 12 <hi rend="underline"><hi rend="sup">mos</hi></hi></p>
+<p>Tho E Bramlette</p>
+<p>John Newton
+<lb/><hi rend="str">B</hi>Carry Con<hi rend="sup">d</hi> Weapon
+<lb/><date when="1863-11-10">10<hi rend="sup">th</hi> Nov/63</date></p>
   </body>
  </text>
 </TEI>

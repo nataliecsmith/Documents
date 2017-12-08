@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1390"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,6 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
+    <placeName>Jefferson County, Kentucky</placeName>
     <date when="1864-12-12">12 December 1864</date>
    </creation>
    <textClass>
@@ -59,19 +63,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>Baird &amp; Price
-<lb/>Attys for accused
+   <p><note place="header">Baird &amp; Price
+<lb/>Attys for accused</note>
 <lb/>To His Excy. Thomas E. Bramlette
 <lb/>Governor of the Commth of Ky -- </p>
-<p>Your Petitioner Martin Pendergrast was indicted at the now Pending Term of the Jefferson Circuit court on the charge of <hi rend="underline">Murder</hi>. He was charged with having murdered one Patrick Walsh. It was impossible for your Petitioner to get all the facts of the case before the Jury. Yet the Jury found him guilty of <hi rend="underline">Manslaughter</hi> and Fixed his sentence at two years in the State's Prison -- the punishment for the lightest shade of said offence -- It was evident to your Petitioner that he would have been <hi rend="underline">entirely</hi> <hi rend="underline">acquitted</hi> had all the facts been before the Jury.</p>
+<p>Your Petitioner Martin Pendergrast was indicted at the now Pending Term of the Jefferson Circuit Court on the charge of <hi rend="underline">Murder</hi>. He was charged with having murdered one Patrick Walsh. It was impossible for your Petitioner to get all the facts of the case before the Jury. Yet the Jury found him guilty of <hi rend="underline">Manslaughter</hi> and fixed his sentence at two years in the State's Prison -- the punishment for the lightest shade of said offence. It was evident to your Petitioner that he would have been <hi rend="underline">entirely</hi> <hi rend="underline">acquitted</hi> had all the facts been before the Jury.</p>
 <p>Patrick Walsh was a bully, ruffian, <hi rend="underline">robber</hi>, and shoulder-hitter; and was imposing upon your Petitioner, who proved an amiable and peaceable character. He relies on his good character for Executive clemency and prays your Excy's <hi rend="underline">Pardon</hi>.</p>
+<p><note place="left margin">&amp;#9758;The weapon used in killing Walsh was an <hi rend="underline">ordinary</hi> knife -- </note></p>
 <p>Most respectfully -- 
-<lb/><hi rend="underline">Martin Penderas</hi>t</p>
-<p><note place="left margin">&amp;#9758;The weapon used in killing Walsh was an ordinary knife -- </note><pb/></p>
-<p>We the undersigned Jurors who tried Martin Pendergrast, and others who are acquainted with the facts of the case referred to in the Foregoing Petition pray your Excy. to Pardon him --.<figure type="hr"/></p>
-<p><hi rend="underline">L. Arterburn. Sr.</hi>
-<lb/>W L Miller
-<lb/>W<hi rend="sup">m</hi>. P. Shephard
+<lb/><hi rend="underline">Martin Penderast</hi><pb/></p>
+<p>Jefferson Cir Ct
+<lb/>vs
+<lb/>M. Pendergrast</p>
+<p><hi rend="underline">Rejected</hi><pb/></p>
+<p>We the undersigned Jurors who tried Martin Pendergrast, and others who are acquainted with the facts of the case referred to in the Foregoing Petition pray your Excy. to <hi rend="underline">Pardon</hi> him --.<figure type="hr"/></p>
+<p><hi rend="underline">T. Arterburn. Sr.</hi>
+<lb/>W L Weller
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Shephard
 <lb/>D. K. Stephens
 <lb/>George Rhodes
 <lb/>John L Hikes
@@ -79,18 +87,15 @@
 <lb/>George Swope
 <lb/>Luther Wilson</p>
 <p>State of Kentucky</p>
-<p>I James P Chambers Clerk Jefferson Circuit Court certify that the foregoing nine names are the names of jurors in the case of Commonwealth vs Martin Pendergrast convicted of felony at <date when="1864-10">this October</date> Term of this court</p>
-<p><date when="1864-12-12">Dec 12 1864</date> att James P Chambers c<pb/></p>
-<p>Governor Bramlette</p>
-<p>Sir. I am constrained to add my request to that of the Jurors for the pardon of Martin Pendergrast for the following reasons. the Witness upon whose evidence the conviction was had. Swore differently on the final trial from what she did before the coroners Jury and the Examining court. (in this) before the coroners Jury &amp; the Examining court she Swore that she did not see Pendergrast Stab Deceased but thought he Deceased was shot on the final trial She swore she saw Pendergrast stab Deceased</p>
-<p>James C Gill Coroner J. C. Ky</p>
-<p>Governor Bramlette
+<p>I James P Chambers Clerk Jefferson Circuit Court certify that the foregoing nine names <hi rend="str">ar</hi>were the names of jurors in the case of Commonwealth vs Martin Pendergrast convicted of felony at <date when="1864-10">this the October</date> Term of this court
+<lb/><date when="1864-12-12">Dec 12 1864</date></p>
+<p>att James P Chambers c<pb/></p>
+<p>Govenor Bramlette</p>
+<p>Sir, I am constrained to add my request to that of the Jurors for the pardon of Martin Pendergrast for the following reasons. the Witness upon whose evidence the conviction was had. Swore differently on the final trial from what she did before the Coroners Jury and the Examining Court. (in this) before the Coroners Jury &amp; the Examining Court she Swore that she did not see Pendergrast Stab Deceased but thought he Deceased was shot on the final trial She swore she saw Pendergrast stab Deceased</p>
+<p>James C Gill Coroner J, C, Ky</p>
+<p>Govenor Bramlette
 <lb/>Dear Sir</p>
-<p>Martin Pendegrass is a poor man &amp; was unable to pay us a fee, but we feel as much bound to aide him as if he had paid us thousands, If we had had the advantage of the Coroners testimony which is stated above, Pendegrass would have been acquited beyond a doubt but being unable to have it at the trial the Jury <hi rend="str">gave</hi> found Pendegrass guilty of manslaughter for the lowest term, we Join in the above prayer for a full pardon<pb/></p>
-<p>Jefferson Cir Ct
-<lb/>vs
-<lb/>M. Pendergrast
-<lb/>Rejected</p>
+<p>Martin Pendegrass is a poor man &amp; was unable to pay us a fee, but we feel as much bound to aide him as if he had paid us thousands. If we had had the advantage of the Coroners testimony which is stated above, Pendegrass would have been acquited beyond a doubt but beeing unable to have it at the trial the Jury <hi rend="str">gave</hi> found Pendegrass guilty of manslaughter for the lowest term, we Join in the above prayer for a full pardon<pb/></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0055"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,48 +63,47 @@
  <text>
   <body>
    <p>To his Excellency the Governor of Kentucky,</p>
-<p>Your petitioner states that on or about the <date when="1862-05-01">1<hi rend="sup">st</hi> day of May 1862</date>. Peter Gastell came to the city of Lexington, a refugee from that part of Missouri occupied by the Rebel forces, where his property had been destroyed, and from which point he had been driven by threats of immediate violence on account of his Union sentiments. After he came to this city he associated almost entirely with Union men, raised a full company of men for Metcalf's Cavalry Regiment &amp; was on duty during the whole of the first Morgan raid and performed his duty in a soldier-like manner. His conduct, manner &amp; general bearing won upon the esteem of your petitioner and when at the August Term of the Faytette Circuit Court, in <date when="1862">1862</date>, he was indicted for robbery, your petitioner being fully satisfied of his innocence and having no doubt but Gastell would appear &amp; stand his trial was induced to sign his bail bond for one Thousand dollars. But your petitioner's confidence was misplaced, Gastell failed to appear for trial at the second term after the finding of the indictment (the case<pb/>
-<lb/>was continued at the first term the deft being present.) the bond was forfeited &amp; subsequently Judgt was rendered against your petitioner for one thousand dollars &amp; costs. Your petitioner states that he lost a great deal by &amp; in consequence of the rebellion and that his circumstances are such that if he is required to pay the whole of said bond it will literally ruin him.</p>
-<p>Your petitioner further states that said Gastell departed without giving him an opportunity to surrender or arrest him and without your peitioners, knowledge or consent.</p>
-<p>Your petitioner further states that there is no probability of his recovering from said Gastell any part of what he may be required to pay on said bond and further that said Gastells family are still in this city and have been partially dependent upon your petitioner for support ever since said Gastells departure.</p>
-<p>Your petitioner states that he is ready and willing to pay the attorney's fee &amp; the costs in this case which amount to Three Hundred and ten dollars ($310<hi rend="sup">oo</hi>) and<pb/>
-<lb/>prays your Excellency to remit the residue thereof.</p>
-<p>Otha A. Reynolds</p>
+<p>Your petitioner states that on or about the <date when="1862-05-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> day of May 1862</date>, Peter Gastell came to the city of Lexington, a refugee from that part of Missouri occupied by the Rebel forces, where his property had been destroyed, and from which point he had been driven by threats of immediate violence on account of his Union sentiments, After he came to this city he associated almost entirely with Union men, raised a full company of men for Metcalf's Cavalry Regiment &amp; was on duty during the whole of the first Morgan raid and performed his duty in a soldier-like manner, His conduct, manner &amp; general bearing won upon the esteem of your petitioner and when at the <date when="1862-08">August Term of the Fayette Circuit Court, in 1862</date>, he was indicted for robbery, your petitioner being fully satisfied of his innocence and having no doubt but Gastell would appear &amp; stand his trial was induced to sign his bail bond for one Thousand dollars, But your petitioner's confidence was misplaced, Gastell failed to appear for trial at the second term after the finding of the indictment (the case<pb/>
+<lb/>was continued at the first term the deft being present,) the bond was forfeited &amp; subsequently Judgt was rendered against your petitioner for one thousand dollars &amp; costs, Your petitioner states that he lost a great deal by &amp; in consequence of the rebellion and that his circumstances are such that if he is required to pay the whole of said bond it will literally ruin him,</p>
+<p>Your petitioner further states that said Gastell departed without giving him an opportunity to surrender or arrest him and without your petitioners, knowledge or consent,</p>
+<p>Your petitioner further states that there is no probability of his recovering from said Gastell any part of what he may be required to pay on said bond and further that said Gastells family are still in this city and have been partially dependent upon your petitioner for support ever since said Gastells departure,</p>
+<p>Your petitioner states that he is ready and willing to pay the attorney's fee &amp; the costs in this case which amount to Three Hundred and ten dollars (&#36;310<hi rend="underline"><hi rend="sup">"</hi></hi>) and<pb/>
+<lb/>prays your Excellency to remit the residue therof.</p>
+<p>Otha. A. Reynolds</p>
 <p>Sworn to before me by O. A. Reynolds this <date when="1863-09-28">28<hi rend="sup">th</hi> day of September 1863</date>.</p>
-<p>att Jno B Norton C F C C
-<lb/><stamp type="revenue"/><note place="stamp">JBM
-<lb/><date when="1863-09-29">Sept 29<hi rend="sup">th</hi>
-<lb/>1863</date></note></p>
+<p>att Jno. B Norton C F C C
+<lb/><stamp type="revenue"/><note place="stamp">J B N
+<lb/><date when="1863-09-29">Sept 29<hi rend="sup">th</hi> 1863</date></note></p>
 <p>The undersigned would most respectfully request that the prayer of the petitioner be granted.</p>
-<p>M. G. Dorrden
+<p><hi rend="underline">M. G. Dowden.</hi>
 <lb/>W D Boswell
 <lb/><milestone unit="column" n="2"/><cb n="1"/>W<hi rend="sup">m</hi> Murphy M C L
-<lb/>W A Lusby Jailor F. C. C.
-<lb/>Q. Bell M. D
-<lb/>Speed S. Goodloe
-<lb/><hi rend="underline">J W Scott</hi>
-<lb/><cb n="2"/>Jas. C. Morris, Atty.
-<lb/>D Carr
-<lb/>G Stoll Jr.
-<lb/>L. Gibbons
-<lb/>Jno B. Norton C F C C
+<lb/>W A Lusby Jailor F. C.
+<lb/>D Bell M. D.
+<lb/>Speed. A. Goodloe
+<lb/><hi rend="underline">J W. Scott</hi>
+<lb/><cb n="2"/>Jas. C. Morris, Atty-
+<lb/>C D Carr
+<lb/><hi rend="underline">G Stoll. Jr</hi>
+<lb/>Z. Gibbons
+<lb/><hi rend="underline">Jno B Norton</hi> c f c c
 <lb/>W. King
-<lb/><hi rend="underline">Chas F. Lowry</hi> D C F C C
-<lb/>A. Dorment
+<lb/><hi rend="underline">Chas F. Lowry D C f c c
+<lb/></hi>A. Dumont
 <lb/>Peter Johnson
 <lb/>H. M. Skillman
 <lb/>J. H. Harrison
 <lb/>D. S. Goodloe
 <lb/>R. J. Woodhouse
 <lb/><hi rend="underline">E Brennan</hi><milestone unit="column" n="1"/><pb/></p>
-<p>Fayette Cir Ct
-<lb/>vs
+<p>Fayette Cir Ct</p>
+<p>Being in a merciful mood Ordered that this forfeiture except costs &amp; fees be remitted</p>
+<p><date when="1863-10-07">Oct 7<hi rend="sup">th</hi> 1863</date>
+<lb/>T. E. Bramlette</p>
+<p>vs
 <lb/>O. A. Reynolds
 <lb/>Forfeiture
-<lb/>$1,000</p>
-<p>Being in a merciful mood Ordered that this forfeiture except costs &amp; fees be remitted
-<lb/><date when="1863-10-07">Oct 7<hi rend="sup">th</hi> 1863</date>
-<lb/>T E Bramlette</p>
+<lb/>&#36;1,000</p>
   </body>
  </text>
 </TEI>

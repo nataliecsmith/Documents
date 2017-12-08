@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0091"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -67,9 +70,10 @@
 <lb/>To/His Excellency
 <lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> B. Magoffin <hi rend="str">Esq.,</hi>
 <lb/>Dear Sir.</p>
-<p>At the request of Capt. John W. Caldwell I write to say that he has a Company of Eighty true and patriotic Young Men who are ready at once to be mustered into the State Guard, if the State will furnish 80 Rifle Muskets, Some of which we learn are in the Arsenal at Frankfort. Capt. Caldwell Succeeds Cap<hi rend="underline"><hi rend="sup">t</hi></hi> G. R. Bibb. It is Said Cap<hi rend="underline"><hi rend="sup">t</hi></hi> Bibb's application for Arms for this Company, Called Logan Guards, was made over one year ago. The Company is not willing to take the oath and Join the State Guard unless you can assure them the Arms will be furnished -- Cap<hi rend="underline"><hi rend="sup">t</hi></hi> Caldwell has now control of about 40 Muskets mostly unfit for use, which he will have at Once forwarded to Frankfort where you can have them repaired, if you will give him assurance of 80 good Rifle Muskets on the proper application of his Company under the law establishing the State Guard. I trust you can do this, as, in my opinion, a more loyal and patriotic Company of Young men Cannot well be found and, Under Capt Caldwell I feel they will ever act will promptness and valor in defence of the Commonwealth. Please answer at Once.</p>
-<p>Very Truly Yours
-<lb/>G. W. Norton<pb/></p>
+<p>At the request of Cap<hi rend="underline"><hi rend="sup">t</hi></hi> John W. Caldwell I write to say that he has a Company of Eighty true and patriotic Young Men who are ready at once to be mustered into the State Guard, if the State will furnish 80 Rifle Muskets. Some of which we learn are in the Arsenal at Frankfort. </p>
+<p>Cap<hi rend="underline"><hi rend="sup">t</hi></hi> Caldwell succeeds Cap<hi rend="underline"><hi rend="sup">t</hi></hi> G. R. Bibb. It is Said Cap<hi rend="underline"><hi rend="sup">t</hi></hi> Bibbs' application for arms for this Company, Called Logan Guards, was made over one year ago. The Company is not willing to take the oath and Join the State Guard unless you can assure them the arms will be furnished -- Cap<hi rend="underline"><hi rend="sup">t</hi></hi> Caldwell has now Control of about 40 Muskets, Mostly unfit for use, which he will have at Once forwarded to Frankfort where you can have them repaired, if you will give him assurance of 80, good Rifle muskets on the proper application of his Company under the law establishing the State Guard. I trust you can do this, as, in my opinion, a more loyal and patriotic Company of Young men Cannot well be found and Under Capt Caldwell I feel they will ever act will promptness and valor in defence of the Commonwealth. Please answer at Once.</p>
+<p>Very Truly, Yours
+<lb/>G. W Norton<pb/></p>
 <p>G. W. Norton
 <lb/>arms</p>
   </body>

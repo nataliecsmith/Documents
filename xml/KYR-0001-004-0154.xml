@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0154"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,185 +63,186 @@
  </teiHeader>
  <text>
   <body>
-   <p>Blandville Ky <date when="1863-10-02">Oct 2<hi rend="sup">nd</hi> 1863</date>
+   <p>Blandville Ky <date when="1863-10-02">Octor 2<hi rend="sup">nd</hi> 1863</date>
 <lb/>To his Excellency
 <lb/>Thomas E Bramlett
 <lb/>Governor of Kentucky
 <lb/>Respected Sir -- </p>
-<p>The undersigned citizens of Ballard County, Will respectfully state to your Excellency, that at the <date when="--09">last September Term</date> of the Ballard Circuit Court. James McCawley &amp; Wesly Garrett was tried on an Indictment for keeping a gaming house, They were Indicted Jointly and fined two hundred Dollars. The Commonwealth proved that they had suffered games of cards placed in there coffee house upon which cigars and drinks of whiskey was bet won and lost, your petitioners will further state to your Excellency, that McCawley &amp; Garrett have been citizens of this county for a number of years, and We know them to be respectable high minded law abiding citizens, and we further state that had they of known that it was against the law, to suffer men to play cards in their house for cigars or for drinks of whiskey, that they would have been far from suffering the like done in there house. It was the first and last case of the kin<hi rend="str">g</hi>d against them, they are men of families and of very<pb/>
-<lb/>limated means, under all the circumstances your petitioners respectafully say that the payment of the aforesaid Judgement by the aforesaid McCawley &amp; Garrett would be a great hardship upon them.</p>
-<p>Your petitioners therefore asks your Excellency to Interpose &amp; release them of said find, as the case is one in the Judgment of your petitioners that deserves Executive Interpositions</p>
-<p>And your petitioners will ever pray &amp;c
-<lb/><milestone unit="column" n="2"/><cb n="1"/>Tho<hi rend="sup">s</hi> H Corbett
-<lb/>J. M. Holteman
-<lb/>P A Bondurant
-<lb/>A. S. Taylor
-<lb/>P H M Billington
-<lb/>P. M<hi rend="sup">c</hi>Gaines
+<p>The undersigned citizens of Ballard County -- Will respectfully state to your Excellency, that at the <date when="--09">last September Term</date> of the Ballard Circuit Court. James M<hi rend="sup">c</hi>Cawley &amp; Wesly Garrett was tried on an Indictment for Keeping a gaming house, they were Indicted Jointly and fined two hundred Dollars, The Commonwealth proved that they had suffered games of cards played in there Coffee house upon which Cigars and drinks of whiskey was bet won and lost, your petitioners will further state to your Excellency, that M<hi rend="sup">c</hi>Cawley &amp; Garrett have been citizens of this county for a number of years, and we know them to be respectable high minded law abiding citizens, and we further state that had they of known that it was against the law, to suffer men to play cards in their house for cigars or for drinks of whiskey, that they would have been far from suffering the like done in there house, It was the first and last case of the kin<hi rend="str">g</hi>d against them, they are men of families and of very<pb/>
+<lb/>limated means, under all the circumstances your petitioners respectafully say that the payment of the aforesaid Judgement by the aforesaid M<hi rend="sup">c</hi>Cawley &amp; Garrett would be a great hardship upon them,</p>
+<p>Your petitioners therefore asks your Excellency to Interpose &amp; release them of said find, as the case is one in the Judgment of your petitioners, that deserves Executive Interpositions</p>
+<p>And your petitioners will 
+<lb/>ever pray &amp;c
+<lb/><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> H Corbett</hi>
+<lb/>J, M, Holteman
+<lb/>P, A, Bondurant
+<lb/>A, S, Taylor,
+<lb/>J H M, Billington
+<lb/>P. M<hi rend="underline"><hi rend="sup">c</hi></hi>Ganies
 <lb/>W H Watson
 <lb/>Z Eliott
 <lb/>C N Rollings
-<lb/>J A Carpenter
+<lb/>J A. Carpenter
 <lb/>J R Green
 <lb/>H Ryan
-<lb/>T W Haydn
+<lb/>T, Haydn
 <lb/>W C Ray
 <lb/>J. J. Rollins
 <lb/>J. E. Rollins
 <lb/>H. S. Smith
-<lb/>J. H. Puntney
-<lb/>Daill Mullt
-<lb/>T. E. Cook
-<lb/><cb n="2"/>S. E. Thompson
-<lb/>D. B. Souser
-<lb/>Thomas Payne
+<lb/>J, H, Puntney
+<lb/><unclear>Daill uneel</unclear>
+<lb/>J, E, Cook
+<lb/><cb n="2"/>S. E. thompson
+<lb/>D,, B,, <unclear/>
+<lb/>thomas <unclear/>ayne
 <lb/>John S. Seay
-<lb/>Thomas R. Tint
+<lb/>Thomas, R, Turk
 <lb/>D Glanton
 <lb/>W. D. Blanks
 <lb/>William Davis
 <lb/>D W Jackson
 <lb/>J K Daugherty
-<lb/>D. G. Brewst
-<lb/>J. W. Haggard
-<lb/>T. C. Gaon
+<lb/>D,, G. Brewet
+<lb/>J, W, Haggard
+<lb/>S, C, Gaen
 <lb/>J. E. Smith
-<lb/>William Percell
+<lb/>William. Percell
 <lb/>James Deweese
 <lb/>Garrt Deweese
-<lb/>John G. Adams<pb/>
-<lb/><cb n="1"/>Eli Gray
-<lb/>Honam unlet
-<lb/>W M Eliott
+<lb/>John G, Adams<pb/>
+<lb/><cb n="1"/>Eli Erary
+<lb/>Horiam uneel
+<lb/>W Mcliott
 <lb/>T B Green
-<lb/>D M Ceoie
+<lb/>D. M. Coil
 <lb/>James Howell
 <lb/>A Bodkin
 <lb/>Wm Breckenridg
 <lb/>James Armstrong
 <lb/>M Jeter
 <lb/>J. H. Crouch
-<lb/>J M Owen
+<lb/><unclear/> Owen
 <lb/>Paul W Tirrell
 <lb/>Thomas Henderson
-<lb/>Jas Z <unclear/>
+<lb/>Jas Z. <unclear/>
 <lb/>William Taylor
-<lb/>R. D. Fortsoy
-<lb/>M. T. Shelburn
-<lb/>J. M. Pedley
+<lb/>R. D. Fortson
+<lb/>M, T. Shelburn
+<lb/>J. W<hi rend="underline"><hi rend="sup">m</hi></hi> Pedley
 <lb/>J E Mantle
-<lb/>Lafatett Rich
-<lb/>Geo Boyd
-<lb/>G M <unclear>Swayne</unclear>
+<lb/>Lofayett Rich
+<lb/>G W Boyd
+<lb/>G W <unclear/>
 <lb/>James Scott
 <lb/>Johseph H. Edy
 <lb/>C L Hickman
-<lb/><hi rend="str"><unclear/><unclear/></hi>
-<lb/>C. Pots
+<lb/><hi rend="str"><unclear/> <unclear/></hi>
+<lb/>C. pots
 <lb/>Joseph Frost
-<lb/>Wm Shays
-<lb/>C. W. Linthicum
-<lb/>R. J. Dudley
-<lb/>M. Russell
+<lb/>Wm Shew
+<lb/>C,, W,, Linthicum
+<lb/>R J Dudley
+<lb/>M, Rinsell
 <lb/><cb n="2"/>John S. Ray
-<lb/><unclear>Ivey Cutchlan</unclear>
-<lb/>G. T. Johnson
-<lb/>L C Garrett
+<lb/>ivey <unclear/>
+<lb/>G. T Johnson
+<lb/>J C Garrett
 <lb/>C. Weaver
-<lb/>E. Y. Buddy
-<lb/>Q Warner
-<lb/>L J Truck
-<lb/>G M Munsell
-<lb/>S T Carrico
+<lb/>Ely. Buddy
+<lb/><unclear/>
+<lb/>Q J S<unclear/>
+<lb/>J M <unclear>munsel</unclear>
+<lb/>S T carrico
 <lb/>A T Pursell
 <lb/>A T Edgin
-<lb/>E Eli Elkins
-<lb/>C Starll
+<lb/>E Eli Edgins
+<lb/><unclear/> <unclear/> talle
 <lb/>C. Foister
-<lb/>S. H garner
+<lb/>S. H. garner
 <lb/>A. Hall
-<lb/>O. C. Unsell
+<lb/>O. C. Unsew
 <lb/>W. M. Hall
-<lb/>F. B. Cain
+<lb/>J. B. Cain
 <lb/>T. Rigs
-<lb/>M. S. <unclear>Preston</unclear>
+<lb/>M. S <unclear>Preston</unclear>
 <lb/>Isaac Newman
-<lb/>Thos. Rudd
-<lb/>Daniel McNeill
-<lb/>Geore Thamasson
-<lb/>J. M. Riley
+<lb/>Tho<hi rend="sup">s</hi>. Rudd
+<lb/>Daniel McNeall
+<lb/>Geore thomasson
+<lb/>J. M Riley
 <lb/>R. G. Furlong
-<lb/>John Davis
+<lb/>John, Davis
 <lb/>J N Cain
-<lb/>Jer Musqeter
-<lb/>J H Martin
-<lb/>J C Cooper<pb/>
-<lb/><cb n="1"/><unclear>Chiclef</unclear>
-<lb/>D W Mcwatery
-<lb/>H P. Mutton
-<lb/>Smith Garnett
+<lb/>Jer Murqueter
+<lb/>J<hi rend="sup">n</hi> H martine
+<lb/>I C Cooper<pb/>
+<lb/><cb n="1"/><unclear/>
+<lb/>W,, Mcwaters
+<lb/>H, P Mutton
+<lb/>Smith Garrett
 <lb/>J W Lane
-<lb/>Jas L Trevathan
+<lb/>Jas. L Trevathan
 <lb/>Elisha Unsell
-<lb/>Joseph Munsfiel
+<lb/>Joseph <unclear>Mansfiel</unclear>
 <lb/>G C Reeves
 <lb/>W M Hinkle
-<lb/>J. T. Howle
-<lb/>J A Calhoun Sr
+<lb/>J, L, Howle
+<lb/>J, A Calhoun sr
 <lb/>Ja<hi rend="sup">s</hi> S Bishop
-<lb/>J S Petrie
+<lb/>J S, Petrie
 <lb/>S. S. Stall
 <lb/>N J Walker
-<lb/>W. D. D. Byron
-<lb/>G Calder
-<lb/>John W. Young
-<lb/>William Hay McCulstine
+<lb/>W, L, D, Byrn -- 
+<lb/>g. h alder
+<lb/>John. W. young
+<lb/>William <unclear>Hay McCulstine</unclear>
 <lb/>Thoma J Stovall
-<lb/>J Evans
+<lb/><unclear/> Evans
 <lb/>William king
-<lb/>J A Armstrong
+<lb/>J Armstrong
 <lb/>Charles Hinkle
-<lb/>A. M. Stratton
+<lb/>A, M, Stratton
 <lb/>John L Smedly
-<lb/>L. Tally
-<lb/>G T Belcher
+<lb/>L, Tally
+<lb/>J T Belcher
 <lb/>William Webb
-<lb/>O T Nichols
-<lb/>P. R. Turk
+<lb/>O, F, Nichols
+<lb/><hi rend="underline">P</hi>, <hi rend="underline">R</hi>, <hi rend="underline">Turk</hi>
 <lb/>John L. Murray
-<lb/><cb n="2"/>M. C. adams
-<lb/>D. G. Dalton
-<lb/>O. Nenier
-<lb/>J. M. Hdworth
-<lb/>J Corbett
+<lb/><cb n="2"/>M. t. adams
+<lb/>D. G, Dalton
+<lb/>O. <unclear/>
+<lb/>J. M. Haworth
+<lb/>I Corbett.
 <lb/>R M Milton
-<lb/>C. S. Cobb
-<lb/>D Moore
-<lb/>J. R. Ross
+<lb/>C S Cobb
+<lb/><unclear/> moore
+<lb/>J,, B,, Ross
 <lb/>L S Lee
-<lb/>W Marion
-<lb/>Tho<hi rend="sup">s</hi>. T. M<hi rend="sup">c</hi>Guire
-<lb/>R D Clanks
+<lb/>W Marian
+<lb/>Tho<hi rend="sup">s</hi>, S. M<hi rend="sup">c</hi>Guire
+<lb/>r d blanks
 <lb/>G W Sherill
-<lb/>J. B. Terry
-<lb/>Cayley Erdood
-<lb/>A. D. armstrong
+<lb/>J B. Terry
+<lb/>landry r wood
+<lb/>A. D. armsong
 <lb/>J Armistead
 <lb/>G. Penn
 <lb/>B. W. Peacock
 <lb/>E P Morgan
 <lb/>T Johnson
-<lb/>T. J. Owen
-<lb/>T. P. Terrell
+<lb/>T,, C. Owen
+<lb/>J P Terrell
 <lb/>W A Prucks
-<lb/>J. M. Tate
-<lb/>John Wollfolk
-<lb/>J. M. Norton C B C
-<lb/>R. Lambert
+<lb/><unclear>J W</unclear> Tate
+<lb/>John- woolfolk-
+<lb/>J, M Norton C B C
+<lb/>R- Lambert
 <lb/>N W. O Dennis
 <lb/>R F Crouch
 <lb/>C P Ray
-<lb/>J Adams</p>
+<lb/>J Edgins</p>
   </body>
  </text>
 </TEI>

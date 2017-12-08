@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0119"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,15 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000337">Louisville, Ky</placeName>. <date when="1863-10-24">Octr. 24th. 1863</date>
-<lb/><persName ref="cwgk:N001000">Govr. Bramlette
-</persName><lb/><placeName ref="cwgk:P00000308">Frankfort, Ky.</placeName><lb/>Dr Sir.</p>
-<p>During my stay in this city I learn that my old friend, Franklin Gorin Eqr. has been indicted <hi rend="str">by</hi> in the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName>, for shooting, with intent to kill, a <persName ref="cwgk:N00000770">Mr. Wood</persName>. Permit me to say, I have known <persName ref="cwgk:N00000330">Mr. Gorin</persName>, <hi rend="underline">long</hi> &amp; <hi rend="underline">well</hi> &amp; a more generously impulsive, whole Souled Gentleman I never knew. he is <hi rend="str">wise</hi> kind-hearted, even to fault. I am advised satisfactorily, that the difficulty, in which he was involved with <persName ref="cwgk:N00000770">Mr. Wood</persName>, was the impulse of the moment, &amp; that <persName ref="cwgk:N00000770">Mr. Wood</persName> himself has had the magnanimity to say so, perhaps in a communication to you. My esteemed friend, <persName ref="cwgk:N00000330">Mr. Gorin</persName>, is greatly depressed &amp; afflicted on account of the Indictment pending against him growing out of the difficulty above refered to, &amp; seems to me, to be laboring under a morbid sensibility on the subject calculated to impair his health &amp; happiness. In view of the premises, permit me to ask the favor of you, if not deemed inconsistent with your duty, to interpose your executive clemincy in the case. I assure you, the pardon of <persName ref="cwgk:N00000330">Mr. Gorin</persName><pb/>
-<lb/>would be a source of high gratification to his many attached friends in the <geogName ref="cwgk:G00003748">Green River</geogName> Country &amp; of undieing gratitude on the part of his estimable <persName ref="cwgk:N00007809">wife</persName> &amp; interesting family. ^I am satisfied the public interest will not suffer by the pardon of <persName ref="cwgk:N00000330">Mr. Gorin</persName>.^</p>
+   <p>Louisville, Ky. <date when="1863-10-24">Octr. 24th. 1863</date>
+<lb/>Govr. Bramlette
+<lb/>Frankfort. Ky.
+<lb/>Dr. Sir.</p>
+<p>During my stay in this city I learn that my old friend, Franklin Gorin Esqr. has been indicted <hi rend="str">by</hi> in the Jefferson circuit court, for shooting, with intent to kill, a Mr. Wood. Permit me to say, I have known Mr. Gorin, <hi rend="underline">long</hi> &amp; <hi rend="underline">well</hi> &amp; a more generously impulsive, whole-souled Gentleman I never knew. he is <hi rend="str">wise</hi> kind-hearted, even to fault. I am advised satisfactorily, that the difficulty, in which he was involved with Mr. Wood, was the impulse of the moment, &amp; that Mr. Wood himself has had the magnanimity to say so, perhaps in a communication to you. my esteemed friend, Mr. Gorin, is greatly depressed &amp; afflicted on account of the Indictment pending against him growing out of the difficulty above refered to, &amp; seems to me, to be laboring under a morbid sensibility on the subject calculated to impair his health &amp; happiness. In view of the premises, permit me to ask the favor of you, if not deemed inconsistent with your duty, to interpose your executive clemincy in the case -- I assure you, the pardon of Mr. Gorin<pb/>
+<lb/>would be a source of high gratification to <hi rend="str"><unclear/></hi>his many attached friends in the Green-River Country &amp; of undieing gratitude on the part of his estimable wife &amp; interesting family -- ^I am satisfied the public interest will not suffer by the pardon of Mr. Gorin -- ^</p>
 <p>With high consideration, I am, very respectfully
 <lb/>&amp; truly
 <lb/>Your friend &amp; servant
-<lb/>W<hi rend="sup">m</hi> V. Loving</p>
+<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> V. Loving</hi></p>
   </body>
  </text>
 </TEI>

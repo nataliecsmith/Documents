@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0083"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,42 +63,41 @@
  </teiHeader>
  <text>
   <body>
-   <p>Stanford <date when="1864-11-17">17" November 1864</date>
+   <p>Stanford <date when="1864-11-17">17<hi rend="underline">"</hi> November 1864</date>
 <lb/>To His Excellency Thos E Bramlette Governor of Kenty</p>
-<p>The undersigned citizens of Lincoln County respectfully represent that from information upon whilst we rely; we believe it is the intention of the authorities of both state and Federal Government to keep as far as possible a company of soldiers in Each County in this State. Capt Jas Bridgewater has ruined a company in this County principally our own citizens and me by your Excellency. to station as far as possible that company in the County of Lincoln; we are acquainted with the members of said Company and believe it the interest of the County to retain them here when not on active duty_ and do not want strangers in our midst when we have a company of our own we would not if we knew it ask my favor of your Excellency Contrary to the itnerest of the State; we beg an early response to Judge W. G. Bailey -- </p>
+<p>The undersigned Citizens of Lincoln County respectfully represent that from information <hi rend="str"><unclear/></hi>upon <hi rend="str">in which</hi>which we rely; we believe it is the intention of the authorities of both the state and Federal Government to keep as far as possible a Company of soldiers in each County in this state, Capt Jas Bridgewater has raised a Company in this County principally our own citizens and we beg your Excellency. to station as far as possible that Company in the County of Lincoln; we are acquainted with the members of said Company- and believe it the interest of the County to retain them here when not on active duty -- and do not want strangers in our midst when we have a company of our own we would not if we knew it ask any favor of your Excellency Contrary to the interest of the state; we beg an early response to Judge W, G, Bailey -- </p>
 <p>T. P. Hill
-<lb/>W. G. Bailey
-<lb/>J A Harris
-<lb/>H. T. Harris.
-<lb/>George M<hi rend="sup">c</hi>Roberts.
-<lb/>John C. Cooper
+<lb/>W G Bailey
+<lb/>J A. Harris
+<lb/>H. T. Harris,
+<lb/>George M<hi rend="sup">c</hi>Roberts,
+<lb/>John C. Cooper. -- 
 <lb/>A. S. Myers
 <lb/>R. Carson
-<lb/>R. H. Wearen
+<lb/>R H Wearen
 <lb/>Jo<hi rend="sup">s</hi>. Severance
 <lb/>Edwin M<hi rend="sup">c</hi>Roberts
 <lb/>J. N. Craig
-<lb/>M<hi rend="underline"><hi rend="sup">c</hi></hi>Penoliton
-<lb/>C. B. Huffman
-<lb/>W H Hays-
+<lb/>M<hi rend="underline"><hi rend="sup">c</hi></hi>Pendleton
+<lb/>C, B, Huffman
+<lb/>W H Hays -- 
 <lb/>(over)<pb/></p>
 <p>Governor: our entire population would sign this Petition, but these we deem sufficient to indicate the will and desire of all.</p>
 <p>Truly your friend
-<lb/>W. G. Bailey</p>
-<p>Scouts
-<lb/>Stanford Ky.
-<lb/><date when="1864-11-17">Nov. 17<hi rend="underline"><hi rend="sup">th</hi></hi> 1864.</date><figure type="hr"/>
-<lb/>Bailey W. G. &amp; others<figure type="hr"/>
-<lb/>To The Gov.<figure type="hr"/>
-<lb/>Request that Capt Bridgewater compy. may be stationed in Lincoln Co. for the protection of citizens of that County-<figure type="hr"/>
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-11-26">Nov 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><pb/></p>
-<p>His Excellency-
+<lb/>W. G. Bailey.</p>
+<p>Stanford Ky.
+<lb/><date when="1864-11-17">Nov 17<hi rend="underline"><hi rend="sup">th</hi></hi> 1864-</date><figure type="hr"/>
+<lb/>Bailey. W. G. &amp; others<figure type="hr"/></p>
+<p><hi rend="underline">To The Gov-</hi><figure type="hr"/>
+<lb/>Request that Capt Bridgewaters compy may be stationed in Lincoln Co. for the protection of citizens of that County -- <figure type="hr"/></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-11-26">Nov 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><pb/></p>
+<p>His Excellency -- 
 <lb/>Tho<hi rend="sup">s</hi> E Bramlette.
 <lb/>Frankfort.
-<lb/>Ky.
+<lb/>Ky. -- 
 <lb/><stamp/></p>
 <p>Inspector Genl<figure type="hr"/>
-<lb/>Bridgewaters Company will be kept for that county &amp; adjacent defenses-</p>
+<lb/>Bridgewaters Company will be kept for that County &amp; adjacent defences -- </p>
   </body>
  </text>
 </TEI>

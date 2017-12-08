@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0087"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,18 +67,18 @@
 <lb/><date when="1865-02-03">February 3<hi rend="underline"><hi rend="sup">d</hi></hi>/65</date>
 <lb/>To His Excellency Govnr Bramblet
 <lb/>Govenor</p>
-<p>I See your letter of <date when="1865-01-31">Jan 31<hi rend="underline"><hi rend="sup">st</hi></hi></date>to Major W<hi rend="sup">m</hi> Alen and as I am A Vetren Soldier and cannot Stay at Home in peace I desier to recruit A Company of vetran Soldiers to be mustered in to the State Cirvace for the period of Twelve months to be paid armed and mted by the State and to be Stationed at Elizabethtown if possible or at least have my Head Qrs <unclear><hi rend="str">to</hi></unclear> at that place please write me at once</p>
+<p>I See your letter of <date when="1865-01-31">Jan 31<hi rend="underline"><hi rend="sup">st</hi></hi></date> to Major W<hi rend="sup">m</hi> Alen and as I am A vetren Soldier and cannot Stay at Home in peace I desier to recruit A Company of vetran Soldiers to be mustered in to the State Cirvace for the period of Twelve months to be paid armed and mted by the State and to be Stationed at Elizabeth town if possible or at least have my Head Qrs be at that place please write me at once</p>
 <p>I am Yours
 <lb/>Very Respcty
 <lb/>Your obdt Servant
-<lb/>John F Lay<pb/></p>
+<lb/><hi rend="underline">John F Lay</hi><pb/></p>
 <p>Elizabethtown Ky
-<lb/><date when="1865-02-03">Feby 3<hi rend="underline"><hi rend="sup">d</hi></hi> 1865</date><figure type="hr"/>
+<lb/><date when="1865-02-03">Feby. 3<hi rend="underline"><hi rend="sup">d</hi></hi> 1865</date><figure type="hr"/>
 <lb/>Lay John F.<figure type="hr"/>
 <lb/>To The Gov -- <figure type="hr"/></p>
-<p>Desires authority to raise a Co. of veterans for 12 months state service -- The Co. to be stationed at Elizabethtown -- <figure type="hr"/></p>
-<p>J. M<figure type="hr"/>
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-02-06">6 Feby 1865</date></p>
+<p>Desires authority to raise a Co. of veterans for 12 months state service-- The Co. to be stationed at Elizabethtown -- <figure type="hr"/></p>
+<p><unclear>J. M</unclear><figure type="hr"/></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-02-06">6 Feby 1865</date></p>
   </body>
  </text>
 </TEI>

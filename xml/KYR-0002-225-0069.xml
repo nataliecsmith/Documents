@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0069"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,17 +64,17 @@
  <text>
   <body>
    <p>Paducah Ky
-<lb/><date when="1865-05-10">May 10. 1865</date>
+<lb/><date when="1865-05-10">May 10- 1865</date>
 <lb/>To His Excellency
-<lb/>Thos E Bramlette
+<lb/><hi rend="str">To</hi>Thos E Bramlette
 <lb/>Gov State of Kentucky
 <lb/>Frankfort Ky
 <lb/>Sir</p>
-<p>I have the honor to call Your attention to the condition of affairs thro out this District, and impress upon your mind the necessity of some immediate action in the matter of raising and organizing a Regt of <hi rend="underline">active</hi> <hi rend="underline">Militia</hi>.</p>
-<p>Notwithstanding a number of rebel Soldiers and Guerrillas are comeing in and taking the amnesty oath -- still there are ^a^ sufficient number left to keep the country in a very disturbed condition.</p>
+<p>I have the honor to call Your attention to the condition of affairs thro out this District, and impress upon Your mind the necessity of some immediate action in the matter of raising and organizing a Regt of <hi rend="underline">active</hi> <hi rend="underline">Militia</hi>.</p>
+<p>Notwithstanding a number of rebel Soldiers and Guerrillas are comeing in and taking the Amnesty oath -- still there are ^a^ sufficient number left to keep the country in a very disturbed condition.</p>
 <p>The convention here in this Town on Monday last to make a nomination for Congress and Legislature was compelled to adjourn until the <date when="1865-06-15">15th of June</date>, in consequence of the condition of the Country being Such that no preliminary meetings had been held thro the Dist to select Delegates.</p>
-<p>A number of active men here are desirous of going to work to organize Cos and Regts --, but they want some assurance of being sustained in their efforts.<pb/></p>
-<p>Now Sir, in order to <hi rend="underline">effectually</hi> and <hi rend="underline">rapidly</hi> carry Your plans and orders into execution -- I respectfully request that R. D. Cunningham be commissioned Col -- and H, Bartling Lieut Col These Gentlemen are worthy and well qualified and will be endorsed by the Loyal Men of this Dist -- they have had a great deal of experience, having served over three years in this war.</p>
+<p>A number of active Men here are desirous of going to work to organize Cos and Regts --, but they want some assurance of being sustained in their efforts.<pb/>
+<lb/>Now Sir, in order to <hi rend="underline">effectually</hi> and <hi rend="underline">rapidly</hi> carry Your plans and orders into execution -- I respectfully request that R, D, Cunningham be commissioned Col -- and H, Bartling Lieut Col These Gentlemen are worthy and well qualified and will be endorsed by the Loyal Men of this Dist -- they have had a great deal of experience, having served over three years in this war.</p>
 <p>I propose that the Gentlemen named be commissioned but not to draw any pay until the Amount of men requiste be raised and organized -- and the appointments be confirmed by the votes of the Line Officers, as directed by the Militia Law, Hoping to receive Your answer Soon</p>
 <p>I have the honor to remain
 <lb/>Very Respectfully
@@ -79,11 +82,11 @@
 <lb/><hi rend="underline">W M Starks</hi><pb/></p>
 <p>Paducah, M<hi rend="sup">c</hi>Cracken Co.
 <lb/><date when="1865-05-10">May 10/65</date><figure type="hr"/>
-<lb/>Starks, W. M.<figure type="hr"/></p>
-<p>Thinks immediate steps should be taken towards raising a Regiment of Active Militia; and for that purpose requests that R. D. Cunningham be commissioned Colonel, and H. Bartling, Lt. Col. but to recieve no pay until Reg is fully raised<figure type="hr"/></p>
-<p>To the Govenor.<figure type="hr"/></p>
-<p>Ans. <date when="1865-05-17">May 17/65</date> Let. Bk B. p. 220.<figure type="hr"/>
-<lb/>Rec. In. Gen. Off. <date when="1865-05-16">May 16. 1865</date></p>
+<lb/>starks, W. M.<figure type="hr"/></p>
+<p>Thinks immediate steps should be taken towards raising a Regiment of Active Militia; and for that purpose requests that R. D. Cunningham be commissioned Colonel, and H. Bartling, Lt. Col., but to recieve no pay until Reg is fully raised<figure type="hr"/></p>
+<p>To the Governor.<figure type="hr"/></p>
+<p>Ans. <date when="1865-05-17">May 17/65.</date> Let. Bk B. p. 220.<figure type="hr"/>
+<lb/>Rec. In. Gen. Off. <date when="1865-05-16">May 16, 1865.</date></p>
   </body>
  </text>
 </TEI>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1579"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Herny Stern et al. to Beriah Magoffin</title>
+    <title level="a" type="main">Herny Stern to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG11047</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Louisville, Jefferson County, Kentucky</placeName>
+    <placeName>Jefferson County, Kentucky</placeName>
     <date when="1861-11-26">26 November 1861</date>
    </creation>
    <textClass>
@@ -62,13 +65,13 @@
   <body>
    <p>To His Excellency Beriah Magoffin
 <lb/>Governer of the State of Kentucky.</p>
-<p>Your petitioner Henry Steirn, a citizen of Louisville State of Kentucky, would respectfully state that during the month of <date when="1861-05">May 1861,</date> he was indicted by a Grand Jury of the Louisville City Court, for selling liquor to a minor and at the <date when="1861-06">June Term</date> of said Court <hi rend="str"><unclear/></hi>viz on <date when="1861-06-05">June 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1861,</date> he was by a jury duty empannelled fined the sum of $50.<hi rend="underline"><hi rend="sup">00</hi></hi> He further says that to this indictment he plead guilty, owing to the following state of facts.</p>
-<p>Having a family of six children, and being unable to carry on business in my own name from misfortunes in business my brother-in-law advanced a small stock of confectionary and toys, which were placed in a small room in the East side of Lafayette Street between corner of <hi rend="str"><unclear/></hi>Floyd Streets of the City of Louisville, and I left my oldest son a youth of seventeen years of age to attend to this confectionary, while I worked at my trade in the Clothing Store of Messers Isaac Straus &amp; Co in the capacity of cutter. During my absence from home in pursuance of said employment as Cutter as aforesaid, my son without my consent, concurrance or connivance, allowed one of his play-mates and acquaintances not only to frequent the confectionary but to obtain liquor from a small bottle which I had in my house for the use of my family exclusively. My family accupying the same building in which the<pb/>
-<lb/>said confectionary was situated. When informed of this I was compelled to give up my situation as cutter aforesaid and have since in person attended to said confectionary, in order to prevent further infractions of the laws of the land.</p>
-<p>The law holds your petitioner resonsible for the acts of his employee, and thus he had no defense, and while he regrets that the michevious conduct of a son raised amid the vices of City, have been in this petition exposed, his necesities, and the wants of a large family in this time of financial embarassment, and civil commotions, require that he should most earnestly petition your excellency to relieve him of the penalty of law, by remitting this fine. Your petitioner would further state that this infraction of the law became known to the city authorities by reason of his attempts as a father to break up the intimacy between his son and the minor who obtained this liquor, as your petitioner did wish him to frequent his house, or associate with his family.</p>
-<p>Wherefore having with great difficulty discharged the costs, and <hi rend="str"><unclear/></hi>Atty's commissions incident to this fine, your petitioner in view of his real innocence, and family necessities now appeals to your executive clemency to relieve him from the further liability arising from this fine, and as in duty bound, this he will ever pray &amp;c.</p>
+<p>Your petitioner Henry Steirn, a citizen of Louisville State of Kentucky, would respectfully state that during the month of <date when="1861-05">May 1861,</date> he was indicted by a Grand Jury of the Louisville City Court, for selling liquor to a minor and at the <date when="1861-06">June Term</date> of said Court <hi rend="str">was</hi>viz on <date when="1861-06-05">June 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1861,</date> he was by a jury duly empannelled fined the sum of &#36;50.<hi rend="underline"><hi rend="sup">00</hi></hi> He further says that to this indictment he plead guilty, owing to the following state of facts.</p>
+<p>Having a family of six children, and being unable to carry on business in my own name from misfortunes in business my brother-in-law advanced a small stock of confectionary and toys, which were placed in a small room in the East side of Lafayette Street between corner of Floyd Streets of the City of Louisville, and I left my oldest son a youth of seventeen years of age to attend to this confectionary, while I worked at my trade in the Clothing Store of Messers Isaac Straus &amp; Co in the capacity of cutter. During my absence from home in pursuance of said employment as Cutter as aforesaid, my son without my consent, concurrance or connivance, allowed one of his play-mates and acquaintances not only to frequent the confectionary but to obtain liquor from a small bottle which I had in my house for the use of my family exclusively. My family accupying the same building in which the<pb/>
+<lb/>said confectionary was situated. When informed of this I was compelled to give up my situation as cutter aforesaid, and have since in person attended to said confectionary, in order to prevent further infractions of the laws of the land.</p>
+<p>The law holds your petitioner resonsible for the acts of his employee, and thus he had no defense, and while he regrets that the michevious conduct of a son raised amid the vices of the City, have been in this petition exposed, his necesities, and the wants of a large family in this time of financial embarassment, and civil commotions, require that he shoud most earnestly petition your excellency to relieve him of the penalty of law, by remitting this fine. Your petitioner would further state that this infraction of the law became known to the city authorities by reasen of his attempts as a father to break up the intimacy between his son and the miner who obtained this liquer, as your petitioner did wish him to frequent his house, or associate with his family.</p>
+<p>Wherefore having with great difficulty discharged the costs, and Atty's commissions incident to this fine, your petitioner in view of his real innocence, and family necessities now appeals to your executive clemency to relieve him from the further liability arising from this fine, and as in duty bound, this he will ever pray &amp;c.</p>
 <p>Henry Stern</p>
-<p>Subcribed &amp; sworn to before me by Henry Stearn this <date when="1861-11-26">26<hi rend="underline"><hi rend="sup">th</hi></hi> day of november 1861.</date></p>
+<p>Subcribed &amp; sworn to before me by Henry Stearn this <date when="1861-11-26">26<hi rend="underline"><hi rend="sup">th</hi></hi> day of November 1861.</date></p>
 <p>A Maas N. P. J. C<pb/></p>
 <p>The undersigned unite with Mr Stearn in his Petition &amp; respectfully ask your Excellency to remit the fine as in his said petition set forth.</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>W<hi rend="underline"><hi rend="sup">m</hi></hi> W<unclear/>
@@ -77,18 +80,18 @@
 <lb/>Jno. I. Howe D. sheriff
 <lb/>A H M<hi rend="sup">c</hi>Kay
 <lb/>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> Clement
-<lb/>Jno M Famar
+<lb/>Jno M. Fanar
 <lb/>Joseph Odell
 <lb/>Wm J. Craddock
-<lb/>C. K Farrington
+<lb/>C. K <unclear>Farrington</unclear>
 <lb/>Jack Fry.
-<lb/><cb n="2"/>S. S. Meddis D S
-<lb/>J R Green
+<lb/><cb n="2"/>S. J. Meddis D s
+<lb/>J R Greene
 <lb/>J M Foree<milestone unit="column" n="1"/><pb/></p>
 <p>Petition of Henry Stearn or Stirn for remission of a fine inposed in Lou. C. C. on <date when="1861-06-05">June 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1861.</date></p>
 <p>Respite 12 Mo
 <lb/>B. M</p>
-<p>Iss<hi rend="sup">d</hi> <date when="1861-12-20">Dec<hi rend="sup">r</hi>. 20. 1861</date></p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-12-20">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 20. 1861</date></p>
   </body>
  </text>
 </TEI>

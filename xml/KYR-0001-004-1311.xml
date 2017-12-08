@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1311"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,13 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Columbia Ky <date when="1865-01-29">Jan 29<hi rend="sup">th</hi>
-<lb/>1865</date>
-<lb/>Gov Bramlette</p>
-<p>You are aware there is a Mr Smith, now in our jail condemn'd to be executed on the <date when="1865-02-03">3<hi rend="sup">rd</hi> of February</date> unless your excellency will grant him another month to prepare to meet his God. May I ask in his behalf, that you will grant him another Short month. to prepare himself for that awful hour. He seems truly penitent, but still feels that he is unprepared it seems to be the desire of the citizens generally that he Should have longer time for preperations he says if he could feel himself prepared to die. he would not dread the death he has to die, grant this last appeal of a poor dying fellow creature. and I.<pb/>
-<lb/>am Sure when your earthly career is ended you will not regret haveing done so </p>
+   <p>Columbia Ky <date when="1865-01-29">Jan 29<hi rend="sup">th</hi> 1865</date>
+<lb/>Gov Bramblette</p>
+<p>You are aware there is a Mr Smith, now in our jail condemn'd to be executed on the <date when="1865-02-03">3<hi rend="sup">rd</hi> of February</date> unless your excellency will grant him another month to prepare to meet his God. May I ask in his behalf, that you will grant him another Short month, to prepare himself for that awful hour. He seems truely penitent, but still feels that he is unprepared it seems to be the desire of the citizens generally, that he Should have longer time for preperations he says if he could feel himself prepared to die, he would not dread the death he has to die, grant this last appeal of a poor dying fellow creature, and I,<pb/>
+<lb/>am Sure when your earthly career is ended you will not regret haveing done so.</p>
 <p>he has a Wife mother and five helpless little children. and he himself a poor ignorant man.</p>
-<p>Please answer this by Telegraph as it will be too late to answer it otherwise.</p>
+<p>Please answer this by Telegraph as it will be too late to answer it otherwise,</p>
 <p>My kindest regards to Mrs Bramblette, and family</p>
 <p>Respectfully yours
 <lb/>Louisa B Taylor</p>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0069"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,21 +63,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Standford <date when="1863-09">September 1863</date> -- 
+   <p>Stanford <date when="1863-09">September 1863</date> -- 
 <lb/>Dear Governor</p>
-<p>Our mutual friend M Hously Indicted one of our neighborhood Turnpikes and They confessed Jugement for $100 -- We think the part due the courts should be remitted as it is impossible to keep the Roads in repair during Their use by the Federal Wagons we know the whole neighborhood desires the fine remitted and Justice demands it</p>
+<p>Our Mutual friend M Hously Indicted one of our Neighbourhood Turnpikes and They confessed Jugement for &#36;100 -- We think the part due the Conth should be remitted as it is impossible to keep the Roads in repair during their use by the Federal Wagons- We know the whole neighbourhood desires the fine remitted and Justice demands it</p>
 <p>Respectfully &amp;c
 <lb/>T. P. Hall</p>
 <p>N B
 <lb/>Dear Gov</p>
-<p>A few individuals built the road at considerable expense to them, it is surely a neighborhood road and pays nothing to the stock holders. It was indicted with other roads for being out of repair. Under the peculiar circumstances and state of the country I think ^the^ stockholders entitled to the remission</p>
-<p>Very respectfully</p>
-<p>P. S. The style of the prosecution is the Commonwealth &amp; The Stanford &amp; Shelby's meeting house turnpike road<pb/></p>
+<p>A few individuals bult the road at considerable expense to them, it is merely a neighborhood road and pays nothing to the stock holders, It was indicted with other roads for being out of repair. Under the peculiar circumstances and state of the country I think ^the^ stockholders entitled to the remission</p>
+<p>Very respictfully</p>
+<p>P S. The style of the prosecution is the Commonwealth &amp; The Stanford &amp; Shelby's meeting house turnpike road<pb/></p>
 <p>Lincoln Cir Ct
 <lb/>vs
 <lb/>S. &amp; S. Turnpike
-<lb/>$100 -- 
-<lb/>Remitted <date when="1863-10-08">8<hi rend="sup">th</hi> Oct /63</date></p>
+<lb/>&#36;100 -- 
+<lb/>Remitted <date when="1863-10-09">9<hi rend="sup">th</hi> Oct /63</date></p>
   </body>
  </text>
 </TEI>

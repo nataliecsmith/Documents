@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0033"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,16 +64,16 @@
  <text>
   <body>
    <p>Crittenden County Ky
-<lb/><date when="1862-09-01">1st Sepr /62</date>
+<lb/><date when="1862-09-01">1st Sepr/62</date>
 <lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi>
 <lb/>James F. Robinson
 <lb/>Frankfort 
 <lb/>Dear Sir</p>
-<p>Since you became Governor of Ky I have seen an order that no arrests should be made except on ^<hi rend="str">on</hi>^ charges made &amp; sustained by competent evidence, this order and my knowledge of ^you^ have induced me to call your attention to the case of my <unclear/> <unclear>Wm</unclear> Wallace who was arrested some days since in this county and taken to Camp Morton, he writes me he was taken to that place under strict guard, had no knowledge of his offence who his accusers are by whose order he was arrested -- I pray you therefore to have his case examined and if there are charges against him have him remanded to Ky that may be enabled to defend himself against them</p>
+<p>Since you became Governer of Ky I have seen an order that no arrests should be made except on ^<hi rend="str">on</hi>^ charges made &amp; sustained by competent evidence, this order and my knowledge of ^you^ have induced me to call your attention to the case of my <unclear>Br Wm</unclear> Wallace who was arrested some days since in this county and taken to camp Morton, he writes me he was taken to that place under strict guard, has no knowledge of his offence who his accusers are or by whose order he was arrested -- I pray you therefore to have his case examined and if there are charges against him have him remanded to Ky that may be enabled to defend himself against them</p>
 <p>I am very Respectfully
-<lb/>Yr Ob Svt
-<lb/>Arthur H Wallace<pb/></p>
-<p>A. H. Wallace</p>
+<lb/>Yr Ob svt
+<lb/><hi rend="underline">Arthur H Wallace</hi><pb/></p>
+<p>A, H, Wallace</p>
   </body>
  </text>
 </TEI>

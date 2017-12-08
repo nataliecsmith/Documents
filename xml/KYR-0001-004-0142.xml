@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0142"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,22 +65,22 @@
    <p>To His Excellency
 <lb/>Thomas E Bramlett
 <lb/>Governor of Kentucky</p>
-<p>F. E. Skidmore and his wife would State that at the <date when="--10">October</date> term of the Trimble Circuit Court three indictments were found against F. E. Skidmore who keeps a small tavern for selling liquor to young men under 21 years of age. Mr Skidmore was wholly ignorant of the law, and as the young Men nearly of age he had no thought of violating any law. he had regular tavern license at the time. Being advised that he had violated the letter of the law he at once plead guilty and was fined $50 in each case at the present term of the <date when="--10">October</date> Circuit Court trusting for the exercise of the executive clemency in his behalf. Your petitioners would further State that said F. E. Skidmore is wholly unable to pay said fine he has no property he has a large family mainly supported by the labor of his wife. They respectfully ask for a remission of the whole of said fine</p>
+<p>F. E. Skidmore and his wife would State that at the <date when="--10">October</date> term of the Trimble Circuit Court three indictments were found against F. E. Skidmore who keeps a Small tavern for selling liquor to young men under 21 years of age. M<hi rend="sup">r</hi> Skidmore was wholly ignorant of the law, and as the young men nearly of age he had no thought of violating any law. he had regular tavern license at the time. Being advised that he had violated the letter of the law he at once plead guilty and was fined &#36;50 in each case at the present term of the <date when="--10">October</date> Circuit Court trusting for the exercise of the executive clemency in his behalf. Your petitioners would further State that Said F. E. Skidmore is wholly unable to pay said fine he has no property he has a large family mainly Supported by the labor of his wife. They respectfully ask for a remission of the whole of Said fine</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>J T Ladd M D
-<lb/>E M Garriott
+<lb/>E. M. Garriott
 <lb/>George Nipper
 <lb/>James Moore
-<lb/><cb n="2"/>A J Wright
+<lb/><cb n="2"/>A. J. Wright
 <lb/>Willis Oliver
-<lb/>John Burnett
+<lb/>John Burnell
 <lb/>Thomas M Yager<pb/>
-<lb/><cb n="1"/>Marlin Jones
+<lb/><cb n="1"/><unclear/> Jones
 <lb/>Ben M Hitt
-<lb/>D. S. Lam
+<lb/>D. S. Lane
 <lb/>A J Bartlett
 <lb/>John Sulivan
 <lb/>George Welch
-<lb/>J. F. Pittman
+<lb/>J F, Pittman
 <lb/>A Q Caplinger
 <lb/>B. G. Wright
 <lb/><cb n="2"/>S. Gatewood
@@ -86,17 +89,16 @@
 <lb/>Robt Whitaker
 <lb/>Simeon Gariott
 <lb/>Thomas J Rowlett
-<lb/>Peter <unclear>Smeliprets</unclear><milestone unit="column" n="1"/><pb/></p>
+<lb/>Peter <unclear>Snellifrets</unclear><milestone unit="column" n="1"/><pb/></p>
 <p>Trimble Cir Court
 <lb/>vs
 <lb/>F. E. Skidmore</p>
-<p>Respited for 12, 9 &amp; 6 months on 3 Indictments of $50. each 
-<lb/><date when="1863-10-24">24th Oct/ 63</date>
+<p>Respited for 12, 9 &amp; 6 months on 3 Indictments of &#36;50. each 
+<lb/><date when="1863-10-24">24<hi rend="sup">th</hi> Oct/63</date>
 <lb/>Tipling</p>
-<p><date when="1863"><hi rend="underline">1863</hi></date></p>
-<p>Refused to remit but give 12 months Respite on one 9 months on another &amp; 6 mos on other</p>
+<p>Refused to remit but give 12 months Respite on one 9 months on another &amp; 6 mos on other-</p>
 <p>T E Bramlette
-<lb/><date when="1863-10-24">Oct 24th 1863</date></p>
+<lb/><date when="1863-10-24">Oct 24<hi rend="sup">th</hi> 1863</date></p>
   </body>
  </text>
 </TEI>

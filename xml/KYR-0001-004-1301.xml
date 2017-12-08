@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1301"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,29 +64,29 @@
   <body>
    <p>To His Excellency Thos E Bramlette
 <lb/>Governor of the Commonwealth of Kentucky</p>
-<p>Your Petitioner Garland Adams states that at the <date when="1861-03">March term of the Lincoln Circuit Court 1861</date> -- he was indicted by the grand Jury -- of Lincoln County for carrying on his person concealed deadly weapons and for three successive courts thereafter he was present with his witnesses ready for trial and the case was contd by the commonwealth; Just before the Expiration of the Term of E L Van Winkle Esq he upon a representation of the facts agreed bifore the then Shriff H P Middleton to desmiss the Cause and your Petitioner paid no further attention to the case; but bifore the next court M H Owsly was Elected and finding the case still on docket took Jugment against your Petitioner at the <date when="1864-03">March Term 1864</date> for the sum of $50 -- in the absence of this defendant which is now in full fine -- Now this defendant could prove the charge false <hi rend="str">at</hi> and malicious; if his witneses were here both of whom Viz Jos Innes and T Adams -- are now in the Army and he sais the charge was wholy false and unfounded, wherefore he prys your Excellency will remit the Comths part of Said fine -- as Petitioner is poor and the character he has always bourn is that of a peacable citizen</p>
+<p>Your Petitioner Garland Adams states that at the <date when="1861-03">March Term of the Lincoln Circuit Court 1861</date>- he was indicted by the Grand Jury- of Lincoln County for Carrying on his person concealed deadly weapons and for three successive courts thereafter he was present with his witneses ready for trial and the cause was contd by the Commonwealth; Just before the Expiration of the Term of E L Van Winkle Esq he upon a representation of the facts agreed bifore the then Shreff H P Middleton to dismiss the Cause and your Petitioner paid no further attention to the case; but bifore the Next Court M H Ously was Elected and finding the Case still on docket took Jugment against your Petitioner at the <date when="1864-03">March Term 1864</date> for the Sum of &#36;50- in the absence of this defendant which is now in full fine -- Now this defendant could prove the charge false <hi rend="str">at</hi> and malicious; if his witneses were here both of whom Viz Jos Innes and T Adams -- are now in the Army and he sais the charge was wholy false and unfounded, wherefore he prys your Excellency will remit the Comths part of Said fine- as Petitioner is poor and the character he has always bourn is that of a peacable citizen</p>
 <p>Respectfully -- 
 <lb/>Garland Adams -- </p>
 <p>It was my understanding from E. L. Vanwinkle that the above named case was dismissed</p>
 <p>H. P. Middleton
 <lb/>Over<pb/></p>
-<p>I have asertained the above facts to be true since taking Judgment in the above case.</p>
+<p>I have ascertaind the above facts to be true. since taking Judgment in the above case</p>
 <p>Respectfully
 <lb/>M H Owsly
 <lb/>Comlths Atty</p>
-<p>Dr Governor</p>
-<p>Mr Adams desires if you think his cause made in the Petition and certificates abve ^meritorious^ that you will forward the remission to him at stanford at your Earliest Covenience</p>
-<p><date when="1864-11-07">7" November 1864</date></p>
+<p>D<hi rend="sup">r</hi> Governor</p>
+<p>Mr Adams desires if you think his cause made in the Petition and certificates abve ^meritorious^ that you will forward the remission to him at Stanford at your Earliest Covenience
+<lb/><date when="1864-11-07">7<hi rend="underline">"</hi> November 1864</date></p>
 <p>Faithfully yurs
-<lb/>T, P, Hill<pb/></p>
+<lb/>T. P. Hill<pb/></p>
 <p>Lincoln Cir Ct
 <lb/>vs
 <lb/>Garland Adams
-<lb/>Concealed Weapons
-<lb/>$50 -- </p>
+<lb/>concealed Weapons
+<lb/>&#36;50 -- </p>
 <p>Remit
 <lb/><date when="1865-03-24">24<hi rend="sup">th</hi> Mch/65</date></p>
-<p>Sent for fee
+<p>sent for fee
 <lb/><date when="1865-03-21">21<hi rend="sup">st</hi> Mch/65</date></p>
   </body>
  </text>

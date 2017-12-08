@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0242"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,24 +65,22 @@
   <body>
    <p>Todd Circuit Court
 <lb/>The Commonwealth of Kentucky
-<lb/>against } Indictment <date when="1863-04">April Term 1863</date>
+<lb/>against &#125; Inditment <date when="1863-04">April Term 1863</date>
 <lb/>John Bryan</p>
-<p>The Grand Jury of Todd County in the name and by the authority of the Commonwealth of Kentucky accuse John Bryan ^of the crime of^ Feloniously breaking into a store house and stealing merchandise therefrom ^committed as follows^ The said John Bryan on the <date when="1863-04-28">28 day of April 1863</date> in the county aforesaid, did wilfully and feloniously in the night time break into a store house in the posession and control of John D Black in which goods were and mechandise was <hi rend="str">kept</hi> deposited with the intent to steal and feloniously took therefrom six bottles of whiskey the property of said John D. Black of the value of six Dollars against the peace and dignity of the Commonwealth of Kentucky</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Information given by
+<p>The Grand Jury of Todd County, in the name and by the authority of the Commonwealth of Kentucky accuse John Bryan ^of the crime of^ Feloniously breaking into a store house and stealing merchandise therefrom ^committed as follows^ The said John Bryan on the <date when="1863-04-28">28 day of April 1863</date> in the County aforesaid, did wilfully and feloniously in the night time break into a store house in the posession and control of John D Black in which goods were and mechandise was <hi rend="str">kept</hi> deposited with the intent to steal and feloniously took therfrom Six Bottles of whiskey the property of said John D. Black of the value of six Dollars against the peace and dignity of the Commonwealth of Kentucky</p>
+<p>J G Roach foreman
+<lb/>Grand Jury
+<lb/>E P Campbell attorney for commonwealth</p>
+<p>Information given by
 <lb/>Jno D Black
 <lb/>Seth Black
-<lb/>Egbert Garsh
-<lb/>J T Backhonner
-<lb/><cb n="2"/>J G Roach foreman
-<lb/>Grand Jury
-<lb/>E J Campbell attorney for commonwealth<milestone unit="column" n="1"/></p>
-<p>A Copy
-<lb/>attest
-<lb/>Ben T. Perkins C. T. C. C<pb/></p>
-<p>Todd Cir Ct
-<lb/>12 months Respite
-<lb/>T E Bramlette </p>
-<p><date when="1863"><hi rend="underline">1863</hi></date></p>
+<lb/>Egbert Garth
+<lb/>J T Backhonner</p>
+<p>A Copy attest
+<lb/>Ben. T. Perkins C. T. C. C<pb/></p>
+<p>Todd Cir Ct</p>
+<p>12 months Respite</p>
+<p>T E Bramlette</p>
   </body>
  </text>
 </TEI>

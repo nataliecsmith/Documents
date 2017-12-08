@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1392"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,13 +63,13 @@
  <text>
   <body>
    <p>To His Excellency Thomas E Bramlette Governor of the Commonwealth of Kentucky</p>
-<p>Your Petitioner George H Milliken would respectfully represent that at the present <date when="1864-12">December term 1864</date> of the Simpson Circuit Court a Judgement has been rendered agst him by Confession to said Commonwealth for Five Hundred Dollars, for issuing a marriage license prohibited by Law Your Petitioner is the Clerk of the Simpson County Court. That some time last spring a man named Douthett applied to him at his office for a marriage License -- stating that the woman he was about to marry had seperated from her former husband and ^and had been seperated for about five years. and^ had brought suit agst him for a Divorce</p>
-<p>Petitioner advised him to wait until the Divorce was granted. Douthett assented &amp; went away Some time after this he again applied to Petir for License and he ignorant that any penalty attached to him even tho the Lady whom sd Douthett proposed to marry had not been divorced, ignorantly issued the License -- For this he has been indicted -- He made no defence, the facts being as stated &amp; the afersd Judgt was rendered agst him -- He declares he committed the foregiong impropriety alone from ignorance of his duty &amp; the law in the premises and from no hope promise or agreement of reward therefor other than the legal fee for issuing license &amp;c<pb/>
-<lb/>He therefore earnestly prays Yr Ex<hi rend="sup">cy</hi> to remit to him the fine &amp; Judgt afosaid -- as he is very poorly able to pay the same, if it were even proper to enforce it</p>
+<p>Your Petitioner George H Milliken would respectfully represent that at the present <date when="1864-12">December term 1864</date> of the Simpson Circuit Court a Judgement has been rendered agst him by Confession to said Commonwealth for Five Hundred Dollars, for issuing a marriage license prohibited by Law Your Petitioner is the Clerk of the Simpson County Court. That some time last Spring a man named Douthett applied to him at his office for a marriage License -- stating that the woman he was about to marry had seperated from her former husband and ^and had been seperated for about five years. and^ had brought suit agst him for a Divorce</p>
+<p>Petitioner advised him to wait until the Divorce was granted. Douthett <unclear>assentd</unclear> &amp; went away Some time after this he again applied to Peti<hi rend="sup">r</hi> for License and he ignorant that any penalty attached to him even tho the Lady whom sd Douthett proposed to marry had not been divorced, ignorantly issued the License -- For this he has been indicted -- He made no defence, the facts being as stated &amp; the aforsd Judgt was rendered agst him -- He declares he committed the foregiong impropriety alone from ignorance of his duty &amp; the law in the premises and from no hope promise or agreement of reward therefor other than the legal fee for issuing license &amp;c<pb/>
+<lb/>He therefore earnestly prays Yr Ex<hi rend="sup">cy</hi> to remit to him the fine &amp; Judgt aforsaid -- as he is very poorly able to pay the same, if it were even proper to enforce it</p>
 <p>And as in duty &amp;c
 <lb/>Geo H Millikin</p>
 <p>We the undersigned unite &amp; concur with George H Milliken in the foregoing petition</p>
-<p>S W Graham
+<p>A W Graham
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> V. Loving
 <lb/>W L Underwood
 <lb/>John A. Finn
@@ -77,7 +80,7 @@
 <p>Simpson Cir Ct
 <lb/>vs
 <lb/>Geo H Milliken
-<lb/>$500 &amp; Offense pardoned
+<lb/>&#36;500 &amp; Offense pardoned
 <lb/>Remit
 <lb/><date when="1865-01-04">4<hi rend="sup">th</hi> Jany/65</date></p>
   </body>

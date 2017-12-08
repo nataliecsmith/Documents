@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0007"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,15 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Harrodsburg Ky <date when="1862-08-18">Aug 18<hi rend="sup">th</hi> 1862</date>
+   <p>Harrodsburg Ky <date when="1862-08-18">Aug 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>
 <lb/>Hon James F. Roberson</p>
-<p>I am constrained to address you, although personally unacquainted, from a mingled feeling of apprehension &amp; surprise. Apprehension from the most palpable evidence of the peralous position of our state which has been thickening &amp; accumulating every hour since the evacuation of Corinth; &amp; will manifestly, in ten days, without imediate energetic powerful resistence overwhelm us. Surprise, because with all this danger stairing us in the face for weeks &amp; months we are to day permiting, without resistance marauding bands to pillage &amp; lay waste many portions of our state; -- capture<pb/>
-<lb/>&amp; destroy the supplies sent to our brave army, &amp; almost desolate those very sections that that have been render'd defenseless by the generous &amp; patriotic volunteeering of our brave citizens.</p>
+<p>I am constrained to address you, although personally unacquainted, from a mingled feeling of apprehension &amp; surprise. Apprehension from the most palpable evidence of the peralous position of our state which has been thickening &amp; accumulating every hour since the evacuation of Corinth; &amp; will manifestly, in ten days, without immediate energetic powerful resistence overwhelm us. Surprise, because with all this danger stairing us in the face for weeks &amp; months we are to day permiting, without resistance marauding bands to pillage &amp; lay waste many portions of our state; -- capture<pb/>
+<lb/>&amp; destroy the supplies sent to Our brave army, &amp; almost desolate those very sections that that have been render'd defenceless by the, generous &amp; patriotic volunteeering of our brave citizens.</p>
 <p>Unless there is a large force sent forward this week to relieve our little army at the Cumberland Gap, they will not only be cut off from supplies but the whole force will be captured In heaven's name if any thing can be done let it be done quickly for there is not a moment to lose. Instead of sending what force we have forword to check the headway of the invaders, they are being withdrawn to the interior thus inviting invasion.</p>
 <p>If those whose duty it<pb/>
-<lb/>is to expedite this matter and supine under existing circumstances, let them be relieved &amp; their places supplied by those who apprehend &amp; appreciate, the situation.</p>
-<p>The material for successful resistance is not wanting. All the people want is armed &amp; skillful daring leaders &amp; the work will soon be done.</p>
-<p>In this section public confidence in those whose duty it is to lead off in this matter begins to falter.</p>
+<lb/>is to expedite this matter are supine under existing c<hi rend="str">u</hi>ircumstances, let them be relieved &amp; their places supplied by those who apprehend &amp; appreciate, the situation.</p>
+<p>The material for successful resistance is not wanting, All the people want is armed &amp; skillful daring leaders &amp; the work will soon be done.</p>
+<p>In this section public confidence in those whose duty it is to lead off in this matter begins to falter,</p>
 <p>I have a deep conviction that without more energy can be thrown into our military operations our state is gone.</p>
 <p>Excuse this out-burst of a mind profoundly solici-<pb/>
 <lb/>tous on this important subject.</p>

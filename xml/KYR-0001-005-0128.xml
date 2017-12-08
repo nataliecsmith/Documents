@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0128"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,26 +64,28 @@
  <text>
   <body>
    <p>Grant Circuit Court
-<lb/>The Commonwealth of Kentucky Plaintiff
-<lb/>Against } Indictment for Murder
+<lb/>The Commonwealth of Kentucky- Plaintiff
+<lb/>Against &#125; Indictment for Murder
 <lb/>Samuel Anderson Defendant.</p>
-<p>The Grand Jury of Grant County, in the name and by the authority of the Commonwealth of Kentucky, accuse Samuel Anderson of the offense of Murder Committed as follows, viz: The said Samuel Anderson, in the county, circuit, and state aforesaid, on the <date when="1865-10-03">3<hi rend="sup">d</hi>. day of October 1865</date>, did feloniously, wickedly, corruptly, and with malice aforethought, kill and murder Washington Osborne, by then and there shooting the said Osborne in the body with a gun loaded with powder and a leaden ball or other hard substance, thereby inflicting a mortal and dangerous wound upon the person and body of the said Osborn, from the effects of which wound the said Osborn then and there languished and lingered, and languishing died one day after the infliction of said wound, Contrary to the statute in such case made and provided, and against the peace and dignity of the Commonwealth of Kentucky.</p>
+<p>The Grand Jury of Grant County, in the name and by the authority of the Commonwealth of Kentucky, accuse Samuel Anderson of the offense of Murder Committed as follows, viz: The said Samuel Anderson, in the County, Circuit, and state aforesaid, on the <date when="1865-10-03">3<hi rend="underline"><hi rend="sup">d</hi></hi> day of October 1865</date>, did feloniously, wickedly, corruptly, and with malice aforethought, kill and murder Washington Osborne, by then and there shooting the said Osborne in the body with a gun loaded with powder and a leaden ball or other hard substance, thereby inflicting a mortal and dangerous wound upon the person and body of the said Osborn, from the effects of which wound the said Osborn then and there languished and lingered, and languishing died one day after the infliction of said wound, contrary to the statute in such case made and provided, and against the peace and dignity of the Commonwealth of Kentucky.</p>
 <p>John L. Scott
-<lb/>Commonwealths attorney for 8<hi rend="underline"><hi rend="sup">th</hi></hi> Judicial district</p>
+<lb/>Commonwealths attorney for 8<hi rend="underline"><hi rend="sup">th</hi></hi> Judicial destrict</p>
 <p>Witnesses for Commonwealth.
 <lb/>Jesse Redman.
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Tucker.
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Tucker
 <lb/>H. D. Stratton
-<lb/>Charles OHara -- </p>
-<p>Endorsed" Filed <date when="1865-10-28">Oct. 28<hi rend="sup">th</hi> 1865</date>.</p>
-<p>A copy att,
-<lb/>N. H. Jeffers C, G, C, C,<pb/></p>
-<p>Reward $300
-<lb/>Grant Co
-<lb/>Commonwealth
-<lb/>vs } Indictment for Murder
-<lb/>Samuel Anderson<figure type="hr"/>
-<lb/>a copy offered <date when="1865-11-27">27<hi rend="underline"><hi rend="sup">th</hi></hi> Nov 1865</date></p>
+<lb/>Charles OHara-</p>
+<p>Endorsed "Filed <date when="1865-10-28">Oct. 28<hi rend="sup">th</hi> 1865</date>."</p>
+<p>A copy att
+<lb/>N. H Jeffers C, G, C, C,<pb/></p>
+<p>Reward &#36;300,
+<lb/>Grant Co</p>
+<p>Commonwealth
+<lb/>vs &#125; Indictment for Murder
+<lb/>Samuel Anderson<figure type="hr"/></p>
+<p>a copy </p>
+<p>offered
+<lb/><date when="1865-11-27">27<hi rend="sup">th</hi> Nov 1865</date></p>
   </body>
  </text>
 </TEI>

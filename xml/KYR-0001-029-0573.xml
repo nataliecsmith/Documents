@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0573"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">E. Lagern et al. to James F. Robinson</title>
+    <title level="a" type="main">E. Logan et al. to James F. Robinson</title>
     <title level="a" type="parallel">CWG9025</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -56,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Fleming County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -69,17 +63,80 @@
  <text>
   <body>
    <p>To his Excellency
-<lb/><persName ref="cwgk:N001004">James F. Robinson</persName> Gov. of <orgName ref="cwgk:O001025">Ky</orgName>.</p>
-<p>The undersigned citizens in and near the <placeName ref="cwgk:P00007210">Poplar Plains</placeName> in <placeName ref="cwgk:P00000542">Fleming County Kentucky</placeName> state that they are personally acquainted with <persName ref="cwgk:N00007119">William Beaucamp</persName> and have known him for ten or twelve years -- that Beaucamp is a peaceable orderly man -- But a man of spirit and will resent insult and wrong -- He is and always has been a true and law-abiding man and decidedly for the preservation of the national Union -- He is a mechanic and has a family to support and raise by his labor -- We also knew <persName ref="cwgk:N00007120">John Keithly</persName> some of us personally and some by reputation and he is a man of very bad character -- reputed to be an outbreaker in almost every way -- We understand that Mr. Beaucamp desires to remove to the state of <placeName ref="cwgk:P00004765">Illinois</placeName> but before he can go he wishes to get rid of two Indictments against him one for cutting John Keithley and the other for carrying concealed a deadly weapon -- We believe Mr. Beaucamp has stated the facts in his petition to your Excellency which will be sent with this and we most earnestly pray your Excellency to reprieve said Beaucamp from said Indictments.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00007121">E. Lagern</persName><lb/><persName ref="cwgk:N00007122">N F Hurst</persName><lb/><persName ref="cwgk:N00007123">William B Hendricks</persName><lb/><cb n="2"/><persName ref="cwgk:N00007124">Ayres Leforgee</persName><lb/><persName ref="cwgk:N00007125">D W Litser</persName><lb/><persName ref="cwgk:N00007126">J N. Armstrong</persName><lb/><persName ref="cwgk:N00007127">James H Hurst</persName><pb/>
-<lb/><cb n="1"/><persName ref="cwgk:N00007128">A J Emmams</persName><lb/><persName ref="cwgk:N00007129">John Clark</persName><lb/><persName ref="cwgk:N00007130">Robert D. Howe</persName><lb/>
-<persName ref="cwgk:N00007131">R. P. Samuel</persName><lb/><persName ref="cwgk:N00007133">William Fleming</persName><lb/><persName ref="cwgk:N00007134">I, A A. Kuruns</persName><lb/><persName ref="cwgk:N00007137">John McCreary</persName><lb/><persName ref="cwgk:N00007148">John R. Broelt</persName><lb/><persName ref="cwgk:N00007149">Joseph Throop</persName><lb/><persName ref="cwgk:N00007150">W. A. Fant</persName><lb/><persName ref="cwgk:N00007151">Jno. D. Logan</persName><lb/><persName ref="cwgk:N00007152">H W Hinton</persName><lb/><persName ref="cwgk:N00007153">Maguire Keenans</persName><lb/><persName ref="cwgk:N00007155">E G Ertill</persName><lb/><persName ref="cwgk:N00007154">Jame Newman</persName><lb/><persName ref="cwgk:N00007156">M H Gray</persName><lb/><persName ref="cwgk:N00007157">H,, D,, Jones</persName><lb/><persName ref="cwgk:N00007158">David Hinton</persName><lb/><persName ref="cwgk:N00007159">James C. Leeforge
-</persName><lb/><persName ref="cwgk:N00007160">John Bell</persName><lb/><persName ref="cwgk:N00007161">Albert H Triplett
-</persName><lb/><persName ref="cwgk:N00007162">George Reeves</persName><lb/><persName ref="cwgk:N00007163">Daniel J Hiser</persName><lb/><persName ref="cwgk:N00007164">John Jordan</persName><lb/><persName ref="cwgk:N00007165">Alfred Jordan</persName><lb/><persName ref="cwgk:N00007166">W W Tiger</persName><lb/><persName ref="cwgk:N00007167">H m Faris</persName><lb/><persName ref="cwgk:N00007168">thomas B Gardner</persName><lb/><persName ref="cwgk:N00007169">Richard Sutten</persName><lb/>Ja<hi rend="sup">s</hi> P Ham
-<lb/><persName ref="cwgk:N00007172">Wm Staggs</persName><lb/><persName ref="cwgk:N00007170">A. C. Sayl</persName><lb/><cb n="2"/><persName ref="cwgk:N00007173">J. P. Fant</persName><lb/><persName ref="cwgk:N00007174">R. F. Dearing</persName><lb/><persName ref="cwgk:N00007175">H P. Robertson</persName><lb/><persName ref="cwgk:N00007177">S, E. Armstrong</persName><lb/><persName ref="cwgk:N00007178">James Kidwell</persName><lb/><persName ref="cwgk:N00007179">George Hall</persName><lb/><persName ref="cwgk:N00007180">G D Hane</persName><lb/><persName ref="cwgk:N00007176">S,, W,, Vize</persName><lb/><persName ref="cwgk:N00007181">Thomas D Brathers</persName><lb/><persName ref="cwgk:N00007182">Thomas Oliver</persName><lb/>Tho<hi rend="sup">s</hi> R Oliver Jun
-<lb/><persName ref="cwgk:N00007185">R H Yantis</persName><lb/><persName ref="cwgk:N00007186">James, M, Roby</persName>,<lb/><persName ref="cwgk:N00007184">S. D. Ham</persName><lb/><persName ref="cwgk:N00007187">S J Hinton</persName><lb/><persName ref="cwgk:N00007189">John Doyl
-</persName><lb/><persName ref="cwgk:N00007199">Elijah Story</persName><lb/><persName ref="cwgk:N00007200">Bery Hinton</persName><lb/><persName ref="cwgk:N00007206">James Sweet</persName><lb/><persName ref="cwgk:N00007208">W Boys</persName><lb/><persName ref="cwgk:N00007204">Saml Hiner</persName><lb/><persName ref="cwgk:N00007201">W. P. Denton</persName><lb/><persName ref="cwgk:N00007198">James Yazel</persName><lb/><persName ref="cwgk:N00007197">William Hinton</persName><lb/><persName ref="cwgk:N00007195">Dudley Jordan</persName><lb/>Thomas M<hi rend="underline"><hi rend="sup">c</hi></hi>Hiligoss
-<lb/><persName ref="cwgk:N00007194">Henry Davis</persName><lb/><persName ref="cwgk:N00007193">Miles Hurst</persName><lb/><persName ref="cwgk:N00007192">Samuel Walker</persName><lb/><persName ref="cwgk:N00007191">Catesby Ross</persName><lb/><persName ref="cwgk:N00007190">D R Estill</persName><lb/><persName ref="cwgk:N00007188">John D, Hinton</persName></p>
+<lb/>James F. Robinson Gov. of Ky.</p>
+<p>The undersigned citizens in and near the Poplar Plains in Fleming county Kentucky state that they are personally acquainted with William Beaucamp<hi rend="str">e</hi> and have known him for ten or twelve years- that Beaucamp is a peaceable orderly man- But a man of spirit and will resent insult and wrong- He is and always has been a true and law-abiding man and decidedly for the preservation of the national Union- He is a mechanic and has a family to support and raise by his labour -- We also knew John Keithly some of us personally and some by reputation and he is a man of very bad character -- reputed to be an outbreaker in almost every way -- we understand that Mr. Beaucamp desires to remove to the state of Illinois but before he can go he wishes to get rid of two Indictments against him one for cutting John Keithley and the other for carrying concealed a deadly weapon- We believe Mr. Beaucamp has stated the facts in his petition to your Excellency which will be sent with this and we most earnestly pray your Excellency to reprieve said Beaucamp from said Indictments.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>E. <unclear>Logan</unclear>
+<lb/>N F Hurst
+<lb/>William B Hendrix
+<lb/><cb n="2"/>Ayres Leforgee
+<lb/>D W Litser
+<lb/>I. N. Armstrong
+<lb/>James M Hurst<pb/>
+<lb/><cb n="1"/>A J Emmons
+<lb/>John Clark
+<lb/>Robert D, Howe
+<lb/><hi rend="underline">R. P. Samuel.</hi>
+<lb/>William Fleming
+<lb/>I, A H. Kuruns
+<lb/>John McCreary
+<lb/>John D. Bro<unclear/>
+<lb/>Joseph Throop
+<lb/>W. A. Fant
+<lb/>Jno, D, Logan.
+<lb/>H W. Hinton
+<lb/>Maguire Keenans
+<lb/>E G Estill
+<lb/>Jame Newman
+<lb/>M H Gray
+<lb/>H,, P,, Jones
+<lb/>Daniel Hinton
+<lb/>David Hinton
+<lb/>James, C, Leforge
+<lb/>John Bell
+<lb/>Albert H Triplett
+<lb/>George Reeves
+<lb/>Daniel J Hiser
+<lb/>John Jordan
+<lb/>Alfred Jordan
+<lb/>W W Tiger
+<lb/>H M Faris
+<lb/>thomas P Gardner
+<lb/>Richard Sutten
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> P Ham
+<lb/>Wm Staggs
+<lb/>A, C, Doyl,
+<lb/><cb n="2"/>J. P. Fant
+<lb/>R. F. Dearing
+<lb/>F P. Robertson
+<lb/>S, E, Armstrong
+<lb/>James Kidwell
+<lb/>George Hall
+<lb/>G D Hane
+<lb/>S,, W,, Vize
+<lb/>Thomas D Brothers
+<lb/>Thomas Oliver
+<lb/>Tho<hi rend="sup">s</hi> R Oliver Jun
+<lb/>R H Yantis
+<lb/>James, M, Roby,
+<lb/>S. D. Ham
+<lb/><unclear>S</unclear> J Hinton
+<lb/>John Doyl
+<lb/>Elijah Story
+<lb/>Benj Hinton
+<lb/>James Sweet
+<lb/>W Boys
+<lb/>Saml Hines
+<lb/>W P Denton
+<lb/>James yazel
+<lb/>William Hinton
+<lb/>Dudley Jordan
+<lb/>Thomas, <unclear>M<hi rend="underline"><hi rend="sup">c</hi></hi>Hiligoss</unclear>
+<lb/>Henry. Davis
+<lb/>Miles Hurst
+<lb/>Samuel Walker
+<lb/>Catesby Ross
+<lb/>D, R, Estill
+<lb/>John D, Hinton</p>
   </body>
  </text>
 </TEI>

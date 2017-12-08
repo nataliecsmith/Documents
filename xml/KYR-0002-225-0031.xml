@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0031"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,18 +65,18 @@
   <body>
    <p><note place="header">X</note>
 <lb/><date when="1863-09-17">Sept 17<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
-<lb/>Hopkinsville Ky
+<lb/>Hopkins<hi rend="str"><unclear/></hi>ville Ky
 <lb/>Honorable Sir</p>
-<p>I take the privelige of droping you a few lines for the purpose of geting permission to Recruit a company of 75 or 80 men to Be mustered in for 12 months for the State of Kentucky as an independent Co... to Scout in the Green River portion of Country or Western Ky I also Wish to furnish every thing except clothing and Arms or I will furnish all and take pay from the Rebels or pay my self out of Captured Stores to be captured from Rebels only I also Bind myself that if any Citizens Be injured ^by^ my command they Shall Be compensated Handsomely if Such a company Shall Be granted me I can catch more Guerrillas than any Body as there is pretty plenty of them prowling through the Country and commiting all kinds of out Rages Honorable Sir if you comply with my Request you will pleas forward me the authority to proceed immediately.. With Respect I Shall await your answer</p>
-<p>Joel. H. Roach
+<p>I take the privelige of droping you a few lines for the purpose of geting permission to Recruit a company of 75 or 80 men to Be mustered in for 12 months for the State of Kentucky as an independent Co... to scout in the Green River portion of Country or Western Ky I also Wish to furnish every thing except clothing and Arms or I will furnish all and take pay from the Rebels or pay my self out of captured stores to be captured from Rebels only I also Bind myself that if any citizens Be injured ^by^ my command they Shall Be compensated Handsomely if Such a company Shall Be granted me I can catch more Guerrillas than any Body as there is pretty plenty of them prowling through the Country and commiting all kinds of out Rages Honorable sir if you comply with my Request you will pleas forward me the authority to proceed immediately.. With Respect I Shall await your answer</p>
+<p>Joel, H, Roach
 <lb/>To the Gov of Ky
 <lb/>My address is Hopkinsville, Ky<pb/></p>
 <p>Hopkinsville -- Ky.
 <lb/><date when="1863-09-17">Sept. 17<hi rend="sup">th</hi> 1863</date><figure type="hr"/>
-<lb/>Roach Joel H.<figure type="hr"/></p>
-<p>Asks of the Governor, permission to recruit a Co. of 75 or 80 men -- for 12 months service -- to serve in the Green River country.<figure type="hr"/></p>
+<lb/>Roach Joel. H.<figure type="hr"/></p>
+<p>Asks of the Governor, permission to recruit a Co. of 75 or 80 men -- for 12 months' service -- to serve in the Green River country.<figure type="hr"/></p>
 <p>Rec<hi rend="sup">d</hi> A. G. O. <date when="1863-09">Sept. 1863</date></p>
-<p>No such authority can be given as is asked for -- Say he can if he wishes recruit for some Regt -- let him answer.</p>
+<p>No such authority can be given as is asked. for -- Say he can if he wishes recruit for some Regt- let him answer.</p>
 <p><hi rend="underline">Boyle</hi></p>
 <p>James Roach</p>
   </body>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0092"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Calvin Fuller et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">Calvin Fuller et al. to James F. Robinson</title>
     <title level="a" type="parallel">CWG12016</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,19 +65,19 @@
   <body>
    <p>Peach orchard Kentucky
 <lb/><date when="1862-12-18">December 18<hi rend="sup">th</hi> 1862</date>
-<lb/>H.. E..
+<lb/>H,, E,,
 <lb/>Govenor Robinson
 <lb/>Dear Sir</p>
-<p>We the undrrsigned are Commanders of Companies of Home Guards who are anctious to form ourselves into a Battallion of Cavaldry to do duty in the Sandy Valley and the border Counties</p>
-<p>We are unanimus to a man that Lieutenant Ja<hi rend="underline"><hi rend="sup">s</hi></hi> D M<hi rend="underline"><hi rend="sup">c</hi></hi>Bride now on officer in the Fifth Regiment V<hi rend="sup">a</hi> V<hi rend="sup">ol</hi> Infantry Shall be our commander and amediately take steps to organise the Battallion if this meets with your approveal</p>
-<p>We are Your Most Obt Sv<hi rend="sup">ts</hi>
+<p>We the undrrsigned are Commanders of Companies of Home Guards who are anctious to form ourselves into a Battallion of Cavaldry to do duty in the Sandy valley and the border counties</p>
+<p>We are unanimus to a man that Lieutenant Ja<hi rend="underline"><hi rend="sup">s</hi></hi> D M<hi rend="underline"><hi rend="sup">c</hi></hi>Bride now on officer in the Fifth Regiment V<hi rend="sup">a--</hi> V<hi rend="sup">ol</hi> Infantry shall be our commander and amediately take steps to organise <hi rend="str"><unclear/></hi>the Battallion if this meets with your approveal</p>
+<p>We are Your Most Obt Sv<hi rend="underline"><hi rend="sup">ts</hi></hi>
 <lb/>Calvin Fuller
 <lb/>George W Murry
 <lb/>Ira G Copley
 <lb/>Marlin Maynard
 <lb/>David Batrim
 <lb/>John. W. Whitt
-<lb/>Z. Caldwell</p>
+<lb/>Z,, Calwell</p>
   </body>
  </text>
 </TEI>

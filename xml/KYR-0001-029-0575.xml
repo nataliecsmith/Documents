@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0575"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -67,21 +62,57 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName></p>
-<p>Your petitioners the undersigned would request that you pardon <persName ref="cwgk:N00004912">Traneda Bass</persName> now confined in the penitentiary believing that his case is one in which the pardoning power you have may be properly exercised</p>
-<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00004911">Jno. Donan</persName><lb/><persName ref="cwgk:N00004913">R A Dawson</persName><lb/><persName ref="cwgk:N00000985">B. L. Kerr</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A. Wilson,
-<lb/><persName ref="cwgk:N00006876">J B Chapline</persName><lb/><persName ref="cwgk:N00001597">G W Craddock</persName><lb/><persName ref="cwgk:N00006877">A D Clark</persName><lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> J. Whitman
-<lb/><persName ref="cwgk:N00006949">J [Walden clk]</persName> Fitzpatrick<lb/><persName ref="cwgk:N00006880">T. H, Lagden</persName><lb/><persName ref="cwgk:N00006881">W F Gwin</persName><lb/><persName ref="cwgk:N00006882">M E Twyman
-</persName><lb/><persName ref="cwgk:N00006883">Jail T. Compton</persName><lb/><persName ref="cwgk:N00006887">Milton Beard</persName><lb/><persName ref="cwgk:N00006886">Phil Buckner</persName><lb/>J <unclear>Walden clk</unclear>
-<lb/><persName ref="cwgk:N00006888">J. P. Knight</persName><lb/><persName ref="cwgk:N00006889">Plesant Perkins</persName><lb/><persName ref="cwgk:N00006890">John Driscoll</persName><lb/><persName ref="cwgk:N00006891">Dennis Logsdon</persName><lb/><persName ref="cwgk:N00006892">Jesse Fugua</persName><lb/><persName ref="cwgk:N00006893">C C Burks</persName><lb/><persName ref="cwgk:N00006894">W A H Pitt</persName><lb/>W<hi rend="sup">m</hi> Richardson
-<lb/><cb n="2"/><persName ref="cwgk:N00006896">Jans Goin</persName><lb/><persName ref="cwgk:N00006897">David Waddle</persName><lb/><persName ref="cwgk:N00006917">Thos Hardy</persName><lb/><hi rend="str"><unclear/></hi>
-<lb/><hi rend="str">Col</hi><persName ref="cwgk:N00006918">Willis Reynolds</persName><lb/><persName ref="cwgk:N00006919">John L Garvin</persName><lb/><persName ref="cwgk:N00006920">N Harper</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> N Kunkill
-<lb/><persName ref="cwgk:N00006935">F Reynolds</persName><lb/><persName ref="cwgk:N00006936">S B. Kennedy</persName><lb/><persName ref="cwgk:N00006937">Fielding J Parding</persName><lb/><persName ref="cwgk:N00006938">Cafe Hardin</persName><lb/><persName ref="cwgk:N00006939">S G N Loocky</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Glenn
-<lb/><persName ref="cwgk:N00006941">A Sordon</persName><lb/><persName ref="cwgk:N00006942">James Dyer</persName><lb/><persName ref="cwgk:N00006943">James Butler</persName><lb/><persName ref="cwgk:N00006944">Isaacs Clark</persName><lb/><persName ref="cwgk:N00006945">Gideon Saygens</persName><lb/>W<hi rend="sup">m</hi> B Richardson
-<lb/><persName ref="cwgk:N00006948">Ab Wilkerson</persName><lb/><persName ref="cwgk:N00006946">Sam Craddock</persName><pb/></p>
+   <p>To the Governor of the commonwealth of Kentucky</p>
+<p>Your petitioners the undersigned would request that you pardon <unclear>Praneda</unclear> Bass now confined in the penitentiary. believing that his case is one in which the pardoning power you have may be properly exercised</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Jno. Donan
+<lb/>R A Dawson
+<lb/>B. L, Kerr
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A.. Wilson,
+<lb/>J B Chapline
+<lb/>G W Craddock
+<lb/>A D Clark
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> J. Whitman
+<lb/>J W Fitzpatrick
+<lb/>T. H, Lagden
+<lb/>W F Gorin
+<lb/>M E Twyman
+<lb/>Joel T, Compton
+<lb/>Milton Beard
+<lb/>Phil Buckner
+<lb/>J <unclear>Waldrep</unclear>
+<lb/>J, P Knight
+<lb/>Plesant Perkins
+<lb/>John Driscoll
+<lb/>Dennis Logsdon
+<lb/>Jesse Fuqua
+<lb/>C C Burks
+<lb/>W H H Jett
+<lb/>W<hi rend="sup">m</hi> Richardson
+<lb/><cb n="2"/><unclear>Jans</unclear> Gorin
+<lb/>David Waddle
+<lb/>Thos Hardy
+<lb/><hi rend="str">Wm N</hi>
+<lb/><hi rend="str">Col</hi> Willis Reynolds
+<lb/>John L Garvin
+<lb/>N Harper
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H <unclear>Puckett</unclear>
+<lb/>J F Reynolds
+<lb/>W. B. Kennedy
+<lb/>Fielding J Parding
+<lb/>Cass <unclear>Carr</unclear>
+<lb/>G. L. Lovely
+<lb/>W<hi rend="sup">m</hi> Glenn
+<lb/>A Gordon
+<lb/>James Dyer
+<lb/>James Butler
+<lb/>Isaacs Clark
+<lb/>Gideon <unclear>Gaygens</unclear>
+<lb/>W<hi rend="sup">m</hi> B Richardson -- 
+<lb/>A C Wilkerson
+<lb/>Sam Craddock<pb/></p>
 <p><milestone unit="column" n="1"/>P. Bass pettn for Pardon</p>
-<p>No evidence to facts -- nothing to justify pardon <unclear/></p>
-<p><persName ref="cwgk:N001004">J F Robinson</persName></p>
+<p>No evidence. no facts. Nothing to justify pardon <unclear/></p>
+<p><hi rend="underline">J F Robinson</hi></p>
   </body>
  </text>
 </TEI>

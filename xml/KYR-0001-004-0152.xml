@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0152"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,49 +62,49 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Tho<hi rend="sup">s</hi> E Brantell Governor of the Commonwealth of Ky We your petitioners citizens of Trimble County Would respectfully represent that ^at^ the <date when="1863-10">Oct Term of the Trimble Circuit Court for the year 1863</date>. Levi S Baker a citizen of s<hi rend="sup">d</hi> county was fined fifty dollars for carrying concealed a deadly weapon. We the undersigned ^his^ neighbors and citizens ^of s<hi rend="sup">d</hi> county^ would ask your Excelency to remit said fine for the following reasons, First that s<hi rend="sup">d</hi> Levi S Baker is one of the Quietest and most peaceable citizens that is in his end of the county. Second that under the circumstances in the case we beleive that for the time being he was perfectly justifiable in carrying s<hi rend="sup">d</hi> weapon. yet under the strict letter of the Law, he was unable to make a valid defence consequently the fine was assessed against him.</p>
+   <p>To his Excellency Tho<hi rend="sup">s</hi> E Branlett Governor of the Commonwealth of Ky-We your petitioners citizens of Trimble County Would respectfully represent that ^at^ the <date when="1863-10">Oct Term of the Trimble Circuit Court for the year 1863</date>- Levi S Baker a citizen of s<hi rend="sup">d</hi> county was fined fifty dollars for carrying concealed a deadly weapon- We the undersigned ^his^ neighbors and citizens ^of s<hi rend="sup">d</hi> county^ would ask your Excelency to remit said fine for the following reasons, First that s<hi rend="sup">d</hi> Levi. S. Baker is one of the Quietest and most peaceable citizens that is in his end of the county- Second that under the circumstances in the case we beleive that for the time being he was perfectly justifiable in carrying s<hi rend="sup">d</hi> weapon- yet under the strict letter of the Law, he was unable to make a valid defence- consequently the fine was assessed against him-</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>C M Garriott
 <lb/>T. E. Fields
 <lb/>H D Sullivan
 <lb/>Jas Reed
-<lb/>John Totten
+<lb/>John, Totten,
 <lb/>Wm Dean
 <lb/>G C Black
 <lb/>James Gill
 <lb/>John J Thomasson
-<lb/>E Y Mcintosh
+<lb/>E H Mcintosh
 <lb/>A J Wright
 <lb/>F M Abbott
 <lb/>R. Bell
-<lb/>J. F. Sandefer
-<lb/><cb n="2"/>S B Robinsonson
-<lb/>W<hi rend="sup">m</hi> R Morgan
+<lb/>J T- sandefer
+<lb/><cb n="2"/>S B Robinson sen
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> R,, Morgan
 <lb/>J. Y. Newkirk
 <lb/>F A Adms
 <lb/>Matthew McCollister
 <lb/>Geo W Moreland
 <lb/>E G Ray
 <lb/>W C Sams
-<lb/>Wm A Sweet
-<lb/>J B Pierce
+<lb/>Wm A <unclear/>
+<lb/><hi rend="str">J M</hi> J B Pierce
 <lb/>J M Branch
-<lb/>Jor. F. Pittman
+<lb/><unclear>Jor.</unclear> F. Pittman
 <lb/>J H Lane
 <lb/>George Christman
 <lb/>Thos Colbert
-<lb/>J W Mallikin<milestone unit="column" n="1"/><pb/></p>
-<p>Miles Abbott
-<lb/>Luther Hayse
-<lb/>Thos <unclear>Abviant</unclear>
-<lb/>F E Skidmore
-<lb/>B. L. Wright
-<lb/>Thos. Lamprey
-<lb/>W. W. Collins
+<lb/>J W Mullikin<milestone unit="column" n="1"/><pb/>
+<lb/>Miles Abbot
+<lb/>Luther Hay s<hi rend="sup">e</hi>
+<lb/>Thos <unclear>abviant</unclear>
+<lb/>F. E. Skidmore
+<lb/>B, S, Wright
+<lb/>Tho<hi rend="sup">s</hi> Laughery
+<lb/>W, W Collins
 <lb/>E. Mahoney
 <lb/>W Perkinson
-<lb/>John W. Stewart
-<lb/>D S Lane
-<lb/>W. P. Maddox</p>
+<lb/>John W, Stewart
+<lb/>D, S, Lane
+<lb/>W, P, Maddox</p>
   </body>
  </text>
 </TEI>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0510"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">James Beatly and L. F. Jones to James F. Robinson</title>
+    <title level="a" type="main">James Beatty and L. F. Jones to James F. Robinson</title>
     <title level="a" type="parallel">CWG8962</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,16 +63,19 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P001815">Henderson, Ky,</placeName> <date when="1863-08-21">Aug 21<hi rend="sup">st</hi>/63</date>
-<lb/>His Excellency, <persName ref="cwgk:N001004">James F. Robinson</persName><lb/>Governor of <orgName ref="cwgk:O001025">Kentucky</orgName><lb/>Sir:</p>
-<p>Your petitioners state that they were sureties on the recognizance of one <persName ref="cwgk:N00007333">Henry Raines</persName>, for his appearance to answer an indictment against him in the <orgName ref="cwgk:O00000397">Henderson Circuit Court</orgName> for a misdemeanor, The indictment was tried and judgment rendered against Raines thereon for the sum of twenty dollars -- He having failed to appear, judgment was <hi rend="str">at</hi> rendered against the petitioners on his recognizance for the sum of fifty dollars &amp; costs, They enclose herewith a statement of the judgments certified by the clerk of the court, They are willing to pay the amount of the judgment against Raines, which was all the Commonwealth would have demanded of him had he appeared. They feel assured that she is not disposed to speculate on them for his absence, which of itself is a gain to her, They therefore respectfully petition your Excellency to remit the excess of the judgment against them, over that against Raines -- And they will ever pray &amp;c</p>
-<p><persName ref="cwgk:N00000955">James Beatty</persName><lb/><persName ref="cwgk:N00000956">L. F. Jones</persName></p>
+   <p>Henderson, Ky, <date when="1863-08-21">Aug 21<hi rend="sup">st</hi>/63</date>
+<lb/>His Excellency, James. F. Robinson
+<lb/>Governor of Kentucky
+<lb/>Sir:</p>
+<p>Your petitioners state that they were sureties on the recognizance of one Henry, Raines, for his appearance to answer an indictment against him in the Henderson Circuit Court for a misdemeanor, The indictment was tried and judgment rendered against Raines thereon for the sum of twenty dollars -- He having failed to appear, judgment was <hi rend="str">at</hi> rendered against these petitioners on his recognizance for the sum of fifty dollars &amp; costs, They enclose herewith a statement of the judgments certified by the clerk of the court, They are willing to pay the amount of the judgment against Raines, which was all the Commonwealth would have demanded of him had he appeared, They feel assured that she is not disposed to speculate on them for his absence, which of itself is a gain to her, They therefore respectfully petition your Excellency to remit the excess of the judgment against them, over that against Raines -- And they will ever pray &amp;c,</p>
+<p>James Beatty
+<lb/>L. F. Jones</p>
 <p>I was attorney for the defense in these cases -- and know the facts as set forth to be true -- both as to the judgments and the character of Raines -- </p>
-<p><persName ref="cwgk:N00000957">S. B. Vance</persName><pb/></p>
+<p>S. B. Vance<pb/></p>
 <p>Henderson Cir. Ct
-<lb/>$50. } Recog
+<lb/>&#36;50. &#125; Recog
 <lb/>Beatty &amp; Jones
-<lb/>Iss <date when="1863-08-25">Aug 25 1863</date></p>
+<lb/>Iss <date when="1863-08-25">Aug 25, 1863</date></p>
 <p>Judgement against sureties remitted except Twenty dollars &amp; costs</p>
 <p>J F Robinson</p>
   </body>

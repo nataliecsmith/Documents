@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1394"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,16 +62,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bank Luk July <date when="1862-07-09">9<hi rend="sup">th</hi> 1862</date></p>
-<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> David Whitehouse S<hi rend="underline"><hi rend="sup">r</hi></hi> you are hereby authorized to ley my son Clemons Sandfoss have Liquors at aney and all times with or without money or aney of my Family and Oblige</p>
-<p>Rasom Tinney<pb/></p>
-<p>Bank Luk <date when="1862-08">Augst -- 1862.</date></p>
-<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> David Whitehouse S<hi rend="underline"><hi rend="sup">r</hi></hi> you are hereby authorized to let my sons Ferdinand &amp; Jn<hi rend="underline"><hi rend="sup">o</hi></hi> have Liquors at aney and all times with or without money or aney of my Children and oblige</p>
-<p><unclear>Irving</unclear> <unclear/><pb/></p>
+   <p>Bank Lick <date when="1862-07-09">July 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
+<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> David Whitehouse S<hi rend="underline"><hi rend="sup">r</hi></hi> you are hereby authorized to let my son Clemons Sandfoss have Liquors at aney and all times with or without money or aney of my Family and Oblige</p>
+<p><unclear/> <unclear>Tirney</unclear><pb/></p>
+<p>Bank Lick <date when="1862-08">Augs<hi rend="underline"><hi rend="sup">t</hi></hi> -- 1862</date>.</p>
+<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> David Whitehouse S<hi rend="underline"><hi rend="sup">r</hi></hi> you are here by authorized to let my sons Ferdinand &amp; Jn<hi rend="underline"><hi rend="sup">o</hi></hi> have Liquors at aney and all times with or without money or aney of my Children and oblige</p>
+<p><unclear/> <unclear/><pb/></p>
 <p>To the Governor of Kentucky
 <lb/>Thomas E. Bramlette.
 <lb/>Dear Sir;</p>
-<p>At the <date when="1864-12">December Term of the Kenton circuit Court. 1864</date>. I was fined, and <hi rend="underline">the</hi> <hi rend="underline">Judge</hi> <hi rend="underline">without</hi> <hi rend="underline">a</hi> <hi rend="underline">Jury</hi> in two cases, one for selling liquor to John Cure, and one for selling liquor to C Sandfoos, I had the written authority and the Verbal consent, of the Fathers of both the young men. to Sell them liquor -- whenever they wanted it, They are close neighbors and good Industrious young men; who very Seldom drink, one of them had only drank three times, and the other about the Same. I thought that general authority was all Sufficient, and both the parents thought the Same. I am a law abiding man, keep a wayside country Tavern, never allow, noise and tumult about ^my House^ am not a lawyer, nor a litiguous man am a physician by profession; and think the costs and the commonwealth <hi rend="str">fee</hi> atty<hi rend="sup">s</hi> fee., a severe punishment for - <hi rend="underline">Ignorance</hi>, <hi rend="underline">of</hi> <hi rend="underline">the</hi> <hi rend="underline">law</hi>, and hope your Excellency, will concur in the Same. view, and grant me a remission of the Two fines.</p>
+<p>At the <date when="1864-12">December Term of the Kenton Circuit Court. 1864</date>. I was fined, and <hi rend="underline">the</hi> <hi rend="underline">Judge</hi> <hi rend="underline">without</hi> <hi rend="underline">a</hi> <hi rend="underline">Jury</hi> in two cases, one for selling liquor to John Cure, and one for selling liquor to C Sandfoos, I had the written authority and the Verbal consent, of the Fathers of both the young men, to Sell them liquor -- whenever they wanted it, They are close neighbors and good Industrious young men, who very seldom drink, one of them had only drank three times, and the other about the Same. I thought that general authority was all Sufficient, and both the parents thought the Same. I am a law abiding man, keep a wayside country Tavern, never allow, noise and tumult about ^my House^ am not a lawyer, nor a <hi rend="str"><unclear/></hi>litiguous man, am a physician by profession; and think the costs and the commonwealths <hi rend="str">fee</hi> Atty<hi rend="sup">s</hi> fee, a severe punishment <hi rend="underline">for</hi>-- <hi rend="underline">Ignorance</hi>, <hi rend="underline">of</hi> <hi rend="underline">the</hi> <hi rend="underline">law</hi>, and hope your Excellency, will concur in the Same, view, and grant me a remission of the Two fines.</p>
 <p>Yours truly.
 <lb/>David Whitehouse</p>
   </body>

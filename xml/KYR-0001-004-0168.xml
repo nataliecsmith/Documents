@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0168"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,26 +63,26 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort, Ky <date when="1863-10-26">Oct. 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+   <p>Frankfort, Ky <date when="1863-10-26">Oct, 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
 <lb/>Hon Gov of the State of Kentucky
 <lb/>Dear Sir</p>
-<p>The undersigned respectfull ask<hi rend="sup">s</hi> you to Grant him a pardon so that I may become a useful man to my friends &amp; family, in <date when="1859">1859</date>, I was convicted in the circuit court, of, Harrison County for the term of four years, for Stealing a horse, I was Drunk and had no intention of stealing the hourse, I <hi rend="str">have</hi> caught the hourse on the road, with his saddle on his back and road him to, town, I have been good prisoner and refer to M<hi rend="sup">r</hi>. Whitesides, or any of the other Keepers my term expires on <date when="--11-29">Sunday 29th of Nov</date></p>
+<p>The Undersigned respectfull ask<hi rend="underline"><hi rend="sup">s</hi></hi> you to Grant him a pardon so that I may become a useful man to my friends &amp; family, in <date when="1859">1859</date>, I was convicted in the circuit court, of, Harrison County for the term of four years, for Stealing a horse, I was Drunk and had no intention of stealing the hourse, I <hi rend="str">have</hi> cought, the hourse on the road, with his soddle on his back and road him to, town, I have been good prisoner and refer to, M<hi rend="underline"><hi rend="sup">r</hi></hi> Whitesides, or any of the other Keeper<hi rend="underline"><hi rend="sup">s</hi></hi> my time Expires on <date when="--11-29">Sunday 29<hi rend="underline"><hi rend="sup">th</hi></hi> of Nov</date></p>
 <p>With Grate Respc
-<lb/>Patrick Engles</p>
+<lb/><hi rend="underline">Patrick</hi> Engles</p>
 <p>Gov Bramlett</p>
 <p>Engles has been a well behaved man in prison and that far is I think intitled to Executive clemency</p>
-<p>Respy yrs
+<p>Respy Yrs
 <lb/>H I Todd<pb/></p>
 <p>Pardon
 <lb/>Harrison Cir Ct
 <lb/>vs
 <lb/>Patrick Engles
 <lb/>Pardoned
-<lb/><date when="1863-11-28">28<hi rend="sup">th</hi> Nov/ 63</date></p>
-<p>Pardon granted to be sent up to H. I. Todd
-<lb/>Tho E Bramlette</p>
+<lb/><date when="1863-11-28">28<hi rend="sup">th</hi> Nov/63</date></p>
+<p>Pardon granted to be sent up to H. I. Todd</p>
+<p>Tho E Bramlette</p>
 <p>Hon Gov of State of Kentucky
-<lb/>Rd of Capt. H I Todd Keeper</p>
+<lb/>Recd. of Cap<hi rend="underline"><hi rend="sup">t</hi></hi> H I Todd Keeper</p>
   </body>
  </text>
 </TEI>

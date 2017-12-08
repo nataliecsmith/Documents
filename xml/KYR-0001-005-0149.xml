@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0149"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,26 +65,26 @@
   <body>
    <p>Clay circuit court
 <lb/>The commonwealth of Kentucky
-<lb/>against } Indictment
+<lb/>against &#125; Indictment
 <lb/>Jacob Giltner</p>
-<p>The Grand Jury of Clay County in the name and by the authority of the commonwealth of Kentucky accuse Jacob Giltner of the Crime of Murder, Committed as follows, viz; The said Jacob Giltner on the <date when="1865-11-24">24<hi rend="sup">th</hi> day of November 1865</date> in the County afforesaid did feloniously and wilfully &amp; with malice afforethought kill and murder William Clark by Shooting him with a gun and Pistol against the peace and dignity of the commonwealth of Kentucky</p>
+<p>The Grand Jury of Clay county in the name and by the authority of the commonwealth of Kentucky accuse Jacob Giltner of the Crime of Murder, Committed as follows, viz; The said Jacob Giltner on the <date when="1865-11-24">24<hi rend="sup">th</hi> day of November 1865</date> in the county afforesaid did feloniously and wilfully &amp; with malice afforethought kill and murder William Clark by shooting him with a gun and Pistol against the peace and dignity of the commonwealth of Kentucky</p>
 <p>H. F. Finly
-<lb/>Commonwealths atty</p>
+<lb/>commonwealths atty</p>
 <p>Witnesses
 <lb/>Reubin Baker
 <lb/>Thos Merrll
-<lb/>John Peters
+<lb/>John Petters
 <lb/>John H Gilbert
 <lb/>John Sperlock</p>
-<p>A true copy -- attest
-<lb/>G W Price C Clk<pb/></p>
+<p>A true copy attest
+<lb/>G W Price Clerk<pb/></p>
 <p>The commonwealth
-<lb/>vs } Indictment
+<lb/>v &#125; Indictment
 <lb/>Jacob Giltner<figure type="hr"/>
 <lb/>A True Bill
 <lb/>J. G. Gilbert
-<lb/>foreman
-<lb/>Murder</p>
+<lb/>foreman</p>
+<p><hi rend="underline">Murder</hi></p>
   </body>
  </text>
 </TEI>

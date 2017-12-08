@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0032"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Charles D. Pennebaker to James F. Robinson</title>
+    <title level="a" type="main">Consolidated Morning Report of Twenty Seventh Regt. Ky. Vols.</title>
     <title level="a" type="parallel">CWG1265</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,22 +51,23 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <date when="1862-08-30">30 August 1862</date>
+    <placeName>Tennesse</placeName>
+    <date when="1862-08-23">23 August 1862</date>
    </creation>
    <textClass>
     <keywords>
-     <term type="genre">Correspondence</term>
+     <term type="genre">Report</term>
     </keywords>
    </textClass>
   </profileDesc>
  </teiHeader>
  <text>
   <body>
-   <p>CONSOLIDATED MORNING REPORT OF Twenty Seventh Regt. Ky. Vols. Commanded by Col C D Pennebaker
+   <p>CONSOLIDATED MORNING REPORT OF Twenty Seventh Regt, Ky. Vols, Commanded by Col C D Pennebaker
 <lb/><table rend="rules">
 <row>
 	<cell>DATE. <date when="1862-08-23">Aug 23 1862</date></cell>
-	<cell>NOTE. -- All commissioned officers and enlisted men present on extra or daily duty will be borne in the column of "Present for Duty;" and all changes in the commissioned offivers will be noted in the column of Remarks, or on the back of the Return.</cell>
+	<cell>NOTE. -- All commissioned officers and enlisted men present on extra or daily duty will be borne in the column of "Present for Duty;" and all changes in the commissioned officers will be noted in the column of Remarks, or on the back of the Return.</cell>
 	<cell/>
 	<cell/>
 	<cell>PRESENT.</cell>
@@ -114,7 +118,7 @@
 	<cell/>
 	<cell>SICK.</cell>
 	<cell/>
-	<cell>IN ARREST OR CONFINEMENT</cell>
+	<cell>IN ARREST OR CONFINEME'T</cell>
 	<cell/>
 	<cell/>
 	<cell>BY AUTHORITY.</cell>
@@ -166,7 +170,7 @@
 	<cell>Aggregate Last Return.</cell>
 	<cell>Gained.</cell>
 	<cell>Lost.</cell>
-	<cell>Recruits Required</cell>
+	<cell>Recruits Required.</cell>
 	<cell>Servicable.</cell>
 	<cell>Unservicable.</cell>
 	<cell>Equipped.</cell>
@@ -652,18 +656,19 @@
 <lb/>DATE: <date when="1862-08-23">August 23d 1862</date></p>
 <p>Alex Magruder Adjt.
 <lb/>C D Pennebaker
-<lb/>Commanding.<pb/></p>
-<p>
-<lb/>CONSOLIDATED MORNING REPORT
-<lb/>OF <gap/>
-<lb/>COMMANDED BY <gap/><figure type="hr"/>
+<lb/><hi rend="italic">Commanding.</hi><pb/></p>
+<p>CONSOLIDATED MORNING REPORT
+<lb/>OF
+<lb/><gap/>
+<lb/>COMMANDED BY
+<lb/><gap/><figure type="hr"/>
 <lb/>Station <gap/>
 <lb/>Date <gap/></p>
-<p><unclear>Manscroes</unclear> Creek <date when="1862-08-30">Aug 30/ 62</date>
-<lb/>Hon Ja<hi rend="sup">s</hi> F Robinson</p>
-<p>I herewith send you my morning report of <date when="1862-08-23">23<hi rend="underline"><hi rend="sup">d</hi></hi> inst</date>, I send this to Show the necessity of filling up my Regt. Genl Buell has only allowed me one officer to recruit whereas all others are allowed two. One cannot under existing circumstances fill up my ranks in a any while -- I cant do the work of a full regt with the men I have it will Kill them to do so. I was sent here after every one else had been whissed away with less than 250 men to contend with Morgan who is reported to have 2000. There is no better Regt in the service than mine as far as it goes -- I do myself and service injustice in my present condition, and I appeal to you to make Some arraingement that will allow me to send a corps home of sufficient force to fill me up for the fall campaign. I cant enter with my Regt as it is, I have all to loose and nothing to gain in a hopeless endeavor to sustain a Regt. with about a quarter of its force. I do not write this with a view of making complaint, for that wont do in the Army, but to appeal to your sound judgement in my behalf. My losses in sickness have been heavy and hospitals have treated me badly in discharging and furloughing men who ought to have been in the field -- </p>
+<p><unclear>Mans croes</unclear> Creek <date when="1862-08-30">Aug <hi rend="str">2</hi>30/62</date>
+<lb/>Hon Jas F Robinson</p>
+<p>I herewith send you my morning report of <date when="1862-08-23">23<hi rend="underline"><hi rend="sup">d</hi></hi> inst</date>, I send this to Show the necessity of filling up my Regt. Genl Buell has only allowed me one officer to recruit where as all others are allowed two. One cannot under existing circumstances fill up my ranks in a any while -- I cant do the work of a full regt with the men I have it will Kill them to do so, I was sent here after evry one else had been whissed away with less than 250 men to contend with Morgan who is reported to have 2000, There is no better Regt in the service than mine as far as it goes -- I do myself and service injustice in my p<hi rend="str">a</hi>resent condition, and I appeal to you to make Some arraingment that will allow me to send a corps home of sufficient force to fill me up for the fall campaign. I cant enter with my Regt as it is, I have all to loose and nothing to gain in a hopeless endeavor to sustain a Regt. with about a quarter of its force. I do not write this with a view of making complaint, for that wont do in the Army, but to appeal to your sound judgement in my behalf, my losses in sickness have been heavy and hospitals have treated me badly in discharging and furloughing men who ought to have been in the field -- </p>
 <p>On reflection col cotton told me the 6<hi rend="underline"><hi rend="sup">th</hi></hi> was only allowed one recruiting officer.</p>
-<p>Any suggestion you may make to Genl Buell with refference to filling up the old Regts I have every confidence will be carried out speedily -- They ought to be filled up at once -- I have 221 men sent to hospital between <date when="1862-04-01">first of Apl</date> &amp; the <date when="1862-08-23">date of this Report</date>, to gather these up there ^the^ Genl only allowed me 20 days and two officers, time too short and force too small, &amp; had I not been in such straitened circumstances I should not have made the detail unless by positive order to that effect -- It is reported that you intend to fill up the old Regts with drafted men will that not produce discord, between the old volunteer, and the new drafted levy -- He comes too late, &amp; by force, it will be made a cause of quarrel; give officers ^&amp;^ particulary colonels much anxiety &amp; trouble.</p>
+<p>Any suggestion you may make to Genl Buell with refference to filling up the old Regts I have evry confidence will be carried out speedily -- They ought to be filled up at once -- I have 221 men sent to hospital betwen <date when="1862-04-01">first of Apl</date> &amp; the <date when="1862-08-23">date of this Report</date>, to gather these up there ^the^ Genl only allowed me 20 days and two officers, time to short and force too small, &amp; had I not been in such straitened circumstances I should not have made the detail unless by positive order to that effect -- It is reported that you intend to fill up the old Regts with drafted men will that not produce discord, between the old volunteer, and the new drafted levy -- He comes too late, &amp; by force, it will be made a cause of quarrel; give officers ^&amp;^ particularly colonels much anxiety &amp; trouble,</p>
 <p><hi rend="str">H</hi>Feeling confident that you will take an enlightened view of this very important subject</p>
 <p>I remain dear sir
 <lb/>your obt svt

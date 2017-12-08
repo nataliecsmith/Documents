@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0086"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">B. F. Wheeler et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">Y. B. Elmore et al. to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4205</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <date>n.d.</date>
+    <date when="1863-09">September 1863</date>
    </creation>
    <textClass>
     <keywords>
@@ -61,59 +64,58 @@
   <body>
    <p>To his excellincy
 <lb/>The Govenor of Kentucky</p>
-<p>We the undersigned officers and Jury by whom James T. Howard was tried and fined the Sum of fifteen dollars for a breach of the peace pray your Excellency to remit the same said Howard being a very poor man and the offence having been committed from the impulse of the moment without time to reflect, and having been provoked to do the same by Rebel Sympathizers he being a true loyal citizen, yet under the laws of Ky we were bound to inflict the fine which we pray you to remit your memorialists will ever pray &amp;c
-<lb/><date when="1863-09">Sept <gap/> 1863</date></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>J. B. Elmore forman of the jury
-<lb/>J. L. Watkins
+<p>We the undersigned officers and Jury by whom James T. Howard was tried and fined the Sum of fifteen dollars for a breach of the peace pray your Excellency to remit the Same Said Howard being a verry poor man and the offence having been committed from the impulse of the moment without time to reflect, and having been provoked to do the same by Rebel Sympathisers he being a true loyal citizen, yet under the laws of Ky we were bound to inflict the fine which we pray you to remit your memorialists will ever pray &amp;c
+<lb/><date when="1863-09">Sept, <gap/> 1863</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Y, B, Elmore forman of the jury
+<lb/>J, L, Watkins
 <lb/>David Carby
 <lb/>William J Snyder
-<lb/><cb n="2"/>B. F. Wheeler J.R.G.C
+<lb/><cb n="2"/>B. F. Wheeler J.P.GC
 <lb/>John Dennis
-<lb/>George W. Clemmans
-<lb/>James Alveys
-<lb/>J M. Alvey<milestone unit="column" n="1"/><pb/></p>
-<p>We the undersigned certify that Ja<hi rend="sup">s</hi>. T. Howard is a loyal citizen and a member of a home Guard company and that those with whom he had the dificulty refered to by the officers and Jury on the first page are Rebel Sympathisers
+<lb/>George. W. Clemmans
+<lb/>James Alvey
+<lb/>R M. Alvey<milestone unit="column" n="1"/><pb/></p>
+<p>We the undersigned certify that Ja<hi rend="underline"><hi rend="sup">S</hi></hi> T. Howard is a loyal citizen and a member of a home Guard company, and that those with whom he had the dificulty refered to by the officers and Jury on the first page are Rebel Sympathisers
 <lb/><date when="1863-09">Sept. <gap/> 1863</date></p>
-<p><milestone unit="column" n="2"/><cb n="1"/>W. E. Wortham Capt.
-<lb/>Rock cr. home Guard
+<p><milestone unit="column" n="2"/><cb n="1"/>W. E. Wortham capt. Rock cr. home Guard
 <lb/>Martin Miller
-<lb/>J. C. Mann
-<lb/>George B. Mann Jnr
+<lb/>J. C. Marr
+<lb/>George B Marr Jnr
 <lb/>J C Wheeler
 <lb/>Enos K Hawkins
 <lb/>John Fenwick
 <lb/>John E Dennis
 <lb/>Jonas taylor
 <lb/>Thoms E Higdon
-<lb/>W<hi rend="sup">m</hi> Johnston
+<lb/>Wm Johnston
 <lb/>R H Johnston
 <lb/>Henry Fenwick
 <lb/>Lewis W Hackley
-<lb/>E. Mills -- P. S. Millerstown
+<lb/>E, Mills- <hi rend="underline">P. M.</hi> <hi rend="underline">Millerstown</hi>
 <lb/>Charles Miller
 <lb/>Israel Downs
-<lb/>A C Made sec assesor
+<lb/>A C Made sec ofiser
 <lb/>George Bell
 <lb/>James Bell
 <lb/><cb n="2"/>Thomas Witten
-<lb/>Jos M Morris
+<lb/>Jos M Morrison
 <lb/>Moses Paris
 <lb/>W S Horn
-<lb/>Joseph Beady
+<lb/>Joseph Begly
 <lb/>Thompson Watkins
 <lb/>Ben Hughes
 <lb/>J B. Fulkersons
 <lb/>Jacob Carter
 <lb/>R J Wathan
-<lb/>John Skinner
-<lb/>Thos. W. Norton
-<lb/>Stephen Robertson
-<lb/>Willliam Spencer
-<lb/>Bird Falkerson
-<lb/>Zachariah Carby
+<lb/>John <unclear>S Kenser</unclear>
+<lb/>Thos. W. Vertrees
+<lb/>Stepen. Robertson
+<lb/>Willliam. Spencer
+<lb/>Bird Fulkerson
+<lb/>Zachariah CarBy
 <lb/>L W Howard
-<lb/>Perry Faulkerson
-<lb/>S. E. Duckworth 2<hi rend="sup">d</hi> Lieu</p>
+<lb/>James Faulkerson
+<lb/>S. E. Duckworth 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieu</p>
   </body>
  </text>
 </TEI>

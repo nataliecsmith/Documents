@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1407"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,7 +64,7 @@
   <body>
    <p>To his Excellency Beriah Magoffin,
 <lb/>Governor of the State of Kentucky,</p>
-<p>We the undersigned citizens of Henderson County petition your Excellency to grant a respite to William Allison Sandefur, for the period of twelve months, upon Judgments rendered against him at the last June Term of the Henderson Circuit Court in the sum of Twenty Dollars ($20) each in the following named cases to-wit:
+<p>We the undersigned citizens of Henderson County petition your Excellency to grant a respite to William Allison Sandefur, for the period of twelve months, upon Judgments rendered against him at the last June Term of the Henderson Circuit Court in the sum of Twenty Dollars (&#36;20) each in the following named cases to-wit:
 <lb/><table rend="rules">
 <row>
 	<cell>Commonwealth</cell>
@@ -113,22 +116,22 @@
 	<cell>8</cell>
 </row>
 </table></p>
-<p>Your petitioners would state that the defendant plead "guilty" to the above named indictments; that <hi rend="str">in</hi> <hi rend="str">conse</hi> monetary affairs, in consequence of the passage of the Stay Law, at a late session of Legislature, have become so stringent, that this Deffendant finds it impossible to meet the payment of said fines.</p>
+<p>Your petitioners would state that the defendant plead "guilty" to the above named indictments;; that <hi rend="str">in</hi> <hi rend="str">conse</hi> monetary affairs, in consequence of the passage of the Stay Law, at a late session of Legislature, have become so stringent, that this De<hi rend="str">f</hi>fendant finds it impossible to meet the payment of said fines.</p>
 <p>Your petitioners believe that Mr Sandefur<pb/>
 <lb/>is a worth object for the exercise of your Executive clemency and, therefore, pray that the said respite may be granted.</p>
 <p>C R Priest
-<lb/>J. Preublinger
-<lb/>J E Rickells
-<lb/>R. M. Allen
-<lb/>Wm B. Beatty
-<lb/>S A Sugg
+<lb/>J. <unclear>Preublinger.</unclear>
+<lb/>J, E, Ricketts
+<lb/>R. M, Allin
+<lb/>Wm B, Beatty
+<lb/>S A. Sugg
 <lb/>B B Williams
 <lb/>A. S. Nunn
 <lb/>Edw<hi rend="sup">d</hi> H Hopkins
 <lb/>John Reuby
 <lb/>P. A Blackwell
 <lb/>R. A. Armistead
-<lb/>Harry Yeaman
+<lb/>Harvey Yeaman
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> <hi rend="underline">Steele</hi>
 <lb/>Cyrus W. Steele
 <lb/>C A Brown
@@ -140,14 +143,14 @@
 <lb/>G. F. C. Mallaore
 <lb/>W<hi rend="sup">m</hi> P Smith
 <lb/>B Brashear
-<lb/>W. S. Johnson
-<lb/><hi rend="underline">Jas F. Clay</hi><pb/></p>
-<p>Henderson Cir. Ct
-<lb/>Respite 12 mo
-<lb/>B. M. 
-<lb/>7. Judgnt each $20.
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A. Sandefur
-<lb/>Iss<hi rend="sup">d</hi>. <date when="1861-09-10">Sept 10. 1861</date></p>
+<lb/>W, S, Johnson</p>
+<p><hi rend="underline">Jas F. Clay</hi><pb/></p>
+<p>Henderson Cir. Ct</p>
+<p>Respite 12 mo
+<lb/>B. M</p>
+<p>7. Judg'ts each &#36;20.
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A. Sandifur
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-09-10">Sept 10. 1861</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0591"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Campbell County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -61,11 +63,11 @@
  <text>
   <body>
    <p>To his Excellency James F. Robinson Governor of Kentucky:</p>
-<p>The undersigned citizens of Campbell County respectfully represent that George Coy and Jacob Hawthorn stand bound upon two bonds as sureties for one F. L. Grisnisier to keep the peace and as the bonds read for the appearance of the sad Grisnier at the next <unclear>business</unclear> Term of the Campbell Circuit Court upon which bonds the Com<hi rend="underline"><hi rend="sup">ths</hi></hi> atto is asking a forfeiture upon the ground that Grisnier did not make his appearance at Court -- there is no complaint that Grisnier did any thing to break the peace but on the contrary he was a law abiding peaceful citizen and we are satisfied that Coy &amp; Hawthorn signed the bonds under the apprehension that they were only to be responsible in case that Grismier committed a breach of the peace &amp; that they did not understand that they were to be respoonsible for his appearance at Court -- We think it a proper case for his interfering clemency of the Executive &amp; ask that they the said Coy &amp; Hawthorn be relieved from the effects of the bonds if within the power of the Governor to do so -- </p>
-<p>E, W, Hawkins<pb/></p>
+<p>The undersigned citizens of Campbell County respectfully represent that George Coy and Jacob Hawthorn stand bound upon two bonds as sureties for one F. S. Grisnsier to keep the peace and as the bonds read for the appearance of the sad Grisnier at the next <unclear/> Term of the Campbell Circuit Court upon which bonds the Com<hi rend="underline"><hi rend="sup">ths</hi></hi> atto is asking a forfeiture upon the ground that Grissnier did not make his appearance at Court-- there is no complaint that Grisnier did any thing to break the peace but on the contrary he was a law abiding peaceful citizen and we are satisfied that Coy &amp; Hawthorn signed the bonds under the apprehension that they were only to be responsible in case that Grisnier committed a breach of the peace &amp; that they did not understand that they were to be respoonsible for his appearance at Court-- We think it a proper case for his interfering clemency of the Executive &amp; ask that they the said Coy &amp; Hawthorn be relieved from the effects of the bonds if within the power of the Governor to do so--</p>
+<p>E. W. Hawkins<pb/></p>
 <p>Pettn for remission of bonds of George Coy &amp; Jacob Hawthorn from Newport</p>
-<p>Hold for further advice</p>
-<p>I am unwilling to interfere before judgt. It is a <unclear/> <unclear/> precedent which I have now set</p>
+<p>Held for further advice</p>
+<p>I am unwilling to interfere before judgt. It is a very bad precident which I have never set</p>
 <p>Remit except fees &amp; costs
 <lb/>Tho E Bramlette</p>
   </body>

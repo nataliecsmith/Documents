@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0078"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">John O. Staley to Beriah Magoffin</title>
+    <title level="a" type="main">John A. Staley to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG2426</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -67,21 +70,21 @@
 <lb/>the State of
 <lb/>Kentucky,
 <lb/>Hon. Sir:</p>
-<p>Being desirous of becoming a Commissioner of the State of Kentucky, I hereby make application to your Excellency that I may be appointed to that office</p>
+<p>Being desirous of becoming a Commissioner of the State of Kentucky, I hereby make application to your Excellency, that I may be appointed to that office,</p>
 <p>I am,
-<lb/>Your obt. Servt.
-<lb/>Jno. O. Staley
-<lb/>J. P.<pb/></p>
+<lb/>Your obt. servt.
+<lb/>Jno. A. Staley
+<lb/><hi rend="underline">J. P.</hi><pb/></p>
 <p>I know Jno. Staley to be a Magistrate of good character, and believe him competent to fill the office for which he has applied.</p>
-<p>W<hi rend="sup">m</hi> <hi rend="str">A</hi> <unclear/> J. J. C. C. C.
-<lb/>W B Knopf J. J. C. C.C<pb/></p>
+<p><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> <unclear/></hi> J. J. C. C. C.
+<lb/><hi rend="underline">W B Knopf J. J C. C.C</hi><pb/></p>
 <p>Georgia<figure type="hr"/>
-<lb/>Com<hi rend="sup">r</hi>. of Deeds
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>Jno. A. Staley
 <lb/>Savannah
 <lb/>Iss<hi rend="sup">d </hi><date when="1861-02-20">Feby 20. 1861</date><figure type="hr"/></p>
 <p>Issue Commission
-<lb/>B.M</p>
+<lb/>B. M</p>
   </body>
  </text>
 </TEI>

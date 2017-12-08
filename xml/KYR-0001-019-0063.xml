@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0063"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,27 +65,28 @@
   <body>
    <p>Paducah Ky
 <lb/><date when="1861-05-31">May 31<hi rend="underline"><hi rend="sup">st</hi></hi> 1861</date>
-<lb/>To His Excellency B Magoffin</p>
-<p>Dear Sir according to your instructions bearing date <date when="1861-05-21">21<hi rend="sup">st</hi> Inst</date> I lost no time in Visiting that portion of the state <hi rend="str">known as the</hi> which lies West of the Tennessee River, where it was reported a disaffection towards the legally Constituted Authorities ^of the State^ existed, While at Louisville I leanred that that a large Military force was being Collected at Jackson, Union city, and other points in Tennessee <hi rend="str">on</hi>near the line, to await the action of the Convention; and if necessary assist in the unlawful work of disintergrating the state -- </p>
-<p>I deemed this intelligence of so much importance that I <hi rend="str">want</hi> determined to go to Nashville and have an interview with Governor Harris, and learn from him if any steps had been taken by the State of Tennesse looking to such a Movement -- I arrived in Nashville Saturday <date when="1861-05-25">25<hi rend="sup">th</hi> inst</date> &amp; accompanied by W. B. Muchin Esq. Called on the Gov<hi rend="underline"><hi rend="sup">r</hi></hi> and learned from him that he knew nothing of the cesession<pb/></p>
-<p>Movement, but that he was putting in Camp a larger number of troops for instruction, and for the further purpose of having under arms an effective force, sufficient for any emergency that might aries in view of the large Military preparations going on at Cairo, and the threatening attitude assummed by the federal government towards Memphis, Tenn. &amp; Columbus, Paducah &amp; Smithland Ky -- </p>
-<p>But he disclaimed altogather any design of invading the soil of Kentucky, for any purpose unless Called on to do so, by the legally Constituted authorities, or of interfearing in any way with her right of iminent domain, her politics or policy</p>
-<p>He informed me however, that as there was very great excitement on the border, that I had better Visit it ahd see his Confidential agent, ^the Hon John a Gardner^ and Show him My instructions (&amp; Which I had ^previously^ <unclear>ehibited</unclear> to him) and Call his attention to the position assumed by Kentucky as innunciated in your proclamation bearing date the 20<hi rend="sup">th</hi> Inst. and that he would also as soon as possible, issue order<hi rend="underline"><hi rend="sup">s</hi></hi> to the same effect</p>
-<p>I arrived at Paducah on Sunday <date when="1861-05-26">26<hi rend="underline"><hi rend="sup">th</hi></hi></date> and Monday<pb/>
-<lb/>the <date when="1861-05-27">27<hi rend="sup">th</hi></date> took the first train for Tennesse, arriving at Fulton Station (Tennessee line) at night, and on Tuesday <date when="1861-05-28">28<hi rend="sup">th</hi></date> Visited the residence of M<hi rend="underline"><hi rend="sup">r</hi></hi> Gardner but not finding him at home, I addressed him <hi rend="str">the</hi> <hi rend="str">following</hi> <hi rend="str">enclosed</hi> a note, a copy of which you will find enclosed herewith,</p>
-<p>Returning to the station, the same night, to await the morning train, while asleep, a gentleman called Me up, and informed Me, that something unusual was going on; -- that one hundred men where to go to Columbus the following day, &amp; thro up earth works, and that two large forts, two ground Cannon, were being sent up from Memphis to be Mounted there, and the place put in a State of defence, He did not know who was to Command the enterprise, or by what authority <hi rend="str">it</hi> a gentleman who was Sleeping in the same room, &amp; who had came up from Memphis the day before Confirmed the account, So far as it related to the Cannon which he said he had passed on the way, &amp; he had learned that they were destined for Columbus</p>
-<p>I lost no time, in getting a messenger and dispatched <hi rend="str">the</hi> a note to Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Cheatham Comman<pb/>
-<lb/>-ding forces at Union City, ^a copy of which is enclosed herewith^ and enclosing also a coppy of My Note to M<hi rend="underline"><hi rend="sup">r</hi></hi> Gardner, and I have had the pleasure since to learn that my communications arrived in time to stop the further progress of the Matter at least for the present -- </p>
-<p>I determined to devote the remaining time before the assembling of the Convention, to <hi rend="str">the</hi> hunting up the delegates in the Counties of Hickman Fulton Ballard &amp; Graves, and if possibile to show them the damages, and impolicy of the contemplated Movement for the disruption of the state; -- all of whom after hearing the arguments against it abandoned it &amp; many were oposed to it before</p>
-<p>The convention assembled on the <date when="1861-05-30">30th</date> (yesterday) and I am happy to say, that with a few exceptions which might be expected in so large an assemblage Numbering from 3 to 5,000 men, I never saw better order, or greater loyalty</p>
-<p>The Convention Nominated with great meaning a Candidate for Congress, Hon H C Burnett, &amp; endorsed your Excellencies proclaimation, &amp; line of policy</p>
-<p>I have heard today that 3 or 4.00 men, without any Military organization are en route for Columbus, and will arrive today and that<pb/>
-<lb/>they will as soon as they get into Kentucky organise themselves into Companies as Ky troops and Command the fortification of Columbus I do not know that I have authority to interfear <hi rend="str">but if I had</hi> and shall not attempt it as at present advised, and shall await any further order<hi rend="underline"><hi rend="sup">s</hi></hi> Your Excellency may choose to give me</p>
+<lb/>To His Excellency B Magoffin
+<lb/>Governor of Kentucky</p>
+<p>Dear Sir according to your instructions bearing date <date when="1861-05-24">24<hi rend="sup">th</hi> Inst</date> I lost no time in visiting that portion of the state <hi rend="str">known as the</hi> which lies West of the Tennessee River, where it was reported a disaffection towards the legally Constituted Authorities ^of the state^ existed, While at Louisville I learned that that a large Military force was being Collected at Jackson, Union city, and other points in Tennessee <hi rend="str">on</hi>near the line, to await the action of the Convention; and if necessary assist in the unlawful work of disintergrating the state -- </p>
+<p>I deemed this intelligence of so much importance that I <hi rend="str">want</hi> determined to go to Nashville and have an interview with Governor Harris, and learn from him if any steps had been taken by the State of Tennesse looking to such a Movement- I arrived in Nashville saturday <date when="1861-05-25">25<hi rend="sup">th</hi> inst,</date> &amp; accompanied by W. B. Machin Esq. Called on the Gov<hi rend="underline"><hi rend="sup">r</hi></hi> and learned from him that he knew nothing of the cesession<pb/>
+<lb/>Movement, but that he was putting in Camp a large number of troops, for instruction, and for the further purpose of having under arms an effective force, sufficient for any emergency that might arise in Vew of the large Military preparations going on at Cairo, and the threatening attitude assummed by the federal government towards Memphis, Tenn. &amp; Columbus, Paducah &amp; Smithland Ky -- </p>
+<p>But he disclaimed altogather any design of invading the soil of Kentucky, for any purpose unless Called on to do so, by the legally constituted authorities, or of interfearing in any way with her right of iminent domain, her politics or policy</p>
+<p>He informed me however, that as there was very great excitement on the border, that I had better Visit it, and see his Confidential agent, ^the Hon John A Gardner^ and Show him my instructions (&amp; which I had ^previously^ <unclear>ehibited</unclear> to him) and call his attention to the position assumed by Kentucky as innunciated in your proclamation bearing date the 20<hi rend="sup">th</hi> Inst, and that he would also, as soon as possible, issue order<hi rend="underline"><hi rend="sup">s</hi></hi> to the same effect</p>
+<p>I arrived at Paducah on sunday <date when="1861-05-26">2<hi rend="str">5</hi>6<hi rend="underline"><hi rend="sup">st</hi></hi></date> and Monday<pb/>
+<lb/>the <date when="1861-05-27">27<hi rend="sup">th</hi></date> took the first train for Tennesse, arriving at Fulton Station (Tennessee line) at night, and on Tuesday <date when="1861-05-28">28<hi rend="sup">th</hi></date> visited the residence of M<hi rend="underline"><hi rend="sup">r</hi></hi> Gardner but not finding him at home, I addressed him <hi rend="str">the</hi> <hi rend="str">following</hi> <hi rend="str">enclosed</hi> a note, a copy of which you will find enclosed herewith,</p>
+<p>Returning to the station, the same night, to await the morning train, while asleep, a gentleman called Me up, and informed Me, that something unusual was going on;- that one hundred men where to go to columbus the following day, &amp; thro up earth works, and that two large forts, two <unclear>found</unclear> Cannon, were being sent up from Memphis to be Mounted there, and the place put in a state of defence, He did not know who was to command the enterprise, or by what authority <hi rend="str">it</hi> a gentleman who was Sleeping in the same room, &amp; who had came up from Memphis the day before Confirmed the account, So far as it related to the Cannon which he said he had passed on the way, &amp; he had learned that they were destined for Columbus</p>
+<p>I lost no time, in getting a Messenger and dispatched <hi rend="str">the</hi> a note to Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Cheatham Comman<pb/>
+<lb/>-ding forces at Union City, ^a copy of which is enclosed herewith^ and enclosing also a coppy of My Note to M<hi rend="underline"><hi rend="sup">r</hi></hi> Gardn, and I have had the pleasure since to learn that my communications arrived in time to stop the further progress of the matter at least for the present -- </p>
+<p>I determined to devote the remaining time before the assembling of the Convention, to <hi rend="str">the</hi> hunting up the delegates in the Counties of Hickman Fulton Ballard &amp; Graves, and if possibile to show them the damges, and impolicy of the contemplated Movement for the disruption of the state;- all of whom after hearing the arguments against it abandoned it &amp; many were oposed to it before</p>
+<p>The convention assembled on the <date when="1861-05-30">30<hi rend="sup">th</hi></date> (yesterday) and I am happy to say, that with a few exceptions which might be expected in So large an assemblage Numbering from 3 to 5.000 Men, I never saw better order, or greater loyalty</p>
+<p>The convention Nominated with great unanimity a candidate for Congress, Hon H C Burnett, &amp; endorsed your Excellencis proclaimation, &amp; line of policy</p>
+<p>I have heard today that 3 or 4.00 Men, without any Military organization are en rout for Columbus, and will arrive today, and that<pb/>
+<lb/>they will as soon as they get into Kentucky organise themselves into Companies, as Ky troops and commence the fortification of Columbus I do not know that I have authority to interfear <hi rend="str">but if I have</hi> and shall not attempt it as at present advised, and shall await any further order<hi rend="underline"><hi rend="sup">s</hi></hi> your Excellency may choose to give me</p>
 <p>I have the honor to be yr obt servt.
 <lb/>Jno M Johnson<pb/></p>
 <p>To His Excellency
-<lb/>B Magoffin</p>
-<p>Dispatches from D<hi rend="sup">r</hi> Johnson -- relative to matters in Tennessee</p>
+<lb/>B. Magoffin</p>
+<p>Dispatches from D<hi rend="sup">r</hi> Johnson -- relative to matters in Tenn<unclear/>-</p>
   </body>
  </text>
 </TEI>

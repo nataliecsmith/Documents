@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0153"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,17 +66,17 @@
    <p>Bedford Ky <date when="1863-10-13">Oct 13 1863</date>
 <lb/>H H Rodman
 <lb/>Dear Friend</p>
-<p>Once more I will have to call upon you to do me a favor. My brother in Law Levi S Baker was at the <date when="--10">October Term</date> of our court fined fifty dollars for carrying a pistol. Now I want you to hand to the Gov of Kentucky the within petition to have the fine remitted. If you are on good terms with the Governor, I would like for you to make a representation of facts for me. The circumstances in the case were about these, a man by the name of Abbott liveing close to Baker had fallen out with all the family of Baker and <hi rend="str">said</hi> ^used^ some slanderous language in reference to Bakers mother. Baker determined to make him take it Back or thrash him, he was told that he had better prepare himself before he said anything to Abbott. He saw Abbott passing through his Baker,s field. and asked him about it, and Abbott drew a hatchet and Baker shot at him but missed ^him^ and Abbott run. The parties who signed his petition know all about the facts in the case and fully Justify him. he was tried and acquitted for the shooting. he is poor and unable to pay the fine without a sacrifice. Now if you can conscienciously do any thing for him you will confer a favor on your old friend. My family are all well. Mr Samuels I am sorry to say is being verry low. I am afraid will not live but a short time. no news here</p>
+<p>Once more I will have to call upon you to do me a favor- My brother in Law Levi S Baker was at the <date when="--10">October Term</date> of our court fined fifty dollars for carrying a pistol- Now I want you to hand to the Gov of Kentucky the within petition to have the fine remitted- If you are on good terms with the Governor- I would like for you to make a representation of facts for me- The circumstances in the case were about these, a man by the name of Abbott liveing close to <hi rend="str"><unclear/></hi>Baker had fallen out with all the family of Baker- and <hi rend="str">said</hi> used some slanderous language in reference to Bakers mother, Baker determined to make him take it Back or thrash him, he was told that he had better prepare himself before he said any thin<hi rend="str">g</hi>g to Abbott, He saw abbott passing through his Baker,s field- and asked him about it, and Abbott drew a hatchet and Baker shot at him but missed ^him^ and <hi rend="str">a</hi>Abbott run- The parties who signed his petition know all about the facts in the case and fully Justify him- he was tried and acquitted for the shooting- he is poor and unable to pay the fine without a sacrifice- Now if you can conscienciously do any thing for him you will confer a favor on your old friend- My family are all well- M<hi rend="underline"><hi rend="sup">r</hi></hi> Samuels I am sorry to say is bein<hi rend="str">g</hi>g verry low- I am afraid will not live but a short time- no news here</p>
 <p>Your friend A J Bartlett<pb/></p>
-<p><date when="1863-10-19">Oct 19<hi rend="sup">th</hi></date> Since writing the within I regret to inform you that M<hi rend="sup">r</hi> Samuels has died he died <date when="1863-10-17">Saturday the 17<hi rend="sup">th</hi></date> Aunt Liz is now confined to bed and is Quite sick. Give my best respects to cousin Sue and receive for yourself the kind regards of your old friend</p>
-<p>A J B</p>
+<p><date when="1863-10-19">Oct 19<hi rend="sup"> -- </hi></date> Since writing the within I regret to inform you that M<hi rend="sup">r</hi> Samuels has died he died <date when="1863-10-17">saturday the 17<hi rend="underline"><hi rend="sup">th</hi></hi></date> Aunt Liz is now confined to bed and is Quite sick= Give my best respects to Cousin Sue and receive for yourself the kind regards of your old friend</p>
+<p><hi rend="underline">A J B</hi></p>
 <p>Trimble Cir Court
 <lb/>vs
 <lb/>Levi S. Baker
-<lb/>$50 -- 
+<lb/>&#36;50 -- 
 <lb/>Respited 12 mos
-<lb/><date when="1863-10-30">30<hi rend="sup">th</hi> Oct/ 63</date>
-<lb/>carrying concealed weapons</p>
+<lb/><date when="1863-10-30">30<hi rend="sup">th</hi> Oct/63</date>
+<lb/>Carrying Concealed Weapons</p>
   </body>
  </text>
 </TEI>

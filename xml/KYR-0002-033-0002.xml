@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0002"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">F. M. Helveti et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">W. D. Carpenter to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG11553</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,18 +63,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lt. Col Silas Adams com Colonel 1<hi rend="underline"><hi rend="sup">st</hi></hi> Cavalry <date when="1864-06-05">June 5. 1864</date> vice Frank Wolford dismissed<figure type="hr"/>
-<lb/>1.2.3.4.5.</p>
+   <p><note place="header">Lt. Col Silas Adams com Colonel 1<hi rend="underline"><hi rend="sup">st</hi></hi> cavalry <date when="1864-06-05">June 5. 1864</date> vice Frank Wolford dismissed<figure type="hr"/>
+<lb/>1. 2. 3. 4. 5.</note></p>
 <p>H<hi rend="underline"><hi rend="sup">d</hi></hi> Q<hi rend="underline"><hi rend="sup">rs</hi></hi> 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav
 <lb/>Allatoona Geo
-<lb/><date when="1864-06-05">June 5" 1864.</date>
+<lb/><date when="1864-06-05">June 5" 1864</date>.
 <lb/>Gov Bramlette
 <lb/>Sir -- </p>
-<p>As a vacancy exists in the Regiment as Colonel=we the undersigned officers of said Regiment do Respstly petition your Exc<hi rend="str">i</hi>ellency to Commission Lt Col Silas Adams as Colonel of the 1<hi rend="sup">st</hi> Ky Cav vice Col Wolford out of Service. Col Adams is so well known as a Cavalry officer, he needs no recommendation from us, a like petition was sent you some time since, but we have heard nothing from it. Our Regiment numbers over One Thousand men, and <hi rend="str">are</hi> is entitled to all the officers allowed a Cavalry Regiment.</p>
+<p>As a vacancy exists in this Regiment as Colonel= we the undersigned officers of said Regiment do Resptly petition your Exc<hi rend="str">i</hi>ellency to Commission Lt Col Silas Adams as Colonel of the 1<hi rend="sup">st</hi> Ky Cav vice Col Wolford out of service. Col Adams is so well known as a<hi rend="str">s</hi> Cavalry officer. he needs no recommendation from us, a like petition was sent you some time since, but we have heard nothing from it. Our Regiment numbers over one Thousand men, and <hi rend="str">are</hi> is entitled to all the officers allowed a Cavalry Regiment.</p>
 <p>signed
 <lb/><table rend="rules">
 <row>
-	<cell>F. M Helveti</cell>
+	<cell>F. M Halveti</cell>
 	<cell>Major</cell>
 	<cell> </cell>
 </row>
@@ -87,19 +90,19 @@
 </row>
 <row>
 	<cell>E. Cox</cell>
-	<cell>Comissary</cell>
+	<cell>Commissary</cell>
 	<cell> </cell>
 </row>
-</table> <pb/>
+</table><pb/>
 <lb/><table rend="rules">
 <row>
-	<cell>H. Brown </cell>
+	<cell>H. Brown</cell>
 	<cell>Surgeon</cell>
 	<cell> </cell>
 </row>
 <row>
 	<cell>A A Campbell</cell>
-	<cell>asst Surgeon</cell>
+	<cell>asst Surgeon.</cell>
 	<cell> </cell>
 </row>
 <row>
@@ -128,7 +131,7 @@
 	<cell>H</cell>
 </row>
 <row>
-	<cell>A. J. Keen</cell>
+	<cell>A. T. Keen</cell>
 	<cell>"</cell>
 	<cell>J</cell>
 </row>
@@ -165,7 +168,7 @@
 <row>
 	<cell>James Chilton</cell>
 	<cell>"</cell>
-	<cell> </cell>
+	<cell>C</cell>
 </row>
 <row>
 	<cell>W. C. Root</cell>
@@ -173,7 +176,7 @@
 	<cell>"</cell>
 </row>
 <row>
-	<cell>Warren Labm</cell>
+	<cell>Warren Lamb</cell>
 	<cell>"</cell>
 	<cell>D</cell>
 </row>
@@ -183,12 +186,12 @@
 	<cell>E</cell>
 </row>
 <row>
-	<cell>W B Ballard</cell>
+	<cell>W. B. Ballard</cell>
 	<cell>"</cell>
 	<cell>"</cell>
 </row>
 <row>
-	<cell>O. M. Dodson</cell>
+	<cell>O, M, Dodson</cell>
 	<cell>"</cell>
 	<cell>F</cell>
 </row>
@@ -203,7 +206,7 @@
 	<cell>G</cell>
 </row>
 <row>
-	<cell>A Grubbs</cell>
+	<cell>A. Grubbs</cell>
 	<cell>"</cell>
 	<cell>H</cell>
 </row>
@@ -245,22 +248,25 @@
 	<cell>" L.</cell>
 </row>
 </table></p>
-<p>I have Copied this from the original petition signed by every officer. And I Certify that we have on the Regimental Rolls over one thousand men, we have here in the front over five hundred men mounted Service as many as any other Cavalry Regiment in Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Stoneman's Command. we need more field officers in the Regiment, Col Adams is Commanding a Brigade. Major Owens is a prisoner, Maj Drye is at home wounded and we have only one Field officer with the Regiment,</p>
-<p>I am very Resptfy 
-<lb/>Your obt Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
+<p>I have copied this from the original petition signed by every officer, And I Certify that we have on the Regimental Rolls over one thousand men, we have here in the front over five hundred men mounted Twice as many as any other Cavalry Regiment in Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Stoneman's Command. we need more field officers in the Regiment. Col Adams is Commanding a Brigade. Major Owens is a prisoner. Maj Drye is at home wounded and we have only one Field officer with the Regiment.</p>
+<p>I am very Resptly 
+<lb/>Your ob<hi rend="sup">t</hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
 <lb/>W D Carpenter
-<lb/>adjt 1<hi rend="sup">st</hi> Ky Cav.<pb/></p>
+<lb/>adjt 1<hi rend="sup">st</hi> Ky Cav,<pb/></p>
 <p>H<hi rend="underline"><hi rend="sup">d</hi></hi> qrs 1<hi rend="underline"><hi rend="sup">s</hi></hi> Ky Cav<hi rend="sup">l</hi>
-<lb/><hi rend="underline">1 Cavy</hi>
 <lb/>Alltoona Ga
-<lb/><date when="1864-06-05">June 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/></p>
-<p>Carpenter W. D adjt &amp; others<figure type="hr"/></p>
+<lb/><date when="1864-06-05">June 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
+<p><hi rend="underline">1 Cavy</hi><figure type="hr"/></p>
+<p>Carpenter W. D
+<lb/>adjt &amp; others<figure type="hr"/></p>
 <p>To the Governor asking the Lt Col Silas Adams be commissioned Colonel vice Woolford out of the service.<figure type="hr"/></p>
-<p>Issue commission to Col Adams,</p>
-<p>Tho E Bramlette
-<lb/>Issue, <hi rend="underline">Boyle</hi><figure type="hr"/></p>
-<p>Com iss<hi rend="sup">d</hi> &amp; forw<hi rend="sup">d</hi> <date when="1864-06-16">June 16, 1864</date><figure type="hr"/></p>
-<p>Rec<hi rend="sup">d</hi> A G O 15 June 1864</p>
+<p>Issue commission to Col Adams.</p>
+<p>Tho E Bramlette</p>
+<p>Com iss<hi rend="sup">d</hi> &amp; forw<hi rend="sup">d</hi>
+<lb/><date when="1864-06-16">June 16 1864</date><figure type="hr"/></p>
+<p>Issue.
+<lb/><hi rend="underline">Boyle</hi></p>
+<p>Rec<hi rend="sup">d</hi> A G O <date when="1864-06-15">15 June 1864</date></p>
   </body>
  </text>
 </TEI>

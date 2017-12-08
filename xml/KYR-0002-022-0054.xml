@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0054"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -65,26 +68,26 @@
 <lb/>To his Excellency, Gov Bramlett
 <lb/>Frankfort Ky
 <lb/>Sir</p>
-<p>We the undersigned would respectfully recommend W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Watts for the appointment of Leu<hi rend="sup">t</hi> Col for Henry Co. Mr. Watts is eminently qualified for the position, Being a man of Energy with considerable experiance in Military Affairs.</p>
-<p>We feel confident that he will use every exertion to raise and organize a company in our County for the defense of our state against the invasion or raids of rebel guerillas.</p>
+<p>We the undersigned would respectfully recommend W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Watts for the appointment of Lieu<hi rend="sup">t</hi> Col for Henry. Co. Mr. Watts is eminently qualified for the position. Being a man of Energy with considerable experiance in Military Affairs.</p>
+<p>We feel confident that he will use every exertion to raise and organize a company in our County for the defense of our state against the invasion or raids of rebel Guerillas.</p>
 <p><hi rend="underline">H. M. Buckley</hi><pb/>
 <lb/>Tho<hi rend="sup">s</hi>. W. Robertson Capt 6<hi rend="sup">th</hi> Ky
 <lb/>Jno S White
-<lb/>Geo.S. Hennston Clk Ci Court</p>
-<p>The reccommendation of Col. H. M. Buckly, Capt Robertson &amp; others, I should think sufficient</p>
+<lb/>Geo. T. Humston Clk Ci Court</p>
+<p>The reccamendendation of Col. H. M. Buckly, Capt Robertson &amp; others, I should think sufficient</p>
 <p><hi rend="underline">Jno C Manfort</hi> P J H C C<pb/></p>
 <p>Henry Co <date when="1863-10-21">Oct 21/63</date><figure type="hr"/>
-<lb/>Recom"d" for this county
+<lb/>Recm"dg, for this county
 <lb/>W<hi rend="sup">m</hi> B Watts <hi rend="str">Lt</hi> Col<figure type="hr"/>
 <lb/>Warren Clubb Lt Col
-<lb/>H M Buckley<figure type="hr"/>
-<lb/>Issue as Colonel.
+<lb/>H M Buckley<figure type="hr"/></p>
+<p>Issue as Colonel.
 <lb/><hi rend="underline">Boyle</hi>
-<lb/>New Castle.
+<lb/>Newcastle.
 <lb/>Issued, 57, 300,</p>
 <p>wrote recalling Com of Col Watts
-<lb/>see letter book p 66</p>
-<p>Newcastle <hi rend="underline">Post Office.</hi></p>
+<lb/><hi rend="underline">see letter book p66</hi></p>
+<p><hi rend="underline">Newcastle Post office.</hi></p>
   </body>
  </text>
 </TEI>

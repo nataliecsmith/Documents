@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0049"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,16 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lancaster Ky. <date when="1864-07-20">July. 20 /64</date>
+   <p>Lancaster Ky. <date when="1864-07-20">July. 20/64</date>
 <lb/>Gov. Bramlet</p>
-<p>John Tanner was Committed to the Garrard County Jail for the alleged murder of his wife, two children and sister-in law and for Arson -- he escaped the Jail on the night of the 15. -- inst and is now going at large -- </p>
-<p>He is about 35 or 40 years old. 5 feet six or Eight inches high, dark hair rather sallow compliction -- weighs about 135<hi rend="underline"><hi rend="sup">lbs</hi></hi> has a stopage ^or stammering^ in his speech, articulates imperfect, and in the habit of repeating the last words of every sentence -- at first the impression is made that he is simple minded or foolish -- </p>
+<p>John Tanner was Committed to the Garrard County Jail for the alleged murder of his wife, two children and sister-in law and for Arson -- he escaped the Jail on the night of the 15.<hi rend="sup"> -- </hi>inst and is now going at large -- </p>
+<p>He is about 35 or 40 years old. 5 feet six or Eight inches high, dark hair rather sallow comple<hi rend="str">ct</hi>xion-- weighs about 135<hi rend="underline"><hi rend="sup">lbs</hi></hi> has a stopage ^or stammering^ in his speech-- articulates imperfect, and in the habit of repeating the last words of every sentence -- at first the impression is made that he is simple minded or foolish -- </p>
 <p>I suggest a reward for his apprehension</p>
 <p>yours truly
 <lb/>N Sandifer P, J, G, C, C<pb/></p>
 <p>Garrard Co
 <lb/>Reward
-<lb/>$300,
+<lb/>&#36;300,
 <lb/>for John Tanner
 <lb/><date when="1864-07-22">22<hi rend="sup">d</hi> July/64</date></p>
   </body>

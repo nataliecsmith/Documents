@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0062"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,15 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Private &amp; Confidential Paducah Ky
+   <p>Private &amp; confidential </p>
+<p>Paducah Ky
 <lb/><date when="1861-05-31">May 31<hi rend="underline"><hi rend="sup">st</hi></hi> 1861</date>
-<lb/>Night -- 
+<lb/>Nights -- 
 <lb/>To His Excellency
-<lb/>B Magoffin Governor &amp;c -- </p>
-<p>Dear Sir, Since my dispatches today, I learn that the 3 or 4,00 men mentioned as being destined for Columbus Ky, are certainly there It seems that Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Pillow refused to send them, in an organised body, and they disbanded, &amp; got a special train and started up to the Junction of Memphis &amp; Clarksville with the Mobile &amp; Ohio roads, -- they Went up in freight car<hi rend="underline"><hi rend="sup">s</hi></hi> and where wholely uncontrolable, breaking the car<hi rend="underline"><hi rend="sup">s</hi></hi> to pieces, fighting &amp;c. &amp;c. I fear they are in a band of plunder<hi rend="underline"><hi rend="sup">s</hi></hi> or Hessians, who will fight under no flag, without the privalege of robbing &amp; plundering as they go Maj<hi rend="underline"><hi rend="sup">r</hi></hi> Tilghman went out there this evening, and I have determined to go tomorrow and if possible have them driven back, I believe<pb/>
-<lb/>the authorities of Tennesse are profoundly anxious to Keep the peace with us and not to invade our soil themselves, nor permit it to be done by other<hi rend="underline"><hi rend="sup">s</hi></hi> if they can prevent it; -- but with Such troops as those which I am speaking there seems to be no way of dealing <hi rend="str">with</hi> <hi rend="str">them</hi> but to Shoot them, which I would do, if I had the power. I have just learned that Col Austin (the same who was in Frankfort you remember) is at the head of it and that he made a Speech in Mayfield yesterday in which he foreshadowed the policy by which he would be governed <hi rend="str">in a speech</hi>, a notice of which I send you, cut from the Herald Extra of today -- I am anxious to hear from you and shall be much troubled until I do. -- But be assured of one thing I will do my best to get them out of Columbus</p>
-<p>Every thing is quiet here at present, but it is only the quiet that precedes the Storm, in Illinois, they are organising Companies right oposite to us on the bank of the river<pb/>
-<lb/>and driving away all the Southern righs men in the state,</p>
+<lb/>B Magoffin Governor &amp;c-</p>
+<p>Dear Sir, since my dispatches today, I learn that the 3 or 4.00 men mentioned as being destined for Columbus Ky, are certainly there It seems that Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Pillow refused to send them, in an organised body, and they disbanded, &amp; got a special train and started up to the Junction of the Memphis &amp; Clarksville with the Mobile &amp; Ohio road, -- they Went up in fright car<hi rend="underline"><hi rend="sup">s</hi></hi> and where wholely uncontrolable, breaking the car<hi rend="underline"><hi rend="sup">s</hi></hi> to pieces, fighting &amp;c. &amp;c. I fear they are a band of plunder<hi rend="str"><hi rend="sup">s</hi></hi>er<hi rend="sup">s</hi>, or Hessians, who will fight under no flag, without the privalege of robbing &amp; plundering as they go Maj<hi rend="underline"><hi rend="sup">r</hi></hi> Tilghman went out there this evening, and I have determined to go tomorrow and if possible have them driven back, I believe<pb/>
+<lb/>the authorities of Tennesse are profoundly anxious to Keep the peace with us and not to invade our soil themselves, nor permit it to be done by other<hi rend="sup">s</hi>, if they can prevent it; -- but with Such troops as those which I am speaking there seems to be no way of dealing <hi rend="str">with</hi> <hi rend="str">them,</hi> but to Shoot them, which I would do, if I had the power, I have just learned that Col Austin (the same who was in Frankfort you remember) is at the head of it and that he made a speech in Mayfield yesterday in which he foreshadowed the policy by which he would be governed <hi rend="str">in a speech</hi>, a notice of which I send you, cut from the Herald Extra of today -- I am anxious to hear from you and shall be much troubled untill I do,- But be assured of one thing I will do my best to get them out of Columbus</p>
+<p>Every thing is quiet here at present, but it is only the quiet that precedes the Storm, in Illinois, they are organesing Companies right oposite to us on the bank of the river<pb/>
+<lb/>and driving away all the Southern rights men in the state,</p>
 <p>I will despatch ^to^ you again tomorrow, &amp; every day afterwards, as long as any thing of interest is happening here</p>
 <p>I am very respectfully
 <lb/>Jno M Johnson</p>

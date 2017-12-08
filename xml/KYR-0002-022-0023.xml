@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0023"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,27 +66,27 @@
    <p>Head-Quarters 2d Division, Military District of Kentucky,
 <lb/>Louisville, <date when="1864-10-14">October 14" 1864</date>.
 <lb/>Colonel Commanding
-<lb/>Grayson County Militia..
+<lb/>Grayson County Militia,,
 <lb/>Sir,</p>
-<p>I am directed by the General Commanding this Division to say that you will not in any way interfere with Capt Johnson Comd'g Home Guards. Grayson Co.. in his execution of orders received from these Head Quarters. He is authorized to exterminate "Guerilla Bands" in Grayson and adjoining Counties and to divide the property taken from them among his men pro-rata, also to take from disloyal men all arms and ammunition, and if needed by him to use them, if not to destroy them. If you have arrested Capt Johnson for commission of any act authorized by orders from these Head Quarters you will at once release him. And if you persist
+<p>I am directed by the General Commanding this Division, to say that you will not in any way interfere with Capt Johnson Comd'g, Home Guards. Grayson Co,, in his execution of orders received from these Head Quarters, He is authorized to exterminate "Guerilla Bands" in Grayson and adjoining Counties and to divide the property taken from them among his men pro-rata, also to take from disloyal men all arms and ammunition, and if needed by him to use them, if not to destroy them, If you have arrested Capt Johnson for the commission of any act authorized by Orders from these Head Quarters you will at once release him, And if you persist
 <lb/>(over)<pb/>
-<lb/>in interfering with him you will be arrested and sent out of the county.</p>
+<lb/>in interfering with him you will be arrested and sent out of the county,</p>
 <p>I am Sir
 <lb/>Your Obt Servt
-<lb/>E. B. Harlan
-<lb/>Lieut &amp; A. A. A. G.</p>
+<lb/>E, B, Harlan
+<lb/>Lieut &amp; A, A, A, G,</p>
 <p>Litchfield Grayson Co Ky
 <lb/><date when="1864-10-19">Octr. 19' 1864</date>
-<lb/>D. W. Lindsey Inspector Gen<hi rend="sup">l</hi>.</p>
-<p>Sir I Return to this order from E. B. Harlan which Explains its self. under your order of a previous date.. I have arrested Capt Johnson of the Independent Company of Grayson County, and now have him under arrest. Which was also in complyance with Gen<hi rend="sup">l</hi>. Burbridges General Order N<hi rend="sup">o</hi> 3.</p>
+<lb/>D. W. Lindsey Inspector Gen<hi rend="underline"><hi rend="sup">l</hi></hi></p>
+<p>Sir I Return to this order from E. B. Harlan which Explains its self, under your order of a previous date., I have arrested Capt Johnson of the Independant Comp<hi rend="str">ly</hi>any of Grayson County, and now have him under arrest, which was also in complyance with Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Burbridges Gen<hi rend="str">l</hi>eral Order N<hi rend="sup">o</hi> 3,</p>
 <p>Which of the Orders am I to obey. present this to the Governor, and let me<pb/>
-<lb/>hear from you</p>
+<lb/>hear from you,</p>
 <p>Respectfully
 <lb/>P. G. Reese Col
 <lb/>Commanding Grayson County Malitia</p>
-<p>P S. Please forward a copy of this order to Genl Burbrige.
-<lb/>P. G. R</p>
-<p>Litchfield Grayson Co
+<p>P S. Please forward a copy of this order to Gen<hi rend="sup">l</hi> Burbrige.</p>
+<p>P. G. R</p>
+<p>Litchfield Grayson co
 <lb/><date when="1864-10-19">Oct 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
 <lb/>Resse P. G
 <lb/>Col. E. M.<figure type="hr"/></p>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1558"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Thomas Newton, Affidavit</title>
+    <title level="a" type="main">Thomas Newton and George Newton, Affidavit</title>
     <title level="a" type="parallel">CWG11026</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,15 +62,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Affiants, on the night of the alleged Killing of Thomas H Estes by Charles H Tomlinson was going to the house of William Hockingsmith, and met Sanford Tomlinson and C H Tomlinson, and Thomas H Estes, on their way home from the Stampinground at the mouth of the lane by Plummers gate we heard them in friendly conversation sometime before we met them, just as they were passing us at the mouth of said lane, Sanford Tomlinson pointed to the commet before then remarking it shone more briliantly than he ever saw it before then said to us as he passed us how do you do gentlemen Thomas Estes asked what is meant by these blazing stars Tomlinson answered I will explain it <hi rend="str">t</hi> Tom they rode on up the rod past the lane making no stop and we listened to S Tomlinsons explaination of <hi rend="str">T</hi> commets until the had got perhaps a hundred yards past the lane, which is but little more than a quarter of a mile from Estes house They were riding slowly along talking in the most friendly manner, all appeared as we thought to to be sober, we did not notice that Estes was drunk any more than Tomlinsons, Sailors and Mrs Estes between that point and Thomas Estes house<pb/>
-<lb/>It has been extensively reported that Estes was verry drunk at the time and that the Tomlinsons was herd insisting on his going the direction of the lane, insisting that was his way home we were surprised to Know that persons living but a short distance, believed that and other reports that we Know to be utterly false which has a great deal to do in creating, and Keeping up the prejudices against the Tomlinsons most of the people of the surrounding country are related to the Estes family</p>
+   <p>Affiants, on the night of the alleged Killing of Thomas H Estes by Charles H Tomlinson was going to the house of William Hockingsmith, and met Sanford Tomlinson and C H Tomlinson, and Thomas H Estes, on their way home from the Stampinground at the mouth of the lane by Plummers gate we heard them in friendly conversation sometime before we met them, just as they were passing us at the mouth of said lane, Sanford Tomlinson pointed to the commet before then remarking it shone more briliantly than he ever saw it before then said to us as he passed us how do you do gentlemen Thomas Estes asked what is meant by these blazing stars Tomlinson answered I will explain it <hi rend="str">t</hi> Tom they rode on up the rod past the lane making no stop and we listened to S Tomlinsons explaination of <hi rend="str">T</hi> commets until the had got perhaps a hundred yards past the lane, which is but little more than a quarter of a mile from Estes house They were riding slowly along talking in the most friendly manner, all appeared as we thought to to be sober, we did not notice that Estes was drunk any more than the Tomlinsons, Sailors and M<hi rend="sup">rs</hi> Estes between that point and Thomas Estes house<pb/>
+<lb/>It has been extensively reported that Estes was verry drunk at the time and that the Tomlinsons was herd insisting on his going the direction of the lane, insisting that was his way home we were surprised to Know that persons liveng but a Short distance, beleeved that and other reports that we Know to be utterly false which has a great deal to do in creating, and Keeping up the prejudices against the Tomlinsons most of the people of the surrounding country are related to the Estes family</p>
 <p>The Tomlinsons were the best if not, the only true friends Tom Estes had</p>
-<p>I was a bright moon light night and and Estes Knew just as well where he was and what he was about as Tomlinson did </p>
+<p>I was a bright moon light night and and Estes Knew just as well where he was and what he was about as the Tomlinsons did </p>
 <p>Thomas Newton
 <lb/>George Newton</p>
-<p>Sworn to before me this <date when="1860-12-30">30" day of Dec 1860</date></p>
-<p>J. E. Alsop J. P.
-<lb/></p>
+<p>Swor to before me this <date when="1860-12-30">30<hi rend="sup">th</hi> day of Dec 1860</date></p>
+<p>J, E, Alsop. J P.</p>
   </body>
  </text>
 </TEI>

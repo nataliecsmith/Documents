@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0082"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,24 +63,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>Samuels Depot Ky,
+   <p>Samuels Depot Ky.
 <lb/><date when="1861-06-11">June 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
 <lb/>(Nelson County)
 <lb/>Gov. B. Magoffin
 <lb/>Hon. Sir:</p>
-<p>I have not been idle since I saw you. My improvements have advanced considerably in the way of fire arms -- I am now able to meet five to one in the field, armed with the guns now in use. On these terms we can claim the victory. The belligerents, all told, can not muster over three to one against <hi rend="underline">the</hi> <hi rend="underline">party</hi> <hi rend="underline">That</hi> <hi rend="underline">is</hi> <hi rend="underline">striving</hi> <hi rend="underline">for</hi> <hi rend="underline">right</hi> <hi rend="underline">and</hi> <hi rend="underline">liberty</hi>. With <hi rend="underline">Justice</hi>, and <hi rend="underline">these</hi> <hi rend="underline">improvements</hi>, <hi rend="underline">we</hi> <hi rend="underline">can</hi> <hi rend="underline">maintain</hi> <hi rend="underline">our</hi> <hi rend="underline">rights</hi> <hi rend="underline">against</hi> <hi rend="underline">the</hi> <hi rend="underline">oppressor</hi> !</p>
+<p>I have not been idle since I saw you. My improvements have advanced considerably in the way of fire arms- I am now able to meet five to one in the field, armed with the guns now in use. On these terms we can claim the victory. The belligerents, all told, can not Muster over three to one against <hi rend="underline">the</hi> <hi rend="underline">party</hi> <hi rend="underline">that</hi> <hi rend="underline">is</hi> <hi rend="underline">striving</hi> <hi rend="underline">for</hi> <hi rend="underline">right</hi> <hi rend="underline">and</hi> <hi rend="underline">liberty</hi>. With <hi rend="underline">Justice</hi>, and <hi rend="underline">these</hi> <hi rend="underline">improvements</hi>, <hi rend="underline">we</hi> <hi rend="underline">can</hi> <hi rend="underline">maintain</hi> <hi rend="underline">our</hi> <hi rend="underline">rights</hi> <hi rend="underline">against</hi> <hi rend="underline">the</hi> <hi rend="underline">oppressor</hi>!</p>
 <p>Not knowing to what conclusion the Commissioners have come in arranging for a state armory, I take the liberty to write you on the subject<pb/>
-<lb/>and solicit your Honor to inform me if any thing will be done in respect to establishing a <hi rend="underline">Cannon</hi> <hi rend="underline">foundry</hi> in this state. If it will not be done here, I must go to some other place where it will be adopted. There is no time to be lost in availing ourselves of all the advantages that can be had for our defense against oppression. If Kentucky is disposed to "<hi rend="underline">Submit</hi>" to Misrule, and stand quiet to receive the <hi rend="underline">bonds</hi> that will <hi rend="underline">forever</hi> sever her from <hi rend="underline">right</hi> and <hi rend="underline">liberty</hi>, let her do so -- There is a people that will not Stoop to receive the yoke of tyranny; and That people will take chances as they come and defend themselves against injustice -- To make it doubly sure, give them the best weapons you can get, and in this way you save life, which is dear to all -- You protect the army from exposure and bring the enemy to terms much sooner. and with this means you<pb/>
+<lb/>and solicit your Honor to inform me if any thing will be done in respect to establishing a <hi rend="underline">Cannon</hi> <hi rend="underline">foundry</hi> in this state. If it will not be done here, I must go to some other place where it will be adopted. There is no time to be lost in availing ourselves of all the advantages that can be had for our defense against oppression. If Kentucky is disposed to "<hi rend="underline">Submit</hi>" to Misrule, and stand quiet to receive the <hi rend="underline">bonds</hi> that will <hi rend="underline">forever</hi> sever her from <hi rend="underline">right</hi> and <hi rend="underline">liberty</hi>, let her do so- There is a people that will not Stoop to receive the yoke of tyranny; and That people will take chances as they come and defend themselves against injustice- To make it doubly sure, give them the best weapons you can get, and in this way you save life, which is dear to all -- You protect the army from exposure and bring the enemy to terms much sooner. and with this means you<pb/>
 <lb/>terminate the war in half the time.</p>
-<p>I have theee classes of guns: the <hi rend="underline">shoulders</hi>, <hi rend="underline">hand</hi>, and <hi rend="underline">Cannon</hi>. All of them can be used to great advantage in the field, <hi rend="underline">or</hi> <hi rend="underline">woods</hi> -- They range from one to five miles, and can be discharged from fifteen to twenty times per Minute, if required, with entire safety.</p>
+<p>I have three classes of guns: the <hi rend="underline">shoulder</hi>, <hi rend="underline">hand</hi>, and <hi rend="underline">Cannon</hi>. All of them can be used to great advantage in the field, <hi rend="underline">or</hi> <hi rend="underline">woods</hi>- They range from one to five miles, and can be discharged from fifteen to twenty times per Minute, if required, with entire safety.</p>
 <p>If your Excellency will be so kind as to answer this, you will confer a great favor on your</p>
 <p>Obt. Serv.
 <lb/><hi rend="underline">Ben Jackman</hi></p>
-<p>P.S. by J.R. Jackman -- 
+<p>P.S. by J. R. Jackman-
 <lb/>Gov. B. M.
-<lb/>D<hi rend="underline"><hi rend="sup">r</hi></hi> Sir:</p>
+<lb/>Dr Sir:</p>
 <p>I have transcribed the above for Father, and I would be pleased to see an answer to it from you, in relation to the progress of Commissioners. We have formed a "Home Guard" in this vicinity, and<pb/>
-<lb/>we wish to obtain arms <hi rend="underline">from</hi> <hi rend="underline">the</hi> <hi rend="underline">State</hi>. We think they will be needed here, as "Servile insurrection" is feared, there being some indications.</p>
+<lb/>we wish to obtain arms <hi rend="underline">from</hi> <hi rend="underline">the</hi> <hi rend="underline">State</hi>. We think <hi rend="underline">they</hi> will be needed here, as "Servile insurrection" is feared, there being some indications.</p>
 <p>Respy
 <lb/><hi rend="underline">J. R. J.</hi></p>
 <p>Ben Jackman<figure type="hr"/></p>

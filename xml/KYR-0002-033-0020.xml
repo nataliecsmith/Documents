@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0020"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,44 +64,52 @@
  <text>
   <body>
    <p>Cynthiana Ky <date when="1862-12-17">Dec 17<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
-<p>We the the true Union men of Harrison county would respectfully request that Capt James H. Coffman of Col Mundy's battalion of <hi rend="str">infantry</hi> Cavalry be promoted to Colonel of a Ky Cavalry regiment.</p>
-<p>His good conduct, his bravery and efficincy as an officer while at Cumberland cap entitle him to promotion.</p>
-<p>Capt. Coffman was raised in this county, we know him well, and would be gratified to hear of his promotion, knowing him to be worthy.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Isaac Taylor 1<hi rend="sup">st</hi> Lt Co. D 1<hi rend="sup">st</hi> Batt Ky Cav.
-<lb/>Walter F Stafford Capt. Co. A. 1<hi rend="sup">st</hi> Batt 1 Ky, Cav,
-<lb/>David, L, Cook 1<hi rend="sup">st</hi> Lt Co A 1<hi rend="sup">st</hi> Batt Ky cav
-<lb/>H. Brent Kelly Adjutant 1<hi rend="sup">st</hi> Battalion Ky. Cavalry,
-<lb/>Lieut O. W. Ballew 1<hi rend="sup">st</hi> Battalion, Ky, cavalry
-<lb/><cb n="2"/><hi rend="underline">C</hi> <hi rend="underline">Walton</hi>
+<p>We the the true Union men of Harrison county would respectfully request that Capt James H. Coffman of Col Mundy's battalion of <hi rend="str">infantry</hi> Cavalry be promoted to colonel of a Ky cavalry regiment,</p>
+<p>His good conduct, his bravery and efficeincy as an officer while at Cumberland cap entitle him to promotion.</p>
+<p>Capt, Coffman was raised in this county, we know him well, and would be gratified to hear of his promotion, knowing him to be worthy.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Isaac Taylor 1<hi rend="underline"><hi rend="sup">rst</hi></hi> Lt Co.. D 1<hi rend="sup">rst</hi> Batt Ky Cav,
+<lb/>Walter F. Stafford
+<lb/>Capt, Co, A. 1<hi rend="sup">st</hi> Batt<hi rend="sup">y.</hi> Ky, Cav,
+<lb/>David, L, Cook
+<lb/>1<hi rend="sup">st</hi> Lt co A 1<hi rend="sup">st</hi> Batt Ky cav
+<lb/>H. Brent Kelly, Adjutant
+<lb/>1<hi rend="sup">st</hi> Battalion Ky. Cavalry,
+<lb/>Lieut O. W. Ballew
+<lb/>1<hi rend="sup">st</hi> Battalion, Ky, cavalry
+<lb/><cb n="2"/><hi rend="underline">C. Walton</hi>
 <lb/>H Nichols
-<lb/>John Spohn
+<lb/><hi rend="underline">John</hi>. <hi rend="underline">Spohn</hi>
 <lb/>J. F. L S<hi rend="sup">t</hi> Thomas
 <lb/><hi rend="underline">J. S. Frizell</hi>
 <lb/>M. L. Broadwell
 <lb/>John Bruce
-<lb/>J L Griffith
+<lb/>I L Griffith
 <lb/>James Van Deren
 <lb/>H, H, Harding
-<lb/>J B Buchanan Capt compy (D) 1<hi rend="sup">st</hi> Batt Ky Cavalry<milestone unit="column" n="1"/><pb/></p>
+<lb/>J B Buchanan
+<lb/>Capt. compy (D)
+<lb/>1<hi rend="underline"><hi rend="sup">st</hi></hi> Batt Ky cavally<milestone unit="column" n="1"/><pb/></p>
 <p>Cynthiana <date when="1862-12-17">Dec 17 -- 1862</date></p>
-<p>Friend Jim: Inclosed pleas finde a petition for your promotion to Col in some of our Ky regaments: I could get all or most of the union men in our County to sign it; but as a general thing, a few names are as good as a great many: hoping you may soon be promoted, as I feal that you are in every way capable to fill the office of Col I remain</p>
+<p>Friend Jim: Inclosed pleas finde a petition for your promotion to Col in some of our Ky regaments; I could get all or most of the union men in our County to sign it; but as a general thing, a few names are as good as a great many: hoping you may soon be promoted, as I feal that you are in every way capable to fill the office of Col I remain</p>
 <p>Your Friend &amp;<hi rend="sup">c</hi>
 <lb/>M. L. Broadwell</p>
 <p>Camp Speed Fry near Danville
 <lb/><date when="1862-12-23">Dec 23 1862</date>
 <lb/>To His Exelency <unclear/> Robinson
 <lb/>Govenor of Kentucky</p>
-<p>Sir this has been unsolicited on my part and I forward it for your consideration and remain</p>
+<p>Sir this has been unsolicited on my part and I forward it for your Consideration and remain</p>
 <p>your respectl
 <lb/>J H Coffman<pb/></p>
-<p>Cynthiana Ky.
-<lb/><date when="1862-12-17">Dec. 17/62<figure type="hr"/></date></p>
-<p>Coffman Jas. N Capt. Col. Mundy's Battalion Cav:<figure type="hr"/></p>
-<p>Recommendations for his appointment to the Colonelcy of some Ky. Cav. regt.<figure type="hr"/></p>
+<p>Cynthiana Ky,
+<lb/><date when="1862-12-17">Dec. 17/62</date>.<figure type="hr"/></p>
 <p>Military
-<lb/>Petition to promot Capt Jas H. Coffman to a Colonecy</p>
-<p>Promotions must be made from the Regt. <unclear/> be glad to promote M<hi rend="sup">r</hi> C -- 
-<lb/>J W F</p>
+<lb/>Pettn to promote Capt Jas H. Coffman to a Colon-cy</p>
+<p>Promotions must be made from the Regt. <unclear/> be glad to promote M<hi rend="sup">r.</hi> C -- </p>
+<p>J W F</p>
+<p>Coffman Jas. H
+<lb/>Capt. Col. Mundy's
+<lb/>Battalion Cav.<figure type="hr"/></p>
+<p>Recommendations for his appointment to the Colonelcy of some Ky. Cav. regt.<figure type="hr"/></p>
 <p>Jas H Coffman</p>
   </body>
  </text>

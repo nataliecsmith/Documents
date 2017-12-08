@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1324"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,18 +63,18 @@
  </teiHeader>
  <text>
   <body>
-   <p><date when="1864-11-29">Nov the 29 1864</date>
+   <p><date when="1864-11-29">Nov th 29 1864</date>
 <lb/>Harrodsburg Mercer Ky
-<lb/>To the on Thomas. E Bramlet
+<lb/>To the on Thomas E Bromlet
 <lb/>Govener of Ky</p>
-<p>wea The under siners are personal Aquanted with Sollomon Corn from his child hood up to this act he was all ways counted An onest young man on till this his First he confest his crime and give up The goos he tuck and was confind in The Mercer Jail and sent to frankfort Jail and sent back to Mecer and foung gilty and sent To The state prisen For Two years wea Think you will use your exative athority in his be behalf</p>
+<p>Wea The under siners are personal Aquaded with Sollomon Corn from his child hood up To this act he was all ways counted An onest young man on till this his First he confest his crime and give up The goos he luck and was confind in The Mercer Jail and sent to frankfort Jail and sent back to Mecer and foung gilty and sent- To The state prisen For Two years Wea Think you will use your exative athority in his be behalf</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>J. Donovan
-<lb/>Jas <unclear>Dana</unclear>
-<lb/>Wiliam Vernon
+<lb/>Jas <unclear>Donor</unclear>
+<lb/>Wiliam <unclear/>
 <lb/>Ja yost
-<lb/><cb n="2"/>B N Bauer
-<lb/>Cornelius Donovan
-<lb/>Markam Deringer<milestone unit="column" n="1"/>
+<lb/><cb n="2"/><hi rend="str">J</hi>B N Bauer
+<lb/>Conelius Donovan
+<lb/>Markam <unclear>Deringer</unclear><milestone unit="column" n="1"/>
 <lb/></p>
   </body>
  </text>

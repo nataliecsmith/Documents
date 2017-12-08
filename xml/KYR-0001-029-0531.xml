@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0531"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,23 +63,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excelency <persName ref="cwgk:N001004">Governor Robinson</persName></p>
-<p>Your Petitioner <persName ref="cwgk:N00000440">William Age</persName> of <placeName ref="cwgk:P00000441">Edmonson County Kentucky</placeName> would respectfully represent that at the <date when="--03">March</date> Term of the <orgName ref="cwgk:O00000374">Edmonson Equity and Criminal Court</orgName> he was fined Forty Dollars upon an Inditement for selling spirtus Liquor without Lycens.</p>
-<p>he states that the fact were these. in <date when="1861-02">February 1861</date>. at a <orgName ref="cwgk:O00000618">County Court</orgName> at <placeName ref="cwgk:P00003745">Brownsville</placeName> the county seat of said County. the county officers Elected for said County met to Execute Bond and quatify previous to that time. Edmonson County had been held and ocupied by the Reble army -- and no Hotels were Lycured at the time in the Town. one of Petitioners Neighbors <persName ref="cwgk:N00000443">Jas W Crouch</persName> had been elected constable, and requested this Petitioner to purchase 2 Gal of Whisky and take to Town for a General treat, upon the meating and <hi rend="underline">Reunion</hi> of the Union party as it was intended at the time to Recruit for the Army -- which was done upon that day. Said Crouch -- stating that he and others would throw in and pay what Petitoners had to pay for said Liquor -- He and others did make up a portion -- of said mony -- but not the whole amount, Petitioner furnishing the ballance. Petitioners did not sell said whisky -- he made no profit on the same, did not buy it to sell for Profit, and he is informed that upon the trial but one witness was Examined against him &amp; who testified to seeing money -- paid by 2 persons -- which Patitioner states was handed him as above stated to make up the amount or part of the amt Paid by him -- </p>
-<p>He states, that he was not present at the trial, he was present at the first term after the Inditement and, the the Rebles came in the county and no court was held and as the courts had been so Iregular, Petitioner was not aware and did not know when court was or he would have attended and could have proved the facts stated -- He had<pb/>
-<lb/>spoken to an attorney before the first Term after the Inditemednt. to attend to the case but there being no court your Petitioner Suposed he had to be summoned and notified when the case would be tried, and in the disturbed condition of the country, he did not know. that Court was to be held at the time it was. he lives about 14 miles from the County seat in a remote part of the county, and on the aposit and North side of <geogName ref="cwgk:G00003748">Green River </geogName>from the County seat,</p>
-<p>He therefore hopes that your Excelency will Remit said Fine.</p>
+   <p>To. his Excelency Governor Robinson</p>
+<p>Your Petitioner William Age of Edmonson County, Kentucky would respectfully represent that at the <date when="--03">March</date> Term of the Edmonson Equity and Criminal Court he was fined Forty Dollars upon an Inditement for selling Spiritus Liquor without Lycens.</p>
+<p>he states that the fact were these, in <date when="1861-02">February 1861</date>. at a County Court at Brownsville the county seat of said county. the county officers Elected for said county met to Execute Bond and quatify previous to that time, Edmonson County had been held and ocupied by the Reble Army-- and no Hotels, were Lycened at the time in the Town, one of Petitioners Neighboors Jas W Crouch had been elected Constable, and requested this Petitioner to purchase 2 Gal of Whisky and take to Town for a General treat, upon the meating and <hi rend="underline">Reunion</hi> of the Union party as it was intended at the time to Recruit for the Army-- which was done upon that day. Said Crouch-- stating that he and others would throw in and pay what Petitoner had to pay for Said Liquor-- He and others did make up a portion-- of said mony-- but not the whole amount, Petitioner furnishing the ballance Petitioner did not sell said Whisky-- he made no profit on the same, did not buy it to sell, for Profit, and he is informed that upon the trial but one Witness was Examined against him &amp; who testified to seeing money-- paid by 2 persons-- which Patitioner states was handed him as above stated to make up the amount or part of the amt Paid by him--</p>
+<p>He states that he was not present at the trial, he was present at the first term after the Inditement and, the the Rebles came in the county and no court was held and as the courts had been so Iregular, Petitioner was not aware and did not know when court was or he would have attended and could have proved the facts stated-- He had<pb/>
+<lb/>spoken to an attorney before the first Term, after the Inditement to attend to the case but there being no court Your Petitioner Suposed he had to be summoned and notified when the case would be tried, and in the disturbed Condition of the Country, he did not know that Court was to be held at the time it was, he lives about 14 miles from the County seat in a remote part of the county, and on the aposit and North side of Green River from the County seat.</p>
+<p>He therefore hopes that your Excelency will Remit said Fine,</p>
 <p>William Age</p>
 <p>W<hi rend="sup">m</hi> Age this day made oath before me that the Statements in the foregoing Petition are true</p>
-<p><persName ref="cwgk:N00000444">Aron Lawson</persName> C, E, C, C</p>
-<p>I, certify that I was present and heard ^Evidence upon^ the trial agains W<hi rend="sup">m</hi> Age but, one witness was sworn. he stated he saw Two Persons hand Age money -- The court was not held at the first term after the finding of said Inditement, for the reasons stated in the Petition -- and the Petitioner lives as stated some 12 or 14 miles from the County Seat</p>
+<p>Aron Lawson C, E, C, C</p>
+<p>I, certify that I was present and heard ^Evidence upon^ the trial agains W<hi rend="sup">m</hi> Age but, one witness was sworn. he stated he saw Two Persons -- hand Age Mony-- The Court was not held at the first term after the finding of said Inditement, for the reasons stated in the Petition-- and the Petitioner lives as stated some 12 or 14 miles from the County Seat</p>
 <p>Aran Lawson C, E, C, C<pb/></p>
-<p>Edmonson Eq. &amp; Crml Ct
-<lb/>Wm Age Pettn to remit fine
-<lb/>$40. } liquor</p>
+<p>Edmonson Eq. &amp; Crim Ct</p>
+<p>Wm Age Pettn to remit fine</p>
+<p>&#36;40. &#125; liquor</p>
 <p>I am of opinion that the fine in this case should be remitted and so direct</p>
-<p><hi rend="underline">J F Robinson</hi>
-<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-08-10">Aug. 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
+<p><hi rend="underline">J F Robinson</hi></p>
+<p>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-08-10">Aug. 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
   </body>
  </text>
 </TEI>

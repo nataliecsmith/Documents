@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0055"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,15 +63,16 @@
  <text>
   <body>
    <p><date when="1864-09-25">Sept the 25/64</date></p>
-<p>Thos E Bramlett Sir for the first time in my life I have thaught propper to drop you a few lines to let you know what we think of Col= Vicks State guard tha have bin in camp 1 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> miles from me for about one week and are recruiting at the rate of 8 or 10 per day and for guriller hunters tha canot be beat or never has bin beat here tha seem to be the most working Soldiers I have ever saw for it is hard work to keep men in camp to garde the camp and tha drive in the knight and Stand on thear pasways that is why tha are so fortunate in trapping the rogues it is reported that col. Burge is trying to have col Vicks men disbanded well col Burge is my Pertickler friend and I dont se for why he dont favor col V= State Guarde for thare is men that will Join the State Guard and do good Suvis that never will be got in the federel army unless tha are drafted I have bin talking with the true union men of this cty or meny of them and I have not found one of them but what thinks that col V is a gentleman and in the right place and tha said tha wanted me to drop you a few lines to let you know what the union men thinks of col Vicks men here I have heard of know pilfering by Enny of there men and tha Seam to be gentlemen and good Soldiers and before the union men of this cty would se them disband I believe tha would rase money enough by Subscription to pay for there time</p>
-<p>I have bin acting as constable for the rise of 8 years hear and I think I speak the Sentiment of the union men no more at presant but remaines your friend and well wisher</p>
+<p>Thos E Bramlett Sir for the first time in my life I have thaught propper to drop you a few lines to let you know what we think of col= vicks State guard tha have bin in camp 1 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> miles from me for about one week and are recruting at the rate of 8 or 10 per day and for guriller hunters tha canot be beat or never has bin beat here tha Seem to be the most working Soldiers I have ever saw for it is hard work to keep men in camp to garde the camp and tha drive in the knight and Stand on thear pasways that is why tha are so fortunate in trapping the rogues it is reported that col. Burge is trying to have col vicks men disbanded well col Burge is my Pertickler friend and I dont se for why he dont favor col V= State guarde for thare is men that will join the State guard and do good Suvis that never will be got in the federel army unless tha are drafted I have bin talking with the true union men of this cty or meny of them and I have not found one of them but what thinks that col V is a gentleman and in the right place and tha said tha wanted me to drop you afew lines to let you know what the union men thinks of col vicks men here I have heard of know pilfering by enny of there men and tha Seam to be gentlemen and good Soldiers and before the union men of this cty would se them disband I believe tha would rase money enough by Subscription to pay for there time</p>
+<p>I have bin acting as constable for the rise of 8 years hear and I think I speak the sentiment of the union men no more at presant but remaines your friend and well wisher</p>
 <p>W W Morse To
 <lb/>Hone Thos E Bramlett<pb/></p>
-<p><date when="1864-09-25">Sept 25' 1864-</date><figure type="hr"/>
+<p><date when="1864-09-25">Sept 25" 1864 -- </date><figure type="hr"/>
 <lb/>Moore W. W.<figure type="hr"/>
 <lb/>To
-<lb/>The Gov -- <figure type="hr"/></p>
-<p>Speaks in complimentary terms of Col Vicks State Guard -- are recruiting at rate of 8 or 10 per day -- <figure type="hr"/></p>
+<lb/>The Gov-<figure type="hr"/></p>
+<p>Speaks in complimentary terms of Col Vicks State Guard -- are recruiting at rate of. 8 or 10 per day -- <figure type="hr"/></p>
+<p>File away<figure type="hr"/></p>
 <p>Recd A. G. O. <date when="1864-10-03">Oct 3" 1864</date> -- </p>
   </body>
  </text>

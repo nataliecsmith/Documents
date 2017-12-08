@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0074"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,13 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Auburn Ky. <date when="1861-06-05">June 5^<hi rend="sup">th</hi>^/61</date>
+   <p>Auburn Ky. <date when="1861-06-05">June <hi rend="str">6</hi>5<hi rend="sup">th</hi>/61</date>
 <lb/>Dr. J. B. Payton</p>
-<p>Dr. Sir -- A Company of Home Guards was organised at Auburn on Saturday last in accordance with the recent act of the Ky, Legislature -- The company sent John biers to Frankfort on Monday <date when="1861-06-05">3<hi rend="sup">rd</hi> June</date> to procure arms, but was refused on account of the Board of Coms -- not having acted -- We wish you to do what you can for us, and if the Guns can be spared we will be glad to get them and will take such as you may select -- </p>
+<p>Dr. Sir A Company of Home Guards was organised at Auburn on Saturday last in accordance with the recent act of the Ky, Legislature-- The company sent John biers to Frankfort on Monday <date when="1861-06-05">3<hi rend="sup">rd</hi> June</date> to procure arms, but was refused on account of the Board of Coms -- not having acted -- We wish you to do what you can for us, and if the Guns can be spared we will be glad to get them and will take such as you may select -- </p>
 <p>If the Guns are not on hand we will continue to drill without arms, if we can get assurances of being supplied hereafter -- I will forward a good Bond immediately if required -- </p>
-<p>I have been elected Captain, J H wood, David M<hi rend="sup">c</hi>auley &amp; E, H, Slop Lieutenants &amp; we have about 80 members including such men as Jno Daily Jno, G Lewis Dr Ray W D Price R, Woodward Jno biers William M<hi rend="sup">c</hi>Cutchen &amp; about 50 young men -- </p>
+<p>I have been elected Captain, J H wood David M<hi rend="sup">c</hi>alley &amp; E, H, Slop Lieutenants &amp; we have about 80 members including such men as Jno Daily Jno, G Lewis Dr Ray W D Price R, Woodward Jno biers William M<hi rend="sup">c</hi>Cutchen &amp; about 50 young men -- </p>
 <p>Our proximity to an abolition settlement &amp; being on the R. Road with other good reasons<pb/>
-<lb/>renders it very desirable that we should be armed</p>
+<lb/>renders it very desirable that we should be armed -- </p>
 <p>anything you may find it convenient to do for us in this matter will be most thankfully recd -- </p>
 <p>By yours
 <lb/>most Respectfullly

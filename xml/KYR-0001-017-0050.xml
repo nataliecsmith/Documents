@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0050"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,20 +63,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>To <persName ref="cwgk:N00000258">His Excellency</persName><lb/>Govener of <orgName ref="cwgk:O001025">Kentuckey</orgName><lb/><placeName ref="cwgk:P00002294">St Joseph Missouri
-</placeName><lb/><date when="1861-01-12">Jany 12"/61</date>
+   <p>To His Excellency
+<lb/>Govener of Kentuckey
+<lb/>St Joseph Missouri
+<lb/><date when="1861-01-12">Jany 12"/61</date>
 <lb/>Kind Sir</p>
 <p>I believe it is within your power to appoint a certain number of persons in Every state to take the acknowledgments of Deeds of lands lying and being within your state</p>
 <p>There is no such person in our city or near it that has that power and we frequently see great inconvenience arising from it</p>
-<p>Will you be good Enough to forward me a commission Empowering me to take acknowledgments of Deeds in this State for the state of Kentuckey &amp; at the same time Enclose Your fee bill &amp; I will remit the amount</p>
+<p>Will you be good enough to forward me a commission empowering me to take acknowledgments of Deeds in this State for the state of Kentuckey &amp; at the same time enclose Your fee bill &amp; I will remit the amount</p>
 <p>Yours Very Respectfuly
-<lb/><persName ref="cwgk:N00002295">Augustus S. Hamlin</persName><pb/></p>
-<p><placeName ref="cwgk:P00001883">Missouri</placeName></p>
+<lb/>Augustus S Hamlin<pb/></p>
+<p>Missouri</p>
 <p>Issue Commission
 <lb/>B. M<figure type="hr"/></p>
-<p>Com<hi rend="sup">r</hi>. of Deeds
+<p>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>A. S. Hamlin
-<lb/>St. Joseph
+<lb/>S<hi rend="underline"><hi rend="sup">t</hi></hi> Joseph
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-01-19">Jany 19. 1861</date></p>
   </body>
  </text>

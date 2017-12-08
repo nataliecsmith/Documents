@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0186"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,18 +64,17 @@
  <text>
   <body>
    <p>New Castle <date when="1863-10-07">Oct 7<hi rend="sup">th</hi> 1863</date>
-<lb/>To his Excellency T E Bramlette Governor of Kentucky.</p>
-<p>At the <date when="--09">September term</date> of of the Henry Circuit Court A fine of Forty Dollars was assessed against Virginia Payne for permitting her slave Tom to hire his time. The proof in the case was that she had hired the Man to her nephew T. J. Owens from the <date when="1862-03-01">1<hi rend="sup">st</hi> March 1862</date> to the <date when="1863-03">March 1863</date> and had not been Allowed to hire his own time. Your petitioners pray that the fine may be remitted</p>
+<lb/>To his Excellency T E Bramlette Govenor of Kentucky,</p>
+<p>At the <date when="--09">September term</date> of of the Henry Circuit Court A fine of Forty Dollars was assessed against Virginia Payne for permitting her Slave Tom to hire his time. The proof in the case was that she had hired the <hi rend="str">B</hi>man to her nephew T. J. Owens from the <date when="1862-03-01">1<hi rend="sup">st</hi> March 1862</date> to the <date when="1863-03">March 1863</date> and had not been Allowed to hire his own time, Your petitioners pray that the fine may be remitted</p>
 <p>W. J. Brewer Shff H Co
 <lb/>H. M. Buckley
 <lb/>L. P. Owens<pb/></p>
 <p>Henry Co
-<lb/>vs
-<lb/>Virginia Payne
-<lb/>$40 -- </p>
-<p>Remit the fine except costs &amp; fees
-<lb/>Tho E Bramlette
-<lb/></p>
+<lb/>vs</p>
+<p>Remit the fine except costs &amp; fees</p>
+<p>Tho E Bramlette</p>
+<p>Virginia Payne
+<lb/>&#36;40--</p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0006"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,16 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>War Department.
+   <p>War Department,
 <lb/>Adjutant General's Office,
 <lb/>Washington, <date when="1862-04-16">April 16, 1862.</date>
-<lb/>Special Orders, No 83.<figure type="hr"/></p>
+<lb/>Special Orders, N<hi rend="underline"><hi rend="sup">o</hi></hi> 83.<figure type="hr"/></p>
 <p>5....The following officers having been reported on adversely by Boards of examination, and the President having approved the reports, are discharged the service to take effect <date when="1862-04-14">April 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1862.</date>
 <lb/><table rend="rules">
 <row>
 	<cell>Major</cell>
 	<cell><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> A Coffey</hi>,</cell>
-	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cavalry</cell>
+	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky. Cavalry</cell>
 </row>
 <row>
 	<cell>Capt.</cell>
@@ -82,21 +85,21 @@
 	<cell> " " "</cell>
 </row>
 </table><figure type="hr"/></p>
-<p>By order of the Secretary of War 
-<lb/>(Signed) L. Thomas,
+<p>By order of the Secretary of War.
+<lb/>(Signed.) L. Thomas,
 <lb/>Adjutant General.</p>
-<p>H<hi rend="sup">d</hi> qrs Dept. of the Ohio.
-<lb/>Cin. <date when="1862-09-27">Sept. 27. 1862.</date></p>
+<p>H<hi rend="underline"><hi rend="sup">d</hi></hi> Qrs Dept. of the Ohio.
+<lb/>Cin. <date when="1862-09-27">Sept. 27, 1862.</date></p>
 <p>Official:
 <lb/>S M Preston
 <lb/>asst. adjt. Gen'l </p>
-<p>"Governor of Kentucky.."<pb/></p>
+<p>"Governor of Kentucky."<pb/></p>
 <p>1 Cav: 
 <lb/>Coffee
 <lb/>Alexander
 <lb/>Dillion<figure type="hr"/></p>
-<p>Already reported &amp; entered -- </p>
-<p>filed <date when="1862-10-03">Octo. 3. 1862</date></p>
+<p>Already reported &amp; entered-</p>
+<p>filed <date when="1862-10-03">Octo. 3. 1862</date>,</p>
   </body>
  </text>
 </TEI>

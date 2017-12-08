@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0017"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,26 +64,25 @@
  <text>
   <body>
    <p>Hospital Pinkney
-<lb/>Memphis Ten <date when="1865-03-30">March 30<hi rend="sup">th</hi> 65</date>
+<lb/>Memphis Ten. <date when="1865-03-30">March 30<hi rend="sup">th</hi> 65</date>
 <lb/>To His Excellency
 <lb/>Thos. E Bramlette
 <lb/>Gov. of Ky
 <lb/>Dear Sir</p>
-<p>Permit me to trouble you with a few lines, at the same time making a request. I am a native of Frankfort Ky. and a resident of Lancaster Ky. I served under Col. Woolford in the first Ky cavalry about one year as second Lt. and then under Col Watkins in the Sixth cavalry for nearly two years as a first Lieut. I am now in the Navy as a private enlisted with the positive understanding from Cap. Brown at Cinti. that I was to be promoted in a very short time. I enlisted for two years but have heard nothing of promotion since. I was was transfered to this Hospital in Sep. last sick and when I was well enough they placed me on duty as clerk I have a family to support and my pay is only $20 -- pr month and that will not support any one <hi rend="str">a</hi>person<pb/></p>
-<p>My object in writing was to request that you would commission me in some Ky Regt where there is a vacancy. I think after having served as long as I did in the army and then one year in the navy that I either might be relieved either with a commission or discharge and their is no probability of my getting a discharge under one year, unless I get a Commission I must remain where I am at. and in that case my family must suffer. for I can not now get the small amount of pay that is promised me until my time is out. I think Gov. if you could grant me a commission however small you would never regret it. and Sir I would owe you a debt of Gratitude that I could never repay. as for my character &amp;c I would refer you to A. C. Keenon Joseph Clark J. B. Akin of Frankfort. Also Major J. W. Page of the 9<hi rend="sup">th</hi> Ky cavalry Hoping Gov. that you will decide in my favor and send me a commission at <hi rend="str">the</hi>your earliest <hi rend="str">possible</hi>convinence I am Sir</p>
-<p>your most obdt. Srvt
+<p>Permit Me to trouble you with a few lines, at the same time making a request. I am a Native of Frankfort Ky. and a resident of Lancaster Ky. I served under Col. Woolford in the first Ky. cavalry about one year as second Lt. and then under Col Watkins in the Sixth cavalry for nearly two years as a first Lieut. I am now in the Navy as a private enlisted with the positive understanding from Cap. Bowen at Cinti, that I was to be promoted in a very short time. I enlisted for two years but have heard nothing of promotion since. I was transfered to this Hospital in Sep. last sick and when I was well enough they placed me on duty as clerk I have a family to support and my pay is only &#36;20 -- pr month and that will not support any one <hi rend="str">an</hi>person<pb/></p>
+<p>My object in writing was to request that you would commission me in some Ky Regt where there is a vacancy. I think after having served as long as I did in the army and then one year in the navy that I either might be relieved either with a commission or discharge and their is no probability of my getting a discharge under one year, unless I get a Commission I must remain where I am at. and in that case my family must suffer. for I can not ever get the small amount of pay that is promised me until my time is out. I think Gov. if you could grant me a commission however small you would never regret it. and Sir I would owe you a debt of Gratitude that I could never repay. as for my character &amp;c I would refer you to A. C. Keenon Joseph Clark J. B. Akin of Frankfort. Also Major J. W. Page of the 9<hi rend="sup">th</hi> Ky cavalry Hoping Gov. that you will decide in my favor and send me a commission at <hi rend="str">the</hi>your earliest <hi rend="str">possible</hi>convinence I am Sir</p>
+<p>your most obdt. Svt
 <lb/>Henry S. Robson
 <lb/>Hospital Pinkney 
 <lb/>Memphis Tenn.<pb/></p>
-<p><note place="left margin">1<hi rend="sup">st</hi> Cav</note>
-<lb/>Hospital Pinckney
+<p>Hospital Pinckney
 <lb/>Memphis Tenn.
-<lb/><date when="1865-03-30">Mar. 30. 1865</date><figure type="hr"/></p>
-<p><hi rend="underline">Robson Henry S</hi>. 
+<lb/><date when="1865-03-30">Mar. 30. 1865</date><figure type="hr"/>
+<lb/><hi rend="underline">Robson Henry S</hi>. 
 <lb/><hi rend="underline">To The Gov.</hi> </p>
-<p>Applies for a commission in some Kentucky Regiment.<figure type="hr"/></p>
+<p>Applies for a commission in some Kentucky Regiment-<figure type="hr"/></p>
 <p>Give the rule upon which <hi rend="underline">Coms are issued</hi></p>
-<p>LB N<hi rend="sup">o</hi> 11 -- 1865 P. 281<figure type="hr"/>
+<p>LB N<hi rend="sup">o</hi> 11 -- <date when="1865">1865</date> P. 281<figure type="hr"/>
 <lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-04-03">3 April 1865</date></p>
   </body>
  </text>

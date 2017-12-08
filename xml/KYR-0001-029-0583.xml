@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0583"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -56,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Greenup County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -68,23 +62,58 @@
  </teiHeader>
  <text>
   <body>
-   <p>We the undersigned citizens of Greenup County, would respectfully represent to <persName ref="cwgk:N001004">his Excellency the Governor</persName> of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>, that <persName ref="cwgk:N00007074">George Lemiblin</persName>, a Frenchman of <placeName ref="cwgk:P001759">Greenup County</placeName>, was found Guilty of Larceny, at the <date when="--07">July</date> term of the <orgName ref="cwgk:O00000383">Greenup Circuit</orgName>, and was Sentenced to ^confinement in^ <orgName ref="cwgk:O00000266">the State, penitentiary</orgName> for the period of <gap/> years the facts of his conviction, are as follows, The prisoner is a man of humble circumstances, is inductrious, &amp; regarded as a man of honesty, But was intoxicated, when he killed the sheep, for which he was convicted, he killed the Sheep in presence of some two or three persons, and Everything in the whole case indicates, no felonious intent on the part of the accused to Defraud the owner out of the value of the Sheep. everything connected with the Killing of the Sheep was open &amp; public, we therefore under<pb/>
-<lb/>under the circumstances recommend him as a fit Subject for Executive Clemency, and petition his pardon</p>
-<p><persName ref="cwgk:N00007108">Hugh Craycraft</persName> -- <lb/>By  -- 
-<persName ref="cwgk:N00007109">W. C. Ireland</persName><lb/><persName ref="cwgk:N00007110">August Lamblin</persName><lb/>by W. B. Ireland -- at his request
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> F Harding
+   <p>We the undersigned citizens of Greenup County, would respectfully represent, to his Excellency, the Governor of the Commonwealth of Kentucky, that George <unclear>Lemiblin</unclear>, a Frenchman of Greenup County, was found Guilty of Larceny, at the <date when="--07">July</date> term of the Greenup Circuit, and was Sentenced to ^confinement in^ the State, penitentiary for the period of <gap/> years the facts of his conviction, are as follows, the prisoner is a man of humble circumstances, is inductrious, &amp; regarded as a man of honesty, But was intoxicated, when he killed the sheep, for which he was convicted, he killed the sheep in presence of some two or three persons, and Everything in the whole case indicates, no felonious intent on the part of the accused to Defraud the owner out of the value of the sheep, everything connected with the killing of the sheep was open &amp; public, we therefore under<pb/>
+<lb/>under the circumstances, recomend him as a fit subject for Executive Clemency, and petition, his pardon</p>
+<p>Hugh Craycraft -- 
+<lb/><hi rend="underline">By W. C. Ireland</hi> -- 
+<lb/>August Lamblin
+<lb/>By W. C. Ireland -- at his request.
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. F Harding
 <lb/>Harvey M<hi rend="underline"><hi rend="sup">c</hi></hi>Allister
 <lb/>By W F Harding
-<lb/><persName ref="cwgk:N00007113">Len Barney</persName><lb/>By <persName ref="cwgk:N00007114">Samuel Valence</persName><lb/><persName ref="cwgk:N00007115">Samuel Hunter</persName><lb/><hi rend="underline">By W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> F Harding</hi>
-<lb/><persName ref="cwgk:N00007116">Samuel Crawford
-</persName><lb/><persName ref="cwgk:N00007118">N. Walker</persName><lb/><persName ref="cwgk:N00007117">Samuel M Berry</persName><lb/><persName ref="cwgk:N00007086">John Crsnell</persName><lb/><persName ref="cwgk:N00007087">Samuel A Cronell</persName><lb/><persName ref="cwgk:N00007088">John Davis</persName><lb/><persName ref="cwgk:N00007089">françois Rais</persName><lb/><persName ref="cwgk:N00007090">Prospere Ross</persName><lb/><persName ref="cwgk:N00007091">Nathaniel warner</persName><lb/><persName ref="cwgk:N00007092">Richard D. Walker</persName><lb/><persName ref="cwgk:N00007095">John L. Mackay</persName><lb/><persName ref="cwgk:N00007070">John. Pratt</persName><lb/><persName ref="cwgk:N00007097">Moses Mackroy Jr</persName><lb/><persName ref="cwgk:N00007098">Aron Cisk</persName><lb/><persName ref="cwgk:N00007099">John T albertson</persName><lb/><persName ref="cwgk:N00007100">John A Smith</persName><lb/><persName ref="cwgk:N00007101">G B Lee</persName><pb/>
-<lb/><persName ref="cwgk:N00007102">W Pickens</persName><lb/><persName ref="cwgk:N00007103">Moses Mackay</persName><lb/><persName ref="cwgk:N00007104">Michael Beyer</persName><lb/><persName ref="cwgk:N00007105">James Dayce</persName><lb/><persName ref="cwgk:N00007106">Henry Fagard</persName><lb/><persName ref="cwgk:N00007107">W. Hen. Williams</persName><lb/><persName ref="cwgk:N00007071">James Middaugh Jr</persName><lb/><persName ref="cwgk:N00007072">Robert Gardon</persName><lb/><persName ref="cwgk:N00007073">Michael Kenedy</persName><lb/><persName ref="cwgk:N00007075">William Haan</persName><lb/><persName ref="cwgk:N00007076">Fred Martin</persName><lb/>John Colman
-<lb/>W<hi rend="sup">m</hi> Tarry
-<lb/><persName ref="cwgk:N00007078">Ephraim Morgan</persName><lb/><persName ref="cwgk:N00007079">Richerd Flanigren</persName><lb/><unclear/> flanigan
-<lb/><persName ref="cwgk:N00007082">Joseph Davis</persName><lb/><persName ref="cwgk:N00007084">John Gerry</persName><lb/><persName ref="cwgk:N00007085">Zokam Miker</persName><pb/></p>
-<p>Pettn of Citizens of Greenup County for Pardon of G. B. Lamblin for Larceny</p>
+<lb/>Len Barney
+<lb/><hi rend="str">By</hi> Samuel Valence
+<lb/>Samuel Hunter
+<lb/>By W<hi rend="underline"><hi rend="sup">m</hi></hi> F Harding
+<lb/>Samuel Crawford
+<lb/>N. Walker
+<lb/>Samuel M. Berry
+<lb/>John <unclear>Crsnell</unclear>
+<lb/>Samuel A <unclear>Cresnull</unclear>
+<lb/>John Davis
+<lb/>françois Raio
+<lb/>Prospere Ross
+<lb/>Nathaniel S warner
+<lb/>Richard, D, Walker
+<lb/>John. L. Mackay
+<lb/>John. Pratt
+<lb/>Moses MacKroy Jr
+<lb/>Aron Cisk
+<lb/>John T albertson
+<lb/>John A Smith
+<lb/>G B Lee<pb/>
+<lb/>W Pickens
+<lb/>Moses Mackay
+<lb/>Michal Bryon
+<lb/>James Doyle
+<lb/>Henry Fagan
+<lb/>W, Hen, Williams
+<lb/>James Middaugh Jr
+<lb/>Robert Gordon
+<lb/>Michael Kenedy
+<lb/>William Haan
+<lb/>Fred Martin
+<lb/>John Colman
+<lb/>W<hi rend="sup">m</hi> <unclear>Tarry</unclear>
+<lb/>Ephraim Morgan
+<lb/>Richerd flanigan
+<lb/><unclear>Cisell</unclear> flanigan
+<lb/>Joaseph Davis
+<lb/>John Gray
+<lb/>Yokam <unclear>Miker</unclear>.<pb/></p>
+<p>Pettn of Citizens of Greenup County for Pardon of G. B. Lamblin for larceny</p>
 <p>Evidence before jury not here
-<lb/>See the Inclosed</p>
+<lb/>See Mr Ireland</p>
   </body>
  </text>
 </TEI>

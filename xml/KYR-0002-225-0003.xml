@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0003"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,17 +67,17 @@
 <lb/>Louisville <date when="1861-07-30">July 30. 1861</date>
 <lb/>Col S. Gill
 <lb/>Dr Sir</p>
-<p>Knowing that you are connected to the Military Board I have called to see you buy find you absent.</p>
-<p>I have command of a company in the State Guard of this city, Co. G. 2<hi rend="sup">nd</hi> Regt ("Buckner Guys").</p>
-<p>My men have all except four or five refused to serve under me on acct of my <hi rend="underline">Union</hi> principles and some have joined their companies. I have most of the arms in my own hands and would prefer to deliver them to the board of commissioners than to any of the subordinate officers of my company of where indeed there is only one in Ky the other two being in Tennessee<pb/>
+<p>Knowing that you are connected to the Military Board I have called to see you but find you absent.</p>
+<p>I have command of a company in the State Guard of this city, Co G, 2<hi rend="sup">nd</hi> Regt ("Buckner Grays").</p>
+<p>My men have all except four or five refused to serve under me on acct of my <hi rend="underline">Union</hi> principles and some have joined their companies. I have most of the arms in my own hands and would prefer to deliver them to the board of commissioners than to any of the subordinate officers of my company of whom indeed there is only one in Ky the other two being in Tennessee<pb/>
 <lb/>at Camp Boone, and the one here is an open secessionist and has been engaged in enlisting men for the army of the rebels.</p>
 <p>I may not be able to recover all the arms but will send all I can get wherever directed by an order from the Board and will then cease to be a member of the state Guard.</p>
-<p>You will comprehend why I write to you <hi rend="underline">privately</hi> when you Know that some effort is making to get the arms out of my hands,</p>
+<p>You will comprehend why I write to you <hi rend="underline">privately</hi> when you Know that some effort is making to get the arms out of my hands.</p>
 <p>If the Board will call for my guns I will feel that I have save them from those who would use them illegally</p>
 <p>Respectfully
 <lb/>Jno, R, Pirtle
 <lb/>Capt. Co G.
-<lb/>2<hi rend="underline"><hi rend="sup">nd</hi></hi> Regt. Infty K. S. G.</p>
+<lb/>2<hi rend="underline"><hi rend="sup">nd</hi></hi> Regt. Infty K. S. G,</p>
   </body>
  </text>
 </TEI>

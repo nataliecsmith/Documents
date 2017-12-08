@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0140"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Alf. C. Tanner et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">Alfred C. Tanner et al. to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4259</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,61 +63,62 @@
  </teiHeader>
  <text>
   <body>
-   <p>Calhoun <date when="1863-10-02">2<hi rend="underline"><hi rend="sup">d</hi></hi> Oct. 1863</date>
+   <p>Calhoon <date when="1863-10-02">2<hi rend="underline"><hi rend="sup">d</hi></hi> Oct. 1863</date>
 <lb/>To Gov. Bramlette
 <lb/>Governor of Kentucky</p>
-<p>The Undersigned petitioners would Respectfully Represent that at the Last <date when="--09">September</date> Term of the McLean Circuit Court. a fine <hi rend="str">w</hi>of. Fifty Dollars. Was. adjudged against L B Lillard for, Keeping a Tipling House We Want. Represent that. if a Tipling House Was Kept it was under such circumstance that. We think Executive clemency Should be used. and Respectfully ask that. the fine be Remitted</p>
-<p>Yours Truly &amp;c
+<p>The Undersigned petitioners would Respectfully Represent that at the Last <date when="--09">September</date> Term of the MLean Circuit Court a fine <hi rend="str">w</hi>of Fifty Dollars Was adjudged against L B Lillard for Keeping a Tipling House We Want Represent that if a Tipling House Was Kept it Was Under such Circumstance that We think Executive Clemency Should be used- and Respectfully ask that the fine be Remitted.</p>
+<p>Yours Truly &amp;<hi rend="underline"><hi rend="sup">c</hi></hi>
 <lb/>Alf C Tanner
+<lb/>Alf. H. Edwards
 <lb/>L. G. Alexander
-<lb/>Ren. H. Franklin
+<lb/>Ben. H. Franklin
 <lb/>W C Mosley
-<lb/>Thomas C Tihoenir
+<lb/>Thomas C <unclear>Tihoenr</unclear>
 <lb/>Isaac N Vertrees
 <lb/>D. H. Jones
 <lb/>W Calhoun
 <lb/>R. Dicken
-<lb/>James Hill
-<lb/>D Little P.J.M.C.
-<lb/>R W Allen Provost Marshall McLean Co Ky
+<lb/>James Hiell
+<lb/>D Little P. J. M. C.
+<lb/>R. W Allen Provost Marshal M<hi rend="sup">c</hi>Lean Co Ky
 <lb/>Lot. Cooper
 <lb/>John Van Horn
-<lb/>Wm J Mouley<pb/>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> J Moseley<pb/>
 <lb/>Henry Griffith
 <lb/>Samuel H Jones
 <lb/>Thornley Atchison
-<lb/>C. L. Stuteville
+<lb/>C. L. Stubenville
 <lb/>P. H. Preston
-<lb/>Isaac Calhoun
+<lb/>Isaac Calhoon
 <lb/>L. L. Little
-<lb/>T M Conelift
-<lb/>A G Wattkins
+<lb/>T M Conditt
+<lb/>A F Wattkins
 <lb/>C G Clark
 <lb/>Ben Croutcher
-<lb/>G L M<hi rend="sup">c</hi>Laughlin
-<lb/>Nones Foster
+<lb/>J L Mclaughlin
+<lb/>Noris Foster
 <lb/>W. T. Owen
-<lb/>Elijah H Mosely
-<lb/>George G. Jones
+<lb/>Elijah. H. Mosely
+<lb/>George.. G.. Jones
 <lb/>T. H. Jones
-<lb/>James Garrison
+<lb/>James Garreson
 <lb/>J S Garrison
-<lb/>R. D. Heal
+<lb/>R P Heal
 <lb/>W B Riggs
-<lb/>Gor G Verit
+<lb/>Gorg <unclear>Vierit</unclear>
 <lb/>W W Mitchel
-<lb/>J. W. Shotredge
+<lb/>J. W. Shortedge
 <lb/>Howard Pinkston
-<lb/><unclear>Colemon mitcake</unclear>
+<lb/><unclear>Colemon mitcehl</unclear>
 <lb/>Low X Edwards
 <lb/>J. T. Jones
-<lb/>F. S. Robards<pb/>
+<lb/>F S.. Robards<pb/>
 <lb/>Isaac Vertrees
-<lb/>Y C Riggs
-<lb/>D. G. Thomason
-<lb/>A. H. Castlan
+<lb/><hi rend="str">S</hi> S C Riggs
+<lb/>D, G, Thomason
+<lb/>A, H, Castlen
 <lb/>E. P. Moseley
-<lb/>W C Tanner</p>
+<lb/>Alf C Tanner</p>
   </body>
  </text>
 </TEI>

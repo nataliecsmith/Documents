@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0042"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,44 +63,45 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Exclllency Thos E Bramlet
-<lb/>Governor of the State of Kentucky</p>
-<p>We your peitioners citizens of Carroll County beg leave to represent to your Excellency that at the late August term of the Caroll Circuit Court our neighbor G W Birkshire was fined by the Honorable Judge Druin the Sum of fifty dollars on an Indictment for Shooting with a pistol at G S Blessing We would further state that said Birkshire is a man of but little means and cannot without great inconvenience pay said fine and further that the Shooting was done while in a state of great excitement and that at the time the said Blessing gave the lie direct to Birkshire in regard to his statement that he was robed a few nights before by a company of Southern soldiers who entered his house and robed him of 250 dollars Said Blessing was not hit or wounded by the Shooting but the Judge could not comply with the law without inflicting the above fine of fifty dollars</p>
-<p>We your petitioners in view of the whole premises believe this to be a propper case for the exercise of Executive Clemency and respectfully ask your Excellency to remit the fine or so much thereoff as you may deem propper</p>
-<p>Ghent Carroll County Ky <date when="1863-09-07">Sept 7<hi rend="sup">th</hi> 1863</date>
-<lb/><milestone unit="column" n="2"/><cb n="1"/>Sam<hi rend="sup">l</hi> Howard
-<lb/>Lewis S. Owen
+   <p>To his Excellency Thos E Bramlett
+<lb/>Govenor of the State of Kentucky</p>
+<p>We your petitioners citizens of Carroll County beg leave to represent to your Excellency that at the late August term of the carroll circuit court our neighbor G W Birkshire was fined by the Honorable Judge Dr<hi rend="str">ain</hi>ane the Sum of fifty dollars on an Indictment for Shooting with a pistol at G S Blessing We would further State that Said Birkshire is a man of but little means and cannot without great inconveniance pay said fine and further that the Shooting was done while in a state of great excitement and that at the time the said Blessing gave the lie direct to Birkshire in regard to his statement that he was robed a few nights before by a company of Southern soldiers who entered his house and robed him of 250 dollars </p>
+<p>Said Blessing was not hit or wounded by the Shooting but the Judge could not comply with the law without inflicting the above fine of fifty dollars</p>
+<p>We your petitioners in view of the whole premises believe this to be a propper case for the exercise of Executive Clemency and respectfully ask your Excellency to remit the fine or somuch thereof<hi rend="str">f</hi> as you may deem propper</p>
+<p>Ghent Carroll County Ky <date when="1863-09-07">Sept 7<hi rend="sup">th</hi> 1863</date></p>
+<p><milestone unit="column" n="2"/><cb n="1"/>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Howard
+<lb/>Lewis. S. <unclear>Owen</unclear>
 <lb/>D. G. Owen
 <lb/>W M<hi rend="sup">c</hi>Clure
-<lb/>N. D Blythe P. M. Ghent Ky.
+<lb/>N, D, Blythe. P. M. Ghent Ky.
 <lb/>L. C. Gex
-<lb/>John H. Ellis
+<lb/>John. H. Ellis
 <lb/><cb n="2"/>Thomas Hopkins
 <lb/>Berryman Ellis
-<lb/>Joseph Brroks
-<lb/>James Hanans
-<lb/>L Bailey Marshall
-<lb/>W<hi rend="sup">m</hi> Sweany
-<lb/>Michael Maroney<milestone unit="column" n="1"/><pb/>
-<lb/>H C Howard C. C. C
-<lb/>C L <unclear>Geem</unclear>
+<lb/>Joseph Brooks
+<lb/>James Han<unclear/>
+<lb/>L Bailey Marshall <unclear/>. G.
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Swango
+<lb/>Michal Maroney<milestone unit="column" n="1"/><pb/>
+<lb/>H C Howard C, C, C
+<lb/>C L Keene
 <lb/>W<hi rend="sup">m</hi> Howard
 <lb/>John Bailey
 <lb/>Peter Wycoff
-<lb/>H J Wing
-<lb/>Jos. F. blythe 32d Reg K. V. S
-<lb/>Virgil S. Bledsoe
-<lb/>James R Cadrell
+<lb/>H J <unclear>Wing</unclear>
+<lb/>Jos, F, Blythe 32<hi rend="sup">d</hi> Reg <hi rend="underline">K, V, I</hi>
+<lb/>Virgil, S, Bledsoe
+<lb/>James R Cockrell
 <lb/>Henry M Griffith<pb/></p>
-<p>Carroll Cir Ct
-<lb/>Remit except fees &amp; costs
-<lb/>Tho E Bramlette
+<p>Carroll Cir Ct</p>
+<p>Remit except fees &amp; costs</p>
+<p>Tho E Bramlette
 <lb/>Gov<hi rend="sup">r</hi>
 <lb/>vs
 <lb/>G. W. Birkshire
 <lb/>Shooting
-<lb/>$50
-<lb/><date when="1863-11-16">16th Nov/63</date></p>
+<lb/>&#36;50
+<lb/><date when="1863-11-16">16<hi rend="sup">th</hi> Nov/63</date></p>
   </body>
  </text>
 </TEI>

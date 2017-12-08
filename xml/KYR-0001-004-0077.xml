@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0077"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">James Harlan, Jr., Affidavit</title>
+    <title level="a" type="main">James Harlan, Jr. to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4196</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -52,7 +55,7 @@
    </creation>
    <textClass>
     <keywords>
-     <term type="genre">Legal/Financial</term>
+     <term type="genre">Petition</term>
     </keywords>
    </textClass>
   </profileDesc>
@@ -61,32 +64,31 @@
   <body>
    <p>To His Excellency
 <lb/>Governor Bramlette.</p>
-<p>On the <date when="1863-09-29">29<hi rend="sup">th</hi> Sept 1863</date>, there was placed in my hands, to be laid before you the application of <gap/> Sherrill of the city of Louisville for the remission of a fine imposed upon him by the Presiding Judge of Lincoln county for a violation of the License law. These papers have been lost or mislaid, and cannot be found, after diligent search. The papers so lost were as follows: -- 
-<lb/>1. The statement and affidavit of said Sherrill setting forth substantially the following facts. He was a member of the firm of <gap/> Sherrill &amp; Co doing business as com<hi rend="sup">n</hi> merchants and Jobbers in Tobacco, cigars, &amp;c. There was connected with said house, one James T. Vanarsdale, who obtained goods therefrom with <hi rend="str">with I</hi> which to peddle, Vanarsdale receiving one half of the profits. Vanarsdale under regular license obtained from the Mercer County Court started out with a wagon load of goods so furnished, and after passing through some ten or twelve counties, was suddenly taken sick at his fathers house, with a small portion of the goods unsold, and leaving Lincoln, Boyle and Garrard Counties, which he had in previous trips visited,<pb/>
-<lb/>yet to be supplied. He had regular customers in those counties, and it was necessary to retain the custom of said business that his trips should be regular. Vanarsdale being dangerously ill, the petitioner was written to to take his place and fill out the trip, accordingly at great sacrifice, Sherrill abandoned his business in Louisville, went to see V. took charge of the Wagon, and with V's license, proceeded, and when he got to Stanford was, to his surprise arrested on the charge of peddling without license. He know nothing of the law, and believed, that inasmuch as he was acting for V. the one license would be sufficient. As soon however as the law was explained to him, he deposited the amount of the fine one hundred dollars with Judge Bailey, the Presiding Judge -- Who as well as the officer arresting him, declined to receive any fees, being satisfied that Sherrill did not intentionally violate the law. The statement and affidavit further set forth that Vanarsdale was a poor man, with a wife and children, depending solely upon this peddling enterprise for a support, and that Van<pb/>
-<lb/>arsdale was to have<hi rend="underline"> all the profit of this</hi> trip. That Sherrill acted in the matter alone for Vanarsdale's benefit, with no hope or expectation of remuneration for himself.
-<lb/>2. There was also accompanying the statement of Sherill the written statement of James Harlan Jr. who knew V. well, and that he had been for some years in bad health, at one spell of over 12 months, which exhausted all his means, except what little, left was, subsequently lost when, <hi rend="str">for</hi> because of her loyalty he had to leave home. That he was without means with which to support his family, except what he made by peddling goods which were furnished by <gap/> Sherrill &amp; Co. V. was a most worthy man and citizen of the best standing, and honorable in all his conduct and dealings
-<lb/>3. Also a regular peddling license issued by the Mercer County Court under the Seal of the Court, endorsed as genuine by the Clerks of 12 counties through which he, from time to time had done business.<pb/>
-<lb/>4. Also the certificate of Judge Bailey showing the fine and that Sherrill stated at the time he was arrested that he did not know that he was violating the law.
-<lb/>5. Also a note from O. S. Poston, of Harrodsburg who knows Vanarsdale, requesting that his name be added to any petition that might be presented for a remission.
-<lb/>6. Also the letter of Issac Caldwell Esq of Louisville, who had known Mr Sherrill for many years, vouching for his respectability and high standing.
-<lb/>7. Also a similar endorsement of his character by R Runyon, a merchant of Frankfort, who had known Mr S. for years -- </p>
+<p>On the <date when="1863-09-29">29<hi rend="underline"><hi rend="sup">th</hi></hi> Sept 1863</date>, there was placed in my hands, to be laid before you the application of <gap/> Sherrill of the City of Louisville for the remission of a fine imposed upon him by the Presiding Judge of Lincoln county for a violation of the License law. These papers have been lost or mislaid, and cannot be found, after diligent search. The papers so lost were as follows: -- </p>
+<p>1. The statement and affidavit of said Sherrill setting forth substantially the following facts. He was a member of the firm of <gap/> Sherrill &amp; Co doing business as com<hi rend="underline"><hi rend="sup">n</hi></hi> merchants and Jobbers in Tobacco, cigars &amp;c. There was connected with said house, one James T, Vanarsdale, who obtained goods therefrom with <hi rend="str">with I</hi> which to peddle, Vanarsdale receiving one half of the profits. Vanarsdale under regular license obtained from the Mercer County Court started out with a wagon load of goods so furnished, and after passing through some ten or twelve counties, was suddenly taken sick at his fathers house, with a small portion of the goods unsold, and leaving Lincoln, Boyle and Garrard Counties, which he had in previous trips visited,<pb/>
+<lb/>yet to be supplied- He had regular customers in those counties, and it was necessary to retain the custom of said business that his trips should be regular- Vanarsdale being dangerously ill, the petitioner was written to to take his place and fill out the trip- Accordingly at great sacrifice, Sherrill abandoned his business in Louisville, went to see V, took charge of the Wagon, and with V's license, proceeded, and when he got to Stanford was, to his surprise arrested on the charge of peddling without license- He know nothing of the law, and believed, that inasmuch as he was acting for V. the one license would be sufficient. As soon however as the law was explained to him, he deposited the amount of the fine one hundred dollars with Judge Bailey, the Presiding Judge -- who as well as the officer arresting him, declined to receive any fees, being satisfied that Sherrill did not intentionally violate the law. The statement and affidavit further set forth that Vanarsdale was a poor man, with a wife and children, depending solely upon this peddling enterprise for a support, and that Van=<pb/>
+<lb/>arsdale was to have <hi rend="underline">all the profits of this</hi> trip- That Sherrill acted in the matter alone for Vanarsdale's benefit, with no hope or expectation of remuneration for himself-</p>
+<p>2. There was also accompanying the statement of sherill the written statement of James Harlan Jr, who knew V. well, and that he had been for some years in bad health, at one spell of over 12 months, which exhausted all his means, except what little, left was, subsequently lost when, <hi rend="str">for</hi> because of his loyalty he had to leave home. That he was without means with which to support his family, except what he made by peddling goods which were furnished by <gap/> Sherrill &amp; Co. V. was a most worthy man and citizen, of the best standing, and honorable in all his conduct and dealings</p>
+<p>3. Also a regular peddling license issued by the mercer county Court, under the Seal of the Court, endorsed as genuine by the Clerks of 12 counties through which he, from time to time had done business -- <pb/></p>
+<p>4. Also the certificate of Judge Bailey showing the fine and that Sherrill stated at the time he was arrested that he did not know that he was violating the law.</p>
+<p>5. Also a note from O. S. Poston, of Harrodsburg, who knows Vanarsdale, requesting that his name be added to any petition that might be presented for a remission-</p>
+<p>6 Also the letter of Issac Caldwell Esq of Louisville, who had known Mr Sherrill for many years, vouching for his respectability and high standing.</p>
+<p>7 also a similar endorsement of his character by R, Runyon, a merchant of Frankfort, who had known Mr S. for years -- </p>
 <p>I cannot find the papers, and make this statement under the hope that sufficient may appear to authorize executive clemency. I know that it would be hard upon Vanarsdale, if he should be<pb/>
 <lb/>subjected to a loss caused by the mistake of another, who was acting solely for his benefit.</p>
 <p>Though not personally acquainted with Mr Sherrill, I feel sure that the case is meritorious</p>
 <p>With Respect
 <lb/>James Harlan Jr</p>
-<p>James Harlan Jr says that the foregoing statement is true to the best of recollection.</p>
+<p>James Harlan Jr s<hi rend="str"><unclear/></hi>ays that the foregoing statement<hi rend="str">s</hi> is true to the best of his recollection.</p>
 <p>James Harlan Jr</p>
-<p>Subscribed &amp; sworn to before me this <date when="1863-10-01">1<hi rend="sup">st</hi> Oct 1863</date>
-<lb/>John R Graham P J C f<pb/></p>
+<p>Subscribed &amp; sworn to before me this <date when="1863-10-01">1<hi rend="sup">st</hi> Oct 1863</date></p>
+<p>John R Graham P J C f<pb/></p>
 <p>Lincoln Co
-<lb/>vs
-<lb/>Sherrill
-<lb/>$100 -- </p>
-<p>Remit the fine and paid to James Harlan
-<lb/><date when="1863-10-01">Oct 1st 1863</date>
-<lb/></p>
+<lb/>vs</p>
+<p>Remit the fine and hand to James Harlan
+<lb/><date when="1863-10-01">Oct 1<hi rend="sup">st</hi> 1863</date></p>
+<p>Sherrill
+<lb/>&#36;100 -- </p>
   </body>
  </text>
 </TEI>

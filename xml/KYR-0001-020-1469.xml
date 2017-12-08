@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1469"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">James R. York et al. to Beriah Magoffin</title>
+    <title level="a" type="main">James R. York to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG10937</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,20 +63,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his excellency the governor ^of Ky^ B Magoffin Your Petitioner James York was fined at the <date when="1861-10">Oct term of the Anderson Circuit Court in 1861</date> forty five dollars for obstructing a public passway. The evidence was that the road said to be obstructed had not been traveled for many years, though originally the road, That your peitioner ignorant of the fact, as a resent ocupant and owner of premices placed his fence out close to the margin of the beaten road, covering about half of the old road for a few paces, but the law is such that he had to be fined. He therefore together with the undersigned Jury who tried the case, pray that said fine be remited, by the interposition of your executive clemency</p>
+   <p>To his excellency the governor ^of Ky^ B Magoffin, Your Petitioner James York was fined at the <date when="1861-10">Oct term of the Anderson Circuit Court in 1861</date> forty five dollars for obstructing a public passway. The evidence was that the road said to be obstructed had not been traveled for many years, though originally the road, That your peitioner ignorant of the fact, as a resent ocupant and ower of premices placed his fen<hi rend="str">s</hi>ce out close to the margin of the beaten road, covering about half of the old road, for a few paces, but the law is such that he had to be fined. He therefore together with the undersigned Jury who tried the case, pray that Said fine be remited, by the interposition of your executive clemency</p>
 <p><hi rend="str">n</hi> <hi rend="str">names</hi><figure type="hr"/></p>
-<p>Your petitioner says the above statements are true.</p>
+<p>Your petitioner Says the above statements are true.</p>
 <p>James R York</p>
-<p>Sworn to before me <date when="1861-10-29">Oct 29th 1861.</date></p>
-<p>G. W. Catlett J P A C<pb/></p>
-<p>Names of the Jury
+<p><hi rend="str">I</hi>Sworn to before me <date when="1861-10-29">Oct 29th 1861</date>,</p>
+<p>G W. Catlett J P A C<pb/></p>
+<p>names of the Jury
 <lb/>William. G. Mountjoy
-<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi>. G Jordan
+<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> G Jordan
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Thomas
 <lb/>Jas, C, Fidler
 <lb/>Jesse C Watefield
 <lb/>Samuel Saffell
-<lb/>T C Bettesworth
+<lb/>J C Bettesworth
 <lb/>J W Bond
 <lb/>C. M. Lillard
 <lb/>Dudley Hawkins
@@ -87,11 +90,11 @@
 <p>Anderson Cir. Ct
 <lb/>Petition To the Governor in case of Com 
 <lb/>vs
-<lb/>$40 } Obstructing highway
+<lb/>&#36;45 &#125; obstructing highway
 <lb/>James York</p>
 <p>Remitted 
-<lb/>B. M.</p>
-<p>Iss<hi rend="sup">d</hi>. <date when="1861-11-01">Nov. 1. 1861</date></p>
+<lb/>B, M</p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-11-01">Nov. 1. 1861</date></p>
   </body>
  </text>
 </TEI>

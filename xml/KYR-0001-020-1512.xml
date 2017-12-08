@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1512"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Elisha Lamastus, Affidavit</title>
+    <title level="a" type="main">Elisha Lamasters, Affidavit</title>
     <title level="a" type="parallel">CWG10980</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,8 +64,9 @@
  <text>
   <body>
    <p>Breckinridge County Kentucky</p>
-<p>Elisha Lamastus States that he now lives in the Town of Cloveport and at the time Margolyes kept tavern near Bennetsville Ky he lived in Bennitsville, <hi rend="str">that</hi> was well aquanted with Margolyes, has been at his house very often I have eat with him several times I always found plenty of Good and Substantial food for man &amp; beast. I further State that the said Margolyes kept a good &amp; sufficent stable, and provided in abundanse, I verily believe the Tavern was as well kept as any body should require for any country house, I further state that on one occasion the said Margolyes sent a horse to the stable that I had charge of not having Sufficient room for said horse and all the others that had stopped for the night with him, I have <hi rend="str"><unclear/></hi>seen a sufficientcy of Good beds at said Tavern house, I have also ^seen^ <hi rend="str"><unclear/></hi> corn &amp; hay at his house and other feed for horses, Given under my hand this <date when="1861-11-23">23<hi rend="sup">rd</hi> November 1861</date></p>
-<p>Elisha ^his X mark^ Lamastus</p>
+<p>Elisha Lamasters States that he now lives in the Town of Cloveport and at the time Margolyes kept tavern near Bennetsville Ky he lived in Bennetsville, <hi rend="str">that</hi> was well aquainted with Margolyes, has been at his house very often I have eat with him several times I always found plenty of Good and substantial food for man &amp; beast. I further State that the said Margolyes Kept a good &amp; sufficent stable, and provided in abundance, I verily believe the Tavern was as well kept as any body should require for any country house. I further state that on one occasion the said Margolyes sent a horse to the stable that I had charge of not having Sufficient room for said horse and all the others that had stopped for the night with him, I have <hi rend="str"><unclear/></hi>seen a sufficintcy of Good beds at said Tavern house, I have also ^seen^ <hi rend="str"><unclear/></hi> corn &amp; hay at his house and other feed for horses.</p>
+<p>Given under my hand this <date when="1861-11-23">23<hi rend="sup">rd</hi> November 1861</date></p>
+<p>Elisha ^his X mark^ Lamasters</p>
 <p>Sworn to before me this <date when="1861-11-23">23<hi rend="sup">rd</hi> November 1861</date></p>
 <p>Edward Pate J P B C</p>
   </body>

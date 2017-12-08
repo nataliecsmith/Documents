@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0180"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,42 +62,41 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency
+   <p>To His Excellency
 <lb/>Thomas E. Bramlette
 <lb/>Governor of Kentucky</p>
-<p>Your petitioner Ashley Williams respectfully represents that he was in connection with his sons George and Allen Williams indicted by the Grand Jury of the Louisville City Court for an assault and Battery on W<hi rend="sup">m</hi> Teeters. That on the <date when="1863-09-02">2<hi rend="sup">nd</hi> day of September 1863</date> that a trial was had and your petitioner fined the sum of Fifty dollars ($50.<hi rend="sup">00</hi>) and his son George Twenty Five dollars, and a verdict of "Not Guilty" as to his son Allen. The proof in the case was that one John Francis son in law of W<hi rend="sup">m</hi> Teeters, charged his son Allen with having commit<hi rend="str">t</hi>ed a Felony. This charge was made upon the day of the assault It was in proof that Francis said after dinner of said day. If you Allen, Williams will meet me on Main Street "I will thrash you". And that after dinner of said day said Francis in company with his father in law the said W<hi rend="sup">m</hi> Teeters<pb/>
-<lb/>came to the shop of Ashley Williams &amp; sons and there the difficulty commenced in which W<hi rend="underline"><hi rend="sup">m</hi></hi> Teeters was twice struck by your petitioner Your petitioners daughter a young lady of 18 years of age had been charged some few weeks previous with having stolen the sum of Twenty four dollars from W<hi rend="underline"><hi rend="sup">m</hi></hi> Teeters some after that said Teeters made said charge and he futher states this was in proof in his case. He states that it was not true ^that^ his said daughter <hi rend="str">did not</hi> ever stole said ammount or any other from W<hi rend="underline"><hi rend="sup">m</hi></hi> Teeters, and that it was a base fabrication to destroy the fair name of his child Thus Francis and Teetes. The one charging his son and the other his daugther of a Felony of which they were "Not Guilty" was the cause of said difficulty. He futher respectfully states that he was at his own place of business when said Teeters and Francis came to his shop. He states that your Excellency is personaly acquainted with him and know him to be a quiet<pb/>
-<lb/>peaceably disposed man, and futher a hard working good citizen. He states that at present he has no money to pay said fine and that he is in debt and canot discharge his obligations for want of money. That he is a wagon maker by trade and the proceeds of his labour <hi rend="underline">all go</hi> to the support of his <hi rend="underline">verry</hi> large family He states that he has paid the sum of Twenty dollars ($20.<hi rend="sup">00</hi>) costs in said case and that his son George will pay in a few days the afforesaid sum of Twenty Five dollars the ammount of the fine against him. Your excellency will excuse the lenth of this petition and prayer and confer a lasting favor on your humble petitioner by the remission of said fine.</p>
+<p>Your petitioner Ashley Williams respectfully represents that he was in connection with his sons George and Allen Williams indicted by the Grand Jury of the Louisville City Court for an assault and Battery on W<hi rend="underline"><hi rend="sup">m</hi></hi> Teeters. That on the <date when="1863-09-02">2<hi rend="sup">nd</hi> day of September 1863</date> that a trial was had and your petitioner fined the sum of Fifty dollars (&#36;50,<hi rend="sup">00</hi>) and his son George Twenty Five dollar's, and a verdict of "Not Guilty" as to his son Allen, The proof in the case was that one John Francis son in law of W<hi rend="underline"><hi rend="sup">m</hi></hi> Teeters, charged his son Allen with having commit<hi rend="str">t</hi>ed a Felony. This charge was made upon the day of the Assault It was in proof that Francis said after dinner of said day. If you Allen, Williams will meet me on Main Street "I will thrash you". And that after dinner of said day said Francis in company with his father in law the said W<hi rend="sup">m</hi> Teeters<pb/>
+<lb/>came to the shop of Ashley Williams &amp; Sons and there the difficulty commenced in which W<hi rend="underline"><hi rend="sup">m</hi></hi> Teeters was twice struck by your petitioner Your petitioners daughter a young lady of 18 years of age had been charged some few weeks previous with having stolen the sum of Twenty four dollars from W<hi rend="underline"><hi rend="sup">m</hi></hi> Teeters <unclear>some few</unclear> that said Teeters made said charge, and he futher states this was in proof in his case, He states that it was not true ^that^ his said daughter <hi rend="str">did not</hi> ever stole said ammount or any other from W<hi rend="underline"><hi rend="sup">m</hi></hi> Teeters. and that it was a base fabrication to destroy the fair name of his child Thus Francis and Teeters. The one charging his son and the other his daugther of a Felony of which they were "<hi rend="underline">Not Guilty</hi>" was the cause of said difficulty. He futher respectfully states that he was at his own place of business when said Teeters and Francis came to his shop. He states that your Excellency is personaly acquainted with him and know him to be a quiet<pb/>
+<lb/>peaceably disposed man. and futher a hard working good citizen. He states that at present he has no money to pay said fine and that he is in debt and canot discharge his obligations for want of money. That he is a Wagon Maker by trade and the proceeds of his labour <hi rend="underline">all go</hi> to the support of his <hi rend="underline">ver</hi><hi rend="underline"><hi rend="str">r</hi></hi><hi rend="underline">y</hi> large familey He states that he has paid the sum of Twenty dollars (&#36;20,<hi rend="sup">00</hi>) costs in said case, and that his son George will pay in a few days the afforesaid sum of Twenty Five dollars the ammount of the fine against him, Your excellency will excuse the lenth of this petition and prayer and confer a lasting favor on your humble petitioner by the remission of said fine.</p>
 <p>Respy<pb/></p>
-<p>We the undersigned citizens of Louisvill do respectfully state that from information <hi rend="str">and</hi> of of our own knowledge <hi rend="str">that</hi> Ashley Williams is an honest hard working quiet peace loving citizen and worthy of Executive clemency</p>
-<p>John G. Simerall
+<p>We the undersigned citizens of Louisvill do respectfully state that from information <hi rend="str">and</hi> of of our own knowledge <hi rend="str">that</hi> Ashley Williams is an honest hard working quiet peace loving cit<hi rend="str">t</hi>izen and worthey of Executive clemency</p>
+<p>John G. Simrall
 <lb/>R. T Durrett
-<lb/>W A Ronald Sheriff
-<lb/>T C Pomeroy D Shirff
+<lb/>W A. Ronald Sherif
+<lb/>T C. Pomeroy D Shirff
 <lb/>Henry Stuckey Clk Chy Court
-<lb/>A M Gagbay
-<lb/>R. H. Rouseeau
+<lb/>A M Gazlay
+<lb/>R. H. Rousseau
 <lb/>C K Fairfax
-<lb/>W. W. Fry
+<lb/><hi rend="underline">W. W. Fry</hi>
 <lb/>H C Thomas
 <lb/>Oliver Lucas Clerk Board Alderman
 <lb/>J M Vaughan Com Council
 <lb/>James C. Gill Coroner J. C.
 <lb/>Phil Tomppert Jr. C C C. L.
 <lb/>R. H. Rousseau Jr
-<lb/>Robt A Hamilton
+<lb/><hi rend="underline">Robt A Hamilton</hi>
 <lb/>Pinkney Varble
-<lb/>Jos Clement J. P. C. C
+<lb/>Jos Clement J. P. J. C
 <lb/>John N. Mattingly
-<lb/>J O Berry Late Maj 1st Tenn cav<pb/></p>
+<lb/>J O Berry Late Maj 1<hi rend="sup">st</hi> Tenn cav<pb/></p>
 <p>Louisville City Court
 <lb/>vs
-<lb/>A &amp; G Williams
+<lb/>A &amp; G. Williams
 <lb/>Assault
-<lb/>$50 &amp; $25
-<lb/><date when="1863-10-08">8th Oct/ 63</date>
-<lb/>Remit all except costs &amp; fees
-<lb/></p>
+<lb/>&#36;50 &amp; &#36;25
+<lb/><date when="1863-10-08">8<hi rend="sup">th</hi> Oct/63</date></p>
+<p>Remit all except costs &amp; fees</p>
   </body>
  </text>
 </TEI>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0037"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">W. H. H. Faris to Thomas E. Bramlette</title>
+    <title level="a" type="main">W. H. H. Faris and W. T. King to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG14066</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,25 +63,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>South Carrolton. Ky.
+   <p>South=Carrolton. Ky.
 <lb/><date when="1864-04-24">Apr. 24<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
 <lb/>To His Excellency,
 <lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi>. E. Bramlette.
 <lb/>Gov; Bramlette.</p>
-<p>I have presumed to address your excellency on a matter of some importance. It is the method we should adopt as the most proper for the defence of our state. The two already provided, the state troops and militia, have not proved sufficiently available. It is as much as the state troops can do, to guard the frontier, so, as to prevent the greater inroads of bodies of five hundred men. And sometimes a thousand. While parties of from thirty to forty can slip in between the posts that establishes the military chain along the southern border, effect every species of robbery, and commit any depredations they wish, and pass out again with perfect impunity. This predatory warfare is to be made on Kentucky during the three seasons when the woods are thicker, so they (the guerrillas) can practice it with greater security. This mode of warfare is characterized by the guerilla chieftains as the scouting systems. All this the militia are intended to prevent, but in which they will most signally fail; as they have done as they have done already.<pb/>
-<lb/>Because there is ^no^ method, no arrangement no anything about them that is calculated to intercept, or overtake one of those flying bands of guerillas that pass through one county, and into another (committing all the mischief they wish) before the one has been, or the other is aware of its approach. A sufficient number of militia may be collected in a day for operative purposes; But where collected you see a parcel of illy mounted men, on horses and mules, with shot guns and rifles, who feeling so little confidence in themselves, they would prefer not meeting a well armed and disciplined foe though far inferior in numbers. There has been a perpetual state of excitement in Muhlenburg and the counties adjoining for the last week; occasioned by Jake Bennett one of Morgan's captains. He has been succesfull in robbing the bank at Hartford. Ohio=County. Of stopping the steamboat Dunkerdon, and giving her a search in the second pool of Green river. And when released, wantonly fired into her as she passed on away from them. Besides, he has committed smaller depredations in the counties around. Navigation will be suspended for awhile on his account. During this time three hundred farms on an average have been lying idle; the tillers being absent in pursuit of this Bennett. If this state of things is kept up during the farming seasons, though it may be off and on, the injury done to the country wil be incalculable. I can propose a better remedy for this evil, I think, than the militia in itself affords.<pb/></p>
-<p>It is, to raise a hundred men in each county organized and equiped as regular soldiers, And for the term of twelve months. They are to be quartered in the county in which they are raised; drawing monthly pay, and rations from the state. Having no higher grade than that of captain as the head of its organization; being accouontable though, to the higher military authorities of the state for any infrangement of the rules laid down in military law. Sixty thousand dollars will cover the expense of one hundred mounted men for a year, Tents, they will not need as temporary huts will answer every purpose. Thirty counties will be all in which, it will be necessary to post these men. These counties, as a matter of course will be on and near the southern border. The cost of three thousand men will be one milliion eight Hundred thousand dollars for a year in depreciated currency. Now, for its advantages, Those county men, being raised in the county, would know its every by path, lane, and retreat; that no force of rebels (no matter how small) could hide itself, so they could not find it. Kentucky would have in addition to her state troops a force sufficiently lare for each county subject to invasion, well equiped, drilled, and ready to move at a moments warning. She would be encircled (as it were) with a belt of safety, entirely impervious to the onsets of rebel envasion. Further more, she would be prepared at all times, <hi rend="underline">to assert the dignity of her rights</hi>, let them be assailed from what quarter they may. I hope your excellency will give this proposition all the consideration it deserves.<pb/></p>
-<p>If you come to the conslusion, that such in organization is requiste for the defence of the state, you will please let me know, so I can make the disposition for the raising of such a force in Muhlenburg.</p>
+<p>I have presumed to address your excellency on a matter of some importance. It is the method we should adopt as the most proper for the defence of our state. The two already provided, the state troops and militia, have not proved sufficiently available. It is as much as the state troops can do, to guard the frontier, so, as to prevent the greater inroads of bodies of five hundred men, And sometimes a thousand, While parties of from thirty to forty can slip in between the posts that establishes the military chain along the southern border, effect every species of robbery, and commit any depredation they wish, and pass out again with perfect impunity. This predatory warfare is to be made on Kentucky during the three seasons when the woods are thicker, so they (the guerrillas) can practice it with greater security. This mode of warfare is characterized by the guerilla chieftains as the scouting systems, All this the militia are intended to prevent, but in which they will most signally fail; as they have done as they have done already,<pb/>
+<lb/>Because there is ^no^ method, no arrangement no anything about them that is calculated to intercept, or overtake one of those flying bands of guerillas that pass through one county, and into another (committing all the mischief they wish) before the one has been, or the other is aware of its approach. A sufficient number of militia may be collected in a day for operative purposes; But where collected you see a parcel of illy mounted men, on horses and mules, with shot guns and rifles, who feeling so little confidence in themselves, they would prefer not meeting a well armed and disciplined foe though far inferior in numbers. There has been a perpetual state of excitement in Muhlenburg and the counties adjoining for the last week, occasioned by Jake Bennett one of Morgan's captains, He has been succesfull in robbing the bank at Hartford. Ohio=County, Of stopping the steamboat Dunkerdon, and giving her a search in the second pool of Green river, And when released, wantonly fired into her as she passed on away from them. Besides, he has <hi rend="str">C</hi>committed smaller depredations in the counties around. Navigation will be suspended for awhile on his account. During this time three hundred farms on an average have been lying idle; the tillers being absent in pursuit of this Bennett. If this state of things is kept up during the farming seasons, though it may be off and on, the injury done to the country wil be incalculable. I can propose a better remedy for this evil, I think, than the militia in itself affords.<pb/></p>
+<p>It is, to raise a hundred men in each county organized and equiped as regular soldiers, And for the term of twelve months. They are to be quartered in the county in which they are raised; drawing monthly pay, and rations from the state. Having no higher grade than that of captain as the head of its organization; being accouontable though, to the higher military authorities of the state for any infrangement of the rules laid down in military law. Sixty thousand dollars will cover the expense of one hundred mounted men for a year. Tents, they will not need as temporary huts will answer every purpose. Thirty counties will be all in which, it will be necessary to post these men. These counties, as a matter of course will be on and near the southern border. The cost of three thousand men will be one milliion eight Hundred thousand dollars for a year in depreciated currency. Now, for its advantages. Those county men, being raised in the county, would know its every by path, lane, and retreat; that no force of rebels (no matter how small) could hide itself, so they could not find it. Kentucky would have in addition to her state troops a force sufficiently large for each county subject to invasion, well equiped, drilled, and ready to move at a moments warning. She would be encircled (as it were) with a belt of safety, entirely impervious to the onsets of rebel envasion. Further more, she would be prepared at all times, <hi rend="underline">to assert the dignity of her rights</hi>, let them be assailed from what quarter they may. I hope your excellency will give this proposition all the consideration it deserves.<pb/></p>
+<p>If you come to the conslusion, that such an organization is requiste for the defence of the state, you will please let me know, so I can make the disposition for the raising of such a force in Muhlenburg.</p>
 <p>W, H, H, Faris,
 <lb/>Formerly Q, M, S, 3<hi rend="underline"><hi rend="sup">rd</hi></hi> Ky, Cav,
 <lb/>W T King
-<lb/>Formerly 1<hi rend="sup">st</hi> Lieut 17<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Vol Inft</p>
+<lb/>Formerly 1<hi rend="sup">st</hi> Lieut 17<hi rend="underline"><hi rend="sup">th</hi></hi> Ky vol Inft</p>
 <p><hi rend="underline">Examine</hi> <hi rend="underline">this</hi> <hi rend="underline">carefully</hi></p>
 <p>Kentucky State Militia
 <lb/>South Carrolton
 <lb/><date when="1864-04-24">April 24, 1864</date>
 <lb/>Muhlenburg county<figure type="hr"/>
-<lb/>Farris W. H. H. (formerly Q. M. S 3<hi rend="sup">rd</hi> Ky Cavl.</p>
+<lb/>Farris W. H. H (formerly Q. M. S 3<hi rend="sup">rd</hi> Ky Cavl.</p>
 <p>Proposing the plan of raising one hundred mounted men in each county for state defense<figure type="hr"/></p>
 <p>Rec. I. G. O. <date when="1864-04">Apl 1864</date></p>
   </body>

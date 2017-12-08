@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0093"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Commonwealth of Kentucky v. Edward Baker Jr. et al., Indictment</title>
+    <title level="a" type="main">Unknown, Memorandum of Indictments</title>
     <title level="a" type="parallel">CWG0982</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,12 +51,11 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Caldwell County, Kentucky</placeName>
-    <date when="1865-06">June 1865</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
-     <term type="genre">Legal/Financial</term>
+     <term type="genre">Note</term>
     </keywords>
    </textClass>
   </profileDesc>
@@ -61,20 +63,20 @@
  <text>
   <body>
    <p>Memorandum of indictments found at the <date when="1865-06">June term 1865</date> of the Caldwell Circuit Court against Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> &amp; others.</p>
-<p>For permitting F. W. Da<hi rend="str">b</hi>bney a minor to play on a Jennie Lind Table, without the written permission of his parents.</p>
-<p>W. E. Mitchersson &amp; Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi>
-<lb/>For Keeping a <hi rend="str">J</hi> gaming table, towit, a Jennie Lind table, they being licensed coffee house keepers.</p>
+<p>For permitting F. W. Da<hi rend="str"><unclear/></hi>bney a minor to play on a Jennie Lind Table, without the written permission of his parents,</p>
+<p>W. E. Mitchusson &amp; Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi>
+<lb/>For Keeping a <hi rend="str">J</hi> gaming table, towit, a Jennie Lind table, they being licensed coffee house Keepers.</p>
 <p>Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> &amp; S. M. Miller
-<lb/>Permitting gaming in a house with cards on a Jennie Lind table.</p>
-<p>Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> &amp; S. M. Miller
-<lb/>Permitting minors, towit, Fisk Overby, W. Owen and William Denny, to game upon a Jennie Lind table.</p>
-<p>Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> and S. M. Miller.
-<lb/>Permitting minors to play in a Jennie Lind table towit E. B. Ford, Robert Overby and George Coon.</p>
-<p>Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> and S. M. Miller
+<lb/>Permitting gaming in a house with cards and on a Jennie Lind table,</p>
+<p>Edward Baker J<hi rend="underline"><hi rend="sup">r.</hi></hi> &amp; S. M. Miller
+<lb/>Permitting minors, towit Fisk Overby, W. Owen and William Denny, to game upon a Jennie Lind table,</p>
+<p>Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> and S. M. Miller,
+<lb/>Permitting minors to play in a Jennie Lind table towit E. B. Ford, Robert Overby and George Coon,</p>
+<p>Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> and S. M. Miller,
 <lb/>Keeping a gaming table, towit: a Jennie Lind table</p>
 <p>Edward Baker and L. D. Gardner
 <lb/>Gaming on Pigeon hole table.<pb/></p>
-<p>Memorandum of Indictments against Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> &amp;<hi rend="underline"><hi rend="sup">c</hi></hi>"</p>
+<p>Memorandum of Indictments against Edward Baker J<hi rend="underline"><hi rend="sup">r</hi></hi> &amp;<hi rend="underline"><hi rend="sup">c</hi></hi>,,</p>
   </body>
  </text>
 </TEI>

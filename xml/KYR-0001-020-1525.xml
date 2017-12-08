@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1525"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Ben C. Allen to Beriah Magoffin</title>
+    <title level="a" type="main">Ben C. Allin to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG10993</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,20 +65,20 @@
   <body>
    <p>Harrodsburg <date when="1861-11-12">Nov<hi rend="sup">r</hi> 12<hi rend="sup">th</hi> 1861</date>
 <lb/>Dear Sir</p>
-<p>John Douly was fined in the Police Court of Harrodsburg 83 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> cents &amp; another fine of $5,00 in Same Court both for getting Intoxicated the Debts have been replieved J P Doyle &amp; Jno Burke Seely</p>
+<p>John Douly was fined in the Police Court of Harrodsburg 83 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> cents &amp; another fine of &#36;5,00 in Same Court both for getting Intoxicated the Debts have been replieved J P Doyle &amp; Jno Burke Secty</p>
 <p>You told me when I saw you that you would remit the fines</p>
-<p>You will find his Petition on file doubtless Please send the remittance included to me</p>
+<p>You will find his Petition on file doubtless Please Send the remittance inclosed to me</p>
 <p>Very Respectfully
-<lb/>Yours <hi rend="underline">Ben C Allen</hi></p>
+<lb/>Yours <hi rend="underline">Ben C Allin</hi></p>
 <p>His Excellency 
 <lb/>B MaGoffin</p>
 <p>PS All well as usual</p>
 <p>B C A<pb/></p>
 <p>Remitted as to Five Dollar fine -- 
 <lb/>B. M</p>
-<p><date when="1861-11-15">Nov 15 -- </date>
-<lb/>OK
-<lb/>N.G.</p>
+<p><date when="1861-11-15">Nov 15-</date>
+<lb/><hi rend="str">A</hi>OK
+<lb/>N, G,</p>
   </body>
  </text>
 </TEI>

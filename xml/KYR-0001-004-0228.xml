@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0228"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,10 +64,10 @@
  <text>
   <body>
    <p>Madisonville Ky
-<lb/><date when="1863-11-27">Nov<hi rend="sup">r</hi> 27<hi rend="sup">th</hi> 1863</date>
+<lb/><date when="1863-11-27">Novr 27<hi rend="sup">th</hi> 1863</date>.
 <lb/>Dear Sir</p>
-<p>Enclosed please find a petition, signed by one hundred persons, citizens of this county. The petition will explain itself. Should your excellency deem it proper to grant the prayer thereof, any communication addressed to Messrs Cissell &amp; Baily my attys Madisonville Ky, will be promptly handed me.</p>
-<p>I am dear sir respectfully
+<p>Enclosed please find a petition, signed by one hundred persons, citizens of this county. The petition will explain itself. Should your excellency deem it proper to grant the prayer thereof, any communication addressed to Mssrs Cissell &amp; Baily my attys Madisonville Ky, will be promptly handed me.</p>
+<p>I am dear Sir respectfully
 <lb/>John W Poe.</p>
 <p>To His Excellency.
 <lb/>Frankfort Ky</p>

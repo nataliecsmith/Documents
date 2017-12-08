@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0102"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,27 +63,27 @@
  </teiHeader>
  <text>
   <body>
-   <p>Weakley Co Tennesseee <date when="1861-06-01">June 1 -- 61</date>
+   <p>Weakly Co Tennesseee <date when="1861-06-01">June 1- 61</date>
 <lb/>Dr Jno M Johnson
 <lb/>Paducah Ky
 <lb/>Dear Sir</p>
-<p>On my return home, from Memphis, yesterday evening evening I found your favor of the <date when="1861-05-28">28<hi rend="sup">th</hi></date> awaiting me. I regret that I was absent, and thus prevented from having a personal interview with you. None of the public authorities of this State, either Civil or Military, so far as I know or believe, contemplated or intend to violate the neutrality of Kentucky, as assumed and defined in the proclamation of your executive of the <date when="1861-05-19">19<hi rend="sup">th</hi></date> of last month. If that neutrality shall be respected by the Federal authorities and troops we can have no motive, on our part to violate it. If as a private citizen, I correctly, understand the policy and purposes of my state, they will be strictly <hi rend="underline">defensive</hi>.</p>
-<p>Whilst we sincerely sympathize with our friends in Ky and appreciate this embarrasing and perilous condition and ardently desire to see their destiny united<pb/>
+<p>On my return home, from Memphis, yesterday evening I found your favor of the <date when="1861-05-28">28<hi rend="sup">th</hi></date> awaiting me. I regret that I was absent, and thus prevented from having a personal interview with you. None of the public authorities of this state, either Civil or Military, so far as I know or believe, contemplate or intend to violate the neutrality of Kentucky, as assumed and defined in the proclamation of your executive of the <date when="1861-05-19">19<hi rend="sup">th</hi></date> of last month. If that neutrality shall be respected by the Federal Authorities and troops we can have no motive, on our part to violate it. If as a private citizen, I correctly understand the policy and purposes of my state, they will be strictly <hi rend="underline">defensive</hi>.</p>
+<p>Whilst we sincerely sympathize with our friends in Ky and appreciate their embarrasing and perilous condition and ardently desire to see their destiny united<pb/>
 <lb/>with ours, we have no disposition or wish to precipate a crisis upon them. That might prove destructive to your domestic peace and frustrate the policy of your state.</p>
-<p>We have neither the means nor desire to prevent the people of Ky, or any portion from holding public meetings and indicating the line of policy, which, in their Judgment will best promote their ^own^ security but we may decline any alliance with a fraction of her citizens, calculated to imperil her general safety, and to lead in any possible contingency to her dismemberment. No policy having a tendency to produce the one or the other of these effects, has met with favor or countenance, with the public authorities of this state, or with myself as a private citizen. </p>
-<p>Should the position of neutrality assumed by Ky be violated, (as I apprehend it will be very soon) by the Federal authorities and northern troops ^should be^ marched upon your soil, what new line of pollicy, with a view to her own protection and best to enable us to repel any invasion of our own territory, the happening of this contingency, may superinduce on the part of our<pb/>
-<lb/>state I am unable to say. We must look to the best means of defense to our own state and of the Confederate States with which we are allied. These however, are remote questions concerning events in the future which may or may not transpire, and in respect to which my indvidual opinions are of no consideration, whatever.</p>
-<p>Our military encampment at Union City, where, within a week, I presume we shall have 10.000 armed troops, is not intended to menace or violate the neutrality of Ky, but simply to repel invasion from our own state</p>
-<p>In conclusion I will state as the sincere conviction of my mind that your Executive need have no apprehensions that either Tennessee or the Confederate States will be the first to violate the neutrallity of your patriotic and gallant common-wealth.</p>
+<p>We have neither the means nor desire to prevent the people of Ky, or any portion from holding public meetings and indicating the line of policy, which, in their Judgment will best promote their ^own^ security but we may decline any alliance with a fraction of her citizens, calculated to imperil her general safety, and to lead in any possible contingency to her dismemberment. No policy having a tendency to produce the one or the other of these effects, has met with favor or countenance, with the pu<hi rend="str">p</hi>blic authorities of this state, or with myself as a private citizen. </p>
+<p>Should the position of neutrality assumed by Ky be violated, (as I apprehend it will be very soon) by the Federal Authorities and northern troops ^should be^ marched upon your soil, what new line of policy, with a view to her own protection and best to enable us to repel any invasion of our own territory, the happening of this contingency, may superinduce on the part of our<pb/>
+<lb/>state I am unable to say. We must look to the best means of defense to our own state and of the Confederate states with which we are allied. These however, are remote questions concerning events in the future which may or may not transpire, and in respect to which my indvidual opinions are of no consideration, whatever.</p>
+<p>Our military encampment at Union Cty, where, within a week, I presume we shall have 10.000 armed troops, is not intended to menace or violate the neutrality of Ky, but simply to repel invasion from our own state</p>
+<p>In conclusion I will state as the sincere conviction of my mind that your Executive need have no apprehensions that either Tennessee or the Confederate States will be the first to violate the neutrality of your patriotic and gallant Common-wealth.</p>
 <p>With assurances of high regard
 <lb/>I have the honor to be
 <lb/>Very Respectfully
 <lb/>Your Obt servant
-<lb/>Jno. A. Gardner<pb/></p>
-<p>Copy of letter to Dr Jno M. Johnson
+<lb/>Jno. A. Gardner.<pb/></p>
+<p>Copy of letter to Dr. Jno M. Johnson
 <lb/>Paducah, Ky.
 <lb/>D<hi rend="underline"><hi rend="sup">r</hi></hi> J. M. Johnson<figure type="hr"/>
-<lb/>Gardner P O</p>
+<lb/><hi rend="underline">Gardner</hi> P O</p>
   </body>
  </text>
 </TEI>

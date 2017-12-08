@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0027"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,19 +65,19 @@
   <body>
    <p>Louisville Ky <date when="1865-02-13">Feb. 13th 1865.</date>
 <lb/>Honorable Thomas E Bramlette
-<lb/>Governor of Kentucky.
+<lb/>Governour of Kentucky,
 <lb/>Sir</p>
-<p>I have been in Gen. Roussaus Brigade some two years and I thought I would send a few lines to you and ask you for a Commission as a Capt or a Leutanant in the State Service if I had a Commission I think in a very short time I could have a Company ready for service</p>
+<p>I have been in Gen. Roussaus Brigade some two years and I thought I would send a few lines to you and ask you for a Commission as a Capt or a Leutenant in the State Service if I had a Commission I think in a very short time I could have a Company ready for service</p>
 <p>Yours with honor
 <lb/>Respectfully
 <lb/>F B Russell<pb/></p>
-<p><hi rend="underline">State forces</hi>
-<lb/>Louisville Ky
-<lb/><date when="1865-02-13">Feby. 13" 1865</date><figure type="hr"/>
+<p><hi rend="underline">State forces</hi></p>
+<p>Louisville Ky
+<lb/><date when="1865-02-13">Feby, 13" 1865</date><figure type="hr"/>
 <lb/>Russell F. B.<figure type="hr"/>
-<lb/>To the Gov -- <figure type="hr"/></p>
+<lb/>To The Gov-<figure type="hr"/></p>
 <p>Desires authority to raise a Co. for state service -- <figure type="hr"/></p>
-<p>Hd. Qrs. C. G. Regt.
+<p>H'd. Q'rs. C. G. Regt.
 <lb/>Frankfort, <date when="1865-02-17">Feby 17<hi rend="underline"><hi rend="sup">th</hi></hi>/65</date></p>
 <p>Respectfully forwarded with the reccomendation that recruiting authority be granted.</p>
 <p>A. J. Harrington
@@ -82,8 +85,8 @@
 <p>Issue
 <lb/>D, W, Lindsey
 <lb/>I &amp; A. G. Ky</p>
-<p>issued <date when="1865-02-17">Feby 17<hi rend="underline"><hi rend="sup">th</hi></hi> 65</date><figure type="hr"/>
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-02-14">14 Feby 1865</date></p>
+<p>issued <date when="1865-02-17">Feby 17<hi rend="underline"><hi rend="sup">th</hi></hi> 65</date><figure type="hr"/></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-02-14">14 Feby 1865</date></p>
   </body>
  </text>
 </TEI>

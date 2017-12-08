@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0102"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <date when="1865-09-07">7 September 1865</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -63,8 +66,8 @@
 <lb/>Judge Hardin
 <lb/>Cha<hi rend="sup">s</hi> A Hardin
 <lb/>M. V. Bowen
-<lb/>Col. J. D. Hale
-<lb/>concerning the interferences of Lt Bishop with the warrant of J. D. Hale <date when="1865-09-07">Sept. 7<hi rend="sup">th</hi>/65</date></p>
+<lb/>Col. J, D. Hale
+<lb/>concerning the interferences of Lt Bishop with the arrest of J. D. Hale <date when="1865-09-09">Sept. 9"/65</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0268"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,22 +66,22 @@
    <p>Cynthiana Ky
 <lb/><date when="1863-11-04">Nov 4<hi rend="sup">th</hi> 1863</date>
 <lb/>Hon T. E. Bramlette,
-<lb/>Governor of Kentucky:</p>
-<p>Inclosed you will find the petition of the jurors in the case of the Commonwealth against James Frazier a free man of color, and of citizens &amp; members of the bar. It is rather voluminous, but I would most respectfully ask of you to consider the case as it seems to be one so justly derserving of mercy. I made the questtion as to the constitutionality of the law of <date when="1860-03-03">March 3<hi rend="sup">rd</hi> 1860</date>, And it<pb/>
-<lb/>might be that if you would notice that you would be the more inclined to pardon him. Hoping that the case will meet with favorable consideration from you and that I may hear froom you soon I am with great respect</p>
+<lb/>Governer of Kentucky:</p>
+<p>Inclosed you will find the petition of the jurors in the case of the Commonwealth against James Frazier a free man of color, and of citizens &amp; members of the bar, It is rather voleminous, but I would most respectfully ask of you to consider the case as it seems to be one so justly derserving of mercy. I made the questtion as to the constitutionality of the law of <date when="1860-03-03">March 3<hi rend="underline"><hi rend="sup">rd</hi></hi> 1860</date>, And it<pb/>
+<lb/>might be that if you would notice that you would be the more inclined to pardon him. Hopeing that the case will meet with favorable consideration from you and that I may hear froom you soon I am with great respect</p>
 <p>Your Friend &amp; obt Servt,
-<lb/>J. Q. Ward<pb/></p>
-<p>Harrison Cit Ct
+<lb/>J, Q, Ward<pb/></p>
+<p>Harrison Cir Ct
 <lb/>vs
 <lb/>James Frazier
 <lb/>Felony
-<lb/>Pardoned <date when="1863-11-05">5th Nov /63</date></p>
-<p><figure type="postmark"><listPlace><place><placeName>Cynthiana
+<lb/>Pardoned <date when="1863-11-05">5<hi rend="sup">th</hi> Nov/63</date></p>
+<p><figure type="postmark"><listPlace><place><placeName>CYNTHIANA
 <lb/><date when="1863-11-04">NOV
 <lb/>4</date>
 <lb/>KY</placeName></place></listPlace></figure></p>
-<p>Hon Thos E Bramlette
-<lb/>Gov Ky
+<p>Hon Tho<hi rend="sup">s</hi> <unclear/> <unclear/>
+<lb/>Gov Ky -- 
 <lb/>Frankfort, Ky</p>
   </body>
  </text>

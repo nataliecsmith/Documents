@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0121"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,81 +65,81 @@
   <body>
    <p>To
 <lb/>His Excellency
-<lb/>Governor Bramlette</p>
-<p>We, members of the Bar of the city of Louisville having learned that Mr. W. C. Wood does not desire a prosecution of Mr Franklin Gorin on account of the unfortunate difficulty between them, for which Mr Gorin stands indicted and fully believing that there was no malice in the transaction, and that no good could grow out of a trial, and no public injury could arise from a cesation of the prosecution on the Indictment. Most respectfully ask your Excellency to issue to Mr Gorin an immediate pardon -- 
+<lb/>Governor Bramlette-</p>
+<p>We, members of the Bar of the city of Louisville having learned that Mr. W. C. Wood does not desire a prosecution of Mr Franklin Gorin on account of the unfortunate difficulty between them, for which Mr Gorin Stands indicted, and fully believing that there was no malice in the transaction, and that no good could grow out of a trial, and no public injury could arise from a cesation of the prosecution on the Indictment -- Most respectfully ask your Excellency to issue to Mr Gorin an immediate pardon -- 
 <lb/>Louisville <date when="1863-10-24">Oct. 24<hi rend="sup">th</hi> 1863</date> -- </p>
 <p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">Hamilton Pope</hi>
 <lb/>Alf'd. T. Pope</p>
-<p>I join in the petitioner for a pardon</p>
+<p>I join in the petition for a pardon</p>
 <p>C W Logan
 <lb/>Martin Bijur
 <lb/>S. A. Atchison
 <lb/>R. H. Rousseau
-<lb/>W K Fairfax
+<lb/>G K Fairfax
 <lb/>M S Fields
 <lb/>Jack Fry
-<lb/>R. H. Coldrill
+<lb/>R. H. Cockrill
 <lb/>James Harris
 <lb/><hi rend="underline">F Maguire</hi>
-<lb/>J. R. Gailbreath
-<lb/>J. M. Foree.
+<lb/>J. R, Gailbreath
+<lb/>J M. Force.
 <lb/>John N. Mattingly
-<lb/>Jeff Brown
+<lb/>Jeff. Brown.
 <lb/>W W Shaw
 <lb/>A J Ballard
 <lb/><cb n="2"/>S. S. Bush
 <lb/>T. A. Marshall
-<lb/>J. B. Kinkead
-<lb/>Jn<hi rend="sup">o</hi>. W. Barr
+<lb/>G. B. Kinkead
+<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> W. Barr
 <lb/>Jo<hi rend="sup">s</hi>. G. Wilson
 <lb/>Sam<hi rend="sup">l</hi> B. Smith
 <lb/>Geo. A. Caldwell
 <lb/>Isaac Caldwell
 <lb/>C. T. Taylor
-<lb/>Will. P. Thomasson
+<lb/>Will, P. Thomasson
 <lb/>John Roberts
 <lb/>James S. Pirtle
-<lb/>Tho<hi rend="sup">s</hi> W. Gibson
-<lb/>James A Beattie.
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> W. Gibson
+<lb/>James A. Beattie.
 <lb/>Patrick Joyes
 <lb/>W. G. Reasor
 <lb/>Byron Bacon
-<lb/>W. W. Fry
+<lb/><hi rend="underline">W. W. Fry</hi>
 <lb/>Jno. H. Talbott
 <lb/>Isaac D Stone
-<lb/>A Harris
-<lb/>C Ripley<pb/>
+<lb/>A. Harris.
+<lb/>C, Ripley<pb/>
 <lb/><cb n="1"/>Moses Bennett
 <lb/>Jas Harrison
 <lb/>Walker Morris
 <lb/>J. Tevis
 <lb/>James Speed
 <lb/>Cha<hi rend="sup">s</hi> B Cotton
-<lb/><hi rend="underline">S. S. English</hi>
-<lb/>W<hi rend="sup">m</hi> Mix
-<lb/>John G <unclear>Simrall</unclear>
+<lb/><hi rend="underline">S. S.</hi> <hi rend="underline">English</hi>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Mix
+<lb/>John G Simrall
 <lb/>W<hi rend="sup">m</hi> S Bodley
 <lb/>J. E. Pilcher
-<lb/>Tho W Riley
-<lb/>Sam<hi rend="sup">l</hi> Russell
+<lb/>Tho W Riley.
+<lb/>Sam'<hi rend="sup">l</hi> Russell
 <lb/>R T Durrett
 <lb/>S S Nicholas
 <lb/>J. Guthrie Coke
 <lb/>George W Caruth
-<lb/><unclear>E. S.</unclear> Craig
+<lb/><unclear/> Craig
 <lb/>R. F. Baird
 <lb/>Isaac R. Greene
 <lb/>Nat. Wolfe
 <lb/>Robt. A Hamilton
 <lb/><unclear>J.</unclear> H. Price
-<lb/>L. A. Wood
+<lb/>L. A. Wood.
 <lb/>Jas P. Chambers
-<lb/>H C Lindell
-<lb/><hi rend="underline">J. G. Barret</hi>
-<lb/>H. F. Bullock
+<lb/>H. C Lindell
+<lb/><hi rend="underline">J. G Barret</hi>
+<lb/>W. F. Bullock
 <lb/>Wilkins G. Anderson
-<lb/>N. A. Hauser
-<lb/>Chas. P. Rudd</p>
+<lb/>W. A. Hauser
+<lb/>Chas P. Rudd</p>
 <p><cb n="2"/>I am one of witnesses for the Commonwealth in the prosecution against M<hi rend="sup">r</hi> Gorin, &amp; witnessed the commission of the alledged offense, and believe I am fully apprised of all that passed at the time. The foregoing petition I have read &amp; cheerfully sign my name thereto.</p>
 <p>Robt J. Elliott.<milestone unit="column" n="1"/><pb/></p>
 <p>Although Mr Gorin shot me with out cause I never had any unkind feelings towards him. I forgive him for the injury inflicted upon Me and I concur in the <hi rend="underline">prayer</hi> of the petition. -- </p>

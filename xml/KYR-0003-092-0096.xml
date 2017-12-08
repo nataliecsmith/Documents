@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0096"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">R. A. Alexander to George W. Johnson</title>
+    <title level="a" type="main">R. Aitcheson Alexander to George W. Johnson</title>
     <title level="a" type="parallel">CWG14388</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Jesse Nasta</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -67,11 +62,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Dear <persName ref="cwgk:N001002">Sir</persName></p>
-<p>I was absent from home for a day or so &amp; thus did not receive your note till yesterday evening= I think there can be no doubt of our being able to raise the money in your acceptance if the parties you name are not in a position to pay the amt due you; I will meet you in <placeName ref="cwgk:P001002">Lexington</placeName> on Tuesday next, say on arrival of cars at <orgName ref="cwgk:O00008149">Agl Dep Bank</orgName> where we can see what can be done</p>
-<p>Saturday <date when="1861-04-27">27 Apr 1861</date></p>
-<p>Yours Very Truly
-<lb/><persName ref="cwgk:N00008148">R. Aitcheson Alexander</persName></p>
+   <p>Dear Sir</p>
+<p>I was absent from Home for a day or so &amp; thus did not receive your note till yesterday evening= I think there can be no doubt of our being able to raise the Money in your acceptance if the parties you name are not in a position to pay the amt due you; I will meet you in Lexington on Tuesday next say on arrival of Cars at Agl Dep Bank where we can see what can be done
+<lb/>Saturday <date when="1861-04-27">27 Apr 1861</date>.</p>
+<p>Yours very truly
+<lb/>R Aitcheson Alexander</p>
 <p>P. S.
 <lb/>I made a mistake in the time named at w<hi rend="underline"><hi rend="sup">h</hi></hi> I was obliged to have money it was <date when="1861-05-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> May</date> not <date when="1861-04">April</date>=</p>
 <p>R. A. A.<pb/></p>

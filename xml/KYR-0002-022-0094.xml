@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0094"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,18 +66,17 @@
    <p>Ashland Ky
 <lb/><date when="1864-08-19">Augst. 19<hi rend="underline"><hi rend="sup">th</hi></hi> 64</date>
 <lb/>To his Excellency The Gov. of Ky</p>
-<p>Sir. About the last of June last, some several companies, of 6 months men, was raised in Lawrence &amp; Johnson Counties, and when ^so^ raised they were taken from the localities, from whence they had been raised &amp; for ^the protection of^ which they volunteered, and ^they^ required to report at Frankfort or Louisville to be mustered into the State service, and as I am infomed they had the promise from the proper state authorities that when so mustered in, they should be returned to their homes, and respective localities and as yet but one Company has been returned &amp; indeed ^that^ one was not full or else they would perhaps <hi rend="str">would</hi> not have <hi rend="str">not</hi> returned why are they not all returned and especially when these Counties are now suffering from hands of thieves &amp; robers. Great ^complaints^ have been justly made by ^our citizens against^ the national authorities for the removal of the men from Eastern Ky that had<pb/>
-<lb/>been raised for the purpose of protecting their homes, and yet the same course has been pursued by our State authorities. All this may ^be^ correct but if so it certainly is a strange way to threat free men will you please inform ^me of^ the reasons in the last case, or if posssible send the 6 month <hi rend="str">menn</hi> ^men^ back to Louisa from whince they have been taken, I speak but the voice of all this Country</p>
-<p>Very Respectfully yours
-<lb/>R. D. Callahan<pb/></p>
-<p>Lawrence &amp; Johnson</p>
+<p>Sir. About the last of June last, some several companies, of 6 months men, was raised in Lawrence &amp; Johnson Counties, and when ^so^ raised they were taken from the localities, from whence they had been raised &amp; for ^the protection of^ which they volunteered, and ^they^ required to report at Frankfort or Louisville to be mustered into the State service, and as I am infomed they had the promise from the proper State authorities that when so mustered in, they should be returned to their homes, and respective localities and as yet but one Company has been returned &amp; indeed ^that^ one was not full, or else they would perhaps <hi rend="str">would</hi> not have <hi rend="str">not</hi> returned why are they not all returned and especially when these Counties are now suffering from band of thieves &amp; robers, Great ^complaints^ have been justly made by ^our citizens against^ the national authorities for the removal of the men <hi rend="str">in</hi>from Eastern Ky that had<pb/>
+<lb/>been raised for the purpose of protecting their homes, and yet the same course has been pursued by our State authorities. All this may ^be^ correct but if so it certainly is a strange way to treat free men will you please inform ^me of^ the reasons in the last case, or if possible send the 6 month <hi rend="str">menn</hi> ^men^ back to Louisa from whence they have been taken, I speak but the voice of all this Country</p>
+<p>Very Respectfully yours &amp;c
+<lb/>R, D, Callahan<pb/></p>
 <p>Ashland Ky
-<lb/><date when="1864-08-19">August. 19. 1864</date><figure type="hr"/>
-<lb/>Callihan R. D.
+<lb/><date when="1864-08-19">August. 19. 1864</date>.<figure type="hr"/>
+<lb/>Callihan R. D,
 <lb/>to
-<lb/>Gov<hi rend="sup">r</hi>. Bramlette<figure type="hr"/></p>
-<p>says in <date when="--06">June last</date> several comp<hi rend="sup">s</hi>. of 6 months men raised in Lawrence &amp; Johnson Counties were ordered to report at Frankfort &amp; Louisville says they received a promise from State authorities when mustered in they should be referred to their homes. says these Counties are suffering from bands of thieves &amp; great complaints are mad eby the Citizens against the national authority for the removal of these men from Eastern Ky.<figure type="hr"/></p>
-<p>Rec<hi rend="sup">d</hi> a.g. o. <date when="1864-08-23">Aug. 23. 1864</date></p>
+<lb/>Gov<hi rend="sup">r.</hi> Bramlette<figure type="hr"/></p>
+<p>says in <date when="--06">June last</date> several comp<hi rend="underline"><hi rend="sup">s</hi></hi> of 6 months men raised in Lawrence &amp; Johnson Counties were ordered to report at Frankfort &amp; Louisville says they received a promise from State authorities when mustered in they should be returned to their homes. says these Counties are suffering from bands of thieves &amp; great complaints are made by the citizens against the national authority for the removal of these men from Eastern Ky.<figure type="hr"/></p>
+<p>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-08-23">Aug. 23. 1864</date></p>
   </body>
  </text>
 </TEI>

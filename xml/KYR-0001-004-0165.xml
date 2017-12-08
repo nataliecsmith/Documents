@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0165"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">P. Sheridan to Jeremiah T. Boyle</title>
+    <title level="a" type="main">Patrick Sheridan to Jeremiah T. Boyle</title>
     <title level="a" type="parallel">CWG4284</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,39 +64,39 @@
  <text>
   <body>
    <p>Madison Indiana
-<lb/><date when="1863-10-23">October the 23<hi rend="sup">d</hi> 1863</date>
-<lb/>Gen<hi rend="sup">l</hi> J. T. Boyle
+<lb/><date when="1863-10-23">October the 23<hi rend="underline"><hi rend="sup">d</hi></hi> 1863</date>
+<lb/>Gen<hi rend="underline"><hi rend="sup">l</hi></hi> J. T. Boyle
 <lb/>Louisville Kentucky
-<lb/>Gen<hi rend="sup">l</hi> Boyle</p>
-<p>I address you from this place though my proper residence is in Trimble County Kentucky, you may have forgotten Me, but perhaps one of your Aids who I think is named Hughes May remember me as the man who when you first Enterd upon the discharge of the duties of your office, Came to Louisville to See you in reference to the acts and doings of the Rebells in Trimble County Kentucky, Since then Gen<hi rend="sup">l</hi>. I have had to flee from that county to Save my life, and living in Madison as a means of Safety to myself and family (My only offence being that I was for my Government) but before I was forced to leave the County I was set upon by the Rebells day after day My life threatened, My family kept in Continual Dread and alarm, untill I finally did not Know what to do, I was poor living upon a small farm, prominent among the Rebells who were persecuting me and threattening my life was one Thomas Maddox his threats were of such a character, that at last I believed that if Maddox could he would take my life,<pb/>
-<lb/>and in a moment of Phrenzy being driven to almost craziness by the rebells, I Sent Maddox a note to fight him a duel rather than have my life sacrificed without having no chance for it, but all was of no avail, I had to flee from the county with family to save them and myself, but as soon as I wrote the note the Rebells took advantage of it and got up an Indictment against me in the Trimble Circuit Court and on the <date when="1863-10-08">8<hi rend="sup">th</hi> day of this Month</date> fined me five hundred Dollars, (without even proving that the note was ever delivered to Maddox) I was defended by M<hi rend="sup">r</hi> S. E. DeHaven of LaGrange Oldham County Ky and M<hi rend="sup">r</hi> Solon Russell the district attorney here, but they had Determined that as the could not get my life they (the Rebells) would ruin me by having the fine imposed, and the little farm that I had to flee from sold to pay the <hi rend="str">farm &amp;c</hi> fine and now I am told that my little farm is Levied on by the Sheriff and will be sold to pay the fine, and I appeal to you Gen<hi rend="sup">l</hi> to See if you cannot get Gov<hi rend="sup">r</hi>. Bramelett to remit the <hi rend="str">fine</hi> fine or Else respite it untill I can have an oppertunity when our unfortunate troubles are over, to get up<pb/>
-<lb/>the proof and Satisfy him that what I Say is true, I am getting Somewhat in years and my little farm in Trimble is my all nearly, I have a wife and several small children to support, and Gen<hi rend="sup">l</hi>. it looks hard to take my all for no other offense than that growing out of My loyalty to my Government, when goarded to desperation by a set of Rebells, intercede with ^the^ Gov<hi rend="sup">r</hi> and try and save my little farm Gen<hi rend="sup">l</hi>. and I will Ever remember you with gratitude</p>
+<lb/>Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Boyle</p>
+<p>I address you from this place though my proper residence is in Trimble County Kentucky, You may have forgotten me, but perhaps one of your Aids who I think is named Hughes may remember me as the man who when you first Entered upon the discharge of the duties of Your office, Came to Louisville to See you in reference to the acts and doings of the Rebells in Trimble County Kentucky, Since then Gen<hi rend="underline"><hi rend="sup">l</hi></hi> I have had to flee from that county to Save my life, and living in Madison as a means of Safety to myself and family (My only offence being that I was for my Government) but before I was forced to leave the County I was Set upon by the Rebells day after day my life threatened, my family kept in Continual Dread and alarm, untill I finally did not Know what to do, I was poor living upon a small farm, prominent among the Rebells who were persecuting me and threathning my life was, one Thomas Maddox his threats were of such a character, that at last I believed that if Maddox could he would take my life,<pb/>
+<lb/>and in a moment of phrenzy being driven to almost craziness by the rebells, I Sent Maddox a note to fight him a duel rather than have my life Sacrificed without having no chance for it, but all was of no avail, I had to flee from the county with family to Save them and Myself, but as soon as I wrote the note the Rebells took advantage of it and got up an Indictment against me in the Trimble Circuit Court and on the <date when="1863-10-08">8<hi rend="underline"><hi rend="sup">th</hi></hi> day of this month</date> fined me five hundred Dollars, (without Even proving that the note was Ever delivered to Maddox) I was defended by M<hi rend="sup">r</hi> S. E. DeHaven of LaGrange Oldham County Ky and M<hi rend="underline"><hi rend="sup">r</hi></hi> Solon Russell the district Attorney here, but they had Determined that as the could not get my life they (the Rebells) would ruin me by having the fine imposed, and the little farm that I had to flee from sold to pay the <hi rend="str">farm &amp;c</hi> fine and now I am told that my little farm is Levied on by the Sheriff and will be sold to pay the fine, and I appeal to You Gen<hi rend="underline"><hi rend="sup">l</hi></hi> to see if you cannot get Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramlett to remit the <hi rend="str">fine</hi> fine or Else respite it untill I can have an oppertunity when our unfortunate troubles are over, to get up<pb/>
+<lb/>the proof and Satisfy him that what I say is true, I am getting Somewhat in years and my little farm in Trimble is My all nearly, I have a wife and several small children to support, and Gen<hi rend="underline"><hi rend="sup">l</hi></hi> it looks hard to take my all for no other offense than that growing out of my loyalty to my Government, when goarded to desperation by a set of Rebells, intercede with ^the^ Gov<hi rend="underline"><hi rend="sup">r</hi></hi> and try and save my little farm Gen<hi rend="underline"><hi rend="sup">l</hi></hi> and I will Ever remember you with gratitude</p>
 <p>Respectfully Yours
 <lb/>P Sheridan</p>
-<p>I would think that it <hi rend="str">it</hi> would be a wise &amp; last matter to have this Tho<hi rend="sup">s</hi> Maddox arrested for Slandering ^the^ Government for the acts of its Preservation, also the Present Sheriff Elizah Rea </p>
-<p>the Union Men of East Tennessee has not been more Prosecuted than the <hi rend="underline">few</hi> that are in Trimble Co. their affectation of Loyalty outwardly is only the Robe to Conceal their Disloyalty, Genl do as you Please in this <hi rend="underline">matter</hi> but for Mercy Sake do not forget the above</p>
+<p>I would think that it <hi rend="str">it</hi> would be a wise &amp; Just matter to have this Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Maddox arrested for Slandering ^the^ Government for the acts of its Preservation, also the Present Sheriff Elizah Rea </p>
+<p>the Union Men of East Tennessee has not been more Prosecuted than the <hi rend="underline">few</hi> that are in Trimble Co. their affectation of Loyalty outwardly is only the Robe to Conceal their Disloyalty, Gen<hi rend="underline"><hi rend="sup">l</hi></hi> do as you Please in this <hi rend="underline">matter</hi> but for Mercy Sake do not forget the above</p>
 <p>P. Sheridan<pb/></p>
-<p>R. P. 217, Book B No. 9
+<p>R. P. 217, Book B no, 9<figure type="hr"/>
 <lb/>Madison Ind
-<lb/><date when="1863-10-23">Oct 23/ 63</date>
-<lb/>Sheridan, Patrick</p>
-<p>Statement in regard to his being dirven from his home in Trimble Co Ky by threats against his life on account of his loyalty to the government -- his trial for sending a challenge to one of his persecutors, where he was fined $500 &amp; his little farm levied on by the Sheriff to pay the fine. Prays <hi rend="underline">Gen</hi><hi rend="underline"><hi rend="sup">l</hi></hi><hi rend="underline">. Boyle</hi> to intercede with <hi rend="underline">Gov. Bramlette</hi> for his relief.</p>
-<p>2 En
-<lb/>Recd &amp; 2<hi rend="sup">nd</hi> D. K. <date when="1863-11-10">Nov 10/ 63</date></p>
-<p>HdQrs Dist of Ky
-<lb/>Louisville <date when="1863-11-11">No 11/ 63</date></p>
-<p>Respectfully referred to his Excellency Gov Bramlette for his consideration</p>
-<p>By Orders of By Genl Boyle
-<lb/>Stephan E Jones
-<lb/>Capt &amp; DC
+<lb/><date when="1863-10-23">Oct 23/63</date><figure type="hr"/>
+<lb/>Sheridan, Patrick<figure type="hr"/></p>
+<p>Statement in regard to his being driven from his home in Trimble Co Ky by threats against his life on account of his loyalty to the government -- his trial for sending a challenge to one of his persecutors, where he was fined &#36;500 &amp; his little farm levied on by the Sheriff to pay the fine. Prays <hi rend="underline">Gen</hi><hi rend="underline"><hi rend="sup">l</hi></hi><hi rend="underline"> Boyle</hi> to intercede with <hi rend="underline">Gov. Bramlette</hi> for his relief.</p>
+<p>2 En<figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> H<hi rend="sup">d</hi> Q<hi rend="sup">rs </hi>D. K. <date when="1863-11-10">Nov 10/63</date>.</p>
+<p>Hd Qrs Dist of Ky
+<lb/>Louisville <date when="1863-11-11">Nov 11/63</date></p>
+<p>Respectfully referred to his Excellency Gov Bramlette for his consideration.</p>
+<p>By Order of
+<lb/>By Genl Boyle
+<lb/>Stephen E Jones
+<lb/>Capt &amp; D C
 <lb/>P M G D Ky</p>
-<p>Remit all except fees &amp; Costs
-<lb/>Tho E Bramlette
-<lb/>Gov<hi rend="sup">r</hi></p>
+<p>Remit all except fees &amp; costs</p>
+<p>Tho E Bramlette Gov<hi rend="sup">r</hi></p>
 <p>Trimble Cir Ct
 <lb/>vs
 <lb/>P. Sheridan
-<lb/>$500 -- 
+<lb/>&#36;500--
 <lb/>Sending Challenge
 <lb/><date when="1863-11-16">16<hi rend="sup">th</hi> Nov 1863</date></p>
   </body>

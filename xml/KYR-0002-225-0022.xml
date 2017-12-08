@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0022"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,20 +65,20 @@
   <body>
    <p>Columbia Ky <date when="1862-11-08">Nov 8<hi rend="sup">th</hi> 1862</date>
 <lb/>Jno W Finnell
-<lb/>Adjt Genl. Ky Vols.</p>
-<p>Your dispatch of yesterday authorizing me to raise a Cavalry Regt for 3 years service was somewhat of a surprise to me. My application was in favor of Capt Morrison for an extension of his authority.</p>
-<p>Having been repulsed in all my efforts to get authority at a time when I thought the danger was imminent &amp; required the active efforts of all true Kentuckians; I had abandoned all thought of going into the service, and made up my resolution to stand upon my personal defense, and aid my neighbors and fellow citizens to the extent of my ability in making for this unprotected &amp; suffering part of the State such defense as we best might.</p>
-<p>This entire front -- from Wayne to Monroe Cutny lays still exposed -- and being the principal entrance for the rebels into Ky, makes it of the utmost importance to the security, of not only the border counties, but Central Ky, that something be done to ensure future security,</p>
-<p>But the border countries (especially Columbia &amp; Monroe) having already sent so many of their brave men to the field -- being left continually exposed &amp; undefended &amp; that I am not willing<pb/>
-<lb/>enlist those who remain in a new Regt to be sent off and leave their homes wholly unprotected. -- If it is proposed to use the forces which I may raise in defence of our border, and State, I will raise the Reg<hi rend="underline"><hi rend="sup">t</hi></hi>. Or if I am assured so that I can assure the people of these border counties that there will be protection given to them, if they enlist, I will go forward and raise the Reg<hi rend="underline"><hi rend="sup">t</hi></hi> -- But I cannot ask another man to enlist in this part of the state until I can assure them either that they will be retained for defensive purposes or that other forces will take their place &amp; give the much needed protection from guerrilla raids. -- Before I take any action I wish to know what is the proposed employment of the Regt should it be raised -- Also when and where can they be armed and equipped. Are the Arms ready? It will not do to <unclear/> up &amp; have them unarmed; as it would expose them to attack in a defenceless condition. -- Many of the men who volunteered to go into the Regt which I offered the Gov<hi rend="underline"><hi rend="sup">t</hi></hi> have been hunted down &amp; killed. If I move in this matter I wish to have arms for the men as fast as companies are organized so they will be able to defend themselves should Morgan or other guerillas attack them<pb/>
-<lb/>I go tomorrow to the Casey Court will be at home by the time your reply can reach here and will proceed to raise a Regt if the object be to employ it for <hi rend="underline">efficient</hi> and not <hi rend="underline">nominal</hi> defence.</p>
-<p>I hold that the way to defend Kentucky is to keep the rebels out of it -- but wont till the invade and then when they prove <unclear/> out the State Give them back -- They should be kept out, and to keep them out a force that will fight and not run would be ready to meet them at the threshold and not only whip them but as far as practicable destroy them. I shall await your answer &amp; be ready to act when it comes</p>
+<lb/>Adjt Genl. Ky <hi rend="str">Caly</hi>Vols.</p>
+<p>Your dispatch of yesterday authorizing me to raise a Cavalry Regt for 3 years service was somewhat of a surprise to me- My application was in favor of Capt Morrison for an extension of his authority,</p>
+<p>Having been repulsed in all my efforts to get authority at a time when I thought the danger was imminent &amp; required the active efforts of all true Kentuckians; I had abandoned all thought of going into the service; and made up my resolution to stand upon my personal defense; and aid my neighbors and fellow citizens to the extent of my ability in making for this unprotected &amp; suffering part of the State such defense as we best <hi rend="str"><unclear/></hi>might.</p>
+<p>This entire front- from Wayne to Monroe Conuty being still exposed:- and being the principal entrance for the rebels into Ky, makes it of the utmost importance to the security, of not only the border counties, but Central Ky, that something be done to ensure future security.</p>
+<p>But the border countries (especially Clinton &amp; Monroe) having already sent so many of their brave men to the field -- being left continually exposed &amp; undefended- &amp; that I am not willing<pb/>
+<lb/>enlist those <hi rend="str">in</hi>who remain in a new Regt to be sent off and leave their homes wholly unprotected. -- If it is proposed to use the forces which I may raise in defense of our border, and State, I will raise the Reg<hi rend="underline"><hi rend="sup">t</hi></hi>. Or if I am assured so that I can assure the people of these border counties that there will be protection given to them; if they enlist, I will go forward and raise the Reg<hi rend="underline"><hi rend="sup">t</hi></hi> -- But I cannot ask another man to enlist in this part of the State until I can assure them either that they will be retained for defensive purposes or that other forces will take their place &amp; give the much needed protection from guerrilla raids. -- Before I take any action I wish to know what is the proposed employment of the Regt should it be raised -- Also when and where can they be armed and equipped. Are the Arms ready<hi rend="underline">?</hi> It will not do to get them up &amp; have them unarmed; as it would expose them to attack in a defenseless condition. -- Many of the men who volunteered to go into the Regt which I offered the Gov<hi rend="underline"><hi rend="sup">t</hi></hi> have been hunted down &amp; killed. If I move in this matter I wish to have arms for the men as fast as Companies are organized so they will be able to defend themselves should Morgan or other guerillas attack them<pb/>
+<lb/>I go tomorrow to the Casey Court will be at home by the time your reply can reach here; and will proceed to raise a Regt if the object be to employ it for <hi rend="underline">efficient</hi> and not <hi rend="underline">nominal</hi> defense..</p>
+<p>I hold that the way to defend Kentucky is to Keep the rebels out of it- not wait till the invade and then when they <unclear/> Run out the State Give them back -- They should be kept out, and to keep them out; a force that will <hi rend="underline">fight</hi> and not run &amp; would be ready to meet them at the threshold and not only whip them but as far as practicable destroy them. I shall await your answer &amp; be ready to act when it comes</p>
 <p>Respectfully
-<lb/>Tho. E. Bramlette<pb/></p>
+<lb/>Tho- E. Bramlette<pb/></p>
 <p>Columbia Ky.
 <lb/><date when="1862-11-08">Nov. 8" 1862.</date><figure type="hr"/>
 <lb/>Bramlette Thos. E.<figure type="hr"/>
-<lb/>condition of affairs in his section -- <figure type="hr"/></p>
+<lb/>condition of affairs in his section -- </p>
   </body>
  </text>
 </TEI>

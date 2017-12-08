@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0112"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,24 +63,23 @@
  </teiHeader>
  <text>
   <body>
-   <p>Greenville Ky <date when="1864-02-08">Feby 8<hi rend="sup">th</hi> 1864</date>
-<lb/>His Excellency Tho<hi rend="sup">s</hi> E. Bramlette
+   <p>Greenville Ky <date when="1864-02-08">Feby 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
+<lb/>His Excellency Tho<hi rend="sup">s.</hi> E. Bramlette
 <lb/>Governor of Ky</p>
-<p>Sir By recent enactments of the Genl Assembly you are authorized to raise and equip five regiments of mounted Infty for purposes of State defence I propose to be one of the numerous applicants for authority to raise one of those Regts.</p>
-<p>As regards my integrity of character, firmness of purpose, ability and aptness to command and experience in such matters I respectfully refer you to Maj. T. L. Crittenden, Col. Cicero Maxwell of 26<hi rend="sup">th</hi> Ky Vol Infty. Col P. Butler Hawkins, formerly of 11<hi rend="sup">th</hi> Ky Vol Infty and to any or all of the present officers &amp; men of said Regiment; in which I have served as Capt. of Company for near two years-</p>
+<p>Sir By recent enactments of the Genl Assembly you are authorized to raise and equip five regiments of mounted Infty for purposes of State defence I propose to be one of the numerous applicants for authority to raise one of those Regt<hi rend="underline"><hi rend="sup">s</hi></hi></p>
+<p>As regards my integrity of character, firmness of purpose, ability and aptness to command and experience in such matters I respectfully refer you to Maj. T. L. Crittenden, Col. Cicero Maxwell of 26<hi rend="sup">th</hi> Ky Vol Infty, Col P. Butler Hawkins, formerly of 11<hi rend="sup">th</hi> Ky Vol Infty and to any or all of the present officers &amp; men of said Regiment; in which I have served as Capt. of Company for near two years -- </p>
 <p>Should this application meet with your approval I suggest the Southern portion of the State as the field of my operations, with camps<pb/>
-<lb/>of organization and instruction at Hopkinsville Russellville and Greenville or at such other points as may be deemed most expedient</p>
+<lb/>of organization and instruction at Hopkinsville, Russellville, and Greenville or at such other points as may be deemed most expedient</p>
 <p>Very Respectfully
-<lb/>Your Obt. Sevn<hi rend="sup">t</hi>
-<lb/>M. Jeff. Roark<pb/></p>
+<lb/>Your Obt. Srvt.
+<lb/>M, Jeff, Roark<pb/></p>
 <p>Greenville Ky
-<lb/><date when="1864-02-08">8<hi rend="sup">th</hi> Feby 1864</date>
-<lb/>Muhlenberg Co.<figure type="hr"/>
-<lb/>Roark, M. Jeff<figure type="hr"/></p>
-<p>Application to raise one of the five regiments authorized for State defense. Refers to Maj Gen<hi rend="sup">l</hi> Grittenden Col P. B Hawkins &amp; Cicero Maxwell for ability &amp;c<figure type="hr"/></p>
-<p>Advise him of the fact.</p>
+<lb/><date when="1864-02-08">8<hi rend="underline"><hi rend="sup">th</hi></hi> Feby 1864</date><figure type="hr"/>
+<lb/>Roark. M. Jeff<figure type="hr"/></p>
+<p>Application to raise one of the five regiments authorized for state defense. Refers to Maj Gen<hi rend="sup">l</hi> Crittenden Col P. B Hawkins &amp; Cicero Maxwell for ability &amp;c.<figure type="hr"/></p>
+<p>Advise him of the fact,</p>
 <p><hi rend="underline">Boyle</hi><figure type="hr"/>
-<lb/>Recd A. G. O <date when="1864-02-11">11<hi rend="sup">th</hi> Feby 1864</date></p>
+<lb/>Rec<hi rend="sup">d</hi> A. G. O <date when="1864-02-11">11<hi rend="underline"><hi rend="sup">th</hi></hi> Feb<hi rend="sup">y</hi> 1864</date></p>
   </body>
  </text>
 </TEI>

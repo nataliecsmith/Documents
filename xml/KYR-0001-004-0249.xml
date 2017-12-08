@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0249"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,44 +66,46 @@
    <p>Elkton <date when="1863-11-07">Novr 7<hi rend="sup">th</hi> 1863</date>.
 <lb/>Governor Bramlette
 <lb/>Dear sir</p>
-<p>We were employed by the father of George L Harrison, to defend him, against the charges for which he was recognised to appear at the <date when="1863-04">April term of the Todd Circuit Court 1863</date>. S. P. Harrison brother of George was his bail we have reason to know &amp; verily believe that S. P. Harrison used his best exertions to prevail on George to attend court &amp; stand his trial, but could not &amp; did not succeed, &amp; a forfeiture was the consequence.</p>
+<p>We were employed by the father of George L Harrison, to defend him,. against the charges for which he was recognised to appear at the <date when="1863-04">aprile term of the Todd Circuit Court 1863</date>. S. P. Harrison brother of George was his bail we have reason to know &amp; verily believe that S. P. Harrison used his best exertions to prevail on George to attend court &amp; stand his trial, but could not &amp; did not succeed &amp; a forfeiture was the consequence.</p>
 <p>We have reliable information, that George L.<pb/>
-<lb/>has been killed since said forfeiture.</p>
-<p>S. P. Harrison is a quiet obscure, well behaved man &amp; worth about the amount of the Judgements against him, &amp; we think it would be proper to relieve him, of at least one half of the amount.</p>
-<p>Indeed we think all the circumstances considered that three hundred dollars is as much as he should pay, his brother was a man of bad reputation, but S. P. done right, to become security for his brother, &amp; we verily believe he done his duty in urging his brother to appear.</p>
+<lb/>has been killed, since said forfeiture.</p>
+<p>S. P. Harrison, is a quiet obscure, well behaved man &amp; worth about the amount of the Judgements against him, &amp; we think it would be proper to relieve him, of at least one half of the amount.</p>
+<p>Indeed we think all the circumstances considered, that three hundred dollars is as much as he should pay, his brother was a man of bad reputation, but S. P. done right, to become security for his brother, &amp; we verily believe he done his duty in urging his brother to appear.</p>
 <p>We hope your Excellency will deem it consistent with duty, to remit at least one half<pb/>
 <lb/>if not more of the Judgements.</p>
-<p>Mr. J. D. Christian, sheriff of our county, will hand you this, he can give full information, as to the facts. We have the honor to be your obt servants.</p>
-<p>F. M. Bristow
-<lb/>H. G. Petree<pb/></p>
-<p><hi rend="str">Remit one-half the fines.</hi>
+<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> J. D. Christian, sheriff of our county, will hand you this, he can give full information, as to the facts.</p>
+<p>We have the honor to be
+<lb/>your obt servants.
+<lb/>F. M. Bristow
+<lb/>H, G, Petree<pb/></p>
+<p><hi rend="str">Remit one-half the fines -- </hi>
 <lb/><hi rend="str">Tho E Bram</hi></p>
-<p>Remit all of 1-2-3 &amp; 5 except fees &amp; costs -- which will amount.
+<p>Remit all of 1--2--3. &amp; 5. &amp; 6 except fees &amp; costs-- which will amount.
 <lb/><table rend="rules">
 <row>
-	<cell>1-</cell>
-	<cell>60-18=</cell>
+	<cell>1--</cell>
+	<cell>60 -- 18=</cell>
 	<cell>42</cell>
 </row>
 <row>
 	<cell>2</cell>
-	<cell>50-15</cell>
+	<cell>50 -- 15</cell>
 	<cell>35</cell>
 </row>
 <row>
 	<cell>3</cell>
-	<cell>300-90</cell>
+	<cell>300 -- 90</cell>
 	<cell>210</cell>
 </row>
 <row>
 	<cell>5</cell>
-	<cell>50-15</cell>
-	<cell>35</cell>
+	<cell>50 -- 15</cell>
+	<cell><hi rend="underline">35</hi></cell>
 </row>
 <row>
-	<cell> </cell>
-	<cell> </cell>
-	<cell>322</cell>
+	<cell/>
+	<cell/>
+	<cell><hi rend="underline">322</hi></cell>
 </row>
 </table></p>
   </body>

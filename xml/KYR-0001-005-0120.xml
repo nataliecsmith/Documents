@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0120"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,16 +63,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky <date when="1865-11-13">Nov 13. 1865</date>
-<lb/>Jas R Page Esq
+   <p>Louisville Ky <date when="1865-11-13">Nov 13, 1865</date>
+<lb/>Jas R Page Esqr
 <lb/>Dr Sir</p>
 <p>Please send <hi rend="underline">requisition</hi>, in the case of Com'th vs W<hi rend="underline"><hi rend="sup">m</hi></hi> George to Governor of Ohio with Thos Slator as Agent -- directing the warrant to be sent to me or to <hi rend="underline">Thos Slator</hi> of this place as soon as convenient and oblige</p>
 <p>Yrs vry truly J R Dupuy
 <lb/>Com' atty -- <pb/></p>
-<p>Requisition on Governor of Ohio for W<hi rend="sup">m</hi> George &amp; Grand Larceny
+<p>Requisition on Governor of Ohio for W<hi rend="sup">m</hi> George
+<lb/>&amp; Grand Larceny
 <lb/>Jefferson Cir Ct
 <lb/><hi rend="str">&amp;</hi>
-<lb/>Thos Slator appt<hi rend="sup">d</hi>. Agent <date when="1865-11-15">15 Nov/ 65</date>
+<lb/>Thos Slator appt<hi rend="underline"><hi rend="sup">d</hi></hi> Agent
+<lb/><date when="1865-11-15">15 Nov/65</date>
 <lb/></p>
   </body>
  </text>

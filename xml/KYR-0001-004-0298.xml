@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0298"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Millerstown, Grayson County, Kentucky</placeName>
+    <placeName>Grayson County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -63,21 +66,21 @@
    <p>Millerstown
 <lb/>Grayson County
 <lb/>Ky
-<lb/>M<hi rend="sup">r</hi> Ja<hi rend="sup">s</hi>. R. Page
-<lb/>Dear Sir</p>
-<p>I Re<hi rend="sup">d</hi> a Note from you in regard to M<hi rend="sup">r</hi> Ja<hi rend="sup">s</hi>. T. Howard<hi rend="underline"><hi rend="sup">s</hi></hi> Case</p>
-<p>not giving the name of the officer who tried the case nor the County in which the offence was Commited.</p>
-<p>The officer was Benjamin Wheler <hi rend="str">Esq</hi> Justice of the peace in &amp; for the County of Grayson &amp; state of Ky. The offence was commited in the County of Grayson &amp; Town of Millerstown I intended to have writen a letter for M<hi rend="underline"><hi rend="sup">r</hi></hi> Howard but did not get to see him untill after the petition was gone -- as he Howard cannot write, I do not wish to influence the <hi rend="underline">Hon</hi> Governor to do anything but what I know or beleave would be rite, but in this case I do think he would do rite &amp; Justice to remit the fine, for Several reasons one is he ^Howard^ is a Loyl a citizen as their is in Ky whilst all Those engaged on the opposite side are as noted Rebels as their is in Ky -- Howard is a member of a home guard has sholdered his Musket by day &amp; Night to defend <hi rend="str">the</hi> his Neighbours, &amp; this &amp; other similar circumstances was the cause of the difficulty all the circumstances if necessary can be given I shall not attem^p^t it as I have not been requested to do so, I remain Yours</p>
-<p>E. Mills<pb/></p>
+<lb/>M<hi rend="underline"><hi rend="sup">r</hi></hi> Ja<hi rend="underline"><hi rend="sup">s</hi></hi> R. Page
+<lb/>Dear sir</p>
+<p>I Re<hi rend="sup">d</hi> a Note from you in regard to M<hi rend="underline"><hi rend="sup">r</hi></hi> <hi rend="underline">Ja</hi><hi rend="underline"><hi rend="sup">s</hi></hi> <hi rend="underline">T</hi>. <hi rend="underline">Howard</hi><hi rend="underline"><hi rend="sup">s</hi></hi> Case not giving the name of the officer who tried the case nor the County in which the offence was Commited,</p>
+<p>The officer was Benjamin Wheler <hi rend="str">Esq</hi> Justice of the peace in &amp; for the County of Grayson &amp; state of Ky -- The offence was commited in the County of Grayson &amp; Town of Millerstown I intended to have writen a letter for M<hi rend="underline"><hi rend="sup">r</hi></hi> Howard but did not get to see him untill after the petition was gone -- as he Howard Cannot write, I do not wish to influence the <hi rend="underline">Hon</hi> Governor to do anything but what I know or beleave would be rite, but in this case I do think he would do rite &amp; Justice to remit the fine, for <hi rend="underline">Several</hi> <hi rend="underline">reasons</hi> one is he ^Howard^ is as Loyl a citizen as their is in Ky whilst all those engaged on the opposite side are as noted Rebels as their is in Ky -- Howard is a member of a home guard has sholdered his Musket by day &amp; Night to defend <hi rend="str">the</hi> his <hi rend="underline">Neighbours</hi>, &amp; this &amp; other similar circumstances was the Cause of the <hi rend="underline">difficulty</hi> all the circumstances if necessary can be given I shall not attempt it as I have not been requested to do so,</p>
+<p>I remain Yours
+<lb/>E, Mills<pb/></p>
 <p>Grayson Co
 <lb/>vs
 <lb/>James T. Howard
 <lb/>Breach Peace
-<lb/>$15 -- 
-<lb/>Remitted <date when="1863-11-07">7th Nov/ 63</date></p>
-<p>Remit all except fees &amp; costs
-<lb/>Tho E Bramlette
-<lb/>Govr</p>
+<lb/>&#36;15 -- 
+<lb/>Remitted <date when="1863-11-07">7<hi rend="sup">th</hi> Nov/63</date></p>
+<p>Remit all except fees &amp; costs</p>
+<p>Tho E Bramlette
+<lb/>Gov</p>
   </body>
  </text>
 </TEI>

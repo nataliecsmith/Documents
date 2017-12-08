@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0140"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,13 +64,13 @@
  <text>
   <body>
    <p>State of Kentucky
-<lb/>Franklin County } Sct</p>
-<p>I Th. N. Lindsey do solemnly swear that I will support the Constitution of the United States and the Constitution of the State and be faithful and true to the Commonwealth of Kentucky so long as I continue a citizen thereof &amp; that I will faithfully execute to the best of my abilities the office of Paymaster General of the Militia of the Commonwealth of Kentucky according to law and I do further solemnly swear that since the adoption of the ^present^ Constitution I being a Citizen of this State have not fought a duel with deadly weapons within this State nor out of it with a citizen of this State; nor have I accepted or sent a challenge to fight a duel with deadly weapons with a citizen of this State nor have I acted as a second as carrying a challenge or aided and assisted any person thus offending so help me God<pb/>
+<lb/>Franklin County &#125; Sct</p>
+<p>I Th N Lindsey do solemnly swear that I will support the Constitution of the United States and the Constitution of the State and be faithful and true to the Commonwealth of Kentucky so long as I continue a citizen thereof &amp; that I will faithfully execute to the best of my abilities the office of Paymaster General of the Militia of the Commonwealth of Kentucky according to law and I do further solemnly swear that since the adoption of the ^present^ Constitution I being a Citizen of this State have not fought a duel with deadly weapons within this State nor out of its with a citizen of this state; nor have I accepted or sent a Challenge to fight a duel with deadly weapons with a citizen of this State nor have I acted as second as carrying a challenge or aided and assisted any person thus offending so help me God<pb/>
 <lb/>and I further swear that I will well and truly execute and obey the legal order of all officers legally placed over me when on duty</p>
 <p>Th N Lindsey</p>
-<p>Sworn to before the undersigned Examiner of Frankly County</p>
-<p><date when="1861-10-08">Oct 8 1861</date>
-<lb/>W Franklin Examiner
+<p>sworn to before the undersigned Examiner of Franklin County
+<lb/><date when="1861-10-08">Oct 8 1861</date></p>
+<p>W Franklin Examiner
 <lb/>Franklin Co Ky</p>
   </body>
  </text>

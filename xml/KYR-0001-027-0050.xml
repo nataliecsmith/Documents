@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0050"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,16 +66,16 @@
    <p>Hd. Qrs. Dept. of the Ohio
 <lb/>Cin. O. <date when="1862-10-06">Oct. 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date>.
 <lb/>Sir,</p>
-<p>I am directed by the General Commanding to say, in reply to your letter of <date when="1862-10-03">Oct. 3<hi rend="underline"><hi rend="sup">d</hi></hi></date>, that he has no control over paroled prisoners: they come under charge of the Commissary Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of prisoners, at Detroit, Mich.</p>
+<p>I am directed by the General Commanding, to say, in reply to your letter of <date when="1862-10-03">Oct. 3<hi rend="underline"><hi rend="sup">d</hi></hi></date>, that he has no control over paroled prisoners; they come under charge of the Commissary Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of prisoners, at Detroit, Mich.</p>
 <p>Camp Chase is the appointed rendezvous, for all paroled prisoners, belonging to regiments from Kentucky, (see Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Order, War Dept. N<hi rend="underline"><hi rend="sup">o</hi></hi> 72.1862) and the establishment of such a camp as you propose, near Louisville, is not in his power.</p>
 <p>Very Respectfully,
-<lb/>Your Ob<hi rend="underline"><hi rend="sup">dt</hi></hi> Sert.
+<lb/>Your Obd<hi rend="underline"><hi rend="sup">t</hi></hi> Sevt.
 <lb/>T. L. Hayden A. D. C.</p>
 <p>Hon J. F. Robinson
 <lb/>Gov. of Kentucky<pb/></p>
-<p>Prisoners &amp;c
-<lb/>From Genl. Wright
-<lb/>Cincinnati
+<p>Prisoners &amp;c</p>
+<p>From Genl Wright
+<lb/>Cincinnati.
 <lb/>No Ans required</p>
   </body>
  </text>

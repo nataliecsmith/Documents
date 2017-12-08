@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0082"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,15 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p><note place="body">Private</note>
-<lb/>Harrodsburg Ky
-<lb/><date when="1865-02-23">Feby 23 -- 65</date> -- 
-<lb/>My dear Gov -- </p>
+   <p>Private</p>
+<p>Harrodsburg Ky
+<lb/><date when="1865-02-23">Feby 2<hi rend="str">2</hi>3 -- 65</date> -- 
+<lb/>My dear Gov-</p>
 <p>Our <hi rend="underline">hands</hi> at suppressing guerillas are becoming to be great nuisances and almost every one is in dread of them -- They drink shoot &amp; kill whenever they please -- The Chief refuses to recognize the authority of the Provost Marshall and says they have as much right to drink &amp; carouse as citizens,</p>
 <p>Burns' course is approved by all, and unless he has power over Lawsons men, we had as well be without troops<pb/>
-<lb/>what we want is this Go to Lindsey and make him issue an order to ^Lawson to^ obey all commands given by the Provost Marshall <hi rend="str">and</hi> in reference to the police regulations of the Tower -- and above all things make him keep his men from whiskey shops &amp; from indiscriminate firing around Town -- </p>
-<p>See to this immediately as we shall certainly look for <hi rend="underline">orders</hi> <hi rend="underline">by</hi> <hi rend="underline">return</hi> <hi rend="underline">mail</hi> -- Of course you can see the propriety of keeping this private</p>
-<p>I write this at Capt Burns request and are satisfied something must be done or we are worse than<pb/>
+<lb/>W we want is this Go to Lindsey and make him issue an order to Lawson to obey all commands given by the Provost Marshall <hi rend="str">and</hi> in reference to the police regulations of the Town -- and above all things make him keep his men from whiskey shops &amp; from indiscriminate firing around Town -- </p>
+<p>See to this immediately as we shall certainly look for <hi rend="underline">orders</hi> <hi rend="underline">by</hi> <hi rend="underline">return</hi> <hi rend="underline">mail</hi> -- Of course you can see the propriety of Keeping this private</p>
+<p>I write this at Capt Burns request and am satisfied something must be done or we are worse than<pb/>
 <lb/>than if we were at the mercy of guerillas</p>
 <p>All well at home &amp; at your house -- </p>
 <p>I read your letter to Cardwell last night -- </p>
@@ -81,7 +84,7 @@
 <lb/>Gaither Nat.<figure type="hr"/><hi rend="underline">
 <lb/></hi>To The Gov.<figure type="hr"/></p>
 <p>See Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Lindsey &amp; have an order issued to stop Lawsons men from drinking whiskey, &amp; shooting guns in town. Also to obey all commands given him by Pro. Mar. in reference to police regulations of the town.<figure type="hr"/></p>
-<p>See Special Orders
+<p>see Special Orders
 <lb/>No 15 -- <date when="1865">1865</date><figure type="hr"/>
 <lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-02-24">24 Feby 1865</date></p>
   </body>

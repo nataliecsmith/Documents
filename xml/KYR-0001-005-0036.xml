@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0036"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,17 +64,17 @@
  <text>
   <body>
    <p>State of Kentucky
-<lb/>Mercer County } affidavit</p>
-<p>M. V. Bowen states on oath that he is the jailer of Mercer County, &amp; has been such for more than one year last past. -- He states that Capt Jn<hi rend="sup">o</hi>. D Hale a few days after the charge of rescue of John Patterson was made against him, &amp; a few days after the occurance &amp; charge made, came with s<hi rend="underline"><hi rend="sup">d</hi></hi> John Patterson and delivered him over to the civil authority of Mercer County Ky, and placed him in my custody as Jailer of Mercer County, &amp; I released him and he was from thence taken to the Jail of Franklin County, &amp; has been since bailed out with good &amp; sufficient bail</p>
+<lb/>Mercer County &#125; affidavit</p>
+<p>M. V. Bowen states on oath that he is the jailer of Mercer County, &amp; has been such for more than one year last past.- He states that Capt Jn<hi rend="sup">o</hi>. D Hale a few days after the charge of rescue of John Patterson was made against him, &amp; a few days after the occurance &amp; charge made, came with s<hi rend="sup">d</hi>. John Patterson and delivered him over to the civil authority of Mercer County Ky, and placed him in my custody as Jailer of Mercer County, &amp; I recieved him and he was from thence taken to the Jail of Franklin County, &amp; has been since bailed out with good &amp; sufficient bail.</p>
 <p>M. V. Bowen</p>
-<p>Sworn to before me by M. V. Bowen this <date when="1864-06-20">20<hi rend="sup">th</hi> June 1864</date>.</p>
+<p>Sworn to before me by M. V. Bowen this <date when="1864-06-20">20<hi rend="sup">th</hi> June 1864</date>,</p>
 <p>J W Cardwell N. P.
 <lb/>Mercer Co Ky</p>
 <p><stamp type="revenue"/><note place="stamp">J W C
 <lb/>N P
 <lb/><date when="1864-06-20">20 Jun 1864</date></note><pb/></p>
 <p>M. V. Bowen
-<lb/>Affidavit</p>
+<lb/>affidavit</p>
   </body>
  </text>
 </TEI>

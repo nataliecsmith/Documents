@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0047"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,25 +63,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>Nashville, Tenn.
-<lb/><date when="1864-09-20">Sep<hi rend="sup">t</hi>. 20<hi rend="underline"><hi rend="sup">th</hi></hi>. 1864.</date>
+   <p>Nashville, Tenn,
+<lb/><date when="1864-09-20">Sep<hi rend="sup">t</hi>, 20<hi rend="underline"><hi rend="sup">th</hi></hi>, 1864.</date>
 <lb/>To his Excellency
 <lb/>Governor Bramlett,
-<lb/>Sir.</p>
-<p>I am informed that Col, Watts, and Surgeon Finley of the 2<hi rend="underline"><hi rend="sup">d</hi></hi> K.Y. Cav'l, recommended myself to you for the position Asst. Surgeon in there Regiment. I would therefore respectfully ask if a commission for Said position has been forwarded from your office, and if so to whom was it Sent.</p>
+<lb/>Sir,</p>
+<p>I am informed that Col, Watts, and Surgeon Finley of the 2<hi rend="underline"><hi rend="sup">d</hi></hi> K,Y, Cav'l, recommended myself to you for the position Ass't, Surgeon in there Regiment. I would therefore respectfully ask if a commission for Said position has been forwarded from your office, and if So to whom was it Sent,</p>
 <p>I have the honor to be very Respectfully 
 <lb/>your obediant Servant.
-<lb/>S. J. Layman,
-<lb/>Act'g Ass't, Surg U. S. A.
-<lb/>Nashville, Tenn.</p>
+<lb/>S, J, Layman,
+<lb/>Act'g, Ass't, Surg. U. S. A.
+<lb/>Nashville,
+<lb/>Tenn,</p>
 <p>address
-<lb/>P. O. Box 86.<pb/></p>
-<p>2
-<lb/>Nashville Tenn
+<lb/>P, O, Box 86,<pb/></p>
+<p>Nashville Tenn
 <lb/><date when="1864-09-20">Sept 20" 1864.</date><figure type="hr"/>
 <lb/>Layman S. J.
 <lb/>A. A. Surg.<figure type="hr"/></p>
-<p>says he is informed that Col Watts and surg. Finley recommended him to position of Asst Surg. of their regt. Desires to know if a commission for said position has been forwarded and to whom sent -- <figure type="hr"/></p>
+<p>says he is informed that Col Watts and Surg. Finley recommended him to position of Asst Surg. of their regt. Desires to know if a commission for said position has been forwarded and to whom sent -- <figure type="hr"/></p>
 <p>L B N<hi rend="sup">o</hi> 6 -- <date when="1864">1864</date> P. 489<figure type="hr"/>
 <lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-09-22">Sept 22" 1864.</date></p>
   </body>

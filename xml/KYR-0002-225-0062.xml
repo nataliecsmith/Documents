@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0062"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -66,18 +69,18 @@
 <lb/>Proprietors.
 <lb/><cb n="2"/>Cor Sixth &amp; Main Str.
 <lb/>LOUISVILLE KY.
-<lb/><milestone unit="column" n="1"/><date when="1864-10-19">Oct 19<hi rend="sup">th</hi> 1864</date>
+<lb/><milestone unit="column" n="1"/><date when="1865-10-19">Oct 19<hi rend="sup">th</hi> 1865</date>
 <lb/>Govnr Thomas E. Bramlett
 <lb/>Dear Sir</p>
-<p>Our mutual friend Mr Berchatt informs me that when the State Troops leave his sexion of the County that it will be imposible to enforce civil law and in addition the lives of some of the best Citizens will be in great danger from outlaws I have recently visited that sexion of the County and am fully satisfied if the people are not protected that many of them will be compelled to leave the County allow me to suggest the propriety of ^Your^ stationing twenty five or thirty good &amp; true men at Some Central point with orders to scout and protect the Citizens of Clinton Waine &amp; Cumberland Counties
+<p>Our mutual friend Mr Berchett informs me that when the State Troops leave his sexion of the County that it will be imposible to enforce civil law, and in addition the lives of some of the best Citizens will be in great danger, from outlaws. I, have recently visited that sexion of the County and am fully satisfied if the people are not protected that many of them will be compelled to leave the County, allow me to suggest the propriety of ^Your^ stationing twenty five or thirty good &amp; true men, at Some Cintral point with orders to scout and protect the Citizens of Clinton Waine &amp; Cumberland Count<hi rend="str">y</hi>ies
 <lb/><note place="footer">(over)</note><pb/>
-<lb/>and afford assistance to the Sheriffs and other civil officers in arresting outlaws,, I hope <hi rend="str">you</hi>it will be in your power to comply with the wishes of your Friends.</p>
-<p>Very Respectfully
+<lb/>and afford assistance to the Sheriffs and other civil officers, in arresting outlaws, I, hope <hi rend="str">you</hi>it will be in your power, to comply with the wishes, of your Friends,</p>
+<p>very Respectfully
 <lb/>E, H, Hobson</p>
-<p>Louisville, <date when="1865-10-19">Oct. 19/65</date><figure type="hr"/>
-<lb/>Hobson Gen. E. H. To Gov.<figure type="hr"/></p>
+<p>Louisville, <date when="1865-10-19">Oct. 19/65.</date><figure type="hr"/>
+<lb/>Hobson, Gen. E. H. To Gov.<figure type="hr"/></p>
 <p>Introducing Mr. Burchett, and stating that troops are necessary in Clinton county.<figure type="hr"/></p>
-<p>Rec I. G. O. <date when="1865-10-24">Oct 24/65</date></p>
+<p>Rec I. G. O. <date when="1865-10-24">Oct 24/'65</date></p>
   </body>
  </text>
 </TEI>

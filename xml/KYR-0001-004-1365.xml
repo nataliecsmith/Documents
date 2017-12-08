@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1365"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Columbus Tate et al. to Thomas E. Bramlette</title>
+    <title level="a" type="main">Columbus Tate to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG6002</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,27 +64,27 @@
  <text>
   <body>
    <p>State of Kentucky
-<lb/>County of Bourbon } Sct:
+<lb/>County of Bourbon &#125; Sct:
 <lb/>To his Excellency
 <lb/>Tho. E Bramlett
-<lb/>Gov<hi rend="sup">r</hi>. Ky</p>
-<p>Your Petitioner Columbus Tate would respectfully represent that Geo Stoker (a free man of color) was at the <date when="1861-04">April Term 1861</date> Indicted in two instances for selling spirituous Liquors, that on the <date when="1862-04-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> April 1862,</date> your petitioner became the surety on 2 Recognisance' for the said George appearance at the <date when="1863-04">following April</date> term of the Bourbon Circuit Court, that on the 1<hi rend="sup">st</hi> day of <date when="1863-04">said April</date> Term. he in person brought the said George into Court &amp; delivered him up to the sheriff B. f. Pullen, the cases were continued &amp; no further recognisance was required of the said George -- your petitioner after delivering said George to the court thinking that he had fully discharged his obligation upon said bonds went home -- That at the <date when="1864-10">Oct,<hi rend="sup">o</hi> Term 1864</date> of said court Judgment was rendered against him (your petitioner) in said cases for $100. each. Your petitioner Respectfully asks your Excellency to remit said Judgments (or fines) that said George is now<pb/>
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Ky</p>
+<p>Your Petitioner Columbus Tate would respectfully represent that Geo Stoker (a free man of color) was at the <date when="1861-04">April Term 1861</date> Indicted in two instances for selling spirituous Liquors, that on the <date when="1862-04-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> April 1862,</date> Your petitioner became the surety on 2 Recognisance' for the said George appearance at the <date when="1863-04">following April</date> term of the Bourbon Circuit Court, that on the 1<hi rend="sup">st</hi> day of <date when="1863-04">said April</date> Term, he in person brought the said George into Court &amp; delivered him up to the sheriff B. f. Pullen, the cases were continued &amp; no further recognisance was required of the said George-- your petitioner after delivering said George to the court thinking that he had fully discharged his obligation upon said bonds went home -- That at the <date when="1864-10">Oct<hi rend="underline"><hi rend="sup">o</hi></hi> Term 1864</date> of said court Judgment was rendered against him (your petitioner) in said cases for &#36;100. each. Your petitioner Respectfully asks your Excellency to remit said Judgments (or fines) that said George is now<pb/>
 <lb/>&amp; has been ever since the Indictments were found against him in Bourbon County.</p>
 <p><hi rend="underline">Columbus Tate</hi></p>
-<p>we the undersigned would respectfully state that we are well acquainted with the petitioner Columbus Tate who is an humble good citizen has a large family of children dependent upon his labor for support, has but little means &amp; a hard laboring man, honest quiet &amp; industrious. &amp; that his case is one worthy the interposition of your Excellency, which we respectfully ask on his behalf -- </p>
-<p>R J Brown C B Co</p>
+<p>we the undersigned would respectfully state that we are well acquainted with the petitioner Columbus Tate who is an humble good citizen has a large family of children dependent upon his labor for support, has but little means &amp; a hard laboring man, honest quiet &amp; industrious. &amp; that his case is one worthy the interposition of your Excellency, which we respectfully ask on his behalf--</p>
+<p>R J <hi rend="underline">Brown</hi> C B Co</p>
 <p>The boy "George stoker" was brought into court &amp; delivered up to me as then S B C by the petitioner as he has stated</p>
-<p>We the undersigned respectfully ask for for the fine to be remitted,</p>
-<p>A, J, Thomson
-<lb/><hi rend="str"><unclear/></hi> J Pullen late SBC
+<p>We the undersigned respectfully ask for the fine to be remitted,</p>
+<p>A, S, Thomson
+<lb/><hi rend="str"><unclear/></hi>. f Pullen late S B C
 <lb/>W W Alexander
 <lb/>O. V Talbott
 <lb/>P <unclear>Hail</unclear>
 <lb/>Allen Bashford
 <lb/>J. Ed Ray
-<lb/>R W Hutchcraft
+<lb/><hi rend="underline">R W Hutchcraft</hi>
 <lb/>R S Henderson
-<lb/>Saml Rule Jailor BC</p>
+<lb/>Sam<hi rend="sup">l</hi> Rulo Jailor B C</p>
 <p>Bourbon Cir Ct
 <lb/>vs
 <lb/>Columbus Tate

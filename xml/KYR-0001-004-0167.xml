@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0167"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,29 +65,29 @@
   <body>
    <p>To his Excellency Governor Bramlett,
 <lb/>Frankfort Kentucky</p>
-<p>We, the undersigned Petitioners would respectfully inform your Excellency that at the <date when="1861-04">April Term of the Harlan Circuit Court 1861</date>, Francis Pace, a citizen of this county was convicted of the Crime of Bigomy and sentenced to three years confinement in the Kentucky Penitentiary We inform Your Excellency that at the time He was convicted He was very young very ignorant and very poore had but few friends had no counsel and in fact, He did not know what plea or what proof was necessary to Acquit him. We farther inform Your Excellency that we believe He was not guilty as charged and that if He had been tried fairley He would not of been convicted, but even should He be guilty we think Two years and Six month at hard labor is severe <hi rend="str">a</hi> Punishment enought to satisfy the Commonwealth for the crime. We have never seen but one woman who said she was his wife and if He had any other we think, she is satisfied with his absence and denies his being her husband.</p>
-<p>We hope your Excellency will extend to the poor and needy <hi rend="str">that</hi> a Degree of Charaty which is vested in you by the Constitution.</p>
-<p>We tharefore Hope and peition Your Excellency to pardon the said Pace,</p>
+<p>We, the undersigned Petitioners would respectfully inform Your Excellency that at the <date when="1861-04">April Term of the Harlan circuit Court 1861</date>, Francis Pace, a citizen of this county was convicted of the Crime of Bigomy and sentenced to Three years confinement in the Kentucky Penitentiary We, inform Your Excellency that at the time He was convicted He was verry young verry ignorant and verry poore, had but few Friends, had no counsel and in fact, He did not know what plea or what proof was necessary to Acquit him. We further inform Your Excellency that we, believe He was not guilty as charged and that if He had been tried fairley He would not of been convicted, but even should He be guilty we think Two years and Six Month at hard labour is severe <hi rend="str">a</hi> Punishment enought to satisfy the Commonwealth for the crime-- We have never seen but one Woman who said she was his wife and if He had any other We think she is satisfied with his absence and denies his being her husband -- </p>
+<p>We, hope your Excellency will extend to the poor and needy <hi rend="str">that</hi> a Degree of Charaty which is vested in you by the Constitution.</p>
+<p>We tharefore Hope and petition your Excellency to pardon the said Pace,</p>
 <p>Leonard Farmer
-<lb/>John Jones Jr
+<lb/>John Jons Jr
 <lb/>William Clem
-<lb/>Lewis Fanner
-<lb/>Hy Jenning (Jailer)
-<lb/>W. T. C. Farmer
-<lb/>Lewis Farmer Sr
-<lb/>Jos Farmer
+<lb/>Lewis Farmer
+<lb/>Hy Jennings (Jailer)
+<lb/>W<hi rend="sup">m</hi>. C. Farmer
+<lb/>Lewis Farmer Jr
+<lb/>Jo<hi rend="sup">s</hi>. Farmer
 <lb/>Speed Jones
-<lb/>J<hi rend="sup">no</hi> Lim Sr.<pb/></p>
+<lb/>J<hi rend="sup">no</hi> <unclear>Jones</unclear> sr.<pb/></p>
 <p>Harlan Cir Ct
 <lb/>vs
 <lb/>Francis Pace
 <lb/>Bigomy
 <lb/>Pardoned
-<lb/><date when="1863-10-26">26<hi rend="sup">th</hi> Oct/ 63</date></p>
+<lb/><date when="1863-10-26">26<hi rend="sup">th</hi> Oct/63</date></p>
 <p><date when="1863-10-26">Oct 26<hi rend="sup">th</hi> 1863</date></p>
-<p>This petition contains no sufficient reason for executive clemency. Where unjust convictions is relied upon, the evidence must be set forth that the Gov<hi rend="sup">r.</hi> may form his own judgement; the application was rejected but from the rerpesentations and upon application of Col. Jas Garrard, Esq Powell &amp; the Keeper of the Penitentiary, a pardon is ordered.</p>
+<p>This Petition contains no sufficient reason for executive clemency. Where unjust conviction is relied upon, the evidence must be set forth that the Gov<hi rend="underline"><hi rend="sup">r</hi></hi> may form his own judgement; the application was rejected but from the representations and upon application of Co<hi rend="underline"><hi rend="sup">l</hi></hi> Jas Garrard, Esq Powell &amp; the Keeper of the Penitentiary, a pardon is ordered.</p>
 <p>Tho E Bramlette
-<lb/>Govr of Ky</p>
+<lb/>Gov<hi rend="sup">r</hi> of Ky</p>
   </body>
  </text>
 </TEI>

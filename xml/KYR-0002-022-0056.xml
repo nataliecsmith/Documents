@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0056"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,18 +66,18 @@
    <p>Berry Station Ky.
 <lb/><date when="1865-07-06">July 6<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
 <lb/>To his Excellency the Governor of Kentucky</p>
-<p>Sir as there are a company of County Guards, to be raised for the County of harrison for the term of one or three Years and there are no person attempting to recruit and organize the same, by the Solicitation of many Soldiers and citizens of Said County I hereby ask permission to raise and organize Said Company. I can give references the best men we have. If there are any person acting in regard to this matter I do not know it I believe Sir that I can make the company Soon, and immediately goin to Camp.</p>
+<p>Sir as there are a company of County Guards. to be raised for the County of harrison for the term of one or three Years. and there are no person attempting to recruit and organize the same. by the Solicitation of many Soldiers and citizens of Said County I thereby ask permission to raise and organize Said Company, I can give refrences the best men we have. If there are any person acting in regard to this matter I do not know it I believe Sir that I can make the Company Soon. and immediately goin to Camp.</p>
 <p>Sir I have the honor
 <lb/>To be Your Obdt. Servt.
-<lb/>James H. Hargis
-<lb/>Clerk Co..C. 55<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Infy vols.<pb/></p>
+<lb/>James. H, Hargis
+<lb/>Clerk Co. C. 55<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Infy vols.<pb/></p>
 <p>Berry's Station, Harrison
 <lb/><date when="1865-07-06">July 6<hi rend="sup">th</hi>, '65</date><figure type="hr"/>
 <lb/>Hargis, James H.
-<lb/>To Govenor.<figure type="hr"/>
-<lb/>Proposes to recruit a Co. for National Legion in Harrison County.<figure type="hr"/>
-<lb/>An. <date when="1865-07-12">July 12<hi rend="sup">th</hi>, 65.</date> Let. Book B. 255<figure type="hr"/>
-<lb/>Rec. In. Gen Off <date when="1865-07-08">July 8<hi rend="sup">th</hi>, 65</date></p>
+<lb/>To Govenor.<figure type="hr"/></p>
+<p>Proposes to recruit a Co. for national Legion in Harrison County.<figure type="hr"/></p>
+<p>An. <date when="1865-07-12">July 12<hi rend="sup">th</hi>, 65.</date> Let. Book B. 255<figure type="hr"/>
+<lb/>Rec. In. Gen- Off. <date when="1865-07-08">July 8<hi rend="sup">th,</hi> 65</date></p>
   </body>
  </text>
 </TEI>

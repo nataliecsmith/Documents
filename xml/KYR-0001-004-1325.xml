@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1325"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,11 +66,11 @@
    <p>Greenville Ky <date when="1864-11-29">Nov 29, 1864</date>
 <lb/>Gov Bramlette:
 <lb/>Dear Sir:</p>
-<p>Inclosed you will receive the petition of R. Sullivan, endorsed and concurred in by the Judge, the officers and attys of the court, and other worthy citizens, for the remission, by your Excellency, of five judgments against him, lately rendered in the Muhlenberg Circuit Court, on forfeited bail bonds</p>
-<p>R. Sullivan, the petitioner, is a good man and an excellenct citizen. He is a conservative, Constitutional Union man -- opposed to all radicalism and sectionalism, and, for his devotion to these principles, he has, like many others, been oppressed &amp; harassed. It would break him up to pay the judgments. His wife is dead, and an afflicted son, unable to do any thing, and a young daughter, besides other children are dependent on him</p>
+<p>Inclosed you will receive the petition of R. Sullivan, endorsed and concurred <hi rend="str">by</hi> in by the Judge, the officers and attys of the court, and other worthy citizens, for the remission, by your Excellency, of five judgments against him, lately rendered in the Muhlenberg Circuit Court, on forfeited bail bonds</p>
+<p>R. Sullivan, the petitioner, is a good man and an excellenct citizen. He is a conservative, Constitutional Union man- opposed to all radicalism and sectionalism, and, for his devotion to these principles, he has, like many others, been oppressed &amp; harassed. It would break him up to pay the judgments. His wife is dead, and an afflicted son, unable to do any thing, and a young daughter, besides other children are dependent on him</p>
 <p><hi rend="str">He</hi> Other &amp; numerous signatures to the petition could have been obtained, but I thought he had enough</p>
 <p>I hope his case will commend itself to your clemency. It was but natural in him to bail his son. The latter had not lived with his father for years. Three of the forgeries charged consisted in his signing the names of his co obligors in a note, on which judgment had been<pb/>
-<lb/>rendered against all, to a replevin bond, <hi rend="str">replevin</hi> in replevying the execution on said judgment. One of these had been his employer -- had raised him in his store -- and there had been a usage, tacitly, if not expressly, sanctioned by all for any one of them as principal in a judgment to sign the names of his sureties to the bond replevying the same. The other two forgeries charged purported to be reciepts of the attys for plffs in executions in the hands of the sheriff, <hi rend="str">and</hi> delivered to the sheriff after the return day ^of the execution^ and never credited and never actually received by the sheriff as in payment or satisfaction of the executions.</p>
+<lb/>rendered against all, to a replev<hi rend="str">y</hi>in bond, <hi rend="str">replevin</hi> in replevying the execution on said judgment. One of these had been his employer- had raised him in his store. and there had been a usage, tacitly, if not expressly, sanctioned by all, for any one of them <hi rend="str">to</hi>as principal in a judgment to sign the names of his sureties to the bond replevying the same. The other two forgeries charged purported to be reciepts of the attys <hi rend="str">w</hi>for plffs in executions in the hands of the sheriff, <hi rend="str">and</hi> delevered to the sheriff after the return day ^of the execution^ and never credited and never actually received by the sheriff as in payment or satisfaction of the executions.</p>
 <p>I have gone thus briefly into the case, so that you might consider all the points.</p>
 <p>I am, with much respect, yours &amp;c
 <lb/>Charles Eaves</p>

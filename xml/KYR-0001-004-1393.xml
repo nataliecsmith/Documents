@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1393"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,23 +65,21 @@
    <p>His Excellency Gov
 <lb/>Thos E Bramlette,
 <lb/>Sir,</p>
-<p>At the present <date when="1864-12">December Term 1864,</date> David Whitehouse -- was convicted under two indictments -- for selling liquor to two minors -- one John Cure -- the other C. Sandford -- On the trial of Cure -- defendant produced and served by the Father of John Cure -- that in the year <date when="1862">1862</date> -- he had given Dr Whitehouse a written authority to sell his sons Ferdinand and John whatever they wanted. Whitehouse kept a Tavern and would not permit the boys to drink liquor without the order -- which the father gave -- The Judge construed the law that there must be written authority for <hi rend="underline">every</hi> sale -- that a <hi rend="underline">general</hi> authority would not shield the defendant and therefore he was fined -- and immediately repleived the debt -- </p>
-<p>Precisely the same state of facts extended as to C. Sandford under the same circumstances he was fined $50 -- in each case -- the undersigned John F. Fisk defendant -- and the undersigned J. R Hallam prosecuted as Commonwealth ProTem -- We think this a fair case for Executive Clemency -- Evidently the Sandford and both the parents did what they thought was a compliance with the law</p>
+<p>At the present <date when="1864-12">December Term 1864</date>, David Whitehouse-- was convicted under two indictments for selling liquor to two Minors-- one John Cure-- the other C. <unclear>Sandfass</unclear>-- On the trial of Cure-- defendant produced and proved by the Father of John Cure-- that in the year <date when="1862">1862</date> -- he had given Dr Whitehouse a written authority to sell his sons Ferdinand and John Whatever they wanted. Whitehouse kept a Tavern and would not permit the boys to drink liquor without the order -- which the father gave -- The Judge construed the law-- that there must be written authority for <hi rend="underline">every</hi> sale -- that a <hi rend="underline">general</hi> authority would not shield the defendant and therefore he was fined-- and immediately replevied the debt -- </p>
+<p>Precisely the same state of facts existed as to C. <unclear>Sandfass</unclear>-- under the same instructions he was fined &#36;50 -- in each case-- the undersigned John F. Fisk defendant-- and the undersigned J. R Hallam prosecuted as Commonwealth Pro Tem -- We think this a fair case for Executive Clemency, Evidently the Landlord and both the parents did what they thought was a compliance with the law -- </p>
 <p>John F, Fisk</p>
 <p>I make no recommendation but the facts are correctly set out in the above</p>
 <p>J. R. Hallam
-<lb/>comlths attorney -- 
-<lb/>pro tem<pb/></p>
+<lb/>Comlths attorney pro tem<pb/></p>
 <p>Kenton Cir Ct
 <lb/>vs
-<lb/>John F. Fisk and
-<lb/>J. R. Hallam
+<lb/>John F. Fisk and J. R. Hallam
 <lb/>D. Whitehouse</p>
-<p>To } Statement for Dr. Whitehouse</p>
-<p>Gov Bramlette<figure type="hr"/>
-<lb/>Remit &amp; hand to Senator Fisk -- 
-<lb/>T E B
-<lb/>2 Judgts
+<p>To &#125; Statement for Dr. Whitehouse
+<lb/>Gov Bramlette<figure type="hr"/></p>
+<p>Remit &amp; hand to Senator Fisk -- </p>
+<p>T E B
+<lb/>2 Judgts.
 <lb/><date when="1865-01-13">13<hi rend="sup">th</hi> Jany/65</date></p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0132"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,13 +65,13 @@
   <body>
    <p>WESTERN UNION TELEGRAPH COMPANY.<figure type="hr"/>
 <lb/>No. 1.] TERMS AND CONDITIONS ON WHICH MESSAGES ARE RECEIVED BY THIS COMPANY FOR TRANSMISSION.</p>
-<p>The public are notified that, in order to guard against mistakes in the transmission of messages, every message of importance ought to be repeated, by being sent back from the station at which it is to be received, to the station from which it is originally sent. Half of the usual price for transmission will be charged for repeating the message; and while this Comapny will, as heretofore, use every precaution to ensure correctness, it will not be responsible for mistakes or delays in the transmission or delivery of repeated messages, beyond an amount exceeding five hundred times the amount paid for sending the message; nor will it be responsible for mistakes or delays in the transmission of unrepeated messages from whatever cause they may arise, nor for delays arising from interruptions in the working of its Telegraphs, nor for any mistake or omission of any other Company, over whose lines a message is to be sent to reach the place of destination. All messages will hereafter be received by this Company for transmission, subject to the above conditions.</p>
+<p>The public are notified that, in order to guard against mistakes in the transmission of messages, every message of importance ought to be repeated, by being sent back from the station at which it is to be received, to the station from which it is originally sent. Half the usual price for transmission will be charged for repeating the message; and while this Company will, as heretofore, use every precaution to ensure correctness, it will not be responsible for mistakes or delays in the transmission or delivery of repeated messages, beyond an amount exceeding five hundred times the amount paid for sending the message; nor will it be responsible for mistakes or delays in the transmission of unrepeated messages from whatever cause they may arise, nor for delays arising from interruptions in the working of its Telegraphs, nor for any mistake or omission of any other Company, over whose lines a message is to be sent to reach the place of destination. All messages will hereafter be received by this Company for transmission, subject to the above conditions.</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>A. STAGER, Gen. Sup't, Cleveland, Ohio.
 <lb/><cb n="2"/>I. R. ELWOOD, Sec'y, Rochester, N. Y.<milestone unit="column" n="1"/><figure type="hr"/></p>
 <p><date when="1861-08-23">August 23rd 186<hi rend="str">0</hi>1</date>.
 <lb/>To Gov. Magoffin
 <lb/>By Telegraph, from Paducah <date when="1861">186<hi rend="str">0</hi>1</date>.</p>
-<p>All the Steam Boats at this point were sent up Tennessee River last night. This morning at daylight Federal Gun Boat Lexington was again cruising in front of the city and in the mouth of the Tennessee River, sent Boat ashore to enquire after the steam Boats and whether there were any cannon or Small arms to defend the city. she is said to be now lying below the city. I shall go to Cairo as you requested.</p>
+<p>All the Steam Boats at this point were sent up Tennessee River last night. This morning at daylight Federal Gun-Boat Lexington was again cruising in front of the city and in the mouth of Tennessee River, sent Boat ashore to enquire after the steam Boats and whether there were any cannon or Small arms to defend the city, she is said to be now lying below the city. I shall go to Cairo as you requested</p>
 <p>John. M. Johnson</p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0563"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,9 +63,10 @@
  </teiHeader>
  <text>
   <body>
-   <p><orgName ref="cwgk:O00002422">Western Lunatic Asylum of Ky</orgName>.,<lb/><placeName ref="cwgk:P00002431">Hopkinsville</placeName>, <gap/>, 186<gap/>.
-<lb/>Hon <persName ref="cwgk:N001004">J. F, Robinson</persName> Gov<hi rend="sup">r</hi> of <orgName ref="cwgk:O001025">Ky</orgName></p>
-<p>Allow me to present <persName ref="cwgk:N00002481">J S, M, Bernard</persName> of this city to your excellency, with whom he has business. A favorable consideration of Mr Bernards matter will be a source of gratification to a number of your <hi rend="str">political</hi> friends in Hopkinsville. Mr B is a gentleman eminently worthy of your excellencys kindly offices in his behalf</p>
+   <p>Western Lunatic Asylum of Ky.,
+<lb/>Hopkinsville, <gap/>, 186<gap/>.
+<lb/>Hon J. F, Robinson Gov<hi rend="sup">r</hi> of Ky</p>
+<p>Allow me to present J, S, M, Bernard of this city to your e<hi rend="str">x</hi>scellency, with whom he has business, A favorable consideration of Mr Bernards matter will be a source of gratification to a number of your <hi rend="str">political</hi> friends in Hopkinsville. Mr B is a gentleman eminently worthy of your excellencys Kindly offices in his behalf</p>
 <p>Resptly yr servt
 <lb/><hi rend="underline">Jas</hi> <hi rend="underline">Rodman</hi></p>
   </body>

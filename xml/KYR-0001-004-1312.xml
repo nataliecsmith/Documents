@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1312"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,16 +66,15 @@
    <p>State of Kentucky
 <lb/>Trigg County Court
 <lb/>November term <date when="1864-11-14">14 Novr. 1864</date></p>
-<p>On motion of W<hi rend="sup">m</hi> Baker &amp;C. who made proof to the Satisfaction of the Court that they are merchants in good faith it is ordered that they have a License to Sell Spiritous liquors at their Store at Roaring Spring in quantities provided by law, Whereupon they paid the tax and fees imposed by law,</p>
+<p>On motion of W<hi rend="sup">m</hi> Baker &amp; Co who made proof to the Satisfaction of the Court that they are merchants in good faith it is ordered that they have a License to Sell Spiritous liquors at their Store at Roaring Spring in quantities provided by law, Whereupon they paid the tax and fees imposed by law,</p>
 <p>A Copy
-<lb/>Att C, C, Hooks c, T c, c,<pb/></p>
+<lb/>Att <hi rend="underline">C, C, Hooks</hi> C, T, C, C,<pb/></p>
 <p>To All Whom It may consern</p>
-<p>Mr. W. B. Baker &amp; Co of Roaring Spring Trigg Co Ky is hereby granted Coffee house license one year from date for the consideration of fifty dollars Given under our hands this <date when="1864-11-15">15<hi rend="sup">th</hi> day of November 1864</date></p>
+<p>Mr. W. B. Baker &amp; Co of Roaring Spring Trigg Co Ky is hereby granted Coffee house license one year from date for the consideration of fiftey dollars Given under our hands this <date when="1864-11-15">15<hi rend="sup">th</hi> day of November 1864</date></p>
 <p>D. H. M<hi rend="sup">c</hi>Kennon
 <lb/>F. M Stephens
 <lb/>J. W. Miller</p>
-<p>Trustees of
-<lb/>Roaring Spring</p>
+<p>Trustees of Roaring Spring</p>
   </body>
  </text>
 </TEI>

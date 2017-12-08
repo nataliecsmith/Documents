@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0091"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,17 +64,18 @@
  <text>
   <body>
    <p>Office Louisville Courier.
-<lb/><date when="1861-02-25">Feby 20<hi rend="sup">th</hi> 1861.</date>
-<lb/>Gov. Magoffin: -- </p>
-<p>A personal friend of mine, D<hi rend="underline"><hi rend="sup">r</hi></hi> Mandeville Thum of this city is ambitious of becoming an aid of the Governor. Knowing him to be a gentleman in the true sense of the word, and one who would do honor to the position, I dare solicit the appointment from you.</p>
+<lb/><date when="1861-02-25">Feby 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1861.</date>
+<lb/>Gov. Magoffin:-</p>
+<p>A personal friend of mine, D<hi rend="underline"><hi rend="sup">r</hi></hi> Mandeville Thum of this city is ambitious of becoming an <hi rend="underline">aid</hi> of the Governor. Knowing him to be a gentleman in the true sense of the word, and one who would do honor to the position, I dare solicit the appointment from you.</p>
 <p>I am assured my dear Governor you will pardon the request, since it serves my friend and attaches him to you.</p>
 <p>Your friend
 <lb/><hi rend="underline">Walter Overton</hi><pb/></p>
 <p>Aid<figure type="hr"/>
-<lb/>D<hi rend="sup">r</hi>. M Thum</p>
+<lb/>D<hi rend="underline"><hi rend="sup">r</hi></hi> M Thum
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-03-02">Mar. 2. 1861</date></p>
 <p>Issue Commission
-<lb/>B.M</p>
-<p>Iss<hi rend="sup">d</hi>. <date when="1861-03-02">Mar. 2. 1861</date></p>
+<lb/>B. M
+<lb/></p>
   </body>
  </text>
 </TEI>

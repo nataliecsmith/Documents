@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0075"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -67,33 +70,28 @@
 <lb/>THOMAS E. BRAMLETTE,
 <lb/>GOVERNOR OF SAID COMMONWEALTH.
 <lb/>To all whom these Presents shall come, Greeting:</p>
-<p>Know Ye, That John M Chambers having been duly appointed to the office of Colonel In the sixtieth (60) Regiment of Kentucky Militia organized under the Acts of the General Assembly of the Commonwealth:</p>
+<p>Know Ye, That John M. Chambers having been duly appointed to the office of Colonel In the sixtieth (60) Regiment of Kentucky Militia organized under the Acts of the General Assembly of the Commonwealth:</p>
 <p>NOW KNOW YOU, That, by the powers vested in me by the Constitution and Laws of said State, and reposing special trust and confidence in your patriotism, valor, fidelity, and ability, I do, by these presents Commission you as Colonel as aforsaid, for the term prescribed by law unless sooner discharged, upon condition that you take the oath indorsed hereon, within ten days from receipt hereof, sending a certificate thereof to General Headquarters; and I do hereby authorize and require you to discharge, all and singular, the duties and services appertaining to your said office, aggreably to law and general regulations, and to obey such orders and instructions, as you shall, from time to time, receive from your superior officers.</p>
 <p><figure type="seal"><ab>SEAL OF KENTUCKY
 <lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
-<p>In Testimony Whereof, I have hereunto set my name, and caused the seat of the State of Kentucky to be affixed, at Frankfort, the <date>seventeenth day of November, in the year of our Lord one thousand eight hundred and sixty=three</date> and in the seventy=fourth year of the Commonwealth.</p>
+<p>In Testimony Whereof, I have hereunto set my name, and caused the seal of the State of Kentucky to be affixed, at Frankfort, the <date when="1863-11-17">seventeenth day of November, in the year of our Lord one thousand eight hundred and sixty=three</date> and in the seventy=fourth year of the Commonwealth.</p>
 <p>Tho E Bramlette
 <lb/>BY THE GOVERNOR:
-<lb/>E. L. Vanwinkle, <hi rend="italic">Secretary of State.</hi></p>
-<p>Commonwealth Office -- WM. E<hi rend="underline"><hi rend="sup">S</hi></hi>HUGHES, State Printer.
-<lb/>By Jas R Page
-<lb/>Asst Sec<pb/></p>
-<p>OATH.<figure type="hr"/>
-<lb/>I do solemnly swear, that I will support the Constitution of the United States and the Constitution of this State, and be faithful and true to the Commonwealth of Kentucky, so long as I continue a citizen thereof, and that I will faithfully execute, to the best of my abilities, the office of <gap/> according to law; and I do further solemnly swear, that since the adoption of the present Constitution, I being a citzen of this State, have not fought a duel with deadly weapons, within this State nor out of it, with a citzen of this State; nor have I sent or accepted a challenge to fight a duel with deadly weapons, with a citizen of this State; nor have I acted as second in carrying a challenge, or aided or assisted any person thus offending -- so help me God.</p>
-<p><gap/></p>
-<p><hi rend="italic">Subscirbed and sworn to before me, a Justice of the Peace for</hi> <gap/> <hi rend="italic">County, Kentucky, this</hi> <gap/> <hi rend="italic">day of</hi> <gap/>, 186<gap/>.</p>
-<p><gap/>
-<lb/>Justice of the Peace<figure type="hr"/>
-<lb/>Head Quarters Ky State Militia
-<lb/>Frankfort <date when="1864-02-23">Febry. 23. 1864</date>
-<lb/>60 Reg <hi rend="underline">Kenton</hi><figure type="hr"/>
-<lb/>Respectfully referred to Adjutant Gen<hi rend="sup">l</hi> John Boyle. for cancelments</p>
+<lb/>E. L. Vanwinkle, Secretary of State.</p>
+<p>By Jas R Page
+<lb/>Asst Sec</p>
+<p>Commonwealth Office -- WM. E. HUGHES, State Printer.<pb/></p>
+<p>Head Quarters Ky State Militia
+<lb/>Frankfort <date when="1864-02-23">Febry. 23. 1864</date></p>
+<p>60 Reg
+<lb/>Kenton<figure type="hr"/></p>
+<p>Respectfully referred to Adjutant Gen<hi rend="underline"><hi rend="sup">l</hi></hi> John Boyle. for cancelments</p>
 <p>D W Lindsey
-<lb/>Insp Gen<hi rend="sup">l</hi> of Ky<figure type="hr"/>
-<lb/>Cancel
+<lb/>Insp Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of Ky,<figure type="hr"/></p>
+<p>Cancel
 <lb/><hi rend="underline">Boyle</hi></p>
-<p>1.2.3<figure type="hr"/>
-<lb/><unclear/>G.O 24" <date when="1864-02">Feby 1864</date></p>
+<p>1. 2. 3<figure type="hr"/>
+<lb/><unclear/> G. O <date when="1864-02-24">24" Feby 1864</date></p>
   </body>
  </text>
 </TEI>

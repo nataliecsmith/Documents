@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1332"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,19 +63,19 @@
  <text>
   <body>
    <p>T E Bramlette Governor of Kentucky</p>
-<p>I David Schroeder would respectfully state that on the <gap/> day of <gap/> <date when="1863">1863</date> I happened by chance to be in the Jefferson Circuit Court in Louisville Ky when an acquaintance of mine by name W<hi rend="underline"><hi rend="sup">m</hi></hi> Salzmann was required to give bail in the sum of $600 to answer a charge of setting fire to his own store. I had known him several years -- did not believe him guilty At his request I without receiving therefor became security for him in said sum. He remained for some time thereafter in Louisville. Suddenly he disappeared and when his case was called he did not appear. The recognizance was forfeited, and on the <gap/> day of <date when="1864-05">May 1864</date> the Com<hi rend="sup">th</hi> of Kentucky recovered judgment on same against me for said Sum of $600 with costs. Execution has issued on said judgment and is now in the hands of the sheriff: I have a little property and but little. If so much be taken as will pay said judgment my family must suffer.</p>
-<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> Salzmann is now and has been as I verily believe for about one year a soldier in the 12 Reg<hi rend="sup">t</hi> Michigan Volunteers in the service of the United States. I present herewith as part hereof two affedavits for the purpose of Showing where he is and the pains I have taken to procure his appearance. I am informed Salzmann enlisted by name of W<hi rend="sup">m</hi> Smith. I pray your Excellency to remit the judgment and release me from paying said judgment. and as in duty bound I will ever pray &amp;c</p>
-<p>David Schroeder</p>
-<p>Subscribed and sworn to before me this <date when="1864-11-29">29 day of Nov 1864</date> by David Schroeder</p>
-<p>John J Quinn J. P. F. C
+<p>I David Schroeder would respectfully state that on the <gap/> day of <gap/> <date when="1863">1863</date> I happened by chance to be in the Jefferson Circuit Court in Louisville Ky when an acquaintance of mine by name W<hi rend="underline"><hi rend="sup">m</hi></hi> Salzmann was required to give bail in the sum of &#36;600 to answer a charge of setting fire to his own store. I had known him several years -- did not believe him guilty At his request I without receiving therefor became security for him in said sum. He remained for some time thereafter in Louisville. Suddenly he disappeared and when his case was called he did not appear, The recognizance was forfeited, and on the <gap/> day of <date when="1864-05">May 1864</date> the Com<hi rend="sup">th</hi> of Kentucky recovered judgment on same against me for said Sum of &#36;600 with costs. Execution has issued on said judgment and is now in the hands of the sheriff: I have a little property and but little. If so much be taken as will pay said judgment my family must suffer.</p>
+<p>W<hi rend="underline"><hi rend="sup">m</hi></hi> Salzmann is now and has been as I verily believe for about one year a soldier in the 12 Reg<hi rend="sup">t</hi> Michigan Volunteers in the service of the United States. I present herewith as part hereof two affedavits for the purpose of Showing where he is and the pains I have taken to procure his appearance, I am informed Salzmann enlisted by name of W<hi rend="sup">m</hi> Smith, I pray your Excellency to remit the judgment and release me from paying said judgment, and as in duty bound I will ever pray &amp;c</p>
+<p><unclear>David Schroeder</unclear></p>
+<p>Subscribed and sworn to before me this <date when="1864-11-29">29 day of Nov 1864</date> by David schroeder</p>
+<p>John J Quin J, P, F, C
 <lb/>over<pb/></p>
 <p>To the Governer</p>
-<p>David Schroeder who has signed the foregoing <hi rend="str">affidavit or</hi> petition is a near neighbor of mine I have known him for several years. When I first knew him he was regarded as a very worthy man. For two or three years last past the tide has been against him He offended some of the watchmen. and when they get after a poor fellow woe betide him. A <date when="1863-08">year ago last August</date> he got into a difficulty with a worthless drunken Irishman. and last spring he was tried found guilty and sent to the penitentiary. I was satisfied convinced at the time of the trial that his conviction was procured by perjury</p>
+<p>David Schroeder who has signed the foregoing <unclear><hi rend="str">affidavit</hi></unclear> petition is a near neighbor of mine I have known him for several years. When I first knew him he was regarded as a very worthy man. For two or three years last past the tide has been against him He offended some of the watchmen, and when they get after a poor fellow woe betide him, A <date when="1863-08">year ago last August</date> he got into a difficulty with a worthless drunken Irishman. and last spring he was tried found guilty and sent to the penitentiary. I was satisfied convinced at the time of the trial that his conviction was procured by perjury</p>
 <p>I do not know one man in Louisville who will more readily assist a fellow being in distress than this David Schroeder. I pray your Excellency to release him from the judgment</p>
 <p>Isaac R Greene</p>
-<p><stamp type="revenue"/><note place="stamp"><unclear/><unclear/><date when="1864">1864</date></note><pb/></p>
-<p>David Schroeders
-<lb/>petition</p>
+<p><stamp type="revenue"/><note place="stamp">J J Q
+<lb/><date when="1864-11-24">Nov 24 1864</date></note><pb/></p>
+<p>David Schroeders petition</p>
   </body>
  </text>
 </TEI>

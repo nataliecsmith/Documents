@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0064"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Kansas</placeName>
+    <placeName>Denver, Arapahoe County, Colorado</placeName>
     <date when="1861-01-15">15 January 1861</date>
    </creation>
    <textClass>
@@ -60,11 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p><unclear/> K T
+   <p>Denver K T
 <lb/><date when="1861-01-15">January 15<hi rend="sup">th</hi> 1861</date>
 <lb/>To his Excellency
 <lb/>Gov<hi rend="sup">r</hi> Macgoffin
-<lb/>Frankfort. Ky -- 
+<lb/>Frankfort, Ky -- 
 <lb/>Dear Sir</p>
 <p>I am desirous of being appointed a Commissioner for Your state for this City &amp; Territory -- </p>
 <p>Should it be necessary to furnish security &amp; Recommendations I shall be pleased to do so -- </p>
@@ -73,10 +76,10 @@
 <lb/>Your Obt Servt
 <lb/><hi rend="underline">A. H. Mayer</hi><pb/></p>
 <p>Kansas<figure type="hr"/>
-<lb/>Com<hi rend="sup">r</hi>. of Deeds
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>A H Mayer
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-02-06">Feby 6. 1861</date></p>
-<p>Issue Commission
+<p>Issue commission
 <lb/>B. M</p>
   </body>
  </text>

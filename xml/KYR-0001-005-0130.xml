@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0130"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,11 +67,11 @@
 <lb/>To the Governor of Kentucky</p>
 <p>Your Petitioner Thos Edwards states he is County Judge of Mercer County that James Lawson is indicted in the Mercer Circuit Court for feloniously murdering one "<hi rend="underline">Bud</hi>" Bosley &amp; has fled from justice &amp; is now running at large to the great terror of the good citizens of this Commonwealth</p>
 <p>The killing of Bosly by Lawson was without any provocation whatever &amp; was in law &amp; fact a most outrageous murder -- Lawson is a desperado who defies all law civil &amp; military</p>
-<p>The ends of justice cannot be satisfied without his arrest which cannot be accomplished without a reward of at least the full amount authorized by law being offered -- Peace has come but order cannot be restored till those who are lawbreakers are made to feel the penalties of the Law. I most humbly but most earnestly petition<pb/>
-<lb/>Your Excellency to offer a reward of Five Hundred Dollars for the apprehension of this despeate outlaw &amp; his delivery to the Jailer of Mercer County to answer this most flagrant Murder -- &amp; as in duty bound will ever pray &amp;<hi rend="sup">c</hi></p>
+<p>The ends of justice cannot be satisfied without his arrest which cannot be accomplished without a reward of at least the full amount authorized by law being offered- Peace has come but order cannot be restored till those who are lawbreakers are made to feel the penalties of the Law, I most humbly but most earnestly petition<pb/>
+<lb/>Your Excellency to offer a reward of <hi rend="underline">Five</hi> Hundred Dollars for the apprehension of this despeate outlaw &amp; his delivery to the Jailer of Mercer County to answer this most flagrant Murder -- &amp; as in duty bound will ever pray &amp;<hi rend="sup">c</hi></p>
 <p>Tho<hi rend="sup">s</hi> Edwards
 <lb/>Presiding Judge of Mercer County</p>
-<p>Reward of $300.
+<p>Reward of &#36;300.
 <lb/>Jas Lawson for murder of Bud Bosley
 <lb/>Mercer Co
 <lb/><date when="1865-11-23">23<hi rend="sup">d</hi> Nov/65</date></p>

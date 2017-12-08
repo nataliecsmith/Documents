@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0092"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,23 +64,24 @@
  <text>
   <body>
    <p>State of New York</p>
-<p>City &amp; County of New York ss: Thomas Darlington being duly sworn says that he will well and truly execute and perform all the duties of his station as a Commissioner of Deeds for Kentucky resident in New York.</p>
-<p><hi rend="underline">Thomas Darlington</hi></p>
+<p>City &amp; County of New York ss:</p>
+<p>Thomas Darlington being duly sworn says that he will well and truly execute and perform all the duties of his station as a Commissioner of Deeds for Kentucky resident in New York.</p>
+<p>Thomas Darlington</p>
 <p>Subscribed &amp; Sworn to this <date when="1861-02-26">26<hi rend="sup">th </hi>day of February A.D. 1861</date> before me in the City of New York</p>
 <p>Moses B. Maclay
 <lb/>Kentucky Commissioner
-<lb/>in the city of New York
-<lb/><figure type="seal"><ab>MOSES E. MACLAY
+<lb/>in the City of New York</p>
+<p><figure type="seal"><ab>MOSES B. MACLAY
 <lb/>COMMISSIONER
 <lb/>KENTUCKY
-<lb/><unclear/></ab></figure></p>
+<lb/><unclear/> YORK</ab></figure></p>
 <p><figure type="seal"><ab>THOMAS DARLINGTON
 <lb/>NEW YORK
 <lb/>COMMISSIONER</ab></figure></p>
 <p>Copy of seal of Thomas Darlington<pb/></p>
 <p>New. York.<figure type="hr"/>
-<lb/>Oath of Thos. Darlington
-<lb/>Com<hi rend="sup">r</hi>. of Deeds
+<lb/>Oath of Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Darlington
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>Filed <date when="1861-03-02">Mar. 2. 1861</date></p>
   </body>
  </text>

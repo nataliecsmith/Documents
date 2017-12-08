@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0200"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Commonwealth of Kentucky v. Susan Parker and W. Watkins, Indictment</title>
+    <title level="a" type="main">Commonwealth of Kentucky v. Susan Parker and W. Watkins, Judgment</title>
     <title level="a" type="parallel">CWG4319</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Franklin County, Kentucky</placeName>
-    <date>n.d.</date>
+    <date when="1862-06">June 1862</date>
    </creation>
    <textClass>
     <keywords>
@@ -61,23 +64,22 @@
  <text>
   <body>
    <p>Franklin Circuit Court
-<lb/><date when="1862-06">June Term 1862</date></p>
-<p>The Commonwealth
-<lb/>vs
+<lb/><date when="1862-06">June Term 1862</date>
+<lb/>The Commonwealth
+<lb/>vs &#125; Judgment against defendants for &#36;60<hi rend="underline"><hi rend="sup">00</hi></hi> each for Tipling house
 <lb/>Susan Parker &amp; W Watkins</p>
-<p>Judgment against defendants for $60<hi rend="sup">00</hi> each for Tipling house</p>
 <p>Att
-<lb/>W Franklin C F C C
-<lb/><hi rend="str">Respited Twelve</hi><pb/></p>
-<p>Watkins has served his county well; has suffered for his loyalty greatly, has recently been plundered and robbed and has done the county the good service of killing James Keller the murderer of Maj.Wileman and his own plunderer I therefore order remission of the fine except fees &amp; costs</p>
-<p><date when="1863-10-27">Oct 27<hi rend="sup">th</hi> 1863</date>.
-<lb/>Tho E Bramlette
-<lb/>Gov<hi rend="sup">r</hi>. of Ky</p>
+<lb/>W Franklin C f C C</p>
+<p><hi rend="str">Respite twelve months</hi><pb/></p>
+<p>Watkins has served his country well; has suffered for his loyalty greatly- has recently been plundered and robbed and has done the County the good service of killing James Keller the murderer of Maj. Wileman and his own plunderer I therefore order remission of the fine except fees &amp; costs
+<lb/><date when="1863-10-27">Oct 27<hi rend="sup">th</hi> 1863</date>.</p>
+<p>Tho E Bramlette
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of Ky</p>
 <p>Franklin Cir Ct
 <lb/>vs
 <lb/>W. Watkins
 <lb/>Tipling
-<lb/>$60 -- </p>
+<lb/>&#36;60 -- </p>
   </body>
  </text>
 </TEI>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0127"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">George W. Johnson to Anne E. V. Johnson</title>
+    <title level="a" type="main">George W. Johnson to Ann E. V. Johnson</title>
     <title level="a" type="parallel">CWG14417</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,13 +62,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>To Genl Breckenridge I want everything found in my clothes. I have never have assumed a position in regard to our public difficulties ^which was not^ sustained by the judgement of the people. I wanted personal honor and political liberty and Constitutional State Government, and for these I drew the sword, and until those terms could be secured either ^by^ negotiation or <hi rend="str">on the</hi> dictated from the field of battle, of course we could have no other duty than to remain at our post</p>
-<p>George W. Johnston
-<lb/>Provisional Governor of Ky</p>
+   <p>to Genl Breckenridge I want every thing found in my clothes. I have never have assumed a position in regard to our public difficulties <hi rend="str">to be</hi> which was not sustained by the Judgement of the people. I wanted personal honor and political liberty and Constitutional state Government, and for these I drew the sword, and until those terms could be secured either by negotiation or <hi rend="str">on the</hi> dictated from the field of battle, of course we could have no other duty than to remain at our post</p>
+<p>George W Johnston
+<lb/>Provisional governor
+<lb/>of Ky</p>
 <p>Anne E Johnston
 <lb/>Georgetown Ky<pb/></p>
-<p>My wife knows how well I love her and she needs no message from to tell her how I love her </p>
-<p>I wanted <hi rend="str">and</hi> my ^wife &amp; children^ to make duty to God and man the rule of this conduct</p>
+<p>my wife knows how well I love her and she needs no message from to tell her how I love her </p>
+<p>I wanted <hi rend="str">and</hi> my ^wife &amp;^ children to make duty to God and man the rule of their conduct</p>
   </body>
  </text>
 </TEI>

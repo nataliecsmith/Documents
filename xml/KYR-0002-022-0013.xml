@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0013"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,30 +63,30 @@
  </teiHeader>
  <text>
   <body>
-   <p>Head Quarters 40<hi rend="sup">th</hi> Reft. Kentucky Militia
-<lb/>Hickman <date when="1864-01-27">January 27<hi rend="sup">th</hi>. 1864</date>.
+   <p>Head Quarters 40<hi rend="sup">th</hi> Regt. Kentucky Militia
+<lb/>Hickman <date when="1864-01-27">January 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.
 <lb/>General D. W. Lindsey
 <lb/>Inspector General of Ky.
 <lb/>General.</p>
-<p>The great irregularity in the arrival and departure of the mails from this place, arising from the impressment of the steamboats generally, in addition to the confusion of the times, will explain the seeming remissness on my part in not reponding to your letter under date of the <date when="---12">12<hi rend="sup">th</hi> inst</date>. The fact is, it was only received per last night's mail.</p>
-<p>Meanwhile, I have communicated my action in reference to the confused return of the Election for Major in the 2<hi rend="sup">d</hi> Bat. As you will see by reference to my report, I ordered another Election. None however was held, as no voters appeared, consequently, I recommended the appointment of W M Buckner Esq. by the Governor. So that, there has been no response.</p>
-<p>By the same mail which brought me your official communication, I received a letter from Ward Boyd Esq. advising me, that he declined the appointment, and that he had so advised the Govenor. I enclose his declination herewith.</p>
-<p>As the Militia law is very imperfect, and as there are no Battalion officers, to whom the duty of subdividing them into companies could be assigned. <hi rend="str">those such as yet</hi> no such elections have as yet been ordered. Indeed, the act of so doing will be superogatory or rather indeed useless. The people will give no hand to<pb/>
-<lb/>them. Besides, there are no men whose appointment, I either could or would recommend. Under these circumstances, what is to be done? My only answer is, amend the Law, so as to compel a draft, an ordering out of the militia by His Excellency, the Governor, and an immediate organization when they meet at their respective places of rendevous.</p>
-<p>Armed with the powers of the Commonwealth and sustained by the Rules and Articles of War. I will organize my force, though they were devils not from hell, instead of beggarly sympathizers of a rebellion, which they even have been wanting in courage, actively to support by personal service.</p>
+<p>The great irregularity in the arrival and departure of the mails from this place, arising from the impressment of the steamboats generally, in addition to the confusion of the times, will explain the seeming remissness on my part in not responding to your letter under date of the <date when="1864-01-12">12<hi rend="sup">th</hi> inst</date>. The fact is, it was only received per last night's mail.</p>
+<p>Meanwhile, I have communicated my action in reference to the confused return of the Election for Major in the 2<hi rend="sup">d</hi> Bat. As you will see by reference to my report, I ordered another Election. None however was held, as no voters appeared, consequently, I recommended the appointment of W Frs Buckner Esq, by the Governor. To that, there has been no response.</p>
+<p>By the same mail which brought me your official communication, I received a letter from Ward Boyd Esq, advising me, that he declined the appointment, and that he had so advised the Govenor. I enclose his declination herewith.</p>
+<p>As the Militia law is very imperfect, and as there are no Battalion officers, to whom the duty of subdividing them into companies could be assigned, <hi rend="str">those such as yet</hi> no such elections have as yet been ordered. Indeed, the act of so doing will be superogatory or rather, indeed, useless. The people will give no heed to<pb/>
+<lb/>them. Besides, there are no men whose appointment, I either could or would recommend. Under these circumstances, what is to be done? My only answer is, amend the Law, so as to compel a draft, an ordering out of the militia by His Excellency, the Governor, and an immediate organization when they meet at their respective places of rendezvous.</p>
+<p>Armed with the powers of the Commonwealth and sustained by the Rules and Articles of War, I will organize my force, though they were devils hot from hell, instead of beggarly sympathizers of a rebellion, which they even have been wanting in courage, actively to support by personal service.</p>
 <p>I shall be under obligations, if you will hold me advised of the action of the Legislature, as speedily as practicable.</p>
 <p>With great respect
 <lb/>Your Obt Servt
-<lb/>G. C Hallet
+<lb/>G. C. Hallet
 <lb/>Col Comdg. 40<hi rend="sup">th</hi> Reg<hi rend="sup">t</hi> Ky. M<pb/></p>
 <p>Head Quarters 40<hi rend="underline"><hi rend="sup">th</hi></hi> E. M.
 <lb/>Hickman <date when="1864-01-27">Jany 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
-<lb/>Col Hallet excuses delay in organizing his County and encloses declination of Maj. Ward Boyd<figure type="hr"/>
+<lb/>Col Hallet excuses delay in organizing his County and encloses declination of Maj Ward Boyd<figure type="hr"/>
 <lb/>40 Fulton
 <lb/>Insp Gen<hi rend="underline"><hi rend="sup">ls</hi></hi> Office
-<lb/><date when="1864-02-02">Feby 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 1864</date><figure type="hr"/>
-<lb/>Ward Boyd's Commission as Maj Ordered canceled on letter to the Gov and Col Hallet notified <hi rend="str">this day</hi> Jany 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1864.<figure type="hr"/>
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> I. G. O. Feby 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 1864</p>
+<lb/><hi rend="str">Jany 27</hi><hi rend="underline"><hi rend="str"><hi rend="sup">th</hi></hi></hi><date when="1864-02-02">Feby 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 1864</date><figure type="hr"/>
+<lb/>Ward Boyd's Commission as Maj Ordered canceled on letter to the Gov and Col Hallet notified <hi rend="str">this day</hi> <date when="1864-01-30">Jany 30<hi rend="underline"><hi rend="sup">th</hi></hi> 1864.</date><figure type="hr"/>
+<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> I. G. O. <date when="1864-02-02">Feby 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 1864</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1416"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,36 +63,36 @@
  <text>
   <body>
    <p>To his Excellency B Magoffin, Govenor of Kentucky</p>
-<p>The undersigned Petitioners would most respectfully state one L O Murray of this County, was indited by the Grand Jury for keeping a tippling house, and at the August term of the Bracken Circuit Court was tried and fined Sixty Dollars -- they state that said Murray is a very poor man, has a large family, of small and helpless children to support, and altho he technically violated the law, so that the jury were compelled to find him quilty, your petitioners believe that he did not intend a violation, and think it is a case in which your Excellencys clemency ought to be exercised -- we therefor petition you to release said fine, so far as you have it in your power to do. </p>
+<p>The undersigned Petitioners would most respectfully state one L O Murray of this County, was indited by the Grand Jury for keeping a tippling house, and at the August term of the Bracken Circuit Court was tried and fined Sixty Dollars -- they state that said Murray is a very poor man, has a large family, of small and helpless children to support, and altho he technically violated the law, so that the jury were compelled to find him quilty, your petitioners believe that he did not intend a violation, and think it is a case in which your Excellency's clemency ought to be exercised -- we therefor petition you to release said fine, so far as you have it in your power to do. </p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Names 
-<lb/>C. H. Lee
+<lb/>C, H, Lee
 <lb/>Thos Carrigan
-<lb/>John W M<hi rend="sup">c</hi>Elfirst
+<lb/>John W <unclear>McElfirst</unclear>
 <lb/>Franklin Metcalfe
 <lb/>Abraham Davis -- 
 <lb/>William Watkins
 <lb/>John Schoolfield
 <lb/>J. R. Swan
 <lb/>William W Poe
-<lb/>G. W. Hamilton
+<lb/>G W. Hamilton
 <lb/>J. E. Simms
-<lb/>G. P. Fresh
+<lb/>G, P, Fresh
 <lb/>W<hi rend="sup">m</hi> Marshall
-<lb/>Davis Wayne
+<lb/>David Wayne
 <lb/>Christopher Tate
-<lb/>Milton Davis
+<lb/>Milton Tevis
 <lb/><cb n="2"/>Names
 <lb/>Jacob Walker
 <lb/>John Best
-<lb/>John Carlin
+<lb/>John Cavlin
 <lb/>W<hi rend="sup">m</hi> Williams 
 <lb/>R, H, Ware
-<lb/>A. G. M<hi rend="sup">c</hi>Donald
+<lb/>A, G, M<hi rend="sup">c</hi>Donald
 <lb/>Phillip Mains
-<lb/>W. M. Faulconer
+<lb/>W, M, Faulconer
 <lb/>W<hi rend="underline">m</hi> Black
-<lb/>Luk Fleed
-<lb/>J. J. Schoolfield
+<lb/>Luk Flood
+<lb/>J. J, Schoolfield
 <lb/>Ed Williams
 <lb/>Henry C. Weaver
 <lb/>D. J. Wallin
@@ -99,43 +102,43 @@
 <lb/>Reuben Swan
 <lb/>John Tolbes
 <lb/>A Matthews
-<lb/>R A. Day
-<lb/>O M<unclear/>
-<lb/>E. J. Smarr
-<lb/>F. Powell
-<lb/>S W Norton
+<lb/>R. A. Day
+<lb/>O Morock
+<lb/>E. J. Swan
+<lb/>F, Powell
+<lb/>S W Norten
 <lb/>James D Williams
 <lb/>Jas, M, Mitchell
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Ginn
-<lb/>W Vickray
-<lb/>M. W. Flour
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> E. Clayton
-<lb/>S B Petterson
+<lb/>W Vickroy
+<lb/>M, W, Flour
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> E, Clayton
+<lb/>S B Patterson
 <lb/>Lewis P Knoedler
-<lb/>Alfred Manohan
+<lb/>Alfred Monohen
 <lb/>Wm Higgins
 <lb/>Josh Sellers
 <lb/>E Hunter
 <lb/>Joshua <unclear/>
-<lb/>H. P. M<hi rend="underline"><hi rend="sup">c</hi></hi>Mahon
+<lb/>H,, P, M<hi rend="underline"><hi rend="sup">c</hi></hi>Mahan
 <lb/>Jon Simpson
-<lb/>Saml. L. Marshall
+<lb/>Saml. L Marshall
 <lb/><hi rend="underline">Wiliam H. Smitson</hi>
-<lb/>P. H. Clayton
+<lb/>P, H, Clayton
 <lb/>J. S. Ryan
 <lb/>John A. Linn
-<lb/>Tho<hi rend="sup">s</hi>. B. Grigson
+<lb/>Tho<hi rend="sup">s</hi> B,, Grigson
 <lb/>John Melvin
-<lb/>John Barber
-<lb/>J. B. Clarke
+<lb/>John Barker
+<lb/>J, B, Clarke
 <lb/><cb n="2"/>Names</p>
-<p>I am acquainted with Mr Murry and the circumstances of his case and believe it is one of those cases that should be releaved by executive interference and recomd that the fine be remitted</p>
-<p><hi rend="underline">John N</hi> <hi rend="underline">Furber</hi>
-<lb/><date when="1861-09-03">Sept 3<hi rend="sup">rd</hi> 1861</date>
-<lb/>Ja<hi rend="sup">s</hi> E Armer
-<lb/>George O'neal
+<p>I am acquainted with Mr Murry and the circumstances of his case and believe it is one of those cases that should be released by executive interference and recomd that the fine be remitted
+<lb/><date when="1861-09-03">Sept 3<hi rend="sup">rd</hi> 1861</date></p>
+<p><hi rend="underline">John N</hi> <hi rend="underline">Furber</hi></p>
+<p>Ja<hi rend="sup">s</hi> E Armer
+<lb/>George <hi rend="underline">O'neal
 <lb/>W W Sells
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> R. Lord
+<lb/></hi>W<hi rend="underline"><hi rend="sup">m</hi></hi> R, Lord
 <lb/>John Owens
 <lb/>J J Hamilton
 <lb/>J Walker
@@ -143,25 +146,24 @@
 <lb/>Thomas M Crupper
 <lb/><unclear/> <unclear/>
 <lb/>Wm Gregg
-<lb/>George Hamilton
+<lb/>George, Hamilton
 <lb/>John. H. Smarr
-<lb/>N. D. Hutcherson
-<lb/>H. L. Davis
-<lb/>A. A. Hamilton
-<lb/>J. C. Burns
+<lb/>N. D. Hutcheson
+<lb/>H, L. Davis
+<lb/>A, A, Hamilton
+<lb/>J, C, Burns
 <lb/>James W. Wood
 <lb/>W. D Schoolfield
 <lb/>Thomas Morrison<pb/>
 <lb/><cb n="1"/>Names
 <lb/>John B M<unclear/>
-<lb/>S. H. Moore
+<lb/>S H Moore
 <lb/>W<hi rend="sup">m</hi>. D. Ratcliffe
 <lb/><cb n="2"/>Names<milestone unit="column" n="1"/><pb/></p>
 <p>Bracken Cir. Ct
-<lb/>$60 } Tipling
-<lb/>L. A. Murray
-<lb/>Remission Iss<hi rend="sup">d</hi>
-<lb/><date when="1861-09-17">Sept 17. 1861</date></p>
+<lb/>&#36;60. &#125; Tipling
+<lb/>L. O. Murray
+<lb/>Remission Iss<hi rend="sup">d </hi><date when="1861-09-17">Sept 17. 1861</date></p>
   </body>
  </text>
 </TEI>

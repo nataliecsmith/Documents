@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1535"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,17 +64,17 @@
   <body>
    <p>To His Excellency
 <lb/>B Magoffin</p>
-<p>Your Petitioner would most respectfully state that a judgement was rendered against him at the Spring Term of the Barren Circuit Court for the year <hi rend="underline">Eighteen Hundred and Sixty One</hi>, for the Sum of <hi rend="underline">Two Hundred Dollars</hi> on <hi rend="underline">Bail Bond</hi> entered into by your Petitioner, for the appearance of one <hi rend="underline">James White</hi> of Boyle County, Kentucky who was charged with stealing a shawl worth about Six Dollars. Your Petitioner Prays and will ever be greatful for the Remission of Said Amount as above specified</p>
-<p>Your Obt Servt
-<lb/>B. A. Wheat
-<lb/><date when="1861-11-27"><hi rend="underline">Nov 2</hi><hi rend="underline"><hi rend="str">6</hi></hi><hi rend="underline">7, 1861</hi></date></p>
+<p>Your Petitioner would most respectfully state that a judgement was rendered against him at the spring Term of the Barren Circuit Court for the year <date when="1861"><hi rend="underline">Eighteen Hundred and Sixty One</hi></date>, for the Sum of <hi rend="underline">Two Hundred Dollars</hi> on <hi rend="underline">Bail Bond</hi> entered into by your Petioner, for the appearance of one <hi rend="underline">James White</hi> of Boyle County, Kentucky who was charged with stealing a shawl worth about Six Dollars. Your Petitioner Prays and will ever be greatful for the Remission of Said Amount as above specified</p>
+<p>Your Obt Sevrt
+<lb/>B, A, Wheat</p>
+<p><date when="1861-11-27"><hi rend="underline">Nov 2</hi><hi rend="underline"><hi rend="str">6</hi></hi><hi rend="underline">7, 1861</hi></date></p>
 <p>Refer you to Pet<hi rend="sup">n</hi> of White heretofore filed</p>
 <p>B<pb/></p>
 <p>B. A. Wheat<hi rend="sup">s</hi> Pet<hi rend="sup">n</hi></p>
 <p>Remitted
-<lb/>B.M</p>
+<lb/>B. M</p>
 <p>Barren Cir. Ct
-<lb/>$200 } Bail Bond
+<lb/>&#36;200. &#125; Bail Bond
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-12-18">Dec<hi rend="sup">r</hi> 18. 1861</date></p>
   </body>
  </text>

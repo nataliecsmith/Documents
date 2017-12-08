@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0088"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">William T. Mellen to Robert Richardson</title>
+    <title level="a" type="main">William P. Mellen to Robert Richardson</title>
     <title level="a" type="parallel">CWG2436</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,16 +66,16 @@
    <p>Cincinnati <date when="1861-02-20">Feby 20 1861</date>
 <lb/>Hon. Robt Richardson
 <lb/>Covington Ky</p>
-<p>Dr Sir: I should like to be appointed a Commissioner for Kentucky for this state, I am not personally acquainted with Gov. M<hi rend="sup">c</hi>Goffin. Will you add another to the list of favors you have done me, by procuring this appointment for me.</p>
-<p>For the present I have a desk in F. D. Lincoln's office 8 Columbia St. where I shall be glad to see you whenever you are in Town.</p>
+<p>Dr Sir: I should like to be appointed a Commissioner for Kentucky for this state, I am not personally acquainted with Gov. M<hi rend="underline"><hi rend="sup">c</hi></hi>Goffin. Will you add another to the list of favors you have done me, by procuring this appointment for me.</p>
+<p>For the present I have a desk in T. D. Lincoln's office 8 Columbia St. where I shall be glad to see you whenever you are in Town.</p>
 <p>Very Truly Yours &amp;c
 <lb/>W<hi rend="sup">m</hi> P. Mellen</p>
-<p>I am personally acquainted with W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Mellen Esq. of Cincinnati O. and recommend him to Gov. Magoffin as a person morally and professionally well qualified to discharge the duties of a Commissioner of deeds of this State</p>
-<p><date when="1861-02-27">Feby. 27, 1861</date>
-<lb/>R: Richardson<pb/></p>
+<p>I am personally acquainted with W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Mellen Esq. of Cincinnati O. and recommend him to Gov. Magoffin as a person morally and professionally well qualified to discharge the duties of a Commissioner of deeds of this State
+<lb/><date when="1861-02-27">Feby. 27, 1861</date></p>
+<p>R: Richardson<pb/></p>
 <p>Ohio<figure type="hr"/>
-<lb/>Com<hi rend="sup">r</hi>. of Deeds
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Bellen
+<lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> P. Mellen
 <lb/>Cin
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-02-27">Feby 27 1861</date></p>
 <p>Issue Commission

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0144"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,83 +65,82 @@
   <body>
    <p>Bedford Trimble Co
 <lb/>Kentucky
-<lb/><date when="1863-10-06">Oct 6<hi rend="sup">th</hi> 1863</date>
+<lb/><date when="1863-10-06">Oct 6<hi rend="sup">th</hi> 1863 -- </date>
 <lb/>To His Excellency
-<lb/>Thos. E. Bramlette, Governor of the Commonwealth of Kentucky.</p>
-<p>Your petitioner Tho<hi rend="sup">s</hi> M<hi rend="sup">c</hi>Intosh would respectfully represent that at the <date when="--10">October term</date> of the Circuit Court of this county now being held, he was fined the sum of Ten Dollars &amp; costs, for defending himself against one James M. Robert, having ^been^ necesserily ^been^ bound to strike him, but inflicting no serious injury. Now therefore I pray you in consideration of the justifying circumstances of the case, and my deciptitude, and advanced age being about 70 years of age, to remit said fine; and as is duty bound will ever pray &amp; c &amp; c -- </p>
-<p>Tho<hi rend="sup">s</hi> M<hi rend="sup">c</hi>Intosh</p>
+<lb/>Thos. E. Bramlette, Governor of the Commonwealth of Kentucky-</p>
+<p>your petitioner Tho<hi rend="sup">s</hi> M<hi rend="underline"><hi rend="sup">c</hi></hi>Intosh would respectfully represent that at the <date when="--10">October term</date> of the circuit court of this county now being held, he was fined the sum of Ten Dollars &amp; costs, for defending himself against one James M. Roberts, having ^been^ neceasserily ^been^ bound to strike him, but inflicting no Serious injury. Now therefore I pray you in consideration of the justifying circumstances of the case, and my deciptitude, and advanced age being about 70 years of age, to remit said fine; and as in duty bound will ever pray &amp;c &amp; c -- </p>
+<p>Tho<hi rend="sup">s.</hi> M<hi rend="underline"><hi rend="sup">c</hi></hi>Intosh</p>
 <p>We the undersigned citizens of Trimble Co Kentucky join the above petitioner in his prayer &amp;c.</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>J. H. Lane
 <lb/>J R Lane
-<lb/>Jno Mullibine
+<lb/>J w Mul<unclear/>
 <lb/>J. H. Carracao
-<lb/>Jas Miller
-<lb/><cb n="2"/>
-<lb/>C W Avnoto
+<lb/>Jos Miller
+<lb/><cb n="2"/>C W Arnold
 <lb/>E Wilhart
-<lb/>S Electum
+<lb/>S E<unclear/>
 <lb/>M A Roberts
 <lb/>A M King<pb/>
 <lb/><cb n="1"/>John J Morgan
-<lb/>R G Anderson
-<lb/>L. F. Hopwood one of the Jury turn sympathe
+<lb/>R S Anderson
+<lb/>L, F. Hopwood one of the Jury. thru sympate
 <lb/>M. T. Abbott
 <lb/>James Duggis
-<lb/>M McCallister
+<lb/>M McColliste
 <lb/>John Roberts Sr
 <lb/>Clarkson Utley
-<lb/>R W Martenson
+<lb/>R W Marteson
 <lb/>C H Wheeler
 <lb/>W H Settles
-<lb/>Z M Hitt
+<lb/>Z. M Hitt
 <lb/>J. Y. Newkirk
-<lb/>M Whitaker
+<lb/>M. Whitaker
 <lb/>Willis Oliver
-<lb/>Thos Oliver
-<lb/>D S Lane
-<lb/>H. S. Fix
+<lb/>Tho<hi rend="sup">s</hi> Oliver
+<lb/>D. S. Lane
+<lb/>H, P, Fix
 <lb/>Jno. Roberts
 <lb/>J. P. Strother
 <lb/>W P <unclear>Morton</unclear>
-<lb/>W T Vorries
+<lb/>W S <unclear>Vines</unclear>
 <lb/>John Staples
 <lb/>P. R. Smith
 <lb/>E M Garnatt
 <lb/>H C Baker
-<lb/>W. J. Wright
+<lb/>W, J, Wright
 <lb/><cb n="2"/>A. Bain
 <lb/>J B Pierce
 <lb/>J T Shepherd
-<lb/>W Stratton
-<lb/>J S Greenwood
+<lb/>W, Stratton
+<lb/>I S Greenwood
 <lb/>E G Wright
-<lb/>J M Staten
-<lb/>James <unclear>Mann</unclear>
+<lb/>J. M. Staten
+<lb/>James <unclear/>
 <lb/>Thomas OBrian
 <lb/>A Whitaker
 <lb/>A Bell
-<lb/>H M Goysom
+<lb/>H M Gossom
 <lb/>Jacob Trout
-<lb/>F. E. Skidmore
-<lb/>J. C Tingle
-<lb/>F. Q. Wheeler
-<lb/>Elizah Orr
+<lb/>F. E, Skidmore
+<lb/>C Tingle
+<lb/><unclear>J. L.</unclear> Wheeler
+<lb/>George Orr
 <lb/>Jas B Cook
-<lb/>R. O. Whitaker
-<lb/>George Wright
+<lb/>R. O, Whitaker
+<lb/>George. Wright
 <lb/>Thomas Morgan
-<lb/>Thomas Teff
+<lb/>Thomas Jesse
 <lb/>Andrew Scott
 <lb/>T. B. Hunt<milestone unit="column" n="1"/><pb/>
 <lb/>James F. Young
-<lb/>William L. Coleman</p>
+<lb/>William L Coleman</p>
 <p>Trimble Cir Ct
 <lb/>vs
-<lb/>Thos M<hi rend="sup">c</hi>Intosh
+<lb/>Tho<hi rend="sup">s</hi> M<hi rend="sup">c</hi>Intosh
 <lb/>Breach peace
 <lb/>Assault
-<lb/>Respite 6 mos
-<lb/><date when="1863-11-10">10th Nov/ 63</date></p>
+<lb/>Respited 6 mos
+<lb/><date when="1863-11-10">10<hi rend="sup">th</hi> Nov/63</date></p>
   </body>
  </text>
 </TEI>

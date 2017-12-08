@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1438"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,28 +64,25 @@
  <text>
   <body>
    <p>Owingsville Ky
-<lb/><date when="1861-09-24">Sept 24 1861.</date>
+<lb/><date when="1861-09-24">Sept 24 1861</date>.
 <lb/>B Magoffin
 <lb/>Gov of Kentucky</p>
-<p>Joshua Craig w<unclear/> sixty Dollars <unclear/> of the Bath Circuit Court for keeping a Tipling House he is wholly unable to pay it &amp; a man of large family I think it but right that the fine should be remited</p>
+<p>Joshua Craig w<unclear/> sixty Dollars <unclear/> of the Bath Circuit Court for Keeping a Tipling House he is wholly unable to pay it &amp; a man of large family I think it but right that the fine should be remited</p>
 <p>Yours Truly
 <lb/>J M Nesbitt
 <lb/>Comth Atto</p>
 <p>I have Read the above and fully Concur with Mr Nesbitt</p>
-<p>J A. T<unclear/>
+<p>J A. Turner jr
 <lb/>Clk Bath Circuit Ct<pb/></p>
-<p><figure type="postmark"><listPlace><place><placeName>OWINGSVILLE
-<lb/><date when="--09-24">SEP
-<lb/>24</date>
-<lb/>KY.</placeName></place></listPlace></figure></p>
+<p><figure type="postmark"><listPlace><place><placeName>OWINGSVILLE KY.
+<lb/><date when="--09-24">SEP 24</date></placeName></place></listPlace></figure></p>
 <p>His Excellency 
 <lb/>B Magoffin Gov of Ky -- 
-<lb/>Frankfort, Ky</p>
+<lb/>Frankfort Ky</p>
 <p>Respite 12 Mo
-<lb/>B. M. </p>
-<p>Bath
-<lb/>Cir Ct
-<lb/>$60 } Tipling
+<lb/>B. M</p>
+<p>Bath Cir Ct
+<lb/>&#36;60 &#125; Tipling
 <lb/>J. Craig
 <lb/>Resp<hi rend="sup">d</hi> 12. Mos
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-09-30">Sept 30 1861</date></p>

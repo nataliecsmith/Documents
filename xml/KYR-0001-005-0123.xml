@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0123"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,23 +64,22 @@
  <text>
   <body>
    <p>State of Kentucky
-<lb/>Campbell County } SS.</p>
-<p>John Barnes of the County and state above being first duly sworn states that one <hi rend="underline">Claudius Tift</hi> (Painter by trade) did on or about the <date when="1864-12-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> day of <hi rend="underline">Dec</hi> 1864</date> <hi rend="str">c</hi>in the County of Campbell and State of Kentucky commit a felony, to wit: a Larceny, in this by breaking the seal of a letter, (written by affiant in the City of <hi rend="underline">Nashville</hi> <hi rend="underline">Tenn</hi> and addressed to "Henry Barnes" affiants Brother residing in Campbell <hi rend="underline">Co</hi> <hi rend="underline">Ky</hi>) entrusted to the said Tift to deliver and feloniously taking there from the sum of Four Hundred ($400<hi rend="underline"><hi rend="sup">00</hi></hi>) Dollars in the currency of the United states, which sum of money the said Tift converted to his own use -- that the money was the property of affiant which he was sending to the said Henry Barnes for safe keeping -- that said Tift immediately fled the state to La Crosse Wisconsin where he now is.</p>
+<lb/>Campbell County &#125; SS.</p>
+<p>John Barnes of the County and state above being first duly sworn states that one <hi rend="underline">Claudius Tift</hi> (Painter by trade) did on or about the <date when="1864-12-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> day of <hi rend="underline">Dec</hi> 1864</date> <hi rend="str">c</hi>in the County of Campbell and state of Kentucky commit a felony, to wit: a Larceny, in this by breaking the seal of a letter, (written by affiant in the City of <hi rend="underline">Nashville</hi> <hi rend="underline">Tenn</hi> and addressed to "Henry Barnes" affiants Brother residing in Campbell <hi rend="underline">Co</hi> <hi rend="underline">Ky</hi>) entrusted to the said Tift to deliver and feloniously taking there from the sum of Four Hundred (&#36;400<hi rend="underline"><hi rend="sup">00</hi></hi>) Dollars in the currency of the United states, which sum of money the said Tift converted to his own use -- that the money was the property of affiant which he was sending to the said Henry Barnes for safe keeping- that said Tift immediately fled the state to La Crosse Wisconsin where he now is.</p>
 <p>Affiant further states that the said Tift in a letter mailed from La Crosse <hi rend="underline">Wis</hi> having date <date when="1865-04-11">April 11. 1865</date>, addressed to <hi rend="underline">Col</hi> J. P. Jackson of Campbell <hi rend="underline">Co</hi> Ky confessed the act complained of and promised to make<pb/>
 <lb/>restitution of the money stolen which he has failed to do and further affiant saith not.</p>
 <p>John Barnes</p>
 <p>sworn to before me this <date when="1865-11-25">25<hi rend="sup">th</hi> day of November 1865</date> by the above named John Barnes and subscribed by him in my presence.</p>
 <p>E Ladd J. P.</p>
-<p>D. W. Root
+<p>O. W. Root
 <lb/>Cor York &amp; Layton</p>
-<p>Requisition upon Governor of Wisconsin
-<lb/>Com of Ky
-<lb/>agst } affidavit
-<lb/>Claudius Tift
-<lb/>Moses Cook
-<lb/>Agent
-<lb/>affidavit of John Barnes<figure type="hr"/>
-<lb/>issued <date when="1865-12-08">8th Decr/65</date></p>
+<p>Requisition upon Governor of Wisconsin</p>
+<p>Com of Ky
+<lb/>agst &#125; affidavit.
+<lb/>Claudius Tift</p>
+<p>Moses Cook Agent</p>
+<p>affidavit of John Barnes<figure type="hr"/>
+<lb/>issued <date when="1865-12-08">8<hi rend="sup">th</hi> Dec<hi rend="sup">r</hi>/65</date></p>
   </body>
  </text>
 </TEI>

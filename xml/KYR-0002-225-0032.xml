@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0032"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,19 +64,19 @@
  <text>
   <body>
    <p><note place="header">X</note>
-<lb/><date when="--10-23">Oct. 23<hi rend="underline"><hi rend="sup">d</hi></hi></date>
+<lb/><date when="1863-10-23">Oct. 23<hi rend="underline"><hi rend="sup">d</hi></hi></date>
 <lb/>H<hi rend="sup">d</hi> Q<hi rend="underline"><hi rend="sup">rs</hi></hi> Camp
-<lb/>near Grapevine
+<lb/>Near Grapevine
 <lb/>Perry Co Ky <date when="1863-10-12">Oct 12th 1863</date>
 <lb/>Governor
 <lb/>To his Excelency.
 <lb/>Sir</p>
-<p>The loyal Men of the County of Letcher are anxious to comply with your ^order^ in raiseing the last call of Volunteers in the State of Kentucky But owing ^to^ the invasion in the County of Letcher By the Guarrillers there can not be a Recruiting Station established <hi rend="str">in</hi> there</p>
-<p>If the time has not yet expired for for this call the men of that County asks Permission to recruit a Company and establish a Recruiting Station near my H<hi rend="sup">d</hi> Q<hi rend="underline"><hi rend="sup">rs</hi></hi> in the co of Perry. Letcher County has not nor can be enrolled on account of Guarrillers u unless the federal forces goes and enforces the enrollment of that County</p>
-<p>J, C, Eversole
-<lb/>Major Comdg 3<hi rend="sup">d</hi> Batt
+<p>The loyal Men of the County of Letcher are anxious to comply with your ^order^ in raiseing the last call of Volunteers in the State of Kentucky But owing ^to^ the invasion in the County of Letcher By the Guarrillers there can not be a Recruiteing Station established <hi rend="str">in</hi> there</p>
+<p>If the time has not yet expired for for this call the Men of that County asks Permission to recruit a Company and establish a Recruiting Station near my H<hi rend="sup">d</hi> Q<hi rend="underline"><hi rend="sup">rs</hi></hi> in the co of Perry. Letcher County has not nor can be enrolled on account of Guarrillers <hi rend="str">u</hi> unless the federal forces goes and enforces the enrollment of that County</p>
+<p>J. C. Eversole
+<lb/>Major comdg 3<hi rend="sup">d</hi> Batt
 <lb/>14th Ky vol Cav<pb/></p>
-<p>Ans that the exposed situation of this County -- precludes the idea of organizing State guards within it</p>
+<p>Ans. that the exposed situation of this County -- precludes the idea of organizing State guards within it</p>
 <p><hi rend="underline">Boyle</hi></p>
 <p>Letcher Co<hi rend="underline"><hi rend="sup">y</hi></hi> <date when="1863-10-12">Oct 12/63</date><figure type="hr"/>
 <lb/>J. C. Eversole

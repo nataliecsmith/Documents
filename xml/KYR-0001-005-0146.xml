@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0146"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Clay County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -60,11 +62,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his excellency Thos E, Bramlette Governor of the Commonwealth of Kentucky, The petition of J, S, M, Dickinson the county Judge of Clay ^County^ respectfully represents to your excelly. that <hi rend="str">William Brown &amp;</hi> John Brown had been brought before your petitioner upon a charge of a breech of the peace, the testimony in one of the cases had been heard by the jury after which &amp; whilst the jury were in their room making up their verdict the Browns exhibited in the court-house a large knife &amp; pistol and then went out of the court-house and to the oposite side of the street making considerable noise and drawing their weapons, when your petitioner ordered James B. Lyttle the constable who was attending to the court &amp; who had brought the browns before it, to disarm them &amp; bring them into ^court^ that they might hear the virdict of the jury &amp; judgment of the court &amp; be prevented from doing mischief and your petitioner ordered others to aid in their aprehension and in the resistance of the Browns one of them shot at a citizen and James B. Lyttle went forward in the discharge of his duty to try to disarm the said William &amp; John Brown and bring them into court and William Brown shot &amp; killed the said James B. Lyttle whilst endeavouring<pb/>
-<lb/>to execute the duties of his office John Brown at the same ^time^ or just before the shooting had the large knife drawn which was flung from his hands by the citizens the Browns were both committed to the jail of Clay County by the examining court &amp; bail refused but they with force have broken the jail and are now running at large and have fled from justice The object of this petition is that your excellency may offer a reward <hi rend="str">from</hi> ^for^ the aprehension of the said John Brown and William Brown and their delivery to the jailer of Clay County</p>
+   <p>To his excellency Thos E, Bramlette Governor of the Commonwealth of Kentucky, The petition of J, S, M, Dickinson the county Judge of Clay ^County^ respectfully represents to your excelly. that <hi rend="str">William Brown &amp;</hi> John Brown had been brought before your petitioner upon a charge of a breech of the peace, the testimony in one of the cases had been heard by the jury after which &amp; whilst the jury were in their room making up their verdict the Browns exhibited in the Court-house a large knife &amp; pistol and then went out of the Court-house and to the oposite side of the street making considerable noise and drawing their weapons, when your petitioner ordered James B, Lyttle the constable who was attending to the Court &amp; who had brought the browns before it, to disarm them &amp; bring them into ^court^ that they might hear the virdict of the jury &amp; judgment of the Court &amp; he prevented from doing mischief and your petitioner ordered others to aid in their aprehension and in the resistance of the Browns One of them shot at a citizen and James B. Lyttle went forward in the discharge of his duty to try to disarm the said William &amp; John Brown and bring them into Court and William Brown shot &amp; killed the said James B. Lyttle whilst endeavouring<pb/>
+<lb/>to execute the duties of his office. John Brown at the same ^time^ or just before the shooting had the large knife drawn which was <unclear>rung</unclear> from his hands by the citizens the Browns were boath commited to the jail of Clay County by the examining court &amp; bail refused but they with force have broken the jail and are now running at large and have fled from justice The object of this petition is that your excellency may offer a reward <hi rend="str">from</hi> for the aprehension of the said John Brown and William Brown and their delivery to the jailer of Clay County</p>
 <p>J, S, M, Dickinson Judge Clay County Court<pb/></p>
 <p>Clay Co
-<lb/>Reward $250 each
+<lb/>Reward &#36;250 each
 <lb/>W<hi rend="sup">m</hi> &amp; John Brown</p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0172"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,17 +64,17 @@
  <text>
   <body>
    <p>Louisville Ky.
-<lb/><date when="1863-10-31">Octr. 31<hi rend="sup">st</hi> 1863</date>
+<lb/><date when="1863-10-31">Octr. 31<hi rend="underline"><hi rend="sup">st</hi></hi> 1863</date>
 <lb/>His Excellency
-<lb/>Gov<hi rend="sup">r</hi> Bramlette
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramlette
 <lb/>&amp;c &amp;c</p>
 <p>Your Excellency will see the certificate of the Clerk of the Jefferson Circuit Court in the case of the Com. vs. Chas Smith and also the petition enclosed.</p>
-<p>You will observe that the names of only eight jurors are attached. They were unanimous in requesting me to petition but before I could get up the petition the Court adjourned and I have resolved not wait<pb/>
-<lb/>until Monday, but to send it off with the eight signatures and the explanation why only eight appear I was appointed by the Coms to defend for him and found him a very deserving young man. I hope your Excellency will consider his case, which has been presented to you in a hurry and with more informality than it might have been at your earliest convenience and remit his pardon to me if at all possible before he leaves the city<pb/>
+<p>You will observe that the names of only eight jurors are attached. They were unanimous in requesting me to petition but before I could get up the petition the Court adjourned and I have resolved not to wait<pb/>
+<lb/>until Monday, but to send it off with the eight signatures and the explanation why only eight appear. I was appointed by the Court to defend for him and found him a very deserving young man. I hope your Excellency will consider his case, which has been presented to you in a hurry and with more informality than it might have been, at your earliest convenience and remit his pardon to me if at all possible before he leaves the city<pb/>
 <lb/>for Frankfort</p>
-<p>I have the honor to be your Excellency's humble Obdt Servt</p>
+<p>I have the honor to be your Excellency's humble Obdt Sevt</p>
 <p>Geo. Kilpatrick
-<lb/>Atty at Law</p>
+<lb/>Atty at Law<pb/></p>
 <p>Statement of Counsel</p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0079"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,6 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
+    <placeName>Henry County, Kentucky</placeName>
     <date when="1863-09-08">8 September 1863</date>
    </creation>
    <textClass>
@@ -60,37 +64,36 @@
  <text>
   <body>
    <p>To his Excellency the Governor of Kentucky.</p>
-<p>Your petitioner Greenberry Tingle Jr states that he was indicted in the Henry Circuit Court for stabbing and wounding Turner, a slave of James Boyer, in sudden heat and passion, without malice and not in self defense. And at the September Term <date when="1863">1863</date> with the permission of the attorney for the Com'th he plead guilty and the jury assessed his fine at $50 Peititioner was induced to take this course because he was aware that he had committed a technical violation of law, through, he acted under the circumstances, just as the majority of men would have done.</p>
-<p>The facts in his case were these. This slave stole petitioner's horse and endeavored to make way with it. Petitioner after missing his horse found it &amp; became thoroughly satisfied that the negro had stolen it &amp; his bridle. Petitioner &amp; his father tried to get the owner of the negro to correct him for his conduct but he failed to do so, and petitioner seeing the negro one day accosted him &amp; demanded the bridle which<pb/>
-<lb/>he had stolen. Some words occurred between them the negro used imprudent langugae <hi rend="str">between</hi> towards petitioner ^was generally known to be a very bad negro^ and threatened peitioner with his master when petitioner, in the excitement of the moment, cut him with his knife the wound was not serious has not damaged the negro, and deft regets that he ever used the <hi rend="str">negro</hi> knife on the negro -- </p>
-<p>Petitioner is a poor young man <hi rend="str">of</hi> 19 years of age, and can sustain &amp; prove a good character as a peacable quiet boy who never had a difficulty before &amp; on his life, &amp; never interferes with other people's business</p>
-<p>Petitioner promising ^not^ to get into a like difficulty again respectfully asks you Excellency to remit so much of the fine against him as the law will permit to be done.</p>
-<p>G ^his x mark^ Tingle Jr
+<p>Your petitioner Greenberry Tingle Jr states that he was indicted in the Henry Circuit Court for stabbing and wounding Turner, a slave of James Boyer, in sudden heat and passion, without malice and not in self defense. And at the September Term <date when="1863">1863</date> with the permission of the attorney for the Com'th, he plead guilty and the jury assessed his fine at &#36;50 -- Peititioner was induced to take this course because he was aware that he had committed a technical violation of law, though, he acted under the circumstances, just as the majority of men would have done.</p>
+<p>The facts in his case were these -- This slave stole petitioner's horse and <hi rend="str">an</hi> Endeavorrd to make way with it- Petitioner after missing his horse found it &amp; became thoroughly satisfied that the negro had stolen it &amp; his bridle. Petitioner &amp; his father tried to get the owner of the negro to correct him for his conduct but he failed to do So, and petitioner seeing the negro one day accosted him &amp; demanded the bridle which<pb/>
+<lb/>he had stolen- Some words occurred between them the negro used imprudent langugae <hi rend="str">between</hi> towards petitioner ^was generally known to be a very bad negro^ and threatened peition with his master when petitioner, in the excitement of the moment, cut him with his knife- the wound was not serious has not damaged the negro, and deft regrets that he ever used the <hi rend="str">negro</hi> knife on the negro -- </p>
+<p>Petitioner is a poor young man <hi rend="str">of</hi> 19 years of age, and can sustain &amp; prove a good character as a peaceable quiet boy who never had a difficulty before <hi rend="str">l</hi> in his life, &amp; never interferes with other people's business</p>
+<p>Petitioner promising ^not^ to get into a like difficulty again respectfully asks your Excellency to remit so much of the fine against him as the law will permit to be done.</p>
+<p>G ^his X mark^ Tingle Jr
 <lb/>attest John M Harlan</p>
-<p>Sworn to before me by G Tingle Jr this <date when="1863-09-08">8<hi rend="sup">th</hi> day of September 1863</date></p>
-<p>Jno. A. Monfort P H H C C</p>
-<p>The undesigned knows G. Tingle Jr &amp; the slave Turner wounded by him. Tingle is a great, peaceable, unofensive young man, of excellent habits and of industrious and law abiding generally. And the <unclear><hi rend="str">ne</hi></unclear> negro<pb/></p>
-<p>is a bad dangerous slave who in one or two instances recently has acted in an outrageous manner. We ask that Tingle's fine be remitted.</p>
+<p>Sworn to before me by G. Tingle Jr this <date when="1863-09-08">8<hi rend="sup">th</hi> day of September 1863</date></p>
+<p>Jno. C. Monfort P J H c c</p>
+<p>The undesigned knows G. Tingle Jr &amp; the slave Turner wounded by him- Tingle is a quiet, peaceable, inoffensive young man, of excellent habits and <hi rend="str">of</hi> industrious and law abiding generally. And the <unclear><hi rend="str">ne</hi></unclear> negro<pb/>
+<lb/>is a bad dangerous slave who in one or two instances recently has acted in an outrageous manner. We ask that Tingle's fine be remitted.</p>
 <p>H C Gardner
 <lb/>Augustus Elston</p>
-<p>The undersigned testify to the general good character &amp; peace able disposition of G. Tingle Jr. We are citizens of Henry County, and ask respectfully that his fine be remitted.</p>
+<p>The undersigned testify to the general good character &amp; peaceable desposition of G. Tingle Jr- We are citizens of Henry County, and ask respectfully that his fine be remitted.</p>
 <p>Samuel Jones
 <lb/>Berry Ellis
-<lb/>John Muhoney
+<lb/>John Mahoney
 <lb/>David Fitzgerald
 <lb/>James Pearce Sr</p>
 <p>We unite in the prayer of the petitioner</p>
 <p>Tho. Rodman</p>
 <p>The recommendation of Saml Jones, whom I well know, induces me to sign petition</p>
-<p>Jno. A. Monfort P J H C C<pb/></p>
+<p><hi rend="underline">Jno, C. Monfort</hi> P J H c c<pb/></p>
 <p>Henry Cir Ct
-<lb/>vs
-<lb/>G Tingle Jr
-<lb/>$50 -- </p>
-<p><date when="1863-09-21">Sept 21<hi rend="sup">st</hi>/ 63</date>
+<lb/>vs</p>
+<p><date when="1863-09-21">Sept 21<hi rend="sup">st</hi>/63</date>
 <lb/>Remit all except costs and attys fees
-<lb/>Tho Bramlette
-<lb/></p>
+<lb/>Tho Bramlette</p>
+<p>G. Tingle Jr
+<lb/>&#36;50 -- </p>
   </body>
  </text>
 </TEI>

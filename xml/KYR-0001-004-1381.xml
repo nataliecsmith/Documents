@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1381"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">James M. Fidler and F. B. Merrimec to Thomas E. Bramlette</title>
+    <title level="a" type="main">James M. Fidler and F. B. Merimee to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG6018</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,21 +67,19 @@
 <lb/>FOURTH CONGRESSIONAL DISTRICT,
 <lb/>Lebanon, Ky., <date when="1864-12-18">Decr 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1864.</date>
 <lb/>His Excellency Thos E Bramlette
-<lb/>Governor of Kentucky
+<lb/>Govenor of Kentucky
 <lb/>Sir</p>
-<p>We have heard the representations of Mess Hill &amp; Knott Attys for M Foley and endorse them as Substantially correct we having heard the evidence given on the trial, (and F B <unclear>Merrimec</unclear> having conversed with one of the Dickens before he died) There is no doubt in our minds that Foley ^acted^ under the belief that the Dickens <hi rend="underline">were</hi> <hi rend="underline">Gurillas</hi> and the evidence Showed that he had good cause to Suppose them to be Gurillas, We have heard no one doubt the honesty of his intentions, Foley is a discharged Soldier and we have never heard anything derogatory to his moral character, bearing the character of an honest hardworking peaceable Irishman<pb/>
-<lb/>and had these men proved to be Gurillas he would have been applauded by all good citizens &amp; we repeat we have no doubt <hi rend="str">but</hi> that he acted in good faith under the impression that they were Gurillas &amp; that he had good reasons for so believing. we therefore most cheerfully recommend him to executive clemency</p>
+<p>We have heard the representations of Mess Hill &amp; Knott Attys for M Foley and endorse them as Substantially correct we having heard the evidence given on the trial, (and F B Merimee having conversed with one of the Dickens before he died) There is no doubt in our Minds that Foley ^acted^ under the belief that the Dickens <hi rend="underline">were</hi> <hi rend="underline">Gurillas</hi> and the evidence Showed that he had good cause to Suppose them to be Gurillas, We have heard no one doubt the honesty of his intentions, Foley is a discharged Soldier and we have never heard anything derogatory to his moral character, bearing the character of an honest hardworking &amp; peaceable Irishman<pb/>
+<lb/>And had these men proved to be Gurillas he would have been applauded by all good citizens &amp; we repeat we have no doubt <hi rend="str">but</hi> that he acted in good faith under the impression that they were Gurillas &amp; that he had good reasons for So believing. we therefore most cheerfully recommend him to executive clemency</p>
 <p>we are most respectfully
 <lb/>your Obt Servts
-<lb/>James M Fidler capt &amp;
-<lb/>Provost mar 4<hi rend="sup">th</hi> Dist of Ky
-<lb/><hi rend="underline">F B, Merrimec Comr</hi>
+<lb/>James M Fidler Capt &amp; Provost Mar 4<hi rend="underline"><hi rend="sup">th</hi></hi> Dist of Ky
+<lb/><hi rend="underline">F B, Merimee Comr</hi>
 <lb/>Board Enmt 4<hi rend="sup">th</hi> Dist of Ky</p>
 <p>Lebanon, Ky.,
 <lb/><gap/> 1864.
 <lb/>FIDLER, J. M.
-<lb/>Capt. and Pro. Mar. 4th Dist.
-<lb/>of Kentucky.</p>
+<lb/>Capt. and Pro. Mar. 4th Dist. of Kentucky.</p>
   </body>
  </text>
 </TEI>

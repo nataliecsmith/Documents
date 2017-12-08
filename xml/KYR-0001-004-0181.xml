@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0181"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,16 +64,16 @@
  <text>
   <body>
    <p>La Grange Ky
-<lb/><date when="1863-10-05">Oct<hi rend="sup">r</hi> 5<hi rend="sup">th</hi> 1863</date>
+<lb/><date when="1863-10-05">Oct<hi rend="underline"><hi rend="sup">r</hi></hi> 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
 <lb/>His Excellency
 <lb/>Gov: Bramlett
-<lb/>Honr<hi rend="sup">d</hi> Sir:</p>
-<p>You will find accompanied with this a petition to Your Honor for the remission of a fine imposed on me by a Court and Jurey in Louisville. The circumstance of the case are set forth in the pettition. I could get other good &amp; loyal men to sign the petition but I deem it unnecessary. I am now living in La Grange Ky. If you desire others, I can get the leading Union men of the town to sign it. </p>
-<p>I hope this will meet with your approval for I am poorly able with my large family to support, to pay so large a fine, having been broken up by losses sustained by aggressions committed by the rebels</p>
+<lb/>Honr<hi rend="underline"><hi rend="sup">d</hi></hi> Sir:</p>
+<p>You will find accompanied with this a petition to Your Honer for the remission of a fine imposed on me by a Court and Jurey in Louisville. The circumstance of the case are set forth in the pettition- I could get other good &amp; loyal men to sign the petition but I deem it unnecessary- I am now living in La Grange Ky- If you desire others, I can get the leading Union men of the town to sign it-</p>
+<p>I hope this will meet with your approval, for I am poorly able with my large family to support, to pay so large a fine. having been broken up by losses sustained by aggressions committed by the rebels</p>
 <p>A. Williams</p>
-<p>P. S. I know Mr Williams well, and know him to be a peaceble &amp; loyal citizen who was runaway from his home in Garrard County only for his loyalty &amp; desire to submit to the laws of his country.</p>
+<p>P. S. I know Mr Williams well, and know him to be a peaceble &amp; loyal Citizen, who was runaway from his home in Garrard County only for his loyalty &amp; desire to submit to the laws of his Country</p>
 <p>Respectfully
-<lb/>W. C. Mahan, Clk of the Oldham Cir. Ct.</p>
+<lb/>W. C. Mahan, Clk of the Oldham Cir: Ct:</p>
   </body>
  </text>
 </TEI>

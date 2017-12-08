@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0139"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,17 +63,18 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000337">Louisville</placeName>, <date when="1863-10-29">Oct 29<hi rend="sup">th</hi> 1863</date>.
+   <p>Louisville, <date when="1863-10-29">Oct 29<hi rend="sup">th</hi> 1863</date>.
 <lb/>Dear Sir.</p>
-<p>Excuse me if I presume to urge upon you the pardon of Col<hi rend="sup">o</hi> <persName ref="cwgk:N00000330">Franklin Gorin,</persName> before trial on an indictment for maliciously shooting <persName ref="cwgk:N00000770">W C. Wood,</persName> Esqr.</p>
-<p>I have <hi rend="str">the</hi> known the Col<hi rend="sup">o</hi> for many a year, &amp; am sure he never did shoot M<hi rend="sup">r</hi>. Wood maliciously -- The Col<hi rend="sup">o</hi> is earnestly loyal, excitable, but kind generous &amp; noble.</p>
-<p>The <unclear/> cordially prays upon him &amp; <unclear>I. See its</unclear>. <unclear>Indded</unclear> all his friends see it, &amp; no one regrets the act more than he does. Allow me to ask, therefore, Your Kind interference.</p>
+<p>Excuse me if I presume to urge upon you the pardon of Col<hi rend="sup">o</hi> Franklin Gorin, before trial on an indictment for Maliciously Shooting W C. Wood, Esqr.</p>
+<p>I have <hi rend="str">the</hi> known the Col<hi rend="sup">o</hi> for many a year, &amp; am sure he never did shoot M<hi rend="sup">r</hi>. Wood maliciously -- The Col<hi rend="sup">o</hi> is eminetly loyal, excitable, but Kind generous &amp; noble.</p>
+<p>The deed evidently prays upon him, &amp; I see it- Indeed all his friends see it, &amp; No one regrets the act More than he does. allow me to ask, therefore, Your Kind interference -- </p>
 <p>I have the honor to be,
 <lb/>Very res,
 <lb/>Yr obt Sevt,
-<lb/><persName ref="cwgk:N001010">Hamilton Pope</persName></p>
+<lb/><hi rend="underline">Hamilton Pope</hi></p>
 <p>His Excellency,
-<lb/><persName ref="cwgk:N001000">Gov Bramlette</persName>,<lb/>Frankfort,
+<lb/>Gov Bramlette,
+<lb/>Frankfort,
 <lb/>Ky</p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0115"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,42 +65,41 @@
   <body>
    <p>Richmond Ky.
 <lb/><date when="1865-09-25">Sep 25. 1865.</date>
-<lb/>To His Excellency
+<lb/>To His Excellency,
 <lb/>Thomas E. Bramlette
-<lb/>Governor of Ky.</p>
-<p>I am Captain of Company in the <gap/> Regt. Ky National Legion -- my Company was raised in this county (Madison) but the men live partly in this County -- partly in Estill -- partly in Jackson &amp; partly in Rockcastle. -- and of course are very much scattered when permitted to dispense &amp; go at large. -- they could not be assembled upon an emergency under a week or ten days time -- Troops have been kept here pretty much all the time &amp; are necessary, but there are none here now. -- but a company of troops straggling about through the country as mine are, are not only of no benifit but are a nuisance -- I served over three years in Wolfords Regt. &amp; know well the influence of allowing men to straggle &amp; roam without control</p>
-<p>I respectfully request your Excellency to issue such orderes as will authorize me to assemble my men, go into camp at or near Richmond, and thus enable me to keep them together as a body -- otherwise I repeat the organization is worse than useless</p>
+<lb/>Governor of Ky-</p>
+<p>I am Captain of Company in the <gap/> Reg<hi rend="underline"><hi rend="sup">t</hi></hi> Ky National Legion -- my Company was raised in this County (Madison) but the men live partly in this County -- partly in Estill -- partly in Jackson &amp; partly in Rockcastle. -- and of course are very much scattered when permitted to dispense &amp; go at large. -- they could not be assembled upon an emergency under a week or ten days time -- <unclear>Tr</unclear>oops have been Kept here pretty much all the time &amp; are necessary, but there are none here now. -- but a company of troops straggling about through the country as mine are, are not only of no benifit but are a nuisance -- I served over three years in Wolfords Reg<hi rend="underline"><hi rend="sup">t</hi></hi> &amp; know well the influence of allowing men to straggle &amp; roam without control</p>
+<p>I respectfully request your Excellency to issue such orders as will authorize me to assemble my men, go into camp at or near Richmond, and thus enable me to Keep them together as a body -- otherwise I repeat the organization is worse than useless</p>
 <p>I have the honor to be
 <lb/>Very respectfully
-<lb/>W. P. Ballard
-<lb/>Capt.<pb/></p>
+<lb/>W. P. Ballard.
+<lb/>Capt<pb/></p>
 <p>We concur fully in the within views &amp; request of Capt. Ballard.</p>
 <p>Thos Rowland
 <lb/>Late Maj 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cavl
 <lb/>Jas M Kindred Late Lieut S R Q M
 <lb/>8<hi rend="underline"><hi rend="sup">th</hi></hi> Ky I V now S M C
-<lb/>David Russell Late Capt 21<hi rend="sup">st</hi> Ky Infty
+<lb/>David Russell Late Capt 21<hi rend="sup">st</hi> Ky Inty
 <lb/>W C Goodloe
 <lb/>P. P. Ballard</p>
 <p>Referred to the Adjutant General<pb/></p>
-<p>72
-<lb/>Richmond Ky
-<lb/><date when="1865-09-25">Sept 25<hi rend="sup">th</hi> 1865</date><figure type="hr"/>
+<p>Richmond Ky
+<lb/><date when="1865-09-25">Sep<hi rend="sup">t</hi> 25<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date><figure type="hr"/>
 <lb/>Ballard W. P
-<lb/>Cap<hi rend="sup">t</hi>.<figure type="hr"/>
+<lb/>Cap<hi rend="underline"><hi rend="sup">t</hi></hi><figure type="hr"/>
 <lb/><hi rend="underline">To Gov</hi></p>
-<p>Say he has a Co of the National Legion in Madison Co: And they are inefficient in their present condition. Requests an order to assemble his company and go into Camp at Richmond.<figure type="hr"/></p>
-<p>LB N<hi rend="sup">o</hi> 17 - <date when="1865">1865</date> P160<figure type="hr"/>
-<lb/>Rec<hi rend="sup">d</hi> A G O Ky <date when="1865-09-28">28 Sep 1865.</date></p>
-<p>Hd Qrs Ky Volunteers
+<p>Says he has a Co of the National Legion in Madison Co: And they are inefficient in their present condition. Requests an order to assemble his company and go into Camp at Richmond.<figure type="hr"/></p>
+<p>LB N<hi rend="sup">o</hi> 17 -- <date when="1865">1865</date> P160<figure type="hr"/>
+<lb/>Rec<hi rend="sup">d</hi> A G O Ky <date when="1865-09-28">28 Sep 1865</date></p>
+<p>H<hi rend="sup">d</hi> Qrs Ky Volunteers
 <lb/>Adj<hi rend="sup">t</hi> Genl<hi rend="sup">s</hi> Office
 <lb/>Frankfort Ky
 <lb/><date when="1865-09-28">Sep<hi rend="sup">t</hi> 28" 1865</date></p>
 <p>Respectfully referred to Maj W H Hays Insp Gen Ky.</p>
 <p>D W Lindsey
-<lb/>Adj Gen<hi rend="sup">l</hi> Ky<figure type="hr"/>
-<lb/>Ans. <date when="1865-09-29">Sep. 29/65.</date> Lt. Bk B. pp. 290-91<figure type="hr"/>
-<lb/>Rec. I. G. O. <date when="1865-09-29">Sep 29, 1865.</date></p>
+<lb/>Adj Gen<hi rend="sup">l</hi> Ky<figure type="hr"/></p>
+<p>Ans. <date when="1865-09-29">Sep. 29/65.</date> Lt. Bk B, pp. 290-91<figure type="hr"/>
+<lb/>Rec. I. G. O. <date when="1865-09-29">Sep. 29, 1865.</date></p>
   </body>
  </text>
 </TEI>

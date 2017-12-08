@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1575"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Marshall Woodson et al. to Beriah Magoffin</title>
+    <title level="a" type="main">Marshall Woodson to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG11043</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Louisville, Jefferson County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -61,20 +63,20 @@
  <text>
   <body>
    <p>To His Excellency the Governor of of Kentucky.</p>
-<p>Your petitioner Marshall Woodson a free man of color would respectfully represent to your Excellency that in <date when="1860-10">October 1860</date> he became bail in the Circuit Court of Louisville for Robert Ellis a free boy of color in the sum of Three hundred Dollars for the appearance of said boy Ellis at the <hi rend="str">January</hi> <date when="1860-10">October Term of the Jefferson Circuit Court 1860</date> to answer a charge of felony ^stealing $15.^ That at said <date when="1860-10">October Term 1860</date> said Robert Ellis appeared in Court in discharge of his recognizance and the case was tried the Jury being unable to agree were discharged and the case continued until the <date when="1861-01">Janry</date> Term and he again became his bail for his appearance at said Term in the sum of $300. that at the <date when="1861-01">Janry</date> Term said bail bond was forfeited and scire facias awarded that at the <date when="1861-10">October Term 1861</date> a Judgment was rendered in said Scire facias against your petitiioner your petitioners States after the trial in <date when="1861-10">October 1860</date> said Robert Ellis went to New Orleans<pb/>
-<lb/>and was employed on steam Boats in the Southern trade as a cabin boy and at the <date when="1861-01">Janry Term 1861</date> he failed to return and stand his Trial as he had promised your petitioner your petitioner believes that he would have appeared and surrendered himself again for Trial but for the troubles in the Country that he was afraid to return. Your petitioner states that he was induced to go bail for said boy Ellis by his relations and his mother who is dead was an old friend of his and on account of the age of said Ellis who is only about 18 years of age and an orphan. that he has never recieved one dollar to endemnify him as bail nor never expects to recieve any that he believed said Ellis would appear and that he was innocent of the Charge and that <hi rend="str">of</hi> his family were old friends of his and ^on account^ of his youth were the reasons that induced him to go his bail recieving no reward nor expecting none. Your petitioner States that after said boy Ellis failed to appear &amp; his bond was forfeited he has used every means to have him taken and brought back to be tried that he obtained from your Excellency last <date when="1861-02">Febry</date> a requisition on the Governer of La for said Ellis<pb/>
-<lb/>who was then in New Orleans but by some means the officer that went after ^him^ failed to get him that in October last hearing that he was in Cincinnati he obtained another requisition from your Excellency on the Governor of Ohio and sent a police officer with it to Ohio, and paid him for going but he was unable to find him.</p>
-<p>Your petitioner would respectfully request your Excellency to remit said Judgment against him that if he is Compelled to pay these times it will be verry oppressive that he has Lived in Louisville ever since he was born that he has by industry and economy accumulated by his trade as a barber a little property, a home for himself &amp; family that if he is compelled to pay the Judgement his little property will have to be sold at a sacrafice to pay it. that he has he believes conducted himself as a law abiding Citizen as all who Know him he believes will so state.</p>
+<p>Your petitioner Marshall Woodson a free man of Color would respectfully represent to your Excellency that in <date when="1860-10">October 1860</date> he became bail in the Circuit Court of Louisville for Robert Ellis a free boy of Color in the sum of Three hundred Dollars for the appearance of said boy Ellis at the <hi rend="str">January</hi> <date when="1860-10">^October^ Term of the Jefferson Circuit Court 1860</date> to answer a charge of felony ^stealing &#36;15.^ That at said <date when="1860-10">October Term 1860</date> said Robert Ellis appeared in Court in discharge of his recognizance and the Case was tried the Jury being unable to agree were discharged and the case continued until the <date when="1861-01">Janry</date> Term and he again became his bail for his appearance at said Term in the sum of &#36;300. that at the <date when="1861-01">Janry</date> Term said bail bond was forfeited and scire facias awarded that at the <date when="1861-10">October Term 1861</date> a Judgment was rendered in said Scire facias against your petitioner your petitioner States after the trial in <date when="1860-10">October 1860</date> said Robert Ellis went to New Orleans<pb/>
+<lb/>and was employed on Steam Boats in the Southern trade as a cabin boy and at the <date when="1861-01">Janry Term 1861</date> he failed to return and stand his Trial as he had promised Your petitioner Your petitioner believes that he would have appeared and surrendered himself again for Trial but for the troubles in the Country that he was afraid to return. Your petitioner states that he was induced to go bail for said boy Ellis by his relations and his Mother who is dead was an old friend of his and on account of the age of said Ellis who is only about 18 years of age and an orphan that he has never recieved one dollar to endemnify him as bail nor never expects to recieve any that he believed said Ellis would appear and that he was innocent of the Charge and that <hi rend="str">of</hi> his family were old friends of his and ^on account^ of his youth were the Reasons that induced him to go his bail recieving no reward nor expecting none. Your petitioner States that after said boy Ellis failed to appear &amp; his bond was forfeited he has used every means to have him taken and brought back to be tried that he obtained from Your Excellency last <date when="1861-02">Febry</date> a requisition on the Governer of La for said Ellis<pb/>
+<lb/>who was then in New Orleans but by some means the officer that went after ^him^ failed to get him that in <date when="1860-10">October last</date> hearing that he was in Cincinnati he obtained another requisitions from your Excellency on the Governer of Ohio and sent a police officer with it to Ohio, and paid him for going but he was unable to find him.</p>
+<p>Your petitioner would respectfully request your Excellency to remit said Judgment against him that if he is Compelled to pay these times it will be verry oppressive that he has Lived in Louisville ever since he was born that he has by industry and economy accumilated by his trade as a barber a little property, a home for himself &amp; family that if he is Compelled to pay the Judgement his little property will have to be sold at a sacrafice to pay it. that he has he believes Conducted himself as a law abiding Citizen as all who Know him he believes will so state.</p>
 <p>Marshall Woodson<pb/></p>
 <p>I hope the Govener will remit the fine according to the prayer of the petitioner.</p>
-<p>Jeff. Brown.
+<p>Jeff Brown
 <lb/><hi rend="underline">Hamilton Pope</hi>
 <lb/>W A Ronald
-<lb/>Cableb W. Logan
+<lb/>Caleb W. Logan
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> M<hi rend="underline"><hi rend="sup">c</hi></hi>Knight
 <lb/>Dan<hi rend="underline"><hi rend="sup">l</hi></hi> Smith
-<lb/>J. M. Stephens
-<lb/>I. H. Price
+<lb/>J. H. Stephens
+<lb/>J. H. Price
 <lb/><unclear/> <unclear/>
 <lb/><unclear/> <unclear/>
 <lb/>R. C. Hewitt
@@ -84,8 +86,8 @@
 <p>Remitted 
 <lb/>B M</p>
 <p>Jefferson Cir. Ct
-<lb/>$300.
-<lb/>Iss<hi rend="sup">d</hi> <date when="1861-12-21">Dec<hi rend="sup">r</hi> 21. 1861</date></p>
+<lb/>&#36;300.
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-12-21">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 21. 1861</date></p>
   </body>
  </text>
 </TEI>

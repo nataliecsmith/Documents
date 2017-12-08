@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0111"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,27 +64,24 @@
  <text>
   <body>
    <p>Greenville, Ky,
-<lb/><date when="1865-06-22">June the 22<hi rend="sup">nd</hi> 1865</date>
-<lb/>Thos. E. Bramlete
-<lb/>Govor of Kentuckey
+<lb/><date when="1865-06-22">June the 22<hi rend="sup">n\ond</hi> 1865</date>
+<lb/>Thos, E, Bramlete
+<lb/>Go<hi rend="str">f</hi>vor of Kentuckey
 <lb/>Sir</p>
 <p>I Have the Honor of droping you a Short address</p>
-<p>Sir I wish to know why, Gen. D. W. Lindsey will not pay the Soldiers that was under my comd while we was on duty I was compelld to furnish my Soldiers their rations.. at my own Expence,, I all so had to furnish my men forage for their Horses all of which I have paid for Except Some five or Six Hundred dollars I Have paid for all the Horses that was musterd into the Servis of my company Except four.. Said Horses was valued and musterd Into the Servis and Rece,d, By Gen. D. W. Lindsey and orderd to actiff duty By Gen D. W. Lindsey on the <date when="1864-09-05">5<hi rend="sup">th</hi> day of Sept 1864</date></p>
-<p>) Sd.. mustein Roll (<pb/>
-<lb/>I Have wroat to Gen Lindsey Several times Lately to which He gives no answer what Ever.. If my men ar Entitel,d, to pay I Hope you will Informe me our term of Servis Expired on the <date when="--03-05">5" day of March</date>.. I Have asked Gen Lindsey to allow my Soldiers to Be muster,d, out and discharg,d, as other Soldiers</p>
-<p>All of which He treates with Silent contempt or with Indiferent disrespect I Hope Govrnor I will Hear from you Soon, as I ver much neede the money I have furnished my men</p>
+<p>Sir I wish to know why, Gen, D, W, Lindsey will not pay the Soldiers that was under my comd while we was on duty I was compell,d, to furnish my Soldiers their Rations,, at my own Expence,, I all So had to furnish my men<hi rend="str">s</hi> forage for their Horses all of which I Have paid for Except Some five or Six Hundred dollars I Have paid for all the Horses that was musterd into the Servis of my company Except four,, Said Horses was valued and musterd Into the Servis and Rece,d, By Gen, D, W, Lindsey and orderd to actiff duty By Gen D, W, Lindsey on the <date when="1864-09-05">5<hi rend="sup">th</hi> day of Sept 1864</date></p>
+<p>) <hi rend="underline">See,,</hi> <hi rend="underline">mustein</hi> <hi rend="underline">Roll</hi> (<pb/>
+<lb/>I Have wroat to Gen Lindsey Several times, Lately to which He gives no answer what Ever,, If my men ar Entitel,d, to pay I Hope you will Informe me our term of Servis Expired on the <date when="1865-03-05">5" day of March</date>,, I Have asked Gen Lindsey to allow my Soldiers to Be muster,d, out and discharg,d, as other Soldiers</p>
+<p>all of which He treates with Silent contempt or with Indiferent disrespect I Hope Govornor I will Hear from you, Soon, as I ver much neede the money I Have furnish,d, my men</p>
 <p>Believe me to Bee with High Respect your obedt Servant</p>
-<p>Sebastian.C.. Vick
-<lb/>Col 71<hi rend="sup">st</hi> Reft E M 1<hi rend="sup">st</hi> Bat Southern
-<lb/>Kentucky Bramlett guards<pb/></p>
-<p>71
-<lb/>Greenville Ky
+<p>Sebastian, C,, Vick
+<lb/>Col 71<hi rend="sup">st</hi> Regt E M 1<hi rend="sup">st</hi> Bal Southern Kentucky Bramlett guards<pb/></p>
+<p>Greenville Ky
 <lb/><date when="1865-06-22">June 22<hi rend="underline"><hi rend="sup">nd</hi></hi> 1865</date><figure type="hr"/>
 <lb/>Vick Sebastian C
-<lb/>Col 71<hi rend="sup">st</hi> Regt E. M. 1<hi rend="sup">st</hi> Bat
-<lb/>Southern Ky Bramlitte Guards<figure type="hr"/>
+<lb/>Col 71<hi rend="sup">st</hi> Regt E. M. 1<hi rend="sup">st</hi> Bat southern Ky Bramlitte Guards<figure type="hr"/>
 <lb/>To the Gov<figure type="hr"/></p>
-<p>Wishes to Know why the soldiers that were under his Control are not paid says he furnished his soldiers with rations at his own expense also Forage for thier horses which he has paid for except some five or six Hundred dollars, days he paid for all the horses except four &amp; says he asked Gen Lindsey to allow his troops to be mustered all of which he treated with Silent Contempt or indifferent disrespect &amp;c<figure type="hr"/></p>
+<p>Wishes to Know why the soldiers that were under his Control are not paid, says he furnished his soldiers with rations at his own expense also Forage for thirer horses which he has paid for except some five or six Hundred dollars, says he paid for all the horses except four &amp;c Says he asked Gen Lindsey to allow his troops to be mustered all of Which he treated with Silent Contempt or indifferent disrespect &amp;c<figure type="hr"/></p>
 <p>Recd A G O <date when="1865-07-01">July 1 1865</date></p>
 <p>Respectfully referred to Maj W. H. Hays Insp Genl</p>
 <p>D. W. Lindsey

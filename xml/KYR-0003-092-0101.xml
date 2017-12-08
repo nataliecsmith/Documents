@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0101"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,13 +65,13 @@
   <body>
    <p>J. F. Robinson, Pres't.
 <lb/>F. C. McCalla, Cash'r.
-<lb/>Office Farmers Bank of Kentucky
+<lb/>Office Farmers Bank of Kentucky.
 <lb/>Georgetown, <date when="1861-05-25">May 25 1861</date>
-<lb/>My Dear Friend,</p>
-<p>Good news for once! Your friend Col Boyd has paid the Ballance debt_ and I feel most gloriously relieved, dont you?_ I feel so happy this morning that I have resolved to allow nothing not even <unclear>War</unclear> to ruffle my temper any more -- tis so much more pleasant and agreeable to be always in a good humor --  -- </p>
+<lb/>My Dear Friend--</p>
+<p>Good news for once! Your friend Col Boyd has paid the Ballance debt-- and I feel most gloriously relieved, dont you?-- I feel so happy this morning that I have resolved to allow nothing not even War to ruffle my temper any more -- tis so much more pleasant and agreeable to be always in a good humor --  -- </p>
 <p>But <hi rend="underline">they</hi> would not pay any interest because the law excused them from that. -- I am so glad to get the principal that I can overlook the other without complaining. Good news isnt it?</p>
-<p>Yours <unclear/>
-<lb/>F. C. McCalla<pb/></p>
+<p>Yours <unclear>Trul</unclear>
+<lb/><hi rend="underline">F. C. MCalla</hi><pb/></p>
 <p>F. C. Macalla
 <lb/><date when="1861-05-25">May 25. 1861</date></p>
   </body>

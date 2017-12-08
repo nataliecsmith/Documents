@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0084"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Campbell County, Kentucky</placeName>
-    <date when="1865-08-25">25 August 1865</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -61,12 +64,12 @@
  <text>
   <body>
    <p>Campbell Circuit Court
-<lb/>The Com'mth of Kentucky Plaintiff
-<lb/>Against } Indictment for refusing to receive the vote of a qualified voter
-<lb/>John W Flora &amp; George Herendon Defendants</p>
-<p>The Grand Jury of Campbell County, the name and by the authority of the Commonwealth of Kentucky, accuse John W Flora and Geo Herendon of the offense of refusing to receive the vote of a qualified voter, Committed as follows, viz; The Said John W Flora &amp; George Herendon on the <gap/> day of <date when="1865-08">August, 1865</date>, and on divers other days and times, before and Since that time, and before the finding of this Indictment, in the County and State aforesaid, Being officers of an Election then &amp; there held at the Carthage Precinct in Said County under the Constitution and laws of the State afore, for the Election of a<pb/>
-<lb/>Member of the <hi rend="str">United</hi> <hi rend="str">Stat</hi> Congress of the United States, for the Sixth Congressional District of Ky, a State Treasurer, a Senator from the 25<hi rend="underline"><hi rend="sup">th</hi></hi> Senatorial District of Said State, Two Member of the General assembly, for the County aforesaid, and a Clerk of the Circuit Court for the County aforesaid, and the Said Flora being then &amp; there a Judge of Said Election, and the Said Herendon being then &amp; there the Sheriff of the Said Election, And Severally acting as Such, at the time and place aforesaid, having been duly appointed and qualified as Said Judge &amp; Sheriff; The Jury aforesaid in the name and by the authority aforesaid, <hi rend="str">accuse</hi> do further Say that at the Election aforesaid for the purpose aforesaid, <hi rend="str">the</hi> at the Precinct and County aforesaid, on the day and year aforesaid, John Cherry a qualified voter of Said Precinct and County aforesaid, did then &amp; there appear before the Judges Sheriff and<pb/>
-<lb/>clerk of the Said Election aforesaid between the hours of Seven Oclock A M and Six Oclock P, M,, and then &amp; there did offer to vote; Whereupon the Said John W Flora &amp; Geo Herendon, as Judge and Sheriff of Said Election Respectively did Knowingly, unlawfully and Corruptly refuse to receive the vote of the Said John Cherry, Contrary to the Statutes in Such Case made and provided, and against the peace and dignity of the Commonwealth of Kentucky</p>
+<lb/>The Com"mth of Kentucky Plaintiff
+<lb/>Against &#125; Indictment for refusing to receive the vote of a qualified voter
+<lb/>John W Flora &amp; Geo Herendon Defendants</p>
+<p>The Grand Jury of Campbell county, the name and by the authority of the commonwealth of Kentucky, accuse John W Flora and Geo Herendon of the offense of refusing to receive the vote of a qualified voter, Committed as follows viz; The Said John W Flora &amp; George Herendon on the <gap/> day of <date when="1865-08">August, 1865</date>, and on divers other days and times, before and Since that time, and before the finding of this Indictment, in the county and State aforesaid, Being officers of an Election then &amp; there held at the Carthage Precinct in Said County under the Constitution and laws of the State afore, for the Election of a<pb/>
+<lb/>Member of the <hi rend="str">United</hi> <hi rend="str">Stat</hi> Congress of the united States, for the Sixth Congressional District of Ky, a State Treasurer, a Senator f<hi rend="str">or</hi>rom the 25<hi rend="sup">th</hi> Senatorial District of Said State, Two Member of the General assembly, for the County aforesaid, and a Clerk of the Circuit Court for the County aforesaid, and the Said Flora being then &amp; there a Judge of Said Election, and the Said Herendon being then &amp; there the Sheriff of the Said Election, And Severally acting as Such, at the time and place aforesaid, having been duly appointed and qualified as Said Judge &amp; Sheriff; The Jury aforesaid in the name and by the authority aforesaid, <hi rend="str">accuse</hi> do further Say that at the Election aforesaid for the purpose aforesaid, <hi rend="str">the</hi> at the Precinct and County aforesaid, on the day and year aforesaid, John Cherry a qualified voter of Said Precinct and County aforesaid, did then &amp; there appear before the Judges Sheriff and<pb/>
+<lb/>Clerk of the Said Election aforesaid between the hours of Seven Oclock A M and Six Oclock P, M,, and then &amp; there did offere to vote; Whereupon the Said John W Flora and Geo Herendon, as Judge and Sheriff of Said Election Respectively did Knowingly, unlawfully and Corruptly refuse to receive the vote of the Said John Cherry, Contrary to the Statutes in Such Case Made and provided, and against the peace and dignity of the Commonwealth of Kentucky</p>
 <p>Witnesses
 <lb/>John J Nelson
 <lb/><hi rend="underline">John Cherry</hi></p>
@@ -84,7 +87,7 @@
 <lb/>G. W. Carmack
 <lb/>Foreman<figure type="hr"/>
 <lb/>Filed <date when="1865-08-25">25 Aug 1865</date>
-<lb/>B. W, iss<hi rend="sup">d</hi> <date when="1865-08-28">Aug 28 "</date></p>
+<lb/>B. W. iss<hi rend="sup">d</hi> <date when="1865-08-28">aug 28 "</date></p>
   </body>
  </text>
 </TEI>

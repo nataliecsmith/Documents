@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0151"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Newport, Campbell County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -61,12 +63,12 @@
  <text>
   <body>
    <p>Hodge &amp; others
-<lb/>vs } additional Brief of Thornton, Trustee
-<lb/>Thornton Trustee</p>
-<p>The Trustee is bound during the continuance of the Trust to lay off &amp; lease a moiety of the ground -- He may lay off a portion of the ground as an addition to the City of Newport exclusively for leasing as he Shall deem best -- no one has the power to say that he shall sell all of these Lots so laid out or any part of them or limit his power over them -- He has now say 69 lots laid out. The plaintiffs call for a deed for <hi rend="sup">1</hi>/<hi rend="sub">3</hi> of these on the ground that as the Trustee is going to sell for investment, they have the right to take the ^Lots^ instead of the money. We say no, the Trustee has a right to lease ^these^ lots &amp; not sell, if the think proper, &amp; he cannot be compelled to elect which he will do as to those Lots to be leased the power not being extinguished by death of Mrs Tibbotts the parties cannot call for a deed -- But suppose the Trustee had concluded in his own mind to lease one half of these 69 lots &amp; sell the other half, the plaintiff could not make him elect to say which half he would<pb/>
-<lb/>lease and which sell, even if they had the right (which we deny) to take their part of the Lots that he intends to sell, instead of the money -- as to leasing, the trust is not extinguished by death of Mrs Tibbatts -- and no one has the power to Say which lots he shall lease &amp; which sell, &amp; have partition between Lots for sale, and lots for lease. their claim however is for <hi rend="sup">1</hi>/<hi rend="sub">3</hi> of all, the land not laid out and the lots laid out also -- When he sells they may possibly stop their <hi rend="sup">1</hi>/<hi rend="sub">3</hi> of the money in his hands after deducting expenses &amp; compensation -- They cannot have the notes on hand, for this fund has a charge on it for expenses already incurred, which is a joint expense for all -- </p>
+<lb/>vs &#125; additional Brief of <hi rend="underline">Thornton, Trustee</hi>
+<lb/>Thornton, Trustee</p>
+<p>The Trustee is bound during the continuance of the Trust to lay off &amp; lease a moiety of the ground-- He may lay off a portion of the ground as an addition to the City of Newport exclusively for leasing as he Shall deem best-- no one has the power to say that he shall sell all of these Lots so laid out or any part of them or limit his power over them -- He has now say 69 lots laid out-- The plaintiffs call for a deed for <hi rend="sup">1</hi>/<hi rend="sub">3</hi> of these on the ground that as the Trustee is going to sell for investment, they have the right to take the ^Lots^ instead of the money-- We say no,, the Trustee has a right to lease ^these^ lots &amp; not sell, if the think proper, &amp; he cannot be compelled to elect which he will do as to those Lots to be leased the power not being extinguished by death of Mrs Tibbatts the parties cannot call for a deed-- But suppose the Trustee had concluded in his own mind to lease one half of these 69 Lots &amp; sell the other half, the plaintiff could not make him elect to say which half he would<pb/>
+<lb/>lease and which sell, even if they had the right (which we deny) to take their part of the Lots that he intends to sell, instead of the money-- as to leasing, the trust is not extinguished by death of Mrs Tibbatts-- and no one has the power to Say which lots he shall lease &amp; which sell, &amp; have partition between Lots for sale, and lots for lease-- their claim however is for <hi rend="sup">1</hi>/<hi rend="sub">3</hi> of all, the land not laid out and the lots laid out also-- When he sells they may possibly stop their <hi rend="sup">1</hi>/<hi rend="sub">3</hi> of the money in his hands after deducting expenses &amp; compensation-- They cannot have the notes on hand, for this fund has a charge on it for expenses already incurred, which is a joint expense for all -- </p>
 <p>R. T. Thornton
-<lb/><hi rend="underline">Trustee.</hi><pb/></p>
+<lb/>Trustee.<pb/></p>
 <p>Hodge &amp;c
 <lb/>vs
 <lb/>Thornton, Trustee</p>

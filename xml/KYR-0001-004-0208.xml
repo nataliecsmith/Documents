@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0208"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">P. U. Major, W. H. Sneed, and John M. Hewitt, Jr. to Thomas E. Bramlette</title>
+    <title level="a" type="main">Patrick U. Major, W. H. Sneed, and John M. Hewitt, Jr. to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4327</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,25 +63,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort <date when="1863-10-23">Oct. 23rd 1863</date>
-<lb/>To his Excellency Gov. Bramlette</p>
-<p>On the <gap/> day of <gap/> 186 <gap/> Graham Akin of Danville, a youth of about 14 years of age, very delicate &amp; slender, was attending the school of a Mr Waterman in the city of Frankfort Ky.</p>
-<p>Thomas Davenport, about the age of 17 or 18 years, Heavy &amp; stout, was attending the same school.</p>
-<p>Akin was swinging in the gymnasium when he was interrupted in his exercise by Davenport standing in the way of the swing. Akin requested Davenport to move and not obstruct him which Davenport refused to do; Akin continued his exercises and slightly brushed against Davenport, where-upon Davenport <hi rend="underline">Choaked and otherwise</hi> maltreated Akin, who, suffering from the severity of Davenport's treatment, rushed into the house of Mr Waterman, sized his gun and shot Davenport with <hi rend="underline">small shot</hi>.</p>
-<p>Akin was indited by the "Grand Jury" of Franklin Co. at its <date when="1863-06">June session in 1863</date> for "shooting, in sudden heat and passion, on Thomas Davenport, with intent to kill" Akin was held to bail in the sum of $600<hi rend="sup">00</hi> to appear at the next <date when="--10">October term</date><pb/>
-<lb/>of said court, to answer with the Commonwealth of Ky as stated in the indictment.</p>
-<p>He appeared <hi rend="str">and</hi> in open court on the <date when="1863-10-12">12th day of October 1863</date> and on the <date when="1863-10-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> day of October 1863</date> was arraigned and plead "Guilty" to the indictment. The Jury accordingly returned a verdict of "Guilty" assessing his fine at fifty ($50) Dollars.</p>
-<p>Deeming this to be a case in which your leniency would be well exercised, We therefore pray you to remit the fine.</p>
+   <p>Frankfort <date when="1863-10-23">Oct. 23rd. 1863</date>
+<lb/>To his Excellency Gov. Bramlette-</p>
+<p>On the <gap/> day of <gap/> 186<gap/> Graham Akin of Danville, a youth of about 14 years of age, very delicate &amp; slender, was attending the school of a Mr Waterman in the city of Frankfort Ky -- </p>
+<p>Thomas Davenport, about the age of 17 or 18 years, Heavy &amp; stout, was attending the same school -- </p>
+<p>Akin was swinging in the gymnasium when he was interrupted in his exercises by Davenport's standing in the way of the swing. Akin requested Davenport to move and not obstruct him- which Davenport refused to do; Akin continued his exercises and slightly brushed against Davenport, whereupon Davenport <hi rend="underline">Choaked</hi> <hi rend="underline">and</hi> <hi rend="underline">otherwise</hi> maltreated Akin, who, suffering from the severity of Davenport's treatment, rushed into the house of Mr Waterman, sezed his gun and shot Davenport with <hi rend="underline">small</hi> <hi rend="underline">shot</hi> -- </p>
+<p>Akin was indited by the "Grand Jury" of Franklin Co- at its <date when="1863-06">June session in 1863</date> for "shooting, in sudden heat and passion, on Thomas Davenport, with intent to kill" Akin was held to bail in the sum of &#36;600<hi rend="underline"><hi rend="sup">00</hi></hi> to appear at the next <date when="1863-10">October Term</date><pb/>
+<lb/>of said court, to answer unto the Commonwealth of Ky as stated in the inditment.</p>
+<p>He appeared <hi rend="str">and</hi> in open court on the <date when="1863-10-12">12th day of October 1863</date> and on the <date when="1863-10-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> day of October 1863</date> was arraigned and plead "Guilty" to the indictment -- The Jury accordingly returned a verdict of "Guilty" assessing his fine at fifty (&#36;50) Dollars -- </p>
+<p>Deeming this to be a case in which your leniency would be well exercised, We therefore pray you to remit the fine -- </p>
 <p><hi rend="underline">P. U. Major</hi>
 <lb/>W. H. Sneed
-<lb/>Jno. M. Hewitt Jr.<pb/></p>
+<lb/>Jno, M, Hewitt Jr.<pb/></p>
 <p>Franklin Cir Ct
 <lb/>vs
 <lb/>Graham Akin</p>
-<p>Remit all except fees &amp; costs.
-<lb/><date when="1863-10-24">Oct 24<hi rend="sup">th</hi> 1863</date>
-<lb/>Tho. E. Bramlette
-<lb/>$50 -- 
+<p>Remit all except fees &amp; costs.-
+<lb/><date when="1863-10-24">Oct 24<hi rend="sup">th</hi> 1863</date></p>
+<p>Tho. E. Bramlette<figure type="hr"/>
+<lb/>&#36;50 -- 
 <lb/>Shooting</p>
   </body>
  </text>

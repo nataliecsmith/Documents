@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1456"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Mercer County, Kentucky</placeName>
     <date when="1861-10-01">1 October 1861</date>
    </creation>
    <textClass>
@@ -60,45 +62,45 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency B. Magoffin Govenor of the State of Kentucky,</p>
-<p>Your petitioners Eliza Moore F. B. Everslain, W. T. Cooke, M. B. Pulliam, Samuel Ruply and James Burke, citizens of Mercer County, very respectfully represent to your Excellency, that a Judgment has been entered against them in the Washington circuit Court in the sum of $400 on a forfeited recognizance of W. H. Moore &amp; $6,50<hi rend="sup">cts</hi>. costs in <date when="1862-03">March 1862,</date> and upon which a capais has issued and is now in the hands of the sheriff of Mercer County -- </p>
-<p>They state that the said W. H. Moore was a youth, &amp; the son of the Petitioner, Eliza Moore, and was charged with larceny, and that your petitioners became bail for his appearance at the request of and in conjunction with his ^s<hi rend="underline"><hi rend="sup">d</hi></hi>^ mother, she havig indemified the other of your petitioners by all she owns or possesses &amp; which is not more than sufficent to pay the said Judgment, &amp; that if executed by the commonwealth will take it all from her &amp; leave her pennyless -- she is a woman of age &amp; has no other property &amp; has no one to take care of her &amp; is dependant upon the little property on which the other of your petitioners hold said lein for a partial support -- The boy, her<pb/>
-<lb/>said son W. H. Moore was young and inexperienced, and believed to be innocent and in fright left his home &amp; his mother and has gone to the wars, -- she is in a helpless condition, and will be the whole sufferer, if not relieved by Executive clemency, -- she will be compelled to pay the Commonwealths attrnys fees, &amp; the cost which is more than she can pay without suffering to her, wherefore we ask that your Excellency will remit said Judgment, and give her relief which the circumstances, &amp; her condition implore -- </p>
+   <p>To His Excellency B. Magoffin Govenor of the state of Kentucky,</p>
+<p>Your petitioners Eliza Moore F. B Everslain, W. T. Cooke, M. B. Pulliam Samuel Ruply and James Burke, citizens of Mercer County, very respectfully represent to your Excellency, that a Judgmet has been rendered against them in the Washington Circuit Court in the sum of &#36;400 on a forfeited recognizance of W. H. Moore &amp; &#36;6,50<hi rend="sup">cts</hi>. costs in <date when="1862-03">March 1862,</date> and <hi rend="str">whi</hi>upon which a capais has issued and is now in the hands of the sheriff of Mercer County-</p>
+<p>They state that the said W. H, Moore has a youth, &amp; the son of the Petitioner, Eliza Moore. and was charged with larceny,. and that your petitioners became bail for his appearance at the request of and in conjunction with his s<hi rend="underline"><hi rend="sup">d</hi></hi> mothers she havig indemified the other of yours petitioners by all she ownes or possesses &amp; which is not more than sufficent to pay the said Judgment, &amp; that if exacted by the Commonwealth <unclear/> will take it all from her.. &amp; leave hers pennyless -- she is a woman of age &amp; has no other property. &amp; has no one to take care of her &amp;. is dependant upon the little property on which the other of your petitioners hold said lien for a partial support- The boy, her<pb/>
+<lb/>said son W. H Moore was young and inexperienced, and belevied to be innocent and in fright left his home &amp; his Mother and has gone to the wars,- she is in a helpless condition, and will be the whole sufferer, if not relieved by Executive clemency, -- She will be compelled to pay the Commonwealths Attnys fees. &amp; the cost which is more than she can pay without suffering to her, Wherefore we ask that your Excellency will remit said Judgmet, and give her relief which the circumstances, &amp; her condition implores -- </p>
 <p>Eliza Moore
 <lb/>W. T. Cooke
 <lb/>Sam<hi rend="sup">l</hi> Ruply
 <lb/>Jas Burke
 <lb/>M. B. Pulliam
-<lb/>B. F. Everslain</p>
+<lb/>B. F. Everslain<figure type="hr"/></p>
 <p>Mercer County, Ky</p>
-<p>This day came before me Eliza Moore &amp; M. B. Pulliam and made oath that they believe the statements of the forgoing Petition are true </p>
-<p>Giving now my hand this <date when="1861-10-01">1 day of October 1861. -- </date></p>
+<p>This day came before me Eliza Moore &amp; M B Pulliam and made oath that they believe the statements of the forgoing Petitin are true </p>
+<p>Given under my hand this <date when="1861-10-01">1 day of October 1861. -- </date></p>
 <p>John Slavens Jr J. P. C. H.<pb/></p>
-<p> -- The undersigned citizens of Mercer County respectfully requests the Hon B. Magoffin Govener of Ky to remit the fine referred to in the forgoing Petition &amp; unite in the prayer thereof -- <date when="1861-10-01">Oct 1 -- 1861</date></p>
+<p> -- The undersigned citizens of Mercer County respectfully requests the <hi rend="str">G</hi>Hon<hi rend="sup">l</hi> B. Magoffin Govenor of Ky to remit the fine referred to in the forgoing Petition.&amp; unite in the prayer therof -- <date when="1861-10-01">Oct 1 -- 1861</date></p>
 <p><hi rend="underline">W. A. Hooe</hi>
 <lb/>John Slavens Jr
 <lb/>Chr Chinn
-<lb/><hi rend="underline">Tho</hi> <hi rend="underline">Allin</hi>
-<lb/>N H Burrus
-<lb/>Ben C Allin
+<lb/><hi rend="underline">Tho Allin</hi>
+<lb/>N, H Burrus
+<lb/><hi rend="underline">Ben C Allin</hi>
 <lb/>W<hi rend="sup">m</hi> B Allin
 <lb/>B W Allin
-<lb/>F. W. Currey
+<lb/>F. W, Currey
 <lb/>Tho<hi rend="sup">s</hi> H Buckner
 <lb/>R N Scott
-<lb/>A. F. Cochran
+<lb/>A, F, Cochran
 <lb/>S W Jones
 <lb/>John Kane Jr
 <lb/>W<hi rend="sup">m</hi> C Clark
 <lb/>John Kane
 <lb/>A, Portwood<pb/></p>
 <p>Return Remittance to W. A. Hooe if remitted -- </p>
-<p>Washington Cir Ct
-<lb/>Remitted 
+<p>Washington Cir Ct</p>
+<p>Remitted 
 <lb/>B. M. </p>
-<p>$400 } Recog
-<lb/>Eliza Moore &amp; otherz
-<lb/>Iss <date when="1861-10-10">Oct 10 1861</date></p>
+<p>&#36;400 &#125; Recog
+<lb/>Eliza Moore &amp; others
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-10">Octr 10 1861</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0080"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,16 +64,16 @@
  <text>
   <body>
    <p>Frankfort
-<lb/><date when="1861-06-10">10<hi rend="sup">th</hi> June 1861</date>
+<lb/><date when="1861-06-10">10<hi rend="sup">th</hi>. June 1861</date>
 <lb/>To the Ky. Millitary Board
 <lb/>Gentl<hi rend="underline"><hi rend="sup">n</hi></hi></p>
-<p>I submit to you herewith <hi rend="str">two</hi> a short letter from M<hi rend="sup">r</hi> Senator Wait on the subject of the manufacture of Gun Powder.</p>
-<p>I know the fact that he owns a large quantity of Mountain lands on both sides of the Cumberland River in the vicinity of the Mouth of Rockcastle River in Pulaski &amp; Whitley Counties I know also that the caves of thar region are numerous and abound in Salt Petre, and believe gunpowder can be manufactured as cheap there as at any other point in Kentucky The location is secure from invasion and but little danger of Negro insurrection or incendiarism.</p>
+<p>I submit to you herewith <hi rend="str">two</hi> a Short letter from M<hi rend="sup">r</hi> Senator Wait on the subject of the manufacture of Gun Powder.</p>
+<p>I know the fact that he owns a large quantity of Mountain lands on bo<hi rend="str">h</hi>th sides of the Cumberland River in the vicinity of the mouth of Rockcastle River in Pulaski &amp; Whitley counties I know also that the caves of that region are numerous and abound in Salt Petre, and believe gunpowder can be manufactured as cheap there as at any other point in Kentucky The location is secure from invasion and but little danger of Negro insurrection or incendiarism.</p>
 <p>M<hi rend="underline"><hi rend="sup">r</hi></hi> Wait is a reliable man.</p>
 <p>Respy
 <lb/><hi rend="underline">A. J. James</hi><pb/></p>
 <p>Senator
-<lb/>Waite for <unclear/> <unclear/> gunpowder</p>
+<lb/>Waite for manufacturing gunpowder</p>
   </body>
  </text>
 </TEI>

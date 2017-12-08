@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0109"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,24 +65,24 @@
   <body>
    <p>HARRODSBURG SAVINGS INSTITUTION,
 <lb/>DIRECTORS.
-<lb/><milestone unit="column" n="2"/><cb n="1"/>A. M. VANARSDALL. 
+<lb/><milestone unit="column" n="3"/><cb n="1"/>A. M. VANARSDALL. 
 <lb/>B. B. CAMPBELL.
 <lb/><cb n="2"/>JAS. TAYLOR.
 <lb/>R. M. DAVIS.
-<lb/><milestone unit="column" n="1"/>A. G. KYLE, PRESIDENT
-<lb/>J. W. CARDWELL, CASHIER</p>
-<p>Harrodsburg Ky. <date when="1861-07-03">3<hi rend="underline"><hi rend="sup">rd</hi></hi> July 1861</date>
+<lb/><cb n="3"/>A. G. KYLE. PRESIDENT
+<lb/>J. W. CARDWELL. CASHIER<milestone unit="column" n="1"/></p>
+<p>Harrodsburg, Ky. <date when="1861-07-03">3<hi rend="underline"><hi rend="sup">rd</hi></hi> July 1861</date>
 <lb/>Dear Gov.</p>
-<p>On the rect of our Guns (for which we are indeted to you) Lieut Carrey informed me that the Superintendent at the Arsenal told him there was no moulds with the Guns but if I would send him the Lead he would mould me the Bullets &amp; Make Cartridges I accordingly Sent 200 #. of Lead and request<hi rend="sup">d</hi> Qr Mr Genl West to have it run into Balls and made into Cartridges &amp; to send me Caps enough to use with the Cartridges On Yesterday I rec<hi rend="underline"><hi rend="sup">d</hi></hi> the Enclosed letter from Qr. M<hi rend="underline"><hi rend="sup">r</hi></hi> Genl West -- Now if you Can grant me a requisition for the moulding of the 200 # Lead With Cartridges &amp; Caps I will be<pb/>
+<p>On the rect of our Guns, (for which we are indeted to you) Lieut Currey informed me that the Superintendent at the Arsenal told him there was no moulds with the Guns but if I would send him the Lead he would mould me the Bullets &amp; Make Cartridges I accordingly sent 200<hi rend="underline"><hi rend="sup">lb</hi></hi> of Lead and request<hi rend="sup">d</hi> Qr M Genl West to have it run into Balls. and made into Cartridges &amp; to Send me Caps enough to use with the Cartridges on yesterday I rec<hi rend="underline"><hi rend="sup">d</hi></hi> the Enclosed letter from Qr. M<hi rend="underline"><hi rend="sup">r</hi></hi> Genl West -- Now if you can grant me a requisition for the moulding of the 200 lb Lead With Cartridges &amp; Caps I will be<pb/>
 <lb/>be greatly obliged. -- </p>
 <p>We want to try our Guns for as to get the various distances merly to practice a few shots.</p>
-<p>We do not expect to use our Guns only in accordance with Kentucky Law -- and hope you will grant our request,</p>
-<p>As I have furnished the Lead now in Care of Genl West if it is required I will pay for the Powder &amp; Caps &amp; pay for Expense of Making them up</p>
-<p>Do I ask too much to give this your personal attention &amp; if you can grant the requisition please hand it to Genl West</p>
+<p>We do not expect to use our Guns only in accordance with Kentucky Law- and hope you will grant our request,</p>
+<p>As I have furnished the Lead now in Care of Genl West if it is required I will pay for the Powder &amp; Caps &amp; pay Expense of Making them up</p>
+<p>Do I ask too much to give this your personal attention &amp; if you grant the requisition please hand it to Genl West</p>
 <p>Please let me hear from you at yr Earliest Convenience</p>
-<p>Yr Obt Sert
+<p>yr Obt Sert
 <lb/><hi rend="underline">J. W. Cardwell</hi></p>
-<p>Now we have no balls &amp; no moulds to make them -- </p>
+<p>now we have no balls &amp; no moulds to make them -- </p>
   </body>
  </text>
 </TEI>

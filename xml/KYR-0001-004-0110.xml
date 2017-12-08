@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0110"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,12 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000336">Glasgow Ky</placeName>. <date when="1863-10-26">26<hi rend="sup">th</hi> Octr 1863</date>
-<lb/><persName ref="cwgk:N001000">Governor Bramlett</persName></p>
-<p>Dear Sir I have learned with suprise and regret that <persName ref="cwgk:N00000330">Mr Franklin Gorin</persName> of Louisville has been indicted for malicious shooting. I have known Mr Gorin all my life, and I think I can say with the utmost confidence that he is not the character of man to be guilty of such an offence Mr Gorin is not the man to bear malice, I know him to be an impulsius man, but of high strung and manly and noble sentiments and sympathies such indeed as adorn human nature. I would most respectfully suggest that his pardon would not militate against the publick interests of the county, but, upon the contrary would be but such an exercise of<pb/>
-<lb/>of clemency and mercy as might be well extended to an old man who has acted a faithful post for his country and the best interestes of society. If Mr Gorin has at any time deviated from the character I have given him I feel assured that such deviations have been the result of excitement rather than malice and malevolence</p>
+   <p>Glasgow Ky. <date when="1863-10-26">26<hi rend="sup">th</hi> Octr 1863</date>
+<lb/>Governor Bramlett</p>
+<p>Dear Sir I have learned with suprise and regret that Mr Franklin Gorin of Louisville has been indicted for malicious shooting. I have known Mr Gorin all my life, and I think I can say with the utmost confidence that he is not the character of man to be guilty of such an off<hi rend="str">ice</hi>ence Mr Gorin is not the man to bear malice, I know him to be an impetitous man, but of high Strung and manly and noble Sentiments and Sympathies such indeed as <hi rend="str"><unclear/></hi>adorn human nature. I would most respectfully suggest that his pardon would not militate against the publick interests of the country, but, upon the contrary would be but such an exercise of<pb/>
+<lb/>of clemency and mercy as might be well extended to an old man who has acted a faithful part for his country and the best interests of Society -- If mr Gorin has at any time deviated from the character I have given him I feel assured that Such deviations have been the result of excitement rather than malice and malevolence</p>
 <p>I remain very truly &amp;c
-<lb/><persName ref="cwgk:N00001152">John W Ritter</persName></p>
+<lb/>John W Ritter</p>
 <p>P S. I feel assured that every Union man in this portion of the state would be pleased to know that Mr Gorin was pardoned</p>
 <p>J W R</p>
   </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0004"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -65,9 +68,9 @@
 <lb/>Frankfort, <date when="1865-10-31">Oct 31, 1865</date>.</p>
 <p>Special Orders
 <lb/>No 86</p>
-<p>II " " " 1<hi rend="sup">st</hi> Lt Chas Hayden State Mustering officer is hereby ordered to proceed to Flemingsburg Ky to muster out Captain Barbers Company of State troops</p>
+<p>II ,, ,, ,, 1<hi rend="sup">st</hi> Lt Cha<hi rend="sup">s</hi> Hayden State Mustering officer is hereby ordered to proceed to Flemingsburg Ky to muster out Captain Barber's Company of State troops</p>
 <p>By order of the Govenor
-<lb/>D. W. Lindsey
+<lb/>D, W, Lindsey
 <lb/>Adj Genl of Ky</p>
 <p>1<hi rend="sup">st</hi> Lt Cha<hi rend="sup">s</hi> Hayden
 <lb/>State Must Officer<pb/></p>
@@ -77,8 +80,8 @@
 <p>Head=Quarters Kentucky Volunteers,
 <lb/>ADJUTANT GENERAL'S OFFICE.
 <lb/>OFFICIAL.</p>
-<p>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt Chas Haydon
-<lb/>State Must Officer
+<p>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt Cha<hi rend="sup">s</hi> Haydon
+<lb/>state Must officer
 <lb/>Frankfort Ky</p>
 <p>Capt <hi rend="underline">Barber</hi>
 <lb/>Fleming Co</p>

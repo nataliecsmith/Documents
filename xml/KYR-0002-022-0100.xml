@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0100"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,15 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Black Licks P. O.
+   <p>Black Licks P. O,
 <lb/>Logan Co. Ky-
 <lb/><date when="1861-06-21">June 21 1861</date>
-<lb/>Secty. Military Board
+<lb/>Secty, Military Board
 <lb/>Dr Sir</p>
-<p>Some three weeks since a Co. of Home Guards was formed at this place The County Judge superintend the election of Officers &amp; adminstered the Oath <hi rend="str">of</hi> required by law to officers &amp; men -- We then sent Mr. Jno, biers to Frankfort with the Bond of the Captain drawn up by the county Judge &amp; certified by him to be good with 4 securities, to make application for arms -- He was informed that the Board had not acted yet &amp; we must wait<pb/>
-<lb/>I was elected Captain of the Company which numbers 70 men -- We have been drilling twice per week and are anxious to get arms -- We have a large slave population &amp; are on the Rail Road track to Tenn- and feel insecure in life &amp; property &amp; feel that the state should supply us with arms -- </p>
+<p>Some three weeks since a Co. of Home Guards was formed at this place The County Judge superintend the election of Officers &amp; adminstered the Oath <hi rend="str">of</hi> required by law to officers &amp; men -- We then sent Mr, Jno, biers to Frankfort with the Bond of the Captain drawn up by the County Judge &amp; certified by him to be good with 4 securities, to make application for arms- He was informed that the Board had not acted yet &amp; we must wait<pb/>
+<lb/>I was elected Captain of the Company which numbered 70 men -- We have been drilling twice per week and are anxious to get arms -- We have a large slave population &amp; are on the Rail Road track to Tenns- and feel insecure in life &amp; property &amp; feel that the state should supply us with arms -- </p>
 <p>I am ready to comply with any requirement your Board shall make</p>
-<p>Russellville now has over 100 guns of the state then -- I think all the arms for this county should not be concentrate at that point I am Colonel of the Logan Militia and assure you the arms shall<pb/>
+<p>Russellville now has over 100 guns of the state then -- I think all the arms for this county should not be concentrated at that point I am Colonel of the Logan Militia and assure you the arms shall<pb/>
 <lb/>be taken care of and used only in the spirit of the Law authorizing this distribution -- </p>
 <p>Hoping to hear from you at an early day I remain
 <lb/>very respectfully
@@ -76,9 +79,9 @@
 <lb/>Capt. Home Guard<pb/></p>
 <p>3
 <lb/>C. H. Blakey
-<lb/>Home Guards
+<lb/>Home Guard
 <lb/>Logan Co
-<lb/>Rec<hi rend="sup">d</hi> of <unclear/> <date when="1861-06-25">25 June 1861.</date></p>
+<lb/>Rec<hi rend="sup">d</hi>. of <unclear>com</unclear> <date when="1861-06-25">25 June 1861.</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0091"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <date>n.d.</date>
+    <date when="1863-09">September 1863</date>
    </creation>
    <textClass>
     <keywords>
@@ -59,67 +62,66 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Thomas E. Bramlet
-<lb/>Governor of the State of Kentucky,</p>
-<p>Whereas a judgement was Rendered in the Henry Circuit Court, for $200= Against M B. Ireland. As the Security of James Guthrie on a forfeited Bond, At the <date when="--09">September Term</date> of said Court, And Said Guthrie has left for parts unknown, And no Injury having Resulted to any person or the Commonwealth of Kentucky, Therefore We the undersigned ^citizens^ of Henry County knowing the facts as above stated Most Respectfully Pray and Petition you to Remit and Release Said Ireland of the aforesaid judgement. Atty's fees &amp; costs Excepted. This day of <date when="1863-09">September -- 1863</date>.</p>
-<p>J. P. Sparks</p>
-<p>John F Hall
-<lb/>Jno W Burdine<pb/>
-<lb/><milestone unit="column" n="2"/><cb n="1"/>J. D. Gardner
+   <p>To his Excellency Thomas E, Bramlet
+<lb/>Govenor of the State of Kentucky,</p>
+<p>Whereas a judgement was Rendered in the Henry Circuit Court, for &#36;200= Against M. B. Ireland, As the security of James Guthrie on a forfeited Bond, At the <date when="--09">september term</date> of said Court, And said Guthrie has left for parts unknown, And no Injury having Resulted to any person or the Commonwealth of Kentucky, Therefore We the undersigned ^citizens^ of Henry County knowing the facts as above stated Most Respectfully Pray and Petition you to Remit and Release Said Ireland of the aforesaid judgement, Atty's fees &amp; costs Excepted,, This <gap/> day of <date when="1863-09">September -- 1863</date>,</p>
+<p><hi rend="underline">J, P, Sparks</hi></p>
+<p>John I Hall
+<lb/>Jno. W. Burdine<pb/>
+<lb/><milestone unit="column" n="2"/><cb n="1"/>J, D. Gardner
 <lb/>W. Bensinger
-<lb/>John S. Clark
+<lb/>John. S, Clark
 <lb/>Jno W Burdine
 <lb/>T. J. Sparks
 <lb/>R. C. Lindsey
 <lb/>J A Reed
-<lb/>Robt Montgomery
-<lb/>Jesse P. Hill
-<lb/>E. R. Wilson
+<lb/>Robt Montgomy
+<lb/>Jesse P, Hill
+<lb/>E, R, Wilson
 <lb/>M Adams
 <lb/>M B Pearce
 <lb/>Thos Williams
 <lb/><cb n="2"/>W E Berryman
-<lb/>Nichael Lemaster
-<lb/>Thos W Robertson
+<lb/>Michall Lancaster
+<lb/>Tho<hi rend="sup">s</hi> W Robertson
 <lb/>H Ellis
-<lb/>L. P. Owens
-<lb/>I N Webb
-<lb/>Geo. T. Hamstan
+<lb/>L. P, Owens
+<lb/>J N Webb
+<lb/><hi rend="underline">Geo</hi>. T. Hamstan -- 
 <lb/>W. J. Brewer
-<lb/>Tho<hi rend="sup">s</hi> Pearce, Sr.
-<lb/>Edw<hi rend="sup">d</hi> S <unclear>Farnas</unclear>
-<lb/>W<hi rend="sup">m</hi> <hi rend="underline">Peach</hi>
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Pearce, sr.
+<lb/><hi rend="underline"><unclear/> <unclear/></hi>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> <hi rend="underline">peach</hi>
 <lb/>G. M. Hill<pb/>
 <lb/><cb n="1"/>W. A. Lawrence
-<lb/>Tho<hi rend="sup">s</hi> J. Hall
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> J. Hall
 <lb/>Isaac Banta
 <lb/>F. R. Lyle
-<lb/>W. J. Maunts
+<lb/>W. J. Mounts
 <lb/>C. Bergen
-<lb/>H. C. Thompson
+<lb/>H, C, Thompson
 <lb/>A.. P.. Hughes
 <lb/>John Bush
 <lb/><cb n="2"/>J O Willhite
-<lb/>E W Easly
+<lb/>E W Easley
 <lb/>Jas Neale
-<lb/>J. S. Neale
+<lb/>J, S, Neale
 <lb/>Jno Long
-<lb/>Arthur Merlin
+<lb/>Arthur Kerlin
 <lb/>Geo Burgan
-<lb/>G.. H. Wills
+<lb/>G.. W. Wills
 <lb/>John W Brewer<milestone unit="column" n="1"/></p>
 <p>Henry Cir Ct
-<lb/>vs
-<lb/>M. B. Ireland</p>
-<p>Remit all except fees &amp; costs
-<lb/>Tho. E. Bramlette
-<lb/>Gov<hi rend="sup">r</hi>. of Ky</p>
-<p>This remission is done not on any merit shown by Petitioners but upon the merit of J. P. Sparks who personally urges the same</p>
-<p>$200 -- 
+<lb/>vs</p>
+<p>Remit all except fees &amp; costs</p>
+<p>Tho. E. Bramlette
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> of Ky</p>
+<p>M. B. Ireland</p>
+<p>This remission is done not on any merit shown by Petitioners but upon the merit of J. P. Sparks who personally urges the same -- </p>
+<p>&#36;200 -- 
 <lb/>Forfeiture
-<lb/><date when="1863-10-23">23<hi rend="sup">d</hi> Oct/ 63</date><pb/></p>
-<p>David Shipman
-<lb/></p>
+<lb/><date when="1863-10-23">23<hi rend="sup">d</hi> Oct/63</date><pb/></p>
+<p>David Shipman</p>
   </body>
  </text>
 </TEI>

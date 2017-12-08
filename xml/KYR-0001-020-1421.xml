@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1421"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,22 +63,21 @@
  <text>
   <body>
    <p>To His Excellency
-<lb/>Beriah Magoffin Governor
-<lb/>of Kentucky</p>
-<p>Your Petitioner George Gilbert would represent that he has been endicted in the Pike circuit Court for selling liquor to a miner. He states that he did sell some Liquor to a Gentleman and that a miner was in company with him and that the minor paid for the Same the adult not being able to pay for the same or not having change handy to pay for the same, He says he never has nor never did sell spiritous Liquors to a miner since the law was passed against the same; He further says that the miner or suposed miner is the Son of a widow and is a Sober discreet boy; and has been acting as an adult, and was so treated by the neighborhood as an adult nor was it Known to your petitioner at the time of the sale that he was a minor Wherefore your Petitioner Prays for a remission of sd fine and for all Proper rilief</p>
-<p>Geo. W. Gilbert<pb/></p>
-<p>John M. Elliott &amp; John M. Burns say that they know most of the facts stated in the written petition are true and join in the prayer for the remission of the fine</p>
+<lb/>Beriah Magoffin Governer of Kentucky</p>
+<p>Your Petitioner George Gilbert would represent that he has been endicted in the Pike circ<unclear>uit Co</unclear>urt for selling lequor to a miner. He states that he did sell some Liquor to a Gentleman and that a miner was in company with him and that the minor paid for the same the adult not being able to pay for the same or not having change handy to pay for the same, He says he never has nor never did sell Spiritous Liquors to a miner since the law was passed against the same; He further says that the minor or supesed minor is the Son of a widow and is a Sober discreet boy; and has been acting as an adult, and was so treated by the neighborhood as an adult nor was it Known to your petitioner at the time of the sale that he was a minor Wherefere your Petitioner Prays for a remission of sd fine and for all Proper rilief</p>
+<p>Geo. W, Gilbert<pb/></p>
+<p>John M, Elliott &amp; John M. Burns say that they Know most of the facts stated in the within petition are true and Join in the proyer fer the remission of the fine</p>
 <p>John M Burns
-<lb/>John. M. Elliott</p>
-<p>They further state that Mr. Gilbert <unclear/> is a orderly good citizen and a Hotel Keeper has never before been accused of a violation of his duties as such</p>
+<lb/>John M, Elliott</p>
+<p>They further state that Mr. Gilbert <hi rend="str"><unclear/></hi> is a orderly good citizen and a Hotel Keeper has never before been accused of a violation of his duties as such</p>
 <p>Elliott &amp; Burns</p>
 <p>Pike Co Cir. Ct
 <lb/>Geo W. Gilbert
-<lb/>To } Petitions
-<lb/>The Governo<figure type="hr"/></p>
-<p><unclear/>
-<lb/>$40 } Selling liquor to a minor
-<lb/>Iss<hi rend="sup">d</hi>. <date when="1861-09-14">Sept 14. 1861</date></p>
+<lb/>To &#125; Petition
+<lb/>The Governer<figure type="hr"/></p>
+<p>Remited<figure type="hr"/>
+<lb/>&#36;40 &#125; Selling liquor to a minor
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-09-14">Sept 14. 1861</date></p>
   </body>
  </text>
 </TEI>

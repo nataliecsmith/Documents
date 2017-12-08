@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0058"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">W. J. Davis et al. to Beriah Magoffin</title>
+    <title level="a" type="main">W. T. Davis et al. to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG2406</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,32 +63,31 @@
  <text>
   <body>
    <p>To his Excellency Gov Beriah McGoffin of Ky</p>
-<p>We the undersigned would respectfully represent to you that James A Birchfield late acting Justice of the Peace for Steritts Mill Precinct Warren County Ky departed this life the <date when="1861-01-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> of the present month</date> by whose death a vacancy has occurred in said office of Justice of the Peace we citizens of said Precinct would respectfully Suggest the name of Peter A Reaves as a suitable person to fill said vacancy until the next May Election. the said Reaves has been acting heretofore as a Justice of the Peace for said Precinct &amp; gave general satisfaction as such</p>
+<p>We the undersigned would respectfully represent to you that James A Birchfield late acting Justice of the Peace for Sterritts Mill Precinct Warren County Ky departed this life the <date when="1861-01-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> of the present month</date> by whose death a vacancy has occurred in said office of Justice of the Peace we citizens of said Precinct would respectfully Suggest the name of Peter M Reaves as a suitable person to fill said vacancy until the next May Election. the said Reaves has been acting heretofore as a Justice of the Peace for said Precinct &amp; gave general satisfaction as such</p>
 <p>Respectfully yours &amp; -- 
 <lb/><date when="1861-01-28">Jan 28<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date></p>
 <p>W. T. Davis
-<lb/>W<hi rend="sup">m</hi> C Miller
+<lb/>Wm C Miller
 <lb/>L B Morgan
 <lb/>Benjamin Reaves
 <lb/>Alford Taylor
 <lb/>Jas Young
 <lb/>T B Martin
 <lb/>James Jones
-<lb/>D. D. Dixon
+<lb/>D, D, Dixen
 <lb/>T. T. Rank
 <lb/>Robt Davis
-<lb/>Jos Herd
+<lb/>Js<hi rend="sup">s</hi> Heard
 <lb/>Alen Taylor
-<lb/>Tho<hi rend="sup">s</hi> Stuart
+<lb/>Thos Stuart
 <lb/>Lawson White
 <lb/>Philip Cole<pb/></p>
 <p>Warren Co
-<lb/>J. P.
-<lb/>Dist N<hi rend="sup">o</hi>. 6.
+<lb/>J. P. Dist N<hi rend="underline"><hi rend="sup">o</hi></hi> 6.
 <lb/>P. M. Reaves
 <lb/>vice
-<lb/>J A Burchfield</p>
-<p>Iss<hi rend="sup">d</hi> <date when="1861-01-30">Jany 30 1861</date></p>
+<lb/>J A Burchfield
+<lb/>Iss<hi rend="sup">d</hi> <date when="1861-01-30">Jany 30 1861</date></p>
 <p>Issue Commission
 <lb/>B. M</p>
   </body>

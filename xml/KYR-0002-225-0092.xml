@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0092"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Jesse Despain to Thomas E. Bramlette</title>
+    <title level="a" type="main">Jesse DeSpain to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG14121</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Green County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -61,17 +63,17 @@
  <text>
   <body>
    <p>To His Excellency
-<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
+<lb/>Thos E. Bramlette
 <lb/>Gov State of Kentucky
 <lb/>Sir</p>
-<p>I respectfully request of you, authority to raise an independent company to drive from Green County, (the County of which I am a resident) Ky, the guerrillas who are now infesting that part of this Commonwealth -- killing the soldiers who have served their country for three years -- and doing all manner of unspeakable depredations -- </p>
-<p>I wish only to raise this independant company for service in Green County and for no definite length of time I can raise a Company of one hundred men in the county -- who will clothe and mount and subsist themselves to drive the desperate &amp; secret enemy from the borders of our county. And all we ask of you -- is the authority to do this -- You furnishing arms &amp; amunition -- all of which we will account for in proper, Army Regulations Form -- I am late 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt. Co. "H". 13<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Vols. U. S. A.</p>
+<p>I respectfully request of you, authority to raise an independent company to drive from Green County, (the County of which I am a resident) Ky, the guerrillas. who are now infesting that part of this Commonwealth-- killing the soldiers who have served their Country for three years. and doing all manner of unspeakable depredations--</p>
+<p>I wish only to raise this independant Company for service in Green County and for no definite length of time I can raise a Company of one hundred men in the County-- who will clothe and Mount and subsist themselves. to drive the desperate &amp; secret enemy from the borders of our county. And all we ask of you-- is the authority to do this-- you furnishing arms &amp; amunition-- all of which we will account for in proper, Army Regulations Form-- I am late 1<hi rend="underline"><hi rend="sup">st</hi></hi>. Lt. Co. "H", 13<hi rend="underline"><hi rend="sup">th</hi></hi>. Ky. Vols. U. S. A.</p>
 <p>I refer you to Genl. E. H. Hobson, if you<pb/>
 <lb/>desire any reference for my good character &amp; standing. and efficiency as a soldier</p>
 <p>Hoping to receive an answer at your earliest convenience</p>
 <p>I remain Govenor
 <lb/>Your obedient servant
-<lb/>Jesse Despain<pb/></p>
+<lb/>Jesse DeSpain<pb/></p>
 <p>Application <hi rend="underline">of Jesse Despain to raise an independant company for Green County Ky</hi></p>
   </body>
  </text>

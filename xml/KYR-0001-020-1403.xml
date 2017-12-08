@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1403"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Thomas G. Hansel et al. to Beriah Magoffin</title>
+    <title level="a" type="main">Thomas G. Hansel to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG10871</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,33 +64,33 @@
   <body>
    <p>To his Excellency
 <lb/>Beriah Magoffin</p>
-<p>Your Petitioner Tho. J. Hansel respectfully represents that at the <date when="1861-03">March Term 1859</date> ^of the Rockcastle Circuit Court^ he was find the Sum of $20. on a charge of Gaming the truth is he was in a a game of cards for amusement alone so far as he was concerned he bet nothing there ^was^ betting by by Standers. at the time but there was no ^bet^ between <hi rend="str"><unclear/></hi> him &amp; the man he played against <hi rend="str">&amp;</hi> <hi rend="str">not</hi> ^no^ betting on the man he was opposed to; at the trail however it was proved that ^there^ was betting on the game &amp; he was consequently fined He states that he never followed gambling of any kind -- nor has ^he^ ever played cards since. He is a poor man. with a small family &amp; his wife is a cripple &amp; he can not pay the fine without great injury to him &amp; his little family.</p>
+<p>Your Petitioner Tho. J. Hansel respectfully represents that at the <date when="1861-03">March Term 1859</date> ^of the Rockcastle Circuit Court^ he was find the sum of &#36;20. on a charge of Gaming the truth is he was in a a game of cards for amusement alone so far as he was concerned he bet nothing there ^was^ betting by by standers. at the time but there was no ^bet^ between <hi rend="str">one</hi> him &amp; the man he played against <hi rend="str">&amp;</hi> <hi rend="str">not</hi> ^no^ betting on the man he was opposed to.; at the trial however it was proved that ^there^ was betting on the game &amp; he was consequently fined He states that he never followed gambling of any kind, nor has ^he^ ever played cards since. He is a poor man with a small family &amp; his wife is a cripple &amp; he can not pay the fine without great injury to him &amp; his little family.</p>
 <p>Where fore he prays a remission of the fine</p>
 <p>Respectfully your
 <lb/>Petitioner
-<lb/>Tho G Hansel<pb/></p>
-<p>Sworn to before me this <date when="1861-08-10">10 -- Aug 1861</date></p>
+<lb/>Tho J Hansel<pb/></p>
+<p>Sworn to before me this <date when="1861-08-10">10. Aug 1861</date></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>H. Moore
-<lb/>E. T. Fish
+<lb/>E T. Fish
 <lb/>D. G. Colyer clk
-<lb/>Lewis L Smith
+<lb/>Lewis S Smith
 <lb/>F. B. M<hi rend="sup">c</hi>Clary
 <lb/>W. B. Smith
-<lb/>G. W. Payne
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Payne J. R. C.
-<lb/><cb n="2"/>E T. Fish, C. P. C. C.
+<lb/>G W Payne
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Payne J, R, C
+<lb/><cb n="2"/>E T. Fish, c, P. c. c
 <lb/>J. Newcum
 <lb/>Chas. Whitaker
 <lb/>Daniel Roberts Cor, R, C
-<lb/>Alfred, Smith </p>
+<lb/><hi rend="underline">Alfred, Smith</hi></p>
 <p>Gov Magoffin. dear Sir I hope that you will remit this fine</p>
-<p>Your respt
-<lb/>Grandville Pearl
+<p>yousr respt
+<lb/>Granville Pearl
 <lb/>A. J. Moore<milestone unit="column" n="1"/><pb/></p>
-<p>Rockcastle Cir. Ct
-<lb/>Remitted
-<lb/>B. M. 
-<lb/>$20. } Gaming
+<p>Rockcastle Cir. Ct</p>
+<p>Remitted
+<lb/>B. M.</p>
+<p>&#36;20. &#125; Gaming
 <lb/>Tho. J. Hansel
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-09-04">Sept 4 1861</date></p>
   </body>

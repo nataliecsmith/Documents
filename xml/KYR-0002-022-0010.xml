@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0010"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,20 +66,20 @@
    <p>Head Quarters 40<hi rend="sup">th</hi> Ky Militia
 <lb/>Hickman Ky <date when="1863-11-21">Nov. 21. 1863</date>.
 <lb/>Genl D W Lindsey
-<lb/>Insp<hi rend="sup">r</hi>. Genl. Ky M.
-<lb/>General,</p>
-<p>I am in receipt of yours of the <date when="---09">9<hi rend="sup">th</hi></date> per last night's mail. It is unpleasant for me to suppose even for a moment, that I am at any time troublesome, but even at the expense of being so considered, I must again urge the pressing necessity of action, in this matter of calling out the militia, of all countries, South and West of the Tennessee River. As you very justly remark, your "hands are to a certain extent tied at present;" but if the integrity and <hi rend="underline">status</hi> of Kentucky is to be be preserved, it must be done by the most vigorous and energetic measures. Hence legislation, early, prompt and decisive must be had, by which more enlarged and discretionary powers shall be conferred upon the Governor and yourself. This is the more imperative from a hundred considerations which will readily suggest themselves.</p>
-<p>Before this reaches you, you will doubtless have been informed of the fact, that on Wenesday afternoon, the <date when="---15">15<hi rend="sup">th</hi> inst</date> about 3. o'clock, a band of rebels, somewhere about eighty or one hundred strong, and affecting to be under the command of a Major Street, suddenly made their appearance in town and immediately commenced an indiscriminate seizure of horses, mules &amp;c, as also the stealing of watches and money from citizens. After making a descent upon<pb/>
-<lb/>several of our Dry goods stores and supplying themselves as well as they could from the remnant of stocks on hand, they finally decamped, carrying with them some seven Federal soldiers, who were in town from Union City and also a number of citizens. They done me <hi rend="underline">honor</hi> to make me a call, but finding me severely crippled and only able to move with crutches, they left me with an expletive not necessary to repeat, that the "did'nt want to be bothered with cripples."</p>
-<p>In the meantime and fortunately however, one of the Federal soldiers effected his escape, and hurriedly made his way to Union City, where upon the alarm being given, a large force, was sent in pursuit by the Commandant, Col Waring 4<hi rend="sup">th</hi> Mo. Cav. It seems they were fortunate enough to overtake them next morning (Thursday) at or near Merriweather's crossing of the Ohio, where the <hi rend="underline">major</hi> part of them were captured, some shot and others drowned. All the cattle were brought in, and all the prisoners released, one of whom however was severely wounded by a pistol ball, in the arm. The captured party has been sent to Columbus. They are not of the Rebel Army, are not soldiers, but an <hi rend="underline">impromptu</hi> band of thieves, cut-throats and robbers from Mississippi. Against such marauders, it is the duty of the people to defend themselves. Whether they will consent to do so, remains to be seen and to this end, I shall patiently await the elections ordered for Major.</p>
+<lb/>Insp<hi rend="underline"><hi rend="sup">r</hi></hi> Genl. Ky M.
+<lb/>General.</p>
+<p>I am in receipt of yours of the <date when="---09">9<hi rend="underline"><hi rend="sup">th</hi></hi></date> per last night's mail. It is unpleasant for me to suppose even for a moment, that I am at any time troublesome, but even at the expense of being so considered, I must again urge the pressing necessity of action, in this matter of calling out the militia, of all the Counties, South and West of the Tennessee River. As you very justly remark, your "hands are to a certain extent tied at present;" but if the integrity and <hi rend="underline">status</hi> of Kentucky is to be be preserved, it must be done by the most vigorous and energetic measures. Hence legislation, early, prompt and decisive must be had, by which more enlarged and discretionary powers shall be conferred upon the governor and yourself. This is the more imperative from a hundred considerations which will readily suggest themselves.</p>
+<p>Before this reaches you, you will doubtless have been informed of the fact, that on Wenesday afternoon, the <date when="1863-11-18">18<hi rend="sup">th</hi> inst</date> about 3. o'clock, a band of rebels, somewhere about eighty or one hundred strong, and affecting to be under the command of a Major Street, suddenly made their appearance in town and immediately commenced an indiscriminate seizure of horses, mules &amp;c, as also the stealing of watches and money from citizens. After making a descent upon<pb/>
+<lb/>several of our Dry goods stores and supplying themselves as well as they could from the remnant of stocks on hand, they finally decamped, carrying with them some seven Federal soldiers, who were in town from Union City and also a number of citizens. They done me <hi rend="underline">honor</hi> to make me a call, but finding me severely crippled and only able to move with crutches, they left me with an expletive, not necessary to repeat, that the "did'nt want to be bothered with cripples."</p>
+<p>In the meantime and fortunately however, one of the Federal soldiers effected his escape, and hurriedly made his way to Union City, where upon the alarm being given, a large force, was sent in pursuit by the Commandant, Col Waring 4<hi rend="underline"><hi rend="sup">th</hi></hi> Mo. Cav. It seems they were fortunate enough to overtake them next morning, (Thursday) at or near Merriweather's crossing of the Obion, where the <hi rend="underline">major</hi> part of them were captured, some shot and others drowned. All the cattle were brought in, and all the prisoners released, one of whom however was severely wounded by a pistol ball, in the arm. The captured party has been sent to Columbus. They are not of the Rebel Army, are not soldiers, but an <hi rend="underline">impromptu</hi> band of thieves, cut-throats and robbers from Mississippi. Against such marauders, it is the duty of the people to defend themselves. Whether they will consent to do so, remains to be seen. and to this end, I shall patiently await the elections ordered for Major.</p>
 <p>Meanwhile however, if you do not regard me, as pragmatical, I will prepare a bill, embodying my views, for the action of the Legislature, with special reference to the district South &amp; West of the Tennessee river. It may be worth some-<pb/>
-<lb/>thing, perhaps nothing still if desired I will be happy to submit it for your consideration</p>
+<lb/>thing, perhaps nothing. still if desired I will be happy to submit it for your consideration</p>
 <p>With great respect
 <lb/>Your Obt Servt
 <lb/>Geo. C. Hallet
 <lb/>Col 40<hi rend="sup">th</hi> Ky Militia<pb/></p>
-<p>40
-<lb/>Hickman Fulton Co
+<p>40</p>
+<p>Hickman Fulton Co
 <lb/><date when="1863-11-21">Nov. 21. 1863</date>
 <lb/>Col. Geo C. Hallett
 <lb/>In regard to organizing the Militia<figure type="hr"/>

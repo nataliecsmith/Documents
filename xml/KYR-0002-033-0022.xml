@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0022"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,25 +65,25 @@
   <body>
    <p>WAR DEPARTMENT,
 <lb/>ADJUTANT GENERAL'S OFFICE,
-<lb/><hi rend="italic">Washington </hi><date when="1864-07-27"><hi rend="italic">July 27th</hi>, 1864.</date>
-<lb/>SPECIAL ORDERS, No. 251.</p>
-<p>(<hi rend="italic">Extract</hi>)<figure type="hr"/>
-<lb/>4. So much of Speical Field Orders, No. 28, <date when="1863-01-31">January 31st, 1863,</date> from Headquarters, Department of the Cumberland, as accepted the resignation of Surgeon <hi rend="italic">I. W. Brady</hi>, 1st Kentucky Volunteers, on account of innefficiency, is hereby amended so as to omit the charge of inefficiency.<figure type="hr"/></p>
+<lb/><hi rend="italic">Washington, </hi><date when="1864-07-27"><hi rend="italic">July 27th</hi>, 1864</date>.
+<lb/>SPECIAL ORDERS,
+<lb/>No. 251.</p>
+<p>(<hi rend="italic">Extract.</hi>)<figure type="hr"/></p>
+<p>4. So much of Speical Field Orders, No. 28, <date when="1863-01-31">January 31st, 1863</date>, from Headquarters, Department of the Cumberland, as accepted the resignation of Surgeon <hi rend="italic">I. W. Brady</hi>, 1st Kentucky Volunteers, on account of inefficiency, is hereby amended so as to omit the charge of inefficiency.<figure type="hr"/></p>
 <p>By order of the Secretary of War: 
-<lb/>E. D. Townsend
+<lb/>E. D. Townsend,
 <lb/><hi rend="italic">Assistant Adjutant General.</hi> </p>
 <p>OFFICIAL:
 <lb/>E D Townsend
 <lb/><hi rend="italic">Assistant Adjutant General.</hi> </p>
 <p>Governor of Kentucky<pb/></p>
-<p>1 Cavy
-<lb/>War Department
+<p>War Department.
 <lb/>Adjutant Gen<hi rend="underline"><hi rend="sup">ls</hi></hi> Office
-<lb/>Washington <date when="1864-07-27">July 27"/64</date><figure type="hr"/></p>
-<p>Townsend E. D.
+<lb/>Washington <date when="1864-07-27">July 27"/64</date><figure type="hr"/>
+<lb/>Townsend E. D.
 <lb/>A. A. G.<figure type="hr"/></p>
-<p>Order accepting resignation of Surg. Brady 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Vols. ammended so as to omit the charge of inefficiency.<figure type="hr"/></p>
-<p>Rec<hi rend="sup">d</hi> A. G. O. <date when="1864-07-30">July 30. 1864.</date></p>
+<p>Order accepting resignation of Surg. Brady 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Vols. amended so as to omit the charge of inefficiency.<figure type="hr"/></p>
+<p>Rec<hi rend="sup">d</hi>. A. G. O. <date when="1864-07-30">July 30. 1864</date>.</p>
   </body>
  </text>
 </TEI>

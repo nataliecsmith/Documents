@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0272"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,17 +62,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>R. G. Johnson states that in the Spring of the year <date when="1860">1860</date> he purchased at Barroom of Jersey Haner In Stamping Ground; a Bottle of whiskey and gave Said Bottle of whiskey to Jack a Slave the property of John T. Sinclair that a Short time afterwards said Haner came into the Bar Room and Inquired if his BarKeeper if he had sold a Bottle of whiskey to said Slave the Bar Keeper Said he had not he Johnson then asked said Haner why he asked the question Haner Replied that M. N. Sinclair had caught said Jack with a Bottle of whiskey comeing from towards said Haner house he Johnson then told Haner that he had purchased said whiskey and given it to Jack He further States that at the Sitting of the next circuit court he understood that said Sinclair had reported said Haner to the Grand Jury and that Said Haner was Indited for said offence, that for Several courts after he was Summoned by Haner to testify in Haners behalf on Said Indictment that the cause was allways put off on account of the absence of said Sinclair, that he did not attend the last court supposing that ^it^ would be put off as it had before been done</p>
+   <p>R, G, Johnson States that in the Spring of the year <date when="1860">1860</date> he purchased at Barroom of Jerry Haner In Stamping Ground; a Bottle of whiskey and gave Said Bottle of whiskey to Jack a Slave the property of John T Sinclair, that a Short time afterwards said Haner came into the Bar Room and Inquired of his Bar Keeper if he had sold a Bottle of whiskey to said Slave the Bar Keeper Said he had not. he Johnson then asked Said Haner why he asked the question Haner Replied that M. N. Sinclair had caught said Jack with a Bottle of whiskey comeing from towards said Haner house he Johnson then told Haner that he had purchased said whiskey and given it to Jack He further States that at the sitting of the next circuit Court he understood that said Sinclair had reported said Haner to the Grand Jury and that Said Haner was Indited for said offence, that for Several courts after he was Summoned by Haner to testify in Haners behalf on Said Indictment That the cause was allways put off on account of the absence of said Sinclair, that he did not attend the last court supposeing that it would be put off as it had before been done</p>
 <p>R. G. Johnson</p>
 <p>Sworn to before me by R. G. Johnson this <date when="1863-11-28">28<hi rend="sup">th</hi> day of Nov 1863</date>
 <lb/>Charles Murphy J P S C<pb/></p>
 <p>Scott Cir Ct
-<lb/>vs
+<lb/>vs</p>
+<p>Remit all except costs &amp; fees, Dec 12<hi rend="sup">th</hi></p>
+<p>Tho E Bramlette</p>
+<p><date when="1863-12-12">1<hi rend="str">3</hi>2<hi rend="sup">th</hi> Dec/63</date>
 <lb/>J. Haner
 <lb/>Tipling</p>
-<p>Remit all except costs &amp; fees Dec 12<hi rend="sup">th</hi>
-<lb/>Tho E Bramlette
-<lb/><date when="1863-12-12">1<hi rend="str">3</hi>2<hi rend="sup">th</hi> Dec/ 63</date></p>
   </body>
  </text>
 </TEI>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0140"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">T. Q. West, Affidavit</title>
+    <title level="a" type="main">T. Q. West, Deposition</title>
     <title level="a" type="parallel">CWG1029</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,17 +63,17 @@
  </teiHeader>
  <text>
   <body>
-   <p><note place="header">1.</note>
+   <p><note place="header">1</note>
 <lb/>Deposition of T. Q. West.</p>
-<p>Taken at the clerk's office of the Wayne County Court on the <date when="1864-12-01">1<hi rend="sup">st</hi> day of December 1864</date>. to be read as evidence in an action pending in the Wayne Circuit Court in Equity, between John Caldwell's heirs Plaintiffs and John Caldwell's heirs as Defendants.</p>
+<p>Taken at the clerks' office of the Wayne County Court on the <date when="1864-12-01">1<hi rend="underline"><hi rend="sup">st</hi></hi> day of December 1864</date>, to be read as evidence in an action pending in the Wayne Circuit Court in Equity, between John Caldwell's heirs Plaintiffs and John Caldwell's heirs an Defendants.</p>
 <p>Question by Plffs att.</p>
 <p>Did or did not Richard Caldwell the father of the plffs, and who is now dead, hold in his lifetime a title-bond on John Caldwell, his father for the convey of a piece of land, on which said Richard lived and died, in Wayne County Ky and which is now in possession of Deft Sallee?</p>
-<p>Answer:</p>
-<p>After the death of Richard Caldwell I saw a title-bond in the possession of his (Richard's) widow from John Caldwell Sr, to Richard Caldwell for the land on which Richard Caldwell lived immediately before he died.</p>
+<p>Answer.</p>
+<p>After the death of Richard Caldwell I saw a title-bond in the possession of his (Richard's) widow from John Caldwell Sr. to Richard Caldwell for the land on which Richard Caldwell lived immediately before he died.</p>
 <p>By Same,</p>
 <p>Did or did not Richard Caldwell some time before his death tell you that he had bought a certain boundary of land where he then lived, of his father John Caldwell and at the same time point out to you the boundary of the same, and was or was not Richard Caldwell living on and in possession of the land at the time you speak of, claiming it as his own under such purchase?</p>
 <p>Answer:</p>
-<p>Richard Caldwell and my self were walking over the same, and he told me he<pb/>
+<p>Richard Caldwell and my self were walking over the land, and he told me he<pb/>
 <lb/><note place="header">2</note>
 <lb/>had bought it of his father. He showed me a fence that he said was his boundary on one side and end of the land, and also some land lying outside of the field. He was living on the land at the time, and it was my understanding at the time that he (Richard) in the possession under said purchase from his father. I understood from Richard that he claimed the land as his own by purchase from his father.</p>
 <p>By same.</p>
@@ -78,66 +81,65 @@
 <p>Answer:</p>
 <p>I read only a part of the title bond and from my recollection the bond was for the land Richard Caldwell had shown me as spoken of above, and on which he lived at the time of his death.</p>
 <p>By Same.</p>
-<p>Was or was not said land a part of the old homestead of John Caldwell Sr, Said Richard's father, and if so describe what part of said farm and who is now in possession of the same land claiming it?</p>
+<p>Was or was not said land a part of the old homestead of John Caldwell Sr, said Richard's father, and if so describe what part of said farm and who is now in possession of the same land claiming it?</p>
 <p>Answer: -- The land that was shown me was a part of the land once owned by John Caldwell, and that portion lying<pb/>
 <lb/><note place="header">3</note>
-<lb/>in the direction, and nearest to Monticello, and on the right-hand of the road leading from Somerset to Monticello, and now in the possession and owned by M. P Sallee in the cleared land on the right and the timbered land on the left of s'd road.</p>
-<p>By Same. Was or was not nearly all the tillable land embraced in one large field?</p>
+<lb/>in the direction, and nearest to Monticello, and on the right hand of the road leading from Somerset to Monticello, and now in the possession and owned by M. P Sallee in the cleared land on the right and the timbered land on the left of s'd rood.</p>
+<p>By same- Was or was not nearly all the tillable land embraced in one large field?</p>
 <p>Answer: -- I know there were two fields as to whether or not it was principally in one large field, I do not recollect.</p>
-<p>By Atty for Now resident Defts Allen Christian &amp; others.</p>
-<p>Question. You state that you read part of a document which you say was a bond executed &amp;c. &amp;c. -- -- now state the date of said instrument &amp; how much of ^it^ you read -- -- </p>
+<p>By Atty for Now resident Defts' Allen Christian &amp; others.</p>
+<p>Question, You state that you read part of a document which you say was a bond executed &amp;<hi rend="sup">c</hi> &amp;<hi rend="sup">c</hi>, -- now state the date of said instrument &amp; how much of ^it^ you read- -</p>
 <p>Answer:</p>
 <p>I do not recollect the date of the bond. I think I read about two thirds of it and some one came in and Jane Caldwell put it up again.</p>
 <p>By Same.</p>
-<p>State whether or not the part of the document you read mentions any consideration having been given by the s'd Richard Caldwell to John Caldwell Sr, for s'd land &amp;
-<lb/>if so what was its nature or amt.</p>
+<p>State whether or not the part of the document you read mentions any consideration having been given by the s'd Richard Caldwell to John Caldwell Sr. for s'd land &amp; if so what was its nature or am't.</p>
 <p>Answer: I do not recollect.</p>
-<p>By same.</p>
+<p>By Same.</p>
 <p>In the conversation you speak of having had with Richard Caldwell at the time you say he pointed out to you the land he<pb/>
 <lb/><note place="header">4</note>
-<lb/>claimed to have bought from John Caldwell Sr. did you hear Rich. Caldwell say he paid any thing for s'd land?</p>
+<lb/>claimed to have bought from John Caldwell Sr. did you hear Rich-- Caldwell say he paid any thing for s'd land?</p>
 <p>Answer: I did not.</p>
 <p>By same.</p>
-<p>State whether or not, in the conversation you speak of he mentioned having this bond for title in his possession at that time.</p>
+<p>State whether or not, in the conversation you speak of, he mentioned having this bond for title in his possession at that time.</p>
 <p>Answer: He did not.</p>
 <p>By same. State as near as you recollect the time you had the conversation spoken of with him.</p>
-<p>Answer: I could not speak positively as to dates, but suppose it was about 22 yrs since. -- and further Deponent saith not.</p>
+<p>Answer: I could not speak positively as to dates, but suppose it was about 22 yrs since, -- and further Deponent saith not.</p>
 <p>Signed
-<lb/>F. Q. West.</p>
+<lb/>T. Q. West.</p>
 <p>adjourned until Tuesday morning <date when="--12-02">D<hi rend="underline"><hi rend="sup">ec</hi></hi> 2<hi rend="underline"><hi rend="sup">nd</hi></hi></date></p>
-<p>Deposition of Jane Heath taken on the <date when="1864-12-02">2<hi rend="sup">nd</hi> of Decr. 1864</date> at the place mentioned in the caption and for the purposes therein mentioned=</p>
+<p>Deposition of Jane Heath taken on the <date when="1864-12-02">2<hi rend="underline"><hi rend="sup">nd</hi></hi> of Decr. 1864</date> at the place mentioned in the caption and for the purposes therein mentioned -- </p>
 <p>By plff's counsel:</p>
 <p>Are you not the mother of the plff's and the widow, <hi rend="str">and</hi>of the late Rich Caldwell, their father.</p>
 <p>Ans: I am.</p>
 <p>By same. State how many children &amp; heirs the s'd Rich<hi rend="underline"><hi rend="sup">d</hi></hi> Caldwell left &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
-<p>Ans: Richard Caldwell my late husband left at the time of his death three living children -- the plaintiffs John R. Caldwell<pb/>
+<p>Ans: Richard Caldwell my late husband left at the time of his death three living children-- the plaintiffs John R. Caldwell<pb/>
 <lb/><note place="header">5</note>
 <lb/>Thos J. Caldwell, and Geo A. Caldwell, the last of whom since the commencement of this suit died a minor, leaving neither widow nor child surviving him.</p>
 <p>By same.</p>
 <p>Have you not released &amp; given up ^to your children^ your interest in the land &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
-<p>Ans: I have no interest whatever in the result of this suit, and have given up my interest in the lands mentioned to the Plff's my children from consideration of love &amp; affection that I have for them.</p>
-<p>By same. Was or was not your late husband Richard Caldwell the owner of the land on which he lived and died if he was state how he became such owner.</p>
-<p>Ans: My husband Richard Caldwell owned the land that he lived on at the time of his death, having bought it of his Father and had a title-bond at the time of his death on his father for the land in controversy in this action. John Caldwell the father of my husband Ric<hi rend="underline"><hi rend="sup">d</hi></hi> Caldwell ^after the death of my husband^ came to me and wanted to see the bond. After he got in possession of the bond said he would keep it, but <hi rend="str">want</hi> intended to do right by my children, and previous to that time and after the death of my husband, John Caldwell his father, looked at the bond and said it was the bond he had given Richard for the land, but had not made any deed for it to him, and for me to keep the bond, and that he intended the benefit of the land for my children. My<pb/>
+<p>Ans: I have no interest whatever in the result of this suit, and have given up my interest in the lands mentioned to the Plff's my children from considerations of love &amp; affection that I have for them.</p>
+<p>By same. Was or was not your late husband Richard Caldwell the owner of the land on which he lived and died if he was state how he became such owner,</p>
+<p>Ans: My husband Richard Caldwell owned the land that he lived on at the time of his death, having bought it of his father and had a title-bond at the time of his death on his father for the land in controversy in this action. John Caldwell the father of my husband Ric<hi rend="underline"><hi rend="sup">d</hi></hi> Caldwell ^after the death of my husband^ came to me and wanted to see the bond. After he got in possession of the bond said he would keep it, but <hi rend="str">want</hi> intended to do right by my children, and previous to that time and after the death of my husband, John Caldwell his father, looked at the bond and said it was the bond he had given Richard for the land, but had not made any deed for it to him, and for me to keep the bond, and that he intended the benefit of the land for my children. My<pb/>
 <lb/><note place="header">6</note>
-<lb/>recollection is the title-bond was for about sixty acres of land.</p>
-<p>By same. Describe the location &amp; boundary &amp;<hi rend="sup">c</hi> &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
-<p>Answer: The land mostly lies on the right. hand side of the road leading from Somerset to Monticello, and runs down to the lands of widow Roberts' -- a small portion of it lies to the left of the road. One of the corners was a tree that stood nearly in front of the meeting House My recollection is that the boundary was designated by a fence between the lands in controversy, and the lands of John Caldwell Sr.</p>
+<lb/>recollection is the title-bond was for about sixty acres of land,</p>
+<p>By same. Describe the location &amp; boundary &amp;c &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
+<p>Answer: The land mostly lies on the right. hand side of the road leading from Somerset to Monticello, and runs down to the lands of widow Robert's -- a small portion of it lies to the left of the road. One of the corners was a tree that stood nearly in front of the meeting House My recollection is that the boundary was designated by a fence between the lands in controversy, and the lands of John Caldwell Sr.</p>
 <p>By same. Did or not Thomas Caldwell and his brother John Caldwell know that their father had sold the said land, and give your husband the said title bond before they got the same land of their father?</p>
 <p>Answer: They did</p>
-<p>By same. Did you or not ever hear John Caldwell Jr. your husbands' brother say who wrote the said title-bond? or what did you hear him say about <hi rend="str"><unclear/></hi> the bond and sale of the land to your husband if anything?</p>
+<p>By same. Did you or not ever hear John Caldwell Jr. your husband's brother say who wrote the said title-bond,? or what did you hear him say about <hi rend="str"><unclear/></hi> the bond and sale of the land to your husband, if any thing?</p>
 <p>Ans: I never heard him say who wrote the title-bond, but heard him say the reason his father took the title-bond was that he had paid a considerable sum of money for Richard Caldwell. My brother John S. Wray read the title bond at my house and said it was a good substantial bond.</p>
 <p>Same. Was what you heard John Caldwell Jr say, as stated by you in your answer above<pb/>
 <lb/><note place="header">7</note>
 <lb/>before, or was it after Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Caldwell &amp; Said John got the land of their father?</p>
-<p>Ans. It was before they got the land of their father</p>
+<p>Ans. It was before they got the land of their father.</p>
 <p>Same -- Did or did not Thomas Caldwell kno that your husband had bought the land and held the title bond before he got the same land from his father?</p>
-<p>Ans: I think he <hi rend="str">must</hi> ^ought to^ have known it. He was at home when his father got the bond. He must have known it. Thomas lived with his father at the time.</p>
+<p>Ans: I think he <hi rend="str">must</hi>ought to have known it. He was at home when his father got the bond. He must have known it. Thomas lived with his father at the time.</p>
 <p>Same: Did or did not your husband sell off a small portion of the land &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
 <p>Ans:</p>
 <p>He sold off three or four acres to Allen Christian around the meeting house</p>
 <p>John S Bohon bought Christian's land &amp; I suppose he owns it now.</p>
 <p>By Same</p>
-<p>Was or was not the sale to your husband and your husbands' sale of the same ^piece^ to Christian publicly known and spoken of among the Caldwell family?</p>
+<p>Was or was not the sale to your husband and your husband's sale of the same ^piece^ to Christian publicly known and spoken of among the Caldwell family?</p>
 <p>Ans: Both sales were publicly known of in the Caldwell family.</p>
 <p>By Defendant.</p>
 <p>You state that you are the mother of the Plff's and the widow of the late Rich<hi rend="underline"><hi rend="sup">d</hi></hi> Caldwell,</p>
@@ -148,19 +150,18 @@
 <lb/>children, and he and T. Q. West made the contract with Sherrod Williams to bring the action. Williams was to have a portion of what he recovered, but I do not know what am't. This I understood from Mr West.</p>
 <p>By same.</p>
 <p>You state that you have released your dower interest in the land &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> Now state whether or not that from the interest you feel as the Mother of Pl'ffs in this action you have not assisted in procuring testimony and giving the Pl'ff counsel and all the assistance in your power in this way.</p>
-<p>Answer: I told Sumpter the Coroner whom he would have to get for witness. Did not tell him to get any one but Mr West and Mr Roberts, I supposed they knew something about it as they lived near at the time.</p>
-<p>Question by same
+<p>Answer: I told Sumpter the Coroner whom he would have to get for witness, Did not tell him to get any one but Mr West and Mr Roberts, I supposed they knew something about it as they lived near at the time.</p>
+<p>Question by same -- 
 <lb/>Answer:</p>
-<p>I know that Rich Caldwell paid a cash note towards the land, at least my husband said so. Do not not know of my own Knowledge that he paid any thing toward the same. The land where John Bohon now lives, was owned by my husband and sold by him, and then he bought the land in controver^s^y.</p>
+<p>I know that Rich Caldwell paid a cash note towards the land, at least my husband said so. Do not not know of my own knowledge that he paid any thing toward the land. The land where John Bohon now lives, was owned by my husband and sold by him, and then he bought the land in controver^s^y.</p>
 <p>By same.</p>
-<p>You say that your husband held a bond for the title of the land in controversy -- Now state what you know of the contents of said bond &amp;<hi rend="sup">c</hi> &amp;<hi rend="underline"><hi rend="sup">c</hi></hi>
-<lb/><pb/>
+<p>You say that your husband held a bond for the title of the land in controversy -- Now state what you know of the contents of said bond &amp;<hi rend="sup">c</hi> &amp;<hi rend="underline"><hi rend="sup">c</hi></hi><pb/>
 <lb/><note place="header">9</note></p>
-<p>Answer: He had such bond when we were married. I do not recollect the contents of s'd bond or what was the consideration specificed in the bond. I do not know of my own personal knowledge anything as to the content of the bond, and do not know that he bond specifies any special sum, but I know it was a bond for the land Did not read the bond my self but heard it read.</p>
-<p>By same. You state that Thomas Caldwell and his brother John Caldwell knew that their father had sold the land in controversy to your husband &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> &amp;,, State how you arrived at such a Knowledge.</p>
+<p>Answer: He had such bond when we were married. I do not recollect the contents of s'd bond or what was the consideration specificed in the bond. I do not know of my own personal knowledge any thing as to the content of the bond, and do not know that he bond specifies any special sum, but I know it was a bond for the land, Did not read the bond my self but heard it read.</p>
+<p>By same. You state that Thomas Caldwell and his brother John Caldwell knew that their father had sold the land in controversy to your husband &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> State how you arrived at such a knowledge.</p>
 <p>Answer.</p>
-<p>I do not know that Thomas Caldwell ever talked with me about the bond, but John Caldwell did have a conversation with me about the bond after my husband's death. This conversation, I think, was about sixteen years since. Of my own personal knowledge Thomas Caldwell did not know of the existence of such bond.</p>
-<p>I was in the land going on three years after the death of my husband. John Caldwell came to me, and got me to move down with them, which I did. He promised to support me and my children &amp; school them. This contract was made with the old man John Caldwell, and John Caldwell Jr. They also promised in the conversation and contract to give<pb/>
+<p>I do not know that Thomas Caldwell ever talked with me about the land, but John Caldwell did have a conversation with me about the bond after my husband's death. This conversation, I think, was about sixteen years since. Of my own personal knowledge Thomas Caldwell did not know of the existence of such bond,</p>
+<p>I was in the land going on three years after the death of my husband. John Caldwell came to me, and got me to move down with them, which I did. He promised to support me and my children &amp; school them This contract was made with the old man John Caldwell, and John Caldwell Jr. They also promised in the conversation and contract to give<pb/>
 <lb/><note place="header">10</note>
 <lb/>my children five hundred each. Do not recollect that there was any conditions in this contract, that I was to remain a widow. I did not remain a widow more than three months after I went to live with the old man and the boys -- I was to remain with them, and cook for them in this contract. Thomas was not present and had nothing to say in this contract. The old man Caldwell wrote from Texas that he was <gap/> that he had not done more for my children.</p>
 <p>Reexamined by Pl'ffs Counsel.</p>
@@ -173,26 +174,26 @@
 <p>Signed
 <lb/>Jane ^her X mark^ Heath</p>
 <p>The Deposition of G.. C. Roberts taken at the same place mentioned in the Caption on the <date when="1864-12-02">2<hi rend="underline"><hi rend="sup">nd</hi></hi> of Decr. 1864</date>, and for the purposes therein mentioned.</p>
-<p>Question by the Plff's Counsel. Please give the boundary of the land on which Richard Caldwell lived at the time of his death &amp; all you know about it.</p>
+<p>Question by the Plff's Counsel, Please give the boundary of the land on which Richard Caldwell lived at the time of his death &amp; all you know about it.</p>
 <p>By Pl'ffs atty: Are you acquainted with the land in contest? If so state all you know about its boundaries, who lived on it and how the occupant claimed it?</p>
 <p>Answer:</p>
-<p>The land claimed by Ric<hi rend="underline"><hi rend="sup">d</hi></hi> Caldwell lies adjoining the land owned by my father on the right hand side of the road leading from Somerset to Monticello. Richard Caldwell lived on the land and claimed it by right of purchase from his father.</p>
+<p>The land claimed by Ric'<hi rend="underline"><hi rend="sup">d</hi></hi> Caldwell lies adjoining the land owned by my father on the right hand side of the road leading from Somerset to Monticello. Richard Caldwell lived on the land and claimed it by right of purchase from his father.</p>
 <p>The land lies on the South end of the old man Caldwell's land, bounded on the south end by my father's land on the West side by H. M. Sallee's land. There was a swap of land by my father and Rich<hi rend="underline"><hi rend="sup">d</hi></hi> Caldwell and the original lines<pb/>
 <lb/><note place="header">12</note>
 <lb/>changed to where the fence between my father's land and the land in controversy claimed by M. P. Sallee now stands. The land is about three fourths of a mile from the old brick house on the road leading to Monticello which was the home stead of the old man Caldwell</p>
-<p>Cross. examined by Defendant. In the swap of lands you mentioned between your father and Rich<hi rend="sup">d</hi> Caldwell state all you Know of the trade between them &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
+<p>Cross. examined by Defendant, In the swap of lands you mentioned between your father and Rich<hi rend="sup">d</hi> Caldwell state all you know of the trade between them &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
 <p>Ans: In the swap of land between my father and Richard Caldwell there was no deed made. Rich<hi rend="underline"><hi rend="sup">d</hi></hi> Caldwell said he had no title, but had a title-bond, and the old man Caldwell told my father to make the swap that the title should be good. But if there has ever been any title made, I do not know it but the land my father got he still holds.</p>
-<p>By Same. State if you know any thing about Rich<hi rend="underline"><hi rend="sup">d</hi></hi> Caldwell having sold any part of the land claimed that lies across the road near the meeting house &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
+<p>By Same. State if you know any thing about Rich<hi rend="underline"><hi rend="sup">d</hi></hi> Caldwell having sold any part of the land claimed that lies across the road near to the Meeting house &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
 <p>Answer: -- I do not know of any such sale being made, nor do I know whether the land in controversy crosses the road at any point, nor do I know of any sale being made of any part of the land in controversy at any time, except as above stated.</p>
 <p>By Pl'ffs atto,</p>
-<p>Is or is not the land in controversy a part of a tract sold by Foster M<hi rend="sup">c</hi>Wharter (alias John F M<hi rend="underline"><hi rend="sup">c</hi></hi>Whorter) to John Caldwell<pb/>
+<p>Is or is not the land in controversy a part of a tract sold by Foster M<hi rend="sup">c</hi>Wharters (alias John F M<hi rend="underline"><hi rend="sup">c</hi></hi>Whorters) to John Caldwell<pb/>
 <lb/><note place="header">13.</note>
-<lb/>Sr. or to W<hi rend="underline"><hi rend="sup">m</hi></hi> Hudson and he to Caldwell and that end of s<hi rend="underline"><hi rend="sup">d</hi></hi> land next to Monticello and did not said M<hi rend="underline"><hi rend="sup">c</hi></hi>Whorter live in the same house that Richard Caldwell afterwards lived in?</p>
+<lb/>Sr, or to W<hi rend="underline"><hi rend="sup">m</hi></hi> Hudson and he to Caldwell and that end of s<hi rend="underline"><hi rend="sup">d</hi></hi> land next to Monticello and did not said M<hi rend="underline"><hi rend="sup">c</hi></hi>Whorter live in the same house that Richard Caldwell afterwards lived in?</p>
 <p>Answer:</p>
 <p>I do not know whether the land was sold to the old man Caldwell by M<hi rend="underline"><hi rend="sup">c</hi></hi>Wharter of Hudson The land is a portion of the M<hi rend="sup">c</hi>Wharter farm, and M<hi rend="sup">c</hi>Wharter lived in the same house that Rich<hi rend="underline"><hi rend="sup">d</hi></hi> Caldwell lived in. The land in controversy is the South end of the M<hi rend="sup">c</hi>Whorter farm the end lying next to Monticello -- and further deponent saith not</p>
 <p>Signed
 <lb/>G. C. Roberts<pb/></p>
-<p>EL Vanwinkle Esq</p>
+<p>E L Vanwinkle Esq</p>
 <p>The within are the depositions that I wished you examine for me</p>
 <p>Thomas Caldwell</p>
   </body>

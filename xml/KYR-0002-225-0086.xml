@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0086"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,9 +66,9 @@
    <p>Eddyville Ky. <date when="1865-02-06">6<hi rend="sup">th</hi> Feb 1865</date>
 <lb/>To His Excellency
 <lb/>T E Bramlette
-<lb/>Dear Sir</p>
-<p>I write for the purpose of making application to you for a commission to raise a company to go into the state service or to act as independant scouts. I wish to raise a company for six or twelve months to fight the Guerrillas who are now infesting this section of country. I will take my company into the state service and in that case will ask for arms horses, equipments, and regular pay as state troops or if you will you will arm, mount us. I will obtain my pay from captures made from the enemy I will act as an independant company with the understanding that in lieu of regular pay we will appropriate to our own use all legal prizes of man taken from the enemy. I have served<pb/>
-<lb/>in the army and find that there is no peace at home. The guerrillas are traversing the country and we returned volunteers must <hi rend="underline">do something</hi> for our own protection. And we ask the aid of the state authorities in our efforts Hoping to hear from you. I am</p>
+<lb/>Dear Sir.</p>
+<p>I write for the purpose of making application to you for a commission to raise a company to go into the state service or to act as independant scouts. I wish to raise a company for six or twelve months to fight the Guerrillas who are now infesting this section of country. I will take my company into the state service and in that case will ask for arms horses equipments, and regular pay as state troops or if you will you will arm, mount us, I will obtain my pay from captures made from the enemy I will act as an independant company with the understanding that in lieu of regular pay we will appropriate to our own use all legal prizes of war taken from the enemy. I have served<pb/>
+<lb/>in the army and find that there is no peace at home. The guerrillas are traversing the country and we returned volunteers must <hi rend="underline">do something</hi> for our own protection. and we ask the aid of the state authorities in our efforts Hoping to hear from you, I am</p>
 <p>Your obt servant
 <lb/>Addison H Pierce</p>
 <p>Reference is made to Mr Franklin L Gardner, member of the Legislature from Caldwell County<pb/></p>
@@ -73,9 +76,9 @@
 <lb/><date when="1865-02-06">Feby. 6" 1865</date><figure type="hr"/>
 <lb/>Pierce Addision H.<figure type="hr"/>
 <lb/>To The Gov.<figure type="hr"/></p>
-<p>Desires authority to raise a Co. for state service -- Refers to Mr. Franklin &amp; L. Garnder members of the Legislature.<figure type="hr"/></p>
-<p>no authy
-<lb/>L. B. No -- 10 -- <date when="1865">1865</date> P 443<figure type="hr"/>
+<p>Desires authority to raise a Co. for state service -- Referrs to Mr. Franklin &amp; L. Garnder members of the Legislature -- <figure type="hr"/></p>
+<p>no authy</p>
+<p>L. B. No -- 10 -- <date when="1865">1865</date>. P 443<figure type="hr"/>
 <lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-02-27">27 Feby 1865</date></p>
   </body>
  </text>

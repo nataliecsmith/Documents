@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1473"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,16 +64,16 @@
  <text>
   <body>
    <p>Falmouth <date when="1861-10-22">October 22nd 1861</date>
-<lb/>Beriah Magoffin governor of the Commonwealth of Kentucky</p>
-<p>I herewith Send you an additional Petition for the pardon of Geoge Knorr from Newport including 11 of the Trail Jury Praying for the Pardon of said Knorr.</p>
-<p>his wife is now at her fathers with her chid boath sick and his father is Sick and a very poor man and if they can not git Some Relief Some way they will undaubtedly Suffer, I hope you will give the said Knorrs case a mercifully ^hearing^ and if you can pardon him do it as Soon as possable that he may releive the suffering ^<hi rend="str">hearing</hi>^ condition of his wife, and child </p>
+<lb/>Beriah Magoffin governor of the commonwealth of kentucky</p>
+<p>I herewith Send you an additional Petition for the pardon of Geoge Knorr from Newport including 11 of the Trial Jury Praying for the pardon of said Knorr.</p>
+<p>his wife is now at her fathers with her chid boath Sick and his father is Sick and a very poor man and if they can not git Some Relief Some way they will undaubtedly Suffer, I hope you will give the said Knorrs case a Mercifully ^hearing^ and if you can pardon him do it as soon as possable that he may releive the suffering ^hearing^ condition of his wife, and child </p>
 <p>I am Sir your obt servant,
 <lb/>E. A. W. Roberts<pb/></p>
 <p>Campbell
 <lb/>Commonwealth
-<lb/>vs
-<lb/>George Knorr<figure type="hr"/></p>
-<p>Aditianal Petition with 11 of the Trail Juror's Signed<figure type="hr"/></p>
+<lb/>vs<figure type="hr"/>
+<lb/>Gerge Knorr<figure type="hr"/></p>
+<p>Aditianal Petition with 11 of the Trial Juroer's Signed<figure type="hr"/></p>
 <p>Penty</p>
 <p>Issue pardon
 <lb/>B. Magoffin</p>

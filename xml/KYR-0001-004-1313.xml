@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1313"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,12 +64,14 @@
  <text>
   <body>
    <p>W. B. Baker has deposited Bond in this Office to obtain Coffee House License from the Trustees of the town of R. Spring,</p>
-<p><date when="1864-11-14">Nov 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date> Mat McKinney Clk</p>
+<p><date when="1864-11-14">Nov 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
+<lb/>Mat McKinney Clk</p>
 <p>E. Ledford has deposited Bond in this Office with view of obtaining Coffee House License from the Trustees of the town of R Springs</p>
-<p><date when="1864-11-14">Nov 14<hi rend="sup">th</hi> 1864</date> Mat McKinney Clk<pb/></p>
+<p><date when="1864-11-14">Nov 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.
+<lb/>Mat McKinney Clk<pb/></p>
 <p>I J. H. Wilkinson Presiding Judge of the Trigg County Court certify that at the time when Messr Ledford &amp; Baker made application for License as stated in the foregoing petition, the opinion was entertained &amp; acted ^upon^ by myself &amp; the then clerk of the County Court Mat M<hi rend="sup">c</hi>Kinney that it was only necessary for the applicant to procure "Merchants License to retail" for which the tax is five dollars -- instead of State License. The same opinion was entertained by members of the bar at this place. Acting upon these views we did issue the wrong License to Ledford &amp; Baker, it was through our mistake as to the law, and not through any fault of theirs that the law was violated</p>
-<p>Given under my hand this <date when="1866-09-15">15<hi rend="sup">th</hi> day of Sept 1866</date>
-<lb/><hi rend="underline">J. H. Wilkinson P. J TCC</hi></p>
+<p>Given under my hand this <date when="1866-09-15">15th day of Sept 1866</date>
+<lb/><hi rend="underline">J. H. Wilkinson P. J T C C</hi></p>
   </body>
  </text>
 </TEI>

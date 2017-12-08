@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0593"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,8 +64,8 @@
   <body>
    <p>To His Excellency James F Robinson
 <lb/>Governor of Kentucky,</p>
-<p>The undersigned Citizens of Louisville Respectfully ask your Excellency to Pardon Calvin Fairbanks, who was in the Spring of <date when="1852">1852</date> Convicted &amp; sentenced to Serve fifteen years in the Penitentiary for the Crime of aiding a Slave to escape from his owner</p>
-<p>They State that from what they have heard of Fairbanks he was a monomaniac on the Subject of Slavery, at the time the offence was committed,</p>
+<p>The undersigned Citizens of Louisville Respectfully ask your Excellency to Pardon Calvin Fairbanks, who was in the Spring of <date when="1852">1852</date> Convicted &amp; Sentenced to Serve fifteen years in the Penitentiary for the Crime of aiding A Slave to escape from her owner</p>
+<p>They State that from what they have heard of Fairbanks he was a monomaniac on the Subject of Slavery, at the time the offence was Committed,</p>
 <p>They believe the time he has been imprisoned a sufficient Punishment for the offence,</p>
 <p>Wherefore they most respectfully ask that the ballance of his term be remitted</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Jno. Homire
@@ -76,29 +79,29 @@
 <lb/>Jeff Brown.
 <lb/><cb n="2"/>R, H, Rousseau
 <lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> F. <hi rend="underline">Simpson</hi>
-<lb/>W. W. Owen
+<lb/>W, W, Owen
 <lb/>Byron Bacon
-<lb/>C. H. Young
+<lb/>C, H, Young
 <lb/>J, P, Fairfax
 <lb/>W. B. Hoke
 <lb/>Lewis N Dembitz
-<lb/><hi rend="underline"><unclear>Edfort</unclear> Needham</hi>
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> J, Craddock
+<lb/><hi rend="underline"><unclear>Eifort</unclear> Needham</hi>
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>, J, Craddock
 <lb/>W. C. Wood<pb/>
 <lb/><cb n="1"/>James Harris
 <lb/>Jesse Bayles
-<lb/>J. C. Berry
+<lb/>T. C. Berry
 <lb/>M C Bayles
 <lb/>John G. Simrall
-<lb/>Saml Russell
-<lb/><cb n="2"/>Jos, Clement
+<lb/>Sam'l Russell
+<lb/><cb n="2"/>Jos, Clement,
 <lb/>T H Crawford
 <lb/><hi rend="underline">Jo. G. Wilson</hi>
-<lb/>Charles Purnot
+<lb/>Chrls Purnot
 <lb/>Fred Williams
-<lb/>Chs. Caggshull<pb/></p>
+<lb/>Chs, Coggshall<pb/></p>
 <p><milestone unit="column" n="1"/>Fairbans Pettn for Pardon</p>
-<p>Calvin Fairbans has once heretofor received the Exetv. Clemency of Kenty and upon his release committed again the same Offence for which he was again asks pardon I do not think it should be granted</p>
+<p>Calvin Fairbans has once heretofore received the Exetv. Clemency of Kenty and upon his release committed again the same Offence for which he now again asks pardon I do not think it should be granted</p>
 <p>J F Robinson</p>
   </body>
  </text>

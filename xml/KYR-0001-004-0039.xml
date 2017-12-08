@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0039"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,33 +62,33 @@
  </teiHeader>
  <text>
   <body>
-   <p><date when="1863-09-23">Sept 23d 1863</date>
+   <p><date when="1863-09-23">Sept 23<hi rend="sup">d</hi> 1863</date>
 <lb/>To his Excellency The Governor of Ky</p>
-<p>Your petition Richard Durbin states at the <date when="--09">September</date> ^term^ Inst of the Edmondson Equity &amp; Criminal Court he was found guily of Selling Spiritious Liquor to a minor He states that a neighbor has sent a boy for a quart of whisky &amp; your petitioner sent it to him by said boy, &amp; for that he was fined $50 &amp; costs</p>
-<p>your peitioner states he is poor has a large family to support &amp; pray your honors clemency in the remission of said fine &amp; will ever pray</p>
+<p>your petition Richard Durbin states at the <date when="--09">September</date> ^term^ Inst of the Edmondson Equity &amp; Criminal Court he was found guily of Selling Spiritious Liquor to a minor He states that a neighbor his sent a boy for a quart of whisky &amp; your petitione sent it to him by said boy, &amp; for that he was fined &#36;50 &amp; costs</p>
+<p>your peitioner states he is poor has a large family to support &amp; prays your honors clemency in the remission of said fine &amp; will ever p<hi rend="str">a</hi>ray</p>
 <p>Richard Durbin</p>
-<p>The undersigned states that they are neighbors of Richard Durbin &amp; that they believe the statements made by him are true &amp; they Join him in his prayer for the remission of said fine</p>
+<p>The undersigned state that they are neighbors of Richard Durbin &amp; that they believe the statements made by him are true &amp; they Join him in his prayer for the remission of said fine</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>J E Bacon P J C C C
-<lb/>Jas Walker Jus
+<lb/>Ja<hi rend="sup">s</hi> Walker Jun
 <lb/>J. P. Vincent J P E C
 <lb/><cb n="2"/>W Haslip
 <lb/>S Brooks
-<lb/>T R zetter
-<lb/>James Sock
+<lb/><unclear/> R <unclear>zettley</unclear>
+<lb/>James Lock
 <lb/>Aron Lawson
 <lb/>P H Sohan P. M
-<lb/>Bradley Meredith
-<lb/>James Vincent
-<lb/><milestone unit="column" n="1"/>
-<lb/>Direct to Bee Spring Ky</p>
-<p>I certify that I am personly acquainted with those men and now them to be Honerable union men and I Join Mr Durbin in his Prayer for Remission of Sd fine F. Meredith P M<pb/></p>
-<p>The undersigned States he was counsel for the petitioner that upon trial of the case it was proven by W<hi rend="sup">m</hi> Jones that his father and a neighbour sent him to the house of the petitioner for a quart of whickey which he got and paid for and took home without drinking any of it to this father,s that he was a minor this is substantially the case Mr Durbin is poor &amp; ill able to pay the fine I hope Executive clemency will be extended he deserves it</p>
+<lb/>Bradley Meridith
+<lb/>James Vincent<milestone unit="column" n="1"/></p>
+<p>Direct to Bee Spring Ky</p>
+<p>I Certify that I am personly aCquainted with those men and now them to be Honerable union men and I Join Mr Durbin in his Prayer for Remission of Sd fine F, Meridith P M<pb/></p>
+<p>The undersigned States he was counsel for the petitioner that upon trial of the case it was proven by W<hi rend="sup">m</hi> Jones that his father and a neighbour sent him to the house of the petitioner for a quart of whickey which he got and paid for and took home without drinking any of it to this father,s that he was a miner this is substantially the case Mr Durbin is poor &amp; ill able to pay the fine I hope Executive clemency will be extended he deserves it</p>
 <p>W L Conklin</p>
-<p>Edmonson
-<lb/>Remit all except costs &amp; fees -- 
-<lb/>T E Bramlette
-<lb/><date when="1863-10-05">Oct 5th/63</date>
-<lb/>vs Rich<hi rend="sup">d</hi> Durbin</p>
+<p>Edmonson</p>
+<p>Remit all except costs &amp; fees -- </p>
+<p>T E Bramlette
+<lb/><date when="1863-10-05">Oct 5<hi rend="sup">h</hi>/63</date>
+<lb/>vs
+<lb/>Rich<hi rend="underline"><hi rend="sup">d</hi></hi> Durbin</p>
   </body>
  </text>
 </TEI>

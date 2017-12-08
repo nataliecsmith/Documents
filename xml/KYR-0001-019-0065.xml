@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0065"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Frankfort, Franklin County, Kentucky</placeName>
+    <placeName>Kentucky</placeName>
     <date when="1861-05-31">31 May 1861</date>
    </creation>
    <textClass>
@@ -60,12 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Common<hi rend="underline">wealth</hi> of Kentucky S-ct,</p>
-<p>This day came his Excellency Beriah Magoffin &amp; Mess<hi rend="underline"><hi rend="sup">rs</hi></hi> Samuel Gill, George T. Wood, &amp; General Peter Dudley before me the Clerk of the Court of Appeals and made oath that they would faithfully execute the provisions of An Act of the Legislature of Kentucky approved <date when="1861-05-24">May 24 1861</date> entitled "An Act for the regulation of the Militia and to provide for the arming of the State." </p>
+   <p>Commonwealth of Kentucky Sct.<figure type="hr"/></p>
+<p>This day came his Excellency Beriah Magoffin &amp; Mess<hi rend="underline"><hi rend="sup">rs</hi></hi> Samuel Gill, George T. Wood, &amp; General Peter Dudley before me the Clerk of the Court of Appeals and made oath that they would faithfully execute the provisions of An Act of the Legislature of Kentucky approved <date when="1861-05-24">May 24<hi rend="underline"><hi rend="sup">"</hi></hi> 1861</date> entitled "An Act for the regulation of the Militia and to provide for the arming of the State." </p>
 <p>Witness my hand <date when="1861-05-31">May 31<hi rend="underline"><hi rend="sup">st</hi></hi> 1861</date>.
 <lb/>Leslie Combs
 <lb/>C. C. A.<pb/></p>
-<p>Kentucky Military Commissions<figure type="hr"/>
+<p>Kentucky Military Commissioners<figure type="hr"/>
 <lb/>Qualification</p>
   </body>
  </text>

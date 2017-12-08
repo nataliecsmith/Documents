@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0109"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Sebastian Vick to Thomas E. Bramlette and Daniel W. Lindsey</title>
+    <title level="a" type="main">Sebastian C. Vick to Thomas E. Bramlette and Daniel W. Lindsey</title>
     <title level="a" type="parallel">CWG12032</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Uniontown, Stark County, Ohio</placeName>
+    <placeName>Uniontown, Union County, Kentucky</placeName>
     <date when="1864-06-22">22 June 1864</date>
    </creation>
    <textClass>
@@ -60,33 +63,29 @@
  </teiHeader>
  <text>
   <body>
-   <p>A Union Town Ohio River
-<lb/><date when="1864-06-22">June the 22<hi rend="sup">nd</hi> 1864</date>
+   <p><hi rend="str">U</hi> Union Town Ohio River
+<lb/><date when="1864-06-22">June the 22<hi rend="sup">ond</hi> 1864</date>
 <lb/>Messrs.
 <lb/>Govor Bramlett
-<lb/>and Major Gen
-<lb/>D. W. Lindsey</p>
-<p>I have the honor to Report to you <hi rend="str">of</hi> for The first Tiem Since I let Frankfort I Reached home on the <date when="---18">18<hi rend="sup">th</hi> ultimo</date> I found the whole country full of Horse thieves and cut throats I continued my march with a batallion of the 35 Ky.. Mts Inf we left Russellville on <date when="---17">the 17<hi rend="sup">th</hi></date> passd through greenvill and madisonville then to Slaughters, will. and dixon to morganfield Mr Reache Moranfield at ten oclock on the morning of the <date when="---21">21<hi rend="sup">st</hi></date> we found about ten guirillars to charged on them and killd three, captured Several horses<pb/>
-<lb/>We reachd her yesterday Eavening we still Remain here, we have had some skirmishing all day without gaining any advantage I think that we will get them to fight I think that the guirilars members about.400, we have only, 175, men all told &amp; <unclear/></p>
-<p>I wish, general, Lindsey to forward on to Bowlinggreen at Least, 200. twoo hundred guns, of the Ballard, patersn or good carbines with a good Suply of amunition I will take my men and go to Rusells or Bolwinggreen after <unclear/> &amp; <unclear/></p>
-<p>pleas forward these Immediatly Be sure to send the Ballard Rifle for one company and oblige yours</p>
-<p>Sebastian. C. Vick
-<lb/>col comd,g, 71.<hi rend="sup">st</hi> Regt. E M.</p>
-<p>P. S. the guirillars arrested, a, loyal citizen Last night in Morganfield hung him and then Shot, 14, Balls through him they charged him with Being our Spy, he was not our Spy</p>
-<p>S. C. Vick<pb/></p>
-<p>71
-<lb/>Ky State. Militia
-<lb/>Uniontown. Ohio River
-<lb/><date when="1864-06-22">June 22<hi rend="underline"><hi rend="sup">nd</hi></hi> 1864</date><figure type="hr"/>
-<lb/>Vick Sebastian C. Col. Comg
-<lb/>71<hi rend="underline"><hi rend="sup">st</hi></hi> Rg. E. M. Muhlenburg. Co<figure type="hr"/>
-<lb/>Gives an account of his expedition with a Bat of 35<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. Mtd. Inft from Russellsville to this place</p>
-<p>He reached his home on the <date when="--05-18">18<hi rend="underline"><hi rend="sup">th</hi></hi> May.</date> and found his county full of Guerillars - continued with the 35<hi rend="underline"><hi rend="sup">th</hi></hi> to Union town. Wants 200 Ballard guns or Carbines sent to Bowling Green or Russellville - wants the B,llrd rifle for one company at least Wants ordinance stores also. Will take his Reg. to either place for them.</p>
-<p>The G,llas arrested hung &amp; shot a Loyal citizen of Morganfield as a spy, but he was not.<figure type="hr"/>
-<lb/>over<figure type="hr"/>
-<lb/>Rec. I. G. O. <date when="1864-06-24">June 24 -- 1864</date></p>
-<p>Answered <date when="1864-06-27">June 27. 1/64</date>
-<lb/>on letter book Page 450=</p>
+<lb/>and Major Gen.
+<lb/>L, W, Lindsey</p>
+<p>I have the honor to Report to you <hi rend="str">of</hi> for, the first Time Since I left Frankfort I Reached home on the <date when="---18">18<hi rend="sup">th</hi> ultimo</date> I found the whole country full of Horse thieves and cut throats I continued, My March with abatallion of the 35 Ky, Mtd Inf we left Ruselliville on <date when="---17">the 17<hi rend="sup">th</hi></date> passd through greenvill and madisonville then to Slaughtersvill, and dixon to morganfield We Reach,d, Moranfield at ten oclock on the morning of the <date when="---21">21<hi rend="underline"><hi rend="sup">st</hi></hi></date> we found about ten guirillars to charged, on them and killd three, captured Several horses<pb/>
+<lb/>We reachd her yesterday Eavening we Still Remain here, We have had some skirmishing all day without gaining any advantage I think that we will get them to fight I think that the guirilars members about.400, we have only ,175, men all told &amp; <unclear/></p>
+<p>I wish, general, Lindsey to forward on to Bowlinggreen at Least ,200, twoo hundred guns, of the Ballard, paters, or good carbines with a good Suply of amunition I will take my men and go to Rusells or Bowlinggreen after them &amp; <unclear/></p>
+<p>Pleas forward these Imediatly Be sure to Send the Ballard Rifle for one company and oblige yours</p>
+<p>Sebastian C. Vick
+<lb/>col comd,g, 71<hi rend="underline"><hi rend="sup">st</hi></hi> Regt. E m.</p>
+<p>P, S, the guirillars arrested, a, loyal citizen Last night in morganfield hung him and then Shot ,14, Balls through him they charged him with Being our Spy, he was not our Spy</p>
+<p>S, C, Vick<pb/></p>
+<p>Ky State Militia
+<lb/>Union town. Ohio River
+<lb/><date when="1864-06-22">June 22<hi rend="underline"><hi rend="sup">nd</hi></hi> 1864</date><figure type="hr"/></p>
+<p>Vick Sebastian. C, Col. Comg 71<hi rend="underline"><hi rend="sup">st</hi></hi> Rg. E. M. Muhlenburg. Co<figure type="hr"/></p>
+<p>Gives an account of his expedition with a Bat of 35<hi rend="underline"><hi rend="sup">th</hi></hi> Ky. mtd. Inft from Russellsville to this place. He reached his home on the <date when="--05-18">18<hi rend="underline"><hi rend="sup">th</hi></hi> May</date>. and found his county full of Guerillars. continued with the 35<hi rend="underline"><hi rend="sup">th</hi></hi> to Union town. Wants 200 Ballard guns or Carbines sent to Bowling Green or Russellville-- wants the B,llrd rifle for one company at least. Wants ordinance stores also. Will take his Reg. to either place for them.</p>
+<p>The G,rllas arrested hung &amp; shot a Loyal citizen of Morganfield as a spy, but he was not.<figure type="hr"/></p>
+<p>over<figure type="hr"/></p>
+<p>Rec. I. G. O. <date when="1864-06-24">June 24-- 1864</date></p>
+<p>Answered <date when="1864-06-27">June 27. 1/64</date> on letter book Page 450.</p>
   </body>
  </text>
 </TEI>

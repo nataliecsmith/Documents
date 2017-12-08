@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0555"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,14 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P001002">Lexington Ky</placeName>, <date when="1863-08-28">Aug 28 -- 63</date>
+   <p>Lexington Ky, <date when="1863-08-28">Aug 28 -- 63</date>
 <lb/>My dear Sir</p>
-<p>This note will be handed you by <persName ref="cwgk:N00004805">James Donahoe</persName> of Lexington. He has a petition requesting the remission of a fine, inflicted in the <orgName ref="cwgk:O00000377">Fayette Circuit Court</orgName>. <date when="1862-02">Feb<hi rend="sup">y</hi> 1862</date>. Mr Donahoe is now acting as a good citizen and has abandoned the grocery business <unclear/> of the fine was made upon the testimony of a man, whose affidavit taken after the trial disproved all he testified to before Court.</p>
-<p>I think his a case, which presents strong grounds for Executive clemency -- </p>
-<p>Truly Yours &amp;c
-<lb/><persName ref="cwgk:N00004016">Speed S. Goodloe</persName></p>
+<p>This note will be handed you by James Donahoe of Lexington. He has a petition requesting the remission of a fine, inflicted in The Fayette Circuit Court, <date when="1862-02">Feb<hi rend="sup">y</hi> 1862</date>, Mr Donahoe is now acting as a good citizen and has abandoned the grocery business. <unclear/> of the fine <unclear/> was made upon the testimony of a man, whose affidavit taken after the trial disproved all he testified to before Court.</p>
+<p>I think his a case,, which presents strong grounds for Executive clemency -- </p>
+<p>Truly Yours
+<lb/><hi rend="underline">Speed. S. Goodloe</hi></p>
 <p>To
-<lb/>Hon <persName ref="cwgk:N001004">James F. Robinson</persName></p>
+<lb/>Hon James F, Robinson</p>
   </body>
  </text>
 </TEI>

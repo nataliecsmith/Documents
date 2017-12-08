@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0031"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,21 +66,21 @@
    <p>Lebanon <date when="1865-02-27">Feb 27.65</date>
 <lb/>Hon Thomas E. Bramlette.
 <lb/>Dear Sir.</p>
-<p>Believing as I do that you have deeply at heart the interest peace and welfare of our State, I am prompted to lay before you as <unclear/> as possible a Statement as follows: -- </p>
-<p>You are doubtless aware of the difficulty pending between The Akins of Lincoln &amp; the Rowseys of Boyle -- As I understand, the Akin party applied for and obtained a commission to recruit a company for the State Service -- which was probably well enough -- </p>
-<p>Shortly afterwards -- the other party (Rowseys) <hi rend="str"><unclear/></hi>Applied for a commission and was promptly refused, -- which was we think also well enough -- <pb/></p>
-<p>Rowseys failing to obtain a commision in their own Name -- Sent forward to you an Uncle from I think Adair County -- One Capt Curry, formerly of the 13. Ky</p>
+<p>Believing as I do that you have deeply at heart the interest peace and welfare of our State, I am prompted to lay before you as briefly as possible a Statement as follows: -- </p>
+<p>You are doubtless aware of the difficulty pending between The Akins of Lincoln &amp; the Rouseys of Boyle -- As I understand, the Akin party applied for and obtained a commission to recruit a company for the State Service -- which was probably well Enough -- </p>
+<p>Shortly afterwards -- the other party (Rouseys) <hi rend="str">N</hi>Applid for a commission and was promptly refused, -- which was we think also well enough -- <pb/></p>
+<p>Rouseys failing to obtain a commision in their own Name -- Sent forward to you an Uncle from I think Adair County -- One Capt Curry, formerly of the 13 Ky</p>
 <p>If I am correctly informed -- both parties are now organizing rapidly and unless your Excelency can do some thing for the people of the immediate country in which they live -- fears are entertained that it will grow into something awful indeed -- </p>
-<p>Rest assured there is even now a reign of terror among those people who so well know the material of which the parties are composed -- and especially the Rowseys -- </p>
-<p>Wishing that you may be enabled to spare some little time to a careful investigation of this matter -- And act in the case as your good judgment may dictate</p>
+<p>Rest assured there is even now a reign of terror among those people who so well know the material of which the parties are composed- and especially the <hi rend="underline">Rouseys</hi> -- </p>
+<p>Wishing that you may be enabled to spare some little time to a careful investigation of this matter -- and act in the case as your good judgment may dictate</p>
 <p>I am Sir
-<lb/>Your Obedient Servt -- 
+<lb/>Your Obedient Servant -- 
 <lb/>"<hi rend="underline">Peace</hi>"<pb/></p>
 <p>Lebanon Ky
 <lb/><date when="1865-02-27">Feby. 27" 1865</date><figure type="hr"/>
 <lb/>"Peace" -- <figure type="hr"/>
-<lb/>To the Gov.<figure type="hr"/></p>
-<p>Asks that a stop be put to the depredating of the Akins of Lincoln &amp; the Rowseys of Boyle Cos.<figure type="hr"/></p>
+<lb/>To The Gov.<figure type="hr"/></p>
+<p>Asks that a stop be put to the depredating of the Akins of Lincoln &amp; the Rouseys of Boyle Co<hi rend="underline"><hi rend="sup">s</hi></hi><figure type="hr"/></p>
 <p>an officer will be sent to look after their operations<figure type="hr"/></p>
 <p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-03-01">1 Mar 1865</date></p>
   </body>

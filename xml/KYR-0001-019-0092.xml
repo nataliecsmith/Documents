@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0092"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Durrett M. White, Requisition</title>
+    <title level="a" type="main">Durrett White, Requisition</title>
     <title level="a" type="parallel">CWG1398</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,85 +63,88 @@
  </teiHeader>
  <text>
   <body>
-   <p>Requisition for Ordnance Stores and Camp Equipage, &amp;c., for the use of Company Silver Creek Rangers of the <gap/> Regiment of Cavalry --, which was mustered into the KENTUCKY STATE GUARD on the <date when="1861-06-17">17<hi rend="sup">th</hi> day of June, 1861</date>, at <unclear/>, in Madison county.</p>
+   <p>Requisition for Ordnance and Ordnance Stores and Camp Equipage, &amp;c., for the use of Company Silver Creek Rangers of the <gap/> Regiment of Cavalry-, which was mustered into the KENTUCKY STATE GUARD on the <date when="1861-06-17">17<hi rend="sup">th</hi> day of June, 1861</date>, at Menelos, in Madison county.</p>
 <p><table rend="rules">
 <row>
-	<cell/>
+	<cell>  </cell>
 	<cell>6 pdr. brass cannon.</cell>
 	<cell>6 pdr. carriages.</cell>
 	<cell>Muskets, complete.</cell>
 	<cell>Rifles, complete.</cell>
 	<cell>Cartridge boxes.</cell>
 	<cell>Cartridge box belts.</cell>
-	<cell>Bayonet seabbards.</cell>
+	<cell>bayonet seabbards.</cell>
 	<cell>Waist belt-plates.</cell>
 	<cell>Gun slings.</cell>
-	<cell>Sabres</cell>
-	<cell>Sabre belts &amp; plate</cell>
-	<cell>Cavalry Pistols &amp;</cell>
+	<cell>Gun slings.</cell>
+	<cell>sabre belts &amp;amp; plate</cell>
+	<cell>Cavalry Pistols &amp;amp;</cell>
 	<cell>Carbines</cell>
+	<cell>REMARKS.
+<lb/>Requisitions for arms should never be for a number greatly in excess of the actual strength of the Company, and should be addressed to the Inspector General at Louisville, who will transmit them to the Adjutant General at Frankfort, who will submit them to the Governor for approval or modification. When the issues do not fully cover the requisition, the receipt will be altered by the Adjutant General to correspond with the issues, and the Company commander be notified thereof.</cell>
 </row>
 <row>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell><hi rend="str">Fifty</hi> 44 </cell>
+	<cell>  </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><hi rend="str">Fifty</hi> 44</cell>
 	<cell><hi rend="str">Fifty</hi> 44</cell>
 	<cell><hi rend="str">Fifty</hi> 88</cell>
 	<cell><hi rend="str">Fifty</hi> 44.</cell>
+	<cell/>
 </row>
 <row>
 	<cell>Total</cell>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell> </cell>
+	<cell><hi rend="str">4</hi>50</cell>
+	<cell><hi rend="str">4</hi>50</cell>
+	<cell><hi rend="str">4</hi>50</cell>
 	<cell>50</cell>
-	<cell>50</cell>
-	<cell>50</cell>
-	<cell>50</cell>
+	<cell/>
 </row>
-</table>
-<lb/>REMARKS.<figure type="hr"/></p>
-<p>Requisitions for arms should never be for a number greatly in excess of the actual strength of the Company, and should be addressed to the Inspector General at Louisville, who will transmit them to the Adjutant General at Frankfort, who will submit them to the Governor for approval or modification. When the issues do not fully cover the requisition, the receipt will be altered by the Adjutant General to correspond with the issues, and the Company commander be notified thereof.</p>
-<p>I CERTIFY that there are 44 active, <hi rend="italic">bona fide</hi> members of the above mentioned Company, exclusive of commissioned officers.</p>
-<p>Durrett M White
-<lb/>Captain
+</table></p>
+<p>I CERTIFY that there are <hi rend="str"><unclear/></hi>44 active, <hi rend="italic">bona fide</hi> members of the above mentioned Company, exclusive of commissioned officers.</p>
+<p>Durrett White
+<lb/><hi rend="str">PGP</hi> Captain
 <lb/><hi rend="italic">Commanding Company</hi>.</p>
-<p>Date: <date when="1861-06-17">June
-<lb/>17, 1861</date>
+<p>DATE: <date when="1861-06-17">June -- 17, 1861</date>
 <lb/>Received, <gap/> day of <gap/>, 186<gap/>, of <gap/>, Quartermaster General, the following named articles:
-<lb/><hi rend="str">60</hi> 44 <hi rend="str">75</hi> M<hi rend="str">uskets</hi>, <hi rend="str">complete</hi>. Sabers
-<lb/><hi rend="str">44</hi> <hi rend="str">75</hi> <hi rend="str">Rifles</hi>, <hi rend="str">complete</hi>. <hi rend="str">Carbines</hi> 44 Carbines
+<lb/><hi rend="str">60</hi> 44 <hi rend="str">75</hi> M<hi rend="str">uskets</hi>, <hi rend="str">complete</hi>. sabers
+<lb/><hi rend="str">60 44</hi> <hi rend="str">75</hi> <hi rend="str">Rifles</hi>, <hi rend="str">com</hi>plete. Car<hi rend="str">bines</hi> 44 Carbines,
 <lb/><hi rend="str">150</hi> 88 <hi rend="str">150</hi> <hi rend="str">Cartridge boxes</hi>. Pistols with accoutrements
 <lb/><gap/> Cartridge box belts.
 <lb/><gap/> Bayonet scabbards.
 <lb/><gap/> Waist belt-plates.
-<lb/><hi rend="str">75</hi>60 Gun slings.</p>
+<lb/><hi rend="str">75</hi>60 Gun slings.
+<lb/><gap/>
+<lb/><gap/></p>
 <p><gap/>
-<lb/>Captain Commanding Company.<pb/></p>
+<lb/><hi rend="italic">Captain Commanding Company.</hi><pb/></p>
 <p>I hereby certify that the within requistion for ordnance and ordnance stores and camp equipage, &amp;c., is made with my consent.</p>
 <p>James H. Embry
 <lb/><hi rend="italic">County Judge of</hi> Madison <hi rend="italic">County</hi>. Ky</p>
-<p>The Quartermaster General is hereby directed to make the issue of public stores and arms in accordance with this requisition.</p>
+<p>The Quartermaster General is hereby directed to make the issue of public stores and arms in accordance with this requisition;</p>
 <p>B. Magoffin
 <lb/>Pres of the Board
 <lb/><hi rend="italic"><hi rend="str">Governor and Commander-in-Chief</hi></hi></p>
 <p>with (525)
-<lb/>REQUISITION
-<lb/>For ordnance, &amp;c., for company <gap/> of <gap/> Regiment, K. S. G. Issued <gap/>, 186<gap/>, and charged to <gap/> county.</p>
+<lb/>REQUISITION</p>
+<p>For ordnance, &amp;c., for company <gap/> of <gap/> Regiment, K. S. G. Issued <gap/>, 186<gap/>, and charged to <gap/> county.</p>
 <p><gap/><hi rend="str">
 <lb/></hi><hi rend="italic">Quartermaster General.</hi></p>
 <p>Head Quarters Ky State Guard

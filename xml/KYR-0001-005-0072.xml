@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0072"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,19 +66,18 @@
    <p>Office of the Chief of Police,
 <lb/>Louisville, Ky., <date when="1865-07-21">July 21 1865</date>
 <lb/>To his Excellency
-<lb/><hi rend="str">J</hi>Thos. F. Bramlette
+<lb/><hi rend="str">Jno</hi>Thos. F. Bramlette
 <lb/>Governor of Kentucky</p>
-<p>On the afternoon of the 20<hi rend="sup">th</hi> inst, Hon Caleb Stinson Ex Representative of the Legislature from Grayson Co was foully waylaid &amp; <hi rend="str">murdered</hi>^mortally wounded^ by B. F. Dewees of same county The only reason alleged for the act was the fear of M<hi rend="underline"><hi rend="sup">r</hi></hi> Stinson's exposing some rascality of said Dewees and bringing him to justice -- If it would please your Excellency to offer the customary reward for the apprehension<pb/>
-<lb/>of the murderer, it would no doubt facilitate his capture -- </p>
-<p>Said Dewees is ^about 32 years old^ five feet ten inches high -- red hair blue eyes, ^no whiskers^ sandy complexion had the end of his nose bitten off some years ago -- ^is^ weighs about 180 lbs -- </p>
-<p>Very Respectfully
+<p>On the afternoon of the <date when="1865-07-20">20<hi rend="sup">th</hi> inst</date>, Hon Caleb Stinson Ex Representative of the Legislature from Grayson Co was foully way laid &amp; <hi rend="str">murdered</hi> mortally wounded by B. F, Dewees of same county The only reason alleged for the act was the fear of M<hi rend="underline"><hi rend="sup">r</hi></hi> Stinson's exposing some rascality of said Dewees and bringing him to Justice- If it would please your Excellency to offer the customary reward for the apprehension<pb/>
+<lb/>of the Murderer, it would no doubt facilitate his capture -- </p>
+<p>Said Dewees is ^about. 32 years old^ five feet ten inches high -- red hair blue eyes, ^no whiskers^ sandy complexion had the end of his nose bitten off some years ago -- ^is^ weighs about 180 lbs -- </p>
+<p>very Respectfully
 <lb/>Squre Stinson<pb/></p>
 <p>Reward
-<lb/>$300,
-<lb/>B. F. Dewees
-<lb/>$300,
-<lb/>Offered
-<lb/><date when="1865-07-24">24 July/65</date></p>
+<lb/>&#36;300,
+<lb/>B. F. Dew<hi rend="str">o</hi>ees
+<lb/>&#36;300,
+<lb/>offered <date when="1865-07-24">24 July/65</date></p>
   </body>
  </text>
 </TEI>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0108"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">C. B. May to Beriah Magoffin</title>
+    <title level="a" type="main">Unknown to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG1414</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,14 +62,13 @@
  </teiHeader>
  <text>
   <body>
-   <p><date when="1861-07-06">July the 6<hi rend="sup">th</hi> 1861</date>
+   <p><date when="1861-07-06">July the 6<hi rend="sup">th</hi> 1861.</date>
 <lb/>Hon. B Magoffin
-<lb/><note place="left margin">direct your letter to <unclear>Swinley town</unclear>
-<lb/><hi rend="underline">Spencer Co</hi></note></p>
-<p>Dr sir we have organized a home Guard in my neighborhood and wish to obtain arms for said company and learn from Berry Guthren that we will have the printed froms and directed me that I could get the necessary forms by writing to you: you will therefore confer a favour that will be Kindly reciprocated by your attention to this matter we are now in a worse condition -- than the most extreme southern man ever dreamed or anticipated: I believe Kentucky should become unit immediately and take her position -- with her true friends: we will have to do it the sooner the Better Lincoln now has his friends through our Country and no doubt through out the state learning his strength and furnishing them with arms most of those men are originally<pb/> 
-<lb/><note place="left margin">please let us know when we can get the arms</note>
-<lb/>from the north who moved among us many years ago: who have formed friends and acquaintances in our country: &amp; they came among us as trades men and teachers who have been patronized and warned into <unclear/> and now they are acting out their true character running around &amp; finding out every Lincolnite in the Country and reporting the same to the departments there are not many of this class in the Country, but more than we ever believed could be found among us the union party here with the above exception are for maintaining your position of neutrality: if that should be taken from ^us^ we are for the south the <hi rend="str">party</hi> fanaticks at home and the hired friends from the north who I beleive will shortly attempt to over run our state: by forming Gurilla parties all around our borders if strong enough of themselves they will harrass us. if they need help Lincoln has promised it.</p>
-<p>Yours respectfully C B <unclear>May</unclear></p>
+<lb/><note place="left margin">direct your letter to (smiley town <hi rend="underline">spencer Co</hi></note></p>
+<p>Dr sir we have organized a home Guard in my neighbourhood and wish to obtain arms. for said company: and learn from Berry Guthriee that we will have the printed froms and directed me that I could get the necessary forms by writing to you: you will therefore confer a favour that will be Kindly reciprocated by your attention to this matter- we are now in a worse condition than the most extreme southern man ever dreamed or anticipated: I believe Kentucky should become unit immediately and take her position with her true friends: we will have to do it the sooner the Better Lincoln now has his friends through our County and no doubt through out the state learning his strength and furnishing them with arms most of those men are originally<pb/> 
+<lb/>from the north. who moved among us many years ago: who have formed friends and acquaintances in our country: &amp; they came among us as trades men and teachers who have been patronized and warmed into life and now they are acting out their true character running around &amp; finding out every Lincolnite in the Country and reporting the same to the departments. there are not many of this class in this Country. but more than we ever believed could be found among us, the union party here with the above exception are for maintaining your position of neutrality: if that should be taken from ^us^ we are for the south the work is before ^us^ let us be ready to meet the <hi rend="str">party</hi> fanaticks at home and the hired fiends from the north who I beleive will shortly attempt to over run our state: by forming Gurilla parties all around our border if strong enough of themselves they will harrass us, if they need help Lincoln has promised it.</p>
+<p>Yours respectfully C B <unclear/></p>
+<p><note place="left margin">please let us know when we can get the arms</note></p>
   </body>
  </text>
 </TEI>

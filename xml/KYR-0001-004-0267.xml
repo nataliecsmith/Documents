@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0267"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,16 +65,16 @@
   <body>
    <p>Louisville <date when="1863-11-07">Nov 7. 1863</date>
 <lb/>To his Excellency the Governor of Kentucky
-<lb/>Dear Sir</p>
-<p>Your favor of yesterday is reserved informing me that the application in behalf of James Russell for pardon have not come to hand. It was certainly mailed some two weeks since. I enclose duplicates ^of the verdict &amp; Judge's recommendation^. Russell is a mere boy. Was discharged from the army in consequence of wound received in Western Virginia, and if guilty of which I have much doubt, was seduced into the crime by his associate who is an old convict. Russell was drunk at the time, though not in the habit of drinking. His statement is that his associate committed the crime without his knowledge, and afterwards gave him the pistol, ^&amp; money^ which was found on him, and there was nothing in the evidence inconsistent with the statement. He was probably guilty of reseiving the goods knowing then to be stolen, but I feel very confident he has nothing to do with the theft not any previous knowledge that it would be committed. He <unclear>proves</unclear> a most excellent character for honesty. He is the sole dependence of a widowed mother for her support. I respectfully request that a pardon may be granted. He is still retained here until the determination of your excellency can be learned</p>
+<lb/>Dear sir</p>
+<p>Your favor of yesterday is receeved informing me that the application in behalf of James Russell for pardon have not come to hand. It was certainly mailed some two weeks since. I enclose duplicates ^of the verdict &amp; Judge's recommendation^ Russell is a mere boy. Was discharged from the army in consequence of wound receeved in Western Virginia, and if guilty of which I have much doubt, was seduced into the crime by his associate who is an old convict. Russell was drunk at the time, though not in the habit of drinking. His statement is that his associate committed the crime without his knowledge, and afterward gave him the pistol ^&amp; money^ which was found on him, and there was nothing in the evidence inconsistent with the statement. He was probably guilty of receiving the goods knowing then to be stolen, but I feel very confident he has nothing to do with the theft not any previous knowledge that it would be committed. He proved a most excellent character for honesty. He is the sole dependence of a widowed mother for her support- I respectfully request that a pardon may be granted. He is still retained here until the determination of your Excellency can be learned</p>
 <p>Very respectfully yours
-<lb/>Tho<hi rend="sup">s</hi> W. Gibson<pb/></p>
+<lb/><hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> W. Gibson</hi><pb/></p>
 <p>Jefferson Cir Ct
 <lb/>vs
 <lb/>Jas Russell
-<lb/><date when="--11">Nov term</date>
+<lb/><date when="1863-11">Nov term</date>
 <lb/>Pardoned
-<lb/><date when="1863-11-09">9<hi rend="sup">th</hi> Nov/ 63</date></p>
+<lb/><date when="1863-11-09">9<hi rend="sup">th</hi> Nov/63</date></p>
   </body>
  </text>
 </TEI>

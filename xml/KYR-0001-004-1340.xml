@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1340"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,8 +62,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Thos. E Bramlet, Governor, of Kentucky;</p>
-<p>we petitioners Citizens of the County of <hi rend="str">car-</hi> -- Carter; and part of the Jury sumoned from, Carter County to Lawrence, at the fall term of the Court, in <date when="1859-10">October 1859,</date> and being the <unclear>trial</unclear> of <hi rend="str">said Endic</hi> of Gabriel Endicott for <hi rend="underline">murder</hi>, we found him guilty of manslaughter, and fixed his time of confinement at ten years; said Endicott has now been confine little more than half the term; has been a faith,full, <hi rend="underline">prisoner</hi> is a young man, of standing, and moral worth; all things connected with his case; and himself considered; we hope will induce, your Excelly to act,
+   <p>To his Excellency Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlet, Governor, of Kentucky; we petitioners Citizens of the County of <hi rend="str">car</hi> -- Carter; and part of the Jury sumoned from, Carter County to Lawrence, at the fall term of the Court, in <date when="1859-10">October 1859,</date> and being the <unclear>trial</unclear> of <hi rend="str">said Endic</hi> of Gabriel. Endicott for <hi rend="underline">murder</hi>, we found him Guilty of Manslaughter, and fixed his time of Confinement at ten years; said Endicott has now been confine little more than half the term; has been a faithfull, <hi rend="underline">prisoner</hi> is a young man, of standing, and Moral worth; all things connected with his case; and himself considered; we hope will induce, your Excelly to act
 <lb/>over,<pb/>
 <lb/>favorably, in his case, and pardon, him from the balance of his time,</p>
 <p>and as in duty will ever &amp; c,
@@ -70,7 +72,7 @@
 <lb/>Samuel Everman
 <lb/>Elijah Horton
 <lb/>John Grizzell
-<lb/><unclear>O. M:</unclear> Harper
+<lb/><unclear>O.</unclear> M: Harper
 <lb/>James. W. Scott.
 <lb/>James M<hi rend="sup">c</hi>Glone</p>
   </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1550"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,10 +66,10 @@
    <p>Spring. Hill Woodford
 <lb/><date when="1861-11-01">Nov the 1<hi rend="sup">rst</hi> 1861</date>
 <lb/>His Excellency</p>
-<p>Governor, I never asked for the release of any convict, but I have been much struck with the manly bearing &amp; the conduct of Elam Milly and also with the conidence the Keepers of the Prison have placed in him He was convicted for a short term and for a small offence; he has faithfully served the Commonwealth not only without a guard but at large as the Agent of the Prison. Six weeks are only remaining of his time, give him that Restore him to liberty &amp; his rights as a citizen, he is a stout firm looking fellow in the rigour of manhood, his county is in trouble and needs his services, give him a chance</p>
-<p>Truly Yours.
+<p>Governor I never asked for the release of any convict, but I have been much struck with the manly bearing &amp; the conduct of Elam Milly and also with the confidence the Keepers of the Prison have placed in him He was convicted for a short term and for a small offence; he has faithfully served the Commonwealth not only without a guard but at large as the Agent of the Prison. Six weeks are only remaining of his time, give him that Restore him to liberty &amp; his rights as a citizen, he is a stout firm looking fellow in the vigour of manhood, his county is in trouble and needs his services, give him a chance</p>
+<p>Truly Yours
 <lb/>W T. Hart<pb/></p>
-<p>Green Cir. Ct
+<p>Green cir. ct
 <lb/>Elam Milby
 <lb/>18 Mo
 <lb/>Penty. Larceny

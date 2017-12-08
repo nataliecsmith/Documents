@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1533"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Lewis Young et al. to Beriah Magoffin</title>
+    <title level="a" type="main">Jef. Searcy et al. to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG11001</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Anderson County, Kentucky</placeName>
     <date when="1861-11-04">4 November 1861</date>
    </creation>
    <textClass>
@@ -61,35 +63,35 @@
  <text>
   <body>
    <p>To his excelency the governor of of Ky B Magoffin</p>
-<p>Your petitioner Lewis Young says at the last term of the Anderson Circuit court Judgement was rendered against him upon a forfeited reconizance in which the said Louis Young was Surity for A D, Young in the sum of one hundred and fifty dollars to keep the peace. It was forfeited by said A D, Young by his geting into a spree and commiting a breach of the peace which amount<hi rend="str">ing</hi>ed to a <hi rend="str">breach of the</hi> forfeiture of the bond,</p>
-<p>Your petitioner is the father of A D, Young and A D Young is an inoffensive man when sober, and this petitioner is a kind and affectionate father and led by parental feelings was induced to enter upon the bond of his son.</p>
-<p>He therefore prays, together with the undersigned citizens of Anderson County, that said forfeiture be remited.
-<lb/><date when="1861-11-04">Nov 4th 1861.</date></p>
+<p>Your petitioner Lewis Young says at the last term of the Anderson Circuit court Judgement was rendered against him upon a forfeited reconizence in which the said Louis Young was surity for A D, Young in the sum of one hundred and fifty dollars to keep the peace. It was forfeitd by said A D, Young by his geting into a spree and commiting a breach of the peace which amount<hi rend="str">ing</hi>ed to a <hi rend="str">breach of the</hi> forfeiture of the bond,</p>
+<p>Your petitioner is the father of A D, Young and A D Young is an inoffensive man when sober, and this petitioner is a Kind and affectionate father and led by parental feelings was induced to enter upon the bond of his son.</p>
+<p>He therefore prays, together with the undersigned citizens of Anderson county, that said forfeiture be remited.
+<lb/><date when="1861-11-04">Nov 4th 1861,</date></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Jef Searcy
 <lb/>J. A. Walker
 <lb/><hi rend="underline">John Droffen</hi>
-<lb/><cb n="2"/>James M. Posey,
+<lb/><cb n="2"/>James M. Posey.
 <lb/>J S Littlepage Jr
-<lb/>C C Egbut
-<lb/>W. M. Bowen
+<lb/>C C Egbert
+<lb/>Wm M Bowen
 <lb/>J. B. Parker
 <lb/>G. W. Mathews
-<lb/>Ben S. Myers<milestone unit="column" n="1"/><pb/>
+<lb/>Ben. S. Myers<milestone unit="column" n="1"/><pb/>
 <lb/>Names
 <lb/>Jno H. M. Brayer
-<lb/>W. H. Witherspoon
+<lb/><hi rend="underline">W. H.</hi> Witherspoon
 <lb/>Jas. R. Chambers
-<lb/>J. A. Witherspoon
+<lb/>J, A. Witherspoon
 <lb/>J. M. Hanks
 <lb/>R W Fenwick<pb/></p>
 <p>Petition to the Governor
 <lb/>Commonwealth 
 <lb/>vs
-<lb/>A D &amp; L Young
-<lb/>Anderson Cir. Ct</p>
+<lb/>A D &amp; L Young</p>
+<p>Anderson Cir. Ct</p>
 <p>Remitted
 <lb/>B. M.</p>
-<p>$150 } Recog
+<p>&#36;150 &#125; Recog
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-11-11">Nov 11. 1861</date></p>
   </body>
  </text>

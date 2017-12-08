@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0113"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">John M. Johnson to Beriah Magoffin</title>
+    <title level="a" type="main">Jonothan M. Johnson to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG1419</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,9 +64,10 @@
  <text>
   <body>
    <p>Paducah Gov. Magoffin Frankfort Ky</p>
-<p>at Cairo yesterday. Col Oglesby the Commander had released our Citizens before my arrival says he did not intend to violate Kentucky Neutrality &amp; will not without orders some times send squad of men over to Kentucky shore to reconnoitre for his own protection. Will not release Steamer Ferry says she is ^a^ lawful prize she is owned in Kentucky &amp; Mississippi was a trader from paducah up Tennessee river into the Confedarte states Col oglesby &amp; other officers treated me very courteously</p>
+<p>at Cario yesterday. Col Oglesby the Commander had released our Citizens before my arrival says he did not intend to violate Kentucky Neutrality &amp; will not without orders some times send squad of men over to Kentucky shore to reconnoitre for his own protection. Will not release Steamer Terry says she is ^a^ lawful prize she is owned in Kentucky &amp; Mississippi was a trader from paducah up Tennessee river into the confedarte states Col oglesby &amp; other officers treated me very courteously</p>
 <p>Jono. M. Johnson</p>
-<p>81F 243 + <hi rend="underline">577 C</hi>ol
+<p>243
+<lb/>81F 243 + <hi rend="underline">577 C</hi>ol
 <lb/>8.20<pb/></p>
 <p>26</p>
   </body>

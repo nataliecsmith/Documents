@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1361"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">John M. Long, Affidavit</title>
+    <title level="a" type="main">John N. Long, Affidavit</title>
     <title level="a" type="parallel">CWG5998</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,12 +65,12 @@
   <body>
    <p>Provost Marshalls Office
 <lb/>Scott County Kentucky</p>
-<p>The undersigned Provost Marshal of Scott County Ky states that some time in <date when="1864-03">March last,</date> one W. H. Cohorn was under arrest, by the Civil authorities of Scott County -- He had a preliminary examination before the Presiding Judge of Said County, &amp; admitted to Bail in the sum of three hundred Dollars, with G. W Corham &amp; John M<hi rend="sup">c</hi>Lin as sureties on his Bond -- After his release from Jail I arrested him immediately as a deserter from the 18th R<hi rend="str">g</hi>eg Ky Vol Infantry &amp; delivered him to Capt Thos. H. Moore Pro M 7<hi rend="underline"><hi rend="sup">th</hi></hi> Ky District at Lexington Ky -- by whose orders he was sent to his Regiment -- which was then stationed (I think) on the Nashville Rail Road</p>
+<p>The undersigned Provost Marshal of Scott County Ky states that some time in <date when="1864-03">March last,</date> one W. H. Coham was under arrest, by the Civil authorities of Scott County-- He had a preliminary examination before the Presiding Judge of Said County, &amp; admitted to Bail in the sum of three hundred Dollars, with G. W Corham &amp; John M<hi rend="sup">c</hi>Lin as sureties on his Bond-- After his release from Jail I arrested him immediately as a deserter from the 18<hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="str">Ky</hi>Reg Ky Vol. Infantry &amp; delivered him to Capt Thos. H. Moore Pro M 7<hi rend="underline"><hi rend="sup">th</hi></hi> Ky District at Lexington Ky -- by whose orders he was sent to his Regiment -- which was then stationed (I think) on the Nashville Rail Road</p>
 <p>Jno, N, Long
 <lb/>Pro Mar Scott Co Ky</p>
 <p>Sworn to before me by Jno N. Long this <date when="1864-12-21">21 Dec 1864</date></p>
 <p>Sam. W. Long
-<lb/>P. J. Geotown<pb/></p>
+<lb/>P. J. Geo town<pb/></p>
 <p>Exhibit for Petition of John Macklin &amp; Geo W Cohorn</p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0108"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,18 +63,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Head quarters 71<hi rend="sup">st</hi> Ky. E. M.
-<lb/>Greenville Ky. <date when="1864-06-18">June the 18' 1864</date>
-<lb/>Thos.E. Bramlett } 10 Ky
+   <p>Head quarters 71<hi rend="underline"><hi rend="sup">st</hi></hi> Ky, E, M,
+<lb/>Greenville Ky, <date when="1864-06-18">June the 18' 1864</date>
+<lb/>Thos. E. Bramlett &#125; <unclear/> Ky
 <lb/>Gov. of the commonwealth</p>
-<p>Sir I have the pleasure of droping a note to you this morning I have just Reach.d. Greenville with a detachment of 150, of the 35 Regt, Ky. Mt,d. Inf. the green River country Is full of guirillars. We Start Incidialy after them I will Report to you and Gen. Lindsey. Soon &amp; <unclear/>= </p>
+<p>Sir I have the pleasure of droping a note to you this Morning I have just Reach,d, Greenville with a detachment of 150, of the 35, Regt, Ky, Mt,d, Inf, The green River country Is full of guirillars. We Starte Imidialy after them I wil<hi rend="str">l</hi> Report to you and ,Gen, Lindsey, Soon &amp; <unclear/></p>
 <p>Govornor Believe me to yours
-<lb/>Very rispectfuly
-<lb/>Sebastian. C. Vick
-<lb/>Col comd.g. 71<hi rend="sup">st</hi> E. M.<pb/></p>
+<lb/>Very respectfuly
+<lb/>Sebastian C. Vick
+<lb/>Col comd,g, 71<hi rend="underline"><hi rend="sup">st</hi></hi> E, m,<pb/></p>
 <p>71<hi rend="sup">st</hi> regt E. M. Muhlenburg Co
 <lb/>Greenville <date when="1864-06-18">June 18, 1864</date><figure type="hr"/></p>
-<p>Vick. S. C. Col Comdg 71<hi rend="sup">st</hi> regt E M has the pleasure of dropping a line to the Govr. Has just reached Greenville with 150 of 35<hi rend="sup">th</hi> Ky Mtd Infty The Green River Country is full of guerillas &amp; they start after them immediately, will report soon to Govr &amp; Genl Lindsey. His Exclncy referd this to I. G. O.<figure type="hr"/></p>
+<p>Vick. S, C. Col Comdg 71<hi rend="sup">st</hi> regt E M has the pleasure of dropping a line to the Govr. Has just reached Greenville with 150 of 35<hi rend="sup">th</hi> Ky Mtd Infty The Green River Country is full of guerillas &amp; they start after them immediately, will report soon to Govr &amp; Genl Lindsey, His Exclncy referd this to I. G. O.<figure type="hr"/></p>
 <p>Recd I. G. O. <date when="1864-06-23">June 23<hi rend="sup">rd</hi> 1864</date></p>
   </body>
  </text>

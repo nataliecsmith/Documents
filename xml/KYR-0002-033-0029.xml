@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0029"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">F. W. Asbury et al. to James F. Robinson</title>
+    <title level="a" type="main">F. W. Asbury, Peter Mann, and Alexander Curtis to James F. Robinson</title>
     <title level="a" type="parallel">CWG11580</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Danville, Boyle County, Kentucky</placeName>
+    <placeName>Boyle County, Kentucky</placeName>
     <date when="1862-12-19">19 December 1862</date>
    </creation>
    <textClass>
@@ -60,30 +63,30 @@
  </teiHeader>
  <text>
   <body>
-   <p>Camp Fry near Danville Ky.
-<lb/><date when="1862-12-19">De<hi rend="underline"><hi rend="sup">c</hi></hi> 19<hi rend="sup">th</hi> 1862</date>
+   <p>Camp Fry near Danville Ky
+<lb/><date when="1862-12-19">De<hi rend="underline">c</hi> 19<hi rend="sup">th</hi> 1862</date>
 <lb/>His Excellency
-<lb/>Go<hi rend="underline"><hi rend="sup">v</hi></hi>. J. F. Robinson
+<lb/>Go<hi rend="underline">v</hi>. J. F. Robinson
 <lb/>Sir</p>
-<p>Your petitioners the undersigned members of Co. B. 1<hi rend="sup">st</hi> Batt Ky Cavalry. are desirous of being transfered to the 10<hi rend="underline"><hi rend="sup">th</hi></hi> Red<hi rend="underline"><hi rend="sup">g</hi></hi> Ky. Ca<hi rend="underline"><hi rend="sup">v</hi></hi>. as we have many friends and Relations in S<hi rend="underline"><hi rend="sup">d</hi></hi> Redg we therefore Respectfully Solicit your Excellence to grant us Such transfer We haveing the consent of Our Respective Commanders there to you will lay us under many Obligations by an answer at your Earliest convenience</p>
+<p>Your petitioners the undersigned members of Co. B, 1<hi rend="sup">st</hi> Batt Ky Cavalry. are desirous of being transferd to the 10<hi rend="underline"><hi rend="sup">th</hi></hi> Redg: -- Ky. Ca<hi rend="underline">v</hi>. as we have many friends and Relatives in S<hi rend="underline"><hi rend="sup">d</hi></hi> Redg we therefore Respectfully Solicit your Excellence to grant us Such transfer We haveing the consent of Our Respective Commanders there to you will lay us under many Obligations by an answer at your Earliest convenience</p>
 <p>Vary Respectfully yours
-<lb/>Obt Serv<hi rend="underline"><hi rend="sup">ts</hi></hi>
+<lb/>Ob<hi rend="sup">t</hi> Serv<hi rend="underline"><hi rend="sup">ts</hi></hi>
 <lb/>F. W. Asbury, Sergt
 <lb/>Peter, Mann, private
 <lb/>Alexander, Curtis, pr<pb/></p>
 <p>I give my full and free Consent to their Transfer</p>
 <p>Capt J H Coffman
-<lb/>J B Buchanan Capt of compy D.</p>
-<p>your Exellency will see that we have the Consent of our Cap<hi rend="underline"><hi rend="sup">t</hi></hi> J H Coffman and J. B. Buchanan Commanding Ba<hi rend="underline"><hi rend="sup">tt</hi></hi>,<pb/></p>
+<lb/>J B Buchanan Capt of compy D,</p>
+<p>your Exellency will see that We have the Consent of our Cap<hi rend="underline"><hi rend="sup">t</hi></hi> J, H, Coffman and J. B. Buchanan Commanding Ba<hi rend="underline">tt</hi>,<pb/></p>
 <p>J. H Coffman
 <lb/>Danville Ky
-<lb/><date when="1862-12-19">Dec 19/62</date><figure type="hr"/>
+<lb/><date when="1862-12-19">Dec 19/62</date>.<figure type="hr"/>
 <lb/>Coffman J. H.
 <lb/>Capt Cav.<figure type="hr"/></p>
-<p>consents for several of his men to be transfered to 10.<hi rend="sup">th</hi> Ky Cav<figure type="hr"/></p>
+<p>consents for several of his men to be transfered to 10.<hi rend="sup">t</hi> Ky Cav<figure type="hr"/></p>
 <p>Military
 <lb/>F. W. Asbury &amp;c
-<lb/>Pettn to be <unclear>changed</unclear></p>
+<lb/>Pettn to be changed</p>
   </body>
  </text>
 </TEI>

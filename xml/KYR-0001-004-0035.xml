@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0035"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,20 +64,20 @@
  <text>
   <body>
    <p>Maysville Ky
-<lb/><date when="1863-09-29">Sept 29<hi rend="sup">th</hi> 1863</date>
+<lb/><date when="1863-09-29">Sept 29<hi rend="sup">th</hi> 1863</date>.
 <lb/>Govr Bramlette
 <lb/>Frankfort Ky
-<lb/>Dr. Sir.</p>
-<p>Enclosed I send you a copy of an Indictment in the Mason Circuit Court Ky against W<hi rend="sup">m</hi>. M. Bartley for grand larceny, also the verdict of the Jury in said case, <hi rend="underline">which recommended your Excellency to pardon him</hi>; all duly certified by the Clerk. I also send to you the <hi rend="underline">Petition of his wife</hi> to the same effect -- and <hi rend="underline">of a large number of the best citizens of Ripley Ohio</hi>, whom I know by reputation to be such and some of them I know personally. I send also two letters from his wife to me on the same subject.</p>
-<p>I will say in addition to what is presented in the enclosed documents, that the health of his wife is quite delicate -- that her father is a very poor man and lost one of his hands in a saw mill and is unable to support her -- and that the prisoner's father is also a poor man, hard-working, industrious &amp; respectable; but unable to support her and the children. She is in a very helpless and forlorn condition without her husband. I think the ends of justice have<pb/></p>
-<p>been subserved by his conviction and incarceration in the Penitentiary up to the present time</p>
+<lb/>Dr, Sir.</p>
+<p>Enclosed I send you a copy of an Indictment in the Mason Circuit Court Ky against W<hi rend="sup">m.</hi> M. Bartley for grand larceny, also the verdict of the Jury in said case, <hi rend="underline">which recommended your Excellency to pardon him</hi>; all duly certified by the Clerk. I also send to you the <hi rend="underline">Petition of his wife</hi> to the same effect- and <hi rend="underline">of a large number of the best citizens of Ripley Ohio</hi>, whom I know by reputation to be such and some of them I know personally. I send also two letters from his wife to me on the same subject.</p>
+<p>I will say in addition to what is presented in the enclosed documents, that the health of his wife is quite delicate- that her father is a very poor man and lost one of his hands in a saw mill and is unable to support her- and that the prisoner's father is also a poor man, hard-working, industrious &amp; respectable; but unable to support her and the children. She is in a very helpless and forlorn condition without her husband. I think the ends of justice have<pb/>
+<lb/>been subserved by his conviction and incarceration in the Penitentiary up to the present time</p>
 <p>The trial and verdict and recommendation of the Jury were in <date when="1863-08">August 1863</date>, before the close of Gov. Robinson's term. But knowing that he would have an accumulation of more important duties at the close of his term, and that the same would be the case with yourself in the beginning of your term; I have not troubled you with this application until the present, when I supposed you would have time to attend to it.</p>
 <p>I recommend it to your favorable consideration</p>
 <p>Respectfully Yours
 <lb/>E. C. Phister.</p>
-<p>P.S. The prisoner is in the Penitentiary -- and if you should conclude to pardon him, please have the Pardon delivered to him.<pb/></p>
-<p><date when="1863-11-05">Nov 5th 1863</date></p>
-<p>The Jury having recommended a Pardon in their verdict, and the reasons otherwise presented make a case for Executive clemency A pardon is ordered,</p>
+<p>P.S. The prisoner is in the Penitentiary- and if you should conclude to pardon him, please have the Pardon delivered to him.<pb/></p>
+<p><date when="1863-11-05">Nov 5<hi rend="sup">th</hi> 1863</date></p>
+<p>The Jury having recommended a Pardon in their verdict, and the reasons otherwise presented make a case for Executive clemency A pardon is ordered</p>
 <p>Tho E Bramlette
 <lb/>Gov<hi rend="sup">r</hi> of Ky</p>
 <p>Mason Cir. Ct

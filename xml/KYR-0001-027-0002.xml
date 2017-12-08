@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0002"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,7 +65,7 @@
   <body>
    <p>TO BRITISH SUBJECTS IN THE STATE OF KENTUCKY.</p>
 <p>In consequence of numerous applications having been received at the British Legation at Washington from British subjects resident in the State of Kentucky, requesting information as to the steps which should be taken by them to establish the fact of their nationality in case of a draft for military purposes being resorted to in the State, or of their being called upon to incur obligations inconsistent with their allegiance to Her Majesty the Queen, I have been instructed by Her Majesty's Charge' d'Affaires at Washington to proceed hither with the view of giving such advice as should appear best suited to meet the exigencies of the case.</p>
-<p>I have therefore to suggest to all <hi rend="italic">bona fide</hi> British subjects who have never in any way forefeited their allegiance to Her Majesty, nor violated Her proclamation of neutrality by enlisting in the military or naval service of the United States during the present war, that they should appear without delay before the County Court, or any Court of Record, give proof of their nationality and obtain certificates of their having done so. I would also suggest that every British subject should, in addition to such certificates, provide himself, wherever possible, with certificates as to his character and position from persons of respectability and standing resident in the State.</p>
+<p>I have therefore to suggest to all <hi rend="italic">bona fide</hi> British subjects who have never in any way forefeited their allegiance to Her Majesty, nor violated Her proclamation of neutrality by enlisting in the military or naval service of the United States during the present war, that they should appear without delay before the County Court, or any Court of Record <unclear>,</unclear> give proof of their nationality and obtain certificates of their having done so. I would also suggest that every British subject should, in addition to such certificates, provide himself, wherever possible, with certificates as to his character and position from persons of respectability and standing resident in the State.</p>
 <p>There is no reason to doubt that such papers, if produced before the officer appointed to consider claims of exemption from liability to military service, would, if found satisfactory, be held to exempt the claimant from all such liability. It would also be advisable that they should be produced by British subjects requiring permits to enable them to pass beyond the limits of the State; and they would doubtless be sufficient at all times to secure British subjects from being called upon to take any oath or obligation inconsistent with their duty and allegiance to Her Majesty.</p>
 <p>In conclusion I have to point out that British subjects who have declared their intention to become citizens of the United States, but have not completed the act of naturalization, are <hi rend="str">thus</hi> ^still^ entitled to the rights and immunities of British subjects, unless they have forfeited their claim to Her Majesty's protection by improperly voting at elections, or in any other way unduly exercising the exclusive privileges of citizens, in which case, having enjoyed the benefits of citizenship, they have rendered themselves liable to its obligations.</p>
 <p>H. PERCY ANDERSON.

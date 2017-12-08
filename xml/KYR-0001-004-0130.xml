@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0130"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">George W. Winston to Thomas E. Bramlette</title>
+    <title level="a" type="main">George W. Johnston to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG4249</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -68,13 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00000337">Louisville Ky </placeName><date when="1863-09-02">Sept. 2<hi rend="sup">d</hi>, 1863</date>.
+   <p>Louisville Ky <date when="1863-09-02">Septr 2<hi rend="underline"><hi rend="sup">d</hi></hi> 1863</date>.
 <lb/>His Excellency
-<lb/><persName ref="cwgk:N001000">T. E. Bramlett</persName><lb/>D<hi rend="sup">r</hi>. Sir.</p>
-<p>The negro woman <persName ref="cwgk:N002001">Caroline</persName> now under sentence for poisoning the <persName ref="cwgk:N002006">child </persName>of <persName ref="cwgk:N00000995">Mr Levy</persName>; was Examined in the city, ^court^ &amp; she was held over to answer, the Testimony showing probable cause to suspect her guilty. I was not present At the final Trial &amp; did not hear the Testimony given to the Jury. but from the Statement of the Rev. M<hi rend="sup">r</hi>. M<hi rend="sup">c</hi>Kee, of the <persName ref="cwgk:N00000994">Jailor</persName> &amp; Several others who heard the Trial &amp; have had an opportunity to convene with <persName ref="cwgk:N002001">Caroline</persName> since she has been sentenced, I have become satisfied that there is to say the least great doubt of her Guilt; and that her case presents strong grounds for Executive Interference.</p>
-<p>I am D<hi rend="sup">r</hi>. Sir
+<lb/>T. E. Bramlett
+<lb/>D<hi rend="sup">r</hi>. Sir.</p>
+<p>The negro woman Caroline now under sentence for poisoning the child of Mr Levy; was Examined in the city ^court^ &amp; she was held over to answer, the Testimony showing probable cause to suspect her guilty- I was not present at the final Trial &amp; did not hear the Testimony given to the Jury. but from the Statement of the Rev. M<hi rend="underline"><hi rend="sup">r</hi></hi> M<hi rend="underline"><hi rend="sup">c</hi></hi>Kee, of the Jailor &amp; Several others who heard the Trial &amp; have had an opportunity to converse with Caroline since she has been sentenced, I have become satisfied that there is to say the least great doubt of her Guilt; and that her case presents strong grounds for Executive Interference.</p>
+<p>I. am D<hi rend="underline"><hi rend="sup">r</hi></hi> sir
 <lb/>Very respectfully
-<lb/><persName ref="cwgk:N00001155">Geo. W. Whaston.</persName></p>
+<lb/>Geo. W. Johnston.</p>
   </body>
  </text>
 </TEI>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0044"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">James L. Furman to James F. Robinson</title>
+    <title level="a" type="main">James L. Turman to James F. Robinson</title>
     <title level="a" type="parallel">CWG4163</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,33 +63,31 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his excellency James F Robinson Governor of the Commonwealth of Kentucky -- your peitioner states that at the last Term of the ^Boyd^ Circuit Court <date when="1863-04">(April 1863)</date> he was fined fifty dollars ($50) for selling Liqour to an infant ^to wit^ Sobble Burgess. he says that Burges was a candidate for the office of Major was as he learned ^since^ under 21 years of age barely had been doing business for some time for himself your petitioner being a Lisensed Tavern Keeper in Boyd County did let said Burgess have some Liquor to treat his friends as he said. that he did not know that he was violating the Law. said Burgess was an inteligent sober man and not doubting his being of age. he prays your exceleny to remit the fine yours &amp; c</p>
+   <p>To his excellency James <hi rend="str"><unclear/></hi>F Robinson Governor of the Commonwealth of Kentucky -- your petetioner states that at the last Term of the ^Boyd^ Circuit Court <date when="1863-04">(April 1863)</date> he was fined fifty dollars (&#36;50) for selling Liqour to an infant -- ^towit^ Gobble Burgess -- he says that Burges was a candidate for the office of Mayor was as he learned ^since^ under 21 years of age barely had been doing business for some time for himself your petitioner being a Lisensed Tavern Keeper in Boyd County -- did let said Burgess have some Liquor to treat his friends as he said -- that he did not know that he was violating the Law -- said Burgess was an inteligent sober man and not doubting his being of age -- he prays your excellency to remit the fine yours &amp; c</p>
 <p>James L Turman</p>
-<p>I George Burgess of Boyd County states that Soble Burgess is his son that he was well grown &amp; had been doing business for himself that Turman is his neighbour that he had permitted said Son of his to trade with Turman he was candidate as represented by Turman. He states his son is sober ^&amp; was going on 21 years old out of his 20th I think^ He asks that the fine may be remitted against Turman believing in this instance and satisfied that Turman would do his son no injury &amp; violated the Law unintentionally this <date when="1863-05-04">4th day of may 1863</date></p>
-<p>G. R. Burgess</p>
-<p>we the undersign recommend the case of James L Turman as stated in his petition to be such that the executive should interfere and remit<pb/>
+<p>I George Burgess of Boyd county -- states that Goble Burgess is his son -- that he was well grown &amp; had been doing business for himself that Turman is his neighbour that he had permitted said son of his to trade with Turman -- he was candidate as represented by Turman -- He states his son is sober -- ^&amp; was going on 21 years old out of his 20<hi rend="underline"><hi rend="sup">th</hi></hi> I think -- ^ He asks that the fine may be remitted against Turman believing in this instance and satisfied that Turman would do his son no injury -- &amp; <hi rend="str">was</hi>violated the Law unintentionally this <date when="1863-05-04">4<hi rend="sup">th</hi> day of may 1863.</date></p>
+<p>G, R, Burgess</p>
+<p>we the undersign recommend the case of James L Turman as stated in <hi rend="str">the</hi>his petition<hi rend="str">r</hi> to be such that the executive should interfere and remit<pb/>
 <lb/>the fine assessed</p>
 <p>J. H. Eastham
-<lb/>James Lampton
+<lb/><hi rend="underline">James Lampton</hi>
 <lb/>George N Brown
 <lb/>Frank Fairbaim
 <lb/>J W Riely</p>
 <p>His Excellency the Governor of Kentucky </p>
-<p>I was acting Judge of the Boyd Circuit Court, at the time of the rendition of the Judgement against The petitioner Turman and heard the evidence I am satisfied that Turman did not Knowingly violate the Law, he supposed Gobel Burgess was in his majority.</p>
+<p>I was acting judge of the Boyd Circuit Court, at the time of the rendition of the judgment against The petitioner Turman and heard the evidence I am satisfied that Turman did not knowingly violate the Law, he supposed Sobel Burgess was in his majority.</p>
 <p>Laban T Moore</p>
 <p>Jas L. Turman
 <lb/>Catlettsburg
 <lb/>Boyd County
 <lb/>Kentucky -- <pb/></p>
 <p>James L Turman
-<lb/>to
-<lb/>Gov of Kentucky</p>
-<p>Petitioner for Release fine
-<lb/>Boyd Cir Ct
-<lb/>$50 -- 
+<lb/>to &#125; Petition for Release fine
+<lb/>Gov,, of Kentucky<figure type="hr"/></p>
+<p>Boyd Cir Ct
+<lb/>&#36;50 -- 
 <lb/>Jas L Turman
-<lb/>Remitted
-<lb/><date when="1863-09-04">4<hi rend="sup">th</hi> Sept 1863</date></p>
+<lb/>Remitted <date when="1863-09-04">4<hi rend="sup">th</hi> Sept 1863</date></p>
   </body>
  </text>
 </TEI>

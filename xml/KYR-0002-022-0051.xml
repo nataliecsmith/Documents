@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0051"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,39 +65,39 @@
   <body>
    <p>Eminence <date when="1863-06-01">June 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1863</date>
 <lb/>Gov'r J. F. Robinson
-<lb/>Adjutant J. W. Finnell
-<lb/>Dear Sir</p>
-<p>Seeing a notice in the papers that you had, in the distribution of the State, located a camp of instruction at Eminence. We the undersigned loyal citizens and true Union men deem it expedient to call your attention to the following considerations by way of influencing you in the selection of a location better suited for the purposes of a recruiting station and not so detrimental to the Educational interests of our portion of the State.</p>
-<p>There is an inadequate supply of water. which has always <hi rend="underline">given out</hi> during the Fair, It failed while Col Whitaker was recruiting his regiment And Col Jacob's regiment not only exhausted all the water at the Fair Grounds but all the wells and springs convenient to the camp. In addition to this Eminence College is located adjoining the Fair Grounds and it<pb/>
-<lb/>is the only Institution in our part of the state that has survived the shock of war desolating our land where we can educate our <hi rend="underline">daughters</hi> and sons.</p>
-<p>This Institution is now very flourishing and if a camp is opened near it such is the apprehension in the minds of parents of <hi rend="underline">undisciplined soldiers</hi>, that all or the great majority of the young ladies now attending this school would be withdrawn and its halls deserted. We trust you will give due consideration to these facts and if not prejudicial to the Union cause hope you will select some other locality.</p>
-<p>Yours. &amp;c
+<lb/>Adjutant J, W. Finnell
+<lb/>Dear Sir's.</p>
+<p>Seeing a notice in the papers that you had, in the distribution of the State, located a camp of instruction at Eminence, We the undersigned loyal citizens and true Union men deem it expedient to call your attention to the following considerations by way of influencing you in the selection of a location better suited for the purposes of a recruiting station and not so detrimental to the Educational interests of our portion of the State.</p>
+<p>There is an inadequate supply of water. which has always <hi rend="underline">given</hi> <hi rend="underline">out</hi> during the Fair, It failed while Col Whitaker was recruiting his regiment And Col Jacob's regiment not only exhausted all the water at the Fair Grounds but all the wells and springs convenient to the camp. In addition to this Eminence College is located adjoining the Fair Grounds and it<pb/>
+<lb/>is the only Institution in our part of the state that has survived the shock of war desolating our land where we can educate our <hi rend="underline">daughters</hi> and sons,</p>
+<p>This Institution is now very flourishing and if a camp is opened near it such is the apprehension in the minds of parents of <hi rend="underline">undisciplined</hi> <hi rend="underline">soldiers</hi>, that all or the great majority of the young ladies now attending this school would be withdrawn and its halls deserted, We trust you will give due consideration to these facts and if not prejudicial to the Union Cause hope you will select some other locality.</p>
+<p>Yours, &amp;c
 <lb/><milestone unit="column" n="2"/><cb n="1"/>Robt B Gray
-<lb/>Geo Smith eqr
-<lb/>Geo. C. Castleman
+<lb/><unclear>Wm</unclear> Smith eqr
+<lb/>Geo, C. Castleman
 <lb/>Zach Herndon
 <lb/>R L Tinsley
-<lb/>J. W. Hornsby
+<lb/>J. W, Hornsby
 <lb/>H. C. Ellis
 <lb/>H. C. Giltner
-<lb/><cb n="2"/>R. T. Herndon
+<lb/><cb n="2"/>R, T, Herndon
 <lb/>W. S. Giltner
 <lb/>A Dupuy
 <lb/>J R Berryman
 <lb/>T Rodman
 <lb/>Preston Thomas
 <lb/>B. F. Booker<milestone unit="column" n="1"/><pb/></p>
-<p>I hope Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Finnell will give serious consideration to the statement of the friends of Eminence College, and if consistent with the public interests grant their request.</p>
-<p>I know that a camp so near as Eminence Fair grounds would be very prejudicial to the interests of College</p>
+<p>I hope Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Finnell will give serious consideration to the statement of the friends of Eminence College, and if consistent with the public interests grant their request-</p>
+<p>I know that a camp so near as Eminence Fair grounds would be <hi rend="underline">very</hi> prejudicial to the interests of college</p>
 <p>Respectfully
 <lb/>your friend
 <lb/>R Mallory<pb/></p>
 <p>Henry Co.
-<lb/>Eminence <date when="1863-06-01">June 1<hi rend="sup">st</hi> 1863</date><figure type="hr"/>
+<lb/>Eminence <date when="1863-06-01">June 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1863</date>.<figure type="hr"/>
 <lb/>Mallory Robt<figure type="hr"/>
-<lb/>Endorses remonstrance of Citizens of Emincence against a Camp being placed there<figure type="hr"/>
-<lb/>Military</p>
-<p>Remonstrance of Citizens of Eminence against Camp of Recruiting being placed there</p>
+<lb/>Endorses remonstrance of citizens of Emincence against a Camp being placed there.<figure type="hr"/></p>
+<p>Military
+<lb/>Remonstrance of Citizens of Eminence against Camp of Recruiting being placed there</p>
 <p>Robt Mallory</p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0098"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,32 +63,29 @@
  <text>
   <body>
    <p>To his Excellency the Governor of Kentucky</p>
-<p>Your petitioner A. I. Burton will state that in the year of <date when="1861">1861</date> he being a Tavern keeper in the town of Clinton Ky &amp; desirous to renew his License and also to remove his bar room to a house on the oposite side of the street from his tavern &amp; being informed by same legal counsel that by obtaing from the county court a License embracing the building on the oposite side of the Street, that it would be legal to keep his bar at that place, &amp; such was who the opinion of the county prays, growing out of the part that the Circuit judge also was of the same opinion, consequently he did obtain a License, but on the day of court the clerk being so busy he had not time to look in the office for the number of said lot, &amp; the blank in the order was left to be filled in by him, which he neglected to do, &amp; since he has been indicted for keeping a Tipling house, &amp; at the present <date when="1863-08">August term of said court for 1863</date> fined the sum of sixty-dollars for tending liquors in said house.</p>
-<p>He states that he acted in good faith, believing at the time that he was violating no laws. And he therefore asks that said fine be remitted.</p>
+<p>Your petitioner A. I. Burton will state that in the year of <date when="1861">1861</date> he being a Tavern keeper in the town of Clinton Ky &amp; desirous to renew his License and also to remove his bar room to a house on the oposite side of the street from his tavern &amp; being informed by some legal counsel that by obtaing from the county court a Licence embracing the building on the oposite side of the Street, that it would be legal to keep his bar at that place, &amp; such was who the opinion of the county judge, growing out of the fact that the circuit judge also was of the same opinion, consequently he did obtain a License, but on the day of court the clerk being so busy he had not time to look in the office for the number of said lot, &amp; the blank in the order was left to be filled in by him, which he neglected to do, &amp; since he has been indicted for keeping a Tipling house, &amp; at the present <date when="1863-08">August term of said court for 1863</date> fined the sum of sixty-dollars for vending liquors in said house,</p>
+<p>He states that he acted in good faith, believing at the time that he was violating no law. And he therefore asks that said fine be remitted -- </p>
 <p>A. I. Burton<pb/></p>
-<p>On motion for a new trial, in the case of the Com<hi rend="sup">th</hi>. vs A. I. Burton, it appeared by the affidavit of W. F. Boon late Judge of Hickman county, that deft. Burton applied to the Hickman County Court for license to Keep tavern on two distinct lots &amp; houses in Clinton one of which was the house in which the bar was kept for which he was fined. That the County Court granted the license as asked for but owing to the N<hi rend="sup">os</hi> of the lots not at the time being known the description of the lots was left blank to be filled up afterward which was not done. It appears that lawyers and the county Judge were of opinion that the county court could grant license in such a manner that the tavern could be kept in one house and the bar kept at a different place. I believe M<hi rend="sup">r</hi> Burton thought he had such license and that he was violating no law by keeping his bar room and selling spirits when he did.</p>
-<p>C. S. Marshall Judge Hickman 
-<lb/>Circuit Court
+<p>On motion for a new trial, in the case of the Com<hi rend="sup">th</hi>- vs A. I. Burton, it appeared by the affidavit of W. F. Boon late Judge of Hickman county, that deft. Burton applied to the Hickman County Court for license to Keep tavern on two distinct lots &amp; houses in <hi rend="str"><unclear/></hi>Clinton one of which was the <hi rend="str"><unclear/></hi>house in which the bar was Kept for which he was fined -- That the county court granted the license as asked for but owing to the N<hi rend="sup">os</hi> of the lots not at the time being Known the description of the lots was left blank to be filled up afterward which was not done -- It appears that lawyers and the county Judge were of opinion that the county court could grant license in such a manner that the tavern could be kept in one house and the bar kept at a different place -- I believe M<hi rend="underline"><hi rend="sup">r</hi></hi> Burton thought he had such license and that he was violating no law by keeping his bar room and selling spirits when he did-</p>
+<p>C. S. Marshall Judge Hickman Circuit court
 <lb/>P D Yeiser
-<lb/>Coml atty<pb/></p>
-<p>We whose names are hereunto annexed respectfully ask your excellency to remit the fine referred to believing that M<hi rend="sup">r</hi> Burton acted in good faith.</p>
+<lb/>coml atty<pb/></p>
+<p>We whose names are hereunto annexed respectfully ask your excellency to remit the fine referred to believing that M<hi rend="underline"><hi rend="sup">r</hi></hi> Burton acted in good faith,</p>
 <p>E R Ray
-<lb/>Clerk Hickman</p>
+<lb/>Clerk Hickman County Court</p>
 <p>Attorney's practicing in the Hickman Circuit Court</p>
-<p>J M Bigger
+<p>J M. Bigger
 <lb/>A. R. Boon
-<lb/>Geo. T. Barrett
-<lb/>F. M. Ray
-<lb/>T G Poore
-<lb/>S. H Caldwell</p>
-<p><note place="right margin">Attorneys at Law</note><pb/></p>
+<lb/>Geo. T. Barret
+<lb/>F, M, Ray
+<lb/>T G Poore &#125; Attorneys at Law</p>
+<p>S. H Caldwell<pb/></p>
 <p>Hickman Co
 <lb/>Petition of A. I. Burton</p>
-<p>Remit all except costs and attys fees
-<lb/><date when="1863-09-14">Sept 14<hi rend="sup">th</hi> 1863</date>
-<lb/>Tho E Bramlette</p>
-<p>sent. <date when="1863-09-14">14<hi rend="sup">th</hi> Sept/ 63</date>
-<lb/>$60 -- </p>
+<p>Remit all except costs and atty's fees <date when="1863-09-14">Sept 14<hi rend="sup">th</hi> 1863</date></p>
+<p>Tho E Bramlette</p>
+<p>sent. <date when="1863-09-14">14<hi rend="sup">th</hi> Sept/63</date>
+<lb/>&#36;60 -- </p>
   </body>
  </text>
 </TEI>

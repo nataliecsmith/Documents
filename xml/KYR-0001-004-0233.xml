@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0233"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,15 +64,15 @@
  <text>
   <body>
    <p>Louisville Ky
-<lb/><date when="1863-11-13">Nov. 13<hi rend="sup">th</hi> 1863</date>.
+<lb/><date when="1863-11-13">Nov- 13<hi rend="sup">th</hi> 1863</date>.
 <lb/>To His Excellency.
 <lb/>Gov. Thos. E. Bramlette</p>
-<p>Dear Sir. I am not personally acquainted with the Petitioner Andrew Straus; but I learn from other reliable parties who know him, that he is an honest industrious mechanic, a Shoe-maker; a poor man, with a large family dependent upon him for a support.</p>
-<p>Some 8 or 9 years ago, one E Feherrenback Sold a house and lot in this city as the agent of Straus for $985. and received the money; and refused to pay it over to Straus, except $175. which he paid at the time he sold it. On the <date when="--06-01">first of June</date> ^last^ Straus Recovered Judgment against him for $810 with interest from the <date when="1855-03-03">3d March 1855</date>. Execution was issued on said Judgmt placed in my hands and I levied it upon his house &amp; lot and Sold it at the price of $1005; and this being more than two thirds of its value he could not redeem it.</p>
-<p>But from the beginning of the suit Fehrrenback treated the Process &amp; officers of the court with contempt. In the first place he failed to answer and Judgmt went against him by default. When I went with the "<hi rend="underline">Fifa</hi>" to him he Said he would pay it when the court<pb/>
-<lb/>ordered him to pay it" "I told him that I had the order of court and Showed him the Fi. Fa." "He said that his lawyer told him not to pay it' and he was not going to do it, and for me to make it if I could." I levied on his house and lot and Sold it; and then, when he Saw his house &amp; lot was gone from him he became greatly incensed; and, as I learn had his atty to go to Mr Dupuy the prosecuting atty and Sue out a "Sci Fa" on this old reconizance given 8 years ago. <hi rend="str">His lawyer said to me, that he would See that the Commonwealth made Straus pay the amount of the bail bond because he had had Fehrrenback's house Sold.</hi> From all I can learn of the case, I am Satisfied that the prosecution against Straus was Set on foot by, or at the instance of Fehrrenback, and to gratify his malice and revenge. And believing that no public good can <hi rend="str">come of the</hi> result from the recovery of this sum of $800 against Straus; and further that it would ruin him, and leave his wife and several children destitute of any means of support but his own labor. I would respectfully entrust your Excellency to interpose your remitting power, and remit the whole of it.</p>
+<p>Dear Sir. I am not personally acquainted with the Petitioner Andrew Straus; but I learn from other reliable parties who know him, that he is an honest industrious mechanic -- a Shoe-maker; a poor man, with a large family dependent upon him for a Support.</p>
+<p>Some 8 or 9 years ago, one E Feherrenback Sold a house and lot in this city as the agent of Straus for &#36;985- and received the money; and refused to pay it over to Straus, except &#36;175- which he paid at the time he sold it. On the <date when="1863-06-01">first of June</date> ^last^ Straus recovered Judgment against him for &#36;810 with interest from the <date when="1855-03-03">3<hi rend="sup">d</hi> March 1855</date>. Execution was issued on said Judgmt placed in my hands and I levied it upon his house &amp; lot and Sold it at the price of &#36;1005; and this being more than two thirds of its value he could not redeem it.</p>
+<p>But from the beginning of the suit Fehrrenback treated the Process, &amp; officers of the court with contempt. In the first place he failed to answer and Judgemt went against him by default. When I went with the "<hi rend="underline">Fifa</hi>" to him he said he would pay it when the court<pb/>
+<lb/>ordered him to pay it" "I told him that I had the order of court and Showed him the fi. fa." "He said that his lawyer told him not to pay it-' and he was not going to do it- and for me to make it if I could." I levied on his house and lot and sold it; and then, when he saw his house &amp; lot was gone from him he became greatly ince<hi rend="str">s</hi>nsed; and, as I learn had his atty to go to Mr Dupuy the prosecuting atty and Sue out a "Sci fa" on this old reconizance given 8 years ago. <hi rend="str">His lawyer Said to me, that he would See that the Commonwealth made Straus pay the amount of the bail bond because he had, had Fehrrenback's house Sold.</hi> From all I can learn of the case, I am Satisfied that the prosecution against Straus was Set on foot by, or at the instance of Fehrrenback, and to gratify his malice and revenge. And believing that no public good can <hi rend="str">come of the</hi> result from the recovery of this sum of &#36;800 against Straus; and further that it would ruin him- and leave his wife and several children destitute of any means of support but his own labor, I would respectfully entreat your Excellency to interpose your remitting power, and remit the whole of it.</p>
 <p>Respectfully
-<lb/>W. A. Ronald
+<lb/>W, A Ronald
 <lb/>Sheriff</p>
   </body>
  </text>

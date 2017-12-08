@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-060-0011"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,21 +63,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Owingsville
+   <p>OwingSville
 <lb/>Bath co Ky.
 <lb/><date when="1864-08-03">Aug 3<hi rend="sup">rd</hi> 64</date>
 <lb/>His. Excellency
 <lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlett.
-<lb/>Gov<hi rend="sup">r</hi> of Ky.</p>
-<p><hi rend="str"><unclear/></hi>Your petitioners would most Respectfully State that our county is infested with the most desperate men that i known in this war Union citizens are compell to Seek there corn fields of a night to save them <hi rend="str"><unclear/></hi> Selves from Brutal Murder. infact a great many are leaving there houses <hi rend="str"><unclear/></hi>and families at the mercy of such men -- but there frequent and Desperate murders cannot have failed to have met your notice<pb/></p>
-<p>the Government has So fer failed to give us protection although we have Sent many of our best men in the field. we can now only look to you for protection and we most Earnestly pray that you Send us a Suficient no of State troops --.we beleave with Capt. W. Werens Co -- our ^county^ could be kept perfactly quiet -- <figure type="hr"/></p>
+<lb/>Gov. of Ky.</p>
+<p><hi rend="str">Hon</hi>Your petitioners would most Respectfully state that our County is infested with the most desperate men that is known in this war Union Citizens are compell to seek there corn fields of a night to save there <hi rend="str">lifes</hi> Selves from Brutal Murder. infact a great many are leaving there homes <hi rend="str"><unclear/></hi>and families at the mercy of such men- but there frequent and Desperate murders cannot have failed to have met your notice<pb/></p>
+<p>the Government has so fer failed to give us protection although we have sent many of our best men in the field, we can now only look to you for protection and we most Earnestly pray that you send us a suficient no of state troops --.we beleave with Capt. W. Werens Co- <hi rend="str">us</hi>our ^county^ could be keept perfactly quiet -- <figure type="hr"/></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>W Taylor
-<lb/>John Mosler Jailor
+<lb/>John Miller Jailor
 <lb/>R. Coulthard C<hi rend="sup">lk</hi>, B, C,
-<lb/>Samuel M<hi rend="sup">c</hi>Quitley
+<lb/>Samuel M<hi rend="sup">c</hi>Quithy
 <lb/>George Spencer
-<lb/>George Coyler
-<lb/>Jas. L. Warren
+<lb/>George Coyle <unclear/>
+<lb/>Jas. L.. Warren
 <lb/>C W Honaker
 <lb/>R, L, Tifton
 <lb/>Daniel Harper S B C
@@ -102,14 +105,14 @@
 <lb/>Thos Pervis
 <lb/>Jos T Swetmane
 <lb/>S, D, Hodge
-<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> P. Daugherty
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi>, P. Daugherty
 <lb/>James Dawson<pb/></p>
 <p>Owingsville Bath Co. Ky.
-<lb/><date when="1864-08-03">&gt;August 3<hi rend="underline"><hi rend="sup">rd</hi></hi> 1864</date>.<figure type="hr"/>
-<lb/>Taylor. W. Miller Jno &amp; C.<figure type="hr"/></p>
-<p>Giving the reasons why troops should be stationed in their County. And requesting that Warren's Company be sent for their protection To the Gov. and by him referred with this endorsement. "We have no State troops to send. Capt Warren is of what command?"<figure type="hr"/></p>
-<p><date when="1864-08-17">&gt;Aug 17<hi rend="sup">th</hi> 1864</date> Answered on L. B. B. P. 37 -- <figure type="hr"/>
-<lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> I. G. O. <date when="1864-08-16">Aug 16 -- 1864</date>.</p>
+<lb/><date when="1864-08-03">>August 3<hi rend="underline"><hi rend="sup">rd</hi></hi> 1864</date>.<figure type="hr"/>
+<lb/>Taylor. W. Miller Jno &amp; c.<figure type="hr"/></p>
+<p>Giving the reasons why troops should be stationed in their County. And requesting that Warren.s Company be sent for their protection To the Gov. and by him referred with this endorsement. "We have no State troops to send. Capt Warren is of what command?"<figure type="hr"/></p>
+<p><date when="1864-08-17">>Aug 17<hi rend="sup">th</hi> 1864</date> Answered on L. B. B. P. 37 -- <figure type="hr"/></p>
+<p>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> I. G. O. <date when="1864-08-16">Aug 16- 1864</date>.</p>
   </body>
  </text>
 </TEI>

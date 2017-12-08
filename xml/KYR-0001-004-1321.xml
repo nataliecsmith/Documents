@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1321"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,10 +64,13 @@
  <text>
   <body>
    <p><hi rend="underline">Commonwealth of Kentucky</hi>
-<lb/><hi rend="underline">Kenton County</hi> } SS=</p>
-<p><stamp type="revenue"/><note place="stamp">R R <unclear/></note></p>
+<lb/><hi rend="underline">Kenton County</hi> &#125; SS=</p>
+<p><stamp type="revenue"/><note place="stamp">R R
+<lb/>N P
+<lb/><unclear/>
+<lb/>64</note></p>
 <p>Personally appeared before me a Notary public in and for the county aforesaid <hi rend="underline">Joshua Pack</hi> and made oath as follows=</p>
-<p>I formerly resided in Williamstown Grant Co. Ky., where I lived for many years. Have lived in Covington for <hi rend="str">nearly</hi> ^between 2 and^ 3 years past. I have known John Beasely, the main witness who testified in the cases for selling ale, ginger wine &amp;c. to minors, against <hi rend="underline">Mr. Henry Crout, </hi>and known him well, and known his general character, for about 7 years. When I first became acquainted with him he lived in Grant County, and was employed to drive a stage. When I came to Covington I found him here: often saw him about the tavern which I kept -- the "Henry Clay House" -- situate near the Rail Road depot. I can testify, and I think without any prejudice against Mr. Beasely, that he is an immoral, untruthful and dishonest man. His general character in Grant county where he lived; and here also, so far as I have known it, is that he would not be believed on oath -- Especially would he not be believed by those who are best acquainted with him.<pb/>
+<p>I formerly resided in Williamstown Grant Co. Ky., where I lived for many years. Have lived in Covington for <hi rend="str">nearly</hi> ^between 2 and^ 3 years past. I have known <hi rend="underline">John Beasely,</hi> the main witness who testified in the cases for selling ale, ginger wine &amp;c. to minors, against <hi rend="underline">Mr. Henry Crout</hi>, and known him well, and known his general character, for about 7 years. When I first became acquainted with him he lived in Grant County, and was employed to drive a stage. When I came to Covington I found him here: often saw him about the tavern which I kept -- the "Henry Clay House" -- situate near the Rail Road depot. I can testify, and I think without any prejudice against Mr. Beasely, that he is an immoral, untruthful and dishonest man. His general character in Grant county where he lived; and here also, so far as I have known it, is that he would not be believed on oath -- Especially would he not be believed by those who are best acquainted with him.<pb/>
 <lb/>He -- Beasely -- is a worthless man. I rarely ever knew him to <hi rend="underline">voluntarily</hi> pay an honest debt.</p>
 <p>I informed Mr. Crout of what I knew of the man, and what I could prove about him, after he had testified in the cases against him, and judgments had been rendered against him.</p>
 <p>Beasely deserted from the military service, in which he was employed, a short time since, and ran away; but he was arrested as a deserter; and, I have heard, sent away somewhere=</p>
@@ -73,49 +79,49 @@
 <p>Subscribed and sworn to before me by Joshua Pack <date when="1864-11-28">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 28<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
 <p>R. Richardson
 <lb/>N. P. K. C. Ky=<pb/></p>
-<p>I was a juror in <hi rend="underline">two</hi> of the cases referred to in the foregoing papers; and, in making up our verdicts in the same, we had to be governed exclusively by the proof adduced to us. No evidence as to the moral character of <hi rend="underline">John Beasely</hi> -- the main witness -- and especially as to his character for truthfulness, was produced at either of said trials. But I have since seen the sworn statement of Mr. Joshua Pack -- whom I know -- and I can state that had such evidence been produced at the trials, and before the verdicts, my conduct officially in these cases would have been very materially modified by it.</p>
-<p>J. W. Lowry</p>
-<p>I was also on the above 2 cases as a co-juror in each with Mr. Lowry. and I fully concur in the above statement. I thought the cases hard ones from the beginning doubly so since I have read Pack's affidavit</p>
+<p>I was a juror in <hi rend="underline">two</hi> of the cases referred to in the foregoing papers; and, in making up our verdicts in the same, we had to be governed exclusively by the proof adduced to us. No evidence as to the moral character of <hi rend="underline">John Beasely -- </hi>the main witness -- and especially as to his character for truthfulness, was produced at either of said trials. But I have since seen the sworn statement of Mr. Joshua Pack -- whom I know -- and I can state that had suchEvidence been produced at the trials, and before the verdicts, my conduct officially in these cases would have been very materially modified by it.</p>
+<p>J. W. Loury</p>
+<p>I was also on the above 2 cases as a co-juror in each with Mr. Loury. and I fully concur in the above statement. I thought the cases hard ones from the beginning doubly so since I have read Pack's affidavit</p>
 <p>Thomas Robson</p>
-<p>Beasely being the prominent witness I felt constrained as a juror to find a verdict on his testimony; but I do think this case merits the clemency of the Governor.</p>
-<p><hi rend="underline">James Spillman</hi><pb/></p>
-<p>The petitionr has been long and favorable ^known^ to <hi rend="str">me</hi> us as a gentleman, good citizen, &amp; law-abiding man</p>
+<p>Beasely being the preminent witness I felt constrained as a juror to find a verdict on his testimony, but I do think this case merits the clemency of the Governor.</p>
+<p><hi rend="underline">James Spilman</hi><pb/></p>
+<p>The petitionr has been long and favorable ^known us^ to <hi rend="str">me</hi> as a gentleman, good citizen, &amp; law-abiding man</p>
 <p>A. H. Herod Jailer
 <lb/>H. E. Wilson. City Clerk
-<lb/>J. W. Campbell U.S. Insp<hi rend="underline"><hi rend="sup">r</hi></hi>
+<lb/>J. W. Campbell U. S. Insp<hi rend="underline"><hi rend="sup">r</hi></hi>
 <lb/>D. J. Thomas City assessor
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> S Wade City collector
-<lb/>J S. Scott Depy. Sheriff
-<lb/>W<hi rend="sup">m</hi>. H. Hunt
-<lb/>J B Kirkpatrict
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> S <unclear>Wade</unclear> City Collector
+<lb/>J S Scott Depy. Sheriff
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Hunt
+<lb/>J B Kirkpatrick
 <lb/>M P Smith
 <lb/>W. F Bond
-<lb/>R. V. D webbe
-<lb/>C L Malkins
-<lb/>A. G. Howison
+<lb/>R. V. <unclear>Dwelbe</unclear>
+<lb/><hi rend="underline">C L Malkins
+<lb/></hi>A, G, Howison
 <lb/>Geo. Burgess
 <lb/>H. Healman
-<lb/>W D P Timberlake
+<lb/><unclear/> Timberlake
 <lb/>C G Warrington
 <lb/>Bernard M<hi rend="sup">c</hi>gery
 <lb/>Isaac Roll
-<lb/><hi rend="underline">S C Perrin</hi>
+<lb/><hi rend="underline">S. C Perrin</hi>
 <lb/>John Schoettle
 <lb/>J. G. Francis
 <lb/>Thomas Matlock
 <lb/>E. T. Clarkson
 <lb/>Tho<hi rend="sup">s</hi>. K. Hays
-<lb/>Robt S Stroder
+<lb/>Robt S Strader
 <lb/>Saml Moreland
-<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi>. Bagley<pb/></p>
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Bagley<pb/></p>
 <p>Kenton Cir Ct<figure type="hr"/>
 <lb/>Commonwealth
-<lb/>vs } Petition and papers
+<lb/>vs &#125; Petition and papers
 <lb/>Henry Crout<figure type="hr"/>
 <lb/>Remitted
 <lb/><date when="1864-12-22">22<hi rend="sup">d</hi> Dec/64</date></p>
-<p>Covington Ky
-<lb/>My Dr <unclear/></p>
+<p>Covington Ky.</p>
+<p>My Dr Aunt,</p>
 <p>M D Harris
 <lb/>L <unclear/> Harris</p>
   </body>

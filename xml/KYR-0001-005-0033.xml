@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0033"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Jefferson County, Kentucky</placeName>
-    <date when="1864-05-11">11 May 1864</date>
+    <date when="1864-05-09">9 May 1864</date>
    </creation>
    <textClass>
     <keywords>
@@ -65,33 +68,33 @@
 <lb/>Frederick Kohlman<figure type="hr"/>
 <lb/>Jefferson Circuit Court,
 <lb/><date when="1864-05">May Term, A. D. 1864</date>.</p>
-<p>The Grand Jurors of the County of Jefferson in the name and by the authority of the Commonwealth of Kentucky, accuse Frederick Kohlman of the Crime of Grand Larceny committed in the manner and form as follows, to wit: The said Frederick Kohlman in the said County of Jefferson on the <gap/> day of <date when="1864-03">March A. D. 1864</date> feloniously took &amp; Carried away one United States Treasury Note of the value &amp; denomination of Twenty dollars, &amp; another United States Note of the value &amp; denomination of twenty dollars, &amp; one United States Treasury Note of the value &amp; denomination of two dollars, &amp; divers &amp; sundry United States Treasury notes of different sizes &amp; denominations towit ones &amp; twos amounting to the value of seventy four dollars then and there being found, the property of William Vondersider -- contrary to the form of the statute in such cases, made and provided against the peace and dignity of the Commonwealth of Kentucky.</p>
+<p>The Grand Jurors of the County of Jefferson in the name and by the authority of the Commonwealth of Kentucky, accuse Frederick Kohlman of the Crime of Grand <hi rend="str">forg</hi>Larceny committed in manner and form as follows, to=wit: The said Frederick Kohlman in the said County of Jefferson on the <gap/> day of <date when="1864-03">March A. D. 1864</date> feloniously took &amp; Carried away one United States Treasury Note of the value &amp; Denomination of Twenty dollars, &amp; another United States Note of the value &amp; denomination of twenty dollars, &amp; one United States Treasury Note of the value &amp; denomination of ten dollars, &amp; divers &amp; sundry United States Treasury notes of different sizes &amp; denominations towit ones &amp; twos amounting to the value of seventy four dollars then and there being found, the property of William <unclear>Vondersider</unclear> -- contrary to the form of the statute in such cases, made and provided against the peace and dignity of the Commonwealth of Kentucky.</p>
 <p>J R Dupuy
-<lb/>Commonwealth's Attorney.
-<lb/>A Copy
-<lb/>Att Jas P Chambers C J C C</p>
+<lb/>Commonwealth's Attorney.</p>
 <p>Witnesses
-<lb/><gap/><pb/></p>
+<lb/><gap/></p>
+<p>A Copy
+<lb/>Att Jas P Chambers c J c c<pb/></p>
 <p>The within &amp; foregoing indictment was returned by the Grand Jury a true bill. <date when="1861-05-02">May 2. 1864</date>. and in the <date when="1864-05-09">9 day of May 1864</date> said Case was given to the Jury who returned the following verdict</p>
-<p>We of the Jury find the Accused guilty of the charge in the indictment &amp; say he shall be Confined in the Jail &amp; Penitentiary for the sum of one year, and under the existing Circumstances particularly recommend him to the Clemency of the Executive</p>
-<p>A A <unclear><hi rend="underline">Quarrie</hi></unclear> <hi rend="underline">foreman</hi>
-<lb/>A Copy Att
-<lb/>Jas P Chambers C J C C</p>
+<p>We of the Jury find the accused guilty of the charge in the indictment &amp; say he shall be Confined in the Jail &amp; Penitentiary for the term of one year, and under the existing Circumstances particularly recommend him to the Clemency of the Executive</p>
+<p>A A <unclear><hi rend="underline">Quarrier</hi></unclear><hi rend="underline"> foreman</hi></p>
+<p>A Copy Att
+<lb/><hi rend="underline">Jas P Chambers c J c c</hi></p>
 <p><date when="1864-05-09">May 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
-<p>The accused is a boy -- this, I am satisfied, is his first offence. He proved a good character upon his trial and promises to live honestly in the future. This seems to me a proper case for Executive clemency and I respectfully ^ask^ your Excellency to grant him a pardon</p>
+<p>The accused is a boy- this, I am satisfied, is his first offence, He proved a good character upon his trial and promises to live honestly in the future. This seems to me a proper case for Executive clemency and I respectfully ^ask^ your Excellency to grant him a pardon</p>
 <p>P. B. Muir
 <lb/>J R Dupuy Com Atto.</p>
 <p>Jefferson Cir Ct
 <lb/>vs
-<lb/>F. Kohlman
-<lb/>The Commonwealth of Kentucky.
+<lb/>F, Kohlman</p>
+<p>The Commonwealth of Kentucky,
 <lb/>Indictment.
-<lb/>vs }
-<lb/>Pardon Granted
-<lb/>Tho E Bramlette
-<lb/>Grand Larceny
-<lb/>One Year
-<lb/>A True Bill.
+<lb/>vs &#125;</p>
+<p>Pardon Granted
+<lb/>Tho E Bramlette</p>
+<p>Grand Larceny
+<lb/>One Year</p>
+<p>A True Bill.
 <lb/><date when="1864-05-11">11<hi rend="sup">th</hi> May/64</date>
 <lb/><hi rend="str">Fore</hi>man.</p>
   </body>

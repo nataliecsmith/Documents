@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1327"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,10 +63,10 @@
  <text>
   <body>
    <p>To his Excellency Govenor Bramlette of Kentucky</p>
-<p>Your petitioners would respectfully represent to your Excellency that in <date when="1862-05">May 1862</date> William Halsell James Halsell James M<hi rend="sup">c</hi>Cormick John S Jones <hi rend="str">and</hi> James Jones and John W Grubb entered into a Bail Bond before P Hines police Judge of the Town of Bowling-Green Ky (he having held an examining Court) for the appearance of Jessee M<hi rend="sup">c</hi>Cormick in the Warren Equity &amp; Criminal Court at the <date when="--02">February</date> Term of ^sd court^ next succeeding said Examining Court said McCormick was charged with Grand Larceny, the said Jessee McCormick failed to appear <hi rend="str">at</hi> at said Court in pursuance <hi rend="str">said</hi> of said Bond, and the Commonwealth took a forfeiture of said Bond for the sum of Four hundred dollars which was the amount of the Bail fixed by said Police Judge,</p>
-<p>Your petitioners would further represent to your Excellency that sd Jessee M<hi rend="sup">c</hi>Cormick was a young man Just grown to manhood and ^was^ easily alarmed &amp; was influenced by some evil disposed persons to leave the Country and not stand his trial. They would further represent, that all the parties above mentioned against whom said forfeiture was taken, are poor men with Families to support except William<pb/>
-<lb/>Halsell who is in moderately good circumstances, to pay said amount of four hundred dollars would be very oppressive upon them, your Excellency gave a respite some time since of Twelve months which time has nearly elapsed They would feel under lasting obligations if your Excellency would relieve them altogether from the payment of said sum of Four hundred Dollars</p>
-<p>John S Jones
+<p>Your petitioners would respectfully represent to your Excellency that in <date when="1862-05">May 1862</date> William Halsell James Halsell James M<hi rend="underline"><hi rend="sup">c</hi></hi>Cormick John S Jones <hi rend="str">and</hi> James Jones and John W Grubb entered into a Bail Bond before P Hines Police Judge of the Town of Bowling-Green Ky (he having held an examining Court) for the appearance of Jessee McCormick in the Warren Equity &amp; Criminal Court at the <date when="--02">February</date> Term of ^s<hi rend="sup">d</hi> court^ next succeeding said Examining Court said McCormick was charged with Grand Larceny, the said Jessee McCormick failed to appear <hi rend="str">at</hi> at said Court in pursuance <hi rend="str">said</hi> of said Bond, and the Commonwealth took a forfeiture of said Bond for the sum of Four hundred dollars which was the amount of the Bail fixed by said Police Judge,</p>
+<p>Your petitioners would further represent to your Excellency that s<hi rend="sup">d</hi> Jessee McCormick was a young man Just grown to manhood and ^was^ easily alarmed &amp; was influenced by some evil disposed persons to leave the Country and not stand his trial. They would further represent, that all the parties above mentioned against whom said forfeiture was taken, are poor men with Families to support, except William<pb/>
+<lb/>Halsell who is in moderately good circumstances, to pay said amount of four hundred dollars would be very oppressive upon them. Your Excellency gave a respite some time since of Twelve months which time has nearly elapsed They would feel under lasting obligations if your Excellency would relieve them altogether from the payment of said sum of Four hundred Dollars,</p>
+<p>John S. Jones
 <lb/>James J M<hi rend="sup">c</hi>Cormick
 <lb/>James Jones
 <lb/>John, W, Grubbs
@@ -72,15 +75,14 @@
 <p>We respectfully ask that the foregoing petition be granted</p>
 <p>R Rodes
 <lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> V. Loving</hi>
-<lb/>W. H. Payne
+<lb/>W H. Payne
 <lb/>P, Hines</p>
 <p>I state that I was the County Attorney and prosecuted Jessee M<hi rend="sup">c</hi>Cormick in the Examining Court, and from the proof that was introduced on the trial I feel confident that on the final trial he would have been acquitted</p>
 <p>J, E, Halsell<pb/></p>
-<p>Warren E. &amp; Crim Ct
+<p>Warren E, &amp; Crim Ct
 <lb/>vs
-<lb/>Jesse M<hi rend="sup">c</hi>Cormick
-<lb/>Sureties on Bail Bond
-<lb/>$400,
+<lb/>Jesse M<hi rend="sup">c</hi>Cormick's Sureties on Bail Bond
+<lb/>&#36;400,
 <lb/>Remit
 <lb/><date when="1864-11-08">8<hi rend="sup">th</hi> Nov/64</date></p>
   </body>

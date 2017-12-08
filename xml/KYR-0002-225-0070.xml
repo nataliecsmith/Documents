@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0070"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,9 +63,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Maysville Ky. <date when="1865-05-09">May 9th 1865</date>
+   <p>Maysville Ky. <date when="1865-05-09">May 9<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
 <lb/>Dear Sir:</p>
-<p>A day or two ago I signed a petition to have Reuben S. Darnall <hi rend="str">up</hi> Commissioned to raise a Company of active militia in this County under your Call for state troops. Since then I have learned some things which satisfies me that the appointment would be injudicious, at least I would advise or request you to hold the appointment up, until you hear further about the matter. We are getting along here very well and there appears to be a scattering of the rebels &amp; guerillas at present, that will in this part of the state, at least, do away with the necessity of Calling out a Company from this County. And, should there be a necessity, I think our worthy Mayor Can be induced to take Charge of a Company and if he will, he will give <hi rend="str">more</hi> entire Satisfaction and security to the people. Mr Darnall, I think, too young for such an important position besides, he has been Connected I understood with negro recruiting, which you know would to a great extent paralyze his usefullness</p>
+<p>A day or two ago I Signed a petition to have Reuben S. Darnall <hi rend="str">up</hi> Commissioned to raise a Company of active Militia in this County under your Call for State troops. Since then I have learned some things which satisfies me that the appointment would be injudicious, at least I would advise or request you to hold the appointment up, until you hear further about the matter. We are getting along here very well and there appears to be a scattering of the rebels &amp; guerillas at present, that will in this part of the state, at least, do away with the necessity of Calling out a Company from this County. And, should there be a necessity, I think our worthy Mayor Can be induced to take Charge of a Company and if he will, he will give <hi rend="str">more</hi> entire Satisfaction and Security to the people. Mr Darnall, I think, too young for such an important position besides, he has been Connected I understood with negro recruiting, which you know would to a great extent paralyze his usefulness</p>
 <p>Yours truly
 <lb/>Robt A Cochran</p>
 <p>To His Excellency
@@ -71,8 +74,8 @@
 <lb/><date when="1865-05-09">May 9, 1865</date><figure type="hr"/>
 <lb/>Cochran, R. A.
 <lb/>To Govenor.<figure type="hr"/></p>
-<p>Writes that he signed a petition <hi rend="str">petition</hi> some time since, recommending Reuben S. Darnall as a suitable person to raise a company of Active Militia, but thinks now that the appointment would be injudicious, and suggests that it be withheld as guerillas are disbanding, don't think it necessary to have a company in Mason.<figure type="hr"/></p>
-<p>Rec. In. Gen'l. Office <date when="1865-05-13">May 13/65</date>.</p>
+<p>Writes that he signed a petition <hi rend="str">petition</hi> some time since, recommending Reuben S. Darnall as a suitable person to raise a company of Active Militia, but thinks now that the appointment would be injudicious, and suggests that it be withheld, as guerillas are disbanding, don't think it necessary to have a company in Mason.<figure type="hr"/></p>
+<p>Rec. In. Gen'l Office <date when="1865-05-13">May 13/65</date>.</p>
   </body>
  </text>
 </TEI>

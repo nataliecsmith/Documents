@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0061"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">W. L. Simmons to James F. Robinson</title>
+    <title level="a" type="main">W. T. Simmons to James F. Robinson</title>
     <title level="a" type="parallel">CWG4180</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,6 +51,7 @@
   </fileDesc>
   <profileDesc>
    <creation>
+    <placeName>Williamstown, Grant County, Kentucky</placeName>
     <date when="1863-08-26">26 August 1863</date>
    </creation>
    <textClass>
@@ -61,10 +65,11 @@
   <body>
    <p>Williamstown <date when="1863-08-26">August 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
 <lb/>To his Excellency James F. Robinson Governor of the Commonwealth of Kentucky -- </p>
-<p>Inclosed I send you an affidavit of W P Brumback -- Together with a judgement in favor of the Commonwealth v<hi rend="sup">s</hi> him ^Stone^ for $500 as the sureties in a bond for the appearance of Thomas Renfro's appearance in the Grant circuit court to be tried for a felony. The Bond was taken by the judge of the County court after he had been committed by the justices &amp; before the ruling of the Circuit court -- Renfro faled to appear &amp; the judgment mentioned is the result -- Now the object of this communication is to get you to remit so much of the judgement as you can. The facts are as follows Thomas Renfro -- W H Rose &amp; J H Rose were arrested by the same warrant charged with Burglary Renfro gave the Bails the twoo Roses remained in jail until the next term of the Circuit Court The Grand Jury having failed to find an Indictment against either of them they were by the court discharged -- No Indictment was found against Renfro &amp; if he had been in jail he would have been discharged The person whose store house had been broken open became satisfied between the exam-<pb/>
-<lb/>ining court &amp; the circuit court that he was mistaken in relation to the guilt of Renfro &amp; the Roses &amp; failed to prosecute them further in fact he learn that a squad of Rebels took his goods a they were on there way to the southern army and that Renfro &amp; the Roses were innocent These are the facts The commonwealth atty will recollect them as detailed to him when here -- Brumback &amp; Stone can pay the $500 but will greatly oppress them they are both poor men with Families dependent upon them I believe you would under the circumstances be justified in remitting the judgement except the percent going to the commonwealths Atty -- I sent a copy of the judgement &amp; others papers some time ago to G W Craddock asking him to present them to you but have not heard from the papers I hope you will find that the facts in this case command themselves to your clemency</p>
-<p>I am your obt Servt
-<lb/>W. L. Simmons</p>
+<p>Inclosed I send you an affidavit of W P Brumback -- Together with a judgment in favor of the commonwealth v<hi rend="underline"><hi rend="sup">s</hi></hi> him ^Stone^ for &#36;500 as the sureties in a bond for the appearance of Thomas Renfro's appearance, in the Grant circuit court to be tried for a felony -- The Bond was taken by the judge of the County court after he had been committed by the justices &amp; before the ruling of the Circuit Court -- Renfro faled to appear &amp; the judgment mentioned is the result -- Now the object of this communication is to get you to remit so much of the judgement as you can -- The facts are as follows</p>
+<p>Thomas Renfro -- W H Rose &amp; J H Rose were arrested by the same warrant charged with Burglary Renfro gave the Bail the twoo Roses remained in Jail until the next term of the Circuit Court The Grand Jury having failed to find an Indictment against either of them they were by the court discharged -- No Indictment was found against Renfro &amp; if he had been in jail he would have been discharged The person whose store house had been broken open became satisfied between the exam-<pb/>
+<lb/>ining court &amp; the circuit court that he was mistaken in relation to the Guilt of Renfro &amp; the Roses &amp; failed to prosecute them further in fact he learn that a squad of Rebels took his goods a they were on their way to the southern army and that Renfro &amp; the Roses were innocent These are the facts The commonwealths atty will recollect them as detailed to him when here -- Brumback &amp; stone can pay the &#36;500 but will greatly oppress them they are both poor men with Families dependent upon them I believe you would under the circumstances be justified in remitting the Judgment except the percent going to the Commonwealths Atty -- I sent a copy of the judgment &amp; others papers some time ago to G W Craddock asking him to present them to you but have not heard from the papers I hope you will find that the facts in this case commend themselves to your clemency</p>
+<p>I am your obt servt
+<lb/>W, T, Simmons</p>
   </body>
  </text>
 </TEI>

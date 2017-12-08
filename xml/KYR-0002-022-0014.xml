@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0014"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -49,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Hickman, Fulton County, Kentucky</placeName>
-    <date when="1861-01-12">12 January 1861</date>
+    <date when="1864-01-12">12 January 1864</date>
    </creation>
    <textClass>
     <keywords>
@@ -60,21 +63,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>Head Quarters 40<hi rend="sup">th</hi> Reft. Ky Militia
+   <p>Head Quarters 40<hi rend="sup">th</hi> Regt. Ky Militia
 <lb/>Hickman Ky <date when="1864-01-12">January 12. 1864</date>.
 <lb/>General D. W. Lindsey
 <lb/>Inspector General of Kentucky.
 <lb/>General.</p>
-<p>Immediately upon the receipt of the return of the Election for Major of the 2<hi rend="sup">d</hi> Bat. of my Regiment for correction, upon its recommitment from your office. I conceived it to be the proper way, to order another election. This I did at once, as you will perceive from a copy of the Order, and herewith inclosed.</p>
-<p>After waiting a whole week, for the returns, none have come to hand; but I am informed, that no election was held. Under the circumstances therefore, I feel justified in suggesting, that an appointment be immediately made by His Excellency, the Governor. If I may be permitted to do so, I respectfully recommend W Francis Buckner Esq, as a gentleman fully competent for the office. A Civil Engineer by profession, an original, consistent and devoted friend of the Union, he is one of the few men, who in the darkest day of rebel tyranny in this region, maintained the integrity of his position, and preserved his faith unshaken</p>
+<p>Immediately upon the receipt of the return of the Election for Major of the 2<hi rend="sup">d</hi> Bat. of my Regiment, for correction, upon its recommitment from your office. I conceived it to be the proper way, to order another election. This I did at once, as you will perceive from a Copy of the Order, and herewith inclosed.</p>
+<p>After waiting a whole week, for the returns, none have come to hand; but I am informed, that no election was held. Under the circumstances therefore, I feel justified in suggesting, that an appointment be immediately made by His Excellency, the Governor. If I may be permitted to do so, I respectfully recommend W Francis Buckner Esq, as a gentleman fully competent for the office. A Civil Engineer by profession, an original, consistent and devoted friend of the Union, he is one of the few men, who in the darkest days of rebel tyranny in this region, maintained the integrity of his position, and preserved his faith unshaken</p>
 <p>With great respect
 <lb/>I have the honor to be
 <lb/>Your Obt Servt
 <lb/>G. C Hallet
 <lb/>Col. Comdg
 <lb/>40<hi rend="sup">th</hi> Regt Ky Militia.<pb/></p>
-<p>40
-<lb/>Fulton Co
+<p>40</p>
+<p>Fulton Co
 <lb/>Ky. State Mil<figure type="hr"/>
 <lb/>Col Hallett
 <lb/>Enclosing Election return<figure type="hr"/>

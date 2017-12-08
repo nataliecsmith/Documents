@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0100"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,21 +64,22 @@
  <text>
   <body>
    <p>Harrodsburg Ky <date when="1865-09-09">Sept 9<hi rend="sup">th</hi> 1865</date>
-<lb/>Gov T. E. Bramblett
+<lb/>Gov T, E, Bramblett
 <lb/>Dear Sir</p>
-<p>At an Election held in Harrodsburg on Monday <date when="1865-08-07">7<hi rend="sup">th</hi> day of August 1865</date>. I was elected Police Judge of Harrodsburg I received my commission and have been sworn in. On wednesday <date when="1865-09-06">6<hi rend="sup">th</hi> day of ^Sept^ 1865</date> M. V Bowen who is a Policeman came to me, and asked for a warrant against John D Hale who had drawn a pistol on J Roberds I issued the warrant and to day he made the following return. "Not executed because Lieutenant Bishop commanding a company of Negroes in Harrodsburg ordered me not to arrest John D Hale. this <date when="1864-09-08">8<hi rend="sup">th</hi> day of September 1865"</date></p>
-<p>M. V Bowen "J. M. C."<pb/></p>
-<p>I send you a copy of the warrant what must I do? Must the Civil give way to the Military Law.</p>
+<p>At an Election held in Harrodsburg on Monday <date when="1865-08-07">7<hi rend="sup">th</hi> day of August 1865</date>. I was elected Police Judge of Harrodsbg I received my commission and have been sworn in, On wednesday <date when="1865-09-06">6<hi rend="sup">th</hi> day of ^Sept^ 1865</date> M. V Bowen who is a Policeman came to me, and asked for a warrant against John D Hale who had drawn a pistol on J Roberds I issued the warrant and to day he made the following return. "Not executed because Lieutenant Bishop commanding a company of Negroes in Harrodsburg ordered me not to arrest John D Hale, this <date when="1864-09-09">9<hi rend="sup">th</hi> day of September 1865"</date></p>
+<p>M. V Bowen "J, M, C,"<pb/></p>
+<p>I send you a copy of the warrant what must I do? Must the Civil give way to the Military Law,</p>
 <p>Very Respectfully
-<lb/>T. H. Hardin P. J. T H.</p>
-<p>P. S. Please let me know by return mail what course I had best persue</p>
+<lb/>T. H. Hardin. P. J. T H,</p>
+<p>P, S. Please let me know by return mail what course I had best persue</p>
 <p>T H H,<pb/></p>
 <p>Frankfort <date when="1865-09-12">Sept. 12<hi rend="sup">th</hi> 1865</date>
 <lb/>Maj Genl Palmer
-<lb/>Comdg &amp;C Louisville</p>
-<p>Gen<hi rend="underline"><hi rend="sup">l</hi></hi></p>
-<p>I forward you the letter of the police Judge of Harrodsburg together with copy of the wrnt &amp;C<unclear/> J D Hale.</p>
-<p>Hale is a bad man -- desperado &amp; suspected of belonging to a band of outlaws. These unlawful and unwarrantable interferences by subordinate officers -- give cause of just complaint; and constitute the material from which capital is made by the rebellious part of the Community. A prompt arrest and and punishment of some of them for such interference with the due and proper course of civil law will remove much of the complaints of the country -- and restore the proper degree of confidence in the authorities of the country</p>
+<lb/>Comdg &amp;C Louisville
+<lb/><note place="body">K-150-D K Vol-8-<date when="1865">1865</date></note>
+<lb/>Gen<hi rend="underline"><hi rend="sup">l</hi></hi></p>
+<p>I forward you the letter of the police Judge of Harrodsburg together with copy of the wnt &amp;C &#126; J D Hale.</p>
+<p>Hale is a bad man -- desperado &amp; suspected of belonging to a band of outlaws. These unlawful and unwarrantable interferences by subordinate officers- give cause of just complaint; and constitute the material from which capital is made by the rebellious part of the Community. A prompt arrest and and punishment of some of them for such interference with the due and proper course of Civil law will remove much of the complaints of the country -- and restore the proper degree of confidence in the authorities of the country</p>
 <p>Thos E Bramlette
 <lb/>Gov of Ky</p>
   </body>

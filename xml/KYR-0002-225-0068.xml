@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0068"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,15 +67,15 @@
 <lb/>STEAMER ST. PATRICK.
 <lb/>GEO. O. HART, Master.
 <lb/>BRUCE ALVORD,
-<lb/>J. CLEMENS, } CLERKS.</p>
+<lb/>J. CLEMENS, &#125; CLERKS.</p>
 <p><date when="1865-05-15">May 15. 1865</date>
 <lb/>To His Excellency
-<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bram<hi rend="str">b</hi>lette
 <lb/>Gov -- </p>
-<p>As a loyal suffering citizen of Fulton Co. I take the liberty ^of writing^ you on the condition of our section of country -- We are overrun by smal bands of guerillas -- say from one dozen to forty in a band -- they are eating up our substance &amp; stealing our horses &amp; mules, &amp; what ever else they can lay their hands on &amp; carry off -- They come in from the adjacent counties of Tenn. At Columbus they have no cavalry -- &amp; Paducah is some sixty miles distant, &amp; the small country force there can give us but little protection -- &amp; the citizens have no arms to protect themselves. If you could send us a company of <hi rend="underline">one</hi> <hi rend="underline">hundred</hi> good cavalry with the right kind of officers -- we could soon get rid of all those fellows, &amp; have peace &amp; quiet restored to us once more. I hope Gover<pb/>
-<lb/>nor you will take this matter into serious consideration &amp; do for us what you can I have had the pleasure of meeting with Dr Scott <hi rend="str">late</hi> surgeon Genl of the state &amp; also ^late^ Adujt. Gen<hi rend="sup">l</hi> Boyle -- they both seem to realize our condition -- And it is at their suggestion that I write to you upon the subject -- As for myself I would refer you to my friend Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Combs clerk of the Court of Appeal -- </p>
+<p>As a loyal suffering citizen of Fulton Co. I take the liberty ^of writing^ you on the condition of our section of country -- We are overrun by smal bands of guerillas -- say from one dozen to forty in a band -- they are eating up our substance &amp; stealing our horses &amp; mules, &amp; what ever else they can lay their hands on &amp; carry off -- They come in from the adjacent counties of Tenn. At Columbus they have no cavalry- &amp; Paducah is some sixty miles distant, &amp; the small cavalry force there can give us but little protection -- &amp; the citizens have no arms to protect themselves. If you could send us a company of <hi rend="underline">one</hi> <hi rend="underline">hundred</hi> good cavalry with the right kind of officers -- we could soon get rid of all those fellows, &amp; have peace &amp; quiet restored to us once more. I hope Govr<pb/>
+<lb/>nor you will take this matter into serious consideration &amp; do for us what you can -- I have had the pleasure of meeting with Dr Scott <hi rend="str">late</hi> surgeon Genl of the state &amp; also ^late^ Adujt. Gen<hi rend="sup">l</hi> Boyle -- they both seem to realize our condition -- And it is at their suggestion that I write to you upon the subject -- As for myself I would refer you to my friend Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Combs clerk of the Court of Appeal -- </p>
 <p>most respectfully
-<lb/>your obt. svt.
+<lb/>your obt, svt,
 <lb/>N. N. Cowgill</p>
   </body>
  </text>

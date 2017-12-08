@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0270"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,9 +63,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Cynthiana <date when="1863-11-11">Nov 11 1863</date>
+   <p>Cynthiana <date when="1863-11-11"><hi rend="str">O</hi>Nov 11 1863</date>
 <lb/>Dear sir</p>
-<p>I send a complete statement of the Evidence against Sidle. I want you to return it to me if the Governor does not pardon him.</p>
+<p>I send a complete statement of the evidence against Sidle. I want you to return it to me if the Governor does not pardon him.</p>
 <p>Yours Respy
 <lb/>W W Trimble</p>
   </body>

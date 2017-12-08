@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0292"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,12 +64,12 @@
  <text>
   <body>
    <p>Crittenden Ky
-<lb/><date when="1863-11-09">Nov. 9<hi rend="sup">th</hi> 1863</date>
-<lb/>Jn<hi rend="sup">o</hi>. Scott Esq.
+<lb/><date when="1863-11-09">Nov. 9<hi rend="underline"><hi rend="sup">'</hi></hi> 1863</date>.
+<lb/>Jn<hi rend="underline"><hi rend="sup">o</hi></hi> Scott Esq.
 <lb/>Dr sir,</p>
-<p>I enclose you my Petition to the Gov. about the fine imposed on me at the late term of Grant Circuit Court. Please attend to it now and if favorably recieved, advise me.</p>
+<p>I enclose you my Petition to the Gov. about the fine imposed on me at the late term of Grant Circuit Court -- Please attend to it soon and if favorably recieved, advise me--</p>
 <p>Your &amp;c
-<lb/>D. E. Craig</p>
+<lb/>D, E, Craig</p>
   </body>
  </text>
 </TEI>

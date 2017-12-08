@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0033"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">Ambrose E. Burnside, Special Orders, No. 415</title>
+    <title level="a" type="main">W. P. Anderson, Special Orders, No. 415</title>
     <title level="a" type="parallel">CWG11584</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,17 +64,17 @@
  <text>
   <body>
    <p>Head-Quarters Department of the Ohio,
-<lb/>Cincinnati, Ohio, <date when="1863-11-02">November 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 1863.</date>
+<lb/>Cincinnati, Ohio, <date when="1863-11-02">November 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 1863</date>,
 <lb/>SPECIAL ORDERS,
 <lb/>No. 415</p>
-<p>1,, ,, ,, Private <hi rend="underline">Robert Prudy</hi> Co "D" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Cavalry Kentucky Volunteers, is discharged the service, to date from the <date when="1863-09-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> day of September 1863,</date> to enable him to accept a Commission then tendered him by the Governor of Kentucky and since when he has been acting in the capacity of a Commissioned Officer. </p>
+<p>1 ,, ,, ,, Private <hi rend="underline">Robert Prudy</hi>, Co, "D" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Cavalry Kentucky Volunteers, is discharged the service, to date from the <date when="1863-09-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> day of September 1863,</date> to enable him to accept a Commission then tendered him by the Governor of Kentucky and since when he has been acting in the capacity of a Commissioned Officer. </p>
 <p>By Order of Major General Burnside
 <lb/>W P Anderson 
 <lb/>Assistant Adjutant General. </p>
-<p>Governor of Kentucky.<pb/></p>
+<p>Govenor of Kentucky.<pb/></p>
 <p>1 Cav
 <lb/>Robert Prudy
-<lb/>Dischage</p>
+<lb/>Discharge</p>
   </body>
  </text>
 </TEI>

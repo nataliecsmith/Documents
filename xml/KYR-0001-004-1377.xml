@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1377"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,16 +64,16 @@
   <body>
    <p>To His Excellency Tho<hi rend="sup">s</hi> E. Bramlette
 <lb/>Governor of the Comlth of Ky.</p>
-<p>Your petitioner A. B. Miller a citizen of Louisville Ky- would represent on oath that he has for the last three years past been in the <hi rend="underline">union</hi> army as a private soldier &amp; that his <hi rend="underline">son</hi> <hi rend="underline">Charles</hi> <hi rend="underline">Miller</hi> has <hi rend="underline">also</hi> <hi rend="underline">been</hi> in <hi rend="underline">the</hi> <hi rend="underline">same</hi> <hi rend="underline">army</hi> for the <hi rend="underline">same</hi> <hi rend="underline">time</hi> -- That his son was arrested since his return home on a charge of trying to rob a man -- there was no proof in the case except the man who was a <hi rend="underline">Jew</hi> he swor that young Miller was trying to rob him -- young Miller was not able to imploy Counsel &amp; his <hi rend="underline">Father</hi> your petitioner became parilized from exposure in the <hi rend="underline">army</hi> so as to render it allmost impossible for him to leave his House wherefore his son had no aid in his defence &amp; has been convicted for one year to the penitentiary -- your petitioner is well satisfied that his son is innocent of the charge that his son has been a <hi rend="underline">brave</hi> <hi rend="underline">soldier</hi> &amp; good <hi rend="underline">boy</hi> -- wherefore he most sincerely asks you may parden him -- &amp; by so doing relieve an afflicted Father &amp; aged mother</p>
-<p>Alpheus, B Miller</p>
-<p>Subscribed &amp; sworn to by the above named petitioner A. B. Miller before me this <date when="1864-12-07">7<hi rend="underline"><hi rend="sup">th</hi></hi> day of December 1864.</date></p>
-<p>W. B. Hoke N. P. J. C.<pb/></p>
+<p>Your petitioner A. B. Miller a citizen of Louisville Ky- would represent on oath that he has for the last three years past been in the <hi rend="underline">union</hi> army as a private soldier &amp; that his <hi rend="underline">son</hi> <hi rend="underline">Charles</hi> <hi rend="underline">Miller</hi> has <hi rend="underline">also</hi> <hi rend="underline">been</hi> in <hi rend="underline">the</hi> <hi rend="underline">same</hi> <hi rend="underline">army</hi> for the <hi rend="underline">same</hi> <hi rend="underline">time</hi>-hat his son was arrested since his return home on a charge of trying to rob a man- there was no proof in the case except the man who was a <hi rend="underline">Jew</hi> he swor that young Miller was trying to rob him- young Miller was not able to imploy Counsel &amp; his <hi rend="underline">Father</hi> your petitioner became paralized from exposure in the <hi rend="underline">army</hi> so as to render it all most impossible for him to leave his House wherefore his son had no aid in his defence &amp; has been convicted for one year to the penitentiary- your petitioner is well satisfied that his son is innocent of the charge that his son has been a <hi rend="underline">brave</hi> <hi rend="underline">soldier</hi> &amp; good <hi rend="underline">boy</hi>- wherefore he most sincerely asks you may parden him- &amp; by so doing relieve an afflicted Father &amp; aged mother</p>
+<p>Alpheus, B, miller</p>
+<p>Subscribed &amp; swornto by the above named petitioner A, B, Miller before me this <date when="1864-12-07">7<hi rend="underline"><hi rend="sup">th</hi></hi> day of December 1864.</date></p>
+<p>W. B. Hoke N,P,J,C<pb/></p>
 <p>Jefferson Cir Ct
 <lb/>vs
 <lb/>Chas Miller
 <lb/>Pardoned
 <lb/><date when="1864-12-07">7<hi rend="sup">th</hi> Dec/64</date></p>
-<p>Petition of A. B. Miller</p>
+<p>Petition of A, B, Miller</p>
   </body>
  </text>
 </TEI>

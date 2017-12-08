@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0030"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,17 +63,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Falmouth, Pendleton County Ky. <date when="1864-07-22">July 22<hi rend="sup">nd</hi> 1864</date>
+   <p>Falmouth, Pendleton County Ky. <date when="1864-07-22">July 22<hi rend="underline"><hi rend="sup">nd</hi></hi> 1864</date>
 <lb/>His Excellency
 <lb/>Tho E Bramlett Gov<hi rend="sup">r</hi> of Ky
 <lb/>Sir</p>
-<p>At the last term of the Pendleton Circuit Court at the instance of Mr Carpenter, Coml<hi rend="sup">ths</hi> Attorney -- for this judicial Circuit I addressed a letter to you, informing you that Harrison Barns, against whom the Grand Jury of the County had found an Indictment for murder was running at large &amp; suggested the propriety of offering a reward for his arrest -- Under that indictment and your Excellency' <unclear><hi rend="str">offer</hi></unclear> <unclear/> of reward for his apprehention he was arrested by Mr Pribble (I think it was) and lodged for trial in our Jail, where he remained securely (as was hoped) until the <date when="--06-25">25 June</date> last when he, together with a runaway slave was by violence and force, set at liberty as detailed by the inclosed affidavit of the Jailor</p>
+<p>At the last term of the Pendleton Circuit Court at the instance of Mr Carpenter, Com<hi rend="sup">lths</hi> Attorney-- for this judicial Circuit I addressed a letter to you, informing you that Harrison Barns, against whom the Grand Jury of the County had found an Indictment for murder was running at large &amp; suggested the propriety of offering a reward for his arrest -- Under that indictment and your Excellency' <unclear><hi rend="str">power</hi></unclear> offer of reward for his apprehention he was arrested by Mr Pribble (I think it was) and lodged for trial in our Jail-- where he remained securely (as was hoped) until the <date when="--06-25">25 June</date> last when he, together with a runaway slave was by violence and force, set at liberty as detailed by the inclosed affidavit of the Jailor.</p>
 <p>If our own soldiers who come among us for the purpose of protection and the enforcement of the laws, are permitted to become the aggressors and violators of the<pb/>
-<lb/>laws, and the lawless to be turned out from our Jails, and the lives and property of our citizen are to be preyed upon, and put in jeopardy by the military forces both from the North and the South; and this without remedy -- we have surely fallen upon evil times -- and not only the times, but the most valorous and patriotic loyal, are not without well founded apprehensions, that military powers and forces are ^to^ subordinate all civil rights, and ^ultimately to^ invite a state of affairs, which in days past, gave to her soil, the name of 'The blody ground' and which, God in his mercies, I pray, may avert -- </p>
-<p>Respectfully Yours
-<lb/><hi rend="underline">S. Tho. Hauser</hi></p>
+<lb/>laws, and the lawless to be turned out from our Jails, and the lives and property of our citisen are to be preyed upon, and put in jeopardy by the military forces both from the North and the South; and this without remedy-- we have surely fallen upon evil times-- and not only the times, but the most valorous and patriotic loyal, are not without well founded apprehensions, that military powers and forces are ^to^ subordinate all civil rights, and ^ultimately to^ invite a state of affairs, which in days past, gavee to her soil, the name of 'The blody ground' and which, God in his mercies, I pray, may avert -- </p>
+<p>Respectfully Your<hi rend="sup">s</hi>
+<lb/><hi rend="underline">S. Tho. Hauser</hi><pb/></p>
 <p>Reward
-<lb/>$200
+<lb/>&#36;250
 <lb/>Pendleton Co
 <lb/>Harrison Barnes
 <lb/>Offered

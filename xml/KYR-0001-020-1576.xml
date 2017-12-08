@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1576"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -64,18 +67,18 @@
 <lb/>Gov. B. MaGoffin
 <lb/>Franfort Ky
 <lb/>Sir</p>
-<p>Enclosed you will find a petition of John Webb endorsed by a number of the most respctable citizens of Russell County praying to be released from <hi rend="str">of</hi> a fine of $300 imposed by the Russell Circuit Court &amp;<hi rend="sup">c</hi>. You will also find a statment of E. L. Vanwinkle on the subject &amp; a copy of the judgment. I believe the facts stated to be correct. There has been some delay on my part in sending on the papers. It was my judgement not t<hi rend="str">b</hi>o be in a hurry.</p>
+<p>Enclosed you will find a petition of John Webb endorsed by a number of the most respctable citizens of Russell County praying to be released from <hi rend="str">of</hi> a fine of &#36;300 imposed by the Russell Circuit Court &amp;<hi rend="sup">c</hi>. You will also find a statement of E. L. Vanwinkle on the subject &amp; a copy of the judgment. I believe the facts stated to be correct. There has been some delay on my part in sending on the papers. It was my judgment not <hi rend="str">b</hi>to be in a hurry.</p>
 <p>I believe that the remission of this heavy fine against an ignorant man who is scarcely able to live &amp; who has had and now has many troubles to encounter would be right and would meet with the general approbation of the commu-<pb/>
 <lb/>nity.</p>
 <p>I hope you will take a like view of the subject &amp; will transmit to me here a remission of the fine</p>
 <p>Respectfully
 <lb/>Yours
-<lb/>Timolen Cravens</p>
+<lb/>Timoleon Cravens</p>
 <p>This is the case to which I referred when I last saw you.</p>
 <p>T. C.<pb/></p>
-<p><hi rend="str"><unclear/></hi>I reached home last night &amp; leave tomorrow. My appointments extend from ^Monday^ until the election. I think we are improving -- but we need workers</p>
-<p>Talbot has been compelled to abandon his appointments on account of his wifes illness. Gaither is entirely unable to ride or speak. Durham is sick. I can hear nothing from Hill. Chrisman &amp; myself have been together for a few days &amp; think we have done good. I have undertaken for four weeks to bring up as many homecomers as possible &amp; have done all I can do here. I hope some good speaker or speakers will be sent to Taylor; Green, Cumberland -- Clinton &amp; ^Russell^ Casey Counties -- two speeches to the County. say at</p>
-<p>Mannsville &amp; Saloma Taylor Co
+<p><hi rend="str"><unclear/></hi>I reached home last night &amp; leave tomorrow. My appointments extend from ^Monday^ untill the election. I think we are improving -- but we need workers</p>
+<p>Talbot has been compelled to abandon his appointments on account of his wifes illness. Gaither is entirely unable to ride or speak. Durham is sick. I can hear nothing from Hill. Chrisman &amp; myself have been together for a few days &amp; think we have done good. I have undertaken for four weeks to bring up as many homecomers as possible &amp; have done all I can do here. I hope some good speaker or speakers will be sent to Taylor, Green, Cumberland- Clinton &amp; ^Russell^ Casey Counties -- two speeches to the County. say at
+<lb/>Mannsville &amp; Saloma Taylor Co
 <lb/>George Elmores &amp; Brewersburgh Green Co
 <lb/>Burksville Cumberland Co
 <lb/>Illwill precinct &amp; Seventy six Clinton Co
@@ -85,12 +88,12 @@
 <p>Russell Cir. Ct</p>
 <p>Respite 12 Mo
 <lb/>BM</p>
-<p>$300 } Breach Tavern Bond
+<p>&#36;300. &#125; Breach Tavern Bond
 <lb/>John Webb
-<lb/>Iss<hi rend="sup">d</hi> <date when="1860-10-16">Octo 16. 1860</date></p>
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1860-10-16">Octo 16. 1860</date></p>
 <p>Remitted
 <lb/>B. M</p>
-<p>Issd <date when="1861-12-19">Decr. 19<hi rend="sup">th</hi> 1861</date></p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-12-19">Dec<hi rend="sup">r</hi> 19.<hi rend="sup">th</hi> 1861</date></p>
   </body>
  </text>
 </TEI>

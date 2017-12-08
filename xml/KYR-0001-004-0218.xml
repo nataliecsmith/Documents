@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0218"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -62,19 +65,20 @@
   <body>
    <p>Shepherdsville <date when="1863-10-28">Oct 28 1863</date>
 <lb/>His Excellency
-<lb/>Thos E. Bramlett
+<lb/>Thos E Bramlett
 <lb/>Dear Sir,</p>
-<p>Enclosed I send you a petition in favour of Henry Stallings, for the remission of a portion of a fine imposed upon him for a breach of the peace Stallings is a poor man and the friend of his country. and I personally know that the fine is excessive and have no doubt it was inflicted so heavily through political prejudice; a Union man has no shame if <hi rend="str">a</hi> secessionists have the power over him; they never fail to use it with a vengence.</p>
+<p>Enclosed I send you a petition in favour of Henry Stallings, for the remission of a portion of a fine imposed upon him for a breach of the peace stallings is a poor man and the friend of his country. and I personally know that the fine is excessive, and have no doubt it was inflicted so heavily through political prejudice; a Union man has no shame if <hi rend="str">a</hi> secessionists have the power over him; they never fail to use it with a vengence.</p>
 <p>Your friend
-<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi> <hi rend="underline">B</hi> <hi rend="underline">Thompson</hi><pb/></p>
-<p>P. Judge Shepherdsville
-<lb/>vs
-<lb/>Henry Stallings
-<lb/>Assault
-<lb/>$30 -- 
-<lb/><date when="1863-11-10">10th Nov/ 63</date></p>
+<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> B Thompson</hi><pb/></p>
+<p>P. Judge Shepherdsville</p>
 <p>Remit one half the fine.
 <lb/>Tho E Bramlette</p>
+<p>vs
+<lb/>Henry Stallings
+<lb/>Assault
+<lb/>&#36;30 -- 
+<lb/><date when="1863-11-10">10<hi rend="sup">th</hi> Nov/63</date></p>
+<p></p>
   </body>
  </text>
 </TEI>

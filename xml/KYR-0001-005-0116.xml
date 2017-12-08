@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0116"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Franklin County, Kentucky</placeName>
     <date when="1865-11-08">8 November 1865</date>
    </creation>
    <textClass>
@@ -60,13 +62,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>I had a hose Stolen from my Stable on the turnpike road Leading from Paynes Dep<hi rend="sup">t</hi> to Gegetown foer miles from the latter place on the night of the thirteenth of September last and ^have^ good reasons to beleve that Joseph Covington Stole the Said horse, Said Covington has been arrested in the State of Indiana and is now in Jail at Shelbyville in that State -- This affidavit is made for the purpose of enabling me to obtain a requisition from his Excellency the governor of Kentucky on the governor of Indiana for Said Covington that he may be brought to Kentucky for trial -- </p>
-<p>Ch<hi rend="underline"><hi rend="sup">s</hi></hi> B. Lewis Jr</p>
-<p>Subscribed and Sworn to before the underSigned a Justice of the peace for Franklin County this <date when="1865-11-08">8<hi rend="sup">th</hi> day of Novr. 1865</date></p>
-<p>Geo W. Given J. P.
+   <p>I had a hore Stolen from my Stable on the turnpike road Leading from Paynes Dept to Gegetown foer miles from the latter place on the night of the <date when="1865-09-13">thirteenth of September last</date> and ^have^ good reasons to beleve that Joseph Covington Stole the Said horse, Said Covington has been arrested in the State of Indiana and is now in Jail at Shelbyville in that State -- This affidavit is made for the purpose of enabling me to obtain a requisition from his Excellency the governor of Kentucky on the governor of Indiana for Said Covington that he may be brought to Kentucky for trial -- </p>
+<p>Ch<hi rend="sup">s</hi>. B. Lewis Jr</p>
+<p>Subscribed and Sworn to before the underSigned a Justice of the peace for Franklin County this <date when="1865-11-08">8th day of Novr. 1865</date></p>
+<p>Geo W. Gwin J. P.
 <lb/><stamp type="revenue"/><note place="stamp"><unclear/></note><pb/></p>
-<p>Requisition Upon Gov of Indiana for Jos Covington &amp; Chas B. Lewis Jr
-<lb/>Appt<hi rend="sup">d</hi>. Agent to <date when="1865-11-08">8<hi rend="sup">th</hi> Nov 1865</date></p>
+<p>Requisition Upon Gov of Indiana for Jos Covington &amp; Cha<hi rend="sup">s</hi> B. Lewis Jr
+<lb/>Appt<hi rend="underline"><hi rend="sup">d</hi></hi> Agent to 
+<lb/><date when="1865-11-08">8<hi rend="sup">th</hi> Nov 1865</date></p>
   </body>
  </text>
 </TEI>

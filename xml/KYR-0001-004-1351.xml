@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1351"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -59,44 +62,43 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excy Gov'r Thos E Bramlett</p>
-<p>Your Petitioner would respectfully represent that James Sechrest was indicted at the <date when="1864-05">may term 1864</date> of the Grant circuit for gaming without permission on the premises of another -- and was at the <date when="1864-10">October term 1864</date> fined the sum of seventy dollars $70 <hi rend="sup">00</hi>/<hi rend="sub">100</hi>, therefore -- The facts in the case were these Several gentlemen played a game of Poker in a Hotel -- One of the Party was the temporary occupant of the Room, and told the others that it would be all right for them to play that he had got the permission of the Land Lord for so doing -- and thence for mony played, and all were indicted, the rest of the party who made defense were fined some twenty dollars only, while Sechrest, who was absent, made default and in the absence of any defense was fined the said sum of $70,00, In view of these facts and the further fact that James Sechrest is an old, and poor man, and in fact unable to pay said fine without distressing his family we would respectfully recommend and pray that the said fine, or so much, thereof as your excellency may deem just be remitted and forever forgiven, and in will ever pray &amp; c -- </p>
+   <p>To His Excy Gov'r Thos E Bramllett</p>
+<p>Your Petitioner would respectfully represent that James Secherst was indicted at the <date when="1864-05">may term 1864</date> of the Grant circuit for gaming without permission on the premises of another-and was at the <date when="1864-10">October term 1864</date> fined the sum of seventy dollars &#36;70 <hi rend="sup">00</hi>/<hi rend="sub">100</hi>, therefore -- The facts in the case were these Several gentlemen played a game of Poker in a Hotel -- One of the Party was the temporary occupant of the Room, and told the others that it would be all right for them to play that he had got the permission of the Land Lord for so doing -- and thencefore mony played, and all were indicted, the rest of the party who made defense were fined some twenty dollars only, while Sechrest, who was absent, made default and in the absence of any defense was fined the said sum of &#36;70,00, In view of these facts and the further fact that James Sechrest is an old, and poor man, and in fact unable to pay said fine without distressing his family we would respectfully recommend, and pray that the said fine, or so much, thereof as to your excellency may seem just be remitted and forever forgiven, and we will ever pray &amp; c&#126;</p>
 <p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">Names</hi>
-<lb/>P, U, Major comth Atto
-<lb/>pro Tempore
-<lb/>J J Landram
+<lb/>P, U, Major comth Atto pro Tem pore
+<lb/>J. J. Landram
 <lb/>J M Collins
 <lb/>P W Geason
-<lb/>Thos L, Dickerson
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> L, Dickerson
 <lb/>L Brown
-<lb/><cb n="2"/><hi rend="underline">names</hi>
+<lb/><cb n="2"/><hi rend="underline">Names</hi>
 <lb/>Wm Franks
-<lb/>B. Wilson
+<lb/>B, Wilson
 <lb/>B, S, Franks
-<lb/>J <unclear/>
-<lb/>William vanlandingham<milestone unit="column" n="1"/><pb/>
+<lb/>T <unclear>Stroud</unclear>
+<lb/>William Vanlandingham<milestone unit="column" n="1"/><pb/>
 <lb/>James Price
 <lb/>John E Smith
 <lb/>George W Simpson
-<lb/>J T Myer
+<lb/>J T <unclear>Myer</unclear>
 <lb/>J S <unclear/>
-<lb/><unclear>Robt</unclear> <unclear/>
-<lb/>J. B. Lewis
+<lb/><unclear/> <unclear/>
+<lb/>J. C. <unclear/>
 <lb/>J J. Bromback
 <lb/>A Lingenfelter
 <lb/>W. Oldham
 <lb/>W Beard
-<lb/>Thos. gray
-<lb/>Aaron Baronett
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> gray
+<lb/><unclear>Aaron Baronett</unclear>
 <lb/>R H Bromback
 <lb/>B Stewart,</p>
 <p>Grant Cir Ct
 <lb/>vs
 <lb/>Jas Sechrest
 <lb/>Gaming
-<lb/>$70,
-<lb/>Remit
-<lb/><date when="1864-11-19">19<hi rend="sup">th</hi> Nov/64</date></p>
+<lb/>&#36;70,</p>
+<p>Remit</p>
+<p><date when="1864-11-19">19<hi rend="sup">th</hi> Nov/64</date></p>
   </body>
  </text>
 </TEI>

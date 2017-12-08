@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0223"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,45 +63,44 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hartford <date when="1863-10-13">Oct 13th 1863</date>
+   <p>Hartford <date when="1863-10-13">Oct 13<hi rend="sup">&#126;</hi> 1863</date>
 <lb/>Gov Bramlett
 <lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>I send herewith a Petition to get C W Hunter released from a fine imposed against him for solemnizing the right of Matrimony with authority. He was a Justice of the Peace &amp; supposed he was authorized and it was only one coupled he married &amp; the fine imposed was $25. He is a poor man &amp; cant <hi rend="underline">well</hi> <hi rend="underline">afford</hi> pay the fine He was afterward authorized by the court to solemize marriage</p>
+<p>I send herewith a Petition to get C W Hunter released from a fine imposed against him for solemnizing the rights of Matrimony with authority. He was a Justice of the Peace &amp; supposed he was authorized and it was only one coupled he married &amp; the fine imposed was &#36;25. He is a poor man &amp; cant <hi rend="underline">well</hi> <hi rend="underline">afford</hi> to pay the fine He was afterward authorized by the Court to solemize marriage</p>
 <p>I am very truly
 <lb/><hi rend="underline">Henry D M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Henry</hi></p>
 <p>Ohio Cir Court
-<lb/>vs 
-<lb/>C. W. Hinton
-<lb/>$25</p>
-<p>Remit all except costs &amp; fees <date when="1863-10-17">Oct 17<hi rend="sup">th</hi> 1863</date>
-<lb/>T E Bramlette
-<lb/>Govr
-<lb/>enclose to <hi rend="str">Col</hi> Henry D M<hi rend="sup">c</hi>Henry
-<lb/><hi rend="str">J P M</hi><hi rend="str"><hi rend="sup">c</hi></hi><hi rend="str">Henry</hi><pb/></p>
-<p>We the undersigned citizens of Ohio County respectfully Petition His Excellency the Governor to remit a fine imposed by the Ohio Circuit Court at its last <date when="--09">September Term</date> against Charles W Newton for marrying a couple without being authorized so to do by the County Court
-<lb/><date when="1863-10-13">Oct 13<hi rend="sup">th</hi> 1863</date>.</p>
+<lb/>vs </p>
+<p>Remit all except costs &amp; fees <date when="1863-10-17">Oct 17<hi rend="sup">th</hi> 1863</date></p>
+<p>T E Bramlette
+<lb/>Govr</p>
+<p>enclose to <hi rend="str">Co</hi><hi rend="str"><hi rend="sup">l</hi></hi><hi rend="str"> J P M</hi><hi rend="str"><hi rend="sup">c</hi></hi><hi rend="str">Henry</hi> Henry D M<hi rend="sup">c</hi>Henry</p>
+<p>C. W. Hinton
+<lb/>&#36;25 -- <pb/></p>
+<p>We the undersigned citizens of Ohio County respectfully Petition His Excellency The Governor to remit a fine imposed by The Ohio Circuit Court at its last <date when="1863-09">September Term</date> against Charles W Hunter for marrying a couple without being authorized so to do by the County Court,
+<lb/><date when="1863-10-13">Oct 13<hi rend="sup">th</hi> 1863</date>-</p>
 <p>L Nall
 <lb/>Alf Nall
 <lb/>R P Nall
-<lb/>J G Horn
-<lb/>W. H. Nall
-<lb/>Remis Gibson
-<lb/>J. T Bentard
-<lb/>W E Davis
-<lb/>D S Hill Judge Ohio County Court
+<lb/>J. G. Horn
+<lb/>W H, Nall
+<lb/>Remus Gibson
+<lb/><hi rend="underline">J. T Bent<unclear/></hi>
+<lb/>W G,, Davis
+<lb/>D S Hill Judge Ohio County court
 <lb/>S Manzy
 <lb/>W<hi rend="sup">m</hi> Hardwick
-<lb/>Litus Bennett
+<lb/>Titus Bennett
 <lb/>Robert B Blevines
-<lb/>W. B. Robinson
+<lb/>W, B, Robinson
 <lb/>John Graham
-<lb/>John K Oglesbey
-<lb/>R. S. Moreley Clk Ohio Co Ct.
-<lb/>A. Woodward
-<lb/>Ed. B. Ellis
-<lb/>A. L. Morton Clk Ohio Cir Ct
-<lb/>W. H. Davidson D. C.
-<lb/>A B Bond Post. M
+<lb/>John K Oglisbey
+<lb/>R. S. Moreley Clk Ohio Co: Ct:
+<lb/>A, Woodward
+<lb/>Ed, B. Ellis
+<lb/>A, L, Morton Clk Ohio Cir Ct
+<lb/>W H. Davidson D. C,
+<lb/>A B Bond Post. M.
 <lb/>W H Miller</p>
   </body>
  </text>

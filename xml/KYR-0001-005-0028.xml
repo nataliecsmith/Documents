@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0028"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">M. H. Sandford to Thomas E. Bramlette</title>
+    <title level="a" type="main">W. H. Sandford to Thomas E. Bramlette</title>
     <title level="a" type="parallel">CWG0917</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,12 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Owenton Ky <date when="1864-04-24">Apl 24<hi rend="sup">th</hi>/64</date>
+   <p>Owenton Ky <date when="1864-04-24">Apl 24<hi rend="sup">th.</hi>/64</date>
 <lb/>Hon. Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E Bramlett
-<lb/>Dear Sir.</p>
-<p>Enclosed please find the indictment agst T. P. Herndon for murder at the suggestion of a lawyer of our place I have placed the seal of the Court upon it, thinking perhaps you may wish it used in another State -- Mr. Threckeld informs me that he has made an arrangement with David Cowder Esqr. Deputy Marshall of Owenton, to go after Herndon and desires me to recommend him to you as one suitable to be Entrusted with such business -- I am and have been for 15 or 20 years well acquainted with Mr. Cowder, and take great pleasure in recommending him as a Gentleman, and one who Can be relied upon to transact any business</p>
+<lb/>Dear. Sir.</p>
+<p>Enclosed please find the indictment agst T. P. Herndon for murder at the suggestion of a lawyer of our place I have placed the seal of the Court upon it, thinking perhaps you may wish it used in another State -- Mr. Threlkeld informs me that he has made an arrangement with David Cowder Esqr. Deputy Marshall of Owenton, to go after Herndon and desires me to recommend him to you as one suitable to be entrusted with such business -- I am and have been for 15 or 20 years well acquainted with Mr Cowder, and take great pleasure in recommending him as a Gentleman, and one who Can be relied upon to transact any business</p>
 <p>Resptly
-<lb/>W H Sandford Clk of <hi rend="underline">Owen Circuit Court</hi></p>
+<lb/>W H Sandford Clk of <hi rend="underline">Owen Circuit court</hi></p>
   </body>
  </text>
 </TEI>

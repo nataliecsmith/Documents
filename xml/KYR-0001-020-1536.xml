@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1536"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">George A. Garrett et al. to Beriah Magoffin</title>
+    <title level="a" type="main">George A. Garrett to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG11004</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Campbellsville, Taylor County, Kentucky</placeName>
     <date when="1861-11-04">4 November 1861</date>
    </creation>
    <textClass>
@@ -61,30 +63,30 @@
  <text>
   <body>
    <p>To <hi rend="str">t</hi>his Excellency Governor Magoffin</p>
-<p>Your petitioner George A Garrett States that at the <date when="1860-09">September Term 1860</date> a judgment was rendered against him on a forfeited bail bond as security for his son Ed Garrett for the sum of $300, the facts of the forfeiture were stated in a petition to your excellency a short time after the said judgment, that your excellency respited the said judgment for twelve months from the <date when="1860-10-16">16<hi rend="sup">th</hi> of Oct 1860.</date> Your petitioner states that said judgment is still unsettle except the costs &amp; officers fees, he states that it is a hard case to compell him to pay the same that he is poor and has a large family to support, that his son Ed Garrett is now <hi rend="str">in custody</hi> on bail and has been for the last eight months for the same charge but has not yet had a trial, that he was <hi rend="str">under</hi> forced to leave home and forfeit his bail in consequence of a mob that threatened to take his life, but after the danger of the mob was over returned to answer the charge,<pb/>
+<p>Your petitioner George A Garrett States that at the <date when="1860-09">September Term 1860</date> a judgment was rendered against him on a forfeited bail bond as security for his son Ed Garrett for the sum of &#36;300, the facts of the forfeiture were stated in a petition to your excellency a short time after the said judgment, that your excellency respited the said judgment for twelve months from the <date when="1860-10-16">16<hi rend="sup">th</hi> of Oct 1860.</date> Your petitioner states that said judgment is still unsettle except the costs &amp; officers fees, he states that it is a hard case to compell him to pay the same that he is poor and has a large family to support, that his son Ed Garrett is now <hi rend="str">in custody</hi> on bail and has been for the last eight months for the same charge but has not yet had a trial, that he was <hi rend="str">under</hi> forced to leave home and forfeit his bail in consequence of a mob that threatened to take his life, but after the danger of the mob was over returned to answer the charge,<pb/>
 <lb/>the petitioner prays that the said judgment be remitted and he will ever pray &amp;c</p>
 <p>Geo A Garrett</p>
 <p>Sworn to before the undersigned this <date when="1861-11-04">4<hi rend="sup">th</hi> of Nov 1861</date></p>
 <p><hi rend="underline">Geo. W. Montague clk</hi></p>
-<p>We join in the above prayer for a remission of the said judgement</p>
+<p>We join in the above prayer for a remission of the said judgment</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>R Fogle
 <lb/>Elias Wise
 <lb/>P. J. Benningfield
-<lb/>Jonathan Rafferty
+<lb/>Jonathn Rafferty
 <lb/>Benjamine Green
 <lb/>Robt Cave
-<lb/>C J Waller
+<lb/>C. J. Wallen
 <lb/>C D Butler
-<lb/>Tho<hi rend="sup">s</hi> Jarboe
+<lb/>Tho<hi rend="sup">s</hi>. Jarboe
 <lb/>W<hi rend="sup">m</hi> Collins
 <lb/>John M<hi rend="sup">c</hi>Whorter
 <lb/>M O. Robinson
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Dearen
-<lb/>A. H. Buchanan
-<lb/>John A. Allen
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. T. Martin
+<lb/>A H. Buchanon
+<lb/>John. A. Allen
+<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> T. Martin
 <lb/>J. N. Turner
-<lb/>H. G. Dearen
+<lb/>H, G, Dearen
 <lb/>B. F. Turner
 <lb/>A. F. Gowdy
 <lb/>Joseph Williams 
@@ -94,51 +96,52 @@
 <lb/><cb n="2"/>E L Barbee
 <lb/>Geo. W. Montague
 <lb/>W<hi rend="sup">m</hi> Cloyd
-<lb/>Rizen Spurling
-<lb/>J. B. M<hi rend="sup">c</hi>whorter
+<lb/><unclear>Rizen</unclear> Spurling
+<lb/>J. B M<hi rend="sup">c</hi>whorter
 <lb/>J T B Nelson
-<lb/><hi rend="underline">J. R. Robinson</hi>
+<lb/><hi rend="underline">J, R, Robinson</hi>
 <lb/>R Davis
 <lb/>John R Barbee
-<lb/>W. Hoskins
+<lb/>W, Hoskins
 <lb/>E A Crouch
-<lb/>Robert Calvin
+<lb/>Robert Colvin
 <lb/>Geo J Edrington
 <lb/>John Bottom
 <lb/>E T Sanders
 <lb/>S A Wise
-<lb/>Abel Wright
-<lb/>F. Sanders
-<lb/>W. D. Hoskins
+<lb/>Abel, Wright
+<lb/>F, Sanders
+<lb/>W, D. Hoskins
 <lb/>H J Calvin
 <lb/>T. E. Calvin
 <lb/>W<hi rend="sup">m</hi> F. Chandler<pb/>
-<lb/><cb n="1"/><unclear/> mann
+<lb/><cb n="1"/><unclear>O F</unclear> mann
 <lb/>J C Samens
-<lb/>Wm. Fawcett
-<lb/>Louie Bowan
+<lb/>W<hi rend="sup">m</hi>. Fawcett
+<lb/>David Bowan
 <lb/>J P Davis
 <lb/>J Richeson
 <lb/>B F Spurling
 <lb/>Jno H Chandler
 <lb/>Jno Wrights
 <lb/>W B Scroggy
-<lb/><cb n="2"/>M W <unclear/>
+<lb/><cb n="2"/>M W <unclear>S</unclear>ure
 <lb/>T J Scott
 <lb/>A. <unclear>Orr</unclear>
-<lb/>S. O. White
-<lb/>Francis M. Taylor
+<lb/>S. O, <hi rend="str">M</hi>White
+<lb/>Francis M, Taylor
 <lb/>G W Ridenour
 <lb/>A. Haselwood
 <lb/>J. D. Williams<milestone unit="column" n="1"/><pb/></p>
-<p>Geo A Garrett Petition
+<p>Geo A Garrett 
+<lb/>Petition
 <lb/>Taylor Cir. Ct<figure type="hr"/></p>
 <p>Remitted
-<lb/>B. M. </p>
-<p>Post Office
+<lb/>B. M </p>
+<p>Post office
 <lb/>Campbellsville
-<lb/>Taylor Co. Ky -- 
-<lb/>$<hi rend="str"><unclear/></hi>300, } Recg
+<lb/>Taylor co. Ky-
+<lb/>&#36;<hi rend="str"><unclear/></hi>300, &#125; Recog
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-12-18">Dec<hi rend="sup">r</hi> 18. 1861</date></p>
   </body>
  </text>

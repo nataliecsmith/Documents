@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0117"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -67,10 +62,10 @@
  </teiHeader>
  <text>
   <body>
-   <p><date when="1863-09-29">Sept 29<hi rend="sup">th</hi> 1863</date>.
-<lb/>To the <persName ref="cwgk:N001000">Governor of Kentucky</persName>, -- </p>
-<p><persName ref="cwgk:N00000330">Mr F. Gorin</persName> will be indicted at the next term of our Criminal Court for willful shooting with intent to kill. I was shot by him and should he be convicted I hope he will be pardoned immediately. I have not spoken to Mr Gorin since the difficulty but believeing he was under the influence of liquor and also under the influence of great popular excitement caused by the raid of Gen<hi rend="sup">l</hi> Morgan together with remarks made by me in response to remarks he made to me I am satisfied he ought to be pardoned if convicted.</p>
-<p><persName ref="cwgk:N00000770">W. C. Wood</persName></p>
+   <p><date when="1863-09-29">Sept 29<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>.
+<lb/>To the Governor of Kentucky. -- </p>
+<p>Mr F. Gorin will be indicted at the next term of our Criminal Court for willful shooting with intent to kill -- I was shot by him and should he be convicted I hope he will be pardoned immediately. -- I have not spoken to Mr Gorin since the difficulty but believeing he was under the influence of liquor and also under the influence of great popular excitement caused by the raid of Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Morgan -- together with remarks made by me in responce to remarks he made to me I am satisfied he ought to be pardoned if convicted, -- </p>
+<p>W. C. Wood</p>
   </body>
  </text>
 </TEI>

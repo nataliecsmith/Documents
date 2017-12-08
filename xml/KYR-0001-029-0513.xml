@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0513"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -56,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Frankfort, Franklin County, Kentucky</placeName>
     <date when="1863-08-14">14 August 1863</date>
    </creation>
    <textClass>
@@ -68,12 +62,14 @@
  </teiHeader>
  <text>
   <body>
-   <p><persName ref="cwgk:N00000465">W. E. Ashbrook</persName><lb/>Sheriff <orgName ref="cwgk:O00000645">Kenton County</orgName><lb/>Rev <date when="1860">1860</date></p>
+   <p>W. E. Ashbrook
+<lb/>Sheriff Kenton County
+<lb/>Rev <date when="1860">1860</date></p>
 <p><table rend="rules">
 <row>
 	<cell>Amt of Judgment for</cell>
 	<cell>Princp</cell>
-	<cell>$4.990.90</cell>
+	<cell>&#36;4.990.90</cell>
 </row>
 <row>
 	<cell>" " " "</cell>
@@ -86,17 +82,17 @@
 	<cell>7.55</cell>
 </row>
 </table></p>
-<p>Principal Interest and costs paid in full -- </p>
+<p>Principal Interest and costs <hi rend="underline">p</hi>aid in full -- </p>
 <p>Att Grant Green
-<lb/><hi rend="underline">Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi>
-<lb/><date when="1863-08-14">Aug 14 1863</date>
-<lb/>Damages Remitted
+<lb/><hi rend="underline">Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi></p>
+<p><date when="1863-08-14">Aug 14 1863</date><figure type="hr"/></p>
+<p>Damages Remitted
 <lb/>J F Robinson<pb/></p>
-<p><orgName ref="cwgk:O00000376">Franklin Cir. Ct</orgName><lb/>$998.18 } Damages
+<p>Franklin Cir. Ct
+<lb/>&#36;998.18 &#125; Damages
 <lb/>W. E Ashbrook
 <lb/>Shff of Kenton
-<lb/>Remission Iss<hi rend="sup">d</hi>
-<lb/><date when="1863-08-14">Aug 14. 1863</date></p>
+<lb/>Remission Iss<hi rend="sup">d</hi> <date when="1863-08-14">Aug 14. 1863</date></p>
   </body>
  </text>
 </TEI>

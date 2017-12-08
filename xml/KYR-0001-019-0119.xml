@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0119"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -63,11 +66,11 @@
    <p>Frankfort Ky
 <lb/>Executive Dept
 <lb/><date when="1861-08-20">Aug 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
-<lb/>Genl. W. T. Withers
+<lb/>Genl W. T. Withers
 <lb/>Commanding at Camp Boone
-<lb/>Near Clarksville Tenn -- </p>
-<p>Sir, The bearer of this letter. Mr J. D. White who has charge of the Arsenal and arms at this place, is fully authorized by me to identify, demand and receive any arms in your Camp or under your control belonging to the State of Kentucky. I was gratified to learn this morning through a lettter from M<hi rend="underline"><hi rend="sup">r</hi></hi> Guthrie the President of Louisville and Nashville Railroad Company that you had given M<hi rend="underline"><hi rend="sup">r</hi></hi> W. W. Frazer thier agent, assurances, that whenever an authorized agent from the State of Ky, came prepared to proove the guns at Camp Boone, were the property of the State, they would be immediatley given up.</p>
-<p>Respectfully &amp; truly your obt svt
+<lb/>Near Clarksville Tenn. -- </p>
+<p>Sir, The bearer of this letter. Mr J. D. White who has charge of the Arsenal and arms at this place,, is fully authorized by me to identify, demand and receive any arms in your Camp or under your control, belonging to the State of Kentucky. I was gratified to learn this morning through a lettter from M<hi rend="underline"><hi rend="sup">r</hi></hi> Guthrie the President of the Louisville and Nashville Railroad Company that you had given M<hi rend="underline"><hi rend="sup">r</hi></hi> W. W. Frazer thier agent, assurances, that whenever an authorized agent from the State of Ky, came prepared to proove the guns at Camp Boone, were the property of the State, they would be immediatley given up.</p>
+<p>Resptfully &amp; truly your obt sert
 <lb/>B. Magoffin</p>
   </body>
  </text>

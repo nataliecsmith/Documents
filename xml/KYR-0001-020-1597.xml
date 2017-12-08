@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1597"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Mason County, Kentucky</placeName>
     <date>n.d.</date>
    </creation>
    <textClass>
@@ -65,13 +67,15 @@
 <p>To the Indictment therefore, he plead guilty but at the time he committed the offense he did not know the same was forbidden by law -- He is poor, having a family to support and driving a Dray in the City of Maysville for livelihood, the payment of the fine would be a great hardship upon him and detract in these times greatly from his means of support, he most respectfully prays you to remit said fine its infliction <hi rend="str">being</hi> indeed being to him a salutary admonition for the future to beware</p>
 <p>James Hasson<pb/></p>
 <p>Mason Cir. Ct
-<lb/>James Harson's Petition.<figure type="hr"/></p>
+<lb/>James Hasson's Petition,<figure type="hr"/></p>
 <p>Respite 12 mo
-<lb/>B.M</p>
-<p>$20. } Selling liquor</p>
-<p>Sec. State: If remitted, please hand remitter to 
+<lb/>B. M</p>
+<p>&#36;20. &#125; selling liquor</p>
+<p>Sec. State: </p>
+<p>If remitted, please hand remitter to
+<lb/> 
 <lb/>John L. Scott.</p>
-<p>Iss<hi rend="sup">d</hi> <date when="1861-12-09">Dec<hi rend="sup">r</hi>. 9. 1861</date></p>
+<p>Iss<hi rend="sup">d</hi> <date when="1861-12-09">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 9. 1861</date></p>
   </body>
  </text>
 </TEI>

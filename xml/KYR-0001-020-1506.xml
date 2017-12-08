@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1506"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -48,7 +51,6 @@
   </fileDesc>
   <profileDesc>
    <creation>
-    <placeName>Breckinridge County, Kentucky</placeName>
     <date when="1861-11-21">21 November 1861</date>
    </creation>
    <textClass>
@@ -60,11 +62,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Jno. T. Barber states that he lives about 3 miles from Margolyes Tavern. that I have been there several times and never saw any thing on the rowdy order. I was there when Margolyes was raising a stable and was there after it was raised I never heard of any dissatisfaction by any body against Margolyes as a tavern keeper</p>
+   <p>Jno. T. Barber states that he lives about 3 miles from Margolyes Tavern. that I have been there several times and never saw any thing on the rowdy order. I was there when Margolyes was raising a stable and was there after it was raised I never heard of any dissatisfaction by any body against Margolyes as a tavern Keeper</p>
 <p>Given under my hand this <date when="1861-11-21">21<hi rend="sup">st</hi> Nov 1861</date></p>
 <p>John T Barber</p>
-<p>Sworn to before me this <date when="1861-11-21">2<hi rend="str">0</hi>1<hi rend="sup">st</hi> November 1861</date></p>
-<p>Edward Pate J. P. B. C.</p>
+<p>Sworn to before me this <date when="1861-11-21">21<hi rend="sup">st</hi> November 1861</date></p>
+<p>Edward Pate J, P, B, C</p>
   </body>
  </text>
 </TEI>

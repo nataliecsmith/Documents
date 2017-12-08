@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0079"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,32 +63,31 @@
  </teiHeader>
  <text>
   <body>
-   <p>Headquarters 65<hi rend="sup">th</hi> Ky. E. M.
-<lb/>Louis Ky. <date when="1864-06-07">June 7" 1864</date>
-<lb/>Thos. E Bramlitt.. Gov<hi rend="sup">r</hi>
+   <p>Headquarters 65<hi rend="sup">th</hi> Ky, E, M,
+<lb/>Louis Ky, <date when="1864-06-07">June 7" 1864</date>
+<lb/>Tho<hi rend="sup">s</hi>. E Bramlitt,, Gov<hi rend="underline"><hi rend="sup">r</hi></hi>
 <lb/>Frankfort Ky</p>
-<p>Dear Sir, There has occured a vacancy in the office of Lieutenant Colonel of the 65<hi rend="sup">th</hi> Ky. Enrolled Malitia. by the former incumbent Joining the united states army. And accepting a position in the Quartermasters Department. We are ^now^ in the active Service and have no Lt Collonel I therefore recommend (George W Brown, as a suitable person to fill Said position whose appointment dates the <date when="1864-05-26">26<hi rend="underline"><hi rend="sup">th</hi></hi> of May 1864 -- </date></p>
-<p>I have appointed Wiley W Howes, adjutant of the 65<hi rend="underline"><hi rend="sup">th</hi></hi> and recommend that he be commisioned, to have date from <date when="1864-05-26">26" of May 1864</date></p>
-<p>I have also appointed James Nibert Quartermaster and recommend that he be commisioned to have date the <date when="1864-05-31">31<hi rend="sup">st</hi> of May, 1864.</date></p>
-<p>I also recommend H. S. Sweatman to be commisioned as surgeon<pb/>
-<lb/>of the 65<hi rend="sup">th</hi> E. M. whose appointment <unclear/> date <date when="1864-05-26">26" of May 1864.</date> all of the <unclear/> moniness are now in the active Service &amp; performing the duties of their serveral offices.</p>
-<p>I suppose the Quartermaster will have to Execute bond. If so send form of bond &amp; amount to be Executed I have appointed a Paymaster, but and at a loss to know whether or not there is such an officer for the regiment being in the united States service for the present, inform me on the subject.<hi rend="sup">s</hi></p>
-<p>On the <date when="1864-02-27">27" of February 1864</date> the malitia of Johnson Co. was organized under me as their Collonel and Captins and Lieutenants Elected for the various companies- and the certificates of their Elections wrote out and forwarded to you, but as yet there has been no commisions received- I would like to know, If they have been forwarded If not pleas forward<hi rend="str">ed</hi> them,<pb/>
-<lb/>Any communication you may have for our regiment direct to care of the Post Commander at this place.</p>
+<p>Dear Sir, There has occured a vacancy, in the office of Lieutenant Colonel of the 65<hi rend="underline"><hi rend="sup">th</hi></hi> Ky, Enrolled Malitia. by the former incumbent Joining the united states army, And accepting a position in the Quartermasters Department; We are ^now^ in the active Service and have no Lt Collonel I therefore recommend George W Brown, as a suitable person to fill Said position. whose appointment dates the <date when="1864-05-26">26<hi rend="underline"><hi rend="sup">th</hi></hi> of may 1864 -- </date></p>
+<p>I have, appointed Wiley W Howes, adjutant of the 65<hi rend="underline"><hi rend="sup">th</hi></hi> and recommend that he be commisioned, to have date from <date when="1864-05-26">26" of may 1864</date></p>
+<p>I have also appointed James Nibert Quartermaster and recommend that he be commisioined to bare date the <date when="1864-05-31">31<hi rend="sup">st</hi> of May, 1864,</date></p>
+<p>I also recommend H. S. Sweatnam to be commisioined as surgeon<pb/>
+<lb/>of the 65<hi rend="sup">th</hi> E M whose appaintment hous date <date when="1864-05-26">26" of May 1864,</date> all of the abov, nominees are now in the active Service, &amp; performing the duties of their serveral offices,</p>
+<p>I suppose the Quartermaster will have to Execute bond. If so send form of bond, &amp; amount to be Executed I have appointed a Paymaster, but am at a loss to know whether or not their is such an officer for the regiment being in the united States service for the present, inform me on the subject.<hi rend="sup">s</hi></p>
+<p>On the <date when="1864-02-27">27" of February 1864</date> the malitia of Johnson Co, was organized under me as their Collonel= and Captins and Lieutenants Elected for the various companies- and the certificates of their Elections wrote out and forwarded to you, but as yet there has been no commisions received- I would like to know, If they have been forwarded If, not pleas forward<hi rend="str">ed</hi> them,<pb/></p>
+<p>Any communication you may have for our regement direct to care of the Post Commander. at this place.</p>
 <p>I am verry Respectfully yours
 <lb/>Respt yours
 <lb/>Burgess Preston Col.
-<lb/>65<hi rend="sup">th</hi> Regt. Ky. E. M<pb/></p>
-<p>65
-<lb/>Ky State Militia
-<lb/>Louisa Lawrence Co Ky
-<lb/><date when="1864-06-07">June 7, 1864</date><figure type="hr"/>
+<lb/>65<hi rend="sup">th</hi> Reg<hi rend="underline"><hi rend="sup">t</hi></hi> Ky, E, M<pb/></p>
+<p>Ky State Militia
+<lb/>Louisa. Lawrence Co Ky
+<lb/><date when="1864-06-07">June 7- 1864</date><figure type="hr"/>
 <lb/>Preston Burgess Col. Comdg
 <lb/>65th E. M. <hi rend="underline">Johnston</hi> Co<figure type="hr"/></p>
-<p>Recommends George W. Brown for Lieut Col vice -- who have joind the U. S. Service- Has appointed various Staff officers- wants to know if he is entitled to a P. M. and if his Q. M. will have to execute bond &amp;c.</p>
-<p>On the <date when="1864-02-27">27<hi rend="sup">th</hi> February/64</date> he sent election returns but the officers elected have not yet recd their com<hi rend="sup">ms</hi> &amp;c<figure type="hr"/>
-<lb/>Ans. <date when="1864-06-21">June 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1864</date> on letter book Page 424. and coms &amp; duplicate co<hi rend="underline"><hi rend="sup">ms</hi></hi> ordered &amp; forwarded to the place &amp; con requested<figure type="hr"/>
-<lb/>Rec. I. G. O. <date when="1864-06-18">June 18. 1864</date></p>
+<p>Recommends George W. Brown for Lieut Col vice <gap/> who has joind the U. S. service- Has appointed various Staff officers- wants to know if he is entitled to a P. M. and if his Q. M. will have to execute bond &amp;c.</p>
+<p>On the <date when="1864-02-27">27<hi rend="sup">th</hi> February'/64</date> he sent election returns, but the officers elected have not yet recd their comms &amp;c<figure type="hr"/>
+<lb/>Ans. <date when="1864-06-21">June 2<hi rend="str">2</hi>1<hi rend="underline"><hi rend="sup">st</hi></hi> 1864.</date> on letter book Page 424. and coms &amp; duplicate coms ordered &amp; forwarded to the place &amp; care requested<figure type="hr"/>
+<lb/>Rec. I. G. O. <date when="1864-06-18">June 18- 1864</date></p>
   </body>
  </text>
 </TEI>

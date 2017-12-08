@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0103"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,18 +63,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>Owensboro Ky <date when="1861-07-23">July 23<hi rend="sup">d</hi> 61</date>.
+   <p>Owensboro Ky <date when="1861-07-23">July 23<hi rend="sup">rd</hi> 61.</date>
 <lb/>Gov Magoffin
 <lb/>Dear Sir.</p>
-<p>We have ^a^ military company in this place which were recently mustered into the Ky State Guard. Mr. Millett our Capt. has just returned from your City without any assurance of obtaining arms. The Company are quite anxious to render you any assistance in their power and will fly to your rescue at any point should your situation ever require it.</p>
-<p>We find some difaculty in keeping our men together with so little prospects of getting arms. together with the rumor of Gen Buckners resignation and the strong inclination on the part of many of them to go to T<hi rend="underline">enn</hi><pb/>
-<lb/>Please let me hear from you immediately with such information as you have in regard to our getting arms. If there is no chance "we are off for Tennessee."</p>
-<p><unclear/> ^You will pardon^ me for this intrusion
-<lb/>I am verry Respectfully
-<lb/>T. H. Winstead
+<p>We have ^a^ mil<hi rend="str">a</hi>itary company in this place which were recently mustered into the Ky State Guard. Mr Millett our Capt. has just returned from your City without any assurance of obtaining arms. The Company are quite anxious to render you any assistance in their power. and will fly to your rescue at any point should your situation ever require it.</p>
+<p>We find some difaculty in keeping our men together. with so little prospects of getting arms. together with the rumor of Gen Buckners resignation. and the strong inclination on the part of many of them to go to <hi rend="underline">Tenn</hi><pb/>
+<lb/>Please let me hear from you imideately. with such information as you have in regard to our getting arms. If there is no chance "we are off for Tennessee."</p>
+<p>Hoping ^you will pardon^ me for this intrusion
+<lb/>I am verry Respectfully</p>
+<p>T. H. Winstead
 <lb/><hi rend="underline">Owensboro Ky</hi><pb/></p>
 <p>Home Guard
-<lb/>Answ<hi rend="sup">d</hi></p>
+<lb/>answ<hi rend="sup">d</hi></p>
   </body>
  </text>
 </TEI>

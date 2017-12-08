@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0126"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -66,12 +69,12 @@
 <lb/>Thos. E. Bramblett
 <lb/>Governor of Kentucky
 <lb/>Sir</p>
-<p>Jesse and David Underwood have been indicted in the Bath Circuit Court for the murder of Geo. A. Trumbo in the county of Bath on <gap/> day of <date when="1865-09">Sept 1865</date> and as the Presiding Judge of the County of Bath I petition your <hi rend="str">e</hi>Excellency to offer a reward for the apprehension of the said Jesse &amp; David Underwood and their delivery to the Jailor of Bath County<pb/>
+<p>Jesse and David Underwood have been indicted in the Bath Circuit court for the Murder of Geo. A. Trumbo in the county of Bath on <gap/> day of <date when="1865-09">Sept 1865</date> and as the Presiding Judge of the County of Bath I petition your <hi rend="str">e</hi>Excellency to offer a reward for the apprehension of the said Jessee &amp; David Underwood and their delivry to the Jailor of Bath County<pb/>
 <lb/>in accordance with the statutes in such cases made and provided</p>
 <p>Respectfuly yous
 <lb/>L B Hamilton
 <lb/>Presiding Judge Bath Conty<pb/></p>
-<p>Reward $500. for Jesse &amp; David Underwood for the murder of Geo<hi rend="sup">r</hi> A. Trumbo
+<p>Reward &#36;500, for Jesse &amp; David Underwood for the murder of Geo' A, Trumbo
 <lb/>offered <date when="1865-12-26">26<hi rend="sup">th</hi> Dec 1865</date></p>
   </body>
  </text>

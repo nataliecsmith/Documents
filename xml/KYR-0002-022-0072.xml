@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0072"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Matthew C Hulbert</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,15 +63,15 @@
  <text>
   <body>
    <p>this <date when="1864-06-18">June 18th/64</date>
-<lb/>Mr Thomas.E. Bramlett</p>
-<p>Dear Sir the Commission Sent to me for third Leiutenant was in the name of James Black in Sted of Amos Black the latter Being the proper name to whom you Can forward the Commission at your Leisure and Direct to Amos Black yours truly<pb/></p>
-<p>58
-<lb/>58<hi rend="sup">th</hi> regt K E M
-<lb/>Jackson &amp; Laurel Co
+<lb/>Mr Thomas. E. Bramlett</p>
+<p>Dear sir the Commission sent to me for third Leiutenant was in the name of James Black in stid of Amos Black the latter Being the proper name to whom you Can forward the Commission at your Leisure and Direct to Amos Black </p>
+<p>yours truly<pb/></p>
+<p>58<hi rend="sup">th</hi> regt K E M
+<lb/>Jackson &amp; Laurel co
 <lb/><date when="1864-06-18">June 18<hi rend="sup">th</hi> 1864</date><figure type="hr"/>
-<lb/>Black, Amos.<figure type="hr"/>
-<lb/>Informs the Govr that the comsn sent him was to James instead of Amos Black. Desires it corrected<figure type="hr"/>
-<lb/>comsn returned to adgt Genls office and correction ord'd to be made<figure type="hr"/>
+<lb/>Black, Amos.<figure type="hr"/></p>
+<p>Informs the Govr that the coms'n sent him was to James instead of Amos Black. Desires it corrected<figure type="hr"/></p>
+<p>coms'n returned to adgt Genls office and correction ord'd to be made<figure type="hr"/>
 <lb/>Recd I. G. O. <date when="1864-06-28">June 28<hi rend="sup">th</hi> 1864</date></p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0016"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Patrick A. Lewis</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -67,11 +62,10 @@
  </teiHeader>
  <text>
   <body>
-   <p><orgName ref="cwgk:O00000676">Perry Co</orgName><lb/>J. P.
-<lb/>Dist No
-<lb/>4 &amp; 6
-<lb/>offc. Com<hi rend="sup">d</hi>
-<lb/><date when="1860-11-23">Nov. 23. 1860</date></p>
+   <p>Perry Co
+<lb/>J. P..
+<lb/>Dist No 4 &amp; 6
+<lb/>offc. Com<hi rend="sup">d</hi> <date when="1860-11-23">Nov. 23. 1860</date></p>
   </body>
  </text>
 </TEI>

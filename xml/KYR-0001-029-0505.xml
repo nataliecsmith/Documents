@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0505"> 
  <teiHeader>
   <fileDesc>
@@ -16,15 +16,11 @@
     <respStmt>
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
-    </respStmt><respStmt>
-<resp n="reviewed">Fact checked by</resp>
-<name>Anthony P. Curtis</name>
-</respStmt>
-<respStmt>
-<resp n="needs_review">Annotated by</resp>
-<name>Hannah M. O'Daniel</name>
-</respStmt>
-
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -35,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -57,7 +52,7 @@
   <profileDesc>
    <creation>
     <placeName>Laurel County, Kentucky</placeName>
-    <date when="1863-08-24">24 August 1863</date>
+    <date>n.d.</date>
    </creation>
    <textClass>
     <keywords>
@@ -68,25 +63,28 @@
  </teiHeader>
  <text>
   <body>
-   <p><persName ref="cwgk:N001004">His Excellency the Governor</persName> of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
-<p>The undersigned <persName ref="cwgk:N00000953">W. A Aikman</persName> Respectfully represents that at present <date when="--08">August</date> Term of the <orgName ref="cwgk:O00000415">Laurel Circuit Court</orgName> he was fined $20. for gaming, He says he is not a gambler but merely played the game with some acquaintances and friends and then was some small amount but, he is a citizen of <placeName ref="cwgk:P00005970">London Ky</placeName>, has a family to support, and makes his living by blacksmithing &amp; not by gaming,, He thinks the costs of the proceeding under the circumstances would be a sufficent penalty, He made no defense, plead guilty, and now throws himself on the clemency of the Executive.</p>
-<p>W. A. Aikman</p>
+   <p>His Excellency the Governer of Kentucky</p>
+<p>The undersigned W. A Aikman Respectfully represents that at present <date when="--08">August Term</date> of the Laurel Circuit Court he was fined &#36;20. for gaming, He says he is not a gambler, but merely played the game with some acquaintances and friends and there was some small amount but, he is a citizen of London Ky has a family to support, and makes his living by blacksmithing &amp; not by gaming,, He thinks the costs of the proceeding under the circumstances would be a sufficent penalty,</p>
+<p>He made no defense, plead guilty, and now throws himself on the clemency of <hi rend="str">of</hi>the Executive</p>
+<p>w. A. Aikman</p>
 <p>I am well acquainted with the petitioner, who is a citizen of our Town, an industrious blacksmith, a poor man with a family to support &amp; I hope your Excellency will remit the fine against him</p>
-<p><persName ref="cwgk:N00000824">W H Randall</persName><pb/></p>
+<p>W H Randall<pb/></p>
 <p>London
 <lb/><date when="1863-08-24">Aug 24<hi rend="sup">th</hi> 1863</date>
-<lb/>Gov.</p>
-<p>I am acquainted with the petition and the case and believe that the fine ought to be remited</p>
+<lb/>Gov</p>
+<p>I am acquainted with the petitioner and the case and believe that the fine ought to be remited</p>
 <p>Yours Respt
-<lb/><persName ref="cwgk:N00002711">Granville Pearl
-</persName><lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> J. Canissall Presiding Judge of the <orgName ref="cwgk:O00000650">Laurel County Court</orgName><lb/><persName ref="cwgk:N00000952">N. B. Jones</persName><lb/>
-<persName ref="cwgk:N00000954">W. H. C. Thompson</persName><lb/><persName ref="cwgk:N00007330">J. Q. A. Sproud</persName><pb/></p>
+<lb/>Granville Pearl
+<lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> J. Canifax Presiding Judge of the Laurel County court
+<lb/>N. B. Jones
+<lb/><hi rend="underline">W. H. H. Thompson</hi>
+<lb/><hi rend="underline">J.</hi> <hi rend="underline">Q. A.</hi> <hi rend="underline">Sproul</hi><pb/></p>
 <p>Laurel Cir. Ct
-<lb/>$20. } Gaming
-<lb/>W. A Aikman
-<lb/>Fine remitted
+<lb/>&#36;20. &#125; Gaming
+<lb/>W. A Aikman</p>
+<p>Fine remitted
 <lb/>J F Robinson
-<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-08-29">Aug 29. 1863</date></p>
+<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi>. <date when="1863-08-29">Aug 29. 1863</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-027-0037"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Patrick A Lewis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,11 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Columbus Ohio <date when="1862-09-07">Sep 7. 1862</date>
-<lb/>Hon J. F. Robinson</p>
-<p>My Bro. J. R. Smith recvd. a commission for 2nd Lieutenancy in 32d Reg<hi rend="sup">t</hi> -- Ky V. -- ^for recruiting^ <hi rend="str">a</hi>At the Battle of Cynthiana, on <date when="1862-07-17">17th of July last</date> he was taken prisoner, &amp; at the time was acting adjt to my battalion, and paroled by Morgan as a Lieutenant -- </p>
-<p>He stopped recruiting believing it to be a violation of his parole, after having recruited 14 men for 32<hi rend="underline"><hi rend="sup">nd</hi></hi> &amp; over <hi rend="str">2</hi>30 for 7th cavly prior to his having recd commission for recruiting -- My Bro. is here for exchange -- he has done a great deal for the cause, fought well at Cynthiana -- He and my family are exiles &amp; beggers -- and I ask that his commission be confirmed by you -- when exchanged he will immediately report to you in Ky -- I am here by adj Gel. Thomas order, awaiting my exchange, which I think is being<pb/>
-<lb/>forwarded -- Please answer my request &amp; direct to me at Camp Chase. Ohio. ^Major^ Comdg 2nd Regt of P. P. -- </p>
+   <p>Columbus Ohio <date when="1862-09-07">Sep 7, 1862</date>
+<lb/>Hon J, F. Robinson</p>
+<p>My Bro. J. R, Smith recvd. a commission for 2nd Lieutenancy in 32d Reg<hi rend="sup">t</hi>--Ky V,--^for recruiting--^ <hi rend="str">a</hi>At the Battle of Cynthiana, on <date when="1862-07-17">17th of July last</date> he was taken prisoner, &amp; at The time was acting adjt to my battalion, and paroled by Morgan as a Lieutenant -- </p>
+<p>He stopped recruiting <hi rend="str"><unclear/></hi>believing it to be a violation of his parole, after having recruited 14 men for 32<hi rend="underline"><hi rend="sup">nd</hi></hi> &amp; over <hi rend="str">2</hi>30 for 7th Cavly prior to his having recd -- commission for recruiting -- My Bro. is here for exchange -- he has done a great deal for the cause, fought well at Cynthiana-- He and my family are exiles &amp; beggers-- and I ask that his commission be confirmed by your -- when exchanged he will immediately report to you in Ky -- I am here by adj Gel. Thomas order, awaiting my exchange, which I think is being<pb/>
+<lb/>favored -- Please answer my request &amp; direct to me -- at Camp Chase. Ohio-- ^Major^ Comdg 2nd Regt. of P, P, -- </p>
 <p>W. O. Smith</p>
 <p>W. O. Smith</p>
   </body>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0112"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,22 +63,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>Irvine Estill Co Ky
+   <p>Irvine Estill Co. Ky
 <lb/><date when="1865-11-06">Nov 6<hi rend="sup">th</hi> 1865</date>
 <lb/>To his Excellency
 <lb/>The Gov of Ky.</p>
-<p>Whereas on the <date when="1865-10-30">30<hi rend="sup">th</hi> day of Oct 1865</date>. John and Robert Wiseman of the County of Estill State of Ky did maliciously Shoot and Kill <hi rend="str">Allen</hi> ^Claiborne^ Witt, of Said County, and are now running at large: I do respectfully ask your excellency to offer the lawful reward for the apprehension of Said parties &amp; for their delivery to the civil Authorities of Said County -- </p>
-<p>E L Cockrill J. E. C. C.</p>
+<p>Whereas on the <date when="1865-10-30">30<hi rend="sup">th</hi> day of Oct 1865</date> John and Robert Wiseman of the County of Estill State of Ky, did Maliciously Shoot and Kill <hi rend="str">Allen</hi> ^Claiborne^ Witt, of Said County, and are now running at large: &amp; I do respectfully ask your excellency to offer the lawful reward for the apprehension of Said parties &amp; for their delivery to the civil authorities of Said County --.</p>
+<p>E L Cockrill J. E. C. C</p>
 <p>Description of John Wiseman.</p>
-<p>Height about 5 ^ft^ 6^in^, Weight 135 ^lbs^ Dark Complexion. blue eyes dark hair. round shouldered, low Leged -- Scar on one of his breasts where he is supposed to have been shot. is about 34 or 5 years old.</p>
+<p>Height about 5<hi rend="sup">ft</hi> 6,<hi rend="sup">in</hi> Weight 135<hi rend="sup">lbs</hi> Dark Complexion, blue eyes dark hair. round shouldered, bow Leged -- Scar on one of his breasts where he is supposed to have been shot. is about 34 or 5 years old.</p>
 <p>Description of Robt Wiseman.</p>
-<p>Age about 33 years. Height about 6 feet Weight 165 or 70<hi rend="underline"><hi rend="sup">lbs</hi></hi> bow leged ^rather^ Dark Complexion. dark hair. blue eyes. Scar as large as the palm of a hand on the right thigh made by a burn -- </p>
-<p>E.L Cockrill J. E. C C.<pb/></p>
-<p>$250. each</p>
+<p>Age about 33 years. Height about 6 feet Weight 165 or 70<hi rend="underline"><hi rend="sup">lbs</hi></hi> bow leged ^rather^ Dark Complexion. dark hair, blue eyes. Scar as large as the palm of a hand on the right thigh made by a burn-</p>
+<p>E. L Cokrill J. E C C,<pb/></p>
 <p>Estill Co
 <lb/>Reward
-<lb/>$500. for John &amp; Robt Wiseman for the murder of Clayton Witt
+<lb/>&#36;500, for John &amp; Robt Wiseman for the Murder of Clayton Witt
 <lb/><date when="1865-11-08">8<hi rend="sup">th</hi> Nov 1865</date></p>
+<p>&#36;250, each</p>
   </body>
  </text>
 </TEI>

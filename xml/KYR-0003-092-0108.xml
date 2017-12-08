@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0108"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">George W. Johnson to Anne E. V. Johnson</title>
+    <title level="a" type="main">George W. Johnson to Ann E. V. Johnson</title>
     <title level="a" type="parallel">CWG14400</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -61,14 +64,14 @@
  <text>
   <body>
    <p>Louisville Ky
-<lb/><date when="1861-07-08">July, 8..1861</date>.
+<lb/><date when="1861-07-08"><hi rend="str">Jun</hi>July, 8, 1861</date>.
 <lb/>My Dear Ann</p>
-<p>I have been run nearly to death since I got here, and have time now only to write you a few lines -- I think for several reasons for my sons, myself and our camp that I had better go on with <unclear>them</unclear> to Richmond, from which I can return in a very short time. Rest assured I shall be in no danger what ever -- </p>
-<p>My Dear Ann, I hope you will <unclear>improve</unclear> the <unclear>time</unclear> of my absence, to renovate yourself, by cheerful <unclear>excrcis</unclear> and enjoyment with your friends -- Stay a great deal with Eliza. <unclear/> ^must^ <hi rend="str">my</hi> remind my little boys of me daily, and may God Almighty, bless and preserve you</p>
-<p>Yours affectionate Husband
-<lb/>George W. Johnson</p>
-<p>I will arrange to write you from Richmond
-<lb/></p>
+<p>I have been run nearly to death since I got here, and have time now only to write you a few lines -- I think for several reasons for my sons, myself and our cause that I had better go on with them to Richmond, from which I can return in a very short time. Rest assured I shall be in no danger what ever -- </p>
+<p>My Dear Anne, I hope you will improve the time of my absence, to renovate yourself, by cheerful excrcis -- and enjoyment with your Friends -- Stay a great deal with Eliza. <hi rend="str"><unclear/></hi><unclear>Now</unclear> ^must^ <hi rend="str">my</hi> remind my little boys of me daily, and may God <hi rend="str">a</hi>Almighty, bless and preserve you</p>
+<p>Yours affectionate
+<lb/>Husband.
+<lb/>George W Johnson</p>
+<p>I will arrange to write you from Richmond</p>
   </body>
  </text>
 </TEI>

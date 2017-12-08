@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1316"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,31 +63,31 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisa Laurence Co, Ky,
+   <p>Louisa Laurence Co, Ky.
 <lb/><date when="1864-11-15">15 Nov 1864</date>
 <lb/>To his Excellancy
 <lb/>Thomas. E Bramlett
 <lb/>Gov of Kentucky
-<lb/>Respected Sir -- </p>
-<p>Your Petitioners citizens of Laurence County Kentucky Petition your Excellency to remit a fine which was at the <date when="1863-10">Oct term 1863.</date> rendered against. Ja<hi rend="underline"><hi rend="sup">s</hi></hi> P. Wilson for Twenty Dollars &amp; --  -- cents on a charge of <hi rend="str">assault</hi> (Adultry) for the following reason, Wilson some time Since married a widow Woman who had Some little property and a large Family of helpless children. She &amp; Wilson lived in Wayne Co Va (adjoining this (Laurence) County) only a few miles from the line. Wilson being a Union man was about four months Since Captured by the Rebels and carried away, &amp; is still gone leaving his wife badly provided for -- with her helpless Family A few days Since a horse belonging to Mrs Wilson -- her own property and the only horse She owned was brought unto our County &amp; stole &amp; whilst here was levied on by the Sheriff on the Execution which issued against Wilson on said Judgment This horse is her only dependance to get Bread for Mrs Wilson and her children this<pb/>
+<lb/>Respected Sir--</p>
+<p>Your Petitioners citizens of Laurence County Kentucky Petition your Excellency to remit a fine which was at the <date when="1863-10">Oct term 1863</date>. rendered against. Ja<hi rend="underline"><hi rend="sup">s</hi></hi> P. Wilson for Twenty Dollars &amp; --  -- cents on a charge of <hi rend="str">assault</hi>(Adultry) for the following reason, Wilson some time Since Married a widow Woman who had Some little property and a large Family of helpless children. She &amp; Wilson lived in Wayne Co Va (adjoining this (Laurence) County) only a few miles from the line Wilson being a Union man was about four months Since Captured by the Rebels and carried away, &amp; is still gone leaving his wife badly provided for-- with her helpless Family A few days Since a horse belonging to Mr<hi rend="underline"><hi rend="sup">s</hi></hi> Wilson-- her own property and the only horse She owned was brought unto our County &amp; stole &amp; whilst here was levied on by the Sheriff on the Execution which issued against Wilson on said Judgment This horse is her only dependance to get Bread for Mr<hi rend="underline"><hi rend="sup">s</hi></hi> Wilson and her children this<pb/>
 <lb/>winter &amp; if the fine is not remitted we believe the family will actually Suffer for the necessaries of life this Winter</p>
-<p>Mrs Wilson is an industrious Woman of Good character and exemplary Conduct, We make these Statements of our own personal Knowledge &amp; most respectfully request that the fine be remitted &amp; we will ever pray your clemency</p>
+<p>Mrs Wilson is an industrious Woman of Good character and exemplary Conduct, We make these Statements of our own personal Knowledge &amp; most respectfully request that the fine be remitted &amp; we will ever pray your Clemency</p>
 <p>Respectfully Yours
-<lb/>J, W, Haws P, J, L. C. C
-<lb/>R. F. Vinson C, L, C, C
+<lb/>J. W. Haws P. J. L. C. C
+<lb/>R. F. Vinson C. L. C. C
 <lb/>H. S. Bussey
-<lb/>K F, Prichard Co atty
-<lb/>John G Johns C L C C
-<lb/>Geo W. Henry. Capt
+<lb/>K F, Prichard Co Atty
+<lb/>John G Johns C F C C
+<lb/>Geo. W. Henry. Capt
 <lb/>G R B Chapman
 <lb/>J, C, Layne
 <lb/>A. C. Hutchison J. P. L. C.
-<lb/>Menderson Beckham</p>
+<lb/>Henderson <unclear>Beckham</unclear></p>
 <p>State of Kentucky
 <lb/>County of Laurence</p>
-<p>I R F Prichard Notary Public for Laurence County Ky do certify that the signatures signed to the foregoing Petition are the genuine signatures of the men they purport to be</p>
-<p>Witness my hand &amp; seal Done at Louisa Ky <date when="1864-11-16">16 Nov 1864</date></p>
-<p>R F Prichard N, P, L, C</p>
+<p>I K F Prichard Notary Public for Laurence County Ky do certify that the Signatures signed to the foregoing Petition are the genuine signatures of the men they purport to be</p>
+<p>Witness my hand &amp; seal Done at Louisa Ky <date when="1864-11-16">16 Nov 1864</date>.</p>
+<p>K F Prichard N. P. L. C</p>
   </body>
  </text>
 </TEI>

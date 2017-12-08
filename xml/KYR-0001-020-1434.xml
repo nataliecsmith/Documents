@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1434"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,16 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>"Examination held in the Case of J. J. M<hi rend="underline"><hi rend="sup">c</hi></hi>Afee for Shooting:</p>
-<p>"John Cobb was in town on Monday sitting at Mrs Brown's, saw W. M<hi rend="underline"><hi rend="sup">c</hi></hi>Dowell, Dr. Mat Young gave him a pistol, the Crowd opened and M<hi rend="sup">c</hi>Dowell <hi rend="underline">fires</hi> a little first, Daniel fired immediately afterward, Came near the pump, they had by this time fired out all their shots; M<hi rend="underline"><hi rend="sup">r</hi></hi> M<hi rend="sup">c</hi>Dowell changed his pistol &amp; walked up towards M<hi rend="sup">r</hi>. Daniel, M<hi rend="sup">r</hi>. Daniel presented his pistol &amp; Snapped. They came together and clinched &amp; M<hi rend="sup">r</hi>. M<hi rend="underline"><hi rend="sup">c</hi></hi>Afee came up as if to give a pistol, Then M<hi rend="sup">r</hi>. Daniel seemed to shrink which turned M<hi rend="sup">r</hi>. M<hi rend="sup">c</hi>Dowell's side <hi rend="underline">toward</hi> M<hi rend="sup">r</hi>. M<hi rend="underline"><hi rend="sup">c</hi></hi>Afee who then presented his pistol &amp; fired -- M<hi rend="sup">r</hi>. M<hi rend="sup">c</hi>Afee then threw up his pistol and walked away. -- </p>
-<p>D<hi rend="sup">r</hi>. Mizener -- 
-<lb/>M<hi rend="sup">c</hi>Dowell has two wounds -- one in his back, the other in the right leg, he is improveing, though still dangerous, looks as if he might get well -- the paralysis might kill him -- wound is in the back, Ball entered the Skin an inch or so from back bone, couldn't trace the ball, near the Spine in the Small of the back -- Thinks may be the ball is in the Spine --. Wound looks well so far as inflamation is Concerned -- If he Continues to improve the chances are in his favor -- "</p>
-<p>Endorsed -- "Substance of evidence for Comlth: -- Commonwealth -- "John J. M<hi rend="sup">c</hi>Afee"<pb/></p>
+   <p>"Examination held in the Case of J. J. M<hi rend="sup">c</hi>Afee for shooting:</p>
+<p>"John Cobb was in town on Monday sitting at Mrs Brown's, saw W. M<hi rend="underline"><hi rend="sup">c</hi></hi>Dowell, D<hi rend="underline"><hi rend="sup">r</hi></hi> Mat Young gave him a pistol, the Crowd opened and M<hi rend="sup">c</hi>Dowell fir<hi rend="underline">e</hi> a little first, Daniel fired immediately afterward, Came near the pump, they had by this time fired out all their shots; M<hi rend="underline"><hi rend="sup">r</hi></hi> M<hi rend="sup">c</hi>Dowell changed his pistol &amp; walked up towards M<hi rend="sup">r</hi>. Daniel, M<hi rend="sup">r</hi>. Daniel presented his pistol &amp; Snapped. They Came together and clinched &amp; M<hi rend="sup">r</hi>. M<hi rend="underline"><hi rend="sup">c</hi></hi>Afee came up as if to give a pistol, Then M<hi rend="sup">r</hi>. Daniel seemed to shrink which turned M<hi rend="sup">r</hi>. M<hi rend="sup">c</hi>Dowell's side towar<hi rend="underline">d</hi> M<hi rend="sup">r</hi>. M<hi rend="underline"><hi rend="sup">c</hi></hi>Afee who then presented his pistol &amp; fired -- M<hi rend="sup">r</hi>. M<hi rend="sup">c</hi>Afee then threw up his pistol and walked away. -- </p>
+<p>D<hi rend="underline"><hi rend="sup">r</hi></hi> Mizener -- </p>
+<p>M<hi rend="sup">c</hi>Dowell has two wounds -- one in his back, the other in the right leg, he is improveing though still dangerous, looks as if he might get well -- the paralysis might Kill him -- wound is in the back, Ball entered the skin an inch or so from back bone, could'nt trace the ball, near the spine in the small of the back -- Thinks may be the ball is in the spine --. Wound looks well so far as inflamation is Concerned -- If he Continues to improve the Chances are in his favor -- "</p>
+<p>Endorsed -- "Substance of evidence for Comlth: -- Commonwealth -- John J. M<hi rend="sup">c</hi>Afee"<pb/></p>
 <p>Jessamine Circuit Court Sct:</p>
-<p>The foregoing is a true Copy of all the written evidence of Witnesses returned &amp; filed in my office with ^the^ papers under the Prosecution in the name of the Commonwealth of Ky -- against John J. M<hi rend="sup">c</hi>Afee for shooting &amp;c. this <date when="1861-09-21">21<hi rend="sup">st</hi> Sept 1861. -- </date></p>
-<p>attest M. T. Lowrey c. J. c. c. </p>
+<p>The foregoing is a true Copy of all the written evidence of Witnesses returned &amp; filed in my office with ^the^ papers under the prosecution in the name of the Commonwealth of Ky -- against John J. M<hi rend="sup">c</hi>Afee for shooting &amp;c this <date when="1861-09-21">21<hi rend="sup">st</hi> Sept 1861</date>. -- </p>
+<p>attest <hi rend="underline">M. T. Lowry</hi> c. J. c. c. </p>
 <p>Commonwealth
-<lb/>vs } Copy Evidence
+<lb/>vs &#125; Copy Evidence
 <lb/>Jno. J. M<hi rend="sup">c</hi>Afee<figure type="hr"/></p>
 <p>To accompany the Petition To Governor for Remission of Bail -- </p>
   </body>

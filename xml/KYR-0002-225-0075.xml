@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-225-0075"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,20 +63,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Monticello Ky <date when="1865-04-13">April 13. 1865</date>
-<lb/>Governor.</p>
-<p>Dear Sir. In the month of <date when="1863-11">Nov<hi rend="underline"><hi rend="sup">er</hi></hi> 1863</date> a rebel Co<hi rend="underline"><hi rend="sup">l</hi></hi> by the name of Hughes with Champ Ferguson and about one hundred men came into Monticello and among other things took my horse, Saddle and bridle, and left a worn out horse that I afterwards discovered was branded U. S. When on my way to Frankfort about the <date when="--12">first Dec.</date> there after I stated the case to Gen<hi rend="underline"><hi rend="sup">l</hi></hi> T. T. Garrard then Commanding at Somerset, and he gave me an Order, or certificate of my right to s<hi rend="sup">d</hi> horse, I sold the horse to my brother Sherman E Tuttle and gave him the paper given me by Gen<hi rend="sup">l</hi> Garrard. A few weeks since a scamp by the name of Burruss that had joined Capt Ingram's Company of Bridgewater's command, came down and took the horse from my brother and ^they^ refuse to give him up.</p>
-<p>This man Burruss is a cousin of Capt Ingram, was in Frankfort when I went there last winter under the name of Goldsmith and I understood claimed to be one of your secret police. My own<pb/>
-<lb/>opinion is from what I have seen of him is that he is under the wrong Commander and in the wrong locality and that he would serve the State much better if he was placed in the city of Frankfort under the command of H. I. Todd,</p>
-<p>I enclose a copy of the paper from Gen<hi rend="sup">l</hi> Garrard. I do not know who to apply to for redress but if I am wrong in applying to you I will plead old frienship as my apology</p>
-<p>Very Truly
-<lb/>H. W. Tuttle</p>
-<p>To Gov T. E. Bramlette<pb/></p>
+   <p>Monticello Ky <date when="1865-04-13">April 13, 1865</date>
+<lb/>Governor,</p>
+<p>Dear Sir, In the month of <date when="1863-11">Nov<hi rend="underline"><hi rend="sup">br</hi></hi> 1863</date> a rebel Co<hi rend="underline"><hi rend="sup">l</hi></hi> by the name of Hughes with Champ Ferguson and about one hundred men came into Monticello and among other things, took my horse. Saddle and bridle. and left a worn out horse that I afterwards discovered was branded U, S, When on my way to Frankfort about the <date when="--12">first Dec,</date> there after I stated the case to Gen<hi rend="sup">l</hi>. T. T. Garrard then commanding at Somerset, and he gave me an Order, or certificate of my right to s<hi rend="sup">d</hi> horse, I sold the horse to my brother Sherman E Tuttle and gave him the paper given me by Gen<hi rend="sup">l</hi> Garrard, A few weeks since a scamp by the name of Burruss that had joined Capt Ingram's Company of Bridgewater's Command, came down and took the horse from my brother and ^they^ refuse to give him up.</p>
+<p>This man Burruss is a cousin of Capt Ingram, was in Frankfort when I went there last winter under the name of Goldsmith and I understood claimed to be one of your secret police, My own<pb/>
+<lb/>opinion is, from what I have seen of him <hi rend="str">is</hi> that <hi rend="str">that</hi>he is under the wrong commander and in the wrong locality and that he would serve the State much better if he was placed in the city of Frankfort under the command of H. I. Todd,</p>
+<p>I enclose a Copy of the paper from Gen<hi rend="sup">l</hi> Garrard, I do not know who to apply to for redress but if I am wrong in applying to you I will plead old frienship as my apology</p>
+<p>Very Truly H. W. Tuttle</p>
+<p>To Gov T. E, Bramlette<pb/></p>
 <p>Monticello Ky
 <lb/><date when="1865-04-13">April 13. 1865</date><figure type="hr"/>
 <lb/>Tuttle H. W.<figure type="hr"/>
-<lb/>To The Gov.<figure type="hr"/></p>
-<p>says in month of <date when="1863-11">Nov. 1863</date> a rebel force came into Monticello &amp; took his horse leaving a broken down horse in its place Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Garrard gave him a certificate of his right to this horse (copy enclosed) He afterwards sold the horse to his brother, S. E. Tuttle -- A few weeks since a man by name of Burriss of Maj. Bridgewaters command took the horse from his brother -- Applies to you for redress -- <figure type="hr"/></p>
+<lb/>To The Gov-<figure type="hr"/></p>
+<p>says in month of <date when="1863-11">Nov. 1863</date> a rebel force came into monticello &amp; took his horse leaving a broken down horse in its place Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Garrard gave him a certificate of his right to this horse (copy enclosed) He afterwards sold the horse to his brother, S. E. Tuttle- A few weeks since a man by name of Burriss of Maj. Bridgewaters command took the horse from his brother -- Applies to you for redress -- <figure type="hr"/></p>
 <p>L B N<hi rend="sup">o</hi> 11 -- <date when="1865">1865</date> P 443<figure type="hr"/>
 <lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. Ky <date when="1865-04-17">17 April 1865</date></p>
   </body>

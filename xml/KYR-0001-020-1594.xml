@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1594"> 
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title level="a" type="main">William Boswell et al. to Beriah Magoffin</title>
+    <title level="a" type="main">William Boswell to Beriah Magoffin</title>
     <title level="a" type="parallel">CWG11062</title>
     <respStmt>
      <resp n="transcriber">Transcribed by:</resp>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Whitney R Smith</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,14 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Covington Ky. <date when="1861-12-26">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 26<hi rend="sup">th</hi> 1861</date>
+   <p>Covington Ky. <date when="1861-12-26">Dec<hi rend="underline">r</hi> 26<hi rend="sup">th</hi> 1861</date>
 <lb/>To His Excellency the Governor of Ky,
-<lb/>Dear Sir:</p>
-<p>Your Petitioner W<hi rend="underline"><hi rend="sup">m</hi></hi> Boswell would respectfully represent, that at the present term of the Kenton Circuit Court in Covington he was fined in the sum of $50<hi rend="underline"><hi rend="sup">00</hi></hi> on the charge of selling whiskey to a miner named Garrett Wilson, He states that the only witness in the case was the s<hi rend="underline"><hi rend="sup">d</hi></hi> Wilson. that the testimony was that he ^(Wilson)^ purchased whiskey of the <hi rend="underline">bar keeper</hi> of s<hi rend="underline"><hi rend="sup">d</hi></hi> Boswell who <hi rend="str">is a</hi> was a tavern keeper, who stated that about Christmas 1860. <hi rend="str">but on X examination that he could not say that it was later that august 1860</hi>, he bought whiskey of the barkeeper then. The bar keeper was an old man, and has left the Com<hi rend="underline">th</hi>. The Indictment was found <date when="1861-09-14">sept 14<hi rend="sup">th</hi> 1861,</date> He further states that he keeps an orderly house, and has never been convicted of any violation of law before, and has kept a public house in this city for 4 years or thereabouts. He states that he always gives his barkeepers particular instructions as to the laws in this case and others<pb/>
-<lb/>He states that the witness W<hi rend="str">a</hi>ilson has the appearance of being at least 25 years of age, and has been for years doing business for himself as was in proof boarding with his father and paying his board as a stanger, his father (notoriously) claiming no control over him. He therefore prays your Excellency to remit by pardon, as an act of Executive Clemency the s<hi rend="underline"><hi rend="sup">d</hi></hi> fine so far as the same can be done by your Excellency, and as in duty bound will ever pray,</p>
+<lb/>Dear Sir,</p>
+<p>Your Petitioner W<hi rend="underline"><hi rend="sup">m</hi></hi> Boswell would respectfully represent, that at the present term of the Kenton Circuit Court in Covington he was fined in the sum of &#36;50<hi rend="underline"><hi rend="sup">00</hi></hi> on the charge of selling whiskey to a miner named Garrett Wilson, He states that the only witness in the case was the s<hi rend="underline"><hi rend="sup">d</hi></hi> Wilson. that the testimony was that he ^(Wilson)^ had purchased whiskey of the <hi rend="underline">barkeeper</hi> of s<hi rend="underline"><hi rend="sup">d</hi></hi> Boswell who <hi rend="str">is a</hi> was a tavern keeper, who stated that about Christmas 1860. <hi rend="str">but on X examination that he could not say that it was later that august 1860</hi>, he bought whiskey of the barkeeper then. The barkeeper was an old man, and has left the Com<hi rend="underline">th</hi>. The Indictment was found <date when="1861-09-14">sept 14<hi rend="sup">th</hi> 1861,</date> He further states that he keeps an orderly house, and has never been convicted of any violation of law before. and has kept a public house in this city for 4 years or thereabouts. He states that he always gives his barkeepers particular instructions as to the laws in this case and others<pb/>
+<lb/>He states that the witness <hi rend="str">w</hi>Wilson has the appearance of being at least 25 years of age, and has been for years doing business for himself as was in proof boarding with his father and paying his board as a stranger, his father (notoriously) claiming no control over him. He therefore prays your Excellency to remit by pardon, as an act of Executive Clemency the s<hi rend="underline"><hi rend="sup">d</hi></hi> fine so far as the same can be done by your Excellency, and as in duty bound will ever pray,</p>
 <p>Respectfully
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Boswell</p>
-<p>We join in the above petition and believe this a worthy case for the interference of Executive Clemency, Mr. Boswell keeps an orderly house, is a sober and correct man, is also laboring under bodily afflictions being crippled in one (the right) hand</p>
+<p>We join in the above petition and believe this a worthy case for the interference of Executive Clemency, Mr. Boswell keeps an orderly house. is a sober and correct man. is also laboring under bodily afflictions being crippled in one (the right) hand</p>
 <p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">S C Perrin</hi>
 <lb/>W. J. Perrin
 <lb/>James B Gray
@@ -75,28 +78,29 @@
 <lb/><cb n="2"/>B B Weidler
 <lb/>John Collins
 <lb/>L <unclear>Townsend</unclear>
-<lb/>A. H. Harod
-<lb/>J. A. Goodson
+<lb/>A. H, Harod
+<lb/>J. A Goodson
 <lb/>James Arnold
 <lb/>L. Bower
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Hopkins Foreman
-<lb/>C. A. <unclear>Littlefield</unclear>
+<lb/>C. A, <unclear>Littlefield</unclear>
 <lb/>Jas C <unclear>Rankin</unclear><milestone unit="column" n="1"/><note place="right margin">Jurors</note><pb/>
 <lb/>Thomas Dempsey
-<lb/>Joseph Hockemp
-<lb/>Patrick Lambet 
-<lb/>J. B. Watson
+<lb/>Joseph <unclear>Hockemp</unclear>
+<lb/>Patrick Lambert 
+<lb/>J, B, Wasson
 <lb/>V. V. Tousey
 <lb/>L. M. Rees
 <lb/>J W Berry
 <lb/>A J Francis</p>
-<p>The witness against the above petitioner appeared to me to be at least 25 years of age. I know Mr Boswell is ever scrupulously careful. not to violate law. and think the above fine really a hardship, and this case a worthy one for the interference of Executive Clemency 10 of the jurors ^who <unclear/> &amp; the Comth Atty Mr Arthur^ have signed his petition</p>
-<p>Respectfully C. H. <unclear/><pb/></p>
-<p>Kenton Cir Ct
-<lb/>$50. } Whiskey
+<p>The witness against the above petitioner appeared to me to be at least 25 years of age. I know Mr Boswell is ever scrupulously careful. not to violate law. and think the above fine really a hardship, and this case a worthy one for the interference of Executive Clemency 10 of the Jurors ^who <unclear/> &amp; the Comlth Atty Mr Arthur^ have signed his petition</p>
+<p>Respectfully
+<lb/>C, H, Mooar<pb/></p>
+<p>Kentno Cir ct
+<lb/>&#36;50. &#125; Whiskey
 <lb/>W<hi rend="sup">m</hi> Boswell</p>
 <p>Remitted 
-<lb/>B. M</p>
+<lb/>B, M</p>
 <p>Iss<hi rend="sup">d</hi> <date when="1862-01-17">Jany 17. 1862</date></p>
   </body>
  </text>
