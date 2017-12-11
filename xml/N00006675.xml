@@ -46,8 +46,7 @@
                       Dabner Collins
                         (Simpson County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1811"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1811"  certainty="medium" ><ab>c1811</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Logan County, District 1, p. 48. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Simpson County, Franklin, p. 146. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Logan County, Hardison, p. 57.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Logan County, District 1, p. 48. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Simpson County, Franklin, p. 146. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Logan County, Hardison, p. 57.
 </bibl></ab>
     </back>
 </text>
