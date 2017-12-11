@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00001215">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Robert Guy Spinney, <em>City of Big Shoulders: A History of Chicago</em>, (DeKalb: Northern Illinois Univ. Press, 2000).</p>
+        <ab><bibl>Robert Guy Spinney, <hi rend=”italic”>City of Big Shoulders: A History of Chicago</hi>, (DeKalb: Northern Illinois Univ. Press, 2000).
 </bibl></ab>
     </back>
 </text>
