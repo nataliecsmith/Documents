@@ -42,8 +42,8 @@
                       Thomas B. Monroe, Sr.
                         (Provisional Congress of the Confederate States)
                     </persName>
-                      <birth when="1791-10-27"></birth>
-                      <death when="1865-12-23"></death>
+                        <event type="birth"  when="1791-10-27"  ><ab>1791-10-27</ab></event>
+                        <event type="death"  when="1865-12-23"  ><ab>1865-12-23</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,7 +56,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Ezra J. Warner and W. Buck Yearns, <em>Biographical Register of the Confederate Congress</em> (Baton Rouge: Louisiana State University Press, 1975), 177-178; <em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 547-548; H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 158; “Intelligence and Miscellany: Appointments,” <em>The American Jurist</em>, vol 6 (Freeman &amp; Bolles, 1831), 234; Lewis Collins and Richard Collins, <em>History of Kentucky</em>, vol. 1 (Collins &amp; Company, 1882), 353; “Death of Hon. Thos. B. Monroe,” <em>Daily Courier</em> (Louisville, Ky.), January 4, 1866; “Judge Thomas Bell Monroe,” (https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=11347241) (accessed January 26, 2017); Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Franklin County, District No 2; Seventh Manuscript Census of the United States (1850), Slave Schedules, Kentucky, Franklin County, District No. 2; Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Franklin County, District No 2, p. 96-97.</p>
+        <ab><bibl>Ezra J. Warner and W. Buck Yearns, <hi rend=”italic”>Biographical Register of the Confederate Congress</hi> (Baton Rouge: Louisiana State University Press, 1975), 177-178; <hi rend=”italic”>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 547-548; H. Levin, <hi rend=”italic”>The Lawyers and Lawmakers of Kentucky</hi> (Chicago: The Lewis Publishing Company, 1897), 158; “Intelligence and Miscellany: Appointments,” <hi rend=”italic”>The American Jurist</hi>, vol 6 (Freeman &amp; Bolles, 1831), 234; Lewis Collins and Richard Collins, <hi rend=”italic”>History of Kentucky</hi>, vol. 1 (Collins &amp; Company, 1882), 353; “Death of Hon. Thos. B. Monroe,” <hi rend=”italic”>Daily Courier</hi> (Louisville, Ky.), January 4, 1866; “Judge Thomas Bell Monroe,” (https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=11347241) (accessed January 26, 2017); Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Franklin County, District No 2; Seventh Manuscript Census of the United States (1850), Slave Schedules, Kentucky, Franklin County, District No. 2; Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Franklin County, District No 2, p. 96-97.
 </bibl></ab>
     </back>
 </text>
