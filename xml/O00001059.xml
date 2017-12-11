@@ -47,8 +47,7 @@
             <particDesc>
                 <org xml:id="O00001059">
                     <orgName>City Council of Louisville</orgName>
-                      <event type="begun" when="1828">1828</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1828"  ><ab>1828</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -59,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>William Crawford Green, &quot;City Charters&quot; in <em>The Encyclopedia of Louisville</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 2001), 187.</p>
+        <ab><bibl>William Crawford Green, &quot;City Charters&quot; in <hi rend=”italic”>The Encyclopedia of Louisville</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 2001), 187.
 </bibl></ab>
     </back>
 </text>
