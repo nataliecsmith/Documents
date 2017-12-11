@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0597"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,19 +70,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the Govenor of the Com<hi rend="sup">lth</hi> of Kentucky</p>
-<p>We the undersigned Jurymen and Citizens of Frankfort and Franklin County Kentucky petition your Excellency to pardon Wash. Eblin now confined in the State Penitentiary.</p>
+   <p>To <persName ref="cwgk:N001004">the Govenor</persName> of the Com<hi rend="sup">lth</hi> of Kentucky</p>
+<p>We the undersigned Jurymen and Citizens of <placeName ref="cwgk:P00000308">Frankfort</placeName> and <placeName ref="cwgk:P001019">Franklin County Kentucky</placeName> petition your Excellency to pardon <persName ref="cwgk:N00006482">Wash. Eblin</persName> now confined in the <orgName ref="cwgk:O00000266">State Penitentiary</orgName>.</p>
 <p>Thomas. J. Jett
-<lb/>Jefferson Jones
-<lb/>Isaac Wingate
-<lb/>Jacob Cox
-<lb/>Gustavus Talbot
-<lb/>Able Armstrong
-<lb/>William McCrutcher
-<lb/>Jeptha Johnson
-<lb/>William Jones &#125; Jurors
-<lb/>John A, Carter
-<lb/>J W French<pb/></p>
+<lb/><persName ref="cwgk:N00006484">Jefferson Jones</persName><lb/><persName ref="cwgk:N00006485">Isaac Wingate</persName><lb/><persName ref="cwgk:N00006486">Jacob Cox</persName><lb/><persName ref="cwgk:N00006518">Gustavus Talbot</persName><lb/><persName ref="cwgk:N00006519">Able Armstrong</persName><lb/><persName ref="cwgk:N00006520">William McCrutcher</persName><lb/><persName ref="cwgk:N00006521">Jeptha Johnson</persName><lb/><persName ref="cwgk:N00006522">William Jones</persName> } Jurors<lb/><persName ref="cwgk:N00006523">John A. Carter</persName><lb/><persName ref="cwgk:N00006524">J W French</persName><pb/></p>
 <p>Eblens Case
 <lb/>Franklin</p>
   </body>
