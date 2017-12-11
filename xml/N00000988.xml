@@ -46,8 +46,8 @@
                       John C. Walker 
                         (Jefferson County, Kentucky)
                     </persName>
-                      <birth when="1814"></birth>
-                      <death when="1894-10-14"></death>
+                        <event type="birth"  when="1814"  ><ab>1814</ab></event>
+                        <event type="death"  when="1894-10-14"  ><ab>1894-10-14</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Kentucky Deaths and Burials, 1843-1970,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FW54-52P), Jno C. Walker, 14 Oct 1894; citing reference p 354; FHL microfilm 209,705.</p>
+        <ab><bibl>&quot;Kentucky Deaths and Burials, 1843-1970,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FW54-52P), Jno C. Walker, 14 Oct 1894; citing reference p 354; FHL microfilm 209,705.
 </bibl></ab>
     </back>
 </text>
