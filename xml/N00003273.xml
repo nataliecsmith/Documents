@@ -50,8 +50,8 @@
                       Francis Henry Dallam
                         (attorney, henderson )
                     </persName>
-                      <birth when="1812"></birth>
-                      <death when="1866-03-31"></death>
+                        <event type="birth"  when="1812"  ><ab>1812</ab></event>
+                        <event type="death"  when="1866-03-31"  ><ab>1866-03-31</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 888-89; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, KY: Collins &amp; Co., 1874), 479; <em>History of Union County, Kentucky</em> (Evansville, In: Courier Co., Printers, Binders and Engravers, 1886), 193; &quot;Union Meeting,&quot; <em>Louisville Daily Courier</em>, November 15, 1860. </p>
+        <ab><bibl>H. Levin, <hi rend=”italic”>The Lawyers and Lawmakers of Kentucky</hi> (Chicago: The Lewis Publishing Company, 1897), 888-89; Lewis Collins and Richard H. Collins, <hi rend=”italic”>Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, KY: Collins &amp; Co., 1874), 479; <hi rend=”italic”>History of Union County, Kentucky</hi> (Evansville, In: Courier Co., Printers, Binders and Engravers, 1886), 193; &quot;Union Meeting,&quot; <hi rend=”italic”>Louisville Daily Courier</hi>, November 15, 1860. 
 </bibl></ab>
     </back>
 </text>
