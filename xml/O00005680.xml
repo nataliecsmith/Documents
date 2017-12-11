@@ -39,8 +39,8 @@
             <particDesc>
                 <org xml:id="O00005680">
                     <orgName>10th Kentucky Infantry</orgName>
-                      <event type="begun" when="1861-11-21">1861-11-21</event>
-                      <event type="ended" when="1864-12-06">1864-12-06</event>
+                        <event type="begun"  when="1861-11-21"  ><ab>1861-11-21</ab></event>
+                        <event type="ended"  when="1864-12-06"  ><ab>1864-12-06</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -51,7 +51,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Report of the Adjutant General of the State of Kentucky</em>, vol. 1 (Frankfort: John H. Harney, Public Printer, 1866), 806-823.</p>
+        <ab><bibl><hi rend=”italic”>Report of the Adjutant General of the State of Kentucky</hi>, vol. 1 (Frankfort: John H. Harney, Public Printer, 1866), 806-823.
 </bibl></ab>
     </back>
 </text>
