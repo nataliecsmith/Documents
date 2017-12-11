@@ -46,8 +46,7 @@
                       Lewis B. Grigsby
                         (Clark County, Kentucky, attorney and soldier)
                     </persName>
-                      <birth when="c1837"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1837"  certainty="medium" ><ab>c1837</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Clark County, District 2, p. 18; &quot;Democratic Meeting in Clark County,&quot; <em>The Louisville Daily Courier</em> (Louisville, Ky.), November 3, 1858, p. 1; <em>The Louisville Daily Courier</em> (Louisville, Ky.), July 28, 1866, p. 1; <em>The Maysville Weekly Bulletin</em> (Maysville, Ky.), August 6, 1863, p. 3; <em>The Courier-Journal</em> (Louisville, Ky.), May 30, 1882, p. 3.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Clark County, District 2, p. 18; &quot;Democratic Meeting in Clark County,&quot; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), November 3, 1858, p. 1; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), July 28, 1866, p. 1; <hi rend=”italic”>The Maysville Weekly Bulletin</hi> (Maysville, Ky.), August 6, 1863, p. 3; <hi rend=”italic”>The Courier-Journal</hi> (Louisville, Ky.), May 30, 1882, p. 3.
 </bibl></ab>
     </back>
 </text>
