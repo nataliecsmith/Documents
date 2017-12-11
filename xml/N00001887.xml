@@ -46,8 +46,8 @@
                       Robert Cochran
                         (Spencer Co. Legislator)
                     </persName>
-                      <birth when="1829-04-06"></birth>
-                      <death when="1902-04-17"></death>
+                        <event type="birth"  when="1829-04-06"  ><ab>1829-04-06</ab></event>
+                        <event type="death"  when="1902-04-17"  ><ab>1902-04-17</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Josiah Stoddard Johnston, <em>Memorial History of Louisville from its First Settlement of the Year 1896 Vol 1</em> (Louisville: American Biographical Publishing Company, 1896), 444; <em>Find A Grave</em>, &quot;Robert Cochran (1829 - 1902),&quot; Memorial #98350450, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=cochran&amp;GSfn=robert&amp;GSby=1829&amp;GSbyrel=in&amp;GSdyrel=all&amp;GSst=19&amp;GScntry=4&amp;GSob=n&amp;GRid=98350450&amp;df=all&amp; (accessed September 11, 2017); <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Spencer County, Division No. 2, p. 11.</p>
+        <ab><bibl>Josiah Stoddard Johnston, <hi rend=”italic”>Memorial History of Louisville from its First Settlement of the Year 1896 Vol 1</hi> (Louisville: American Biographical Publishing Company, 1896), 444; <hi rend=”italic”>Find A Grave</hi>, &quot;Robert Cochran (1829 - 1902),&quot; Memorial #98350450, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=cochran&amp;GSfn=robert&amp;GSby=1829&amp;GSbyrel=in&amp;GSdyrel=all&amp;GSst=19&amp;GScntry=4&amp;GSob=n&amp;GRid=98350450&amp;df=all&amp; (accessed September 11, 2017); <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Spencer County, Division No. 2, p. 11.
 </bibl></ab>
     </back>
 </text>
