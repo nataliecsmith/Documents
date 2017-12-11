@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0350"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Pittsburgh, Pa.
-<lb/><date when="1865-01-26">January 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
-<lb/>His Excellency Gov. Bramlette;
-<lb/>Executive Department,
-<lb/>Frankfort Ky.
-<lb/>Sir:</p>
-<p>I would respectfully solicit the appointment of Chatham T. Ewing of this City as Commissioner of Kentucky for the State of Pennsylvania.</p>
+   <p><placeName ref="cwgk:P001033">Pittsburgh, Pa</placeName>.<lb/><date when="1865-01-26">January 26<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>His Excellency <persName ref="cwgk:N001000">Gov. Bramlette</persName>;<lb/>Executive Department,
+<lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName>.<lb/>Sir:</p>
+<p>I would respectfully solicit the appointment of <persName ref="cwgk:N00004966">Chatham T. Ewing</persName> of this City as Commissioner of <orgName ref="cwgk:O001025">Kentucky</orgName> for the <placeName ref="cwgk:P001006">State of Pennsylvania</placeName>.</p>
 <p>The oil Excitement among our people has led many of them to invest largely in your state and to facilitate exchanges and transfers of territory located there Some of us are desirous to have a Commissioner of Kentucky in our midst and I may add, that M<hi rend="underline"><hi rend="sup">r</hi></hi> Ewing, for whom we ask the appointment, is a young attorney of our bar, of irreproachable honor and well fitted for the office</p>
 <p>Trusting that you will favor my request I remain</p>
 <p><unclear>Vry Rply</unclear>
