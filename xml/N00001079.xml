@@ -54,8 +54,8 @@
                       Lawrence G. Alexander, Sr.
                         (Calhoun, Ky)
                     </persName>
-                      <birth when="1815-02"></birth>
-                      <death when="1869"></death>
+                        <event type="birth"  when="1815-02"  ><ab>1815-02</ab></event>
+                        <event type="death"  when="1869"  ><ab>1869</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +68,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, McLean County, Calhoun, p. 9. William Henry Perrin, ed., <em>County of Christian, Kentucky</em> (Chicago and Louisville: F. A. Battey Publishing Co., 1884), 339-340.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean County, Calhoun, p. 9. William Henry Perrin, ed., <hi rend=”italic”>County of Christian, Kentucky</hi> (Chicago and Louisville: F. A. Battey Publishing Co., 1884), 339-340.
 </bibl></ab>
     </back>
 </text>
