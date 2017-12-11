@@ -46,8 +46,8 @@
                       John F. Sheriff
                         (Williamstown (Grant co) merchant &amp; postmaster)
                     </persName>
-                      <birth when="1817-12-11"></birth>
-                      <death when="1895-11-23"></death>
+                        <event type="birth"  when="1817-12-11"  ><ab>1817-12-11</ab></event>
+                        <event type="death"  when="1895-11-23"  ><ab>1895-11-23</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Grant County, Williamstown, p. 185. <em>Find A Grave</em>, &quot;John F. Sheriff (1817-1895),&quot; Memorial #118770483, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=sheriff&amp;GSfn=john&amp;GSiman=1&amp;GScid=228867&amp;GRid=118770483&amp; (accessed March 17, 2017). <em>Record of Appointment of Postmasters, 1832-1971</em>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28, Vol 14, p. 619 (accessed via Ancestry.com).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grant County, Williamstown, p. 185. <hi rend=”italic”>Find A Grave</hi>, &quot;John F. Sheriff (1817-1895),&quot; Memorial #118770483, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=sheriff&amp;GSfn=john&amp;GSiman=1&amp;GScid=228867&amp;GRid=118770483&amp; (accessed March 17, 2017). <hi rend=”italic”>Record of Appointment of Postmasters, 1832-1971</hi>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28, Vol 14, p. 619 (accessed via Ancestry.com).
 </bibl></ab>
     </back>
 </text>
