@@ -46,8 +46,8 @@
                       Thomas Elliott Bramlette
                         (Kentucky Governor)
                     </persName>
-                      <birth when="1817-01-03"></birth>
-                      <death when="1875-01-12"></death>
+                        <event type="birth"  when="1817-01-03"  ><ab>1817-01-03</ab></event>
+                        <event type="death"  when="1875-01-12"  ><ab>1875-01-12</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Ross A. Webb, “Thomas E. Bramlette (1863-1867)” in Lowell H. Harrison, ed., <em>Kentucky’s Governors</em> (Lexington: University Press of Kentucky, 2004), 93-97; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Adair County, The Town of Columbia 1st Division, p. 13.</p>
+        <ab><bibl>Ross A. Webb, “Thomas E. Bramlette (1863-1867)” in Lowell H. Harrison, ed., <hi rend=”italic”>Kentucky’s Governors</hi> (Lexington: University Press of Kentucky, 2004), 93-97; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Adair County, The Town of Columbia 1st Division, p. 13.
 </bibl></ab>
     </back>
 </text>
