@@ -46,8 +46,7 @@
                       John L. Culp
                         (Marshall co. farmer)
                     </persName>
-                      <birth when="c1831"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1831"  certainty="medium" ><ab>c1831</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Marshall County, unknown district, p. 108-109. <em>Ninth Manuscript Census of the United States (1870)</em>, Population Schedules, Kentucky, Lyon County, District 3, p. 9.  <em>Kentucky, County Marriages, 1783-1965</em>. Ancestry, Marriages, Marshall County, 1851.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Marshall County, unknown district, p. 108-109. <hi rend=”italic”>Ninth Manuscript Census of the United States (1870)</hi>, Population Schedules, Kentucky, Lyon County, District 3, p. 9.  <hi rend=”italic”>Kentucky, County Marriages, 1783-1965</hi>. Ancestry, Marriages, Marshall County, 1851.
 </bibl></ab>
     </back>
 </text>
