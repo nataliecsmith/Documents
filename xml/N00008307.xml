@@ -46,8 +46,7 @@
                       Francis B. Trussell
                         (Mayor of Maysville)
                     </persName>
-                      <birth when="1827-09-29"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1827-09-29"  ><ab>1827-09-29</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em>, 8th ed. (Louisville and Chicago: F. A. Battey and Company, 1888), 996; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 1 (Covington, KY: Collins &amp; Co., 1874), 111; KYR-0001-029-0371.</p>
+        <ab><bibl>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi>, 8th ed. (Louisville and Chicago: F. A. Battey and Company, 1888), 996; Lewis Collins and Richard H. Collins, <hi rend=”italic”>Collins&#39; Historical Sketches of Kentucky</hi>, vol. 1 (Covington, KY: Collins &amp; Co., 1874), 111; KYR-0001-029-0371.
 </bibl></ab>
     </back>
 </text>
