@@ -50,8 +50,8 @@
                       Henry C. Russell
                         (L&#39;ville City Ct. Marshal )
                     </persName>
-                      <birth when="c1813"></birth>
-                      <death when="1889"></death>
+                        <event type="birth"  when="1813"  certainty="medium" ><ab>c1813</ab></event>
+                        <event type="death"  when="1889"  ><ab>1889</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 2, p. 264. Henry Tanner, ed., <em>Tanner’s Louisville Directory and Business Advertiser for 1861</em> (Louisville: Directory Publication and Advertising Agency, 1861), 324. “Society,” <em>Courier-Journal</em> (Louisville, Ky.), March 24, 1889, p. 6.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 2, p. 264. Henry Tanner, ed., <hi rend=”italic”>Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 324. “Society,” <hi rend=”italic”>Courier-Journal</hi> (Louisville, Ky.), March 24, 1889, p. 6.
 </bibl></ab>
     </back>
 </text>
