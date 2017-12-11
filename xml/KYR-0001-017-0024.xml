@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0024"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1860-11-30">Novr 30 1860</date>
-<lb/>Gov Magoffin
-<lb/>Frankfort
-<lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>Will you please have the kindness to send us a commission for Henry V Sande<hi rend="str">e</hi>rs as Notary Public for Jefferson County He is Teller in the Merchants Bank is in every respect worthy</p>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1860-11-30">Novr 30 1860</date>
+<lb/><persName ref="cwgk:N00000258">Gov Magoffin</persName><lb/><placeName ref="cwgk:P00000308">Frankfort
+</placeName><lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>Will you please have the kindness to send us a commission for Henry V Sande<hi rend="str">e</hi>rs as Notary Public for <placeName ref="cwgk:P001005">Jefferson County</placeName> He is Teller in the <orgName ref="cwgk:O00001850">Merchants Bank</orgName> is in every respect worthy</p>
 <p>Your friends
 <lb/>Speed &amp; Barret<pb/></p>
 <p>Jefferson co<figure type="hr"/>
