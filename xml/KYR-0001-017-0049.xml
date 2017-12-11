@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0049"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Shelbyville Kentucky
-<lb/><date when="1861-01-17">Jany 17<hi rend="sup">th</hi> 1861</date>
-<lb/>To His Excellency Beriah Magoffin
-<lb/>Governor of Ky</p>
-<p>Please find enclosed the resignation of J, W, Crawford Justice of the Peace of the 4<hi rend="sup">th</hi> Dis<hi rend="sup">t</hi> Shelby County -- Jacob E Sodousky is the only one spoken of <hi rend="str">who</hi> <hi rend="str">will</hi> as his successor -- who will accept the place -- M<hi rend="underline"><hi rend="sup">r</hi></hi> Sodousky is competent -- </p>
+   <p><placeName ref="cwgk:P00002066">Shelbyville Kentucky
+</placeName><lb/><date when="1861-01-17">Jany 17<hi rend="sup">th</hi> 1861</date>
+<lb/>To His Excellency <persName ref="cwgk:N00000258">Beriah Magoffin</persName><lb/>Governor of <orgName ref="cwgk:O001025">Ky</orgName></p>
+<p>Please find enclosed the resignation of <persName ref="cwgk:N00008306">J. W. Crawford</persName> Justice of the Peace of the 4<hi rend="sup">th</hi> Dis<hi rend="sup">t</hi> <placeName ref="cwgk:P001013">Shelby County</placeName> -- <persName ref="cwgk:N00002292">Jacob E Sodousky </persName>is the only one spoken of <hi rend="str">who</hi> <hi rend="str">will</hi> as his successor -- who will accept the place -- M<hi rend="underline"><hi rend="sup">r</hi></hi> Sodousky is competent -- </p>
 <p>Yrs &amp;C -- 
 <lb/>J L, Caldwell
-<lb/>Judge Shelby County Court -- <pb/></p>
+<lb/>Judge <orgName ref="cwgk:O00000714">Shelby County Court </orgName>-- <pb/></p>
 <p>Issue com<hi rend="str">ss</hi>mission
 <lb/>B. M
 <lb/>resignation rc<hi rend="underline"><hi rend="sup">d</hi></hi></p>
