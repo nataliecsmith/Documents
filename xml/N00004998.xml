@@ -46,8 +46,8 @@
                       Christian Von Hesse
                         (New York City, New York, attorney and commissioner of deeds)
                     </persName>
-                      <birth when="1825-09-03"></birth>
-                      <death when="1893-03-18"></death>
+                        <event type="birth"  when="1825-09-03"  ><ab>1825-09-03</ab></event>
+                        <event type="death"  when="1893-03-18"  ><ab>1893-03-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, New York, New York City, Ward 18, District 2, p. 21; KYR-0001-007-0353.</p>
+        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, New York, New York City, Ward 18, District 2, p. 21; KYR-0001-007-0353.
 </bibl></ab>
     </back>
 </text>
