@@ -50,8 +50,8 @@
                       John Brent Fishback
                         (Louisville/Garrard/1st KY Cav)
                     </persName>
-                      <birth when="1841-12-14"></birth>
-                      <death when="1920-01-25"></death>
+                        <event type="birth"  when="1841-12-14"  ><ab>1841-12-14</ab></event>
+                        <event type="death"  when="1920-01-25"  ><ab>1920-01-25</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Garrard County, p. 62; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Kentucky, Jefferson, Louisville Ward 5, p. 240; <em>Find A Grave</em>, &quot;Capt. John Brent Fishback (1841-1920),&quot; Memorial #14985996, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=14985996&amp;ref=acom (accessed March 16, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Garrard County, p. 62; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Jefferson, Louisville Ward 5, p. 240; <hi rend=”italic”>Find A Grave</hi>, &quot;Capt. John Brent Fishback (1841-1920),&quot; Memorial #14985996, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=14985996&amp;ref=acom (accessed March 16, 2017).
 </bibl></ab>
     </back>
 </text>
