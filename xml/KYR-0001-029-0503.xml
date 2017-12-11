@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0503"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,27 +71,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency James F. Robinson Governor of the Commonwealth of Kentucky -- </p>
-<p>At a late Term of the Jefferson Circuit Court, Caroline a woman of color, was arraigned tried and convicted on a charge of murder and sentenced to be hung. She is to receive at the hands of the officer the extreme penalty of the law on Friday next. Her time on earth is short indeed. She has as yet made no confession of her guilt: but has under every circumstance and at all times maintained the same imperturbable adherence to the protestations of her innocence -- </p>
-<p>Caroline is a fugitive slave from the South "a contraband." She is ignorant -- wholly uneducated. She made her appearance in this City last fall, was arrested by a police officer and placed in the care of a Mr. Levi as a servant. An infant of Mr. Levi, that Caroline was tenderly nursing was seized with convulsions and died. On analysis, Strychnine was found in the stomach of the child. Caroline was accused of poisoning and Found guilty by a Jury of her country.</p>
+   <p>To His Excellency <persName ref="cwgk:N001004">James F. Robinson</persName> Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> -- </p>
+<p>At a late Term of the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName>, <persName ref="cwgk:N002001">Caroline </persName>a woman of color, was arraigned tried and convicted on a charge of murder and sentenced to be hung. She is to receive at the hands of the officer the extreme penalty of the law on Friday next. Her time on earth is short indeed. She has as yet made no confession of her guilt: but has under every circumstance and at all times maintained the same imperturbable adherence to the protestations of her innocence -- </p>
+<p>Caroline is a fugitive slave from the South "a contraband." She is ignorant -- wholly uneducated. She made her appearance in this <placeName ref="cwgk:P00000337">City </placeName>last fall, was arrested by a police officer and placed in the care of a Mr. Levi as a servant. An infant of <persName ref="cwgk:N00000995">Mr. Levi</persName>, that Caroline was tenderly nursing was seized with convulsions and died. On analysis, Strychnine was found in the stomach of the child. Caroline was accused of poisoning and Found guilty by a Jury of her country.</p>
 <p>For the purposes of this<pb/>
 <lb/>Application it is ^not^ necessary to detail facts that might indicate the guilt or innocence of the prisoner- We will however aver that the evidence was wholly and entirely circumstantial.</p>
-<p>The Rev. Mr. M<hi rend="sup">c</hi>Kee of this City, and the Rev. Mr. Adams (of color) also of this city, the spiritual advisors of this woman are not satisfied as to the condition of her soul. They ask that She may have further time to reflect, And if guilty, to repent of this great sin. "For the Redemption of the soul is precious and it ceaseth forever." They pray that she may have a few more days, weeks, or months to prepare to meet her God, if her fate be inevitable.</p>
+<p>The Rev. Mr. M<hi rend="sup">c</hi>Kee of this City, and the <persName ref="cwgk:N002039">Rev. Mr. Adams</persName> (of color) also of this city, the spiritual advisors of this woman are not satisfied as to the condition of her soul. They ask that She may have further time to reflect, And if guilty, to repent of this great sin. "For the Redemption of the soul is precious and it ceaseth forever." They pray that she may have a few more days, weeks, or months to prepare to meet her God, if her fate be inevitable.</p>
 <p>We the undersigned therefore, as the counsel of the prisoner appointed by the court on her behalf do ask, And most earnestly pray your Excellency to grant to this most unfortunate of all human beings a brief <hi rend="underline">respite</hi> from the dreadful sentence, till such time<pb/>
 <lb/>as your Excellency's experienced wisdom shall deem commendable -- </p>
-<p>R. F. Baird
-<lb/>J. H. Price
-<lb/>Attos-</p>
+<p><persName ref="cwgk:N002040">R. F. Baird</persName><lb/><persName ref="cwgk:N002014">J. H. Price</persName><lb/>Attos-</p>
 <p>Louisville, Wednesday, <date when="1863-08-12">August 12<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date></p>
 <p>Louisville <date when="1863-08-12">Aug 12<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
 <lb/>To His Excellency
 <lb/>Gov Robinson
 <lb/>Dear Sir -- </p>
 <p>From the representations made to me by the Rev Mr M<hi rend="sup">c</hi>Kee <hi rend="str">l</hi>as to the condition of "Caroline" I deem it entirely appropriate that your excellency should extend the time as to her case</p>
-<p>J R Dupuy
-<lb/>Com' atty-</p>
+<p><persName ref="cwgk:N002002">J R Dupuy
+</persName><lb/>Com' atty-</p>
 <p>For the reasons above indicated I hope the respite will be granted.</p>
-<p>P. B. Muir</p>
+<p><persName ref="cwgk:N002003">P. B. Muir</persName></p>
 <p>To His Excellency
 <lb/>Gov. Robinson
 <lb/>Dear Sir</p>
@@ -93,8 +99,7 @@
 <p>I have been visiting Caroline almost since her conviction -- I endorse the statements made in petition &amp; unite with Mr. McKee in his request.</p>
 <p>Very Respectfully
 <lb/>Henry Adams
-<lb/>Pastor of Fifth St. Baptist Church.
-<lb/>To Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Robinson</p>
+<lb/>Pastor of <orgName ref="cwgk:O001004">Fifth St. Baptist Church</orgName>.<lb/>To Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Robinson</p>
 <p>Jefferson Cir. Ct
 <lb/>Caroline
 <lb/>(woman of color)</p>
