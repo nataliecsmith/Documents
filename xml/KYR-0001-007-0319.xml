@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0319"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -67,13 +75,12 @@
 <lb/>E D S
 <lb/>29</note></p>
 <p>City and County of San Francisco
-<lb/>State of California &#125; S S.</p>
+<lb/>State of California } S S.</p>
 <p>I, N. Proctor Smith, duly appointed by the Governor of the State of Kentucky, a Commissioner for the State of Kentucky, resident at the City and County of San Francisco, in the State of California. do Solemnly Swear, that I will well and faithfully execute and perform all the duties of Such Commissioner under and by virtue of the laws of Said State of Kentucky,</p>
 <p>N. Proctor Smith</p>
 <p>Sworn and Subscribed before me this the <date when="1864-11-09">Ninth day of November A. D. 1864</date></p>
-<p>E, D, Sawyer
-<lb/>District Judge
-<lb/>Fourth Judicial District</p>
+<p><persName ref="cwgk:N00001138">E. D. Sawyer</persName><lb/>District Judge
+<lb/><orgName ref="cwgk:O00001137">Fourth Judicial District</orgName></p>
 <p><figure type="seal"><ab>N. PROCTOR SMITH, COMMISSIONER
 <lb/>FOR THE STATE OF
 <lb/>KENTUCKY
