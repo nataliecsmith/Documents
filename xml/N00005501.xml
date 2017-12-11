@@ -54,8 +54,8 @@
                       Pleasant M. Hale
                         (Mercer County, Kentucky, farmer)
                     </persName>
-                      <birth when="1827-08-18"></birth>
-                      <death when="1911-01-07"></death>
+                        <event type="birth"  when="1827-08-18"  ><ab>1827-08-18</ab></event>
+                        <event type="death"  when="1911-01-07"  ><ab>1911-01-07</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +68,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Mercer County, District No. 2; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Mercer County, District 2, p. 60; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedule, Kentucky, Mercer County, District No. 2, p. 4; <em>Find A Grave</em>, &quot;Pleasant Mayfield Hale (1827-1911),&quot; Memorial #27570398, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=27570398 (accessed August 30, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, District No. 2; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Mercer County, District 2, p. 60; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedule, Kentucky, Mercer County, District No. 2, p. 4; <hi rend=”italic”>Find A Grave</hi>, &quot;Pleasant Mayfield Hale (1827-1911),&quot; Memorial #27570398, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=27570398 (accessed August 30, 2017).
 </bibl></ab>
     </back>
 </text>
