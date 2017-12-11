@@ -44,11 +44,11 @@
                     <term type="type">Geographical Feature</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="G00003748">
                     <geogName>Green River </geogName>
                 </place>
-            </particDesc>
+            </settingDesc>
         </profileDesc>
     </teiHeader>
      <text>
@@ -57,7 +57,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Helen B. Crocker, “Green River,” in <em>The Kentucky Encyclopedia</em>, ed. John E. Kleber (Lexington: University Press of Kentucky, 2015), p. 387-388.</p>
+        <ab><bibl>Helen B. Crocker, “Green River,” in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, ed. John E. Kleber (Lexington: University Press of Kentucky, 2015), p. 387-388.
 </bibl></ab>
     </back>
 </text>
