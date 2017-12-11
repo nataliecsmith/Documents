@@ -46,8 +46,8 @@
                       Josiah Harris, Jr.
                         (Louisville and Paducah attorney)
                     </persName>
-                      <birth when="1839-11-14"></birth>
-                      <death when="1901-11-15"></death>
+                        <event type="birth"  when="1839-11-14"  ><ab>1839-11-14</ab></event>
+                        <event type="death"  when="1901-11-15"  ><ab>1901-11-15</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>J. H. Battle, W. H. Perrin, and G. C. Kniffin, <em>Kentucky: A History of the State</em> pt. 2,(Louisville and Chicago: F. A. Battey Publishing, 1885), 299; <em>Find A Grave</em>, &quot;Josiah Harris (1840 - 1901),&quot; Memorial #84128884, https://findagrave.com/cgi-bin/fg.cgi/http//fg.cgi?page=gr&amp;GRid=84128884 (accessed September 27, 2017).</p>
+        <ab><bibl>J. H. Battle, W. H. Perrin, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi> pt. 2,(Louisville and Chicago: F. A. Battey Publishing, 1885), 299; <hi rend=”italic”>Find A Grave</hi>, &quot;Josiah Harris (1840 - 1901),&quot; Memorial #84128884, https://findagrave.com/cgi-bin/fg.cgi/http//fg.cgi?page=gr&amp;GRid=84128884 (accessed September 27, 2017).
 </bibl></ab>
     </back>
 </text>
