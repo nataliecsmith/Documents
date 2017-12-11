@@ -46,8 +46,8 @@
                       Isaac Biddle
                         (Grant County farmer)
                     </persName>
-                      <birth when="1820-08-02"></birth>
-                      <death when="1885-12-09"></death>
+                        <event type="birth"  when="1820-08-02"  ><ab>1820-08-02</ab></event>
+                        <event type="death"  when="1885-12-09"  ><ab>1885-12-09</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,9 +60,9 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, <br>
-Kentucky, Kenton County, Covington, p. 283. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Grant County, Unknown District, p. 979. <br>
-<em>Find A Grave</em>, &quot;Isaac Biddle (1820 - 1885),&quot; Memorial #118766598, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=118766598&amp;ref=acom (accessed 14 March 14, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, <br>
+Kentucky, Kenton County, Covington, p. 283. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grant County, Unknown District, p. 979. <br>
+<hi rend=”italic”>Find A Grave</hi>, &quot;Isaac Biddle (1820 - 1885),&quot; Memorial #118766598, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=118766598&amp;ref=acom (accessed 14 March 14, 2017).
 </bibl></ab>
     </back>
 </text>
