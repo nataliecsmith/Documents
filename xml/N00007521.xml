@@ -46,8 +46,8 @@
                       Charles Mabry
                         (Ballard County, Kentucky, farmer)
                     </persName>
-                      <birth when="1819-04-05"></birth>
-                      <death when="1882-04-15"></death>
+                        <event type="birth"  when="1819-04-05"  ><ab>1819-04-05</ab></event>
+                        <event type="death"  when="1882-04-15"  ><ab>1882-04-15</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Christian County, District 2, p. 375. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, Blandville, p. 16. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Ballard County, Blandville, p. 4. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Ballard County, District 3, p. 11. <em>Find A Grave</em>, &quot;Charles Jones ‘Charlie’ Mabry (1819-1882),&quot; Memorial #115653194, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=115653194&amp;ref=acom (accessed June 22, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Christian County, District 2, p. 375. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Blandville, p. 16. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Ballard County, Blandville, p. 4. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, District 3, p. 11. <hi rend=”italic”>Find A Grave</hi>, &quot;Charles Jones ‘Charlie’ Mabry (1819-1882),&quot; Memorial #115653194, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=115653194&amp;ref=acom (accessed June 22, 2017).
 </bibl></ab>
     </back>
 </text>
