@@ -42,8 +42,7 @@
                       Montreville G. Wilson
                         (Hickman, Kentucky, brick mason)
                     </persName>
-                      <birth when="c1825"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1825"  certainty="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,7 +55,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Fulton County, Hickman, p. 110; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Illinois, Bond County, Greenville, p. 23; <em>Tennessee, Compiled Marriages, 1851-1900</em>, Ancestry, Shelby County, Tennessee, October 28, 1854.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fulton County, Hickman, p. 110; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Illinois, Bond County, Greenville, p. 23; <hi rend=”italic”>Tennessee, Compiled Marriages, 1851-1900</hi>, Ancestry, Shelby County, Tennessee, October 28, 1854.
 </bibl></ab>
     </back>
 </text>
