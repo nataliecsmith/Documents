@@ -50,8 +50,7 @@
                       Henry E. Haynes
                         (Hancock County, Kentucky, farmer)
                     </persName>
-                      <birth when="1822-11-08"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1822-11-08"  ><ab>1822-11-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>J. H. Battle, W. H. Perrin, &amp; G. C. Kniffin. <em>Kentucky: A History of the State</em> 3rd Ed. (Louisville:Battey Publishing, 1886), 748; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hancock County, p. 276; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hancock County, p. 57; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hancock County, Indian Creek, p. 17; <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Hancock County, KY, 1863, p. 10, (Accessed via ancestry.com).</p>
+        <ab><bibl>J. H. Battle, W. H. Perrin, &amp; G. C. Kniffin. <hi rend=”italic”>Kentucky: A History of the State</hi> 3rd Ed. (Louisville:Battey Publishing, 1886), 748; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hancock County, p. 276; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hancock County, p. 57; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hancock County, Indian Creek, p. 17; <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Hancock County, KY, 1863, p. 10, (Accessed via ancestry.com).
 </bibl></ab>
     </back>
 </text>
