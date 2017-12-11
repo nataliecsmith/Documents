@@ -46,8 +46,8 @@
                       John C. Morton
                         (Ohio county bank teller)
                     </persName>
-                      <birth when="1830"></birth>
-                      <death when="1860"></death>
+                        <event type="birth"  when="1830"  ><ab>1830</ab></event>
+                        <event type="death"  when="1860"  ><ab>1860</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ohio County, Town of Hartford, p. 198; KYR-0001-017-0041; Finding Aid to Jennie Chinn Morton Diary, 1893, SC 4, Martin F. Schmidt Research Library, Kentucky Historical Society, Frankfort, KY.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ohio County, Town of Hartford, p. 198; KYR-0001-017-0041; Finding Aid to Jennie Chinn Morton Diary, 1893, SC 4, Martin F. Schmidt Research Library, Kentucky Historical Society, Frankfort, KY.
 </bibl></ab>
     </back>
 </text>
