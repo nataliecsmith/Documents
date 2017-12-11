@@ -46,8 +46,8 @@
                       Richard Hawes
                         (Provisional Governor of Kentucky)
                     </persName>
-                      <birth when="1797-02-06"></birth>
-                      <death when="1877-05-25"></death>
+                        <event type="birth"  when="1797-02-06"  ><ab>1797-02-06</ab></event>
+                        <event type="death"  when="1877-05-25"  ><ab>1877-05-25</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Lowell H. Harrison, “Richard Hawes (1862-1865)” in Lowell H. Harrison, Ed., <em>Kentucky’s Governors</em> (Lexington: University Press of Kentucky, 2004), 85-88. Biographical Directory of the United States Congress,  s.v. “Richard Hawes,” http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000363 (accessed on October 18, 2016). <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bourbon County, Paris, p. 14. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Bourbon County, Paris. Patrick A. Lewis, <em>For Slavery and Union: Benjamin Buckner and Kentucky Loyalties in the Civil War</em> (Lexington: University Press of Kentucky, 2015), 20. <em>Find A Grave</em>, &quot;Richard Hawes (1797-1877),&quot; Memorial #10040, http://www.findagrave.com/memorial/10040/richard-hawes (accessed October 18, 2016).</p>
+        <ab><bibl>Lowell H. Harrison, “Richard Hawes (1862-1865)” in Lowell H. Harrison, Ed., <hi rend=”italic”>Kentucky’s Governors</hi> (Lexington: University Press of Kentucky, 2004), 85-88. Biographical Directory of the United States Congress,  s.v. “Richard Hawes,” http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000363 (accessed on October 18, 2016). <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bourbon County, Paris, p. 14. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Bourbon County, Paris. Patrick A. Lewis, <hi rend=”italic”>For Slavery and Union: Benjamin Buckner and Kentucky Loyalties in the Civil War</hi> (Lexington: University Press of Kentucky, 2015), 20. <hi rend=”italic”>Find A Grave</hi>, &quot;Richard Hawes (1797-1877),&quot; Memorial #10040, http://www.findagrave.com/memorial/10040/richard-hawes (accessed October 18, 2016).
 </bibl></ab>
     </back>
 </text>
