@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P001008">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Robert J. Norrell, Louis De Vorsey, and George Hendricks, &quot;Georgia&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/Georgia-state) (accessed on June 26, 2017).</p>
+        <ab><bibl>Robert J. Norrell, Louis De Vorsey, and George Hendricks, &quot;Georgia&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/Georgia-state) (accessed on June 26, 2017).
 </bibl></ab>
     </back>
 </text>
