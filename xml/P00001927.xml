@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00001927">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Carroll Van West, &quot;Davidson County&quot; in <em>The Tennessee Encyclopedia of History and Culture</em>, version 2.0, tennesseeencyclopedia.net/entry.php?rec=356 (accessed September 18, 2017).</p>
+        <ab><bibl>Carroll Van West, &quot;Davidson County&quot; in <hi rend=”italic”>The Tennessee Encyclopedia of History and Culture</hi>, version 2.0, tennesseeencyclopedia.net/entry.php?rec=356 (accessed September 18, 2017).
 </bibl></ab>
     </back>
 </text>
