@@ -46,8 +46,7 @@
                       Elijah R. Eskridge
                         (Breckinridge County, Kentucky, cabinet maker)
                     </persName>
-                      <birth when="1813-09-19"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1813-09-19"  ><ab>1813-09-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em> (Louisville: F. A. Battey and Company, 1887), 1057-1058. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Breckinridge County, District 1, p. 114. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Breckinridge County, District 1. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 23. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 478. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 1.</p>
+        <ab><bibl>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi> (Louisville: F. A. Battey and Company, 1887), 1057-1058. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District 1, p. 114. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Breckinridge County, District 1. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 23. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 478. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 1.
 </bibl></ab>
     </back>
 </text>
