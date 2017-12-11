@@ -46,8 +46,7 @@
                       Edmund W. Hawkins
                         (Newport, Kentucky, attorney)
                     </persName>
-                      <birth when="c1815"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1815"  certainty="medium" ><ab>c1815</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850),  Population Schedules, Kentucky, Gallatin County, p. 154. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Campbell County, Newport, p. 240. <em>Ninth Manuscript Census of the United States</em> (1870), Campbell County, Newport, p. 346. Population Schedules, Kentucky, Campbell County, Newport, p. 462. <em>Kentucky Marriage Records, 1852-1914</em>, Ancestry, Marriages, Owen County, Kentucky, 1855. <em>Find A Grave</em>, &quot;Edmund W. Hawkins (1815-1909),&quot; Memorial #106123793, http://www.findagrave.com/memorial/106123793/edmund-w.-hawkins (accessed April 17, 2017). KYR-0001-029-0592.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850),  Population Schedules, Kentucky, Gallatin County, p. 154. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Campbell County, Newport, p. 240. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Campbell County, Newport, p. 346. Population Schedules, Kentucky, Campbell County, Newport, p. 462. <hi rend=”italic”>Kentucky Marriage Records, 1852-1914</hi>, Ancestry, Marriages, Owen County, Kentucky, 1855. <hi rend=”italic”>Find A Grave</hi>, &quot;Edmund W. Hawkins (1815-1909),&quot; Memorial #106123793, http://www.findagrave.com/memorial/106123793/edmund-w.-hawkins (accessed April 17, 2017). KYR-0001-029-0592.
 </bibl></ab>
     </back>
 </text>
