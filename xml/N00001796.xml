@@ -46,8 +46,8 @@
                       Charles Jefferson Sterett
                         (Hancock Co med student &amp; CS soldier)
                     </persName>
-                      <birth when="1833-02"></birth>
-                      <death when="1893-08-06"></death>
+                        <event type="birth"  when="1833-02"  ><ab>1833-02</ab></event>
+                        <event type="death"  when="1893-08-06"  ><ab>1893-08-06</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 268; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 40; <em>Twelfth Manuscript Census of the United States</em> (1900), Population Schedules, Kentucky, Hancock County, ED 41, Hawesville City, Ward 1, p. 7A; 1018 Sterett, Eliza McAdams, Application for Pension, July 1, 1912, Department of Confederate Pensions (1912-1946), Kentucky Department for Libraries and Archives, https://dspace.kdla.ky.gov/jspui/handle/10602/3781 (accessed September 13, 2017); <em>Report of the Adjutant General of the State of Kentucky: Confederate Kentucky Volunteers War 1861-65</em>, vol. 1 (Frankfort: Legislature of Kentucky, 1915), 22.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 268; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 40; <hi rend=”italic”>Twelfth Manuscript Census of the United States</hi> (1900), Population Schedules, Kentucky, Hancock County, ED 41, Hawesville City, Ward 1, p. 7A; 1018 Sterett, Eliza McAdams, Application for Pension, July 1, 1912, Department of Confederate Pensions (1912-1946), Kentucky Department for Libraries and Archives, https://dspace.kdla.ky.gov/jspui/handle/10602/3781 (accessed September 13, 2017); <hi rend=”italic”>Report of the Adjutant General of the State of Kentucky: Confederate Kentucky Volunteers War 1861-65</hi>, vol. 1 (Frankfort: Legislature of Kentucky, 1915), 22.
 </bibl></ab>
     </back>
 </text>
