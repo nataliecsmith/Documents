@@ -44,7 +44,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P001004">
                     <placeName>
                         <location>
@@ -53,7 +53,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -62,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Ophelia Paine and John Lawrence Connelly, &quot;Nashville (Metropolitan Nashville/ Davidson County),&quot; <em>Tennessee Encyclopedia of History and Culture</em>, 2016, http://www.tennesseeencyclopedia.net/entry.php?rec=964 (accessed July 19, 2016).</p>
+        <ab><bibl>Ophelia Paine and John Lawrence Connelly, &quot;Nashville (Metropolitan Nashville/ Davidson County),&quot; <hi rend=”italic”>Tennessee Encyclopedia of History and Culture</hi>, 2016, http://www.tennesseeencyclopedia.net/entry.php?rec=964 (accessed July 19, 2016).
 </bibl></ab>
     </back>
 </text>
