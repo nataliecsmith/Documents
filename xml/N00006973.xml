@@ -46,8 +46,7 @@
                       Lucinda Hall
                         (Powell County, Kentucky, resident)
                     </persName>
-                      <birth when="c1819"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1819"  certainty="medium" ><ab>c1819</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Montgomery County, District 2, p. 53. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Powell County, p. 20. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Powell County, Precinct 2, Subdivision 144, p. 21.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Montgomery County, District 2, p. 53. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Powell County, p. 20. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Powell County, Precinct 2, Subdivision 144, p. 21.
 </bibl></ab>
     </back>
 </text>
