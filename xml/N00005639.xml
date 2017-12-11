@@ -50,8 +50,8 @@
                       Stephen Benton
                         (Philadelphia, Pennsylvania, attorney, councilman, and entrepreneur)
                     </persName>
-                      <birth when="c1830"></birth>
-                      <death when="1866-10-25"></death>
+                        <event type="birth"  when="1830"  certainty="medium" ><ab>c1830</ab></event>
+                        <event type="death"  when="1866-10-25"  ><ab>1866-10-25</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 1, Division 3, p. 156; &quot;Semi-Annual Meeting,&quot; <em>The Public Ledgar</em> (Philadelphia, Pa.), July 8, 1856, p. 2; <em>Find A Grave</em>, &quot;Stephen Benton (1830-1866),&quot; Memorial #160301903, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=160301903&amp;ref=acom (accessed June 6, 2017); <em>McElroy&#39;s Philadelphia City Directory, 1865</em> (Philadelphia: Sherman &amp; Co., 1865), 73; <em>Pennsylvania, Philadelphia City Death Certificates, 1803–1915, Index</em>, FamilySearch, Salt Lake City, Utah, 2008, 2010, Film# 1993242 (accessed via ancestry.com).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 1, Division 3, p. 156; &quot;Semi-Annual Meeting,&quot; <hi rend=”italic”>The Public Ledgar</hi> (Philadelphia, Pa.), July 8, 1856, p. 2; <hi rend=”italic”>Find A Grave</hi>, &quot;Stephen Benton (1830-1866),&quot; Memorial #160301903, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=160301903&amp;ref=acom (accessed June 6, 2017); <hi rend=”italic”>McElroy&#39;s Philadelphia City Directory, 1865</hi> (Philadelphia: Sherman &amp; Co., 1865), 73; <hi rend=”italic”>Pennsylvania, Philadelphia City Death Certificates, 1803–1915, Index</hi>, FamilySearch, Salt Lake City, Utah, 2008, 2010, Film# 1993242 (accessed via ancestry.com).
 </bibl></ab>
     </back>
 </text>
