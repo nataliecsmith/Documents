@@ -42,8 +42,8 @@
                       John N. Norton
                         (Frankfort, Kentucky, minister, professor, and author)
                     </persName>
-                      <birth when="c1820"></birth>
-                      <death when="1881-01-18"></death>
+                        <event type="birth"  when="1820"  certainty="medium" ><ab>c1820</ab></event>
+                        <event type="death"  when="1881-01-18"  ><ab>1881-01-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -52,11 +52,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Frankfort, Kentucky, minister, professor, and author. Virginia native. Married to Mary L. Norton. Attended Hobart College in New York. Assistant rector of the Episcopal Church in Rochester, New York from 1844 to 1846. Relocated to Frankfort in 1847. Founding rector of the Episcopal Church of the Ascension in Frankfort, serving from 1847 to 1870. Owned five enslaved persons in 1860. Professor at Dr. Lloyd&#39;s English School and the Kentucky Military Institute. Author of many books of theology and history, including <em>The Boy who was Trained Up to be a Clergyman</em>, <em>Life of General Washington</em>, <em>Life of Doctor Franklin</em>, and many sermons and biographies of prominent Episcopal bishops.</p>
+        <p>Frankfort, Kentucky, minister, professor, and author. Virginia native. Married to Mary L. Norton. Attended Hobart College in New York. Assistant rector of the Episcopal Church in Rochester, New York from 1844 to 1846. Relocated to Frankfort in 1847. Founding rector of the Episcopal Church of the Ascension in Frankfort, serving from 1847 to 1870. Owned five enslaved persons in 1860. Professor at Dr. Lloyd&#39;s English School and the Kentucky Military Institute. Author of many books of theology and history, including <hi rend=”italic”>The Boy who was Trained Up to be a Clergyman</hi>, <hi rend=”italic”>Life of General Washington</hi>, <hi rend=”italic”>Life of Doctor Franklin</hi>, and many sermons and biographies of prominent Episcopal bishops.</p>
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 102; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Franklin County, Frankfort, p. 16; &quot;Rev. Dr. Norton: Death in this City Yesterday of the Associate Rector of Christ Church,&quot; <em>Courier-Journal</em> (Louisville, Ky.), January 19, 1881, p. 3; &quot;The Late Dr. Norton: The Whole Community Turns Out to Pay the Last Honors to Departed Worth,&quot; <em>Courier-Journal</em> (Louisville, Ky.), January 21, 1881, p. 3; John N. Norton, A.M., <em>The Boy who was Trained Up to be a Clergyman</em> (Philadelphia: H. Hooker, 1857); John N. Norton, A.M., <em>Life of General Washington</em> (New York: General Protestant Episcopal S. School Union, and Church Book Society, 1860); John N. Norton, A.M., <em>Life of Doctor Franklin</em> (Frankfort, Ky.: S.I.M. Major &amp; Co., 1861).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, p. 102; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Franklin County, Frankfort, p. 16; &quot;Rev. Dr. Norton: Death in this City Yesterday of the Associate Rector of Christ Church,&quot; <hi rend=”italic”>Courier-Journal</hi> (Louisville, Ky.), January 19, 1881, p. 3; &quot;The Late Dr. Norton: The Whole Community Turns Out to Pay the Last Honors to Departed Worth,&quot; <hi rend=”italic”>Courier-Journal</hi> (Louisville, Ky.), January 21, 1881, p. 3; John N. Norton, A.M., <hi rend=”italic”>The Boy who was Trained Up to be a Clergyman</hi> (Philadelphia: H. Hooker, 1857); John N. Norton, A.M., <hi rend=”italic”>Life of General Washington</hi> (New York: General Protestant Episcopal S. School Union, and Church Book Society, 1860); John N. Norton, A.M., <hi rend=”italic”>Life of Doctor Franklin</hi> (Frankfort, Ky.: S.I.M. Major &amp; Co., 1861).
 </bibl></ab>
     </back>
 </text>
