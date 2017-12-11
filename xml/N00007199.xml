@@ -46,8 +46,7 @@
                       Elijah Story
                         (Fleming County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1786"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1786"  certainty="medium" ><ab>c1786</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Fleming County, Division 2, p. 399. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Fleming County, District 1, p. 135. &quot;Kentucky Marriages, 1785-1979,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FWBL-7YQ : 4 December 2014), Elijah Story and Martha Hunt, 24 Dec 1812; citing Fleming, Kentucky, reference p90 ln23; FHL microfilm 344,015.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, Division 2, p. 399. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 1, p. 135. &quot;Kentucky Marriages, 1785-1979,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FWBL-7YQ : 4 December 2014), Elijah Story and Martha Hunt, 24 Dec 1812; citing Fleming, Kentucky, reference p90 ln23; FHL microfilm 344,015.
 </bibl></ab>
     </back>
 </text>
