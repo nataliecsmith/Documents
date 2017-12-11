@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00002512">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Robert H. Fuson and Robert J. Norrell, &quot;Florida&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/Florida) (accessed on June 26, 2017).</p>
+        <ab><bibl>Robert H. Fuson and Robert J. Norrell, &quot;Florida&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/Florida) (accessed on June 26, 2017).
 </bibl></ab>
     </back>
 </text>
