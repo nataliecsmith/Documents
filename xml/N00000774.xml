@@ -46,8 +46,8 @@
                       Joseph T. Tompkins
                         (Louisville merchant)
                     </persName>
-                      <birth when="1820"></birth>
-                      <death when="1877-09-19"></death>
+                        <event type="birth"  when="1820"  ><ab>1820</ab></event>
+                        <event type="death"  when="1877-09-19"  ><ab>1877-09-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>John E. Kleber, <em>The Kentucky Encyclopedia</em> (Lexington: University Press of Kentucky, 2015). &quot;Kentucky Deaths and Burials, 1843-1970,&quot; database, <em>FamilySearch</em> (https://familysearch.org/ark:/61903/1:1:FW5Y-6Z9), Joseph T. Tompkins, citing reference PG 299; FHL microfilm 2,022,161.</p>
+        <ab><bibl>John E. Kleber, <hi rend=”italic”>The Kentucky Encyclopedia</hi> (Lexington: University Press of Kentucky, 2015). &quot;Kentucky Deaths and Burials, 1843-1970,&quot; database, <hi rend=”italic”>FamilySearch</hi> (https://familysearch.org/ark:/61903/1:1:FW5Y-6Z9), Joseph T. Tompkins, citing reference PG 299; FHL microfilm 2,022,161.
 </bibl></ab>
     </back>
 </text>
