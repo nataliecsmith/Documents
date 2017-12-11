@@ -46,8 +46,7 @@
                       Robert Richardson
                         (Covington, Kentucky, attorney, politician, and superintendent of public instruction)
                     </persName>
-                      <birth when="1826-05-18"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1826-05-18"  ><ab>1826-05-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>J. H. Battle, W. H. Perrin and G. C. Kniffin, <em>Kentucky: A History of the State</em> (Chicago: F. A. Battey Publishing Company in 1887), 869-70; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Kenton County, 7th Ward Covington City, p. 406; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Kenton County, Covington, p. 71; Lewis Collins and Richard H. Collins, eds. <em>History of Kentucky</em>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1878), 421.</p>
+        <ab><bibl>J. H. Battle, W. H. Perrin and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi> (Chicago: F. A. Battey Publishing Company in 1887), 869-70; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, 7th Ward Covington City, p. 406; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Kenton County, Covington, p. 71; Lewis Collins and Richard H. Collins, eds. <hi rend=”italic”>History of Kentucky</hi>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1878), 421.
 </bibl></ab>
     </back>
 </text>
