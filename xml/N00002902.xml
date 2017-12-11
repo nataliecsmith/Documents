@@ -50,8 +50,8 @@
                       Thomas W. Dixon
                         (farmer, henderson county)
                     </persName>
-                      <birth when="1821"></birth>
-                      <death when="1908"></death>
+                        <event type="birth"  when="1821"  ><ab>1821</ab></event>
+                        <event type="death"  when="1908"  ><ab>1908</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Henderson County, District No. 2, p. 342. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Henderson County, Division No. 1, p. 71. <em>Find A Grave</em>, &quot;Thomas W Dixon (1821-1908),&quot; Memorial #105345665, https://www.findagrave.com/memorial/105345665 (accessed November 30, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Henderson County, District No. 2, p. 342. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henderson County, Division No. 1, p. 71. <hi rend=”italic”>Find A Grave</hi>, &quot;Thomas W Dixon (1821-1908),&quot; Memorial #105345665, https://www.findagrave.com/memorial/105345665 (accessed November 30, 2017).
 </bibl></ab>
     </back>
 </text>
