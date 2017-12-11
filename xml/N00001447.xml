@@ -54,8 +54,8 @@
                       James D. White
                         (Blandville, Kentucky, attorney)
                     </persName>
-                      <birth when="1831-10-31"></birth>
-                      <death when="1875-05-10"></death>
+                        <event type="birth"  when="1831-10-31"  ><ab>1831-10-31</ab></event>
+                        <event type="death"  when="1875-05-10"  ><ab>1875-05-10</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +68,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>J. H. Battle, W. H. Perrin, and G. C. Kniffin, <em>Kentucky: A History of the State</em>, Part II (Louisville: F. A. Battey Publishing Company, 1885), p. 167. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, Blandville, p. 7. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Ballard County, Corporation of Blandville, p. 8.</p>
+        <ab><bibl>J. H. Battle, W. H. Perrin, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi>, Part II (Louisville: F. A. Battey Publishing Company, 1885), p. 167. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Blandville, p. 7. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, Corporation of Blandville, p. 8.
 </bibl></ab>
     </back>
 </text>
