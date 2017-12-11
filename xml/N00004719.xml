@@ -50,8 +50,7 @@
                       George Coy
                         (Maysville, Kentucky machinist)
                     </persName>
-                      <birth when="c1816"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1816"  certainty="medium" ><ab>c1816</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Campbell County, Newport, p. 55. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Mason County, Maysville, p. 347. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Ohio, Clinton County, Jefferson, p. 33.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Campbell County, Newport, p. 55. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, Maysville, p. 347. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Clinton County, Jefferson, p. 33.
 </bibl></ab>
     </back>
 </text>
