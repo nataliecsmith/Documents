@@ -50,8 +50,7 @@
                       James P. Flint
                         (Hopkinsville, Kentucky, merchant, tailor, and state agent)
                     </persName>
-                      <birth when="c1816"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1816"  certainty="medium" ><ab>c1816</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Christian County, Hopkinsville, p. 22; <em>Edwards&#39; Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, Business firms, Etc., Etc., in the City of Louisville, For 1865-6</em> (Louisville: Edwards, Greenough &amp; Deved, 1866), p. 302; Tony Curtis, &quot;Black Enlistment: Kentucky Was Against it, Before it Was Mostly Against it,&quot; <em>Civil War Governors of Kentucky</em> (blog), Kentucky Historical Society, January 8, 2015, (http://civilwargovernors.org/black-enlistment-kentucky-was-against-it-before-it-was-mostly-against-it/); KYR-0001-007-0339.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Christian County, Hopkinsville, p. 22; <hi rend=”italic”>Edwards&#39; Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, Business firms, Etc., Etc., in the City of Louisville, For 1865-6</hi> (Louisville: Edwards, Greenough &amp; Deved, 1866), p. 302; Tony Curtis, &quot;Black Enlistment: Kentucky Was Against it, Before it Was Mostly Against it,&quot; <hi rend=”italic”>Civil War Governors of Kentucky</hi> (blog), Kentucky Historical Society, January 8, 2015, (http://civilwargovernors.org/black-enlistment-kentucky-was-against-it-before-it-was-mostly-against-it/); KYR-0001-007-0339.
 </bibl></ab>
     </back>
 </text>
