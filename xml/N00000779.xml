@@ -50,8 +50,8 @@
                       A. J. Ballard
                         (Jefferson County Attorney)
                     </persName>
-                      <birth when="1817"></birth>
-                      <death when="1885-08-17"></death>
+                        <event type="birth"  when="1817"  ><ab>1817</ab></event>
+                        <event type="death"  when="1885-08-17"  ><ab>1885-08-17</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Tenth Manuscript Census of the United States (1880)</em>, Population Schedules, Kentucky, Jefferson County, Louisville, ED 118, p. 57. &quot;Kentucky Deaths and Burials, 1843-1970,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FWP8-1WB : 4 December 2014), A. J. Ballard, 17 Aug 1885; citing reference bk6, p166; FHL microfilm 209, 703. H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 147.</p>
+        <ab><bibl><hi rend=”italic”>Tenth Manuscript Census of the United States (1880)</hi>, Population Schedules, Kentucky, Jefferson County, Louisville, ED 118, p. 57. &quot;Kentucky Deaths and Burials, 1843-1970,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FWP8-1WB : 4 December 2014), A. J. Ballard, 17 Aug 1885; citing reference bk6, p166; FHL microfilm 209, 703. H. Levin, <hi rend=”italic”>The Lawyers and Lawmakers of Kentucky</hi> (Chicago: The Lewis Publishing Company, 1897), 147.
 </bibl></ab>
     </back>
 </text>
