@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0002"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,31 +71,26 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hon T. E. Bramblette
-<lb/>Govener of Ky-</p>
-<p>The undersigned your petitioners citizens of Carroll County would respectfully state that at the <date when="1860-08">Aug term 1860</date> Allen T. Sha was tried in the Carroll Circuit Court and fined &#36;50- for selling liquor to a minor. On the trial it was proved that the party to whom the liquor was sold had been trading for him self for 11 or 12 years and that he had the physical appearance of being over 21- <hi rend="str">M</hi><hi rend="str"><hi rend="sup">r</hi></hi><hi rend="str"> Sha</hi> We further state that M<hi rend="underline"><hi rend="sup">r</hi></hi> Sha is a man of moderate means that there has been no indictment found agst him since that time. that he has conducted himself as a law abiding citizen and we believe will continue to do so. Believeing that there was no <hi rend="underline">intention</hi> to commit the offence and having full confidence in his future deportment We respectfully request your excellency to remit the Comwth<hi rend="sup">s</hi> part of said fine.</p>
+   <p>Hon <persName ref="cwgk:N001000">T. E. Bramblette
+</persName><lb/>Govener of <orgName ref="cwgk:O001025">Ky</orgName>-</p>
+<p>The undersigned your petitioners citizens of <placeName ref="cwgk:P00000682">Carroll County</placeName> would respectfully state that at the <date when="1860-08">Aug term 1860</date> <persName ref="cwgk:N001779">Allen T. Sha </persName>was tried in the <orgName ref="cwgk:O00000365">Carroll Circuit Court </orgName>and fined $50- for selling liquor to a minor. On the trial it was proved that the party to whom the liquor was sold had been trading for him self for 11 or 12 years and that he had the physical appearance of being over 21- <hi rend="str">M</hi><hi rend="str"><hi rend="sup">r</hi></hi><hi rend="str"> Sha</hi> We further state that M<hi rend="underline"><hi rend="sup">r</hi></hi> Sha is a man of moderate means that there has been no indictment found agst him since that time. that he has conducted himself as a law abiding citizen and we believe will continue to do so. Believeing that there was no <hi rend="underline">intention</hi> to commit the offence and having full confidence in his future deportment We respectfully request your excellency to remit the Comwth<hi rend="sup">s</hi> part of said fine.</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Allen. T. Shea.
-<lb/>H M Wise
-<lb/>S. Z. Roberts
-<lb/>W. C. Rutherford
-<lb/>W L Ringo
-<lb/>Robert Darling
-<lb/>R. Z Jett
-<lb/><cb n="2"/>Henry Wetherill
-<lb/>R. S. Luckett
-<lb/>J. H. Foster
-<lb/>G. W. Chapman
-<lb/>Benjamin Green
-<lb/>A W Darling
-<lb/>S. S. Carlisle
-<lb/>Yohomas Wealch<milestone unit="column" n="1"/><pb/>
+<lb/><persName ref="cwgk:N00000683">H M Wise</persName><lb/><persName ref="cwgk:N00000684">S. Z. Roberts
+</persName><lb/><persName ref="cwgk:N00000685">W. C. Rutherford
+</persName><lb/><persName ref="cwgk:N00000686">W L Ringo</persName><lb/><persName ref="cwgk:N00000687">Robert Darling
+</persName><lb/>R. Z Jett
+<lb/><cb n="2"/><persName ref="cwgk:N00000689">Henry Wetherill
+</persName><lb/><persName ref="cwgk:N00000690">R. S. Luckett
+</persName><lb/>J. H. Foster
+<lb/><persName ref="cwgk:N00000692">G. W. Chapman</persName><lb/><persName ref="cwgk:N00000693">Benjamin Green
+</persName><lb/>A W Darling
+<lb/><persName ref="cwgk:N00000695">S. S. Carlisle
+</persName><lb/>Yohomas Wealch<milestone unit="column" n="1"/><pb/>
 <lb/>W<hi rend="sup">m</hi> Darling
-<lb/>Prentis Meade
-<lb/>G. W Dunn
-<lb/>Geo Ringo Sr</p>
-<p>Carollton <date when="1863-09-08">Sep 8</date>.</p>
+<lb/><persName ref="cwgk:N00000705">Prentis Meade</persName><lb/><persName ref="cwgk:N00000704">G. W Dunn</persName><lb/>Geo Ringo Sr</p>
+<p><placeName ref="cwgk:P00000697">Carollton</placeName> <date when="1863-09-08">Sep 8</date>.</p>
 <p>I am well acquainted with the subscribers to this petition and Know that their signatures are genuine. They are men of veracity, influence and position. If consistent with executive policy the remission of this fine would be gratifying to this community</p>
-<p>W. M. Fisher.</p>
+<p><persName ref="cwgk:N00000698">W. M. Fisher</persName>.</p>
 <p>Carroll County
 <lb/><date when="1863-09-10">Sept 10<hi rend="sup">th</hi> 1863</date></p>
 <p>Application of Allen. T. Sha for remission of fine Carroll Circuit.</p>
