@@ -50,8 +50,7 @@
                       John E. Hamilton
                         (Covington atty)
                     </persName>
-                      <birth when="1838-08-01"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1838-08-01"  ><ab>1838-08-01</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>J. H. Battle, W. H. Perrin, &amp; G. C. Kniffin <em>Kentucky: A History of the State 7th ed.</em> (Louisville: Battey Publishing, 1887), 810-11. KYR-0001-017-0009.</p>
+        <ab><bibl>J. H. Battle, W. H. Perrin, &amp; G. C. Kniffin <hi rend=”italic”>Kentucky: A History of the State 7th ed.</hi> (Louisville: Battey Publishing, 1887), 810-11. KYR-0001-017-0009.
 </bibl></ab>
     </back>
 </text>
