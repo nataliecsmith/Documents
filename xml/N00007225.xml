@@ -46,8 +46,7 @@
                       James H. Catlett
                         (Eddyville, Kentucky broker)
                     </persName>
-                      <birth when="c1825"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1825"  certainty="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 99; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Lyon County, Eddyville, p. 12; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Lyon County, Eddyville, p. 5.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 99; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Lyon County, Eddyville, p. 12; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lyon County, Eddyville, p. 5.
 </bibl></ab>
     </back>
 </text>
