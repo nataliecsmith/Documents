@@ -54,8 +54,7 @@
                       William Calhoon
                         (Calhoun, Ky lawyer)
                     </persName>
-                      <birth when="c1821"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1821"  certainty="medium" ><ab>c1821</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +67,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Daviess County, District No. 2, p. 455. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, [State], McLean County, Calhoun, p. 4.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Daviess County, District No. 2, p. 455. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, [State], McLean County, Calhoun, p. 4.
 </bibl></ab>
     </back>
 </text>
