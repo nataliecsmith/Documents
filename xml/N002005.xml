@@ -46,8 +46,8 @@
                       Anna Stutsman Levi
                         (Louisville)
                     </persName>
-                      <birth when="1836-09-29"></birth>
-                      <death when="1920-01-31"></death>
+                        <event type="birth"  when="1836-09-29"  ><ab>1836-09-29</ab></event>
+                        <event type="death"  when="1920-01-31"  ><ab>1920-01-31</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -60,9 +60,9 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, 11th Ward, p. 265.</p>
+        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, 11th Ward, p. 265.
 
-<p>Vital Statistics Original Death Certificates – Microfilm (1911-1955), Kentucky Department for Libraries and Archives, Frankfort, Kentucky, Film 7016226: All Counties, p. 1532.</p>
+Vital Statistics Original Death Certificates – Microfilm (1911-1955), Kentucky Department for Libraries and Archives, Frankfort, Kentucky, Film 7016226: All Counties, p. 1532.
 </bibl></ab>
     </back>
 </text>
