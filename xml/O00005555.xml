@@ -43,8 +43,6 @@
             <particDesc>
                 <org xml:id="O00005555">
                     <orgName>Mitchell &amp; Barbee</orgName>
-                      <event type="begun" when="unknown">unknown</event>
-                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +53,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-007-0382</p>
+        <ab><bibl>KYR-0001-007-0382
 </bibl></ab>
     </back>
 </text>
