@@ -46,8 +46,8 @@
                       Thomas D. Brothers
                         (Fleming County, Kentucky, merchant)
                     </persName>
-                      <birth when="1835"></birth>
-                      <death when="1913-11-11"></death>
+                        <event type="birth"  when="1835"  ><ab>1835</ab></event>
+                        <event type="death"  when="1913-11-11"  ><ab>1913-11-11</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Montgomery County, District 1, p. 20. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Fleming County, Hillsboro, p. 3. <em>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</em>, Fayette County, 1913,  file no. 29067, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Ninth Congressional District, Subdistrict 7, Fleming County, KY, October 1863, p. 38, (Accessed via ancestry.com). KYR-0001-029-0573.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Montgomery County, District 1, p. 20. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fleming County, Hillsboro, p. 3. <hi rend=”italic”>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, Fayette County, 1913,  file no. 29067, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Ninth Congressional District, Subdistrict 7, Fleming County, KY, October 1863, p. 38, (Accessed via ancestry.com). KYR-0001-029-0573.
 </bibl></ab>
     </back>
 </text>
