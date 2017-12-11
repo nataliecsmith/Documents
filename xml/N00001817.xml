@@ -46,8 +46,8 @@
                       Thomas M. Newman
                         (hancock county)
                     </persName>
-                      <birth when="1819-12-17"></birth>
-                      <death when="1894-08-17"></death>
+                        <event type="birth"  when="1819-12-17"  ><ab>1819-12-17</ab></event>
+                        <event type="death"  when="1894-08-17"  ><ab>1894-08-17</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 274 B; <em>Find A Grave</em>, &quot;Thomas M. Newman (1819 - 1894),&quot; Memorial #90278374, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=90278374 (accessed September 12, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 274 B; <hi rend=”italic”>Find A Grave</hi>, &quot;Thomas M. Newman (1819 - 1894),&quot; Memorial #90278374, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=90278374 (accessed September 12, 2017).
 </bibl></ab>
     </back>
 </text>
