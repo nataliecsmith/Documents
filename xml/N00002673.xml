@@ -50,8 +50,7 @@
                       Robert Enders
                         (Paducah, Kentucky, retired merchant and planter)
                     </persName>
-                      <birth when="1800"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1800"  ><ab>1800</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, McCracken County, District 1, p. 141. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, McCracken County, District 2, Paducah, p. 110. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, McCracken County, District 2, Paducah, p. 16. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, McCracken County, Precinct 6, p. 33. <em>Genealogies of Virginia Families, From Tyler’s Quarterly Historical and Genealogical Magazine, Volume I: Albridgton-Gerlache</em> (Baltimore, MD: Genealogical Publishing Co for Clearfield Company, 2007), p. 193-195.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, McCracken County, District 1, p. 141. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McCracken County, District 2, Paducah, p. 110. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, McCracken County, District 2, Paducah, p. 16. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, McCracken County, Precinct 6, p. 33. <hi rend=”italic”>Genealogies of Virginia Families, From Tyler’s Quarterly Historical and Genealogical Magazine, Volume I: Albridgton-Gerlache</hi> (Baltimore, MD: Genealogical Publishing Co for Clearfield Company, 2007), p. 193-195.
 </bibl></ab>
     </back>
 </text>
