@@ -46,8 +46,7 @@
                       G. H. Roberts
                         (hancock county)
                     </persName>
-                      <birth when="c1818"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1818"  certainty="medium" ><ab>c1818</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 94; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Hancock County, Unnamed District, p. 8.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 94; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Hancock County, Unnamed District, p. 8.
 </bibl></ab>
     </back>
 </text>
