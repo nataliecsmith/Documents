@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0031"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,47 +70,44 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his excellency the Governor of Kentucky Thomas E Bramlette your petitioners Ben Young Jordan Young &amp; Randal Young, State that at the <date when="1863-02">February term of the Franklin circuit court held in 1863</date>. They were fined forty dollars each amounting in the whole to one hundred and twenty dollars which fine incurres to the Commonwealth of Ky After deducting the per cent of the commonwealths Attorney and costs of suit. A malicious prosecution in the name of the Commonwealth had been set on foot by an individual by the name of Daniel Geo. who was and is an enemy of these defendant (Petitioners) alleging a trespass to real and personal property, and mainly by his evidence alone they were fined. They state that they are innocent that they never committed any offense and that the whole thing was malicious, and unfounded from the beginning. They state that they are poor, and unable to pay that amount and if compelled to do so will be deprived of the means of support. They therefore ask that your executive <hi rend="str">excellency</hi> clemency be extended towards them, and that said fine be remitted so much as goes to the Commonwealth. The Petitioners Ben Young Jordan Young and Randall Young state that the foregoing petition is true<pb/></p>
+   <p>To his excellency the Governor of Kentucky <persName ref="cwgk:N001000">Thomas E Bramlette</persName> your petitioners <persName ref="cwgk:N00007886">Ben Young</persName> <persName ref="cwgk:N00007930">Jordan Young</persName> &amp; <persName ref="cwgk:N00007887">Randal Young</persName>, State that at the February term of the . They were fined forty dollars each amounting in the whole to one hundred and twenty dollars which fine incurres to the <orgName ref="cwgk:O001025">Commonwealth of Ky</orgName> After deducting the per cent of the <persName ref="cwgk:N00002277">commonwealths Attorney</persName> and costs of suit. A malicious prosecution in the name of the Commonwealth had been set on foot by an individual by the name of <persName ref="cwgk:N00007891">Daniel Geo.</persName> who was and is an enemy of these defendant (Petitioners) alleging a trespass to real and personal property, and mainly by his evidence alone they were fined. They state that they are innocent that they never committed any offense and that the whole thing was malicious, and unfounded from the beginning. They state that they are poor, and unable to pay that amount and if compelled to do so will be deprived of the means of support. They therefore ask that your executive <orgName ref="cwgk:O00000376">Franklin circuit court </orgName>held in 1863<hi rend="str">excellency</hi> clemency be extended towards them, and that said fine be remitted so much as goes to the Commonwealth. The Petitioners <persName ref="cwgk:N00007886">Ben Young</persName> <persName ref="cwgk:N00007930">Jordan Young</persName> and Randall Young state that the foregoing petition is true<pb/></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Names
 <lb/>Jese Simpson
 <lb/>N. B. Searcy
-<lb/>Taylor Jamison
-<lb/>Benjamin M. Cox
-<lb/>Jefferson J Satterwhite
-<lb/>George W Cox
-<lb/>C. M. Sampson
-<lb/>J. M. Hankins c m
-<lb/>William B Davenport
-<lb/>william Cook
+<lb/><persName ref="cwgk:N00007895">Taylor Jamison
+</persName><lb/><persName ref="cwgk:N00007897">Benjamin M. Cox
+</persName><lb/><persName ref="cwgk:N00007905">Jefferson J Satterwhite</persName><lb/><persName ref="cwgk:N00007899">George W Cox
+</persName><lb/><persName ref="cwgk:N00007906">C. M. Sampson
+</persName><lb/>J. M. Hankins c m
+<lb/><persName ref="cwgk:N00007908">William B Davenport
+</persName><lb/>william Cook
 <lb/>william L Chewni<hi rend="str">g</hi>ng
 <lb/>Susan Chewning
 <lb/>J S, Littlepage Jr
 <lb/><cb n="2"/>Names
-<lb/>J N Easley
-<lb/>william gouin
-<lb/>Charles H Hedge
-<lb/>Franceis Catlett
+<lb/><persName ref="cwgk:N00007912">J N Easley
+</persName><lb/>william gouin
+<lb/><persName ref="cwgk:N00007921">Charles H Hedge</persName><lb/>Franceis Catlett
 <lb/>Rolbert Chewning
 <lb/>Lawrance Young
 <lb/>William W Cane
-<lb/>William Cook
-<lb/>H. Satterwhite
-<lb/>G. Cook
-<lb/>Isaac Bryant
-<lb/>Bluford Watts
-<lb/>J Droffen, </p>
+<lb/><persName ref="cwgk:N00008328">William Cook
+</persName><lb/><persName ref="cwgk:N00007926">H. Satterwhite</persName><lb/>G. Cook
+<lb/><persName ref="cwgk:N00007928">Isaac Bryant
+</persName><lb/><persName ref="cwgk:N00007929">Bluford Watts
+</persName><lb/><persName ref="cwgk:N00003485">J Droffen</persName>, </p>
 <p>I was the attor in this case for the young and think the fine ought to be remited -- </p>
 <p><milestone unit="column" n="1"/>Ben Young Jordan Young and Randal Young the foregoing named defts state that the above peition is true this the <date when="1863-09-18">18th day of Sept 1863</date>.</p>
 <p>Jordan W Young
 <lb/>Benjamon Young
 <lb/>Randel W Young</p>
 <p>sbcribd <hi rend="str">befor</hi> and sworned two before me <date when="1863-09-18">September the 18 1863</date></p>
-<p>Jas W Hollis J pae<pb/></p>
+<p><persName ref="cwgk:N00007889">Jas W Hollis</persName> J pae<pb/></p>
 <p><date when="--09-21">Sept 21<hi rend="sup">st</hi></date></p>
 <p>I see no sufficient reason for Executive interposition</p>
 <p>Tho E Bramlette</p>
-<p>Franklin Co
-<lb/>Ans<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-09-21">21<hi rend="sup">st</hi> Sept 1863</date></p>
+<p><placeName ref="cwgk:P001019">Franklin Co
+</placeName><lb/>Ans<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-09-21">21<hi rend="sup">st</hi> Sept 1863</date></p>
   </body>
  </text>
 </TEI>
