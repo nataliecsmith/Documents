@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DG000003">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Mississippi River</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Geographical Feature</term>
+                </keywords>
+            </textClass>
+            <settingDesc>
+                <place xml:id="G000003">
+                    <geogName>Mississippi River</geogName>
+                </place>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+     <text>
+    <body>
+        <p>Longest river in North America, with headwaters in Minnesota and emptying into the Gulf of Mexico in Louisiana. The Missouri River and the Ohio River are the two largest tributaries, the latter flowing into the Mississippi near Ballard County, Kentucky.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Jeff Wallenfeldt, Robert A. Muller, et al., &quot;Mississippi River&quot; in <hi rend=”italic”>Encyclopedia Brittanica</hi>, https://www.britannica.com/place/Mississippi-River, (accessed April 3, 2017).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
