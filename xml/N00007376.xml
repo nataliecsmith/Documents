@@ -46,8 +46,8 @@
                       James S. Phelps
                         (Louisville, Kentucky, trader and farmer)
                     </persName>
-                      <birth when="1828-03-28"></birth>
-                      <death when="1913-08-19"></death>
+                        <event type="birth"  when="1828-03-28"  ><ab>1828-03-28</ab></event>
+                        <event type="death"  when="1913-08-19"  ><ab>1913-08-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Christian County, District 1, p. 486; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Christian County, p. 71; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 11, p. 210; <em>Find A Grave</em>, &quot;James Shipp Phelps (1828-1913),&quot; Memorial #133283212, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=133283212 (accessed June 21, 2017); KYR-0001-029-0522.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Christian County, District 1, p. 486; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Christian County, p. 71; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 11, p. 210; <hi rend=”italic”>Find A Grave</hi>, &quot;James Shipp Phelps (1828-1913),&quot; Memorial #133283212, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=133283212 (accessed June 21, 2017); KYR-0001-029-0522.
 </bibl></ab>
     </back>
 </text>
