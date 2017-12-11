@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0572"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,12 @@
  <text>
   <body>
    <p>To His Exellency
-<lb/>Jas F. Robinson
-<lb/>Govenor of Kentucky</p>
-<p>Your Petitioner Jas. C. Bradley would respectfully state, that he was arrested on the 10<hi rend="sup">th</hi> inst charged with stealing a pistol, &amp; was indicted in the Jefferson Circuit, &amp; tried on the 24<hi rend="sup">th</hi> inst, &amp; found guilty by a Jury for <hi rend="underline">one</hi> <hi rend="underline">year</hi>, the lowest term fixed by our statute.</p>
-<p>The circumstances of the taking are as followes, Petitioner being threatened by a man greatly his superior in strength, &amp; fearing that great bodily harm would be done him, took from the possession of prosecuting witness the pistol charged to have been stolen; the pistol was detained between two &amp; three hours, when he was found with it upon him: He was immediately arrested &amp; swiftly tried, &amp; convicted to dewl in the Penitentiary house of this commonwealth for one long year. One year to those pursuing hapy pursuits, will swiftly pass away, but to inhabit that dreadful house for one year, it seems interminable.</p>
+<lb/><persName ref="cwgk:N001004">Jas F. Robinson</persName><lb/>Govenor of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p>Your Petitioner <persName ref="cwgk:N00002532">Jas. C. Bradley</persName> would respectfully state, that he was arrested on the 10<hi rend="sup">th</hi> inst charged with stealing a pistol, &amp; was indicted in the <orgName ref="cwgk:O001000">Jefferson Circuit</orgName>, &amp; tried on the 24<hi rend="sup">th</hi> inst, &amp; found guilty by a Jury for <hi rend="underline">one</hi> <hi rend="underline">year</hi>, the lowest term fixed by our statute.</p>
+<p>The circumstances of the taking are as followes, Petitioner being threatened by a man greatly his superior in strength, &amp; fearing that great bodily harm would be done him, took from the possession of prosecuting witness the pistol charged to have been stolen; the pistol was detained between two &amp; three hours, when he was found with it upon him: He was immediately arrested &amp; swiftly tried, &amp; convicted to dewl in <orgName ref="cwgk:O00000266">the Penitentiary house of this commonwealth</orgName> for one long year. One year to those pursuing hapy pursuits, will swiftly pass away, but to inhabit that dreadful house for one year, it seems interminable.</p>
 <p>Your petitioner has a bodily infirmity, which has caused him untold suffering, one leg by disease has become much shorter than its mate<pb/>
 <lb/>&amp; he hobbles as he walks</p>
-<p>Your petitioner does not stand alone in the world, he has a wife &amp; children, &amp; for these dear ones, more than him self, he asks your Excellency to keep him out of that terrible house, Your petitioner is advanced in years the spring, summer, &amp; autumn of his life has passed in happiness &amp; peace, but now in the winter of his life those peaceful -- hapy scenes have changed, &amp; mortifications &amp; despair have come in their stead. I am not guilty, but unfortunate. I could not be made a fellon. I hope your Excellency will pity my condition, &amp; grant me a pardon</p>
+<p>Your petitioner does not stand alone in the world, he has <persName ref="cwgk:N00002533">a wife</persName> &amp; children, &amp; for these dear ones, more than him self, he asks your Excellency to keep him out of that terrible house, Your petitioner is advanced in years the spring, summer, &amp; autumn of his life has passed in happiness &amp; peace, but now in the winter of his life those peaceful -- hapy scenes have changed, &amp; mortifications &amp; despair have come in their stead. I am not guilty, but unfortunate. I could not be made a fellon. I hope your Excellency will pity my condition, &amp; grant me a pardon</p>
 <p>With Great Respect
 <lb/>I subscribe my Self
 <lb/>Your hopeful Servant
@@ -78,7 +85,7 @@
 <lb/>Pettn</p>
 <p>No good ground for Exctv inter<unclear/> Pettn Exd &amp; refus<hi rend="sup">d</hi></p>
 <p>J F R -- </p>
-<p>Mr. Thomas Jailor of Louisville gives statement unfavorable &amp;c</p>
+<p><persName ref="cwgk:N002026">Mr. Thomas</persName> Jailor of <orgName ref="cwgk:O001838">Louisville</orgName> gives statement unfavorable &amp;c</p>
   </body>
  </text>
 </TEI>
