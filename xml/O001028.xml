@@ -39,8 +39,6 @@
             <particDesc>
                 <org xml:id="O001028">
                     <orgName>City of Louisville</orgName>
-                      <event type="begun" when="unknown">unknown</event>
-                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -51,7 +49,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Charter of the City of Louisville, Ky., Approved March 24, 1851, With All the Amendments to Same now In Force, and Acts of the Legislature Pertaining to the City of Louisville to this Date. December 1, 1862</em> (Louisville: L. A. Civill, Printer, 1862).</p>
+        <ab><bibl><hi rend=”italic”>Charter of the City of Louisville, Ky., Approved March 24, 1851, With All the Amendments to Same now In Force, and Acts of the Legislature Pertaining to the City of Louisville to this Date. December 1, 1862</hi> (Louisville: L. A. Civill, Printer, 1862).
 </bibl></ab>
     </back>
 </text>
