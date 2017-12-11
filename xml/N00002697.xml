@@ -50,8 +50,8 @@
                       Joseph W. Bartlett
                         (Todd County, Kentucky, physician)
                     </persName>
-                      <birth when="1833-07-27"></birth>
-                      <death when="1911-02-09"></death>
+                        <event type="birth"  when="1833-07-27"  ><ab>1833-07-27</ab></event>
+                        <event type="death"  when="1911-02-09"  ><ab>1911-02-09</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Todd County, p. 773. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Todd County, Kirkmansville, p. 7. “Aged Physician Dies,” <em>The Courier-Journal</em> (Louisville, Ky.), February 10, 1911, p. 8. <em>Kentucky Vital Statistics Original Death Certificates (1911-1955)</em>, Ancestry, 1911, Todd County, Kentucky, file no. 4947. <em>Kentucky Birth, Marriage, and Death Records, 1852-1910</em>, Ancestry, Marriages, Todd County, Kentucky, 1859.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Todd County, p. 773. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Todd County, Kirkmansville, p. 7. “Aged Physician Dies,” <hi rend=”italic”>The Courier-Journal</hi> (Louisville, Ky.), February 10, 1911, p. 8. <hi rend=”italic”>Kentucky Vital Statistics Original Death Certificates (1911-1955)</hi>, Ancestry, 1911, Todd County, Kentucky, file no. 4947. <hi rend=”italic”>Kentucky Birth, Marriage, and Death Records, 1852-1910</hi>, Ancestry, Marriages, Todd County, Kentucky, 1859.
 </bibl></ab>
     </back>
 </text>
