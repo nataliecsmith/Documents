@@ -50,8 +50,8 @@
                       Nathaniel Wolfe
                         (Louisville attorney)
                     </persName>
-                      <birth when="1808-10-29"></birth>
-                      <death when="1865-07-03"></death>
+                        <event type="birth"  when="1808-10-29"  ><ab>1808-10-29</ab></event>
+                        <event type="death"  when="1865-07-03"  ><ab>1865-07-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Tanner’s Louisville Directory, and Business Advertiser for 1861</em> (Louisville: Henry Tanner, 1861), 267. “Wolfe, Nathaniel” in <em>The Kentucky Encyclopedia</em>, ed. John E. Kleber (Lexington: University Press of Kentucky, 1992), 962; <em>Lewis Collins and Richard H. Collins, _Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, KY: Collins &amp; Co., 1882), 357.</p>
+        <ab><bibl><hi rend=”italic”>Tanner’s Louisville Directory, and Business Advertiser for 1861</hi> (Louisville: Henry Tanner, 1861), 267. “Wolfe, Nathaniel” in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, ed. John E. Kleber (Lexington: University Press of Kentucky, 1992), 962; <hi rend=”italic”>Lewis Collins and Richard H. Collins, _Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, KY: Collins &amp; Co., 1882), 357.
 </bibl></ab>
     </back>
 </text>
