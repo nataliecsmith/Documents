@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0348"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,20 +73,17 @@
   <body>
    <p>Law Offices
 <lb/>OF
-<lb/>HERMON L. EMMONS, Jr.
-<lb/>Baltimore, Md. <date when="1865-01">January 1865</date>.
+<lb/><persName ref="cwgk:N00004919">HERMON L. EMMONS, Jr.</persName><lb/><placeName ref="cwgk:P00003303">Baltimore, Md</placeName>. <date when="1865-01">January 1865</date>.
 <lb/>To His Excellency,
-<lb/>Thomas E. Bramlette
-<lb/>Governor of the State of Kentucky
+<lb/><persName ref="cwgk:N001000">Thomas E. Bramlette</persName><lb/>Governor of the State of Kentucky
 <lb/>Sir:</p>
-<p>I respectfully request an appointment as Commissioner, resident in Baltimore, Md, and authorized to take Depositions, Acknowledgements of Deeds, &amp;c., for the State of Kentucky</p>
+<p>I respectfully request an appointment as Commissioner, resident in Baltimore, Md, and authorized to take Depositions, Acknowledgements of Deeds, &amp;c., for the <orgName ref="cwgk:O001025">State of Kentucky</orgName></p>
 <p>Yours, very respectfully,
 <lb/>Hermon L. Emmons. Jr,</p>
 <p>Baltimore, Md, <date when="1865-01">January 1865</date>.</p>
 <p>The undersigned, having confidence in the integrity and ability of Hermon L. Emmons, Jr., recommend his appointment as Commissioner of Deeds.</p>
-<p>Nelson Taylor
-<lb/>M. C.
-<lb/><hi rend="underline">William Rogers</hi><pb/></p>
+<p><persName ref="cwgk:N00004920">Nelson Taylor</persName><lb/>M. C.
+<lb/><persName ref="cwgk:N00004921">William Rogers</persName><pb/></p>
 <p>Comr Deeds
 <lb/>Maryland
 <lb/>H. L. Emmons Jr
