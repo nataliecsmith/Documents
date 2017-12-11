@@ -46,8 +46,8 @@
                       Jacob N. Bondurant
                         (Ballard County, Kentucky, farmer)
                     </persName>
-                      <birth when="1819-10-13"></birth>
-                      <death when="1900-03-29"></death>
+                        <event type="birth"  when="1819-10-13"  ><ab>1819-10-13</ab></event>
+                        <event type="death"  when="1900-03-29"  ><ab>1900-03-29</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Christian County, District 2, p. 360. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, McCuistians, p. 182. Eighth Manuscript Census of the United States_ (1860), Slave Schedules, Kentucky, Ballard County, Lovelaceville, p. 20. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Ballard County, Lovelaceville, p. 31. <em>Find A Grave</em>, &quot;Jacob N. Bondurant (1819-1900),&quot; Memorial #116881127, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=116881127&amp;ref=acom (accessed June 22, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Christian County, District 2, p. 360. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, McCuistians, p. 182. Eighth Manuscript Census of the United States_ (1860), Slave Schedules, Kentucky, Ballard County, Lovelaceville, p. 20. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, Lovelaceville, p. 31. <hi rend=”italic”>Find A Grave</hi>, &quot;Jacob N. Bondurant (1819-1900),&quot; Memorial #116881127, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=116881127&amp;ref=acom (accessed June 22, 2017).
 </bibl></ab>
     </back>
 </text>
