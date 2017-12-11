@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0303"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,10 +71,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>The State of Massachusetts
-<lb/>County of <gap/>
-<lb/>City of Boston</p>
-<p>I, William H. Towne having been duly appointed &amp; commissioned by his Excellency Tho<hi rend="sup">s</hi> E. Bramlette Governor of the Commonwealth of Kentucky a Commissioner of Deeds (in Massachusetts) for the State of Kentucky, for the term of four years from <date when="1864-10-05">5<hi rend="sup">th</hi> day of October 1864</date> -- do swear that I will well &amp; truly execute &amp; perfom all the duties of my station as such Commissioner -- So help me God,</p>
+   <p>The State of <placeName ref="cwgk:P00001140">Massachusetts</placeName><lb/>County of <gap/>
+<lb/>City of <placeName ref="cwgk:P00000524">Boston</placeName></p>
+<p>I, <persName ref="cwgk:N00000526">William H. Towne</persName> having been duly appointed &amp; commissioned by his Excellency Tho<hi rend="sup">s</hi> E. Bramlette Governor of the Commonwealth of Kentucky a Commissioner of Deeds (in Massachusetts) for the State of <orgName ref="cwgk:O001025">Kentucky</orgName>, for the term of four years from <date when="1864-10-05">5<hi rend="sup">th</hi> day of October 1864</date> -- do swear that I will well &amp; truly execute &amp; perfom all the duties of my station as such Commissioner -- So help me God,</p>
 <p>William H. Towne</p>
 <p>Sworn to by the said W<hi rend="sup">m</hi> H. Towne before me, and by him subscribed in my presence, at Boston Massachusetts this the <date when="1864-10-11">11 day of October 1864</date>, as witness my hand and seal affixed on the day &amp; date aforesaid,</p>
 <p>Geo. M Hobbs
