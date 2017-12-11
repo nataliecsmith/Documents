@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0017"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,8 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>The Affiant, Charles J. VanderEpst, states that he was residing at New Haven, Nelson County at the time Paul Garis, was living there, and was in his employment, at the time he was arrested, in the charge of an attempt to a<hi rend="str">d</hi>bduct a slave, belonging to Jack Dawson. He states that he was and is intimately acquainted with the whole circumstances, and that the charges in said indebtments are wholly groundless. He states that the charge orginated in the mind of Dawson the Prosecuter, from a jealeusy he had against said Garis, for cuckolding him Dawson, with the said negro, and done for the purpose of getting rid of Garis as well as some suit that had arisen <unclear>between</unclear> a son of Dawson and Gar<unclear>is.</unclear> Garis <unclear>being</unclear> a Frenchman and ignorant of the law, <hi rend="str">became frightened, and</hi> Dawson taking. advantage of this thought that he could get him away. Garis, before the war broke out, being a millwright, was induced to engage in work at Memphis, at his business, and went away with the intention of returning to the trial but the war broke out, and he being in the rebel lines, could not get back. <hi rend="str">His surety Jos Henin</hi> ^Garis^ employed Genl Rousseau, to go up to Bardstown to defend for him, and went once but the case was continued, afterwards his attorney was called into the military service, and could not attend. Garis being away, no appearance was made<pb/>
-<lb/>Upon the forfeiture, the said Henin has already paid about &#36;3<hi rend="str">2</hi>70 -- The said Garis and Dupere are poor men, and the payment of the executions will be very oppressive. Dupere <hi rend="str"><unclear/></hi> and Henin are loyal men -- Dupere has had three sons in the Federal army for two years or more and now has two remaining in the army. He is in hopes that the Gov will in the exercise of your Executive clemency, <hi rend="str">will</hi> grant remission of the fines. Dupere is now sick and has no dependence for a living upon his sons who are away. It will indeed be very oppresive for him to pay it -- indeed it will be impossible.</p>
+   <p>The Affiant, Charles J. VanderEpst, states that he was residing at <placeName ref="cwgk:P00003061">New Haven, Nelson County</placeName> at the time <persName ref="cwgk:N00003057">Paul Garis</persName>, was living there, and was in his employment, at the time he was arrested, in the charge of an attempt to a<hi rend="str">d</hi>bduct a slave, belonging to <persName ref="cwgk:N00003058">Jack Dawson</persName>. He states that he was and is intimately acquainted with the whole circumstances, and that the charges in said indebtments are wholly groundless. He states that the charge orginated in the mind of Dawson the Prosecuter, from a jealeusy he had against said Garis, for cuckolding him Dawson, with the said negro, and done for the purpose of getting rid of Garis as well as some suit that had arisen <unclear>between</unclear> <persName ref="cwgk:N00003059">a son of Dawson</persName> and Gar<unclear>is.</unclear> Garis <unclear>being</unclear> a Frenchman and ignorant of the law, <hi rend="str">became frightened, and</hi> Dawson taking. advantage of this thought that he could get him away. Garis, before the war broke out, being a millwright, was induced to engage in work at Memphis, at his business, and went away with the intention of returning to the trial but the war broke out, and he being in the rebel lines, could not get back. His surety  ^Garis^ employed Genl Rousseau, to go up to <persName ref="cwgk:N00004234">Jos Henin</persName><placeName ref="cwgk:P00004617">Bardstown</placeName> to defend for him, and went once but the case was continued, afterwards his attorney was called into the military service, and could not attend. Garis being away, no appearance was made<pb/>
+<lb/>Upon the forfeiture, the said Henin has already paid about $3<hi rend="str">2</hi>70 -- The said Garis and Dupere are poor men, and the payment of the executions will be very oppressive. Dupere <hi rend="str"><unclear/></hi> and Henin are loyal men -- Dupere has had three sons in the Federal army for two years or more and now has two remaining in the army. He is in hopes that the Gov will in the exercise of your Executive clemency, <hi rend="str">will</hi> grant remission of the fines. Dupere is now sick and has no dependence for a living upon his sons who are away. It will indeed be very oppresive for him to pay it -- indeed it will be impossible.</p>
 <p>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> <unclear>J. VanderEspt</unclear>
 <lb/>Vice <unclear>Counsul of</unclear> Belgium</p>
 <p>State of Kentucky
