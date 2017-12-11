@@ -50,8 +50,8 @@
                       Benjamin B. Weidler, Sr.
                         (Covington, Kentucky, cigar store owner)
                     </persName>
-                      <birth when="1815-09-11"></birth>
-                      <death when="1874-02-06"></death>
+                        <event type="birth"  when="1815-09-11"  ><ab>1815-09-11</ab></event>
+                        <event type="death"  when="1874-02-06"  ><ab>1874-02-06</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Kenton County, Covington, p. 236; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Kenton County, Covington, 2nd ward p. 74; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Kenton County, Covington, p. 17; <em>Find A Grave</em>, &quot;Benjamin B. Weidler (1815-1874),&quot; Memorial #86308594, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86308594 (accessed August 23, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Kenton County, Covington, p. 236; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington, 2nd ward p. 74; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Kenton County, Covington, p. 17; <hi rend=”italic”>Find A Grave</hi>, &quot;Benjamin B. Weidler (1815-1874),&quot; Memorial #86308594, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86308594 (accessed August 23, 2017).
 </bibl></ab>
     </back>
 </text>
