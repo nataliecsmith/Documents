@@ -43,16 +43,19 @@
             <particDesc>
                 <org xml:id="O00002945">
                     <orgName>Government of the United States of America</orgName>
+                        <event type="begun"  when="1776-07-04"  ><ab>1776-07-04</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        
+        <p>Administrative body of the United States of America. Comprised of the Legislative Branch, Judicial Branch, and Executive Branch. Capital at Washington, District of Columbia.</p>
+
     </body>
     <back>
-        <ab><bibl></bibl></ab>
+        <ab><bibl>&quot;America&#39;s Founding Documents,&quot; https://www.archives.gov/founding-docs (accessed on December 1, 2017).
+</bibl></ab>
     </back>
 </text>
 </TEI>
