@@ -46,8 +46,8 @@
                       Richard Cates
                         (Webster County, Kentucky, farmer)
                     </persName>
-                      <birth when="1838-03-05"></birth>
-                      <death when="1926-04-18"></death>
+                        <event type="birth"  when="1838-03-05"  ><ab>1838-03-05</ab></event>
+                        <event type="death"  when="1926-04-18"  ><ab>1926-04-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hopkins County, District 2, p. 141. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Webster County, p. 147. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Webster County, District 4, Subdivision 192, p. 1. <em>Kentucky Vital Statistics Original Death Certificates (1911-1955)</em>, Ancestry, 1926, Webster County, Kentucky, file no. 11723.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hopkins County, District 2, p. 141. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Webster County, p. 147. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Webster County, District 4, Subdivision 192, p. 1. <hi rend=”italic”>Kentucky Vital Statistics Original Death Certificates (1911-1955)</hi>, Ancestry, 1926, Webster County, Kentucky, file no. 11723.
 </bibl></ab>
     </back>
 </text>
