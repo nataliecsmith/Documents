@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0029"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Harrodsburg <date when="1860-12-08">8 December 1860</date>
-<lb/>His Excellency Govnr B Magoffin
-<lb/>Frankfort
+   <p><placeName ref="cwgk:P00000555">Harrodsburg </placeName><date when="1860-12-08">8 December 1860</date>
+<lb/>His Excellency <persName ref="cwgk:N00000258">Govnr B Magoffin</persName><lb/>Frankfort
 <lb/>Ky
 <lb/>Dear Sir</p>
-<p>J W Hawkins Esqr A Justi<hi rend="str">n</hi>ce of the peace for Mercer County has removed from his precinct and also resigned his commission, Please permit me to recommend for your consideration <hi rend="str">M</hi><hi rend="str"><hi rend="sup">r</hi></hi> William H Crutcher as a very suitable person to fill the office vacated by Squire Hawkins</p>
+<p><persName ref="cwgk:N00001864">J W Hawkins Esqr</persName> A Justi<hi rend="str">n</hi>ce of the peace for Mercer County has removed from his precinct and also resigned his commission, Please permit me to recommend for your consideration <hi rend="str">M</hi><hi rend="str"><hi rend="sup">r</hi></hi> <persName ref="cwgk:N00001865">William H Crutcher</persName> as a very suitable person to fill the office vacated by Squire Hawkins</p>
 <p>Your Obt
 <lb/>Humble Servt
-<lb/>Chr Chinn</p>
+<lb/><persName ref="cwgk:N00001866">Chr Chinn</persName></p>
 <p>P S In referance to the affairs of our Government I would say -- <hi rend="underline">Glass right side up</hi></p>
 <p>C C<pb/></p>
 <p>Mercer Co<figure type="hr"/>
