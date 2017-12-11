@@ -43,8 +43,7 @@
             <particDesc>
                 <org xml:id="O00000388">
                     <orgName>Office of the Adjutant General of Kentucky</orgName>
-                      <event type="begun" when="1793">1793</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1793"  ><ab>1793</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Report of the Adjutant General of the State of Kentucky, vol. 1 (Frankfort: John H. Harney, Public Printer, 1866), VII.</p>
+        <ab><bibl>Report of the Adjutant General of the State of Kentucky, vol. 1 (Frankfort: John H. Harney, Public Printer, 1866), VII.
 </bibl></ab>
     </back>
 </text>
