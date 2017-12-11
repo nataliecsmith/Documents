@@ -50,8 +50,8 @@
                       Robert Henry Snyder
                         (Jeff Co. Glassworks owner (Krack, Stanger, &amp; CO))
                     </persName>
-                      <birth when="1822-04-09"></birth>
-                      <death when="1898-10-29"></death>
+                        <event type="birth"  when="1822-04-09"  ><ab>1822-04-09</ab></event>
+                        <event type="death"  when="1898-10-29"  ><ab>1898-10-29</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 1, p. 190. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, 4th Ward, p. 164. Henry Tanner, ed., <em>Tanner’s Louisville Directory and Business Advertiser for 1861</em> (Louisville: Directory Publication and Advertising Agency, 1861), 232. <em>Find A Grave</em>, &quot;Robert Henry Snyder (1822-1898),&quot; Memorial #68480300, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=Snyder&amp;GSfn=Robert&amp;GSbyrel=all&amp;GSdyrel=all&amp;GSst=19&amp;GScnty=1044&amp;GScntry=4&amp;GSob=n&amp;GRid=68480300&amp;df=all&amp; (accessed August, 10, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 1, p. 190. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, 4th Ward, p. 164. Henry Tanner, ed., <hi rend=”italic”>Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 232. <hi rend=”italic”>Find A Grave</hi>, &quot;Robert Henry Snyder (1822-1898),&quot; Memorial #68480300, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=Snyder&amp;GSfn=Robert&amp;GSbyrel=all&amp;GSdyrel=all&amp;GSst=19&amp;GScnty=1044&amp;GScntry=4&amp;GSob=n&amp;GRid=68480300&amp;df=all&amp; (accessed August, 10, 2017).
 </bibl></ab>
     </back>
 </text>
