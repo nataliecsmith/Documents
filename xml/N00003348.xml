@@ -46,8 +46,6 @@
                       Jr Eastin
                         (Resident of Trimble County, Kentucky)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,7 +57,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-007-0338</p>
+        <ab><bibl>KYR-0001-007-0338
 </bibl></ab>
     </back>
 </text>
