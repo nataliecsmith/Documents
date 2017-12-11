@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0002"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,9 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Pennsylvania
-<lb/>City &amp; County of Philad<hi rend="sup">a</hi> &#125; S.S.</p>
-<p>I. Wm V Archer duly appointed by the Governer of the State of Kentucky a Commissioner for the State of Kentucky resident at Philadelphia in the State of Pennsylvania; do Solemnly Swear that I will well and faithfully execute and perform all the duties of such Commissioner under and by virtue of the Land of the said State of Kentucky</p>
+   <p><placeName ref="cwgk:P001006">State of Pennsylvania</placeName><lb/>City &amp; County of Philad<hi rend="sup">a</hi> } S.S.</p>
+<p>I. <persName ref="cwgk:N001780">Wm V Arche</persName>r duly appointed by the Governer of the State of Kentucky a Commissioner for the State of Kentucky resident at Philadelphia in the State of Pennsylvania; do Solemnly Swear that I will well and faithfully execute and perform all the duties of such Commissioner under and by virtue of the Land of the said State of Kentucky</p>
 <p><hi rend="underline">Wm V Archer</hi></p>
 <p><figure type="seal"><ab>ARTHUR M BURTON
 <lb/>COMMISSIONER
@@ -78,7 +85,7 @@
 <lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> V. Archer
 <lb/>Oath<figure type="hr"/></p>
-<p><hi rend="underline">&#36;5. enclosed</hi>
+<p><hi rend="underline">$5. enclosed</hi>
 <lb/>Filed <hi rend="str">Sept 28</hi> <date when="1860-11-01">Nov 1. 1860</date>
 <lb/><date when="1860">1860</date></p>
   </body>
