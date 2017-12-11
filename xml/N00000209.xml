@@ -42,8 +42,7 @@
                       Jonas Martin
                         (Lyon Co. State Rep)
                     </persName>
-                      <birth when="1834"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1834"  ><ab>1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,7 +55,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky Caldwell County, District No. 1, p. 337; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Lyon County, Unnamed District, p. 30; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 479.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky Caldwell County, District No. 1, p. 337; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, Unnamed District, p. 30; Lewis Collins and Richard H. Collins, <hi rend=”italic”>Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 479.
 </bibl></ab>
     </back>
 </text>
