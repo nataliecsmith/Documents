@@ -46,8 +46,8 @@
                       John Stewart McFarlane Dickinson
                         (Clay County Kentucky Judge)
                     </persName>
-                      <birth when="1824-10-24"></birth>
-                      <death when="1903-06-08"></death>
+                        <event type="birth"  when="1824-10-24"  ><ab>1824-10-24</ab></event>
+                        <event type="death"  when="1903-06-08"  ><ab>1903-06-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,8 +60,8 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Clay County, District 1, p. 23.<br>
-<em>Find A Grave</em>, &quot;John Stewart McFarlane Dickinson (1824-1903),&quot; Memorial #132771650, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=132771650 (accessed May, 22, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clay County, District 1, p. 23.<br>
+<hi rend=”italic”>Find A Grave</hi>, &quot;John Stewart McFarlane Dickinson (1824-1903),&quot; Memorial #132771650, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=132771650 (accessed May, 22, 2017).
 </bibl></ab>
     </back>
 </text>
