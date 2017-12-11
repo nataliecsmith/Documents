@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0316"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,10 +71,9 @@
  </teiHeader>
  <text>
   <body>
-   <p><hi rend="underline">United States of America,</hi>
-<lb/>State of California
-<lb/><hi rend="underline">City and county of San Francisco</hi> &#125; S. S:</p>
-<p><hi rend="underline">I</hi>, <hi rend="underline">F. J. Thibault</hi>, residing in the city and County of San Francisco, in the State of California, appointed by the Governor of the Commonwealth of Kentucky, a Commissioner to take the acknowledgement and proof of the execution of deeds and other instruments in writing to be used or recorded in the said Commonwealth of Kentucky and to administer oaths affirmations &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> do solemnly swear that I will faithfully perform all the duties of such commission under and by virtue of the laws of said Commonwealth of Kentucky according to the best of my ability.</p>
+   <p>
+<placeName ref="cwgk:P001802">United States of America</placeName>,<lb/><placeName ref="cwgk:P00002428">State of California</placeName><lb/><hi rend="underline">City and county of San Francisco</hi> } S. S:</p>
+<p><hi rend="underline">I</hi>, , residing in the city and County of San Francisco, in the State of California, appointed by the <persName ref="cwgk:N00003289">F. J. Thibault</persName><persName ref="cwgk:N001000">Governor of the Commonwealth of Kentucky</persName>, a Commissioner to take the acknowledgement and proof of the execution of deeds and other instruments in writing to be used or recorded in the said <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> and to administer oaths affirmations &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> do solemnly swear that I will faithfully perform all the duties of such commission under and by virtue of the laws of said <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> according to the best of my ability.</p>
 <p><hi rend="underline">F. J. Thibault</hi></p>
 <p>Subscribed and Sworn to before me this <date when="1864-11-15">Fifteenth day of November A D 1864</date>.</p>
 <p>Samuel Cowly
