@@ -46,8 +46,8 @@
                       Braxton Bragg
                         (CS General)
                     </persName>
-                      <birth when="1817-03-22"></birth>
-                      <death when="1876-09-27"></death>
+                        <event type="birth"  when="1817-03-22"  ><ab>1817-03-22</ab></event>
+                        <event type="death"  when="1876-09-27"  ><ab>1876-09-27</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Earl J. Hess, <em>Braxton Bragg: The Most Hated Man of the Confederacy</em> (Chapel Hill: University of North Carolina Press, 2016).</p>
+        <ab><bibl>Earl J. Hess, <hi rend=”italic”>Braxton Bragg: The Most Hated Man of the Confederacy</hi> (Chapel Hill: University of North Carolina Press, 2016).
 </bibl></ab>
     </back>
 </text>
