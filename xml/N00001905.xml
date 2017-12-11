@@ -46,8 +46,8 @@
                       James D. Simpson
                         (Winchester, Ky judge and attorney)
                     </persName>
-                      <birth when="1796-03-16"></birth>
-                      <death when="1876-05-01"></death>
+                        <event type="birth"  when="1796-03-16"  ><ab>1796-03-16</ab></event>
+                        <event type="death"  when="1876-05-01"  ><ab>1876-05-01</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>H. Levin, <em>Lawyers and Lawmakers of Kentucky</em> (Chicago: Lewis Publish Company, 1897), 78; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Clark County, Winchester, p. 34; Harry B. Enoch, <em>Where in the World?: Historic Places in Clark County, Kentucky</em> (Winchester, Ky.: Bluegrass Heritage Museum, 2007), 139-40.</p>
+        <ab><bibl>H. Levin, <hi rend=”italic”>Lawyers and Lawmakers of Kentucky</hi> (Chicago: Lewis Publish Company, 1897), 78; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Clark County, Winchester, p. 34; Harry B. Enoch, <hi rend=”italic”>Where in the World?: Historic Places in Clark County, Kentucky</hi> (Winchester, Ky.: Bluegrass Heritage Museum, 2007), 139-40.
 </bibl></ab>
     </back>
 </text>
