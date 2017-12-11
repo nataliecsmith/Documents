@@ -46,8 +46,7 @@
                       Joseph Throop
                         (Fleming County, Kentucky, resident)
                     </persName>
-                      <birth when="c1813"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1813"  certainty="medium" ><ab>c1813</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Fleming County, Poplar Plains, p. 5. KYR-0001-029-0573.</p>
+        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fleming County, Poplar Plains, p. 5. KYR-0001-029-0573.
 </bibl></ab>
     </back>
 </text>
