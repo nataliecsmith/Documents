@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0050"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency
-<lb/>Govener of Kentuckey
-<lb/>St Joseph Missouri
-<lb/><date when="1861-01-12">Jany 12"/61</date>
+   <p>To <persName ref="cwgk:N00000258">His Excellency</persName><lb/>Govener of <orgName ref="cwgk:O001025">Kentuckey</orgName><lb/><placeName ref="cwgk:P00002294">St Joseph Missouri
+</placeName><lb/><date when="1861-01-12">Jany 12"/61</date>
 <lb/>Kind Sir</p>
 <p>I believe it is within your power to appoint a certain number of persons in Every state to take the acknowledgments of Deeds of lands lying and being within your state</p>
 <p>There is no such person in our city or near it that has that power and we frequently see great inconvenience arising from it</p>
 <p>Will you be good enough to forward me a commission empowering me to take acknowledgments of Deeds in this State for the state of Kentuckey &amp; at the same time enclose Your fee bill &amp; I will remit the amount</p>
 <p>Yours Very Respectfuly
 <lb/>Augustus S Hamlin<pb/></p>
-<p>Missouri</p>
+<p><placeName ref="cwgk:P00001883">Missouri</placeName></p>
 <p>Issue Commission
 <lb/>B. M<figure type="hr"/></p>
 <p>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
