@@ -46,8 +46,8 @@
                       James Stuart 
                         (Meade County, Kentucky, attorney and circuit court judge)
                     </persName>
-                      <birth when="1819-03-21"></birth>
-                      <death when="1891-10-17"></death>
+                        <event type="birth"  when="1819-03-21"  ><ab>1819-03-21</ab></event>
+                        <event type="death"  when="1891-10-17"  ><ab>1891-10-17</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>History of Daviess County, Kentucky</em> (Chicago, IL: Inter-state Publishing Company, 1883), p. 141-142; Lewis Collins and Richard H. Collins, <em>History of Kentucky, Volume II</em> (Covington, KY: Collins and Company, 1878), p. 599; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Meade County, Kentucky District, p. 208; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Meade County, Kentucky District; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Meade County, Brandenburg, p. 12; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Meade County, p. 9; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Daviess County, Owensboro, Lower Town Precinct, p. 2; <em>Find A Grave</em>, &quot;Judge James Stuart (1819-1891),&quot; Memorial #76265733, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=76265733 (accessed September 9, 2017).</p>
+        <ab><bibl><hi rend=”italic”>History of Daviess County, Kentucky</hi> (Chicago, IL: Inter-state Publishing Company, 1883), p. 141-142; Lewis Collins and Richard H. Collins, <hi rend=”italic”>History of Kentucky, Volume II</hi> (Covington, KY: Collins and Company, 1878), p. 599; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Meade County, Kentucky District, p. 208; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Meade County, Kentucky District; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Meade County, Brandenburg, p. 12; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Meade County, p. 9; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Daviess County, Owensboro, Lower Town Precinct, p. 2; <hi rend=”italic”>Find A Grave</hi>, &quot;Judge James Stuart (1819-1891),&quot; Memorial #76265733, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=76265733 (accessed September 9, 2017).
 </bibl></ab>
     </back>
 </text>
