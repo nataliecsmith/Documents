@@ -46,8 +46,8 @@
                       Simon E. Higgins
                         (Crab Orchard, Kentucky, merchant and justice of the peace)
                     </persName>
-                      <birth when="c1818"></birth>
-                      <death when="1889-05-07"></death>
+                        <event type="birth"  when="1818"  certainty="medium" ><ab>c1818</ab></event>
+                        <event type="death"  when="1889-05-07"  ><ab>1889-05-07</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Lincoln County, Crab Orchard, p. 54; <em>Find A Grave</em>, &quot;Simon E. Higgins (1818-1889),&quot; Memorial #XXXXXXXX, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=66965643&amp;ref=acom (accessed May 30, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Lincoln County, Crab Orchard, p. 54; <hi rend=”italic”>Find A Grave</hi>, &quot;Simon E. Higgins (1818-1889),&quot; Memorial #XXXXXXXX, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=66965643&amp;ref=acom (accessed May 30, 2017).
 </bibl></ab>
     </back>
 </text>
