@@ -46,8 +46,7 @@
                       Nathaniel E. Hawes
                         (Burlington merchant &amp; JP)
                     </persName>
-                      <birth when="1800"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1800"  ><ab>1800</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Boone County, District No. 2, Town of Burlington, p. 177; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Boone County, District No. 2; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Boone County, Town of Burlington, p. 39; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Boone County, Florence District, p. 3; KYR-0001-017-0040.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Boone County, District No. 2, Town of Burlington, p. 177; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Boone County, District No. 2; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boone County, Town of Burlington, p. 39; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Boone County, Florence District, p. 3; KYR-0001-017-0040.
 </bibl></ab>
     </back>
 </text>
