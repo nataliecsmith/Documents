@@ -50,8 +50,8 @@
                       William A. Brooks
                         (Mount Vernon, Kentucky, hotel keeper)
                     </persName>
-                      <birth when="1830-10-28"></birth>
-                      <death when="1871-04-24"></death>
+                        <event type="birth"  when="1830-10-28"  ><ab>1830-10-28</ab></event>
+                        <event type="death"  when="1871-04-24"  ><ab>1871-04-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Rockcastle County, Southern Division, p. 164. <em>Kentucky Birth, Marriage, and Death Records, 1852-1910</em>, Ancestry, Marriages, Rockcastle County, 1858. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Rockcastle County, Mt. Vernon, p. 583. <em>Consolidated Lists of Civil War Draft Registrations, 1863-1865</em>, Kentucky, Eighth Congressional District, Rockcastle County, Ky, 1863, p. 41. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Rockcastle County, Mount Vernon, p. 7. <em>Find A Grave</em>, &quot;William A. Brooks (1830-1871),&quot; Memorial #115344223, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=115344223 (accessed May, 30, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Rockcastle County, Southern Division, p. 164. <hi rend=”italic”>Kentucky Birth, Marriage, and Death Records, 1852-1910</hi>, Ancestry, Marriages, Rockcastle County, 1858. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, Mt. Vernon, p. 583. <hi rend=”italic”>Consolidated Lists of Civil War Draft Registrations, 1863-1865</hi>, Kentucky, Eighth Congressional District, Rockcastle County, Ky, 1863, p. 41. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Rockcastle County, Mount Vernon, p. 7. <hi rend=”italic”>Find A Grave</hi>, &quot;William A. Brooks (1830-1871),&quot; Memorial #115344223, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=115344223 (accessed May, 30, 2017).
 </bibl></ab>
     </back>
 </text>
