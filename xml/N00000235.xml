@@ -46,8 +46,8 @@
                       John A. Prall
                         (Bourbon Co State Senator)
                     </persName>
-                      <birth when="1827-01-13"></birth>
-                      <death when="1907-10-02"></death>
+                        <event type="birth"  when="1827-01-13"  ><ab>1827-01-13</ab></event>
+                        <event type="death"  when="1907-10-02"  ><ab>1907-10-02</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bourbon County, Paris, p. 17; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Bourbon County, Paris, p. 4; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, KY: Collins &amp; Co., 1878), 66; &quot;Col. John A. Prall.&quot; <em>The Bourbon News</em>, October 8, 1907; <em>Find A Grave</em>, &quot;Col John Andrew Prall (1827-1907),&quot; Memorial #99397345, https://www.findagrave.com/memorial/99397345 (accessed November 17, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bourbon County, Paris, p. 17; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Bourbon County, Paris, p. 4; Lewis Collins and Richard H. Collins, <hi rend=”italic”>Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, KY: Collins &amp; Co., 1878), 66; &quot;Col. John A. Prall.&quot; <hi rend=”italic”>The Bourbon News</hi>, October 8, 1907; <hi rend=”italic”>Find A Grave</hi>, &quot;Col John Andrew Prall (1827-1907),&quot; Memorial #99397345, https://www.findagrave.com/memorial/99397345 (accessed November 17, 2017).
 </bibl></ab>
     </back>
 </text>
