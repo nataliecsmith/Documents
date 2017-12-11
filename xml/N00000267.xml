@@ -46,8 +46,8 @@
                       Calvin Fairbank
                         (Abolitionist)
                     </persName>
-                      <birth when="1816-11-03"></birth>
-                      <death when="1898-10-12"></death>
+                        <event type="birth"  when="1816-11-03"  ><ab>1816-11-03</ab></event>
+                        <event type="death"  when="1898-10-12"  ><ab>1898-10-12</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Calvin Fairbank, <em>Rev. Calvin Fairbank During Slavery Times: How he “Fought the Good Fight” to Prepare “The Way”</em> (Chicago: R. R. McCabe &amp; Co., 1890). Randolph Paul Runyon, <em>Delia Webster and the Underground Railroad</em> (Lexington: University of Kentucky Press, 1998).</p>
+        <ab><bibl>Calvin Fairbank, <hi rend=”italic”>Rev. Calvin Fairbank During Slavery Times: How he “Fought the Good Fight” to Prepare “The Way”</hi> (Chicago: R. R. McCabe &amp; Co., 1890). Randolph Paul Runyon, <hi rend=”italic”>Delia Webster and the Underground Railroad</hi> (Lexington: University of Kentucky Press, 1998).
 </bibl></ab>
     </back>
 </text>
