@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0001"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Christina Adkins</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Christina Adkins</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Office of Adjutant General,
-<lb/>Frankfort, Ky., <date when="1860-12-19">Dec 19<hi rend="sup">t</hi>, 1860</date>.
+   <p>Office of <orgName ref="cwgk:O00000388">Adjutant General</orgName>,<lb/><placeName ref="cwgk:P00000308">Frankfort, Ky</placeName>., <date when="1860-12-19">Dec 19<hi rend="sup">t</hi>, 1860</date>.
 <lb/>Sir</p>
 <p>The Contents of this letter haveing been noticed I answerd as follows </p>
-<p>Ample Proof to you showing cause of an insurrection by your Order upon the Quarter Master General the arms would be furnished</p>
+<p>Ample Proof to you showing cause of an insurrection by your Order upon the <orgName ref="cwgk:O00000389">Quarter Master General</orgName> the arms would be furnished</p>
 <p>Respectfully
-<lb/><hi rend="str">Y obt <unclear/></hi>Scott Brown</p>
+<lb/><hi rend="str">Y obt <unclear/></hi><persName ref="cwgk:N00000390">Scott Brown</persName></p>
 <p>To
 <lb/>His Excelency
 <lb/>Gov Maguffin</p>
