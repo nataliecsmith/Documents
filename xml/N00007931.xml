@@ -46,8 +46,7 @@
                       Louis A. Page
                         (Marshall County)
                     </persName>
-                      <birth when="c1849"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1849"  certainty="medium" ><ab>c1849</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Marshall County, p. 470 B; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marshall County, Olive post office, p. 89.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marshall County, p. 470 B; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, Olive post office, p. 89.
 </bibl></ab>
     </back>
 </text>
