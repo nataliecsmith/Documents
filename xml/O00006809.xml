@@ -43,8 +43,7 @@
             <particDesc>
                 <org xml:id="O00006809">
                     <orgName>Bush &amp; Shivell</orgName>
-                      <event type="begun" when="c1864">c1864</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1864"  certainty="medium" ><ab>c1864</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Edwards&#39; Annual Director . . in the City of Louisville for 1864-5</em> (Louisville: Edwards, Greenough, &amp; Deved, 1864), p. 187, 342; KYR-0001-007-0381.</p>
+        <ab><bibl><hi rend=”italic”>Edwards&#39; Annual Director . . in the City of Louisville for 1864-5</hi> (Louisville: Edwards, Greenough, &amp; Deved, 1864), p. 187, 342; KYR-0001-007-0381.
 </bibl></ab>
     </back>
 </text>
