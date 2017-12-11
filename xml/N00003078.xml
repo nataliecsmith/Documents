@@ -46,8 +46,8 @@
                       Henry Link
                         (Resident of Louisville, Kentucky)
                     </persName>
-                      <birth when="1843-08-24"></birth>
-                      <death when="1902-09-25"></death>
+                        <event type="birth"  when="1843-08-24"  ><ab>1843-08-24</ab></event>
+                        <event type="death"  when="1902-09-25"  ><ab>1902-09-25</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 8, p. 6; <em>Find A Grave</em>, &quot;Henry Link (1843-1902),&quot; Memorial #66733414, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=66733414&amp;ref=acom (accessed July 21, 2017); KYR-0001-029-0502.</p>
+        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 8, p. 6; <hi rend=”italic”>Find A Grave</hi>, &quot;Henry Link (1843-1902),&quot; Memorial #66733414, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=66733414&amp;ref=acom (accessed July 21, 2017); KYR-0001-029-0502.
 </bibl></ab>
     </back>
 </text>
