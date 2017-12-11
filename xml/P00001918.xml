@@ -48,7 +48,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00001918">
                     <placeName>
                         <location>
@@ -57,7 +57,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -66,7 +66,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>William H Turner, <em>Christian County,</em> in <em>The Encyclopedia of Kentucky</em>, John E. Kleber (Lexington: University of Kentucky, 2002), p. 187.</p>
+        <ab><bibl>William H Turner, <hi rend=”italic”>Christian County,</hi> in <hi rend=”italic”>The Encyclopedia of Kentucky</hi>, John E. Kleber (Lexington: University of Kentucky, 2002), p. 187.
 </bibl></ab>
     </back>
 </text>
