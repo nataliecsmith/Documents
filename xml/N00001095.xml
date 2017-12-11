@@ -54,8 +54,8 @@
                       Lot Cooper
                         (Hopkins Co. shoemaker)
                     </persName>
-                      <birth when="1838-07-15"></birth>
-                      <death when="1904-11-18"></death>
+                        <event type="birth"  when="1838-07-15"  ><ab>1838-07-15</ab></event>
+                        <event type="death"  when="1904-11-18"  ><ab>1904-11-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +68,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hopkins County, Precinct No. 3, p. 13. <em>Find A Grave</em>, &quot;Lot Cooper (1838-1904),&quot; Memorial #139760723, https://www.findagrave.com/memorial/139760723 (accessed September 21 2017).</p>
+        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hopkins County, Precinct No. 3, p. 13. <hi rend=”italic”>Find A Grave</hi>, &quot;Lot Cooper (1838-1904),&quot; Memorial #139760723, https://www.findagrave.com/memorial/139760723 (accessed September 21 2017).
 </bibl></ab>
     </back>
 </text>
