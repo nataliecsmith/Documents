@@ -46,8 +46,7 @@
                       James M. Brown
                         (Owen County, Kentucky, farmer and sheriff)
                     </persName>
-                      <birth when="c1826"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1826"  certainty="medium" ><ab>c1826</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Owen County, District 1, p. 34; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Owen County, District 2, p. 31; &quot;An Act for the Benefit of James M. Brown, late Sheriff of Owen, and his sureties,&quot; <em>Acts of the General Assembly of the Commonwealth of Kentucky</em> (Frankfort, Ky.: Kentucky Yeoman Office, John H. Harney, Public Printer, 1868), 218-19; KYR-0001-029-0554.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Owen County, District 1, p. 34; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Owen County, District 2, p. 31; &quot;An Act for the Benefit of James M. Brown, late Sheriff of Owen, and his sureties,&quot; <hi rend=”italic”>Acts of the General Assembly of the Commonwealth of Kentucky</hi> (Frankfort, Ky.: Kentucky Yeoman Office, John H. Harney, Public Printer, 1868), 218-19; KYR-0001-029-0554.
 </bibl></ab>
     </back>
 </text>
