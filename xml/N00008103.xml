@@ -46,8 +46,8 @@
                       George Washington Witty
                         (Christian County farmer)
                     </persName>
-                      <birth when="1837-12-20"></birth>
-                      <death when="1911-01-04"></death>
+                        <event type="birth"  when="1837-12-20"  ><ab>1837-12-20</ab></event>
+                        <event type="death"  when="1911-01-04"  ><ab>1911-01-04</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Christian County, Unnamed District, p. 69; <em>Find A Grave</em>, &quot;George Washington Witty (1837 - 1911),&quot; Memorial #114724157, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=114724157 (accessed 26 July 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Christian County, Unnamed District, p. 69; <hi rend=”italic”>Find A Grave</hi>, &quot;George Washington Witty (1837 - 1911),&quot; Memorial #114724157, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=114724157 (accessed 26 July 2017).
 </bibl></ab>
     </back>
 </text>
