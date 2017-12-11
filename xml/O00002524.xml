@@ -47,8 +47,7 @@
             <particDesc>
                 <org xml:id="O00002524">
                     <orgName>Bullitt &amp; Fairthorne</orgName>
-                      <event type="begun" when="c1849">c1849</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1849"  certainty="medium" ><ab>c1849</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -59,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;John C. Bullitt,&quot; in <em>The Biographical Encyclopedia of Pennsylvania of the Nineteenth Century</em> (Philadelphia: Galaxy Publishing Company, 1874), 112-113; John Livingston, <em>Livingston&#39;s United States Law Register, and Official Directory</em> (New York: John Livingston, 1859), 795.</p>
+        <ab><bibl>&quot;John C. Bullitt,&quot; in <hi rend=”italic”>The Biographical Encyclopedia of Pennsylvania of the Nineteenth Century</hi> (Philadelphia: Galaxy Publishing Company, 1874), 112-113; John Livingston, <hi rend=”italic”>Livingston&#39;s United States Law Register, and Official Directory</hi> (New York: John Livingston, 1859), 795.
 </bibl></ab>
     </back>
 </text>
