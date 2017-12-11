@@ -46,8 +46,8 @@
                       Wesley W. Smith
                         (Logan County, Kentucky, carpenter)
                     </persName>
-                      <birth when="1819-06-14"></birth>
-                      <death when="1881-09-24"></death>
+                        <event type="birth"  when="1819-06-14"  ><ab>1819-06-14</ab></event>
+                        <event type="death"  when="1881-09-24"  ><ab>1881-09-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Logan County, District 2, p. 53. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Logan County, Fillmore, p. 26. <em>Find A Grave</em>, &quot;William Western Smith (1819-1881),&quot; Memorial #55434196, http://www.findagrave.com/memorial/55434196/william-western-smith (accessed May 26, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Logan County, District 2, p. 53. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Logan County, Fillmore, p. 26. <hi rend=”italic”>Find A Grave</hi>, &quot;William Western Smith (1819-1881),&quot; Memorial #55434196, http://www.findagrave.com/memorial/55434196/william-western-smith (accessed May 26, 2017).
 </bibl></ab>
     </back>
 </text>
