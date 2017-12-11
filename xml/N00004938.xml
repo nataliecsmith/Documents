@@ -46,8 +46,7 @@
                       Haden J. Neighbors
                         (Warren County cooper)
                     </persName>
-                      <birth when="c1809"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1809"  certainty="medium" ><ab>c1809</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Warren County, District No. 2, p. 105. </p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Warren County, District No. 2, p. 105. 
 </bibl></ab>
     </back>
 </text>
