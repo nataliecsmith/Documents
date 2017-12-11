@@ -46,8 +46,8 @@
                       James M. Connell
                         (Hancock County)
                     </persName>
-                      <birth when="1829-05-12"></birth>
-                      <death when="1915-09-03"></death>
+                        <event type="birth"  when="1829-05-12"  ><ab>1829-05-12</ab></event>
+                        <event type="death"  when="1915-09-03"  ><ab>1915-09-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hancock County, Hawesville, p. 37; <em>Kentucky Vital Statistics Original Death Certificates (1911-1955)</em>, Ancestry, 1915, Henderson County, Kentucky, file no. 21912.</p>
+        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hancock County, Hawesville, p. 37; <hi rend=”italic”>Kentucky Vital Statistics Original Death Certificates (1911-1955)</hi>, Ancestry, 1915, Henderson County, Kentucky, file no. 21912.
 </bibl></ab>
     </back>
 </text>
