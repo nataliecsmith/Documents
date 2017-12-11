@@ -44,7 +44,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00001873">
                     <placeName>
                         <location>
@@ -53,7 +53,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -62,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Jennifer Herman, <em>Ohio Encyclopedia</em> (Somerset Publishers, Inc., 2002), 410.</p>
+        <ab><bibl>Jennifer Herman, <hi rend=”italic”>Ohio Encyclopedia</hi> (Somerset Publishers, Inc., 2002), 410.
 </bibl></ab>
     </back>
 </text>
