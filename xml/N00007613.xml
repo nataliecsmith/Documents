@@ -46,8 +46,7 @@
                       Elmore H. Mercer
                         (Breckinridge County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1819"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1819"  certainty="medium" ><ab>c1819</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Breckinridge County, District 2, p. 63. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Breckinridge County, District 2, p. 706. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breckinridge County, District 2, p. 41. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Breckinridge County, District 2, p. 11. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Breckinridge County, Hudsonville, p. 3.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District 2, p. 63. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Breckinridge County, District 2, p. 706. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, District 2, p. 41. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Breckinridge County, District 2, p. 11. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breckinridge County, Hudsonville, p. 3.
 </bibl></ab>
     </back>
 </text>
