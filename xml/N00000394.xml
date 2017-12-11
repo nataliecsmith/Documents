@@ -50,8 +50,8 @@
                       Joseph Daveiss
                         (Joe Daviess)
                     </persName>
-                      <birth when="1774-03-04"></birth>
-                      <death when="1811-11-07"></death>
+                        <event type="birth"  when="1774-03-04"  ><ab>1774-03-04</ab></event>
+                        <event type="death"  when="1811-11-07"  ><ab>1811-11-07</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Daviess, Joseph Hamilton,&quot; <em>Appletons’ Cyclopaedia of American Biography</em> vol. 2, ed. James Grant Wilson and John Fiske (New York: D. Appleton and Company, 1887), 92. </p>
+        <ab><bibl>&quot;Daviess, Joseph Hamilton,&quot; <hi rend=”italic”>Appletons’ Cyclopaedia of American Biography</hi> vol. 2, ed. James Grant Wilson and John Fiske (New York: D. Appleton and Company, 1887), 92. 
 </bibl></ab>
     </back>
 </text>
