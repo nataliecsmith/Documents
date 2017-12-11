@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0045"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Paducah <date when="1861-01-03">Jeany 3<hi rend="sup">d</hi>/61</date>
+   <p><placeName ref="cwgk:P00001227">Paducah</placeName> <date when="1861-01-03">Jeany 3<hi rend="sup">d</hi>/61</date>
 <lb/>Hon
-<lb/> -- B Magoffin
-<lb/>Frankfort
-<lb/>Dear Sir</p>
+<lb/> -- <persName ref="cwgk:N00000258">B Magoffin
+</persName><lb/><placeName ref="cwgk:P00000308">Frankfort
+</placeName><lb/>Dear Sir</p>
 <p>That no trouble may ensue I write asking you for a commission as <hi rend="underline">Notary Public</hi> being a member of the <hi rend="underline">Bar</hi> I am at some inconvenience, at times getting my Cliants Sworn to legal pleadings -- </p>
-<p>My References, for all thats required are Judge<hi rend="sup">s</hi> Williams, Bigger, Trimble, and also John Q A King A, P, Thompson, L M Flurnoy Dallam &amp; others</p>
+<p>My References, for all thats required are Judge<hi rend="sup">s</hi> <persName ref="cwgk:N00000883">Williams</persName>, <persName ref="cwgk:N00002047">Bigger</persName>, Trimble, and also <persName ref="cwgk:N00002051">John Q A King</persName> <persName ref="cwgk:N00002052">A. P. Thompson</persName>, L M Flurnoy Dallam &amp; others</p>
 <p>Compy at your earliest Convenience Obliging</p>
 <p>Yours with Respect:
-<lb/>Josiah Harris Jr<pb/></p>
+<lb/><persName ref="cwgk:N00002058">Josiah Harris Jr</persName><pb/></p>
 <p>M<hi rend="sup">c</hi>Cracken Co<figure type="hr"/>
 <lb/>Notary
 <lb/>Josiah Harris Jr
