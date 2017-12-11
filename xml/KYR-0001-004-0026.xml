@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0026"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Somerset Ky
-<lb/><date when="1863-03-21">March 21<hi rend="sup">st</hi> 1863,</date>
+   <p><placeName ref="cwgk:P00001061">Somerset Ky</placeName><lb/><date when="1863-03-21">March 21<hi rend="sup">st</hi> 1863,</date>
 <lb/>Governer Robinson
 <lb/>Dear Sir</p>
-<p>As attorney for the Commonwealth I prosecuted one James Savage in the Wayne Circuit Court upon a charge of Manslaughter, Savage was convicted &amp; sentenced to 10 years Confinement in the Penitentiary, He has now served out about one half of the time. I now write for the purpose of inducing you to pardon him and release him from the balance of the judgment of the Court, I feel impelled to this course from a concientious regard <hi rend="str">from</hi>for the just administration of the law. The conduct of the deceased at the time he was slain was such as no man could have refrained from violence and altho technacally quilty of Manslaughter Savage has already dearly &amp; fully in my judgment expiated the crime, Senator Buster informs me that he has already furnished you with a statement containing the substance of the testimony I therefore refrain from a repetition. And join him in an earnest appeal to you to let the poor fellow out -- He was always a good boy honest and industrious, and stood well when the unfortunate affair occurred which has cost him his liberty,</p>
+<p>As attorney for the Commonwealth I prosecuted one <persName ref="cwgk:N00004837">James Savage</persName> in the <orgName ref="cwgk:O00000584">Wayne Circuit Court </orgName>upon a charge of Manslaughter, Savage was convicted &amp; sentenced to 10 years Confinement in the Penitentiary, He has now served out about one half of the time. I now write for the purpose of inducing you to pardon him and release him from the balance of the judgment of the Court, I feel impelled to this course from a concientious regard <hi rend="str">from</hi>for the just administration of the law. The conduct of the deceased at the time he was slain was such as no man could have refrained from violence and altho technacally quilty of Manslaughter Savage has already dearly &amp; fully in my judgment expiated the crime, <persName ref="cwgk:N00004834">Senator Buster</persName> informs me that he has already furnished you with a statement containing the substance of the testimony I therefore refrain from a repetition. And join him in an earnest appeal to you to let the poor fellow out -- He was always a good boy honest and industrious, and stood well when the unfortunate affair occurred which has cost him his liberty,</p>
 <p>I am yours Truly
-<lb/><hi rend="underline">E L Van Winkle</hi><pb/></p>
+<lb/><persName ref="cwgk:N001777">E L Van Winkle</persName><pb/></p>
 <p>E. S. Vanwinkle
 <lb/>for Pardon of Savage</p>
   </body>
