@@ -46,8 +46,8 @@
                       George O. R. McCall
                         (Mount Vernon, Kentucky, farmer)
                     </persName>
-                      <birth when="1831-08-27"></birth>
-                      <death when="1905-12-23"></death>
+                        <event type="birth"  when="1831-08-27"  ><ab>1831-08-27</ab></event>
+                        <event type="death"  when="1905-12-23"  ><ab>1905-12-23</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Rockcastle County, Mt. Vernon, p. 125; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Rockcastle County, Voting District 1, p. 43; <em>Find A Grave</em>, &quot;George O. R. McCall (1831-1905),&quot; Memorial #39758587, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=39758587 (accessed August 10, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, Mt. Vernon, p. 125; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Rockcastle County, Voting District 1, p. 43; <hi rend=”italic”>Find A Grave</hi>, &quot;George O. R. McCall (1831-1905),&quot; Memorial #39758587, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=39758587 (accessed August 10, 2017).
 </bibl></ab>
     </back>
 </text>
