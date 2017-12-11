@@ -43,8 +43,8 @@
             <particDesc>
                 <org xml:id="O00003030">
                     <orgName>Confederate States of America</orgName>
-                      <event type="begun" when="1861-02-08">1861-02-08</event>
-                      <event type="ended" when="1865-05-05">1865-05-05</event>
+                        <event type="begun"  when="1861-02-08"  ><ab>1861-02-08</ab></event>
+                        <event type="ended"  when="1865-05-05"  ><ab>1865-05-05</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +55,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Emory M. Thomas, <em>The Confederate Nation, 1861-1865</em> (New York: Harper &amp; Row, 1979).</p>
+        <ab><bibl>Emory M. Thomas, <hi rend=”italic”>The Confederate Nation, 1861-1865</hi> (New York: Harper &amp; Row, 1979).
 </bibl></ab>
     </back>
 </text>
