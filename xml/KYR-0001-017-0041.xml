@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0041"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Branch of the People's Bank of Kentucky,
-<lb/>Larkin Nall, President,
-<lb/>Jno. C. Morton, Cashier.
-<lb/>Hartford, <date when="1861-01-04">January 4<hi rend="sup">th</hi> 1861.</date>
-<lb/>His Excellency B Magoffin Gov of Ky</p>
-<p>Sir the office of notary Public having become vacant by the acceptance by M<hi rend="sup">r</hi> A L Morton of the office of Circuit Court, You are Respectfully requested to appoint William H Nall to fill said vacancy</p>
+   <p>Branch of the <orgName ref="cwgk:O00002014">People's Bank of Kentucky</orgName>,<lb/><persName ref="cwgk:N00002015">Larkin Nall</persName>, President,<lb/><persName ref="cwgk:N00002017">Jno. C. Morton</persName>, Cashier.<lb/><placeName ref="cwgk:P001000">Hartford,</placeName> <date when="1861-01-04">January 4<hi rend="sup">th</hi> 1861.</date>
+<lb/>His Excellency <persName ref="cwgk:N00000258">B Magoffin</persName> Gov of <orgName ref="cwgk:O001025">Ky</orgName></p>
+<p>Sir the office of notary Public having become vacant by the acceptance by M<hi rend="sup">r</hi> <persName ref="cwgk:N00001691">A L Morton</persName> of the office of <orgName ref="cwgk:O00000484">Circuit Court</orgName>, You are Respectfully requested to appoint <persName ref="cwgk:N00002021">William H Nall</persName> to fill said vacancy</p>
 <p>It is very important that it be attended to at once</p>
 <p>Very respectfully &amp;C
-<lb/>A B Baird
-<lb/>Judge of the County Court<pb/></p>
-<p>Ohio Co.<figure type="hr"/>
+<lb/><persName ref="cwgk:N00002026">A B Baird
+</persName><lb/>Judge of the County Court<pb/></p>
+<p><placeName ref="cwgk:P00002417">Ohio Co.</placeName><figure type="hr"/>
 <lb/>Notary
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H. Nall
 <lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1860-01-10">Jany 10<hi rend="underline"><hi rend="sup">th</hi></hi> 1860</date></p>
