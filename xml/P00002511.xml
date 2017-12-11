@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00002511">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Joseph Bixby Hoyt and Irving J. Stolberg, &quot;Connecticut&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/Connecticut) (accessed May 22, 2017).</p>
+        <ab><bibl>Joseph Bixby Hoyt and Irving J. Stolberg, &quot;Connecticut&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/Connecticut) (accessed May 22, 2017).
 </bibl></ab>
     </back>
 </text>
