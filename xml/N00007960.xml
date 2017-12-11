@@ -46,8 +46,8 @@
                       James Monroe Quarles
                         (Marshall County farmer)
                     </persName>
-                      <birth when="1825-10-25"></birth>
-                      <death when="1906-06-24"></death>
+                        <event type="birth"  when="1825-10-25"  ><ab>1825-10-25</ab></event>
+                        <event type="death"  when="1906-06-24"  ><ab>1906-06-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marshall County, Barksdale post office, p. 34; <em>Find A Grave</em>, &quot;James Monroe Quarles (1825 - 1906),&quot; Memorial #67667197, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=67667197 (accessed July 9, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, Barksdale post office, p. 34; <hi rend=”italic”>Find A Grave</hi>, &quot;James Monroe Quarles (1825 - 1906),&quot; Memorial #67667197, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=67667197 (accessed July 9, 2017).
 </bibl></ab>
     </back>
 </text>
