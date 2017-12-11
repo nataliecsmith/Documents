@@ -40,11 +40,11 @@
                     <term type="type">Geographical Feature</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="G00005612">
                     <geogName>East River</geogName>
                 </place>
-            </particDesc>
+            </settingDesc>
         </profileDesc>
     </teiHeader>
      <text>
@@ -53,7 +53,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;East River&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/East-River) (accessed May 10, 2017).</p>
+        <ab><bibl>&quot;East River&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/East-River) (accessed May 10, 2017).
 </bibl></ab>
     </back>
 </text>
