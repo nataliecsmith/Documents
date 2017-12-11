@@ -43,8 +43,7 @@
             <particDesc>
                 <org xml:id="O001003">
                     <orgName>Chesnut Street Presbyterian Church</orgName>
-                      <event type="begun" when="1848">1848</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1848"  ><ab>1848</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Acts of the General Assembly of the Commonwealth of Kentucky, Passed at the Regular Session of the General Assembly, which was begun and held in the City of Frankfort on Friday, the Thirty-first Day of December, 1875, Vol. 1 (Frankfort, KY: James A. Hodges, 1876), 286. Henry Tanner, ed., Tanner’s Louisville Directory and Business Advertiser for 1861 (Louisville: Directory Publication and Advertising Agency, 1861), 335.</p>
+        <ab><bibl>Acts of the General Assembly of the Commonwealth of Kentucky, Passed at the Regular Session of the General Assembly, which was begun and held in the City of Frankfort on Friday, the Thirty-first Day of December, 1875, Vol. 1 (Frankfort, KY: James A. Hodges, 1876), 286. Henry Tanner, ed., Tanner’s Louisville Directory and Business Advertiser for 1861 (Louisville: Directory Publication and Advertising Agency, 1861), 335.
 </bibl></ab>
     </back>
 </text>
