@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0557"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -66,18 +74,16 @@
    <p>Greensburg Ky
 <lb/><date when="1863-08-25">August 25<hi rend="sup">th</hi> 1863</date>
 <lb/>To his Excellency
-<lb/>Gov. Robinson or Gov. Bramlette.
-<lb/>Frankfort</p>
-<p>Accompanying this letter will be an application of the Rev. W H Woods to be relieved of two fines each of &#36;50. <unclear>infavor</unclear> of the Commonwealth of Kentucky against him for Solemnizing the rights of Matrimony without having taken the Oath required in Such Cases. -- I am Cognizant of the facts in the cases. and am Satisfied they are Such as to call for Executive interposition -- The act of the Legislature aforesaid was passsed at a time when this portion of the state was overrun with Confederate troops and it was not until long After the passage of the act that there was official notice of it in this part of the State and as was proven in these trials there was no one could have administered the Oath for the want of a knowledge of its requirements --.M<hi rend="underline"><hi rend="sup">r</hi></hi> Woods is a Preacher of standing &amp; character in the Presbyterian Church; has a family of children and not well able to pay the fine<hi rend="underline"><hi rend="sup">s</hi></hi> aforesaid, I therefore urgently request that the aforesaid fines be remitted.</p>
+<lb/>Gov. <persName ref="cwgk:N001004">Robinson</persName> or Gov. <persName ref="cwgk:N001000">Bramlette</persName>.<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName></p>
+<p>Accompanying this letter will be an application of the <persName ref="cwgk:N00000472">Rev. W H Woods</persName> to be relieved of two fines each of $50. <unclear>infavor</unclear> of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> against him for Solemnizing the rights of Matrimony without having taken the Oath required in Such Cases. -- I am Cognizant of the facts in the cases. and am Satisfied they are Such as to call for Executive interposition -- The act of <orgName ref="cwgk:O00000923">the Legislature</orgName> aforesaid was passsed at a time when this portion of <placeName ref="cwgk:P001800">the state</placeName> was overrun with <orgName ref="cwgk:O00000506">Confederate troops</orgName> and it was not until long After the passage of the act that there was official notice of it in this part of the State and as was proven in these trials there was no one could have administered the Oath for the want of a knowledge of its requirements --.M<hi rend="underline"><hi rend="sup">r</hi></hi> Woods is a Preacher of standing &amp; character in the Presbyterian Church; has a family of children and not well able to pay the fine<hi rend="underline"><hi rend="sup">s</hi></hi> aforesaid, I therefore urgently request that the aforesaid fines be remitted.</p>
 <p>I remain Very Respt &amp;c
-<lb/>T T Alexander<pb/></p>
+<lb/><persName ref="cwgk:N00002587">T T Alexander</persName><pb/></p>
 <p>Greensburg Ky <date when="1863-08-25">Aug 25, 1863</date>.</p>
 <p>The undersigned attys who have heard a portion if not all the facts connected with the two prossecutions mentioned in the within letter of Mr. Alexander join with pleasure with him and the Petitioner in praying the remission of the two fines mentioned- Respectfully &amp;c</p>
 <p><milestone unit="column" n="2"/><cb n="1"/><unclear><hi rend="underline">Jno. S. McCorkle</hi></unclear>
-<lb/><cb n="2"/>Ossian T. Ward
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> B Allen<milestone unit="column" n="1"/></p>
-<p>The undersigned states that he was clerk of the County Court of Green County Ky during the year <date when="1862">1862</date> and that the Rev<hi rend="sup">d</hi> W<hi rend="underline"><hi rend="sup">m</hi></hi> H, Woods did file in my office on the <gap/> day of <date when="1862-12">Decr 1862</date> the oath required by the act of <date when="1862-08-31">31<hi rend="underline"><hi rend="sup">s</hi></hi> of Aug 1862</date> before solemnizing marriages= From my knowledge of the facts I join cheerfully in his prayer for the remission of the two fines mentioned in his Petition= Given under my hand as Clerk of said Court this <date when="1863-08-25">25<hi rend="sup">th</hi> day of August 1863</date>=</p>
-<p>David, T, Towles</p>
+<lb/><cb n="2"/><persName ref="cwgk:N00000471">Ossian T. Ward</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> B Allen<milestone unit="column" n="1"/></p>
+<p>The undersigned states that he was clerk of the <orgName ref="cwgk:O00000631">County Court of Green County Ky</orgName> during the year <date when="1862">1862</date> and that the Rev<hi rend="sup">d</hi> W<hi rend="underline"><hi rend="sup">m</hi></hi> H, Woods did file in my office on the <gap/> day of <date when="1862-12">Decr 1862</date> the oath required by the act of <date when="1862-08-31">31<hi rend="underline"><hi rend="sup">s</hi></hi> of Aug 1862</date> before solemnizing marriages= From my knowledge of the facts I join cheerfully in his prayer for the remission of the two fines mentioned in his Petition= Given under my hand as Clerk of said Court this <date when="1863-08-25">25<hi rend="sup">th</hi> day of August 1863</date>=</p>
+<p><persName ref="cwgk:N00007761">David, T, Towles</persName></p>
   </body>
  </text>
 </TEI>
