@@ -46,8 +46,8 @@
                       Alvan Levin Jones
                         (Henderson County, Kentucky, store clerk)
                     </persName>
-                      <birth when="1817-11-17"></birth>
-                      <death when="1910-08-29"></death>
+                        <event type="birth"  when="1817-11-17"  ><ab>1817-11-17</ab></event>
+                        <event type="death"  when="1910-08-29"  ><ab>1910-08-29</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Henderson County, Henderson, District 1, p. 204; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Henderson County, Henderson, Division 1, p. 16; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Henderson County, Henderson, Ward 4, p. 14; Jordan Dodd, <em>Kentucky Marriages, 1802-1850</em>, Ancestry, Henderson County, Kentucky, November 11, 1852; <em>Find A Grave</em>, &quot;Alvan Levin Jones (1817-1910),&quot; Memorial #90141408, http://www.findagrave.com/cgi-bin/fg.cgi/http%2522//trees.ancestry.com/tree/19807769/fg.cgi?page=gr&amp;GRid=90141408 (accessed July 31, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Henderson County, Henderson, District 1, p. 204; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henderson County, Henderson, Division 1, p. 16; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Henderson County, Henderson, Ward 4, p. 14; Jordan Dodd, <hi rend=”italic”>Kentucky Marriages, 1802-1850</hi>, Ancestry, Henderson County, Kentucky, November 11, 1852; <hi rend=”italic”>Find A Grave</hi>, &quot;Alvan Levin Jones (1817-1910),&quot; Memorial #90141408, http://www.findagrave.com/cgi-bin/fg.cgi/http%2522//trees.ancestry.com/tree/19807769/fg.cgi?page=gr&amp;GRid=90141408 (accessed July 31, 2017).
 </bibl></ab>
     </back>
 </text>
