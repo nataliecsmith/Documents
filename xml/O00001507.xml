@@ -43,8 +43,8 @@
             <particDesc>
                 <org xml:id="O00001507">
                     <orgName>18th Regiment Kentucky Volunteers</orgName>
-                      <event type="begun" when="1862-02-08">1862-02-08</event>
-                      <event type="ended" when="1865-04-04">1865-04-04</event>
+                        <event type="begun"  when="1862-02-08"  ><ab>1862-02-08</ab></event>
+                        <event type="ended"  when="1865-04-04"  ><ab>1865-04-04</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +55,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Report of the Adjutant General of the State of Kentucky</em>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 2-17.</p>
+        <ab><bibl><hi rend=”italic”>Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 2-17.
 </bibl></ab>
     </back>
 </text>
