@@ -46,8 +46,8 @@
                       Alfred R. Gaunt
                         (Clerk, Carroll Cir. Ct)
                     </persName>
-                      <birth when="1815"></birth>
-                      <death when="1885"></death>
+                        <event type="birth"  when="1815"  ><ab>1815</ab></event>
+                        <event type="death"  when="1885"  ><ab>1885</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Carroll County, District No. First, p. 159; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Carroll County, District No. 1; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Carroll County, District No. 2, p. 29; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Carroll County, District No. 2, p. 2; <em>Find A Grave</em>, Alfred R Gaunt (1815 - 1885),&quot; Memorial #31545418, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=31545418 (accessed October 4, 2017); KYR-0001-004-0032.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Carroll County, District No. First, p. 159; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Carroll County, District No. 1; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carroll County, District No. 2, p. 29; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Carroll County, District No. 2, p. 2; <hi rend=”italic”>Find A Grave</hi>, Alfred R Gaunt (1815 - 1885),&quot; Memorial #31545418, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=31545418 (accessed October 4, 2017); KYR-0001-004-0032.
 </bibl></ab>
     </back>
 </text>
