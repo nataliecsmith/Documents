@@ -46,8 +46,7 @@
                       James A. Long
                         (Franklin County )
                     </persName>
-                      <birth when="c1835"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1835"  certainty="medium" ><ab>c1835</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, District 1, p. 47. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Franklin County, Pikes Mill District, p. 50.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, District 1, p. 47. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Franklin County, Pikes Mill District, p. 50.
 </bibl></ab>
     </back>
 </text>
