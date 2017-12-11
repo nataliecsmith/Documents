@@ -42,8 +42,8 @@
                       William Dollins, Sr.
                         (Garrard County, Kentucky, overseer and farmer)
                     </persName>
-                      <birth when="1836-01-23"></birth>
-                      <death when="1922-06-21"></death>
+                        <event type="birth"  when="1836-01-23"  ><ab>1836-01-23</ab></event>
+                        <event type="death"  when="1922-06-21"  ><ab>1922-06-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,7 +56,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Garrard County, Division 1, p. 217; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Garrard County, p. 50; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Garrard County, p. 17; Ninth Manuscript Census of the United States_ (1870), Population Schedules, Kentucky, Garrard County, Brandy Spring District 1, p. 3; <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Taylor County, KY, July 1863, p. 94, (Accessed via ancestry.com); <em>Find A Grave</em>, &quot;William Dollins (1836-1922),&quot; Memorial #91122153, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=91122153&amp;ref=acom (accessed July 20, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Garrard County, Division 1, p. 217; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Garrard County, p. 50; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Garrard County, p. 17; Ninth Manuscript Census of the United States_ (1870), Population Schedules, Kentucky, Garrard County, Brandy Spring District 1, p. 3; <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Taylor County, KY, July 1863, p. 94, (Accessed via ancestry.com); <hi rend=”italic”>Find A Grave</hi>, &quot;William Dollins (1836-1922),&quot; Memorial #91122153, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=91122153&amp;ref=acom (accessed July 20, 2017).
 </bibl></ab>
     </back>
 </text>
