@@ -36,7 +36,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P001038">
                     <placeName>
                         <location>
@@ -45,7 +45,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -54,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Kenneth C. Martis and Sam E. Clagg, &quot;West Virginia&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/West-Virginia) (accessed on June 26, 2017).</p>
+        <ab><bibl>Kenneth C. Martis and Sam E. Clagg, &quot;West Virginia&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/West-Virginia) (accessed on June 26, 2017).
 </bibl></ab>
     </back>
 </text>
