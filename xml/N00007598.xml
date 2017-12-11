@@ -46,8 +46,8 @@
                       Sebastian Eli Mattingly
                         (Breckinridge County, Kentucky, farm laborer)
                     </persName>
-                      <birth when="c1841"></birth>
-                      <death when="1916-01-26"></death>
+                        <event type="birth"  when="1841"  certainty="medium" ><ab>c1841</ab></event>
+                        <event type="death"  when="1916-01-26"  ><ab>1916-01-26</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="U"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 53A. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 92. &quot;Kentucky, Vital Record Indexes, 1911-1999,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:QKC9-D1F2 : 1 July 2015), Sebastian Mattingly, 26 Jan 1916; citing Death, Daviess, Kentucky, United States, Kentucky Department for Libraries and Archives, Frankfort.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 53A. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 92. &quot;Kentucky, Vital Record Indexes, 1911-1999,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:QKC9-D1F2 : 1 July 2015), Sebastian Mattingly, 26 Jan 1916; citing Death, Daviess, Kentucky, United States, Kentucky Department for Libraries and Archives, Frankfort.
 </bibl></ab>
     </back>
 </text>
