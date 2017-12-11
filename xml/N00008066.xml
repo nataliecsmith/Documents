@@ -46,8 +46,8 @@
                       William F. Wilson
                         (Maysville (Mason County) Shoemaker)
                     </persName>
-                      <birth when="1830"></birth>
-                      <death when="1910"></death>
+                        <event type="birth"  when="1830"  ><ab>1830</ab></event>
+                        <event type="death"  when="1910"  ><ab>1910</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="U"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Mason County, District No. 2, p. 99; <em>Find A Grave</em>, &quot;W F Wilson, Sr (1830 - 1910),&quot; Memorial #39838459, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=39838459 (accessed October 4, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mason County, District No. 2, p. 99; <hi rend=”italic”>Find A Grave</hi>, &quot;W F Wilson, Sr (1830 - 1910),&quot; Memorial #39838459, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=39838459 (accessed October 4, 2017).
 </bibl></ab>
     </back>
 </text>
