@@ -50,8 +50,7 @@
                       Francis Manville Webster
                         (Newport, Campbell Co atty)
                     </persName>
-                      <birth when="c1820"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1820"  certainty="medium" ><ab>c1820</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Campbell County, Newport, p. 44. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Campbell County, Newport, p. 880. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Campbell County, Newport, p. 240. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Campbell County, Newport, p. 1. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Campbell County, Newport, p. 184. <em>Find A Grave</em>, &quot;Francis Manville Webster (1822-1882),&quot; Memorial #96562228, http://www.findagrave.com/memorial/96562228/francis-manville-webster (accessed April 18, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Campbell County, Newport, p. 44. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Campbell County, Newport, p. 880. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Campbell County, Newport, p. 240. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Campbell County, Newport, p. 1. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Campbell County, Newport, p. 184. <hi rend=”italic”>Find A Grave</hi>, &quot;Francis Manville Webster (1822-1882),&quot; Memorial #96562228, http://www.findagrave.com/memorial/96562228/francis-manville-webster (accessed April 18, 2017).
 </bibl></ab>
     </back>
 </text>
