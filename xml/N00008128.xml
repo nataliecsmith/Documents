@@ -46,8 +46,7 @@
                       Robert Knight
                         (Christian County)
                     </persName>
-                      <birth when="c1845"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1845"  certainty="medium" ><ab>c1845</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Christian County, Unnamed District, p. 78; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Christian County, City of Hopkinsville, p. 17.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Christian County, Unnamed District, p. 78; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Christian County, City of Hopkinsville, p. 17.
 </bibl></ab>
     </back>
 </text>
