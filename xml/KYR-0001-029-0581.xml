@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0581"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Mason Circuit Court.
-<lb/>The Commonwealth of Kentucky.
-<lb/>Against &#125; Indictment-
-<lb/>James C. Brookover-</p>
+   <p><orgName ref="cwgk:O00000426">Mason Circuit Court</orgName>.<lb/>The <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>.<lb/>Against } Indictment-
+<lb/><persName ref="cwgk:N00002670">James C. Brookover</persName>-</p>
 <p>The Grand Jury of Mason County, in the name and by the authority of the Commonwealth of Kentucky, accuse James C, Brookover of the offense of selling spirituous liquor to slaves, committed as follows: The said James C, Brookover on the <date when="1861-07-15">15<hi rend="underline"><hi rend="sup">th</hi></hi> day of July 1861.</date> at the County aforesaid, did sell Spirituous liquor to certain slaves, whose names are unknown to the Grand Jury, belonging to persons whose names are unknown to the Grand Jury, he at the time not having the rightful care and custody of said slaves, or either of them, and not have the written order of the owner, or owners of said slaves, or either of them, or of the person or persons entitled to the custody and care of said slaves to furnish them, or either of them with said liquors, against the peace and dignity of the Commonwealth of Kentucky-.</p>
-<p>R. H. Stanton
-<lb/>Attorney for the Commonwealth -- 
+<p><persName ref="cwgk:N00002605">R. H. Stanton</persName><lb/>Attorney for the Commonwealth -- 
 <lb/>(Endorsed as follows towit:)
 <lb/>"A True Bill-
 <lb/>L. B. Goggin Foreman -- 
@@ -77,7 +82,7 @@
 <lb/><hi rend="underline">Attest</hi>. Jn<hi rend="underline"><hi rend="sup">o</hi></hi> M Duke Jr Clerk
 <lb/>Mason Ct Ct.<pb/></p>
 <p>Comlth of Ky -- 
-<lb/>vs. &#125; Copy of Indictment.
+<lb/>vs. } Copy of Indictment.
 <lb/>James C. Brookover -- </p>
   </body>
  </text>
