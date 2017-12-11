@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00007967">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em>, 7th ed. (Louisville and Chicago: F. A. Battey and Company, 1887), 617.</p>
+        <ab><bibl>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi>, 7th ed. (Louisville and Chicago: F. A. Battey and Company, 1887), 617.
 </bibl></ab>
     </back>
 </text>
