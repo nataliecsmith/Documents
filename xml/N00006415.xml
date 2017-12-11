@@ -46,8 +46,7 @@
                       William M. Bowman
                         ( Clerk in Eddyville, Kentucky)
                     </persName>
-                      <birth when="c1833"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1833"  certainty="medium" ><ab>c1833</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 103; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Lyon County, Eddyville, p. 1.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 103; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lyon County, Eddyville, p. 1.
 </bibl></ab>
     </back>
 </text>
