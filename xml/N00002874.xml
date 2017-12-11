@@ -50,8 +50,8 @@
                       Ephraim Whitesides
                         (Frankfort, Kentucky, carpenter and assistant keeper of the penitentiary)
                     </persName>
-                      <birth when="1815-09-14"></birth>
-                      <death when="1886-01-23"></death>
+                        <event type="birth"  when="1815-09-14"  ><ab>1815-09-14</ab></event>
+                        <event type="death"  when="1886-01-23"  ><ab>1886-01-23</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, Frankfort district, p. 112; &quot;Death of Mr. E. Whitesides,&quot; <em>Frankfort Roundabout</em> (Frankfort, Ky.), January 30, 1886; <em>Find A Grave</em>, &quot;Ephraim Whitesides (1815-1886),&quot; Memorial #57969701, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=57969701 (accessed July 19, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort district, p. 112; &quot;Death of Mr. E. Whitesides,&quot; <hi rend=”italic”>Frankfort Roundabout</hi> (Frankfort, Ky.), January 30, 1886; <hi rend=”italic”>Find A Grave</hi>, &quot;Ephraim Whitesides (1815-1886),&quot; Memorial #57969701, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=57969701 (accessed July 19, 2017).
 </bibl></ab>
     </back>
 </text>
