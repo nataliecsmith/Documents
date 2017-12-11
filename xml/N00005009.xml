@@ -46,8 +46,8 @@
                       William Dearing
                         (Fleming County, Kentucky, laborer)
                     </persName>
-                      <birth when="1841-02-14"></birth>
-                      <death when="1928-05-24"></death>
+                        <event type="birth"  when="1841-02-14"  ><ab>1841-02-14</ab></event>
+                        <event type="death"  when="1928-05-24"  ><ab>1928-05-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Fleming County, Division 2, p. 399. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Fleming County, District 2, p. 128. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Fleming County, Flemingsburg, p. 211. <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Fleming County, KY, October 1863, p. 102, (Accessed via ancestry.com). <em>Kentucky Vital Statistics Original Death Certificates (1911-1955)</em>, Ancestry, 1928, Mason County, file no. 13443.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, Division 2, p. 399. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 2, p. 128. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fleming County, Flemingsburg, p. 211. <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Fleming County, KY, October 1863, p. 102, (Accessed via ancestry.com). <hi rend=”italic”>Kentucky Vital Statistics Original Death Certificates (1911-1955)</hi>, Ancestry, 1928, Mason County, file no. 13443.
 </bibl></ab>
     </back>
 </text>
