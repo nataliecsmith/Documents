@@ -46,8 +46,8 @@
                       Andrew Monroe
                         (Jefferson County, Kentucky, attorney and judge)
                     </persName>
-                      <birth when="c1820"></birth>
-                      <death when="c1868"></death>
+                        <event type="birth"  when="1820"  certainty="medium" ><ab>c1820</ab></event>
+                        <event type="death"  when="1868"  certainty="medium" ><ab>c1868</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Andrew Monroe&quot; in <em>The Encyclopedia of Louisville</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 2001), 625; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, 6th Ward City of Louisville, p. 119; &quot;Judge Andrew Monroe,&quot; <em>The Louisville Daily Journal</em> (Louisville, Ky.), May 29, 1868, p. 4.</p>
+        <ab><bibl>&quot;Andrew Monroe&quot; in <hi rend=”italic”>The Encyclopedia of Louisville</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 2001), 625; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, 6th Ward City of Louisville, p. 119; &quot;Judge Andrew Monroe,&quot; <hi rend=”italic”>The Louisville Daily Journal</hi> (Louisville, Ky.), May 29, 1868, p. 4.
 </bibl></ab>
     </back>
 </text>
