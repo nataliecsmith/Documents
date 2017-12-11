@@ -39,8 +39,8 @@
             <particDesc>
                 <org xml:id="O001002">
                     <orgName>Louisville Journal</orgName>
-                      <event type="begun" when="1830">1830</event>
-                      <event type="ended" when="1868">1868</event>
+                        <event type="begun"  when="1830"  ><ab>1830</ab></event>
+                        <event type="ended"  when="1868"  ><ab>1868</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -51,7 +51,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Betty Carolyn Congleton, &quot;Louisville Journal&quot; in <em>The Kentucky Encyclopedia</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 582-83.</p>
+        <ab><bibl>Betty Carolyn Congleton, &quot;Louisville Journal&quot; in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 582-83.
 </bibl></ab>
     </back>
 </text>
