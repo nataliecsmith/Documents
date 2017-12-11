@@ -50,8 +50,7 @@
                       George B. Lamblin
                         (Greenup County, Kentucky, day laborer)
                     </persName>
-                      <birth when="c1837"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1837"  certainty="medium" ><ab>c1837</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Ohio, Stark County, Washington, District 139, p. 378. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Greenup County, p. 114. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Indiana, Allen County, Jefferson, p. 464. KYR-0001-029-0583.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Ohio, Stark County, Washington, District 139, p. 378. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 114. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Indiana, Allen County, Jefferson, p. 464. KYR-0001-029-0583.
 </bibl></ab>
     </back>
 </text>
