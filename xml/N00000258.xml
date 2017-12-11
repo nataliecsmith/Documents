@@ -46,8 +46,8 @@
                       Beriah Magoffin
                         (governor)
                     </persName>
-                      <birth when="1815-04-18"></birth>
-                      <death when="1885-02-28"></death>
+                        <event type="birth"  when="1815-04-18"  ><ab>1815-04-18</ab></event>
+                        <event type="death"  when="1885-02-28"  ><ab>1885-02-28</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Lowell H. Harrison, “Beriah Magoffin (1859-1862)” in Lowell H. Harrison, Ed., Kentucky’s Governors (Lexington: University Press of Kentucky, 2004), 78-81; “Programme of the Ceremonies of Inauguration, on the 30th August, 1859” Daily Courier (Louisville, Ky.), August 24, 1859; Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Franklin County, Frankfort District No. 1, p. 24.</p>
+        <ab><bibl>Lowell H. Harrison, “Beriah Magoffin (1859-1862)” in Lowell H. Harrison, Ed., Kentucky’s Governors (Lexington: University Press of Kentucky, 2004), 78-81; “Programme of the Ceremonies of Inauguration, on the 30th August, 1859” Daily Courier (Louisville, Ky.), August 24, 1859; Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Franklin County, Frankfort District No. 1, p. 24.
 </bibl></ab>
     </back>
 </text>
