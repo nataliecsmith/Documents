@@ -46,8 +46,8 @@
                       Edward P. Campbell 
                         (Caldwell County, Kentucky, and Hopkinsville, Kentucky, commonwealth&#39;s attorney)
                     </persName>
-                      <birth when="1832-10-21"></birth>
-                      <death when="1896-06-30"></death>
+                        <event type="birth"  when="1832-10-21"  ><ab>1832-10-21</ab></event>
+                        <event type="death"  when="1896-06-30"  ><ab>1896-06-30</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 360. <em>Memorial Records of Western Kentucky</em>, vol. 1 (Chicago: The Lewis Publishing Company, 1904), 321-323. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Caldwell County, Princeton, p. 112. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedule, Kentucky, Caldwell County, Princeton, p. 8. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Christian County, Hopkinsville, p. 11.</p>
+        <ab><bibl><hi rend=”italic”>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 360. <hi rend=”italic”>Memorial Records of Western Kentucky</hi>, vol. 1 (Chicago: The Lewis Publishing Company, 1904), 321-323. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Caldwell County, Princeton, p. 112. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedule, Kentucky, Caldwell County, Princeton, p. 8. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Christian County, Hopkinsville, p. 11.
 </bibl></ab>
     </back>
 </text>
