@@ -46,8 +46,8 @@
                       Charles Scott Todd Bodley
                         (Lexington, Kentucky, bookseller and sheriff)
                     </persName>
-                      <birth when="1823"></birth>
-                      <death when="1869-10-12"></death>
+                        <event type="birth"  when="1823"  ><ab>1823</ab></event>
+                        <event type="death"  when="1869-10-12"  ><ab>1869-10-12</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, District 1, p. 127. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Fayette County, Lexington, Ward 3, p. 109. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Fayette County, Lexington, Ward 3, p. 58. <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Fayette County, KY, June/July 1863, p. 3., (Accessed via ancestry.com). St. Louis Genealogical Society, comp., <em>St. Louis City Death Records in the City of St. Louis, 1850-1902</em>, Ancestry, volume 3, 1869, p. 146. <em>Find A Grave</em>, &quot;Charles Scott Todd Bodley (1823-1869),&quot; Memorial #100460727, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=100460727 (accessed April 26, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, District 1, p. 127. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, Lexington, Ward 3, p. 109. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Fayette County, Lexington, Ward 3, p. 58. <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Fayette County, KY, June/July 1863, p. 3., (Accessed via ancestry.com). St. Louis Genealogical Society, comp., <hi rend=”italic”>St. Louis City Death Records in the City of St. Louis, 1850-1902</hi>, Ancestry, volume 3, 1869, p. 146. <hi rend=”italic”>Find A Grave</hi>, &quot;Charles Scott Todd Bodley (1823-1869),&quot; Memorial #100460727, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=100460727 (accessed April 26, 2017).
 </bibl></ab>
     </back>
 </text>
