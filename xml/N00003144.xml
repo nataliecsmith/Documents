@@ -46,8 +46,8 @@
                       Samuel Knox, Sr.
                         (St. Louis, Missouri, attorney, councilman, and politician/US Congress)
                     </persName>
-                      <birth when="1815-03-21"></birth>
-                      <death when="1905-03-07"></death>
+                        <event type="birth"  when="1815-03-21"  ><ab>1815-03-21</ab></event>
+                        <event type="death"  when="1905-03-07"  ><ab>1905-03-07</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Biographical Directory of the United States Congress</em>, s.v. “Knox, Samuel,” (http://bioguide.congress.gov/scripts/biodisplay.pl?index=K000297) (accessed March 30, 2017); <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Massachusetts, Hampden, Springfield, p. 223; <em>St. Louis, Missouri, City Director, 1866</em>, Edward, Greenough, &amp; Deved, pub. (St. Louis: Edwards, Greenough, &amp; Deved, 1866), p. 516 (accessed via Ancestry.com); <em>Missouri Marriage Records</em>, Jefferson City, MO, USA: Missouri State Archives. Microfilm, 1845, p. 156 (accessed via Ancestry.com); <em>Find A Grave</em>, &quot;Samuel Knox (1815-1905),&quot; Memorial #7481758, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=7481758&amp;ref=acom (accessed March 30, 2017); KYR-0001-007-0321.</p>
+        <ab><bibl><hi rend=”italic”>Biographical Directory of the United States Congress</hi>, s.v. “Knox, Samuel,” (http://bioguide.congress.gov/scripts/biodisplay.pl?index=K000297) (accessed March 30, 2017); <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Massachusetts, Hampden, Springfield, p. 223; <hi rend=”italic”>St. Louis, Missouri, City Director, 1866</hi>, Edward, Greenough, &amp; Deved, pub. (St. Louis: Edwards, Greenough, &amp; Deved, 1866), p. 516 (accessed via Ancestry.com); <hi rend=”italic”>Missouri Marriage Records</hi>, Jefferson City, MO, USA: Missouri State Archives. Microfilm, 1845, p. 156 (accessed via Ancestry.com); <hi rend=”italic”>Find A Grave</hi>, &quot;Samuel Knox (1815-1905),&quot; Memorial #7481758, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=7481758&amp;ref=acom (accessed March 30, 2017); KYR-0001-007-0321.
 </bibl></ab>
     </back>
 </text>
