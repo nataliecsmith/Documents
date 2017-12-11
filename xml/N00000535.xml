@@ -50,8 +50,8 @@
                       George W. Williams
                         (Paris, Kentucky, attorney and politician)
                     </persName>
-                      <birth when="1801-10-07"></birth>
-                      <death when="1870-01-30"></death>
+                        <event type="birth"  when="1801-10-07"  ><ab>1801-10-07</ab></event>
+                        <event type="death"  when="1870-01-30"  ><ab>1870-01-30</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 98-101; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, KY: Collins &amp; Co., 1878), p. 771-72; &quot;An Act to Incorporate the Deposit Bank of Paris, Bourbon County,&quot; <em>Acts of the General Assembly of the Commonwealth of Kentucky</em>, vol. 2 (Frankfort, Ky.: A. G. Hodges &amp; Co., State Printer, 1851), 273-281.; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Bourbon County, District 1, p. 271; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Bourbon County, District 1, p. 271; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bourbon County, Paris, p. 17; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Bourbon County, Paris, p. 7; Jordan Dodd, <em>Kentucky Marriages, 1802-1850</em>, Ancestry, Bourbon County, Kentucky, March 25, 1824; <em>Find A Grave</em>, &quot;George W. Williams (1801-1870),&quot; Memorial #130074484, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=130074484 (accessed May 19, 2017).</p>
+        <ab><bibl><hi rend=”italic”>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 98-101; Lewis Collins and Richard H. Collins, <hi rend=”italic”>Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, KY: Collins &amp; Co., 1878), p. 771-72; &quot;An Act to Incorporate the Deposit Bank of Paris, Bourbon County,&quot; <hi rend=”italic”>Acts of the General Assembly of the Commonwealth of Kentucky</hi>, vol. 2 (Frankfort, Ky.: A. G. Hodges &amp; Co., State Printer, 1851), 273-281.; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bourbon County, District 1, p. 271; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Bourbon County, District 1, p. 271; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bourbon County, Paris, p. 17; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Bourbon County, Paris, p. 7; Jordan Dodd, <hi rend=”italic”>Kentucky Marriages, 1802-1850</hi>, Ancestry, Bourbon County, Kentucky, March 25, 1824; <hi rend=”italic”>Find A Grave</hi>, &quot;George W. Williams (1801-1870),&quot; Memorial #130074484, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=130074484 (accessed May 19, 2017).
 </bibl></ab>
     </back>
 </text>
