@@ -50,8 +50,7 @@
                       William M. Cox
                         (Hopkins Co.)
                     </persName>
-                      <birth when="c1844"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1844"  certainty="medium" ><ab>c1844</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -63,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hopkins County, Nebo Precinct 4, p.3.</p>
+        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hopkins County, Nebo Precinct 4, p.3.
 </bibl></ab>
     </back>
 </text>
