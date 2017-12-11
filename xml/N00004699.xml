@@ -46,8 +46,8 @@
                       George Clifton Penn Baker, Sr.
                         (Hancock County, Kentucky, farmer)
                     </persName>
-                      <birth when="1811-01-15"></birth>
-                      <death when="1887-04-15"></death>
+                        <event type="birth"  when="1811-01-15"  ><ab>1811-01-15</ab></event>
+                        <event type="death"  when="1887-04-15"  ><ab>1887-04-15</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hancock County, p. 276; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hancock County, p. 45; <em>Find A Grave</em>, &quot;George Clifton Penn Baker (1811-1887),&quot; Memorial #86712041, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86712041 (accessed April 14, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hancock County, p. 276; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hancock County, p. 45; <hi rend=”italic”>Find A Grave</hi>, &quot;George Clifton Penn Baker (1811-1887),&quot; Memorial #86712041, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86712041 (accessed April 14, 2017).
 </bibl></ab>
     </back>
 </text>
