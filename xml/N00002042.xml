@@ -46,8 +46,7 @@
                       Nathaniel S. Strange
                         (Warren co farmer)
                     </persName>
-                      <birth when="c1793"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1793"  certainty="medium" ><ab>c1793</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Warren County, Second District; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Warren County, Second District; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Warren County, District No. 1, p. 126; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Warren County, District No. 1, pp. 26-27.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Warren County, Second District; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Warren County, Second District; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Warren County, District No. 1, p. 126; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Warren County, District No. 1, pp. 26-27.
 </bibl></ab>
     </back>
 </text>
