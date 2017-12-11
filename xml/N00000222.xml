@@ -46,8 +46,7 @@
                       Joshua Barnes
                         (Bath Co. State Rep. &amp; doctor)
                     </persName>
-                      <birth when="c1804"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1804"  certainty="medium" ><ab>c1804</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Bath County, 1st District, p. 89 B; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Bath County, 1st District; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bath County, Unnamed District, p. 178; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Bath County, Unnamed District, p. 22; <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 46; Steven L. Wright, ed., <em>Kentucky Soldiers and their Regiments</em>, vol. 3 (Utica, Ky.: McDowell Publications, 2009), 48.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bath County, 1st District, p. 89 B; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Bath County, 1st District; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bath County, Unnamed District, p. 178; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Bath County, Unnamed District, p. 22; <hi rend=”italic”>Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 46; Steven L. Wright, ed., <hi rend=”italic”>Kentucky Soldiers and their Regiments</hi>, vol. 3 (Utica, Ky.: McDowell Publications, 2009), 48.
 </bibl></ab>
     </back>
 </text>
