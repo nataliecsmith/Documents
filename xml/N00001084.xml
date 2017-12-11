@@ -54,8 +54,6 @@
                       Ben Croutcher
                         (Calhoun, Ky )
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -67,7 +65,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-004-0140.</p>
+        <ab><bibl>KYR-0001-004-0140.
 </bibl></ab>
     </back>
 </text>
