@@ -46,8 +46,7 @@
                       Jerry Trigg
                         (Barren County slave of Alanson Trigg)
                     </persName>
-                      <birth when="c1824"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1824"  certainty="medium" ><ab>c1824</ab></event>
                         <trait type="race" subtype="Black"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Tenth Manuscript Census of the United States</em> (1880), Population Schedules, Kentucky, Warren County, Bristow, p. 9A. Wright, Julia Francis Trigg Death Certificate, Bowling Green, Warren County, Kentucky, 5 June 1933, State File # 15193, Film # 7019178. Kentucky. <em>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</em>. Microfilm rolls #7016130-7041803. Kentucky Department for Libraries and Archives, Frankfort, Kentucky.</p>
+        <ab><bibl><hi rend=”italic”>Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Warren County, Bristow, p. 9A. Wright, Julia Francis Trigg Death Certificate, Bowling Green, Warren County, Kentucky, 5 June 1933, State File # 15193, Film # 7019178. Kentucky. <hi rend=”italic”>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>. Microfilm rolls #7016130-7041803. Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
 </bibl></ab>
     </back>
 </text>
