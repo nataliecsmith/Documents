@@ -46,8 +46,8 @@
                       John B. Stivers
                         (Bourbon co. carpenter/ 7th Infantry US)
                     </persName>
-                      <birth when="1821-06-10"></birth>
-                      <death when="1893-09-29"></death>
+                        <event type="birth"  when="1821-06-10"  ><ab>1821-06-10</ab></event>
+                        <event type="death"  when="1893-09-29"  ><ab>1893-09-29</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,8 +60,8 @@
 
     </body>
     <back>
-        <ab><bibl><p>William Henry Perrin, <em>History of Bourbon, Scott, Harrison and Nicholas Counties, Kentucky</em><br>
-(Chicago: O. L. Baskin &amp; Co., 1882), 550. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bourbon County, Eastern Division, p. 25. <em>Report of the Adjutant General of the State of Kentucky</em>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 757. <em>Find A Grave</em>, &quot;John B Stivers (1821 - 1893),&quot; Memorial #155842247, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=155842247 (accessed August 8, 2017).</p>
+        <ab><bibl>William Henry Perrin, <hi rend=”italic”>History of Bourbon, Scott, Harrison and Nicholas Counties, Kentucky</hi><br>
+(Chicago: O. L. Baskin &amp; Co., 1882), 550. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bourbon County, Eastern Division, p. 25. <hi rend=”italic”>Report of the Adjutant General of the State of Kentucky</hi>, vol. 1, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 757. <hi rend=”italic”>Find A Grave</hi>, &quot;John B Stivers (1821 - 1893),&quot; Memorial #155842247, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=155842247 (accessed August 8, 2017).
 </bibl></ab>
     </back>
 </text>
