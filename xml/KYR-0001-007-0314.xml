@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0314"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,9 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of California
-<lb/>City and County of San Francisco &#125; S, S,</p>
-<p>I, H, S. Homans duly appointed by the Governor of the State of Kentucky a Commissioner for the State of <hi rend="str">Callifornia</hi> Kentucky resident at the City and County of San Francisco State of California. do solemnly swear that I will well and faithfully execute and perform all the duties of such Commissioner under and by virtue of the laws of said State of Kentucky</p>
+   <p><placeName ref="cwgk:P00002428">State of California</placeName><lb/><placeName ref="cwgk:P00006526">City and County of San Francisco</placeName> } S, S,</p>
+<p>I, <persName ref="cwgk:N00001130">H. S. Homans</persName> duly appointed by the <persName ref="cwgk:N001000">Governor of the State of Kentucky</persName> a Commissioner for the State of <hi rend="str">Callifornia</hi> Kentucky resident at the City and County of San Francisco State of California. do solemnly swear that I will well and faithfully execute and perform all the duties of such Commissioner under and by virtue of the laws of said <orgName ref="cwgk:O001025">State of Kentucky</orgName></p>
 <p>H. S. Homans</p>
 <p>Subscribed and Sworn to before me this <date when="1864-11-29">29<hi rend="sup"> -- </hi>day of November A D 1864</date>
 <lb/>W<hi rend="sup">m</hi> Loewy</p>
