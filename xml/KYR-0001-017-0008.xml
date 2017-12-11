@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0008"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,9 +71,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Greenville, Ky., <date when="1860-10-25">Oct 25, 1860</date>
+   <p><placeName ref="cwgk:P00000557">Greenville, Ky</placeName>., <date when="1860-10-25">Oct 25, 1860</date>
 <lb/>Gov<hi rend="sup">r</hi> B. MaGoffin</p>
-<p>D<hi rend="sup">r</hi> Sir. It would be a convenience to the legal profession and to business^men^ of this place to have a notary Public here. B. E. Pittman's term of office, as notary, having expired, we would respectfully recommend John R. Lambuth, of Greenville, to you for the appointment.</p>
+<p>D<hi rend="sup">r</hi> Sir. It would be a convenience to the legal profession and to business^men^ of this place to have a notary Public here. <persName ref="cwgk:N00001728">B. E. Pittman</persName>'s term of office, as notary, having expired, we would respectfully recommend <persName ref="cwgk:N00001729">John R. Lambuth</persName>, of Greenville, to you for the appointment.</p>
 <p>Very Respectfully
 <lb/>Cha<hi rend="sup">s</hi> Eaves
 <lb/>R. S.. Russell
