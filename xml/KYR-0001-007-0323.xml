@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0323"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Alexandria Ky</p>
-<p>To the Hon Governor Bramlett of Kentucky we would respectfully represent to your honer that Benjamine Beall E<hi rend="sup">sqr</hi> has bian appointed Clerk of the Circuit Court <hi rend="str">at</hi> of this county in consequence of which the office of Justice of the peace in this place is vacant we would therefore recommend to your honor Frank Spilman as a suitable man to fill the vacancy yours respectfully <date when="1864-11-14">Nov<hi rend="sup">r</hi> 14<hi rend="sup">th</hi> 1864</date></p>
+   <p><placeName ref="cwgk:P00001878">Alexandria Ky</placeName></p>
+<p>To the Hon <persName ref="cwgk:N001000">Governor Bramlett</persName> of <orgName ref="cwgk:O001025">Kentucky</orgName> we would respectfully represent to your honer that <persName ref="cwgk:N00001889">Benjamine Beall</persName> E<hi rend="sup">sqr</hi> has bian appointed Clerk of the Circuit Court <hi rend="str">at</hi> of this county in consequence of which the office of Justice of the peace in this place is vacant we would therefore recommend to your honor <persName ref="cwgk:N00001913">Frank Spilman</persName> as a suitable man to fill the vacancy yours respectfully <date when="1864-11-14">Nov<hi rend="sup">r</hi> 14<hi rend="sup">th</hi> 1864</date></p>
 <p><milestone unit="column" n="2"/><cb n="1"/><hi rend="str">John Tod</hi>
 <lb/><milestone unit="column" n="2"/>D W Henery
-<lb/>John H Nelson
-<lb/>John Todd
-<lb/>Joseph F Wright
+<lb/><persName ref="cwgk:N00002071">John H Nelson</persName><lb/><persName ref="cwgk:N00002074">John Todd</persName><lb/>Joseph F Wright
 <lb/>John Por
-<lb/>H K. Rachford</p>
+<lb/><persName ref="cwgk:N00002076">H K. Rachford</persName></p>
   </body>
  </text>
 </TEI>
