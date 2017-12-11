@@ -46,8 +46,8 @@
                       Henry Adams
                         (Louisville Baptist Rev. )
                     </persName>
-                      <birth when="1802"></birth>
-                      <death when="1872-11-03"></death>
+                        <event type="birth"  when="1802"  ><ab>1802</ab></event>
+                        <event type="death"  when="1872-11-03"  ><ab>1872-11-03</ab></event>
                         <trait type="race" subtype="Black"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Cornelius Bogert, &quot;Adams, Henry&quot; in John A. Hardin, Karen Cotton McDaniel and Gerald Smith, eds., The Kentucky African American Encyclopedia (Lexington: University Press of Kentucky, 2015), 1. Marion B. Lucas, <em>A History of Blacks in Kentucky: From Slavery to Segregation, 1760-1891</em> (Frankfort: The Kentucky Historical Society, 1992), 123-126.</p>
+        <ab><bibl>Cornelius Bogert, &quot;Adams, Henry&quot; in John A. Hardin, Karen Cotton McDaniel and Gerald Smith, eds., The Kentucky African American Encyclopedia (Lexington: University Press of Kentucky, 2015), 1. Marion B. Lucas, <hi rend=”italic”>A History of Blacks in Kentucky: From Slavery to Segregation, 1760-1891</hi> (Frankfort: The Kentucky Historical Society, 1992), 123-126.
 </bibl></ab>
     </back>
 </text>
