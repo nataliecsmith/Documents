@@ -46,8 +46,8 @@
                       Green Berry Selby
                         (Russell County farmer)
                     </persName>
-                      <birth when="1829-05-18"></birth>
-                      <death when="1902-12-09"></death>
+                        <event type="birth"  when="1829-05-18"  ><ab>1829-05-18</ab></event>
+                        <event type="death"  when="1902-12-09"  ><ab>1902-12-09</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Russell County, Russell District, p. 10; <em>Kentucky, County Marriages, 1783-1965</em>, Ancestry, Russell County, 1850; <em>Find A Grave</em>, &quot;Green Berry Selby 1829-1902),&quot; Memorial #85128060, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=85128060] (accessed May 25, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Russell County, Russell District, p. 10; <hi rend=”italic”>Kentucky, County Marriages, 1783-1965</hi>, Ancestry, Russell County, 1850; <hi rend=”italic”>Find A Grave</hi>, &quot;Green Berry Selby 1829-1902),&quot; Memorial #85128060, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=85128060] (accessed May 25, 2017).
 </bibl></ab>
     </back>
 </text>
