@@ -46,8 +46,8 @@
                       David Glass Venable
                         (Frankfort, Kentucky, student and soldier)
                     </persName>
-                      <birth when="c1838"></birth>
-                      <death when="1881-03-20"></death>
+                        <event type="birth"  when="1838"  certainty="medium" ><ab>c1838</ab></event>
+                        <event type="death"  when="1881-03-20"  ><ab>1881-03-20</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Kentucky, Franklin County, Frankfort, p. 12; <em>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</em>, NARA RG 94, Microfilm Series M397, Roll 0400; <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Franklin County, KY, July 1863, p. 27, (Accessed via ancestry.com); <em>Find A Grave</em>, &quot;David Glass Venable (1838-1881),&quot; Memorial #60996678, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=VE&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=19&amp;GScntry=4&amp;GSsr=761&amp;GRid=60996678&amp; (accessed May 24, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Franklin County, Frankfort, p. 12; <hi rend=”italic”>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0400; <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Franklin County, KY, July 1863, p. 27, (Accessed via ancestry.com); <hi rend=”italic”>Find A Grave</hi>, &quot;David Glass Venable (1838-1881),&quot; Memorial #60996678, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=VE&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=19&amp;GScntry=4&amp;GSsr=761&amp;GRid=60996678&amp; (accessed May 24, 2017).
 </bibl></ab>
     </back>
 </text>
