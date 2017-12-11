@@ -46,8 +46,8 @@
                       Nathaniel S. Warner
                         (Greenup County, Kentucky, farm laborer)
                     </persName>
-                      <birth when="1844-07-04"></birth>
-                      <death when="1920-03-20"></death>
+                        <event type="birth"  when="1844-07-04"  ><ab>1844-07-04</ab></event>
+                        <event type="death"  when="1920-03-20"  ><ab>1920-03-20</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 242. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 253A. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Greenup County, p. 114. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Greenup County, p. 2. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Greenup County, Precinct 2, p. 14. <em>Find A Grave</em>, &quot;Nathaniel S. Warner (1844-1920),&quot; Memorial #5484109, http://www.findagrave.com/memorial/5484109/nathaniel-s.-warner (accessed June 15, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 242. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 253A. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 114. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Greenup County, p. 2. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Greenup County, Precinct 2, p. 14. <hi rend=”italic”>Find A Grave</hi>, &quot;Nathaniel S. Warner (1844-1920),&quot; Memorial #5484109, http://www.findagrave.com/memorial/5484109/nathaniel-s.-warner (accessed June 15, 2017).
 </bibl></ab>
     </back>
 </text>
