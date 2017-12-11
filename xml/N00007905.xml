@@ -46,8 +46,7 @@
                       Jefferson J. Satterwhite
                         (Anderson County farmer)
                     </persName>
-                      <birth when="c1827"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1827"  certainty="medium" ><ab>c1827</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Anderson County, Lawrenceburg post office, p. 63.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, Lawrenceburg post office, p. 63.
 </bibl></ab>
     </back>
 </text>
