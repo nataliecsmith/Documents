@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0394"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>JOHN M'CLAREN,
-<lb/>Attorney at Law,
+   <p><persName ref="cwgk:N00005585">JOHN M'CLAREN</persName>,<lb/>Attorney at Law,
 <lb/>OFFICE,
 <lb/>NO. 74 GRANT STREET,
 <lb/>One Door below the Court House,
-<lb/>PITTSBURGH, PA.<figure type="hr"/>
+<lb/><placeName ref="cwgk:P001033">PITTSBURGH, PA</placeName>.<figure type="hr"/>
 <lb/>Collections made and promptly remitted.</p>
 <p>Pittsburgh, <date when="1865-03-25">March 25 1865</date>
-<lb/>Hon. Thomas E. Bramlette
-<lb/>Governor of the State of Kentucky.</p>
-<p>The undersigned would respectfully make application for the appointment of, <hi rend="underline">Commissioner, for the State of Kentucky</hi>,</p>
+<lb/>Hon. <persName ref="cwgk:N001000">Thomas E. Bramlette</persName><lb/>Governor of the State of Kentucky.</p>
+<p>The undersigned would respectfully make application for the appointment of, Commissioner, for the ,<orgName ref="cwgk:O001025">State of Kentucky</orgName></p>
 <p>Very Respectfully
 <lb/>John M<hi rend="sup">c</hi>Claren</p>
 <p>Hon. Thos. E. Bramlette
