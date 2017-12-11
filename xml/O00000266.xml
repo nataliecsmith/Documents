@@ -47,8 +47,8 @@
             <particDesc>
                 <org xml:id="O00000266">
                     <orgName>Kentucky State Penitentiary</orgName>
-                      <event type="begun" when="1798">1798</event>
-                      <event type="ended" when="1884">1884</event>
+                        <event type="begun"  when="1798"  ><ab>1798</ab></event>
+                        <event type="ended"  when="1884"  ><ab>1884</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>William C. Sneed, <em>A Report on the History and Mode of Management of the Kentucky Penitentiary from its Origin, in 1798, to March 1, 1860</em> (Frankfort: Senate of Kentucky, 1860); <em>Report of the Special Committee on the Penitentiary to the Senate of Kentucky, February 26, 1880, Legislative Document No. 18</em> (Frankfort: E. H. Porter, 1880); Calvin Fairbank, <em>Rev. Calvin Fairbank During Slavery Times: How he “Fought the Good Fight” to Prepare “The Way”</em> (Chicago: R. R. McCabe &amp; Co., 1890), 54-56, 104-117, 139-146.</p>
+        <ab><bibl>William C. Sneed, <hi rend=”italic”>A Report on the History and Mode of Management of the Kentucky Penitentiary from its Origin, in 1798, to March 1, 1860</hi> (Frankfort: Senate of Kentucky, 1860); <hi rend=”italic”>Report of the Special Committee on the Penitentiary to the Senate of Kentucky, February 26, 1880, Legislative Document No. 18</hi> (Frankfort: E. H. Porter, 1880); Calvin Fairbank, <hi rend=”italic”>Rev. Calvin Fairbank During Slavery Times: How he “Fought the Good Fight” to Prepare “The Way”</hi> (Chicago: R. R. McCabe &amp; Co., 1890), 54-56, 104-117, 139-146.
 </bibl></ab>
     </back>
 </text>
