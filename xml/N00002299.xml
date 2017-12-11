@@ -54,8 +54,8 @@
                       Lovell H. Rousseau
                         (Louisville attorney | Col. 5th KY)
                     </persName>
-                      <birth when="1818-08-04"></birth>
-                      <death when="1869-01-07"></death>
+                        <event type="birth"  when="1818-08-04"  ><ab>1818-08-04</ab></event>
+                        <event type="death"  when="1869-01-07"  ><ab>1869-01-07</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +68,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Ezra J. Warner, <em>Generals in Blue: Lives of the Union Commanders</em> (Baton Rouge: Louisiana State University Press, 1964), 412-13. Joseph G. Dawson, <em>General Lovell H. Rousseau and Louisiana Reconstruction</em> Louisiana History 20 (Fall 1979): 373-91.</p>
+        <ab><bibl>Ezra J. Warner, <hi rend=”italic”>Generals in Blue: Lives of the Union Commanders</hi> (Baton Rouge: Louisiana State University Press, 1964), 412-13. Joseph G. Dawson, <hi rend=”italic”>General Lovell H. Rousseau and Louisiana Reconstruction</hi> Louisiana History 20 (Fall 1979): 373-91.
 </bibl></ab>
     </back>
 </text>
