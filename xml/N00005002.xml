@@ -46,8 +46,8 @@
                       Samuel D. Ezell
                         (Trigg county Wood yard)
                     </persName>
-                      <birth when="1824-10-02"></birth>
-                      <death when="1916-11-18"></death>
+                        <event type="birth"  when="1824-10-02"  ><ab>1824-10-02</ab></event>
+                        <event type="death"  when="1916-11-18"  ><ab>1916-11-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Trigg County, District 2, stamped p. 362. <em>Find A Grave</em>, &quot;Samuel D. Ezell (1824-1916),&quot; Memorial #86547652, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86547652&amp;ref=acom (accessed June, 21, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, District 2, stamped p. 362. <hi rend=”italic”>Find A Grave</hi>, &quot;Samuel D. Ezell (1824-1916),&quot; Memorial #86547652, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86547652&amp;ref=acom (accessed June, 21, 2017).
 </bibl></ab>
     </back>
 </text>
