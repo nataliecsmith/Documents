@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0506"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,29 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Muhlenberg Circuit Court
-<lb/><date when="1863-05">May Term May <gap/> 1863</date>
-<lb/>Pleas before the Honorable R T Petree
-<lb/>Judge of the Muhlenberg Circuit Court
-<lb/>Muhlenberg Circuit Court
-<lb/>The Commonwealth of Kentucky
-<lb/>against
-<lb/>The County Court of Muhlenberg County
-<lb/>composed of W. G, Jones Presiding Judge
-<lb/>C D Morehead J P M C.
-<lb/>Jesse Millard J. P. M, C
-<lb/>Absalom Low J P. M. C
-<lb/>M B Clark J P. M, C
-<lb/>H P Welborn J P. M. C
-<lb/>J L Spurting J P M C
-<lb/>John Downing J P M C
-<lb/>J J Wood J P M C
-<lb/>J J Wells J P. M. C, </p>
+   <p><orgName ref="cwgk:O00000421">Muhlenberg Circuit Court
+</orgName><lb/><date when="1863-05">May Term May <gap/> 1863</date>
+<lb/>Pleas before the Honorable <persName ref="cwgk:N00003091">R T Petree</persName><lb/>Judge of the <orgName ref="cwgk:O00000421">Muhlenberg Circuit Court
+</orgName><lb/><orgName ref="cwgk:O00000421">Muhlenberg Circuit Court
+</orgName><lb/><orgName ref="cwgk:O001025">The Commonwealth of Kentucky</orgName><lb/>against
+<lb/>The<orgName ref="cwgk:O00000656"> County Court of Muhlenberg County</orgName><lb/>composed of <persName ref="cwgk:N00006742">W. G, Jones </persName>Presiding Judge<lb/><persName ref="cwgk:N00006743">C D Morehead</persName> J P M C.<lb/><persName ref="cwgk:N00006744">Jesse Millard</persName> J. P. M, C<lb/><persName ref="cwgk:N00006745">Absalom Low</persName> J P. M. C<lb/><persName ref="cwgk:N00006746">M B Clark</persName> J P. M, C<lb/><persName ref="cwgk:N00006747">H P Welborn</persName> J P. M. C<lb/>J L Spurting J P M C
+<lb/><persName ref="cwgk:N00006749">John Downing</persName> J P M C<lb/><persName ref="cwgk:N00006750">J J Wood</persName> J P M C<lb/><persName ref="cwgk:N00006751">J J Wells</persName> J P. M. C, </p>
 <p>The grand jury of Muhlenberg County in the name and by the Authority of the Commonwealth of Kentucky accuse the County Court of Muhlenberg County composed of W G. Jones P. J M. C. C D Morehead J P. Jesse Millard J. P. Absalom Low J P. M B Clark J. P. H P Welborn J. P. J. L Spurling J P. John Downing J P. J J Wood J. P. J J Wells of the offence of failing to Keep a good and Sufficient County Jail for Muhlenberg County committed as follows. towit The Said County Court on the <date when="1860-05-15">15" day of May 1860</date> did fail to Keep. a good and sufficient county Jail for Muhlenberg<pb/></p>
 <p>County against the peace and dignity of the Commonwealth of Kentucky</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Information by
-<lb/>Joseph Paxton John Jenkins
-<lb/>W H James Ira C Skipworth
+<lb/>Joseph Paxton <persName ref="cwgk:N00006687">John Jenkins</persName><lb/>W H James Ira C Skipworth
 <lb/>&amp; D W Jernigan
 <lb/><cb n="2"/>W. H James Foreman
 <lb/>of Grand Jury 
@@ -98,25 +94,21 @@
 <lb/>M B Clark H P Welborn
 <lb/>J L Spurling
 <lb/>John Downing
-<lb/>J J Wood &amp; J J Wells &#125; <hi rend="str">On</hi> <hi rend="str">forfeited</hi>The County Judge &amp; Justices of Muhg County Defts</p>
+<lb/>J J Wood &amp; J J Wells } <hi rend="str">On</hi> <hi rend="str">forfeited</hi>The County Judge &amp; Justices of Muhg County Defts</p>
 <p>This day came the attorney for the Commonwealth as well as the attorney for the defendants; And the attorneys agreeing that Judgement might go against the defendants for Fifty Dollars each, It is therefore adjudged by the Court that the Commonwealth of Kentucky recover of the defendants W G Jones, C D Morehead Jesse Millard Absalom Low M B Clark H P Welborn J L Spurling John Downing J J Wood and J J Wells the sum of Fifty Dollars each and her costs herein expended<pb/></p>
-<p>The undersigned members of the bar, of the Circuit Court in Greenville Ky very Respectfully request his Excellency the Governor of the Commonwealth of Kentucky to remit the fines imposed upon the members of the Muhburg County ^Court^ at the present term of s<hi rend="sup">d</hi> Circuit Court, for failing to Keep a suitable Jail Preparations are being made as we are informed to erect a new jail &amp; we belileve the members of the County Court postponed the erection of a new County prision for prudential motives</p>
+<p>The undersigned members of the bar, of the Circuit Court in <placeName ref="cwgk:P00000557">Greenville Ky</placeName> very Respectfully request <persName ref="cwgk:N001004">his Excellency the Governor</persName> of the Commonwealth of Kentucky to remit the fines imposed upon the members of the Muhburg County ^Court^ at the present term of s<hi rend="sup">d</hi> Circuit Court, for failing to Keep a suitable Jail Preparations are being made as we are informed to erect a new jail &amp; we belileve the members of the County Court postponed the erection of a new County prision for prudential motives</p>
 <p>R. T. Petree Cir Judge
 <lb/>H. G. Petree
 <lb/>B E. Pittman
 <lb/>F M. Bristow
-<lb/>S, W, Kennedy
-<lb/>W. B. Harrison
-<lb/>J, H, Lowry
-<lb/>S J Boyd
-<lb/>M. D. Hay
-<lb/>C. Eaves
-<lb/>Joseph Ricketts<pb/></p>
+<lb/><persName ref="cwgk:N00006728">S, W, Kennedy</persName><lb/><persName ref="cwgk:N00006730">W. B. Harrison</persName><lb/><persName ref="cwgk:N00006732">J, H, Lowry
+</persName><lb/><persName ref="cwgk:N00006733">S J Boyd</persName><lb/>M. D. Hay
+<lb/><persName ref="cwgk:N00001730">C. Eaves</persName><lb/>Joseph Ricketts<pb/></p>
 <p>Pettn of members of the Muhlenberg County to remit fines</p>
 <p>Muhlenberg Cir. Ct</p>
 <p>All the fines Remitted
 <lb/>J F Robinson</p>
-<p>&#36;50. each J. P. of Muhlenberg Co &#125; Mis.
+<p>$50. each J. P. of Muhlenberg Co } Mis.
 <lb/>Iss'<hi rend="sup">d</hi> <date when="1863-08-05">Aug. 5. 1863</date></p>
   </body>
  </text>
