@@ -43,8 +43,7 @@
             <particDesc>
                 <org xml:id="O00007390">
                     <orgName>Prather &amp; Smith</orgName>
-                      <event type="begun" when="1856">1856</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1856"  ><ab>1856</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>“Copartnership,” <em>The Louisville Daily Courier</em> (Louisville, Ky.), July 4, 1856, p. 3; “The Louisville Fashion,” <em>The Louisville Daily Courier</em> (Louisville, Ky.), March 6, 1858, p. 2;  “Hats and Straw Goods at Wholesale,” _<em>The Courier-Journal</em> (Louisville, Ky.), April 12, 1870, p. 2; KYR-0001-029-0522.</p>
+        <ab><bibl>“Copartnership,” <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), July 4, 1856, p. 3; “The Louisville Fashion,” <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), March 6, 1858, p. 2;  “Hats and Straw Goods at Wholesale,” _<hi rend=”italic”>The Courier-Journal</hi> (Louisville, Ky.), April 12, 1870, p. 2; KYR-0001-029-0522.
 </bibl></ab>
     </back>
 </text>
