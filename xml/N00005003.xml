@@ -42,8 +42,6 @@
                       W. Downing
                         (marshall co?)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-020-1401.</p>
+        <ab><bibl>KYR-0001-020-1401.
 </bibl></ab>
     </back>
 </text>
