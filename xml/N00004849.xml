@@ -46,8 +46,6 @@
                       E. G. Taylor
                         (Union County)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>History of Union County, Kentucky</em>, (Evansville, IN: Courier Co., Printers, Binders, and Engravers, 1886), 87.</p>
+        <ab><bibl><hi rend=”italic”>History of Union County, Kentucky</hi>, (Evansville, IN: Courier Co., Printers, Binders, and Engravers, 1886), 87.
 </bibl></ab>
     </back>
 </text>
