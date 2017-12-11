@@ -46,8 +46,8 @@
                       Hazel G. Petree, Jr.
                         (Elkton, Kentucky, attorney)
                     </persName>
-                      <birth when="1820-07-05"></birth>
-                      <death when="1900-01-20"></death>
+                        <event type="birth"  when="1820-07-05"  ><ab>1820-07-05</ab></event>
+                        <event type="death"  when="1900-01-20"  ><ab>1900-01-20</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 457-58; Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Todd County, District 1, p. 208. Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Todd County, p. 20. Ninth Manuscript Census of the United States (1870), Population Schedules, Kentucky, Todd County, Elkton, p. 83. Jordan Dodd, comp., <em>Kentucky Marriages, 1851-1900</em>, Ancestry, Todd County, 1854. “Hazel Garland Petrie,” <em>Find A Grave</em>, memorial no. 47596161 (accessed May 30, 2017).</p>
+        <ab><bibl>H. Levin, <hi rend=”italic”>The Lawyers and Lawmakers of Kentucky</hi> (Chicago: The Lewis Publishing Company, 1897), 457-58; Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Todd County, District 1, p. 208. Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Todd County, p. 20. Ninth Manuscript Census of the United States (1870), Population Schedules, Kentucky, Todd County, Elkton, p. 83. Jordan Dodd, comp., <hi rend=”italic”>Kentucky Marriages, 1851-1900</hi>, Ancestry, Todd County, 1854. “Hazel Garland Petrie,” <hi rend=”italic”>Find A Grave</hi>, memorial no. 47596161 (accessed May 30, 2017).
 </bibl></ab>
     </back>
 </text>
