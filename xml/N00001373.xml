@@ -42,8 +42,7 @@
                       Reddick Nichol
                         (Confederate guerrilla)
                     </persName>
-                      <birth when="c1841"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1841"  certainty="medium" ><ab>c1841</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,7 +55,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>U.S. Department of the Interior. National Park Service. <em>Soldiers and Sailors Database</em> ; Dodd, Jordan, comp. <em>Kentucky, County Marriages, 1783-1965</em>, Ancestry, Breckinridge County, 1865.</p>
+        <ab><bibl>U.S. Department of the Interior. National Park Service. <hi rend=”italic”>Soldiers and Sailors Database</hi> ; Dodd, Jordan, comp. <hi rend=”italic”>Kentucky, County Marriages, 1783-1965</hi>, Ancestry, Breckinridge County, 1865.
 </bibl></ab>
     </back>
 </text>
