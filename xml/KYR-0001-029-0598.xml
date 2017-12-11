@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0598"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,10 +70,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Comwth vs W H Ruggles- indict for shooting with intent to kill- Carroll Circuit </p>
-<p>The following <hi rend="str">an</hi> are the leading facts as presented on the trial- Ruggles and Morely were drinking- They quarreled- Ruggles had a pistol in his hand- Morely was standing at the head of the stairs and Ruggles at the foot Morely told Ruggles to shoot and he fired This occurred in Moorely's house at night. Morely kept a hotel -- </p>
-<p>John L. Scott.
-<lb/>Com. Atty</p>
+   <p>Comwth vs <persName ref="cwgk:N00006138">W H Ruggles</persName>- indict for shooting with intent to kill- <orgName ref="cwgk:O00000365">Carroll Circuit</orgName> </p>
+<p>The following <hi rend="str">an</hi> are the leading facts as presented on the trial- Ruggles and Morely were drinking- They quarreled- Ruggles had a pistol in his hand- Morely was standing at the head of the stairs and Ruggles at the foot Morely told Ruggles to shoot and he fired This occurred in Moorely's house at night. <persName ref="cwgk:N00006139">Morely</persName> kept a <orgName ref="cwgk:O00006137">hotel</orgName> -- </p>
+<p><persName ref="cwgk:N00002277">John L. Scott</persName>.<lb/>Com. Atty</p>
   </body>
  </text>
 </TEI>
