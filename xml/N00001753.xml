@@ -46,8 +46,7 @@
                       William P. Bryant, Jr. 
                         (Indiana judge)
                     </persName>
-                      <birth when="1836"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1836"  ><ab>1836</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Indiana, Parke County, District No. 85, p. 276b. George W. Hawes, <em>G. W. Hawes&#39; Indiana State Gazetteer and Business Directory For 1858 and 1859</em> (Indianapolis: Geo. W. Hawes, 1858), 582.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Indiana, Parke County, District No. 85, p. 276b. George W. Hawes, <hi rend=”italic”>G. W. Hawes&#39; Indiana State Gazetteer and Business Directory For 1858 and 1859</hi> (Indianapolis: Geo. W. Hawes, 1858), 582.
 </bibl></ab>
     </back>
 </text>
