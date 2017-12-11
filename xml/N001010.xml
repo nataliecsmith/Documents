@@ -46,8 +46,8 @@
                       Hamilton Pope
                         (Louisville)
                     </persName>
-                      <birth when="1817"></birth>
-                      <death when="1893-11-28"></death>
+                        <event type="birth"  when="1817"  ><ab>1817</ab></event>
+                        <event type="death"  when="1893-11-28"  ><ab>1893-11-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>J.M. Armstrong &amp; Company, The Biographical Encyclopaedia of Kentucky</em> (Cincinnati, 1878), 173-174. Thomas Speed, <em>The Union Regiments of Kentucky</em> (Louisville: Courier-Journal Job Printing Company, 1897), 24, 28, 427. “Death of Hamilton Pope,” <em>Courier-Journal</em> (Louisville, Ky.), November 30, 1893, p. 5. <em>Find A Grave</em>, &quot;Hamilton Pope (1817-1893),&quot; Memorial #155572314, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=Pope&amp;GSfn=Hamilton&amp;GSby=1817&amp;GSbyrel=in&amp;GSdyrel=all&amp;GSob=n&amp;GRid=155572314&amp;df=all&amp; (accessed July, 25, 2017).</p>
+        <ab><bibl><hi rend=”italic”>J.M. Armstrong &amp; Company, The Biographical Encyclopaedia of Kentucky</hi> (Cincinnati, 1878), 173-174. Thomas Speed, <hi rend=”italic”>The Union Regiments of Kentucky</hi> (Louisville: Courier-Journal Job Printing Company, 1897), 24, 28, 427. “Death of Hamilton Pope,” <hi rend=”italic”>Courier-Journal</hi> (Louisville, Ky.), November 30, 1893, p. 5. <hi rend=”italic”>Find A Grave</hi>, &quot;Hamilton Pope (1817-1893),&quot; Memorial #155572314, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=Pope&amp;GSfn=Hamilton&amp;GSby=1817&amp;GSbyrel=in&amp;GSdyrel=all&amp;GSob=n&amp;GRid=155572314&amp;df=all&amp; (accessed July, 25, 2017).
 </bibl></ab>
     </back>
 </text>
