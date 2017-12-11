@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0507"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,26 +71,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>Commonwealth of Kentucky
-<lb/>Rockcastle County &#125; Sct</p>
-<p>To Ho<hi rend="underline">n</hi>-- James F Robinson Govenor of the Commmonwealth of Ky, Your Petitioner, Isaac Whitehead, states that at the <date when="1863-08">August term of the Rockcastle C<hi rend="str">u</hi>ircuit Court 1863</date>-- <hi rend="str">JF</hi>was fined twenty Dollars for Gaming and that your Petitioner is a very poor man and lives in a part of the Commonwealth that has been badly torn up by the two contending armies, and that we have to haul our Provisions some twenty or thirty miles for our children to eat-- therefore your Petitioner asks your honor to remit his fine and confer a special favor upon him and his Family</p>
+   <p><orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName><lb/><orgName ref="cwgk:O00000711">Rockcastle County</orgName> } Sct</p>
+<p>To Ho<hi rend="underline">n</hi>-- <persName ref="cwgk:N001004">James F Robinson</persName> Govenor of the Commmonwealth of Ky, Your Petitioner,<persName ref="cwgk:N00003108"> Isaac Whitehead</persName>, states that at the <date when="1863-08">August term of the Rockcastle C<hi rend="str">u</hi>ircuit Court 1863</date>-- <hi rend="str">JF</hi>was fined twenty Dollars for Gaming and that your Petitioner is a very poor man and lives in a part of <placeName ref="cwgk:P001800">the Commonwealth</placeName> that has been badly torn up by the <orgName ref="cwgk:O00001186">two contending armies</orgName>, and that we have to haul our Provisions some twenty or thirty miles for our children to eat-- therefore your Petitioner asks your honor to remit his fine and confer a special favor upon him and his Family</p>
 <p>Isaac Whitehead</p>
 <p>We The undersigned Petitioners state that we believe the statements of the Petition of Isaac Whitehead in the above Petition are true and that he deserves Executive clemency</p>
-<p>James G Carter
-<lb/>M, A, Brooks
-<lb/>W H Kirtley Clk Rcc
-<lb/>R. R. Hackney
-<lb/>D. G. Colyer<pb/></p>
+<p><persName ref="cwgk:N00000930">James G Carter</persName><lb/><persName ref="cwgk:N00000454">M, A, Brooks</persName><lb/><persName ref="cwgk:N00000451">W H Kirtle</persName>y Clk Rcc<lb/><persName ref="cwgk:N00003110">R. R. Hackney</persName><lb/><persName ref="cwgk:N00002703">D. G. Colyer</persName><pb/></p>
 <p>Mountvernon
 <lb/><date when="1863-08-11">Aug 11<hi rend="sup">th</hi> 1863</date>
 <lb/>Gov Robinson</p>
 <p>We hope that you will remit the fine against Isaac Whitehead</p>
-<p>G Pearl
-<lb/>Judge of the 12<hi rend="sup">th</hi> Judicial Dist of Ky</p>
+<p><persName ref="cwgk:N00002711">G Pearl</persName><lb/>Judge of the 12<hi rend="sup">th</hi> Judicial Dist of Ky</p>
 <p>H F Finley
 <lb/>Comlths Atty. 12<hi rend="sup">th</hi> Judicial Dist, Ky<pb/></p>
 <p>Rockcastle Cir. Ct
-<lb/>&#36;.20.</p>
+<lb/>$.20.</p>
 <p>Fine Remitted
 <lb/><hi rend="underline">J F Robinson</hi></p>
 <p>I. Whitehead
