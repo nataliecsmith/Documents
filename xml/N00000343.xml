@@ -46,8 +46,8 @@
                       Henry Pirtle
                         (Louisville)
                     </persName>
-                      <birth when="1799"></birth>
-                      <death when="1880-03-28"></death>
+                        <event type="birth"  when="1799"  ><ab>1799</ab></event>
+                        <event type="death"  when="1880-03-28"  ><ab>1880-03-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>The History of Kentucky, Edition 8a</em> (Louisville: F. A. Battey Publishing Company, 1888); <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Fifth Ward, p. 119.</p>
+        <ab><bibl><hi rend=”italic”>The History of Kentucky, Edition 8a</hi> (Louisville: F. A. Battey Publishing Company, 1888); <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Fifth Ward, p. 119.
 </bibl></ab>
     </back>
 </text>
