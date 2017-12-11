@@ -50,8 +50,8 @@
                       Thomas N. Lindsey
                         (Frankfort, Kentucky, attorney, politician, and paymaster general)
                     </persName>
-                      <birth when="1808-12-22"></birth>
-                      <death when="1877-11-22"></death>
+                        <event type="birth"  when="1808-12-22"  ><ab>1808-12-22</ab></event>
+                        <event type="death"  when="1877-11-22"  ><ab>1877-11-22</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 125-126. <em>Find A Grave</em>, &quot;Thomas N. Lindsey (1808-1877),&quot; Memorial #68194527, http://www.findagrave.com/memorial/68194527/thomas-noble-lindsey (accessed November 9, 2017). KYR-0001-019-0141. KYR-0001-029-0576.</p>
+        <ab><bibl>H. Levin, <hi rend=”italic”>The Lawyers and Lawmakers of Kentucky</hi> (Chicago: The Lewis Publishing Company, 1897), 125-126. <hi rend=”italic”>Find A Grave</hi>, &quot;Thomas N. Lindsey (1808-1877),&quot; Memorial #68194527, http://www.findagrave.com/memorial/68194527/thomas-noble-lindsey (accessed November 9, 2017). KYR-0001-019-0141. KYR-0001-029-0576.
 </bibl></ab>
     </back>
 </text>
