@@ -50,8 +50,8 @@
                       William Henry Holt
                         (Affiant in Powell Circuit Court case in 1863)
                     </persName>
-                      <birth when="1842-11-29"></birth>
-                      <death when="1919-03-06"></death>
+                        <event type="birth"  when="1842-11-29"  ><ab>1842-11-29</ab></event>
+                        <event type="death"  when="1919-03-06"  ><ab>1919-03-06</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Montgomery County, Mt. Sterling, p. 3; Kentucky Vital Statistics Original Death Certificates (1911-1955), 1919, Oldham County, Kentucky, file no. 11914; KYR-0001-029-0545; KYR-0001-004-0463.</p>
+        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Montgomery County, Mt. Sterling, p. 3; Kentucky Vital Statistics Original Death Certificates (1911-1955), 1919, Oldham County, Kentucky, file no. 11914; KYR-0001-029-0545; KYR-0001-004-0463.
 </bibl></ab>
     </back>
 </text>
