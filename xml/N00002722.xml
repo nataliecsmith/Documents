@@ -46,8 +46,8 @@
                       Charles Slaughter Morehead
                         (1855-59 Gov)
                     </persName>
-                      <birth when="1802-07-07"></birth>
-                      <death when="1868-12-21"></death>
+                        <event type="birth"  when="1802-07-07"  ><ab>1802-07-07</ab></event>
+                        <event type="death"  when="1868-12-21"  ><ab>1868-12-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>James A. Ramage, &quot;Charles Slaughter Morehead (1855-1859)&quot; in <em>Kentucky&#39;s Governors</em>, Updated Edition, Lowell H. Harrison, ed. (Lexington: University Press of Kentucky, 2004), 75-77.</p>
+        <ab><bibl>James A. Ramage, &quot;Charles Slaughter Morehead (1855-1859)&quot; in <hi rend=”italic”>Kentucky&#39;s Governors</hi>, Updated Edition, Lowell H. Harrison, ed. (Lexington: University Press of Kentucky, 2004), 75-77.
 </bibl></ab>
     </back>
 </text>
