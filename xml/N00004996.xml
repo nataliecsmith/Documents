@@ -46,8 +46,6 @@
                       [Unknown] [Unknown]
                         (enslaved person of John L. Burradell (Marshall co))
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                         <trait type="race" subtype="Black"/>
                         <trait type="race" subtype="Mulatto"/>
                       <trait type="gender" subtype="U"/>
@@ -61,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States (1860)</em>, Slave Schedules, Kentucky, Marshall County, unknown district, p. 5.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Slave Schedules, Kentucky, Marshall County, unknown district, p. 5.
 </bibl></ab>
     </back>
 </text>
