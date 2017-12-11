@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0532"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Christian Circuit Court
-<lb/>The Commonwealth of Kentucky Plaintiff
-<lb/>against &#125; on Indictment for selling one quart liquor
+   <p><orgName ref="cwgk:O00000362">Christian Circuit Court</orgName><lb/>The <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> Plaintiff<lb/>against } on Indictment for selling one quart liquor
 <lb/>Sarah Ann Myres Defendant</p>
-<p>The Petition and affidavit of Sarah Ann Myers in order to obtain from His Excellency J F Robinson a release from a fine of &#36;20-- and &#36;14.55 Costs assessed against her in the Christian Circuit Court at the <date when="1863-03">March Term 1863</date></p>
-<p>The Said Sarah Ann Myers being duly Sworn States That during the year <date when="1861">1861</date>, she was living in the Country about five miles from Hopkinsville and had a portion of her Fruit distilled for her own use-- and not for the purpose of sale-- that some time in <date when="1861-02">February 1861</date> and While the Rebel Army was at Hopkinsville James Ducker-- C Biggerstaff and E Hord came to her House and wanted something to drink She told them she had none for sale-- but as they were neighbours she would give them some and did so and when they were about to leave they insisted to have their bottle filled and offering to pay for it &amp;c to which this affiant replied she could not do so being thus importuned by Neighbours she at length filled their bottle holding about a quart Stating at the same time she made No charge for it-- that she has no recollection of them having paid any money for it-- yet She understand the Witnesses Stated on Court that one of them laid upon the Table a Rebel Ticket for 25 Cents and that a Controversy arrose between themselves<pb/>
+<p>The Petition and affidavit of Sarah Ann Myers in order to obtain from His Excellency <persName ref="cwgk:N001004">J F Robinson</persName> a release from a fine of $20-- and $14.55 Costs assessed against her in the Christian Circuit Court at the <date when="1863-03">March Term 1863</date></p>
+<p>The Said Sarah Ann Myers being duly Sworn States That during the year <date when="1861">1861</date>, she was living in the Country about five miles from <placeName ref="cwgk:P00002431">Hopkinsville</placeName> and had a portion of her Fruit distilled for her own use-- and not for the purpose of sale-- that some time in <date when="1861-02">February 1861</date> and While the <orgName ref="cwgk:O00000506">Rebel Army</orgName> was at <placeName ref="cwgk:P00002431">Hopkinsville</placeName> <persName ref="cwgk:N00000436">James Ducker</persName>-- <persName ref="cwgk:N00000437">C Biggerstaff</persName> and <persName ref="cwgk:N00000438">E Hord</persName> came to her House and wanted something to drink She told them she had none for sale-- but as they were neighbours she would give them some and did so and when they were about to leave they insisted to have their bottle filled and offering to pay for it &amp;c to which this affiant replied she could not do so being thus importuned by Neighbours she at length filled their bottle holding about a quart Stating at the same time she made No charge for it-- that she has no recollection of them having paid any money for it-- yet She understand the Witnesses Stated on Court that one of them laid upon the Table a Rebel Ticket for 25 Cents and that a Controversy arrose between themselves<pb/>
 <lb/>as to whether or not it was good and one of them (as he testified) laid 25 Cents in silver upon the Table and left- What became of the money she does not recollect- the Servants about the May have gotten it for aught she knows</p>
 <p>at the time Whisky was selling in Hopkinsville at one Dollar per quart--</p>
 <p>That there are the facts of the Case as near as this affiant can now recollect -- that She is a Widow advanced in years of limitted means and dislikes very much nor does she think it Just to make her pay a fine imposed upon her by the Malignity of her Neighbours-- that they each claimed their attendance in the case Which Clearly goes to show their malignity--</p>
@@ -84,7 +90,7 @@
 <lb/><date when="1863-08-21">Aug 21
 <lb/>1863</date></note><pb/></p>
 <p>Christian Cir Ct
-<lb/>&#36;20.
+<lb/>$20.
 <lb/>Iss <date when="1863-08-29">Aug 29 1863</date></p>
 <p>Sarah Ann Myers
 <lb/>Pettn
