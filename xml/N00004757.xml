@@ -50,8 +50,7 @@
                       Lewis E. Krutz
                         (Kentucky saw mill operator and tavern keeper)
                     </persName>
-                      <birth when="c1820"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1820"  certainty="medium" ><ab>c1820</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Carroll County, Ghent, District 1, p. 27; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Crittenden County, Hurricane, Precinct 4, p. 34; <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Owen County, August 1863, p. 200, (Accessed via ancestry.com); Indiana State Library, <em>Genealogy Database: Marriages through 1850</em>, ID 161676, https://www.statelib.lib.in.us/INMarriages1850/marriages_display.asp?ID=161676 (accessed April 21, 2017); KYR-0001-029-0553.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carroll County, Ghent, District 1, p. 27; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Crittenden County, Hurricane, Precinct 4, p. 34; <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Owen County, August 1863, p. 200, (Accessed via ancestry.com); Indiana State Library, <hi rend=”italic”>Genealogy Database: Marriages through 1850</hi>, ID 161676, https://www.statelib.lib.in.us/INMarriages1850/marriages_display.asp?ID=161676 (accessed April 21, 2017); KYR-0001-029-0553.
 </bibl></ab>
     </back>
 </text>
