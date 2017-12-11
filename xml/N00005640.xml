@@ -46,8 +46,8 @@
                       George L. Crawford
                         (Philadelphia, Pennsylvania, attorney and entrepreneur)
                     </persName>
-                      <birth when="1832-05-01"></birth>
-                      <death when="1908-05-06"></death>
+                        <event type="birth"  when="1832-05-01"  ><ab>1832-05-01</ab></event>
+                        <event type="death"  when="1908-05-06"  ><ab>1908-05-06</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 13, p. 61; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 8, District 22, p. 126-27; <em>Find A Grave</em>, &quot;George Lewis Crawford (1832-1908),&quot; Memorial #126476755, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=126476755&amp;ref=acom (accessed May 10, 2017); KYR-0001-007-0332.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 13, p. 61; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 8, District 22, p. 126-27; <hi rend=”italic”>Find A Grave</hi>, &quot;George Lewis Crawford (1832-1908),&quot; Memorial #126476755, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=126476755&amp;ref=acom (accessed May 10, 2017); KYR-0001-007-0332.
 </bibl></ab>
     </back>
 </text>
