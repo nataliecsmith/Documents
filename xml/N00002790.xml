@@ -46,8 +46,7 @@
                       Azro Dyer
                         (McLean County lawyer)
                     </persName>
-                      <birth when="c1836"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1836"  certainty="medium" ><ab>c1836</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Catalogue of the Officers and Students in the Law Department of the University of Louisville. Session of 1859-&#39;60.</em> (Louisville: Hull &amp; Brother, Printers, 1860), 15. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, McLean County, Rumsey, p. 12. <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Archive Volume Number: 2 of 4, McLean County, Kentucky, p. 7. (Accessed via ancestry.com).</p>
+        <ab><bibl><hi rend=”italic”>Catalogue of the Officers and Students in the Law Department of the University of Louisville. Session of 1859-&#39;60.</hi> (Louisville: Hull &amp; Brother, Printers, 1860), 15. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean County, Rumsey, p. 12. <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Archive Volume Number: 2 of 4, McLean County, Kentucky, p. 7. (Accessed via ancestry.com).
 </bibl></ab>
     </back>
 </text>
