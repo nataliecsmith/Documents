@@ -46,8 +46,7 @@
                       Nathan Beauchamp
                         (spencer county farmer)
                     </persName>
-                      <birth when="c1700"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1700"  certainty="medium" ><ab>c1700</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Spencer County, Division No. 2, p. 24; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Spencer County, Division No. 2, p. 8-9; KYR-0001-017-0034.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Spencer County, Division No. 2, p. 24; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Spencer County, Division No. 2, p. 8-9; KYR-0001-017-0034.
 </bibl></ab>
     </back>
 </text>
