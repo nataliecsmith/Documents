@@ -44,7 +44,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00004971">
                     <placeName>
                         <location>
@@ -53,7 +53,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -62,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Albany&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/Albany-New-York) (accessed May 4, 2017).</p>
+        <ab><bibl>&quot;Albany&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/Albany-New-York) (accessed May 4, 2017).
 </bibl></ab>
     </back>
 </text>
