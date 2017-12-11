@@ -50,8 +50,7 @@
                       John C. Mead
                         (Newport, Kentucky, steam boat master and city councilman)
                     </persName>
-                      <birth when="c1831"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1831"  certainty="medium" ><ab>c1831</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Campbell County, Newport, p. 202. KYR-0001-029-0586.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Campbell County, Newport, p. 202. KYR-0001-029-0586.
 </bibl></ab>
     </back>
 </text>
