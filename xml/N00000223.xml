@@ -50,8 +50,7 @@
                       Willis W. Gardner
                         (Union co. State Sen.)
                     </persName>
-                      <birth when="c1831"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1831"  certainty="medium" ><ab>c1831</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Union County, Caseyville, p. 234; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 736. </p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Union County, Caseyville, p. 234; Lewis Collins and Richard H. Collins, <hi rend=”italic”>Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 736. 
 </bibl></ab>
     </back>
 </text>
