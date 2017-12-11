@@ -46,8 +46,7 @@
                       William Dawson
                         (Nelson County)
                     </persName>
-                      <birth when="c1828"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1828"  certainty="medium" ><ab>c1828</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Consolidated Lists of Civil War Draft Registration Records (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865); Record Group: 110, Records of the Provost Marshal General&#39;s Bureau (Civil War)</em>; Collection Name: <em>Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records)</em>; NAI: 4213514; Archive Volume Number: 1 of 3, p 129, Nelson County, KY, August 1863.</p>
+        <ab><bibl><hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865); Record Group: 110, Records of the Provost Marshal General&#39;s Bureau (Civil War)</hi>; Collection Name: <hi rend=”italic”>Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records)</hi>; NAI: 4213514; Archive Volume Number: 1 of 3, p 129, Nelson County, KY, August 1863.
 </bibl></ab>
     </back>
 </text>
