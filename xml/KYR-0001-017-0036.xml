@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0036"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1860-12-17">Dec 17th 1860</date></p>
-<p>His Excelency Gov M<hi rend="sup">c</hi>Goffin would confer a favour &amp; place under obligations Joseph A Hamilton Secretary of the Pilots Benvolent Association of Louisville Ky by appointing him a Notary Public so that he can administer an oath without going out of the office</p>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1860-12-17">Dec 17th 1860</date></p>
+<p>His Excelency Gov M<hi rend="sup">c</hi>Goffin would confer a favour &amp; place under obligations <persName ref="cwgk:N00001909">Joseph A Hamilton</persName> Secretary of the <orgName ref="cwgk:O00001910">Pilots Benvolent Association of Louisville Ky </orgName>by appointing him a Notary Public so that he can administer an oath without going out of the office</p>
 <p>Respectfully
 <lb/>Joseph A Hamilton</p>
 <p>Refer to
-<lb/>Capt S F Miller
-<lb/>Emit Garvin
-<lb/>Judge Bullock
-<lb/>Walter Halderman
-<lb/>Doctor Breckenridge<pb/></p>
-<p>Jefferson Co<figure type="hr"/>
+<lb/><persName ref="cwgk:N00008204">Capt S F Miller
+</persName><lb/><persName ref="cwgk:N00001912">Emit Garvin</persName><lb/>Judge Bullock
+<lb/><persName ref="cwgk:N00001915">Walter Halderman</persName><lb/>Doctor Breckenridge<pb/></p>
+<p><placeName ref="cwgk:P001005">Jefferson Co</placeName><figure type="hr"/>
 <lb/>Notary
 <lb/>Jo<hi rend="underline"><hi rend="sup">s</hi></hi> A Hamilton
 <lb/>Com<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1860-12-24">Dec 24 1860</date></p>
