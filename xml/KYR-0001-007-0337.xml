@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0337"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Kentucky Cumberland County Court at <date when="1864-11">November Term 1864</date>
+   <p><placeName ref="cwgk:P001800">Kentucky</placeName> <persName ref="cwgk:N00000612">Cumberland County Court</persName> at <date when="1864-11">November Term 1864</date>
 <lb/>The following order was made, to wit,</p>
-<p>It is ordered by the court that B C Greer be recomended to the Governor of Kentucky as a suitable person to fill the in this County in Distrct N<hi rend="sup">o</hi> 5 to fill the vacancy of Phillip Shive, who refuses to qualify as Justice of the peace</p>
+<p>It is ordered by the court that <persName ref="cwgk:N00003310">B C Greer</persName> be recomended to the <persName ref="cwgk:N001000">Governor of Kentucky </persName>as a suitable person to fill the in this County in Distrct N<hi rend="sup">o</hi> 5 to fill the vacancy of <persName ref="cwgk:N00003312">Phillip Shive</persName>, who refuses to qualify as Justice of the peace</p>
 <p>A copy
-<lb/>att N B Cheatham clk<pb/></p>
+<lb/>att <persName ref="cwgk:N00001748">N B Cheatham </persName>clk<pb/></p>
 <p>Justice Peace
-<lb/>Cumberland Co
-<lb/>appt<hi rend="sup">d</hi> <date when="1864-12-09">9<hi rend="sup">th</hi> Dec/64</date></p>
+<lb/><placeName ref="cwgk:P001829">Cumberland Co</placeName><lb/>appt<hi rend="sup">d</hi> <date when="1864-12-09">9<hi rend="sup">th</hi> Dec/64</date></p>
   </body>
  </text>
 </TEI>
