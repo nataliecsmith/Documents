@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0008"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,36 +71,27 @@
  </teiHeader>
  <text>
   <body>
-   <p>Maysville Ky, <date when="1863-08-26">Aug<hi rend="underline"><hi rend="sup">t</hi></hi> 26. 1863</date>.
-<lb/>To his Excellency,
-<lb/>The Governor of Kentucky
-<lb/>Sir:</p>
-<p>On the <date when="1863-06-13">13th of last June</date>, Edward Fleming, of our City, a very poor man, and so crippled as to disable him (physically) to maintain his family, which is quite large, was fined by our Mayor &#36;20. &amp; costs, for selling a drink of liquor.</p>
-<p>Under all the circumstances of the case, we respectfully ask your Excellency to remit the fine; feeling that you would be doing justice to his wife and children.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>C. B, Anderson,
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> C Jenkins
+   <p><placeName ref="cwgk:P00001219">Maysville</placeName> Ky, <date when="1863-08-26">Aug<hi rend="underline"><hi rend="sup">t</hi></hi> 26. 1863</date>.
+<lb/>To his <persName ref="cwgk:N001004">Excellency</persName>,<lb/>The Governor of <orgName ref="cwgk:O001025">Kentucky
+</orgName><lb/>Sir:</p>
+<p>On the <date when="1863-06-13">13th of last June</date>, <persName ref="cwgk:N00002803">Edward Fleming</persName>, of our City, a very poor man, and so crippled as to disable him (physically) to maintain his family, which is quite large, was fined by our <persName ref="cwgk:N00008307">Mayor </persName>$20. &amp; costs, for selling a drink of liquor.</p>
+<p>Under all the circumstances of the case, we respectfully ask your Excellency to remit the fine; feeling that you would be doing justice to his <persName ref="cwgk:N00008308">wife </persName>and children.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00008063">C. B. Anderson</persName>,<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> C Jenkins
 <lb/>Ryan and Batty.
-<lb/>H, Ryan.
-<lb/>W, F, Wilson
-<lb/>R. G. January
-<lb/>Lewis Dessar
-<lb/>H Bertram
-<lb/>James Shackleford
-<lb/><hi rend="underline">H. Taylor.</hi>
-<lb/><cb n="2"/>Ross &amp; Newell
-<lb/>Saml W. Owens
-<lb/>Henry L. Newell
-<lb/>J, H, Rains
-<lb/>C G Cady
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Parker
-<lb/>Charles Phister.
-<lb/>J. Wormald
+<lb/><persName ref="cwgk:N00008065">H. Ryan</persName>.<lb/><persName ref="cwgk:N00008066">W. F. Wilson</persName><lb/><persName ref="cwgk:N00008067">R. G. January
+</persName><lb/>Lewis Dessar
+<lb/><persName ref="cwgk:N00008069">H Bertram</persName><lb/><persName ref="cwgk:N00008062">James Shackleford
+</persName><lb/><hi rend="underline">H. Taylor.</hi>
+<lb/><cb n="2"/><orgName ref="cwgk:O00008082">Ross &amp; Newell</orgName><lb/><persName ref="cwgk:N00008071">Saml W. Owens
+</persName><lb/><persName ref="cwgk:N00008072">Henry L. Newell
+</persName><lb/>J, H, Rains
+<lb/><persName ref="cwgk:N00008073">C G Cady</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Parker
+<lb/><persName ref="cwgk:N00008075">Charles Phister</persName>.<lb/>J. Wormald
 <lb/>W<hi rend="sup">m</hi> Davis
-<lb/>Thos, K, Ricketts
-<lb/>N. Cooper
-<lb/>David Clark J<hi rend="underline"><hi rend="sup">r</hi></hi><cb n="1"/><pb/></p>
+<lb/><persName ref="cwgk:N00008078">Thos. K. Ricketts</persName><lb/><persName ref="cwgk:N00008079">N. Cooper
+</persName><lb/>David Clark J<hi rend="underline"><hi rend="sup">r</hi></hi><cb n="1"/><pb/></p>
 <p>Edward Fleming
-<lb/>Pet for Remission of fine &#36;20 -- for retailing
+<lb/>Pet for Remission of fine $20 -- for retailing
 <lb/>Refused
 <lb/>Tho E Bramlette
 <lb/><date when="1863-09-07">Sept 7<hi rend="sup">th</hi> 1863</date></p>
