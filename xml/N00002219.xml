@@ -50,8 +50,8 @@
                       Allen Hanks
                         (Carroll County Court Clerk)
                     </persName>
-                      <birth when="1814-02-24"></birth>
-                      <death when="1872-08-09"></death>
+                        <event type="birth"  when="1814-02-24"  ><ab>1814-02-24</ab></event>
+                        <event type="death"  when="1872-08-09"  ><ab>1872-08-09</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Carroll County, Carrollton District No. 2, p. 4; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Carroll County, District No. First, p. 157 B; KYR-0001-004-0032; <em>Find A Grave</em>, &quot;Allen Hanks (1814 - 1872),&quot; Memorial #31679597, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=31679597 (accessed October 5, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carroll County, Carrollton District No. 2, p. 4; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Carroll County, District No. First, p. 157 B; KYR-0001-004-0032; <hi rend=”italic”>Find A Grave</hi>, &quot;Allen Hanks (1814 - 1872),&quot; Memorial #31679597, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=31679597 (accessed October 5, 2017).
 </bibl></ab>
     </back>
 </text>
