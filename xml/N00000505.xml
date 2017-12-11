@@ -46,8 +46,7 @@
                       Sally Bell
                         (Taylor County)
                     </persName>
-                      <birth when="1820"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1820"  ><ab>1820</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -60,8 +59,8 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules,<br>
-Kentucky, Taylor County, p. 14.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules,<br>
+Kentucky, Taylor County, p. 14.
 </bibl></ab>
     </back>
 </text>
