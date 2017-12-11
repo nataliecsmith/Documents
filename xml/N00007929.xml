@@ -50,8 +50,8 @@
                       Bluford Watts
                         (Anderson County farmer)
                     </persName>
-                      <birth when="c1803"></birth>
-                      <death when="1876-11-18"></death>
+                        <event type="birth"  when="1803"  certainty="medium" ><ab>c1803</ab></event>
+                        <event type="death"  when="1876-11-18"  ><ab>1876-11-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Anderson County, Lawrenceburg post office, p. 63; <em>Kentucky Birth, Marriage and Death Records on Microfilm (1852-1910)</em>, KDLA, Microfilm Roll #994027, Anderson County Deaths, 1876.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, Lawrenceburg post office, p. 63; <hi rend=”italic”>Kentucky Birth, Marriage and Death Records on Microfilm (1852-1910)</hi>, KDLA, Microfilm Roll #994027, Anderson County Deaths, 1876.
 </bibl></ab>
     </back>
 </text>
