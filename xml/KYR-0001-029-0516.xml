@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0516"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hancock Circuit Court.
-<lb/>The Commonwealth of Kentucky Plaintiff
-<lb/>Against &#125; Indictment
-<lb/>Edward Humphry Defendant</p>
-<p>The Grand Jury of Hancock County in the name and by the authority of the Commonwealth of Kentucky accuse Edward Humphry of the offense of selling spirituous liquors to a white person under the age of 21. years without the written consent <hi rend="str">of</hi> or request of the father to such sale, he being alive at the time of such sale, committed as follows, viz: On the <gap/> day of <gap/> in the year of <date when="1862">1862</date> and on divers days since then in the County aforesaid did unlawfully sell to one William Herron Jr a white person under the age of 21. years and so<hi rend="str">m</hi>n of W<hi rend="underline"><hi rend="sup">m</hi></hi> Herron Sen<hi rend="underline"><hi rend="sup">r</hi></hi> spiritous liquors without the written consent o<hi rend="str">f</hi>r request of the said William Herron Sr to said sales, though he then was and still is living.</p>
+   <p><orgName ref="cwgk:O00000399">Hancock Circuit Court</orgName>.<lb/><orgName ref="cwgk:O001025">The Commonwealth of Kentucky</orgName> Plaintiff<lb/>Against } Indictment
+<lb/><persName ref="cwgk:N00004690">Edward Humphry</persName> Defendant</p>
+<p>The Grand Jury of Hancock County in the name and by the authority of the Commonwealth of Kentucky accuse Edward Humphry of the offense of selling spirituous liquors to a white person under the age of 21. years without the written consent <hi rend="str">of</hi> or request of the father to such sale, he being alive at the time of such sale, committed as follows, viz: On the <gap/> day of <gap/> in the year of <date when="1862">1862</date> and on divers days since then in the County aforesaid did unlawfully sell to one <persName ref="cwgk:N00004691">William Herron Jr</persName> a white person under the age of 21. years and so<hi rend="str">m</hi>n of W<hi rend="underline"><hi rend="sup">m</hi></hi> Herron Sen<hi rend="underline"><hi rend="sup">r</hi></hi> spiritous liquors without the written consent o<hi rend="str">f</hi>r request of the said William Herron Sr to said sales, though he then was and still is living.</p>
 <p>Against the peace and dignity of the Commonwealth of Kentucky,</p>
 <p>Jno. Chapeze
 <lb/>Atty for Commlth.</p>
@@ -79,7 +85,7 @@
 <p>And on the <date when="1862-09-20">20<hi rend="sup">th</hi> Day of September 1862</date><pb/>
 <lb/>a summons was issued, and returned by the Sheriff of Hancock C<hi rend="str"><unclear/></hi>ounty, executed on the <date when="1863-01-12">12<hi rend="sup">th</hi> Day of January 1863</date>. and at the <date when="1862-02">February term 1862</date> it was Continued for the Commonwealth, and at <date when="1863-08">August term 1863</date>. the following Judgment was entered. viz:</p>
 <p>The Commonwealth of Kentucky Pltff
-<lb/>Against &#125; On an Indict for selling liquor to minor
+<lb/>Against } On an Indict for selling liquor to minor
 <lb/>Edward Humphry Defts</p>
 <p>This day came the Attorney for the Commonwealth and the defendant also appeared by his Attorney, and for plea, says he is not guilty of the charges alleged in the Indi<hi rend="str">t</hi>ctment, And thereupon came a Jury as follows, by consent of parties they agreed to try with ten Jurors, towit: S F Grayham Alfred Clark Henry Haynes. D S. Thomas, William Temple George C. P. Baker, James Connell William Newman Joseph L. Greathouse and Roderick Purcell, were sworn well and truly to try the issue, and a true verdict render, &amp; having heard the evidence returned the following verdict, towit: "We of the Jury find for the Commonwealth,"</p>
 <p>"Geo C. P. Baker foreman."</p>
@@ -91,10 +97,10 @@
 <p>Eldred E Pate Clerk.
 <lb/>Hancock Circuit Court Ky<pb/></p>
 <p>The Commonwealth
-<lb/>v &#125; Indict &amp;<hi rend="underline"><hi rend="sup">c</hi></hi>
+<lb/>v } Indict &amp;<hi rend="underline"><hi rend="sup">c</hi></hi>
 <lb/>Edward Humphry</p>
 <p>A Copy.</p>
-<p><hi rend="str">Fee &#36;1.</hi></p>
+<p><hi rend="str">Fee $1.</hi></p>
   </body>
  </text>
 </TEI>
