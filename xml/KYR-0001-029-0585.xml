@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0585"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,7 +71,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>Thomas Hines being in Custody charged with the offense of Felony and being admitted to Bail in the Sum of Two Hundred and fifty dollars, Now we Robert Enders &amp; Henry Enders of M<hi rend="underline"><hi rend="sup">c</hi></hi>Cracken County Kentucky hereby undertake that the above named Thomas Hynes will appear in the M<hi rend="underline"><hi rend="sup">c</hi></hi>Cracken Circuit Court at its next term to answer Said charge, and will at all times render himself amenable to the orders and process of said court in the prosecution of Said charge and if convicted will render himself in execution thereof, or if he shall fail to perform either of these conditions, that we will pay to the commonwealth of Kentucky the Sum of Two Hundred and fifty dollars.</p>
+   <p><persName ref="cwgk:N00004749">Thomas Hines</persName> being in Custody charged with the offense of Felony and being admitted to Bail in the Sum of Two Hundred and fifty dollars, Now we <persName ref="cwgk:N00002673">Robert Enders</persName> &amp; <persName ref="cwgk:N00004751">Henry Enders</persName> of M<hi rend="underline"><hi rend="sup">c</hi></hi>Cracken County Kentucky hereby undertake that the above named Thomas Hynes will appear in the M<hi rend="underline"><hi rend="sup">c</hi></hi>Cracken Circuit Court at its next term to answer Said charge, and will at all times render himself amenable to the orders and process of said court in the prosecution of Said charge and if convicted will render himself in execution thereof, or if he shall fail to perform either of these conditions, that we will pay to the commonwealth of Kentucky the Sum of Two Hundred and fifty dollars.</p>
 <p>Witness our hands this <date when="1863-07-21">July 21<hi rend="underline"><hi rend="sup">st</hi></hi> 1863</date></p>
 <p>R. Enders
 <lb/>H. Enders</p>
@@ -74,7 +82,7 @@
 <p>M<hi rend="underline"><hi rend="sup">c</hi></hi>Cracken Circuit Court Sct.
 <lb/><date when="1863-10">October Term 1863</date>
 <lb/>The Commonwealth of Ky
-<lb/>against &#125; Receiving stolen Goods.
+<lb/>against } Receiving stolen Goods.
 <lb/>Thomas Hynes &amp; Jas Upjohn defts</p>
 <p>The defendants were solemnly called, but came not. It is therefore adjudged that their bonds be taken as forefeited, and that a Summons issue against Said Hines &amp; H &amp; R. Enders <hi rend="underline">their</hi> securities returnable to the next term &amp; against Said Upjohn and J. E. Woodward &amp; B. P. Woodward Securities.</p>
 <p>A copy
@@ -84,7 +92,7 @@
 <p>Remit except fees &amp; costs</p>
 <p>Thos Hines, R &amp; Henry Enders
 <lb/>Forfeiture
-<lb/>&#36;250--
+<lb/>$250--
 <lb/><date when="1863-10">Oct term 1863</date></p>
   </body>
  </text>
