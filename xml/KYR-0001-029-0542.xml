@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0542"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,8 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency James F Robinson Governor of Kentucky</p>
-<p>Your petitioner Edward Humphry states that he was Indicted and at the present term of the ^Hancock Co^ <hi rend="str">Hancock</hi> Circuit Court found Guilty of the offence of selling liquor to William Herron Jr a Minor under the age of 21 years son of William Herron-- that neither the father nor son could write but before the selling refered to in the Indictment the father of the minor directed an older brother of the Minor to write an order to your petitioner authorizing him to sell to the Minor any liquor he might wish to drink-- this writing was made and delivered to your <unclear/> and was produced in court but the Minor stated that he could neither write nor read writing and <unclear>athoulg</unclear> a writing to that effect has been delivered to petitioner, he could not say the one produced in court was the Identical same writing authorised by his father-- the father &amp; Eder son who wrote the authorization had since became non residents of the state of Ky and their evidence could not be processed,-- The court therefore refused allow the paper to go to the Jury and ^he^ was consequently found guilty. He makes copy of the Indictment and Judgment part hereof -- He prays that the fine be remitted</p>
+   <p>To his Excellency <persName ref="cwgk:N001004">James F Robinson</persName> Governor of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p>Your petitioner Edward Humphry states that he was Indicted and at the present term of the ^Hancock Co^ <hi rend="str">Hancock</hi> Circuit Court found Guilty of the offence of selling liquor to <persName ref="cwgk:N00004691">William Herron Jr</persName> a Minor under the age of 21 years son of <persName ref="cwgk:N00004692">William Herron</persName>-- that neither the father nor son could write but before the selling refered to in the Indictment the father of the minor directed <persName ref="cwgk:N00004693">an older brother</persName> of the Minor to write an order to your petitioner authorizing him to sell to the Minor any liquor he might wish to drink-- this writing was made and delivered to your <unclear/> and was produced in court but the Minor stated that he could neither write nor read writing and <unclear>athoulg</unclear> a writing to that effect has been delivered to petitioner, he could not say the one produced in court was the Identical same writing authorised by his father-- the father &amp; Eder son who wrote the authorization had since became non residents of the state of Ky and their evidence could not be processed,-- The court therefore refused allow the paper to go to the Jury and ^he^ was consequently found guilty. He makes copy of the Indictment and Judgment part hereof -- He prays that the fine be remitted</p>
 <p>E Humphry</p>
 <p>Subscribed &amp; sworn to before me by Edward Humphry this <date when="1863-08-12">12 August 1863</date> -- </p>
 <p><hi rend="underline">Geo W Tully D C H C C.</hi><pb/></p>
@@ -79,10 +87,10 @@
 <lb/>R Purcell
 <lb/>Wm Temple<pb/></p>
 <p>E. Humphres
-<lb/>To &#125; Petition
+<lb/>To } Petition
 <lb/>Governor</p>
 <p>Hancock Cir. Ct
-<lb/>&#36;50. &#125; liquor to a minor
+<lb/>$50. } liquor to a minor
 <lb/>Iss<hi rend="sup">d</hi> <date when="1863-08-18">Aug 18. 1863</date></p>
 <p>Fine remitted except Ten dollars &amp; the costs</p>
 <p><hi rend="underline">J F Robinson</hi></p>
