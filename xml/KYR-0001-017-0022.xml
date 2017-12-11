@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0022"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Morganfield <date when="1860-11-24">24 Nov 1860</date>
+   <p><placeName ref="cwgk:P00001832">Morganfield</placeName> <date when="1860-11-24">24 Nov 1860</date>
 <lb/>Your Excellency,</p>
-<p>will much oblige me by sending me a commission as a Notary Public for Union Co by immediately on recpt of this.</p>
+<p>will much oblige me by sending me a commission as a Notary Public for <placeName ref="cwgk:P00001845">Union Co</placeName> by immediately on recpt of this.</p>
 <p>Very Respectfully
-<lb/>L. W. Long</p>
+<lb/><persName ref="cwgk:N00001846">L. W. Long</persName></p>
 <p>Hon Beriah M<hi rend="sup">c</hi>Goffin
-<lb/>Frankfort Ky<pb/></p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName><pb/></p>
 <p>Union Co<figure type="hr"/>
 <lb/>Notary
 <lb/>L. W. Long
