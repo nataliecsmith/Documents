@@ -54,8 +54,8 @@
                       Edwin S. Craig
                         (Commonwealth’s Attorney for the Seventh Judicial District )
                     </persName>
-                      <birth when="1820"></birth>
-                      <death when="1882"></death>
+                        <event type="birth"  when="1820"  ><ab>1820</ab></event>
+                        <event type="death"  when="1882"  ><ab>1882</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +68,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>“Death of Judge E.S. Craig,” Louisville <em>Courier-Journal</em>, May 27, 1882, p. 4. Henry Tanner, ed., <em>Tanner’s Louisville Directory, and Business Advertiser for 1861</em> (Louisville: Henry Tanner, 1861), 64. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District Three, p. 94.</p>
+        <ab><bibl>“Death of Judge E.S. Craig,” Louisville <hi rend=”italic”>Courier-Journal</hi>, May 27, 1882, p. 4. Henry Tanner, ed., <hi rend=”italic”>Tanner’s Louisville Directory, and Business Advertiser for 1861</hi> (Louisville: Henry Tanner, 1861), 64. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District Three, p. 94.
 </bibl></ab>
     </back>
 </text>
