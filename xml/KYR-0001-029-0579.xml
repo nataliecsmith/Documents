@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0579"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,9 +70,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>The commonwealth proved that, defts assaulted &amp; beat <hi rend="str"><unclear/></hi> a man because he had stopped at their Hotel the evening previous, and was trying to go away without paying his bill, -- The assault &amp; B was committed in the back yard, Immediately after the the asslt &amp; B was committed, defts charged that the man assaulted by them was trying to escape -- but in their presence he denied it &amp; said his carpet bag &amp; umbrella, was still in the house -- &amp; thus he intended to pay his bill,</p>
-<p>W, G, Reasor
-<lb/>City atto</p>
+   <p><orgName ref="cwgk:O001025">The commonwealth</orgName> proved that, <persName ref="cwgk:N00002554">defts</persName> assaulted &amp; beat <hi rend="str"><unclear/></hi> a man because he had stopped at <orgName ref="cwgk:O00002548">their Hotel</orgName> the evening previous, and was trying to go away without paying his bill, -- The assault &amp; B was committed in the back yard, Immediately after the the asslt &amp; B was committed, <persName ref="cwgk:N00002554">defts</persName> charged that the man assaulted by them was trying to escape -- but in their presence he denied it &amp; said his carpet bag &amp; umbrella, was still in the house -- &amp; thus he intended to pay his bill,</p>
+<p><persName ref="cwgk:N002029">W, G, Reasor
+</persName><lb/>City atto</p>
   </body>
  </text>
 </TEI>
