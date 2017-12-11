@@ -54,8 +54,7 @@
                       John Van Horn
                         (McLean Co carpenter/farmer)
                     </persName>
-                      <birth when="c1818"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1818"  certainty="medium" ><ab>c1818</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +67,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, McLean County, Calhoun, p. 5. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, McLean County, Jobes Precinct, p. 12.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean County, Calhoun, p. 5. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, McLean County, Jobes Precinct, p. 12.
 </bibl></ab>
     </back>
 </text>
