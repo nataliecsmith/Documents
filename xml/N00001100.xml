@@ -54,8 +54,8 @@
                       Thornley Atchison
                         (Calhoun, Ky carpenter)
                     </persName>
-                      <birth when="1809-06-29"></birth>
-                      <death when="1892-06-14"></death>
+                        <event type="birth"  when="1809-06-29"  ><ab>1809-06-29</ab></event>
+                        <event type="death"  when="1892-06-14"  ><ab>1892-06-14</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +68,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, McLean County, Calhoun, p. 6-7. <em>Find A Grave</em>, &quot;Thornley Atchison (1809-1892),&quot; Memorial #89170775, https://www.findagrave.com/memorial/89170775 (accessed September 15, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, McLean County, Calhoun, p. 6-7. <hi rend=”italic”>Find A Grave</hi>, &quot;Thornley Atchison (1809-1892),&quot; Memorial #89170775, https://www.findagrave.com/memorial/89170775 (accessed September 15, 2017).
 </bibl></ab>
     </back>
 </text>
