@@ -46,8 +46,8 @@
                       Jacob E. Sandusky (Sodowsky)
                         (Shelby county farmer)
                     </persName>
-                      <birth when="1808-06-16"></birth>
-                      <death when="1898-01-03"></death>
+                        <event type="birth"  when="1808-06-16"  ><ab>1808-06-16</ab></event>
+                        <event type="death"  when="1898-01-03"  ><ab>1898-01-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Shelby County, District No. 1; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Shelby County, District No. 1, p. 33; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Shelby County, District No. 1, p. 4; Walter Williams, <em>History of Northwest Missouri</em> vol. 2 (Chicago: Lewis Publishing Co., 1915), 702-704; W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em>, 6th ed. (Louisville and Chicago: F. A. Battey and Company, 1888), 844-45; <em>Find A Grave</em>, &quot;Jacob E. Sandusky (1808 - 1898),&quot; Memorial #32833911, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=32833911 (accessed September 28, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Shelby County, District No. 1; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Shelby County, District No. 1, p. 33; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Shelby County, District No. 1, p. 4; Walter Williams, <hi rend=”italic”>History of Northwest Missouri</hi> vol. 2 (Chicago: Lewis Publishing Co., 1915), 702-704; W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi>, 6th ed. (Louisville and Chicago: F. A. Battey and Company, 1888), 844-45; <hi rend=”italic”>Find A Grave</hi>, &quot;Jacob E. Sandusky (1808 - 1898),&quot; Memorial #32833911, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=32833911 (accessed September 28, 2017).
 </bibl></ab>
     </back>
 </text>

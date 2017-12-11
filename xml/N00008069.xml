@@ -46,8 +46,6 @@
                       H. Bertram
                         (Maysville (Mason County) merchant)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                       <trait type="gender" subtype="U"/>
                 </person> 
         </particDesc>    
@@ -59,7 +57,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Maysville Weekly Bulletin</em> June 26, 1864, p. 3</p>
+        <ab><bibl><hi rend=”italic”>Maysville Weekly Bulletin</hi> June 26, 1864, p. 3
 </bibl></ab>
     </back>
 </text>

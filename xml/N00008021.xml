@@ -46,8 +46,8 @@
                       Nicholas D. Shane
                         (Bracken County farmer)
                     </persName>
-                      <birth when="1815"></birth>
-                      <death when="1893-08-31"></death>
+                        <event type="birth"  when="1815"  ><ab>1815</ab></event>
+                        <event type="death"  when="1893-08-31"  ><ab>1893-08-31</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bracken County, District No. 1, p. 67-8; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kansas, Dickinson County, Grant Township, p. 4; <em>Find A Grave</em>, &quot;Nicholas Shane (1815 - 1893),&quot; Memorial #104736888, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=104736888 (accessed 17 July 17, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bracken County, District No. 1, p. 67-8; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kansas, Dickinson County, Grant Township, p. 4; <hi rend=”italic”>Find A Grave</hi>, &quot;Nicholas Shane (1815 - 1893),&quot; Memorial #104736888, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=104736888 (accessed 17 July 17, 2017).
 </bibl></ab>
     </back>
 </text>

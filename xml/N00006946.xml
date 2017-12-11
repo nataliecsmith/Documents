@@ -46,8 +46,8 @@
                       Samuel Craddock
                         (Hart County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1800"></birth>
-                      <death when="1869-08"></death>
+                        <event type="birth"  when="1800"  certainty="medium" ><ab>c1800</ab></event>
+                        <event type="death"  when="1869-08"  ><ab>1869-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hart County, p. 176. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hart County, District 2, p. 32. <em>Ninth Manuscript Census of the United States</em> (1870), Morality Schedules, Kentucky, Hart County, Munfordville District, p. 603.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hart County, p. 176. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hart County, District 2, p. 32. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Morality Schedules, Kentucky, Hart County, Munfordville District, p. 603.
 </bibl></ab>
     </back>
 </text>

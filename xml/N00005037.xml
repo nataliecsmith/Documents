@@ -46,8 +46,8 @@
                       Dewitt Clinton Cook
                         (Marshall Co. merchant)
                     </persName>
-                      <birth when="1828-03-19"></birth>
-                      <death when="1910-02-03"></death>
+                        <event type="birth"  when="1828-03-19"  ><ab>1828-03-19</ab></event>
+                        <event type="death"  when="1910-02-03"  ><ab>1910-02-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States (1850)</em>, Population Schedules, Kentucky, Graves County, District 1, stamped p. 467. <em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Marshall County, unknown district, p. 95. <em>Find A Grave</em>, &quot;Dewitt Clinton Cook (1828-1910),&quot; Memorial #25984005, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=25984005&amp;ref=acom (accessed June, 14, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States (1850)</hi>, Population Schedules, Kentucky, Graves County, District 1, stamped p. 467. <hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Marshall County, unknown district, p. 95. <hi rend=”italic”>Find A Grave</hi>, &quot;Dewitt Clinton Cook (1828-1910),&quot; Memorial #25984005, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=25984005&amp;ref=acom (accessed June, 14, 2017).
 </bibl></ab>
     </back>
 </text>

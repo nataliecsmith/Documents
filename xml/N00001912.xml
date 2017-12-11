@@ -46,8 +46,8 @@
                       William Emmet Garvin
                         (Louisville, Kentucky)
                     </persName>
-                      <birth when="1826-08-03"></birth>
-                      <death when="1874-06-20"></death>
+                        <event type="birth"  when="1826-08-03"  ><ab>1826-08-03</ab></event>
+                        <event type="death"  when="1874-06-20"  ><ab>1874-06-20</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Jefferson County, District No. 3 City of Louisville, p. 256; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, 6th Ward City of Louisville, p. 120; J. Stoddard Johnston, <em>Memorial history of Louisville: From its First Settlement to the Year 1896</em>, vol. 1 (Chicago and new York: American Biographical Publishing Co., 1896), 647-48; <em>Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</em>, NARA RG 109, Microfilm Series M319, Roll 0071; <em>Find A Grave</em>, &quot;William Emmet Garvin (1826 - 1874),&quot; Memorial #99895248, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=99895248 (accessed September 13, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, District No. 3 City of Louisville, p. 256; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, 6th Ward City of Louisville, p. 120; J. Stoddard Johnston, <hi rend=”italic”>Memorial history of Louisville: From its First Settlement to the Year 1896</hi>, vol. 1 (Chicago and new York: American Biographical Publishing Co., 1896), 647-48; <hi rend=”italic”>Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Kentucky</hi>, NARA RG 109, Microfilm Series M319, Roll 0071; <hi rend=”italic”>Find A Grave</hi>, &quot;William Emmet Garvin (1826 - 1874),&quot; Memorial #99895248, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=99895248 (accessed September 13, 2017).
 </bibl></ab>
     </back>
 </text>

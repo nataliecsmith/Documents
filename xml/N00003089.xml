@@ -46,8 +46,8 @@
                       James M. Fogle
                         (Lebanon (marion co) lawyer)
                     </persName>
-                      <birth when="1820-09-04"></birth>
-                      <death when="1871-01-19"></death>
+                        <event type="birth"  when="1820-09-04"  ><ab>1820-09-04</ab></event>
+                        <event type="death"  when="1871-01-19"  ><ab>1871-01-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Marion County, District 1, stamped p. 326. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marion County, Lebanon District 2, p. 104. <em>Find A Grave</em>, &quot;James M. Fogle (1820-1871),&quot; Memorial # 112726125 http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=112726125&amp;ref=acom (accessed 14 June 2016). <em>Kentucky Birth, Marriage, and Death Records, 1844-1854</em>, Ancestry, Marriages, Mercer County, 1846. <em>Kentucky Birth, Marriage, and Death Records, 1783-1965</em>, Ancestry, Marriages, Jefferson County, 1865.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marion County, District 1, stamped p. 326. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, Lebanon District 2, p. 104. <hi rend=”italic”>Find A Grave</hi>, &quot;James M. Fogle (1820-1871),&quot; Memorial # 112726125 http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=112726125&amp;ref=acom (accessed 14 June 2016). <hi rend=”italic”>Kentucky Birth, Marriage, and Death Records, 1844-1854</hi>, Ancestry, Marriages, Mercer County, 1846. <hi rend=”italic”>Kentucky Birth, Marriage, and Death Records, 1783-1965</hi>, Ancestry, Marriages, Jefferson County, 1865.
 </bibl></ab>
     </back>
 </text>

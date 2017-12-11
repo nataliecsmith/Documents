@@ -46,8 +46,8 @@
                       Rufus Morgan Horn
                         (Grayson County, Kentucky, farmer)
                     </persName>
-                      <birth when="1825-11-22"></birth>
-                      <death when="1911-04-13"></death>
+                        <event type="birth"  when="1825-11-22"  ><ab>1825-11-22</ab></event>
+                        <event type="death"  when="1911-04-13"  ><ab>1911-04-13</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Grayson County, p. 21. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Grayson County, p. 27. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Grayson County, Precinct 5, p. 14. <em>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</em>, Grayson County, 1911,  no. 9427, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Grayson County, p. 21. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grayson County, p. 27. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Grayson County, Precinct 5, p. 14. <hi rend=”italic”>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, Grayson County, 1911,  no. 9427, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
 </bibl></ab>
     </back>
 </text>

@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00003299">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Glasgow&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/Glasgow-Scotland) (accessed March 30, 2017).</p>
+        <ab><bibl>&quot;Glasgow&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/Glasgow-Scotland) (accessed March 30, 2017).
 </bibl></ab>
     </back>
 </text>

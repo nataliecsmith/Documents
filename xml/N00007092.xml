@@ -46,8 +46,8 @@
                       Richard D. Walker
                         (Greenup County, Kentucky, farm laborer)
                     </persName>
-                      <birth when="1829-07-09"></birth>
-                      <death when="1908-03-26"></death>
+                        <event type="birth"  when="1829-07-09"  ><ab>1829-07-09</ab></event>
+                        <event type="death"  when="1908-03-26"  ><ab>1908-03-26</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 225. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Greenup County, p. 111. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Greenup County, Precinct 2, p. 13. Scioto County, Ohio Marriages, 1851-60<em>, Portsmouth, Ohio, accessed via Jordan Dodd, comp., _Ohio, Marriages, 1803-1900</em>, Ancestry. <em>Find A Grave</em>, &quot;Richard D Walker (1829-1908),&quot; Memorial #23957096, http://www.findagrave.com/memorial/23957096/richard-d-walker (accessed June 15, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 225. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 111. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Greenup County, Precinct 2, p. 13. Scioto County, Ohio Marriages, 1851-60<hi rend=”italic”>, Portsmouth, Ohio, accessed via Jordan Dodd, comp., _Ohio, Marriages, 1803-1900</hi>, Ancestry. <hi rend=”italic”>Find A Grave</hi>, &quot;Richard D Walker (1829-1908),&quot; Memorial #23957096, http://www.findagrave.com/memorial/23957096/richard-d-walker (accessed June 15, 2017).
 </bibl></ab>
     </back>
 </text>

@@ -46,8 +46,7 @@
                       John Keithly
                         (Fleming County soldier; fought with William S. Beauchamp)
                     </persName>
-                      <birth when="c1841"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1841"  certainty="medium" ><ab>c1841</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</em>, NARA RG 94, Microfilm Series M397, Roll 0293. KYR-0001-029-0133. KYR-0001-029-0135.</p>
+        <ab><bibl><hi rend=”italic”>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0293. KYR-0001-029-0133. KYR-0001-029-0135.
 </bibl></ab>
     </back>
 </text>

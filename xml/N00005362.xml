@@ -46,8 +46,8 @@
                       James P. Metcalfe
                         (Kentucky attorney and politician)
                     </persName>
-                      <birth when="1822-12-17"></birth>
-                      <death when="1889-07-15"></death>
+                        <event type="birth"  when="1822-12-17"  ><ab>1822-12-17</ab></event>
+                        <event type="death"  when="1889-07-15"  ><ab>1889-07-15</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Franklin County, Frankfort, p. 76; <em>The Louisville Daily Courier</em> (Louisville, Ky.), October 21, 1858, p. 2; &quot;Representatives Elected,&quot; <em>The Louisville Daily Courier</em> (Louisville, Ky.), August 20, 1850, p. 2; Office of the Kentucky Secretary of State, &quot;Secretary of State James P. Metcalfe,&quot; (http://apps.sos.ky.gov/secdesk/sosinfo/default.aspx?id=33) (accessed on May 8,2017); Lewis Collins and Richard H. Collins, <em>History of Kentucky</em>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1878), 651; <em>Find A Grave</em>, &quot;James P. Metcalfe (1822-1889),&quot; Memorial #135755630, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=135755630&amp;ref=acom (accessed May 8, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Franklin County, Frankfort, p. 76; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), October 21, 1858, p. 2; &quot;Representatives Elected,&quot; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), August 20, 1850, p. 2; Office of the Kentucky Secretary of State, &quot;Secretary of State James P. Metcalfe,&quot; (http://apps.sos.ky.gov/secdesk/sosinfo/default.aspx?id=33) (accessed on May 8,2017); Lewis Collins and Richard H. Collins, <hi rend=”italic”>History of Kentucky</hi>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1878), 651; <hi rend=”italic”>Find A Grave</hi>, &quot;James P. Metcalfe (1822-1889),&quot; Memorial #135755630, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=135755630&amp;ref=acom (accessed May 8, 2017).
 </bibl></ab>
     </back>
 </text>

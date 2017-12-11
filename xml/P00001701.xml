@@ -44,7 +44,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00001701">
                     <placeName>
                         <location>
@@ -53,7 +53,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -62,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Sylvester K. Stevens, John B. B. Trussell, and Mathew S. Magda, &quot;Philadelphia&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/Philadelphia) (accessed June 6, 2017).</p>
+        <ab><bibl>Sylvester K. Stevens, John B. B. Trussell, and Mathew S. Magda, &quot;Philadelphia&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/Philadelphia) (accessed June 6, 2017).
 </bibl></ab>
     </back>
 </text>

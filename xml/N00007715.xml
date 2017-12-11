@@ -46,8 +46,7 @@
                       John H. McDaniel
                         (Breckinridge County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1824"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1824"  certainty="medium" ><ab>c1824</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Breckinridge County, District 2, p. 186. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breckinridge County, District 2, p. 83. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Breckinridge County, District 2, p. 7. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Breckinridge County, Hudsonville, p. 16.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District 2, p. 186. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, District 2, p. 83. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Breckinridge County, District 2, p. 7. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breckinridge County, Hudsonville, p. 16.
 </bibl></ab>
     </back>
 </text>

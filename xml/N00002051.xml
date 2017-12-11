@@ -50,8 +50,8 @@
                       John Quincy Adams King
                         (Paducah State Rep)
                     </persName>
-                      <birth when="1825-05-26"></birth>
-                      <death when="1880-02-28"></death>
+                        <event type="birth"  when="1825-05-26"  ><ab>1825-05-26</ab></event>
+                        <event type="death"  when="1880-02-28"  ><ab>1880-02-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>John Quincy Adams King Papers, 1847-1874, SC 66, Martin F. Schmidt Research Library, Kentucky Historical Society; G. Glenn Clift, <em>Governors of Kentucky, 1792-1942</em> (Cynthiana, Ky.: Hobson Press, 1942), 193-95; <em>Find A Grave</em>, &quot;John Quincy Adams King (1825 - 1880),&quot; Memorial #142491188, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=142491188 (accessed September 27, 2017).</p>
+        <ab><bibl>John Quincy Adams King Papers, 1847-1874, SC 66, Martin F. Schmidt Research Library, Kentucky Historical Society; G. Glenn Clift, <hi rend=”italic”>Governors of Kentucky, 1792-1942</hi> (Cynthiana, Ky.: Hobson Press, 1942), 193-95; <hi rend=”italic”>Find A Grave</hi>, &quot;John Quincy Adams King (1825 - 1880),&quot; Memorial #142491188, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=142491188 (accessed September 27, 2017).
 </bibl></ab>
     </back>
 </text>

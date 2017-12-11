@@ -44,7 +44,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00004776">
                     <placeName>
                         <location>
@@ -53,7 +53,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -62,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Lewis Collins and Richard H. Collins, eds., <em>History of Kentucky</em>, vol. 2 (Covington, KY: Collins and Company, 1878), p. 166-67.</p>
+        <ab><bibl>Lewis Collins and Richard H. Collins, eds., <hi rend=”italic”>History of Kentucky</hi>, vol. 2 (Covington, KY: Collins and Company, 1878), p. 166-67.
 </bibl></ab>
     </back>
 </text>

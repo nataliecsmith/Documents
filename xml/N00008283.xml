@@ -50,8 +50,7 @@
                       Noah N. Johnson
                         (Webster Co. Sheriff)
                     </persName>
-                      <birth when="c1819"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1819"  certainty="medium" ><ab>c1819</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,8 +63,8 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky,<br>
- Webster County, p. 91. Minerva Bone Bassett, <em>Some Webster County, Kentucky Families: Baker, Bassett, Givens, Johnson, Payne, Price, Rice, and Others</em> (Baltimore: Gateway Press, Inc., 1983), 76. &quot;An Act to Establish the County of Webster,&quot; <em>Acts of the General Assembly of the Commonwealth of Kentucky</em>, vol. 1 (Frankfort, Ky.: J. B. Major, State Printer, 1860), 76.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky,<br>
+ Webster County, p. 91. Minerva Bone Bassett, <hi rend=”italic”>Some Webster County, Kentucky Families: Baker, Bassett, Givens, Johnson, Payne, Price, Rice, and Others</hi> (Baltimore: Gateway Press, Inc., 1983), 76. &quot;An Act to Establish the County of Webster,&quot; <hi rend=”italic”>Acts of the General Assembly of the Commonwealth of Kentucky</hi>, vol. 1 (Frankfort, Ky.: J. B. Major, State Printer, 1860), 76.
 </bibl></ab>
     </back>
 </text>

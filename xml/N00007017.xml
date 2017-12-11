@@ -46,8 +46,6 @@
                       [unknown] [unknown]
                         (Owner of an enslaved person, Tamar [Unknown] in Louisville, Kentucky, until 1851.)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="U"/>
                 </person> 
@@ -60,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>J. Blaine Hudson, <em>Fugitive Slaves and the Underground Railroad in Kentucky</em> (Jefferson, NC: McFarland and Co, 2011), p. 134-135. <em>Rev. Calvin Fairbank During Slavery Times: How He “Fought the Good Fight” to Prepare “The Way”; Edited from His Manuscript</em> (Chicago, IL: R. R. McCabe &amp; Co., 1890), p. 85-92.</p>
+        <ab><bibl>J. Blaine Hudson, <hi rend=”italic”>Fugitive Slaves and the Underground Railroad in Kentucky</hi> (Jefferson, NC: McFarland and Co, 2011), p. 134-135. <hi rend=”italic”>Rev. Calvin Fairbank During Slavery Times: How He “Fought the Good Fight” to Prepare “The Way”; Edited from His Manuscript</hi> (Chicago, IL: R. R. McCabe &amp; Co., 1890), p. 85-92.
 </bibl></ab>
     </back>
 </text>

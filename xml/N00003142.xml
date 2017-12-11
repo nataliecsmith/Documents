@@ -50,8 +50,8 @@
                       Irwin Z. Smith
                         (St. Louis, Missouri, attorney and politician)
                     </persName>
-                      <birth when="c1826"></birth>
-                      <death when="c1881"></death>
+                        <event type="birth"  when="1826"  certainty="medium" ><ab>c1826</ab></event>
+                        <event type="death"  when="1881"  certainty="medium" ><ab>c1881</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Smith, Irwin Z.,&quot; in <em>Encyclopedia of the History of St. Louis,</em> William Hyde and Howard Louis Conrad, eds. (New York: The Southern History Company, 1899), 2086-2087; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Missouri, St. Louis, Ward 6, p. 145; <em>St. Louis, Missouri, City Director, 1865</em>, Edward, Greenough, &amp; Deved, pub. (St. Louis: Edwards, Greenough, &amp; Deved, 1865), p. 631 (accessed via Ancestry.com); &quot;Irwin Z. Smith&#39;s Estate,&quot; <em>St. Louis Post-Dispatch</em> (St. Louis, Mo.), October 14, 1881, p. 1; <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Missouri, District 1, Volume 8, August 1864 (Accessed via ancestry.com); <em>Find A Grave</em>, &quot;Irwin Z. Smith (1826-1881),&quot; Memorial #140618157, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=140618157&amp;ref=acom (accessed March 30, 2017); KYR-0001-007-0321.</p>
+        <ab><bibl>&quot;Smith, Irwin Z.,&quot; in <hi rend=”italic”>Encyclopedia of the History of St. Louis,</hi> William Hyde and Howard Louis Conrad, eds. (New York: The Southern History Company, 1899), 2086-2087; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Missouri, St. Louis, Ward 6, p. 145; <hi rend=”italic”>St. Louis, Missouri, City Director, 1865</hi>, Edward, Greenough, &amp; Deved, pub. (St. Louis: Edwards, Greenough, &amp; Deved, 1865), p. 631 (accessed via Ancestry.com); &quot;Irwin Z. Smith&#39;s Estate,&quot; <hi rend=”italic”>St. Louis Post-Dispatch</hi> (St. Louis, Mo.), October 14, 1881, p. 1; <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Missouri, District 1, Volume 8, August 1864 (Accessed via ancestry.com); <hi rend=”italic”>Find A Grave</hi>, &quot;Irwin Z. Smith (1826-1881),&quot; Memorial #140618157, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=140618157&amp;ref=acom (accessed March 30, 2017); KYR-0001-007-0321.
 </bibl></ab>
     </back>
 </text>

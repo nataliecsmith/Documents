@@ -46,8 +46,7 @@
                       Samuel Casey Hughes
                         (Presiding Judge Union Co Ct)
                     </persName>
-                      <birth when="1826-07-05"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1826-07-05"  ><ab>1826-07-05</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Memorial Record of Western Kentucky</em>, vol. 2 (Chicago and New York: Lewis Publishing Company, 1904), 760-61. KYR-0001-004-0028.</p>
+        <ab><bibl><hi rend=”italic”>Memorial Record of Western Kentucky</hi>, vol. 2 (Chicago and New York: Lewis Publishing Company, 1904), 760-61. KYR-0001-004-0028.
 </bibl></ab>
     </back>
 </text>

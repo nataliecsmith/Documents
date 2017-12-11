@@ -46,8 +46,8 @@
                       Reuben Clark Green
                         (Burlington Boone co)
                     </persName>
-                      <birth when="1822-07-23"></birth>
-                      <death when="1883-02-21"></death>
+                        <event type="birth"  when="1822-07-23"  ><ab>1822-07-23</ab></event>
+                        <event type="death"  when="1883-02-21"  ><ab>1883-02-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Boone County, District No. 1, p. 132 B; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Boone County, Burlington, p. 40; <em>Find A Grave</em>, &quot;Reuben Clark Green (1822 - 1883),&quot; Memorial #73699415, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=73699415 (accessed September 21, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Boone County, District No. 1, p. 132 B; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Boone County, Burlington, p. 40; <hi rend=”italic”>Find A Grave</hi>, &quot;Reuben Clark Green (1822 - 1883),&quot; Memorial #73699415, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=73699415 (accessed September 21, 2017).
 </bibl></ab>
     </back>
 </text>

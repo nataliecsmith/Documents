@@ -50,8 +50,7 @@
                       John Baltzell
                         (Frankfort, Kentucky, hatter and councilman)
                     </persName>
-                      <birth when="c1796"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1796"  certainty="medium" ><ab>c1796</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Franklin County, Frankfort, p. 74.; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedule, Kentucky, Franklin County, Frankfort, p. 17; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Kentucky, Franklin County, Frankfort, p. 12.; &quot;Frankfort Municipal Elections,&quot; <em>The Louisville Daily Courier</em> (Louisville, Ky.), January 6, 1857, p. 2.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Franklin County, Frankfort, p. 74.; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedule, Kentucky, Franklin County, Frankfort, p. 17; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Franklin County, Frankfort, p. 12.; &quot;Frankfort Municipal Elections,&quot; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), January 6, 1857, p. 2.
 </bibl></ab>
     </back>
 </text>

@@ -36,7 +36,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P001003">
                     <placeName>
                         <location>
@@ -45,7 +45,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -54,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>John E. Harkins, &quot;Memphis&quot; in <em>Tennessee Encyclopedia of History and Culture</em>, 2016, http://www.tennesseeencyclopedia.net/entry.php?rec=889 (accessed July 19, 2016).</p>
+        <ab><bibl>John E. Harkins, &quot;Memphis&quot; in <hi rend=”italic”>Tennessee Encyclopedia of History and Culture</hi>, 2016, http://www.tennesseeencyclopedia.net/entry.php?rec=889 (accessed July 19, 2016).
 </bibl></ab>
     </back>
 </text>

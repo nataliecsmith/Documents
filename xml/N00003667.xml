@@ -50,8 +50,7 @@
                       A. S. Wade
                         (Marion co.)
                     </persName>
-                      <birth when="1837"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1837"  ><ab>1837</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Consolidated Lists of Civil War Draft Registration Records (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865)</em>, Kentucky, 4th Congressional District, vol. 2 of 3, p. 542, Record Group: 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA, Washington, D.C.</p>
+        <ab><bibl><hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865)</hi>, Kentucky, 4th Congressional District, vol. 2 of 3, p. 542, Record Group: 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), NARA, Washington, D.C.
 </bibl></ab>
     </back>
 </text>

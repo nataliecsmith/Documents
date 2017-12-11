@@ -46,8 +46,7 @@
                       John McElhany
                         (Lyon County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1826"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1826"  certainty="medium" ><ab>c1826</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 320; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Lyon County, p. 21. </p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 320; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, p. 21. 
 </bibl></ab>
     </back>
 </text>

@@ -46,8 +46,8 @@
                       Ranson A. Dawson, Sr.
                         (Hart County, Kentucky, farmer)
                     </persName>
-                      <birth when="1808-02-06"></birth>
-                      <death when="1889-04-27"></death>
+                        <event type="birth"  when="1808-02-06"  ><ab>1808-02-06</ab></event>
+                        <event type="death"  when="1889-04-27"  ><ab>1889-04-27</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Hart County. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hart County, District 2, p. 124. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Hart County, District 2, p. 5. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hart County, Munfordville, p. 33. Yate Publishing, <em>U.S. and International Marriage Records, 1560-1900</em>, Ancestry, Kentucky, 1833. <em>Find A Grave</em>, &quot;Ransom A. Dawson (1808-1889),&quot; Memorial #43478844, http://www.findagrave.com/memorial/43478844/ransom-a-dawson (accessed May 2, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Hart County. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hart County, District 2, p. 124. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Hart County, District 2, p. 5. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hart County, Munfordville, p. 33. Yate Publishing, <hi rend=”italic”>U.S. and International Marriage Records, 1560-1900</hi>, Ancestry, Kentucky, 1833. <hi rend=”italic”>Find A Grave</hi>, &quot;Ransom A. Dawson (1808-1889),&quot; Memorial #43478844, http://www.findagrave.com/memorial/43478844/ransom-a-dawson (accessed May 2, 2017).
 </bibl></ab>
     </back>
 </text>

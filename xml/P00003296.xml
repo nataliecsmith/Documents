@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00003296">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Blake Ehrlich, Archie Rule Turnbull, and Michael Lynch, &quot;Edinburgh&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/Edinburgh-Scotland) (accessed June 7, 2017).</p>
+        <ab><bibl>Blake Ehrlich, Archie Rule Turnbull, and Michael Lynch, &quot;Edinburgh&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/Edinburgh-Scotland) (accessed June 7, 2017).
 </bibl></ab>
     </back>
 </text>

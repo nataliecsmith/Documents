@@ -46,8 +46,8 @@
                       Landrum Robert Hampton
                         (Kenton County, Kentucky, clerk and justice of the peace)
                     </persName>
-                      <birth when="1814-04-17"></birth>
-                      <death when="1884-10-02"></death>
+                        <event type="birth"  when="1814-04-17"  ><ab>1814-04-17</ab></event>
+                        <event type="death"  when="1884-10-02"  ><ab>1884-10-02</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Kenton County, District 1, p. 12-13; <em>Find A Grave</em>, &quot;Landrum Robert Hampton (1814-1884),&quot; Memorial #47324747, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=47324747&amp;ref=acom (accessed May 5, 2017); KYR-0001-007-0357.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Kenton County, District 1, p. 12-13; <hi rend=”italic”>Find A Grave</hi>, &quot;Landrum Robert Hampton (1814-1884),&quot; Memorial #47324747, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=47324747&amp;ref=acom (accessed May 5, 2017); KYR-0001-007-0357.
 </bibl></ab>
     </back>
 </text>

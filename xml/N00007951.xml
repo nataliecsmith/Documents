@@ -46,8 +46,7 @@
                       William W. Hester
                         (Marshall County)
                     </persName>
-                      <birth when="c1832"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1832"  certainty="medium" ><ab>c1832</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Marshall County, p. 480; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marshall County, Palma post office, p. 157.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marshall County, p. 480; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, Palma post office, p. 157.
 </bibl></ab>
     </back>
 </text>

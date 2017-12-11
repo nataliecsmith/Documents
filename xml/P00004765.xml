@@ -44,7 +44,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00004765">
                     <placeName>
                         <location>
@@ -53,7 +53,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -62,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Newton Bateman and Paul Selby, eds., <em>Historical Encyclopedia of Illinois</em> (Chicago: Munsell Publishing Company, 1918), p. 241, 258. Roger D. Bridges and Rodney O. Davis, <em>Illinois: Its History and Legacy,</em> (St. Louis: River City Publishers, 1984).</p>
+        <ab><bibl>Newton Bateman and Paul Selby, eds., <hi rend=”italic”>Historical Encyclopedia of Illinois</hi> (Chicago: Munsell Publishing Company, 1918), p. 241, 258. Roger D. Bridges and Rodney O. Davis, <hi rend=”italic”>Illinois: Its History and Legacy,</hi> (St. Louis: River City Publishers, 1984).
 </bibl></ab>
     </back>
 </text>

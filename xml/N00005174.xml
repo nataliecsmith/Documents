@@ -50,8 +50,8 @@
                       Arnold Snider
                         (Greenup County resident)
                     </persName>
-                      <birth when="1846-10-15"></birth>
-                      <death when="1924-03-30"></death>
+                        <event type="birth"  when="1846-10-15"  ><ab>1846-10-15</ab></event>
+                        <event type="death"  when="1924-03-30"  ><ab>1924-03-30</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Greenup County,  p. 21; <em>Kentucky Birth, Marriage, and Death Records</em>, 1911-1964, Ancestry, Deaths, Lewis County, 1924; <em>Tenth Manuscript Census of the United States</em> (1880), Population Schedules, Kentucky, Lewis County Precinct 4,  p. 9.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County,  p. 21; <hi rend=”italic”>Kentucky Birth, Marriage, and Death Records</hi>, 1911-1964, Ancestry, Deaths, Lewis County, 1924; <hi rend=”italic”>Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Lewis County Precinct 4,  p. 9.
 </bibl></ab>
     </back>
 </text>

@@ -54,8 +54,8 @@
                       George Washington Williams
                         (Hawesville attorney)
                     </persName>
-                      <birth when="1814-11-27"></birth>
-                      <death when="1890-09-29"></death>
+                        <event type="birth"  when="1814-11-27"  ><ab>1814-11-27</ab></event>
+                        <event type="death"  when="1890-09-29"  ><ab>1890-09-29</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +68,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 319-322; <em>An Illustrated Historical Atlas of Daviess County, Ky. : carefully compiled from personal examinations and surveys</em> (Utica: Leo McDonough &amp; Co., 1876); Tallaferro P. Shaffner, ed., <em>Kentucky Annual State Register, 1847</em> (Louisville: Morton and Griswold, 1847), 93; <em>Find A Grave</em>, &quot;George Washington WIlliams (November 27, 1814 - September 29, 1890),&quot; Memorial #57361824, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=57361824&amp;ref=acom (accessed June 27, 2017).; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hancock County; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Hancock County; <em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Hancock County, p. 40; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Hancock County, p. 3; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Davies County, 1st Ward City of Owensboro, p. 257; <em>Collins’ Historical Sketches of Kentucky: History of Kentucky</em>, vol. 2 (Collins &amp; Company, 1878), 305.</p>
+        <ab><bibl>H. Levin, <hi rend=”italic”>The Lawyers and Lawmakers of Kentucky</hi> (Chicago: The Lewis Publishing Company, 1897), 319-322; <hi rend=”italic”>An Illustrated Historical Atlas of Daviess County, Ky. : carefully compiled from personal examinations and surveys</hi> (Utica: Leo McDonough &amp; Co., 1876); Tallaferro P. Shaffner, ed., <hi rend=”italic”>Kentucky Annual State Register, 1847</hi> (Louisville: Morton and Griswold, 1847), 93; <hi rend=”italic”>Find A Grave</hi>, &quot;George Washington WIlliams (November 27, 1814 - September 29, 1890),&quot; Memorial #57361824, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=57361824&amp;ref=acom (accessed June 27, 2017).; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hancock County; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Hancock County; <hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Hancock County, p. 40; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Hancock County, p. 3; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Davies County, 1st Ward City of Owensboro, p. 257; <hi rend=”italic”>Collins’ Historical Sketches of Kentucky: History of Kentucky</hi>, vol. 2 (Collins &amp; Company, 1878), 305.
 </bibl></ab>
     </back>
 </text>

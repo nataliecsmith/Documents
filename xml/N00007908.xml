@@ -46,8 +46,7 @@
                       William B. Davenport
                         (Anderson County farm laborer)
                     </persName>
-                      <birth when="c1824"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1824"  certainty="medium" ><ab>c1824</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Anderson County, Unnamed District, p. 93.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, Unnamed District, p. 93.
 </bibl></ab>
     </back>
 </text>

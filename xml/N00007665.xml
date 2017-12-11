@@ -46,8 +46,8 @@
                       Lot Salsman
                         (Grayson County, Kentucky, farmer)
                     </persName>
-                      <birth when="1809-01-06"></birth>
-                      <death when="1876-12-12"></death>
+                        <event type="birth"  when="1809-01-06"  ><ab>1809-01-06</ab></event>
+                        <event type="death"  when="1876-12-12"  ><ab>1876-12-12</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850),  Population Schedules, Kentucky, Grayson County, p. 20. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Grayson County, p. 11. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Grayson County, Precinct 5, p. 26. <em>Find A Grave</em>, &quot;Lot Salsman (1809-1876),&quot; Memorial #69259893, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=69259893&amp;ref=acom (accessed June 26, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850),  Population Schedules, Kentucky, Grayson County, p. 20. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grayson County, p. 11. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Grayson County, Precinct 5, p. 26. <hi rend=”italic”>Find A Grave</hi>, &quot;Lot Salsman (1809-1876),&quot; Memorial #69259893, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=69259893&amp;ref=acom (accessed June 26, 2017).
 </bibl></ab>
     </back>
 </text>

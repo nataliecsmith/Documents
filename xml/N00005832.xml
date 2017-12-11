@@ -46,8 +46,6 @@
                       Charles H. Fink
                         (Jefferson County Lawyer)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,7 +57,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>U.S. IRS Tax Assessment Lists, 1862-1918</em>, Kentucky, Series M768, Roll 16.</p>
+        <ab><bibl><hi rend=”italic”>U.S. IRS Tax Assessment Lists, 1862-1918</hi>, Kentucky, Series M768, Roll 16.
 </bibl></ab>
     </back>
 </text>

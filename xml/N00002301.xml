@@ -50,8 +50,7 @@
                       Edward F. de Selding
                         (New York City, New York, attorney)
                     </persName>
-                      <birth when="1828-08-10"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1828-08-10"  ><ab>1828-08-10</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Peter Ross, <em>A History of Long Island: From its Earliest Settlement to the Present Time, Vol. 2</em>(Long Island: Lewis Publishing Company, 1902), 467-68; KYR-0001-007-0399.</p>
+        <ab><bibl>Peter Ross, <hi rend=”italic”>A History of Long Island: From its Earliest Settlement to the Present Time, Vol. 2</hi>(Long Island: Lewis Publishing Company, 1902), 467-68; KYR-0001-007-0399.
 </bibl></ab>
     </back>
 </text>

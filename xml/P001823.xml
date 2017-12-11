@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P001823">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Richard H. Collins, <em>History of Kentucky: By the Late Lewis Collins,</em> (Louisville: Richard H. Collins, 1877), 332.</p>
+        <ab><bibl>Richard H. Collins, <hi rend=”italic”>History of Kentucky: By the Late Lewis Collins,</hi> (Louisville: Richard H. Collins, 1877), 332.
 </bibl></ab>
     </back>
 </text>

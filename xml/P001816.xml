@@ -36,7 +36,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P001816">
                     <placeName>
                         <location>
@@ -45,7 +45,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -54,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Lee A. Dew, &quot;Hancock County&quot; in <em>The Kentucky Encyclopedia</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 401-2.</p>
+        <ab><bibl>Lee A. Dew, &quot;Hancock County&quot; in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 401-2.
 </bibl></ab>
     </back>
 </text>

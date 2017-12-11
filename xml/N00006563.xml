@@ -50,8 +50,8 @@
                       Ben Lee Hardin
                         (Resident of Mercer County, Kentucky)
                     </persName>
-                      <birth when="1844-07-21"></birth>
-                      <death when="1925-02-14"></death>
+                        <event type="birth"  when="1844-07-21"  ><ab>1844-07-21</ab></event>
+                        <event type="death"  when="1925-02-14"  ><ab>1925-02-14</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Adair County, District 1, p. 1; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 1; <em>Find A Grave</em>, &quot;Benjamin Lee ‘Ben’ Hardin (1844-1925),&quot; Memorial #101249001, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=101249001 (accessed May 25, 2017); KYR-0001-029-0552.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Adair County, District 1, p. 1; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 1; <hi rend=”italic”>Find A Grave</hi>, &quot;Benjamin Lee ‘Ben’ Hardin (1844-1925),&quot; Memorial #101249001, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=101249001 (accessed May 25, 2017); KYR-0001-029-0552.
 </bibl></ab>
     </back>
 </text>

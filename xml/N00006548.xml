@@ -46,8 +46,8 @@
                       William S. Opdyke
                         (New York City, New York, attorney and notary public)
                     </persName>
-                      <birth when="1836-10-06"></birth>
-                      <death when="1922-10-20"></death>
+                        <event type="birth"  when="1836-10-06"  ><ab>1836-10-06</ab></event>
+                        <event type="death"  when="1922-10-20"  ><ab>1922-10-20</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, New York, New York, Ward 18, District 2, p. 154-55.; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, New Jersey, Bergen County, Hackensack, p. 140; <em>Find A Grave</em>, &quot;William Stryker Opdyke (1836-1922),&quot; Memorial #101727022, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=OP&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=33&amp;GScntry=4&amp;GSsr=441&amp;GRid=101727022&amp; (accessed May 24, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, New York, New York, Ward 18, District 2, p. 154-55.; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, New Jersey, Bergen County, Hackensack, p. 140; <hi rend=”italic”>Find A Grave</hi>, &quot;William Stryker Opdyke (1836-1922),&quot; Memorial #101727022, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=OP&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=33&amp;GScntry=4&amp;GSsr=441&amp;GRid=101727022&amp; (accessed May 24, 2017).
 </bibl></ab>
     </back>
 </text>

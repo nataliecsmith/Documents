@@ -50,8 +50,8 @@
                       Charles J. Vanderespt
                         (Belgian vice consul, Louisville)
                     </persName>
-                      <birth when="c1829"></birth>
-                      <death when="1883-04-28"></death>
+                        <event type="birth"  when="1829"  certainty="medium" ><ab>c1829</ab></event>
+                        <event type="death"  when="1883-04-28"  ><ab>1883-04-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Chas. Vanderespt Dead,&quot; Louisville <em>Courier-Journal</em>, April 29, 1883, p. 8.</p>
+        <ab><bibl>&quot;Chas. Vanderespt Dead,&quot; Louisville <hi rend=”italic”>Courier-Journal</hi>, April 29, 1883, p. 8.
 </bibl></ab>
     </back>
 </text>

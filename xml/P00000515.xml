@@ -48,7 +48,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00000515">
                     <placeName>
                         <location>
@@ -57,7 +57,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -66,7 +66,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>H.E. Everman, &quot;Bourbon County,&quot; in <em>The Encyclopedia of Kentucky</em>, John E Kleber ed. (Lexington: University Press of Kentucky, 2000), 104-05.</p>
+        <ab><bibl>H.E. Everman, &quot;Bourbon County,&quot; in <hi rend=”italic”>The Encyclopedia of Kentucky</hi>, John E Kleber ed. (Lexington: University Press of Kentucky, 2000), 104-05.
 </bibl></ab>
     </back>
 </text>

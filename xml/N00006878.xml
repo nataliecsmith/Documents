@@ -46,8 +46,8 @@
                       Thomas J. Whitman
                         (Hart County, Kentucky, farmer)
                     </persName>
-                      <birth when="1828-06-26"></birth>
-                      <death when="1901-06-11"></death>
+                        <event type="birth"  when="1828-06-26"  ><ab>1828-06-26</ab></event>
+                        <event type="death"  when="1901-06-11"  ><ab>1901-06-11</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hart County, p. 253. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Hart County, p. 437. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hart County, District 2, p. 126. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Hart County, District 2, p. 5. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hart County, Munfordville, p, 17. <em>Find A Grave</em>, &quot;Thomas J. Whitman (1828-1901),&quot; Memorial #76144910, http://www.findagrave.com/memorial/76144910/T-WHIT (accessed June 5, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hart County, p. 253. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Hart County, p. 437. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hart County, District 2, p. 126. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Hart County, District 2, p. 5. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hart County, Munfordville, p, 17. <hi rend=”italic”>Find A Grave</hi>, &quot;Thomas J. Whitman (1828-1901),&quot; Memorial #76144910, http://www.findagrave.com/memorial/76144910/T-WHIT (accessed June 5, 2017).
 </bibl></ab>
     </back>
 </text>

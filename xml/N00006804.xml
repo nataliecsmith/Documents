@@ -46,8 +46,8 @@
                       Bennett D. Marks
                         (Louisville, Kentucky, ice trader and notary public)
                     </persName>
-                      <birth when="1839-10-29"></birth>
-                      <death when="1909-08-29"></death>
+                        <event type="birth"  when="1839-10-29"  ><ab>1839-10-29</ab></event>
+                        <event type="death"  when="1909-08-29"  ><ab>1909-08-29</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Jefferson County, Louisville, Ward 4, p. 10; <em>Find A Grave</em>, &quot;Bennett D. Marks (1839-1909),&quot; Memorial #165128689, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=165128689&amp;ref=acom (accessed June 1, 2017); KYR-0001-007-0377.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Jefferson County, Louisville, Ward 4, p. 10; <hi rend=”italic”>Find A Grave</hi>, &quot;Bennett D. Marks (1839-1909),&quot; Memorial #165128689, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=165128689&amp;ref=acom (accessed June 1, 2017); KYR-0001-007-0377.
 </bibl></ab>
     </back>
 </text>

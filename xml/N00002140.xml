@@ -46,8 +46,8 @@
                       Daniel Glanton
                         (Ballard County, Kentucky, farmer and coroner)
                     </persName>
-                      <birth when="1833-12-27"></birth>
-                      <death when="1922-03-13"></death>
+                        <event type="birth"  when="1833-12-27"  ><ab>1833-12-27</ab></event>
+                        <event type="death"  when="1922-03-13"  ><ab>1922-03-13</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, Picketts district, p. 32. <em>Find A Grave</em>, &quot;Daniel Glanton (1833-1922),&quot; Memorial #23929335, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=23929335&amp;ref=acom (accessed September 20, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Picketts district, p. 32. <hi rend=”italic”>Find A Grave</hi>, &quot;Daniel Glanton (1833-1922),&quot; Memorial #23929335, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=23929335&amp;ref=acom (accessed September 20, 2017).
 </bibl></ab>
     </back>
 </text>

@@ -46,8 +46,8 @@
                       Philip Swigert
                         (Frankfort banker, Military Board)
                     </persName>
-                      <birth when="1798"></birth>
-                      <death when="1871-12-31"></death>
+                        <event type="birth"  when="1798"  ><ab>1798</ab></event>
+                        <event type="death"  when="1871-12-31"  ><ab>1871-12-31</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Carl E. Kramer, &quot;Frankfort&quot; in John E. Kleber, ed. <em>The Kentucky Encyclopedia</em> (Lexington: University Press of Kentucky, 1992), 353; <em>Find A Grave</em>, “Philip Swigert (- 1871),”  https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=SW&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=19&amp;GScntry=4&amp;GSsr=3201&amp;GRid=68833254&amp; (accessed May 22, 2017). <em>Seventh Manuscript Census of the United States (1850)</em>, Population Schedules, Kentucky, Franklin County, District 2, p. 107. <em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Franklin County, Frankfort District 1, p. 119. <em>Ninth Manuscript Census of the United States (1870)</em>, Population Schedules, Kentucky, Franklin County, Frankfort , p. 12. <em>Report of the Military Board of Kentucky, Made to the General Assembly, September 10, 1861</em> (Frankfort: Yeoman Office, 1861), 3.</p>
+        <ab><bibl>Carl E. Kramer, &quot;Frankfort&quot; in John E. Kleber, ed. <hi rend=”italic”>The Kentucky Encyclopedia</hi> (Lexington: University Press of Kentucky, 1992), 353; <hi rend=”italic”>Find A Grave</hi>, “Philip Swigert (- 1871),”  https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=SW&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=19&amp;GScntry=4&amp;GSsr=3201&amp;GRid=68833254&amp; (accessed May 22, 2017). <hi rend=”italic”>Seventh Manuscript Census of the United States (1850)</hi>, Population Schedules, Kentucky, Franklin County, District 2, p. 107. <hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Franklin County, Frankfort District 1, p. 119. <hi rend=”italic”>Ninth Manuscript Census of the United States (1870)</hi>, Population Schedules, Kentucky, Franklin County, Frankfort , p. 12. <hi rend=”italic”>Report of the Military Board of Kentucky, Made to the General Assembly, September 10, 1861</hi> (Frankfort: Yeoman Office, 1861), 3.
 </bibl></ab>
     </back>
 </text>

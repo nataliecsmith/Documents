@@ -50,8 +50,8 @@
                       Matthew S. Preston
                         (Ballard County, Kentucky, farmer)
                     </persName>
-                      <birth when="1817-10-06"></birth>
-                      <death when="1881-08-29"></death>
+                        <event type="birth"  when="1817-10-06"  ><ab>1817-10-06</ab></event>
+                        <event type="death"  when="1881-08-29"  ><ab>1881-08-29</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Ballard County, Blandsville, p. 278. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, Cobbs, p. 103. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Ballard County, Milburn District, p. 11. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Ballard County, District 4, p. 22. <em>Find A Grave</em>, &quot;Matthew S. Preston (1817-1881),&quot; Memorial #75856623, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=75856623&amp;ref=acom (accessed June 22, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, Blandsville, p. 278. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Cobbs, p. 103. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Ballard County, Milburn District, p. 11. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, District 4, p. 22. <hi rend=”italic”>Find A Grave</hi>, &quot;Matthew S. Preston (1817-1881),&quot; Memorial #75856623, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=75856623&amp;ref=acom (accessed June 22, 2017).
 </bibl></ab>
     </back>
 </text>

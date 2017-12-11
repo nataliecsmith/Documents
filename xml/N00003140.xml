@@ -46,8 +46,7 @@
                       John W. O. Clark
                         (Pendleton County, Kentucky, constable and laborer)
                     </persName>
-                      <birth when="c1830"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1830"  certainty="medium" ><ab>c1830</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Pendleton County, p. 93; <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Pendleton County, KY, June/July 1863, p. 51, (Accessed via ancestry.com).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Pendleton County, p. 93; <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Pendleton County, KY, June/July 1863, p. 51, (Accessed via ancestry.com).
 </bibl></ab>
     </back>
 </text>

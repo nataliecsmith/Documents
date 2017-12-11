@@ -46,8 +46,8 @@
                       Edgar Needham
                         (Louisville, Kentucky, marble dealer)
                     </persName>
-                      <birth when="1813-03-19"></birth>
-                      <death when="1873-03-09"></death>
+                        <event type="birth"  when="1813-03-19"  ><ab>1813-03-19</ab></event>
+                        <event type="death"  when="1873-03-09"  ><ab>1873-03-09</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 7, District 4, p. 64. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 4, p. 66. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 8, p. 54. <em>Find A Grave</em>, &quot;Edgar Needham (1813-1873),&quot; Memorial #87233260, http://www.findagrave.com/memorial/87233260/edgar-needham (accessed June 13, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 7, District 4, p. 64. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 4, p. 66. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 8, p. 54. <hi rend=”italic”>Find A Grave</hi>, &quot;Edgar Needham (1813-1873),&quot; Memorial #87233260, http://www.findagrave.com/memorial/87233260/edgar-needham (accessed June 13, 2017).
 </bibl></ab>
     </back>
 </text>

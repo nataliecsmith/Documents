@@ -46,8 +46,8 @@
                       Oscar Turner
                         (Ballard County, Kentucky, attorney and planter)
                     </persName>
-                      <birth when="1825-02-03"></birth>
-                      <death when="1896-01-22"></death>
+                        <event type="birth"  when="1825-02-03"  ><ab>1825-02-03</ab></event>
+                        <event type="death"  when="1896-01-22"  ><ab>1896-01-22</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Ballard County, p. 286. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Ballard County, p. 127. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, McCuistians District, p. 181. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Ballard County, McCuistians District, p. 25. Ben Perley Poore, comp., <em>Congressional Directory Compiled for the Use of Congress</em> (Washington, D.C.: Government Printing Office, 1883), p. 31. <em>Find A Grave</em>, &quot;Oscar Turner, Sr. (1825-1896),&quot; Memorial #7095874, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=7095874&amp;ref=acom (accessed June 22, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, p. 286. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Ballard County, p. 127. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, McCuistians District, p. 181. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Ballard County, McCuistians District, p. 25. Ben Perley Poore, comp., <hi rend=”italic”>Congressional Directory Compiled for the Use of Congress</hi> (Washington, D.C.: Government Printing Office, 1883), p. 31. <hi rend=”italic”>Find A Grave</hi>, &quot;Oscar Turner, Sr. (1825-1896),&quot; Memorial #7095874, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=7095874&amp;ref=acom (accessed June 22, 2017).
 </bibl></ab>
     </back>
 </text>

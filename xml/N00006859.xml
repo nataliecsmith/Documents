@@ -50,8 +50,7 @@
                       George H. Kole
                         (Covington, Kentucky, tailor)
                     </persName>
-                      <birth when="c1827"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1827"  certainty="medium" ><ab>c1827</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Kenton County, Covington, Ward 1, p. 39-40; KYR-0001-029-0543.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington, Ward 1, p. 39-40; KYR-0001-029-0543.
 </bibl></ab>
     </back>
 </text>

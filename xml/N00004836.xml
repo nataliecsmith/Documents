@@ -46,8 +46,7 @@
                       John T. Miller
                         (Lexington, Kentucky, hardware merchant and councilman)
                     </persName>
-                      <birth when="1825-02-08"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1825-02-08"  ><ab>1825-02-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>William Henry Perrin, ed., *History of Fayette County, Kentucky (Chicago, IL: O. L. Baskin &amp; Co., 1882), p. 663-664. Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Fayette County, District 1, p. 146. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 87. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 49. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 26.</p>
+        <ab><bibl>William Henry Perrin, ed., *History of Fayette County, Kentucky (Chicago, IL: O. L. Baskin &amp; Co., 1882), p. 663-664. Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Fayette County, District 1, p. 146. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 87. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 49. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 26.
 </bibl></ab>
     </back>
 </text>

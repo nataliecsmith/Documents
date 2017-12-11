@@ -36,7 +36,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P001007">
                     <placeName>
                         <location>
@@ -45,7 +45,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -54,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Alan K. Campbell and Paul Joseph Scudlere, &quot;New York&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/New-York-state) (accessed May 22, 2017).</p>
+        <ab><bibl>Alan K. Campbell and Paul Joseph Scudlere, &quot;New York&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/New-York-state) (accessed May 22, 2017).
 </bibl></ab>
     </back>
 </text>

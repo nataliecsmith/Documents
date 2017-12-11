@@ -46,8 +46,8 @@
                       Samuel S. Patterson
                         (Pendleton County, Kentucky, farmer, merchant, and justice of the peace)
                     </persName>
-                      <birth when="1834-03-18"></birth>
-                      <death when="1918-08-25"></death>
+                        <event type="birth"  when="1834-03-18"  ><ab>1834-03-18</ab></event>
+                        <event type="death"  when="1918-08-25"  ><ab>1918-08-25</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Pendleton County, p. 90; <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Pendleton County, KY, June/July 1863, p. 245, (Accessed via ancestry.com); <em>Texas Department of State Health Services, Texas Death Certificates, 1903–1982</em>, Certificate# 31123, Texas, Denton County, Denton, March 18, 1834; KYR-0001-007-0320.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Pendleton County, p. 90; <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Pendleton County, KY, June/July 1863, p. 245, (Accessed via ancestry.com); <hi rend=”italic”>Texas Department of State Health Services, Texas Death Certificates, 1903–1982</hi>, Certificate# 31123, Texas, Denton County, Denton, March 18, 1834; KYR-0001-007-0320.
 </bibl></ab>
     </back>
 </text>

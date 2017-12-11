@@ -46,8 +46,7 @@
                       James Hickcox
                         (Milwaukee, Wisconsin, attorney)
                     </persName>
-                      <birth when="c1831"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1831"  certainty="medium" ><ab>c1831</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Wisconsin, Milwaukee County, Milwaukee, Ward 1, p. 46.; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Wisconsin, Milwaukee County, Milwaukee, Ward 1, p. 109; &quot;Democratic County Ticket,&quot; <em>The Daily Milwaukee News</em> (Milwaukee, Wis.), October 2, 1864, p. 5.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Wisconsin, Milwaukee County, Milwaukee, Ward 1, p. 46.; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Wisconsin, Milwaukee County, Milwaukee, Ward 1, p. 109; &quot;Democratic County Ticket,&quot; <hi rend=”italic”>The Daily Milwaukee News</hi> (Milwaukee, Wis.), October 2, 1864, p. 5.
 </bibl></ab>
     </back>
 </text>

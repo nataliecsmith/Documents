@@ -46,8 +46,8 @@
                       William C. Simpson
                         (Grayson County, Kentucky, farmer)
                     </persName>
-                      <birth when="1811-11-12"></birth>
-                      <death when="1898-09-18"></death>
+                        <event type="birth"  when="1811-11-12"  ><ab>1811-11-12</ab></event>
+                        <event type="death"  when="1898-09-18"  ><ab>1898-09-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em> (Louisville: F. A. Battey and Company, 1887), 1120-1121. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Edmonson County, p. 28. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Grayson County, p. 92. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Grayson County, Cany, p. 48. <em>Find A Grave</em>, &quot;William C. Simpson (1811-1898),&quot; Memorial #5054025, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=5054025 (accessed June 26, 2017).</p>
+        <ab><bibl>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi> (Louisville: F. A. Battey and Company, 1887), 1120-1121. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Edmonson County, p. 28. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grayson County, p. 92. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Grayson County, Cany, p. 48. <hi rend=”italic”>Find A Grave</hi>, &quot;William C. Simpson (1811-1898),&quot; Memorial #5054025, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=5054025 (accessed June 26, 2017).
 </bibl></ab>
     </back>
 </text>

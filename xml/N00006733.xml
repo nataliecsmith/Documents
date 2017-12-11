@@ -46,8 +46,7 @@
                       Sylvanus J. Boyd
                         (Muhlenberg County, Kentucky, attorney)
                     </persName>
-                      <birth when="c1834"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1834"  certainty="medium" ><ab>c1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Muhlenberg County, Subdivision 2, p. 241; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Muhlenberg County, District 1, p. 42; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, McLean County, Calhoun, p. 48.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Muhlenberg County, Subdivision 2, p. 241; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Muhlenberg County, District 1, p. 42; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, McLean County, Calhoun, p. 48.
 </bibl></ab>
     </back>
 </text>

@@ -46,8 +46,7 @@
                       Phillip Wilson
                         (Philadelphia, Pennsylvania, gun store owner and entrepreneur)
                     </persName>
-                      <birth when="c1817"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1817"  certainty="medium" ><ab>c1817</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 15, p. 103; KYR-0001-007-0332.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 15, p. 103; KYR-0001-007-0332.
 </bibl></ab>
     </back>
 </text>

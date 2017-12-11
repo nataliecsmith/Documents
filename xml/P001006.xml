@@ -36,7 +36,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P001006">
                     <placeName>
                         <location>
@@ -45,7 +45,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -54,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Carol Lewis Thompson and E. Willard Miller, &quot;Pennsylvania&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/Pennsylvania-state) (accessed May 22, 2017).</p>
+        <ab><bibl>Carol Lewis Thompson and E. Willard Miller, &quot;Pennsylvania&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/Pennsylvania-state) (accessed May 22, 2017).
 </bibl></ab>
     </back>
 </text>

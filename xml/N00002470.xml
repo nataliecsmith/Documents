@@ -50,8 +50,7 @@
                       Jeremiah Moore
                         (Greenup County farmer)
                     </persName>
-                      <birth when="c1810"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1810"  certainty="medium" ><ab>c1810</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Greenup County, p. 26; <em>Find A Grave</em>&quot;Jeremiah &#39;Jerry&#39; Moore (c1810-unknown),&quot; Memorial #160382457, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=160382457 (accessed June 2, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 26; <hi rend=”italic”>Find A Grave</hi>&quot;Jeremiah &#39;Jerry&#39; Moore (c1810-unknown),&quot; Memorial #160382457, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=160382457 (accessed June 2, 2017).
 </bibl></ab>
     </back>
 </text>

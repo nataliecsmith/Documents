@@ -46,8 +46,7 @@
                       Andrew Petty
                         (Breckinridge County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1807"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1807"  certainty="medium" ><ab>c1807</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="U"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 64B. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 86. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Breckinridge County, Hudsonville District, p. 9.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 64B. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 86. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breckinridge County, Hudsonville District, p. 9.
 </bibl></ab>
     </back>
 </text>

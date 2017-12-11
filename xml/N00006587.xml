@@ -46,8 +46,8 @@
                       John N. Furber
                         (Brooksville, Kentucky, and Covington, Kentucky, attorney)
                     </persName>
-                      <birth when="1813-02-28"></birth>
-                      <death when="1878-07-21"></death>
+                        <event type="birth"  when="1813-02-28"  ><ab>1813-02-28</ab></event>
+                        <event type="death"  when="1878-07-21"  ><ab>1878-07-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State (seventh edition; Louisville, KY: F. A. Battey and Company, 1887), p. 797-798; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Bracken County, p. 477; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bracken County, Brooksville, p. 1; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Kenton County, Covington, Ward 6, p. 1; *Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</em>, Microfilm rolls #994027-994058, Bracken County, Kentucky, July 23, 1857, Kentucky Department for Libraries and Archives, Frankfort, Kentucky; <em>Find A Grave</em>, &quot;John Neally Furber (1813-1878),&quot; Memorial #112864989, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=112864989 (accessed May 26, 2017).</p>
+        <ab><bibl>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State (seventh edition; Louisville, KY: F. A. Battey and Company, 1887), p. 797-798; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bracken County, p. 477; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bracken County, Brooksville, p. 1; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Kenton County, Covington, Ward 6, p. 1; *Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, Microfilm rolls #994027-994058, Bracken County, Kentucky, July 23, 1857, Kentucky Department for Libraries and Archives, Frankfort, Kentucky; <hi rend=”italic”>Find A Grave</hi>, &quot;John Neally Furber (1813-1878),&quot; Memorial #112864989, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=112864989 (accessed May 26, 2017).
 </bibl></ab>
     </back>
 </text>

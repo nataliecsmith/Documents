@@ -46,8 +46,7 @@
                       John L. Mackoy
                         (Greenup County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1831"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1831"  certainty="medium" ><ab>c1831</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 241. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Greenup County, p. 112. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Greenup County, Precinct 2, p. 12.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 241. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 112. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Greenup County, Precinct 2, p. 12.
 </bibl></ab>
     </back>
 </text>

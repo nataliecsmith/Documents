@@ -46,8 +46,8 @@
                       Samuel W. Kennedy
                         (Elkton, Kentucky attorney)
                     </persName>
-                      <birth when="1823-12-22"></birth>
-                      <death when="1879-01-27"></death>
+                        <event type="birth"  when="1823-12-22"  ><ab>1823-12-22</ab></event>
+                        <event type="death"  when="1879-01-27"  ><ab>1879-01-27</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Todd County, District 2, p. 251; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Todd County, p. 69; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Todd County, Elkton, p. 349; <em>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</em>, Microfilm rolls #994027-994058, Todd County, KY, December 1855, Kentucky Department for Libraries and Archives, Frankfort, Kentucky; <em>Find A Grave</em>, &quot;Samuel W. Kennedy (1823-1879),&quot; Memorial #48573060, http://www.findagrave.com/cgi-bin/fg.cgi/pages.suddenlink.net/%2525253C/fg.cgi?page=gr&amp;GRid=48573060 (accessed May 30, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Todd County, District 2, p. 251; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Todd County, p. 69; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Todd County, Elkton, p. 349; <hi rend=”italic”>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, Microfilm rolls #994027-994058, Todd County, KY, December 1855, Kentucky Department for Libraries and Archives, Frankfort, Kentucky; <hi rend=”italic”>Find A Grave</hi>, &quot;Samuel W. Kennedy (1823-1879),&quot; Memorial #48573060, http://www.findagrave.com/cgi-bin/fg.cgi/pages.suddenlink.net/%2525253C/fg.cgi?page=gr&amp;GRid=48573060 (accessed May 30, 2017).
 </bibl></ab>
     </back>
 </text>

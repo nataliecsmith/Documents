@@ -46,8 +46,8 @@
                       John Christian Bullitt
                         (Philadelphia, Pennsylvania, attorney)
                     </persName>
-                      <birth when="1824-02-10"></birth>
-                      <death when="1902-08-25"></death>
+                        <event type="birth"  when="1824-02-10"  ><ab>1824-02-10</ab></event>
+                        <event type="death"  when="1902-08-25"  ><ab>1902-08-25</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;John C. Bullitt,&quot; in <em>The Biographical Encyclopedia of Pennsylvania of the Nineteenth Century</em> (Philadelphia: Galaxy Publishing Company, 1874), 112-113; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Pennsylvania, Philadelphia County, Part of the 22nd Ward of Philadelphia City, p. 48; &quot;Authority: On Commercial Law was John C. Bullitt,&quot; <em>Courier-Journal</em> (Louisville, Ky.), August 26, 1902, p. 1; <em>Find A Grave</em>, &quot;John Christian Bullitt (1824-1902),&quot; Memorial #14588289, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=14588289 (accessed June 26, 2017).</p>
+        <ab><bibl>&quot;John C. Bullitt,&quot; in <hi rend=”italic”>The Biographical Encyclopedia of Pennsylvania of the Nineteenth Century</hi> (Philadelphia: Galaxy Publishing Company, 1874), 112-113; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Pennsylvania, Philadelphia County, Part of the 22nd Ward of Philadelphia City, p. 48; &quot;Authority: On Commercial Law was John C. Bullitt,&quot; <hi rend=”italic”>Courier-Journal</hi> (Louisville, Ky.), August 26, 1902, p. 1; <hi rend=”italic”>Find A Grave</hi>, &quot;John Christian Bullitt (1824-1902),&quot; Memorial #14588289, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=14588289 (accessed June 26, 2017).
 </bibl></ab>
     </back>
 </text>

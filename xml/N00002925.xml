@@ -46,8 +46,7 @@
                       Oliver Lucas 
                         (assistant editor, Louisville Daily Journal)
                     </persName>
-                      <birth when="1829"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1829"  ><ab>1829</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,13 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky, newspaper editor. Kentucky native. Assistant Editor of the <em>Louisville Journal</em> in 1860 and 1861.</p>
+        <p>Louisville, Kentucky, newspaper editor. Kentucky native. Assistant Editor of the <hi rend=”italic”>Louisville Journal</hi> in 1860 and 1861.</p>
 
 <p>Born in Kentucky in 1829, Oliver Lucas was the clerk board alderman, as well as the assistant editor for the Louisville Daily Journal. </p>
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, 2nd ward Louisville, p. 396. Henry Tanner, ed., <em>Tanner’s Louisville Directory and Business Advertiser for 1861</em> (Louisville: Directory Publication and Advertising Agency, 1861), 326.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, 2nd ward Louisville, p. 396. Henry Tanner, ed., <hi rend=”italic”>Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 326.
 </bibl></ab>
     </back>
 </text>

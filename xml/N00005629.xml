@@ -46,8 +46,8 @@
                       Joseph Pancoast
                         (Philadelphia, Pennsylvania, physician, professor, and entrepreneur)
                     </persName>
-                      <birth when="1805-11-23"></birth>
-                      <death when="1882-03-07"></death>
+                        <event type="birth"  when="1805-11-23"  ><ab>1805-11-23</ab></event>
+                        <event type="death"  when="1882-03-07"  ><ab>1882-03-07</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Richard J. Dunglison, M.D. and Frank Woodbury, M.D., eds.<em>The College and Clinical Record: A Monthly Medical Journal</em>, vol. 3, April 15, 1882 (Philadelphia: Jefferson Medical College, 1882), 81-82 ; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 8, District 22, p. 193; <em>U.S. Quaker Meeting Records, Pennsylvania, Philadelphia Monthly Meeting</em>, Western District, Minutes, p. 189; <em>Find A Grave</em>, &quot;Dr. Joseph Pancoast (1805-1882),&quot; Memorial #86695796, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86695796&amp;ref=acom (accessed May 10, 2017).</p>
+        <ab><bibl>Richard J. Dunglison, M.D. and Frank Woodbury, M.D., eds.<hi rend=”italic”>The College and Clinical Record: A Monthly Medical Journal</hi>, vol. 3, April 15, 1882 (Philadelphia: Jefferson Medical College, 1882), 81-82 ; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 8, District 22, p. 193; <hi rend=”italic”>U.S. Quaker Meeting Records, Pennsylvania, Philadelphia Monthly Meeting</hi>, Western District, Minutes, p. 189; <hi rend=”italic”>Find A Grave</hi>, &quot;Dr. Joseph Pancoast (1805-1882),&quot; Memorial #86695796, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86695796&amp;ref=acom (accessed May 10, 2017).
 </bibl></ab>
     </back>
 </text>

@@ -48,7 +48,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00001048">
                     <placeName>
                         <location>
@@ -57,7 +57,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -66,7 +66,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Charles Hayes, &quot;Breathitt County&quot; in <em>The Encyclopedia of Kentucky</em>, ed. John E Kleber (Lexington: University Press of Kentucky, 2002), p. 115-116.</p>
+        <ab><bibl>Charles Hayes, &quot;Breathitt County&quot; in <hi rend=”italic”>The Encyclopedia of Kentucky</hi>, ed. John E Kleber (Lexington: University Press of Kentucky, 2002), p. 115-116.
 </bibl></ab>
     </back>
 </text>

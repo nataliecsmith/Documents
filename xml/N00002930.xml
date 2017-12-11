@@ -50,8 +50,8 @@
                       Harry B. Innes
                         (Franklin County)
                     </persName>
-                      <birth when="1802-11-14"></birth>
-                      <death when="1881-02-06"></death>
+                        <event type="birth"  when="1802-11-14"  ><ab>1802-11-14</ab></event>
+                        <event type="death"  when="1881-02-06"  ><ab>1881-02-06</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Franklin County, District 1, p. 26. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Franklin County, District 1, p. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, District 1, p. 56. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Franklin County, District 1, p. 11. <em>Tenth Manuscript Census of the United States</em> (1880), Population Schedules, Kentucky, Franklin County, Forks Elkhorn, p. 12. <em>Find A Grave</em>. “Harry B. Innes, Sr (1802 - 1881),” Memorial #135932361, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=135932361 (accessed March 27, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 1, p. 26. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Franklin County, District 1, p. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, District 1, p. 56. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Franklin County, District 1, p. 11. <hi rend=”italic”>Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Franklin County, Forks Elkhorn, p. 12. <hi rend=”italic”>Find A Grave</hi>. “Harry B. Innes, Sr (1802 - 1881),” Memorial #135932361, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=135932361 (accessed March 27, 2017).
 </bibl></ab>
     </back>
 </text>

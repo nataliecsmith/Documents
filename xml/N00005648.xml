@@ -46,8 +46,8 @@
                       Henry Connelly
                         (New Mexico Territory governor)
                     </persName>
-                      <birth when="c1800"></birth>
-                      <death when="1866-08-12"></death>
+                        <event type="birth"  when="1800"  certainty="medium" ><ab>c1800</ab></event>
+                        <event type="death"  when="1866-08-12"  ><ab>1866-08-12</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>New Mexico History, People, &quot;Territorial Governor Henry Connelly,&quot; (http://newmexicohistory.org/people/territorial-governor-henry-connelly) (accessed on May 11, 2017).</p>
+        <ab><bibl>New Mexico History, People, &quot;Territorial Governor Henry Connelly,&quot; (http://newmexicohistory.org/people/territorial-governor-henry-connelly) (accessed on May 11, 2017).
 </bibl></ab>
     </back>
 </text>

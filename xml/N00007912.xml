@@ -46,8 +46,8 @@
                       Joseph N. Easley
                         (Shelby County wagon maker)
                     </persName>
-                      <birth when="1805-03-18"></birth>
-                      <death when="1883-02-28"></death>
+                        <event type="birth"  when="1805-03-18"  ><ab>1805-03-18</ab></event>
+                        <event type="death"  when="1883-02-28"  ><ab>1883-02-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Shelby County, District No. 2, p. 350 B; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Shelby County, District No. 2; <em>Find A Grave</em>, &quot;Joseph Easley, Jr (1805-1883),&quot; Memorial #41192573, https://www.findagrave.com/memorial/41192573 (accessed November 8, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Shelby County, District No. 2, p. 350 B; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Shelby County, District No. 2; <hi rend=”italic”>Find A Grave</hi>, &quot;Joseph Easley, Jr (1805-1883),&quot; Memorial #41192573, https://www.findagrave.com/memorial/41192573 (accessed November 8, 2017).
 </bibl></ab>
     </back>
 </text>

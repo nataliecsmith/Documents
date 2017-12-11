@@ -46,8 +46,8 @@
                       Charles W. Hutchen
                         (County Judge Henderson Co)
                     </persName>
-                      <birth when="1801-06-03"></birth>
-                      <death when="1873-10-13"></death>
+                        <event type="birth"  when="1801-06-03"  ><ab>1801-06-03</ab></event>
+                        <event type="death"  when="1873-10-13"  ><ab>1873-10-13</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Fulton County, Town of Hickman, p. 111. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Henderson County, Division No. 1, p. 1. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Henderson County, Town of Henderson District, p. 11. <em>Find A Grave</em>, &quot;Charles W. Hutchen (1801-1873),&quot; Memorial #95479395, https://www.findagrave.com/memorial/95479395 (accessed November 30, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fulton County, Town of Hickman, p. 111. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henderson County, Division No. 1, p. 1. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Henderson County, Town of Henderson District, p. 11. <hi rend=”italic”>Find A Grave</hi>, &quot;Charles W. Hutchen (1801-1873),&quot; Memorial #95479395, https://www.findagrave.com/memorial/95479395 (accessed November 30, 2017).
 </bibl></ab>
     </back>
 </text>

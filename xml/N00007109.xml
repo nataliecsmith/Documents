@@ -46,8 +46,8 @@
                       William Crutcher Ireland
                         (Greenup County, Kentucky, attorney and politician)
                     </persName>
-                      <birth when="1823-11-28"></birth>
-                      <death when="1894"></death>
+                        <event type="birth"  when="1823-11-28"  ><ab>1823-11-28</ab></event>
+                        <event type="death"  when="1894"  ><ab>1894</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati, OH: J. M. Armstrong and Co., 1878), p. 500-503. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Lewis County, District 1, p. 240. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Greenup County, East Little Sandy, Subdistrict 2, p. 2. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Boyd County, Ashland, p. 33. <em>Find A Grave</em>, &quot;Judge William Crutcher Ireland (1823-1894),&quot; Memorial #74205273, https://www.findagrave.com/memorial/74205273/william-crutcher-ireland (accessed June 15, 2017).</p>
+        <ab><bibl><hi rend=”italic”>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati, OH: J. M. Armstrong and Co., 1878), p. 500-503. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lewis County, District 1, p. 240. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, East Little Sandy, Subdistrict 2, p. 2. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Boyd County, Ashland, p. 33. <hi rend=”italic”>Find A Grave</hi>, &quot;Judge William Crutcher Ireland (1823-1894),&quot; Memorial #74205273, https://www.findagrave.com/memorial/74205273/william-crutcher-ireland (accessed June 15, 2017).
 </bibl></ab>
     </back>
 </text>

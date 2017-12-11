@@ -50,8 +50,8 @@
                       George Washington Patterson
                         (New York farmer, manufacturer, and politician)
                     </persName>
-                      <birth when="1799-11-11"></birth>
-                      <death when="1879-10-15"></death>
+                        <event type="birth"  when="1799-11-11"  ><ab>1799-11-11</ab></event>
+                        <event type="death"  when="1879-10-15"  ><ab>1879-10-15</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, New York, Chautauqua County, p. 84; Patterson Family Papers, 1825-1931, University of Michigan, Bentley Library, Ann Arbor, Michigan, (https://quod.lib.umich.edu/b/bhlead/umich-bhl-852119?view=text) (accessed on May 8, 2017); Biographical Directory of the United States Congress, &quot;George Washington Patterson,&quot; (http://bioguide.congress.gov/scripts/biodisplay.pl?index=P000116) (accessed on May 8, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, New York, Chautauqua County, p. 84; Patterson Family Papers, 1825-1931, University of Michigan, Bentley Library, Ann Arbor, Michigan, (https://quod.lib.umich.edu/b/bhlead/umich-bhl-852119?view=text) (accessed on May 8, 2017); Biographical Directory of the United States Congress, &quot;George Washington Patterson,&quot; (http://bioguide.congress.gov/scripts/biodisplay.pl?index=P000116) (accessed on May 8, 2017).
 </bibl></ab>
     </back>
 </text>

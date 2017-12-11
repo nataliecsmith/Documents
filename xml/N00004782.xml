@@ -46,8 +46,8 @@
                       Samuel J. Vaughn
                         (Estill County, Kentucky, farmer)
                     </persName>
-                      <birth when="1807-01-14"></birth>
-                      <death when="1884-02-23"></death>
+                        <event type="birth"  when="1807-01-14"  ><ab>1807-01-14</ab></event>
+                        <event type="death"  when="1884-02-23"  ><ab>1884-02-23</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Estill County, p. 58. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Estill County. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Estill County, p. 76. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Estill County, p. 9. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Estill County, Millers Creek, p. 29. <em>Find A Grave</em>, &quot;Samuel Jackson Vaughn (1807-1884),&quot; Memorial #5514049, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=5514049 (accessed April 23, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Estill County, p. 58. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Estill County. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Estill County, p. 76. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Estill County, p. 9. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Estill County, Millers Creek, p. 29. <hi rend=”italic”>Find A Grave</hi>, &quot;Samuel Jackson Vaughn (1807-1884),&quot; Memorial #5514049, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=5514049 (accessed April 23, 2017).
 </bibl></ab>
     </back>
 </text>

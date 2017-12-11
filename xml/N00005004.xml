@@ -50,8 +50,8 @@
                       Rowland Thomas Vories
                         (Carroll County sheriff)
                     </persName>
-                      <birth when="1815-11-29"></birth>
-                      <death when="1892-05-02"></death>
+                        <event type="birth"  when="1815-11-29"  ><ab>1815-11-29</ab></event>
+                        <event type="death"  when="1892-05-02"  ><ab>1892-05-02</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;An Act for the benefit of R.T. Vories, sheriff of Carroll County,&quot; in <em>Acts of the General Assembly of the Commonwealth of Kentucky</em>, September 2, 1861 through January 8, 1863, (Frankfort, KY: W. B. Hughes, Public Printer, 1861, 1862, and 1863), 13; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Carroll County, District No. 2, p. 59; <em>Find A Grave</em>, &quot;Rowland Thomas Vories (1815 - 1892),&quot; Memorial #25498726, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=25498726 (accessed October 5, 2017).</p>
+        <ab><bibl>&quot;An Act for the benefit of R.T. Vories, sheriff of Carroll County,&quot; in <hi rend=”italic”>Acts of the General Assembly of the Commonwealth of Kentucky</hi>, September 2, 1861 through January 8, 1863, (Frankfort, KY: W. B. Hughes, Public Printer, 1861, 1862, and 1863), 13; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carroll County, District No. 2, p. 59; <hi rend=”italic”>Find A Grave</hi>, &quot;Rowland Thomas Vories (1815 - 1892),&quot; Memorial #25498726, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=25498726 (accessed October 5, 2017).
 </bibl></ab>
     </back>
 </text>

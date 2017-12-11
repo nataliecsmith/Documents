@@ -46,8 +46,7 @@
                       Hugh Knox Rachford
                         (Campbell County, Kentucky, physician and delegate)
                     </persName>
-                      <birth when="c1815"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1815"  certainty="medium" ><ab>c1815</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Campbell County, p. 182; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Kentucky, Campbell County, Alexandria, p. 6;  &quot;Democratic Meeting in Campbell,&quot; <em>The Louisville Daily Courier</em> (Louisville, Ky.), October 27, 1859, p. 1.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Campbell County, p. 182; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Campbell County, Alexandria, p. 6;  &quot;Democratic Meeting in Campbell,&quot; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), October 27, 1859, p. 1.
 </bibl></ab>
     </back>
 </text>

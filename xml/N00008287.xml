@@ -46,8 +46,7 @@
                       Charles W. Cook
                         (Webster Co. Judge)
                     </persName>
-                      <birth when="c1833"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1833"  certainty="medium" ><ab>c1833</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Webster County, Dixon, Subdivision 166, p. 4.</p>
+        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Webster County, Dixon, Subdivision 166, p. 4.
 </bibl></ab>
     </back>
 </text>

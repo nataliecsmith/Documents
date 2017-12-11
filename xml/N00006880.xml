@@ -46,8 +46,8 @@
                       Tyrah H. Logsdon
                         (Hart County, Kentucky, farmer)
                     </persName>
-                      <birth when="1818-12-31"></birth>
-                      <death when="1888-01-02"></death>
+                        <event type="birth"  when="1818-12-31"  ><ab>1818-12-31</ab></event>
+                        <event type="death"  when="1888-01-02"  ><ab>1888-01-02</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hart County, p. 207. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hart County, District 2, p. 55. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hart County, Munfordville, p. 22. <em>Find A Grave</em>, &quot;Tyrah Hayden Logdson (1818-1888),&quot; Memorial #102455777, http://www.findagrave.com/memorial/102455777/tyrah-hayden-logsdon (accessed June 5, 2017]).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hart County, p. 207. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hart County, District 2, p. 55. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hart County, Munfordville, p. 22. <hi rend=”italic”>Find A Grave</hi>, &quot;Tyrah Hayden Logdson (1818-1888),&quot; Memorial #102455777, http://www.findagrave.com/memorial/102455777/tyrah-hayden-logsdon (accessed June 5, 2017]).
 </bibl></ab>
     </back>
 </text>

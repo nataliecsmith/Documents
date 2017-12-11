@@ -46,8 +46,7 @@
                       John J. Quinn
                         (Franklin County carriage maker, Justice of the Peace, and Frankfort Police Judge)
                     </persName>
-                      <birth when="1818"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1818"  ><ab>1818</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-007-0436; KYR-0001-028-0069; KYR-0001-004-1332; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, District 1, p. 101; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, p. 38.</p>
+        <ab><bibl>KYR-0001-007-0436; KYR-0001-028-0069; KYR-0001-004-1332; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, District 1, p. 101; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, p. 38.
 </bibl></ab>
     </back>
 </text>

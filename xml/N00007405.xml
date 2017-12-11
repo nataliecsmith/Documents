@@ -50,8 +50,8 @@
                       Henry S. Pickett
                         (Ballard County, Kentucky, farmer.)
                     </persName>
-                      <birth when="c1828"></birth>
-                      <death when="1876-09-08"></death>
+                        <event type="birth"  when="1828"  certainty="medium" ><ab>c1828</ab></event>
+                        <event type="death"  when="1876-09-08"  ><ab>1876-09-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850),  Population Schedules, Kentucky, Ballard County, p. 266. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, Picketts, p. 60. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Ballard County, District 8, p. 30. <em>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</em>, Microfilm rolls #994027-994058, Ballard County, Deaths, 1876, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850),  Population Schedules, Kentucky, Ballard County, p. 266. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Picketts, p. 60. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, District 8, p. 30. <hi rend=”italic”>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, Microfilm rolls #994027-994058, Ballard County, Deaths, 1876, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
 </bibl></ab>
     </back>
 </text>

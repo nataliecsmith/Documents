@@ -46,8 +46,8 @@
                       John Watson
                         (Frankfort steamboat line owner)
                     </persName>
-                      <birth when="1817-04-21"></birth>
-                      <death when="1882-09-24"></death>
+                        <event type="birth"  when="1817-04-21"  ><ab>1817-04-21</ab></event>
+                        <event type="death"  when="1882-09-24"  ><ab>1882-09-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Find A Grave</em>, &quot;John Watson (1817-1882),&quot; Memorial #60201629,  https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=WAT&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=19&amp;GScntry=4&amp;GSsr=4841&amp;GRid=60201629&amp; (accessed April 10, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Find A Grave</hi>, &quot;John Watson (1817-1882),&quot; Memorial #60201629,  https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=WAT&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=19&amp;GScntry=4&amp;GSsr=4841&amp;GRid=60201629&amp; (accessed April 10, 2017).
 </bibl></ab>
     </back>
 </text>

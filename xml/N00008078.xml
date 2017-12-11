@@ -46,8 +46,8 @@
                       Thomas Kerr Ricketts
                         (Maysville (Mason Co) saddler)
                     </persName>
-                      <birth when="1809"></birth>
-                      <death when="1906"></death>
+                        <event type="birth"  when="1809"  ><ab>1809</ab></event>
+                        <event type="death"  when="1906"  ><ab>1906</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Mason County, Lower District, p. 24; Ila Earle Fowler, <em>Kentucky Pioneers and Their Descendants</em> (Baltimore: Genealogical Publishing Company, 1967), 116.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, Lower District, p. 24; Ila Earle Fowler, <hi rend=”italic”>Kentucky Pioneers and Their Descendants</hi> (Baltimore: Genealogical Publishing Company, 1967), 116.
 </bibl></ab>
     </back>
 </text>

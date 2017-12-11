@@ -46,8 +46,8 @@
                       Enoch Yeates
                         (Anderson County, Kentucky, farmer)
                     </persName>
-                      <birth when="1812-11-15"></birth>
-                      <death when="1878-02-27"></death>
+                        <event type="birth"  when="1812-11-15"  ><ab>1812-11-15</ab></event>
+                        <event type="death"  when="1878-02-27"  ><ab>1878-02-27</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Anderson County, p. 225. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Anderson County, p. 101. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Anderson County, p. 60. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Anderson County, p. 12. Yates Publishing, <em>U.S. and International Marriage Records, 1560-1900</em>, Ancestry, Kentucky, 1833, source no 9721.000. <em>Find A Grave</em>, &quot;Enoch Yeates (1812-1878),&quot; Memorial #76126968, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=76126968 (accessed May 7, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Anderson County, p. 225. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Anderson County, p. 101. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, p. 60. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Anderson County, p. 12. Yates Publishing, <hi rend=”italic”>U.S. and International Marriage Records, 1560-1900</hi>, Ancestry, Kentucky, 1833, source no 9721.000. <hi rend=”italic”>Find A Grave</hi>, &quot;Enoch Yeates (1812-1878),&quot; Memorial #76126968, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=76126968 (accessed May 7, 2017).
 </bibl></ab>
     </back>
 </text>

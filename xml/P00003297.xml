@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00003297">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Hugh D. Clout, Michael John Hebbert, and Blake Ehrlich, &quot;London&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/London) (accessed June 7, 2017).</p>
+        <ab><bibl>Hugh D. Clout, Michael John Hebbert, and Blake Ehrlich, &quot;London&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/London) (accessed June 7, 2017).
 </bibl></ab>
     </back>
 </text>

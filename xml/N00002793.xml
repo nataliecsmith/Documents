@@ -46,8 +46,8 @@
                       Austin F. Watkins
                         (McLean County physician)
                     </persName>
-                      <birth when="1829-12"></birth>
-                      <death when="1892-02"></death>
+                        <event type="birth"  when="1829-12"  ><ab>1829-12</ab></event>
+                        <event type="death"  when="1892-02"  ><ab>1892-02</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, McLean County, Calhoon, p. 37. <em>Find A Grave</em>, &quot;Dr. Austin F. Watkins (1829-1892),&quot; Memorial #5276254, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=WATK&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=26&amp;GScntry=4&amp;GSsr=161&amp;GRid=5276254&amp; (accessed March 24, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean County, Calhoon, p. 37. <hi rend=”italic”>Find A Grave</hi>, &quot;Dr. Austin F. Watkins (1829-1892),&quot; Memorial #5276254, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=WATK&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=26&amp;GScntry=4&amp;GSsr=161&amp;GRid=5276254&amp; (accessed March 24, 2017).
 </bibl></ab>
     </back>
 </text>

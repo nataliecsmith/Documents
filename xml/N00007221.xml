@@ -46,8 +46,7 @@
                       William Moneymaker
                         (Lyon County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1816"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1816"  certainty="medium" ><ab>c1816</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Caldwell County, District 2, p. 392; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Lyon County, p. 53; <em>Kentucky, County Marriages, 1783-1965</em>, Ancestry, film no. 000851644, Caldwell County, Kentucky, September 7, 1843; Jordan Dodd, comp., <em>Kentucky Marriages to 1850</em> Ancestry, Lyon County, Kentucky, January 22, 1859.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 2, p. 392; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, p. 53; <hi rend=”italic”>Kentucky, County Marriages, 1783-1965</hi>, Ancestry, film no. 000851644, Caldwell County, Kentucky, September 7, 1843; Jordan Dodd, comp., <hi rend=”italic”>Kentucky Marriages to 1850</hi> Ancestry, Lyon County, Kentucky, January 22, 1859.
 </bibl></ab>
     </back>
 </text>

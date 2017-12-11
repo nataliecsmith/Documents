@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00003020">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Jeremy David Popkins, et al., &quot;France&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/France) (accessed December 7, 2017).</p>
+        <ab><bibl>Jeremy David Popkins, et al., &quot;France&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/France) (accessed December 7, 2017).
 </bibl></ab>
     </back>
 </text>

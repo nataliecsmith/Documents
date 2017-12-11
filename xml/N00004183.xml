@@ -50,8 +50,8 @@
                       George Wythe Lewis
                         (Frankfort and Lexington editor and publisher)
                     </persName>
-                      <birth when="1815-02-09"></birth>
-                      <death when="1865-07-19"></death>
+                        <event type="birth"  when="1815-02-09"  ><ab>1815-02-09</ab></event>
+                        <event type="death"  when="1865-07-19"  ><ab>1865-07-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,11 +60,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Frankfort, Kentucky, and Lexington, Kentucky, editor. Spotsylvania County, Virginia, native. Son of John Lewis and Jean Wood Daniel Lewis. Married Mary Jane Todd. Father of Joseph Bullock Lewis, John Franklin Lewis, William Todd Lewis, and George Alexander Lewis. Editor of the <em>Frankfort Roundabout</em> in Frankfort in 1860. Editor of the <em>National Unionist</em> in Lexington with Joseph B. Lewis. Died in Danville, Kentucky.</p>
+        <p>Frankfort, Kentucky, and Lexington, Kentucky, editor. Spotsylvania County, Virginia, native. Son of John Lewis and Jean Wood Daniel Lewis. Married Mary Jane Todd. Father of Joseph Bullock Lewis, John Franklin Lewis, William Todd Lewis, and George Alexander Lewis. Editor of the <hi rend=”italic”>Frankfort Roundabout</hi> in Frankfort in 1860. Editor of the <hi rend=”italic”>National Unionist</hi> in Lexington with Joseph B. Lewis. Died in Danville, Kentucky.</p>
 
     </body>
     <back>
-        <ab><bibl><p>Lewis, William Terrell, <em>Genealogy of the Lewis Family in America, From the Middle of the Seventeenth Century Down to the Present Time</em> (Louisville, KY: The Courier-Journal Job Printing Co., 1893), 407. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, District 1, p. 92. &quot;Only a Scrap of Paper. But it Brings Up the Past Very Vividly,&quot; <em>Frankfort Roundabout,</em> 17 Nov 1894, 4. <em>Find A Grave</em>, &quot;George Wythe Lewis (1815-1865),&quot; Memorial #144004049, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=144004049&amp;ref=acom (accessed April 10, 2017).</p>
+        <ab><bibl>Lewis, William Terrell, <hi rend=”italic”>Genealogy of the Lewis Family in America, From the Middle of the Seventeenth Century Down to the Present Time</hi> (Louisville, KY: The Courier-Journal Job Printing Co., 1893), 407. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, District 1, p. 92. &quot;Only a Scrap of Paper. But it Brings Up the Past Very Vividly,&quot; <hi rend=”italic”>Frankfort Roundabout,</hi> 17 Nov 1894, 4. <hi rend=”italic”>Find A Grave</hi>, &quot;George Wythe Lewis (1815-1865),&quot; Memorial #144004049, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=144004049&amp;ref=acom (accessed April 10, 2017).
 </bibl></ab>
     </back>
 </text>

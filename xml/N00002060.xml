@@ -46,8 +46,8 @@
                       Hardin Perkins Bostick
                         (Nashville, TN)
                     </persName>
-                      <birth when="1804-12-30"></birth>
-                      <death when="1861-02"></death>
+                        <event type="birth"  when="1804-12-30"  ><ab>1804-12-30</ab></event>
+                        <event type="death"  when="1861-02"  ><ab>1861-02</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Tennessee, Davidson County, Unnamed District, p. 310; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Tennessee, Davidson County, Unnamed District;  <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Tennessee, Davidson County, 13th District, p. 155; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Tennessee, Davidson County, 13th District, p. 39; <em>Find A Grave</em>, &quot;Hardin Perkins Bostick (1804 - 1861),&quot; Memorial #42794613, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=42794613 (accessed September 27, 2017); Bostick Family Papers, 1834-[1861-1864]-1870, 96.066, Tennessee State Library and Archives, Nashville.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Davidson County, Unnamed District, p. 310; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Tennessee, Davidson County, Unnamed District;  <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Davidson County, 13th District, p. 155; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Davidson County, 13th District, p. 39; <hi rend=”italic”>Find A Grave</hi>, &quot;Hardin Perkins Bostick (1804 - 1861),&quot; Memorial #42794613, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=42794613 (accessed September 27, 2017); Bostick Family Papers, 1834-[1861-1864]-1870, 96.066, Tennessee State Library and Archives, Nashville.
 </bibl></ab>
     </back>
 </text>

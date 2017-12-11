@@ -46,8 +46,8 @@
                       Arthur McArthur, Sr.
                         (Wisconsin lieutenant governor, governor, attorney, and judge)
                     </persName>
-                      <birth when="1815-01-26"></birth>
-                      <death when="1896-08-26"></death>
+                        <event type="birth"  when="1815-01-26"  ><ab>1815-01-26</ab></event>
+                        <event type="death"  when="1896-08-26"  ><ab>1896-08-26</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Wisconsin, Milwaukee County, Milwaukee, Ward 7, p. 29; <em>Find A Grave</em>, &quot;Arthur McArthur (1815-1896),&quot; Memorial #6869442, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=6869442&amp;ref=acom (accessed May 10, 2017); Wisconsin Historical Society, <em>Dictionary of Wisconsin History</em>, &quot;MacArthur, Arthur,&quot; (https://web.archive.org/web/20140202213422/http://www.wisconsinhistory.org/dictionary/index.asp?action=view&amp;term<em>id=2722&amp;search</em>term=mcarthur) (accessed May 10, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Wisconsin, Milwaukee County, Milwaukee, Ward 7, p. 29; <hi rend=”italic”>Find A Grave</hi>, &quot;Arthur McArthur (1815-1896),&quot; Memorial #6869442, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=6869442&amp;ref=acom (accessed May 10, 2017); Wisconsin Historical Society, <hi rend=”italic”>Dictionary of Wisconsin History</hi>, &quot;MacArthur, Arthur,&quot; (https://web.archive.org/web/20140202213422/http://www.wisconsinhistory.org/dictionary/index.asp?action=view&amp;term<hi rend=”italic”>id=2722&amp;search</hi>term=mcarthur) (accessed May 10, 2017).
 </bibl></ab>
     </back>
 </text>

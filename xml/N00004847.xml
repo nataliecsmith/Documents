@@ -46,8 +46,7 @@
                       Leroy S. Mitchell
                         (Union County constable. AKA L.S. Mitchell)
                     </persName>
-                      <birth when="c1820"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1820"  certainty="medium" ><ab>c1820</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;An act for the benefit of Leroy S. Mitchell, late constable of Union County,&quot; September 7, 1861, in <em>Journal of the House of Representatives of the Commonwealth of Kentucky</em>, (Frankfort, KY: The Yeoman Office, 1861), 60. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Union County, Caseyville, Shilo Precinct, p. 18. </p>
+        <ab><bibl>&quot;An act for the benefit of Leroy S. Mitchell, late constable of Union County,&quot; September 7, 1861, in <hi rend=”italic”>Journal of the House of Representatives of the Commonwealth of Kentucky</hi>, (Frankfort, KY: The Yeoman Office, 1861), 60. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Union County, Caseyville, Shilo Precinct, p. 18. 
 </bibl></ab>
     </back>
 </text>

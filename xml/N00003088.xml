@@ -50,8 +50,8 @@
                       Thomas Todd
                         (Shelby County, Kentucky, farmer, soldier, and politician)
                     </persName>
-                      <birth when="1820-12-20"></birth>
-                      <death when="1909-04-29"></death>
+                        <event type="birth"  when="1820-12-20"  ><ab>1820-12-20</ab></event>
+                        <event type="death"  when="1909-04-29"  ><ab>1909-04-29</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>E. Polk Johnson, <em>A History of Kentucky and Kentuckians: The Leaders and Representative Men in Commerce, Industry, and Modern Activities, Volume 3</em> (Chicago, IL: Lewis Publishing Company, 1912), p. 1501-03; Lewis Collins and Richard H. Collins, <em>History of Kentucky, Volume II</em> (Covington, KY: Collins and Company, 1878), p. 709; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Shelby County, District 1, p. 59; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Shelby County, District 1, p. 27; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Shelby County, Shelby County, Precinct 1, p. 1; &quot;Kentucky, County Marriages, 1797-1954,&quot; database with images, FamilySearch (https://familysearch.org/ark:/61903/1:1:QKJ9-LKQ2 : accessed 21 July 2017), Thomas Todd and Jane Smith, 14 Jan 1841; citing Shelby, Kentucky, United States, Madison County Courthouse, Richmond; FHL microfilm 259, 288; &quot;Kentucky Marriages, 1785-1979,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FWTY-HZD : 4 December 2014), Thomas Todd and Susan H. Jacobs, 21 Oct 1851; citing Boyle, Kentucky, reference Pg88 VoL2; FHL microfilm 191, 806; &quot;Kentucky Marriages, 1785-1979,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:F4WD-9BW : 4 December 2014), Thomas Todd and Elizabeth D. Bonney, 10 May 1860; citing , Shelby, Kentucky, reference ; FHL microfilm 259, 292.</p>
+        <ab><bibl>E. Polk Johnson, <hi rend=”italic”>A History of Kentucky and Kentuckians: The Leaders and Representative Men in Commerce, Industry, and Modern Activities, Volume 3</hi> (Chicago, IL: Lewis Publishing Company, 1912), p. 1501-03; Lewis Collins and Richard H. Collins, <hi rend=”italic”>History of Kentucky, Volume II</hi> (Covington, KY: Collins and Company, 1878), p. 709; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Shelby County, District 1, p. 59; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Shelby County, District 1, p. 27; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Shelby County, Shelby County, Precinct 1, p. 1; &quot;Kentucky, County Marriages, 1797-1954,&quot; database with images, FamilySearch (https://familysearch.org/ark:/61903/1:1:QKJ9-LKQ2 : accessed 21 July 2017), Thomas Todd and Jane Smith, 14 Jan 1841; citing Shelby, Kentucky, United States, Madison County Courthouse, Richmond; FHL microfilm 259, 288; &quot;Kentucky Marriages, 1785-1979,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FWTY-HZD : 4 December 2014), Thomas Todd and Susan H. Jacobs, 21 Oct 1851; citing Boyle, Kentucky, reference Pg88 VoL2; FHL microfilm 191, 806; &quot;Kentucky Marriages, 1785-1979,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:F4WD-9BW : 4 December 2014), Thomas Todd and Elizabeth D. Bonney, 10 May 1860; citing , Shelby, Kentucky, reference ; FHL microfilm 259, 292.
 </bibl></ab>
     </back>
 </text>

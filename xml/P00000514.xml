@@ -44,7 +44,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00000514">
                     <placeName>
                         <location>
@@ -53,7 +53,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -62,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>H.E. Everman, &quot;Paris,&quot; in <em>The Encyclopedia of Kentucky</em>, John E. Kleber, ed. (Lexington: University of Kentucky Press, 2000), pages 709-10.</p>
+        <ab><bibl>H.E. Everman, &quot;Paris,&quot; in <hi rend=”italic”>The Encyclopedia of Kentucky</hi>, John E. Kleber, ed. (Lexington: University of Kentucky Press, 2000), pages 709-10.
 </bibl></ab>
     </back>
 </text>

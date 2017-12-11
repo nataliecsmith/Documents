@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00004760">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>“Owen Co,” in <em>The Encyclopedia of Northern Kentucky</em>, eds. Paul A. Tenkotte and James C. Claypool (Lexington: University Press of Kentucky, 2009), p. 695.</p>
+        <ab><bibl>“Owen Co,” in <hi rend=”italic”>The Encyclopedia of Northern Kentucky</hi>, eds. Paul A. Tenkotte and James C. Claypool (Lexington: University Press of Kentucky, 2009), p. 695.
 </bibl></ab>
     </back>
 </text>

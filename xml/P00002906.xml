@@ -3,18 +3,18 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Elizabethtown, Kentucky</title>
+        <title level="a" type="main">Elizabethtown, Hardin County, Kentucky</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Anthony P. Curtis</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
+            <name></name>
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name></name>
+            <name>Anthony P. Curtis</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -49,7 +49,7 @@
                     <placeName>
                         <location>
                               <geo>37.7031 -85.8649</geo>
-                            <settlement>Elizabethtown, Kentucky</settlement>
+                            <settlement>Elizabethtown, Hardin County, Kentucky</settlement>
                         </location>
                     </placeName>
                 </place> 
@@ -58,7 +58,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Seat of Hardin County, Kentucky.</p>
+        <p>Seat of Hardin County.</p>
 
     </body>
     <back>

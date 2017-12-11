@@ -46,8 +46,8 @@
                       Weden O&#39;Neal
                         (Grant County and Boone County, Civil War colonel)
                     </persName>
-                      <birth when="1839-04-28"></birth>
-                      <death when="1906-09-10"></death>
+                        <event type="birth"  when="1839-04-28"  ><ab>1839-04-28</ab></event>
+                        <event type="death"  when="1906-09-10"  ><ab>1906-09-10</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Verona, Boone County, p. 235. <em>Find A Grave</em>, &quot;Col Weden O&#39;Neal (1839-1906),&quot; Memorial #96020819, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=96020819 (accessed March 17, 2017). <em>Report of the Adjutant General of the State of Kentucky</em>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 552.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Verona, Boone County, p. 235. <hi rend=”italic”>Find A Grave</hi>, &quot;Col Weden O&#39;Neal (1839-1906),&quot; Memorial #96020819, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=96020819 (accessed March 17, 2017). <hi rend=”italic”>Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort: Kentucky Yeoman Office, 1866), 552.
 </bibl></ab>
     </back>
 </text>

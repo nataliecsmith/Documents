@@ -46,8 +46,7 @@
                       D. A. Hamilton
                         (murder victim, Hardin Co.)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="1863-09-30"></death>
+                        <event type="death"  when="1863-09-30"  ><ab>1863-09-30</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-005-0006</p>
+        <ab><bibl>KYR-0001-005-0006
 </bibl></ab>
     </back>
 </text>

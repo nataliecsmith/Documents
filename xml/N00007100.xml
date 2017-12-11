@@ -46,8 +46,8 @@
                       John A. Smith
                         (Greenup County, Kentucky, farm laborer)
                     </persName>
-                      <birth when="1825-09-22"></birth>
-                      <death when="1912-05-23"></death>
+                        <event type="birth"  when="1825-09-22"  ><ab>1825-09-22</ab></event>
+                        <event type="death"  when="1912-05-23"  ><ab>1912-05-23</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 235. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Greenup County, p. 113. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Greenup County, Precinct 2, p. 10. <em>Find A Grave</em>, &quot;John Allan Smith (1825-1912),&quot; Memorial #23958236, http://www.findagrave.com/memorial/23958236/john-allan-smith (accessed June 15, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 235. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 113. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Greenup County, Precinct 2, p. 10. <hi rend=”italic”>Find A Grave</hi>, &quot;John Allan Smith (1825-1912),&quot; Memorial #23958236, http://www.findagrave.com/memorial/23958236/john-allan-smith (accessed June 15, 2017).
 </bibl></ab>
     </back>
 </text>

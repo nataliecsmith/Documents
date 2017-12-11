@@ -46,8 +46,8 @@
                       George H. Rodefer
                         (Covington, Kentucky, carpenter)
                     </persName>
-                      <birth when="1827-01-26"></birth>
-                      <death when="1866-08-03"></death>
+                        <event type="birth"  when="1827-01-26"  ><ab>1827-01-26</ab></event>
+                        <event type="death"  when="1866-08-03"  ><ab>1866-08-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Kenton County, Covington, Ward 2, p. 102. <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Kenton County, KY, June/July 1863 (Accessed via ancestry.com). <em>Find A Grave</em>, &quot;George H. Rodefer (1827-1866),&quot; Memorial #114163883, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=114163883 (accessed September 7, 2017). KYR-0001-029-0558.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington, Ward 2, p. 102. <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Kenton County, KY, June/July 1863 (Accessed via ancestry.com). <hi rend=”italic”>Find A Grave</hi>, &quot;George H. Rodefer (1827-1866),&quot; Memorial #114163883, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=114163883 (accessed September 7, 2017). KYR-0001-029-0558.
 </bibl></ab>
     </back>
 </text>

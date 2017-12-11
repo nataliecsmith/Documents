@@ -46,8 +46,8 @@
                       William C. Jenkins
                         (Maysville (Mason County) merchant)
                     </persName>
-                      <birth when="1824-12-08"></birth>
-                      <death when="1869-03-03"></death>
+                        <event type="birth"  when="1824-12-08"  ><ab>1824-12-08</ab></event>
+                        <event type="death"  when="1869-03-03"  ><ab>1869-03-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Mason County, 2nd Ward Maysville, p. 54; <em>Find A Grave</em>, &quot;William C. Jenkins (1824 - 1869),&quot; Memorial #136085071, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=136085071 (accessed October 4, 2017).</p>
+        <ab><bibl>Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Mason County, 2nd Ward Maysville, p. 54; <hi rend=”italic”>Find A Grave</hi>, &quot;William C. Jenkins (1824 - 1869),&quot; Memorial #136085071, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=136085071 (accessed October 4, 2017).
 </bibl></ab>
     </back>
 </text>

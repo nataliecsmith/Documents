@@ -46,8 +46,8 @@
                       Charles B. Tucker
                         (Breckinridge County, Kentucky, farmer)
                     </persName>
-                      <birth when="1829-04-09"></birth>
-                      <death when="1890-06-25"></death>
+                        <event type="birth"  when="1829-04-09"  ><ab>1829-04-09</ab></event>
+                        <event type="death"  when="1890-06-25"  ><ab>1890-06-25</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850),  Population Schedules, Kentucky, Breckinridge County, District 2, p. 59. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breckinridge County, District 2, p. 96. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 22. <em>Find A Grave</em>, &quot;Charles B. Tucker (1829-1890),&quot; Memorial #19010339, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=19010339 (accessed June 25, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850),  Population Schedules, Kentucky, Breckinridge County, District 2, p. 59. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, District 2, p. 96. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 22. <hi rend=”italic”>Find A Grave</hi>, &quot;Charles B. Tucker (1829-1890),&quot; Memorial #19010339, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=19010339 (accessed June 25, 2017).
 </bibl></ab>
     </back>
 </text>

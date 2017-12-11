@@ -58,8 +58,8 @@
                       Richard Hilaire Rousseau
                         (lawyer, jefferson county)
                     </persName>
-                      <birth when="1815-02-09"></birth>
-                      <death when="1872-09-14"></death>
+                        <event type="birth"  when="1815-02-09"  ><ab>1815-02-09</ab></event>
+                        <event type="death"  when="1872-09-14"  ><ab>1872-09-14</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -71,7 +71,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>The National Cyclopaedia of American Biography</em>, Vol. XII (New York: James T. White &amp; Company, 1904), 185.</p>
+        <ab><bibl><hi rend=”italic”>The National Cyclopaedia of American Biography</hi>, Vol. XII (New York: James T. White &amp; Company, 1904), 185.
 </bibl></ab>
     </back>
 </text>

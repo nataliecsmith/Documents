@@ -46,8 +46,8 @@
                       Hugh Mitchell Sparkman
                         (Crittenden County, Kentucky, farmer)
                     </persName>
-                      <birth when="1822-07-28"></birth>
-                      <death when="1905-06-15"></death>
+                        <event type="birth"  when="1822-07-28"  ><ab>1822-07-28</ab></event>
+                        <event type="death"  when="1905-06-15"  ><ab>1905-06-15</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Crittenden County, West half, p. 28; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Crittenden County, Precinct 2, p. 28; <em>Find A Grave</em>, &quot;Hugh M. Sparkman (1822-1905),&quot; Memorial #15166921, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=15166921 (accessed June 18, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Crittenden County, West half, p. 28; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Crittenden County, Precinct 2, p. 28; <hi rend=”italic”>Find A Grave</hi>, &quot;Hugh M. Sparkman (1822-1905),&quot; Memorial #15166921, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=15166921 (accessed June 18, 2017).
 </bibl></ab>
     </back>
 </text>

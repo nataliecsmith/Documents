@@ -46,8 +46,7 @@
                       James Sullivan
                         (Franklin County, Kentucky, merchant)
                     </persName>
-                      <birth when="c1834"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1834"  certainty="medium" ><ab>c1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Franklin County, District 1, p. 4. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Franklin County, District 1. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, District 1, p. 47. </p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 1, p. 4. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Franklin County, District 1. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, District 1, p. 47. 
 </bibl></ab>
     </back>
 </text>

@@ -46,8 +46,8 @@
                       Jeremiah Martin
                         (stone mason in Scott County)
                     </persName>
-                      <birth when="c1804"></birth>
-                      <death when="c1864"></death>
+                        <event type="birth"  when="1804"  certainty="medium" ><ab>c1804</ab></event>
+                        <event type="death"  when="1864"  certainty="medium" ><ab>c1864</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Scott County, District 1, p. 31.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Scott County, District 1, p. 31.
 </bibl></ab>
     </back>
 </text>

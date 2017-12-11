@@ -46,8 +46,8 @@
                       James Middaugh
                         (Greenup County, Kentucky, resident)
                     </persName>
-                      <birth when="1840-10-07"></birth>
-                      <death when="1914-01-24"></death>
+                        <event type="birth"  when="1840-10-07"  ><ab>1840-10-07</ab></event>
+                        <event type="death"  when="1914-01-24"  ><ab>1914-01-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 223. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Greenup County, p. 15. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Greenup County, Precinct 2, p. 30. <em>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</em>, Greenup County, 1914,  no. 1296, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 223. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 15. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Greenup County, Precinct 2, p. 30. <hi rend=”italic”>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, Greenup County, 1914,  no. 1296, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
 </bibl></ab>
     </back>
 </text>

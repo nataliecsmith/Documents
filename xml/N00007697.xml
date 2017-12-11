@@ -46,8 +46,8 @@
                       Valentine Butler
                         (Breckinridge County, Kentucky, farmer)
                     </persName>
-                      <birth when="1814-01-18"></birth>
-                      <death when="1892-01-19"></death>
+                        <event type="birth"  when="1814-01-18"  ><ab>1814-01-18</ab></event>
+                        <event type="death"  when="1892-01-19"  ><ab>1892-01-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Breckinridge County, District 2, p. 91. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breckinridge County, District 2, p. 96. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Breckinridge County, Dehavens, p. 5. <em>Find A Grave</em>, &quot;Valentine Butler (1814-1892),&quot; Memorial #158787832, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=158787832&amp;ref=acom (accessed June 26, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District 2, p. 91. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, District 2, p. 96. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breckinridge County, Dehavens, p. 5. <hi rend=”italic”>Find A Grave</hi>, &quot;Valentine Butler (1814-1892),&quot; Memorial #158787832, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=158787832&amp;ref=acom (accessed June 26, 2017).
 </bibl></ab>
     </back>
 </text>

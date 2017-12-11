@@ -46,8 +46,8 @@
                       William H. Yancy
                         (Marshall Co. postmaster/ livingston Co. farmer)
                     </persName>
-                      <birth when="1828-03-25"></birth>
-                      <death when="1878-04-24"></death>
+                        <event type="birth"  when="1828-03-25"  ><ab>1828-03-25</ab></event>
+                        <event type="death"  when="1878-04-24"  ><ab>1878-04-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</em>, Kentucky Department for Libraries and Archives, Frankfort, Kentucky, Roll #994048, Marshall County Marriages, p. 1. <em>Record of Appointment of Postmasters, 1832-1971</em> (National Archives Microfilm Publication, M841, Roll 47: Kentucky, Knox - Marshall Counties), Records of the Post Office Department, Record Group Number 28, NARA., p. 673. <em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Livingston County, Division 3, p. 129. <em>Find A Grave</em>, &quot;W. H. Yancy (1828-1878),&quot; Memorial #48427892, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=48427892&amp;ref=acom (accessed 14 June 2016).</p>
+        <ab><bibl><hi rend=”italic”>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, Kentucky Department for Libraries and Archives, Frankfort, Kentucky, Roll #994048, Marshall County Marriages, p. 1. <hi rend=”italic”>Record of Appointment of Postmasters, 1832-1971</hi> (National Archives Microfilm Publication, M841, Roll 47: Kentucky, Knox - Marshall Counties), Records of the Post Office Department, Record Group Number 28, NARA., p. 673. <hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Livingston County, Division 3, p. 129. <hi rend=”italic”>Find A Grave</hi>, &quot;W. H. Yancy (1828-1878),&quot; Memorial #48427892, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=48427892&amp;ref=acom (accessed 14 June 2016).
 </bibl></ab>
     </back>
 </text>

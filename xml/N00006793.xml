@@ -46,8 +46,7 @@
                       James H. Peters
                         (Campbell County, Kentucky, brick mason)
                     </persName>
-                      <birth when="c1823"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1823"  certainty="medium" ><ab>c1823</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Campbell County, District 2, p. 148. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Campbell County, Jamestown District, p. 35. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Campbell County, Dayton, p. 10.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Campbell County, District 2, p. 148. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Campbell County, Jamestown District, p. 35. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Campbell County, Dayton, p. 10.
 </bibl></ab>
     </back>
 </text>

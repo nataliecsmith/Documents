@@ -46,8 +46,7 @@
                       Ewing Litterell 
                         (killed in Wayne County)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="c1858"></death>
+                        <event type="death"  when="1858"  certainty="medium" ><ab>c1858</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-004-0025.</p>
+        <ab><bibl>KYR-0001-004-0025.
 </bibl></ab>
     </back>
 </text>

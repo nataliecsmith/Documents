@@ -46,8 +46,8 @@
                       H. P. Bozorth
                         (Grayson County, Kentucky, sheriff)
                     </persName>
-                      <birth when="1819-10-30"></birth>
-                      <death when="1895-03-12"></death>
+                        <event type="birth"  when="1819-10-30"  ><ab>1819-10-30</ab></event>
+                        <event type="death"  when="1895-03-12"  ><ab>1895-03-12</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Illinois, Sangamon, p. 2. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Grayson County, p. 13. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Grayson County, Haynes, p. 3. <em>Find A Grave</em>, &quot;Higginson Perry Bozorth (1819-1895),&quot; Memorial #19583009, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=19583009&amp;ref=acom (accessed June 23, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Illinois, Sangamon, p. 2. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grayson County, p. 13. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Grayson County, Haynes, p. 3. <hi rend=”italic”>Find A Grave</hi>, &quot;Higginson Perry Bozorth (1819-1895),&quot; Memorial #19583009, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=19583009&amp;ref=acom (accessed June 23, 2017).
 </bibl></ab>
     </back>
 </text>

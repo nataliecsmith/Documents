@@ -46,8 +46,7 @@
                       R. A. Wilkinson
                         (Lebanon (marion co) butcher)
                     </persName>
-                      <birth when="c1832"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1832"  certainty="medium" ><ab>c1832</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Consolidated Lists of Civil War Draft Registrations, 1863-1865</em>, Vol. 2, Records of the Provost Marshal General’s Bureau, Record Group 110. National Archives, Washington D.C., p. 541.</p>
+        <ab><bibl><hi rend=”italic”>Consolidated Lists of Civil War Draft Registrations, 1863-1865</hi>, Vol. 2, Records of the Provost Marshal General’s Bureau, Record Group 110. National Archives, Washington D.C., p. 541.
 </bibl></ab>
     </back>
 </text>

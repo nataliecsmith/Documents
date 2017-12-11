@@ -46,8 +46,8 @@
                       John Smith Hurt
                         (Owingsville, Kentucky, attorney and soldier)
                     </persName>
-                      <birth when="1826-05-21"></birth>
-                      <death when="1905-11-05"></death>
+                        <event type="birth"  when="1826-05-21"  ><ab>1826-05-21</ab></event>
+                        <event type="death"  when="1905-11-05"  ><ab>1905-11-05</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 661-63. John M. Gresham, comp., <em>Biographical Cyclopeida of the Commonwealth of Kentucky</em> (Chicago: John M. Gresham Company, 1896), 582-84. <em>Report of the Adjutant General of the State of Kentucky</em>, vol. 2, 1861-1866 (Frankfort, KY: Kentucky Yeomen Office for John H. Harney, 1867), p. 164. Roger D. Hunt, <em>Colonels in Blue—Indiana, Kentucky and Tennessee: A Civil War Biographical Dictionary</em> (Jefferson, N.C.: McFarland &amp; Company, Inc., 2014), 168-69.</p>
+        <ab><bibl>H. Levin, <hi rend=”italic”>The Lawyers and Lawmakers of Kentucky</hi> (Chicago: The Lewis Publishing Company, 1897), 661-63. John M. Gresham, comp., <hi rend=”italic”>Biographical Cyclopeida of the Commonwealth of Kentucky</hi> (Chicago: John M. Gresham Company, 1896), 582-84. <hi rend=”italic”>Report of the Adjutant General of the State of Kentucky</hi>, vol. 2, 1861-1866 (Frankfort, KY: Kentucky Yeomen Office for John H. Harney, 1867), p. 164. Roger D. Hunt, <hi rend=”italic”>Colonels in Blue—Indiana, Kentucky and Tennessee: A Civil War Biographical Dictionary</hi> (Jefferson, N.C.: McFarland &amp; Company, Inc., 2014), 168-69.
 </bibl></ab>
     </back>
 </text>

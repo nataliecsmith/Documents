@@ -46,8 +46,7 @@
                       William McClure
                         (Rockcastle County, Kentucky, farmer and sheriff)
                     </persName>
-                      <birth when="1811"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1811"  ><ab>1811</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Rockcastle County, Southern District, p. 168; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Rockcastle County, Mt. Vernon, p. 12; <em>Acts of the General Assembly of the Commonwealth of Kentucky, Passed at the Adjourned Session (January, 1865) Which Was Begun and Held in the City of Frankfort, on Monday, the Seventh Day of December, 1863</em> (Frankfort, KY: George D. Prentice, 1865), ch. 793, p. 170; KYR-0001-029-0527; KYR-0001-004-1335; KYR-0001-004-0215; KYR-0001-004-0387; KYR-0001-004-0567.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Rockcastle County, Southern District, p. 168; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, Mt. Vernon, p. 12; <hi rend=”italic”>Acts of the General Assembly of the Commonwealth of Kentucky, Passed at the Adjourned Session (January, 1865) Which Was Begun and Held in the City of Frankfort, on Monday, the Seventh Day of December, 1863</hi> (Frankfort, KY: George D. Prentice, 1865), ch. 793, p. 170; KYR-0001-029-0527; KYR-0001-004-1335; KYR-0001-004-0215; KYR-0001-004-0387; KYR-0001-004-0567.
 </bibl></ab>
     </back>
 </text>

@@ -50,8 +50,8 @@
                       Jefferson Brown
                         (AKA Jeff. Brown/Jeff Brown. Louisville attorney)
                     </persName>
-                      <birth when="1824-04-20"></birth>
-                      <death when="1878-11-18"></death>
+                        <event type="birth"  when="1824-04-20"  ><ab>1824-04-20</ab></event>
+                        <event type="death"  when="1878-11-18"  ><ab>1878-11-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Jeff. Brown&#39;s Body. How it Laid Mouldering in the Canal Until Dredged Out Yesterday,&quot; Louisville <em>Courier-Journal,</em> 4 Feb 1879, p. 4. &quot;Jeff. Brown&#39;s Memory: The Louisville Bar Meets and Drafts Resolutions of Respect for the Deceased Lawyer,&quot; Louisville <em>Courier-Journal,</em> 8 Feb 1879, p. 2</p>
+        <ab><bibl>&quot;Jeff. Brown&#39;s Body. How it Laid Mouldering in the Canal Until Dredged Out Yesterday,&quot; Louisville <hi rend=”italic”>Courier-Journal,</hi> 4 Feb 1879, p. 4. &quot;Jeff. Brown&#39;s Memory: The Louisville Bar Meets and Drafts Resolutions of Respect for the Deceased Lawyer,&quot; Louisville <hi rend=”italic”>Courier-Journal,</hi> 8 Feb 1879, p. 2
 </bibl></ab>
     </back>
 </text>

@@ -46,8 +46,8 @@
                       Thomas Barbee
                         (Danville, Kentucky, farmer and banker)
                     </persName>
-                      <birth when="1806-08-12"></birth>
-                      <death when="1889-02-10"></death>
+                        <event type="birth"  when="1806-08-12"  ><ab>1806-08-12</ab></event>
+                        <event type="death"  when="1889-02-10"  ><ab>1889-02-10</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Boyle County, Danville, p. 11; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedule, Kentucky, Boyle County, Danville, p. 12; <em>The Kentucky Advocate</em> (Danville, Ky.), February 15, 1889, p. 5; <em>Find A Grave</em>, &quot;Thomas Barbee (1806-1889),&quot; Memorial #38853614, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=38853614&amp;ref=acom (accessed May 9, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Boyle County, Danville, p. 11; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedule, Kentucky, Boyle County, Danville, p. 12; <hi rend=”italic”>The Kentucky Advocate</hi> (Danville, Ky.), February 15, 1889, p. 5; <hi rend=”italic”>Find A Grave</hi>, &quot;Thomas Barbee (1806-1889),&quot; Memorial #38853614, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=38853614&amp;ref=acom (accessed May 9, 2017).
 </bibl></ab>
     </back>
 </text>

@@ -54,8 +54,8 @@
                       Andrew G. Kyle
                         (Mercer County, Kentucky, farmer)
                     </persName>
-                      <birth when="1796-10-26"></birth>
-                      <death when="1872-09-08"></death>
+                        <event type="birth"  when="1796-10-26"  ><ab>1796-10-26</ab></event>
+                        <event type="death"  when="1872-09-08"  ><ab>1872-09-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +68,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Mercer County, District No. 2, p. 347; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Mercer County, District No. 2; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Mercer County, p. 31; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Mercer County, Harrodsburg, p. 7-8; &quot;Public Meeting in Mercer,&quot; <em>The Louisville Daily Courier</em> (Louisville, Ky.),  April 19, 1849, p. 2; <em>Find A Grave</em>, &quot;Andrew G. Kyle (1796-1872),&quot; Memorial #100136706, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=100136706 (accessed March 13, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, District No. 2, p. 347; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Mercer County, District No. 2; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Mercer County, p. 31; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Mercer County, Harrodsburg, p. 7-8; &quot;Public Meeting in Mercer,&quot; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.),  April 19, 1849, p. 2; <hi rend=”italic”>Find A Grave</hi>, &quot;Andrew G. Kyle (1796-1872),&quot; Memorial #100136706, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=100136706 (accessed March 13, 2017).
 </bibl></ab>
     </back>
 </text>

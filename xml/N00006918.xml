@@ -50,8 +50,7 @@
                       Willis Reynolds
                         (Hart County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1808"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1808"  certainty="medium" ><ab>c1808</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hart County, p. 208. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hart County, District 2, p. 32. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hart County, Munfordville, p. 13.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hart County, p. 208. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hart County, District 2, p. 32. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hart County, Munfordville, p. 13.
 </bibl></ab>
     </back>
 </text>

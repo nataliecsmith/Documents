@@ -46,8 +46,7 @@
                       Francis M. Miller
                         (Anderson County, Kentucky, farmer and trader)
                     </persName>
-                      <birth when="c1829"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1829"  certainty="medium" ><ab>c1829</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Anderson County, p. 191; <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Anderson County, KY, p. 306, (Accessed via ancestry.com).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Anderson County, p. 191; <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Anderson County, KY, p. 306, (Accessed via ancestry.com).
 </bibl></ab>
     </back>
 </text>

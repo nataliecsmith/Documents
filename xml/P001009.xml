@@ -36,7 +36,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P001009">
                     <placeName>
                         <location>
@@ -45,7 +45,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -54,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Rex D. Honey and Neil E. Salisbury, &quot;Iowa&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/Iowa-state) (accessed May 22, 2017).</p>
+        <ab><bibl>Rex D. Honey and Neil E. Salisbury, &quot;Iowa&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/Iowa-state) (accessed May 22, 2017).
 </bibl></ab>
     </back>
 </text>

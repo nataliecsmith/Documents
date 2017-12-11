@@ -50,8 +50,8 @@
                       James Harvey Hall
                         (Powell County, Kentucky, farmer)
                     </persName>
-                      <birth when="1814-11-28"></birth>
-                      <death when="1890-05-04"></death>
+                        <event type="birth"  when="1814-11-28"  ><ab>1814-11-28</ab></event>
+                        <event type="death"  when="1890-05-04"  ><ab>1890-05-04</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Montgomery County, District 2, p. 52; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Powell County, p. 23; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Powell County, Precinct 2, Subdivision 144, p. 135; <em>Kentucky, County Marriages, 1783-1965</em>, Ancestry, Estill County, 1838. Francis Vincent, ed., <em>Vincent’s Semi-Annual United States Register: A Work in Which the Principal Events of Every Half-Year Occurring in the United States Are Recorded, Each Arranged Under the Day of its Date. This Volume Contains the Events Transpiring Between the 1st of January and 1st of July, 1860</em> (Philadelphia, PA: Francis Vincent, 1860), p. 243; <em>Find A Grave</em>, &quot;James Harvey Hall (1814-1890),&quot; Memorial #24007598, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=24007598 (accessed August 24, 2017); KYR-0001-029-0545; KYR-0001-004-0463.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Montgomery County, District 2, p. 52; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Powell County, p. 23; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Powell County, Precinct 2, Subdivision 144, p. 135; <hi rend=”italic”>Kentucky, County Marriages, 1783-1965</hi>, Ancestry, Estill County, 1838. Francis Vincent, ed., <hi rend=”italic”>Vincent’s Semi-Annual United States Register: A Work in Which the Principal Events of Every Half-Year Occurring in the United States Are Recorded, Each Arranged Under the Day of its Date. This Volume Contains the Events Transpiring Between the 1st of January and 1st of July, 1860</hi> (Philadelphia, PA: Francis Vincent, 1860), p. 243; <hi rend=”italic”>Find A Grave</hi>, &quot;James Harvey Hall (1814-1890),&quot; Memorial #24007598, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=24007598 (accessed August 24, 2017); KYR-0001-029-0545; KYR-0001-004-0463.
 </bibl></ab>
     </back>
 </text>

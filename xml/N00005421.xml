@@ -46,7 +46,7 @@
                       William Gardner
                         (judge of Hart County Court)
                     </persName>
-                      <birth when="c1821"></birth>
+                        <event type="birth"  when="1821"  certainty="medium" ><ab>c1821</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, [State], Hart, Munfordville, p. 4.</p>
+        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, [State], Hart, Munfordville, p. 4.
 </bibl></ab>
     </back>
 </text>

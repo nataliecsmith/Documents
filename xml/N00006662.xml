@@ -46,8 +46,7 @@
                       Robert L. Allison
                         (Logan County, Kentucky, farm laborer)
                     </persName>
-                      <birth when="c1800"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1800"  certainty="medium" ><ab>c1800</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Logan County, District 1, p. 42. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Logan County, Fillmore, p. 33.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Logan County, District 1, p. 42. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Logan County, Fillmore, p. 33.
 </bibl></ab>
     </back>
 </text>

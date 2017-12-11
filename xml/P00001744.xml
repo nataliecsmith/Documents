@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00001744">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>History of Parke and Vermillion Counties Indiana</em> (Indianapolis: B. F. Bowen &amp; Company, 1913).</p>
+        <ab><bibl><hi rend=”italic”>History of Parke and Vermillion Counties Indiana</hi> (Indianapolis: B. F. Bowen &amp; Company, 1913).
 </bibl></ab>
     </back>
 </text>

@@ -50,8 +50,8 @@
                       William T. Kennedy
                         (Todd County, Kentucky, wool carder)
                     </persName>
-                      <birth when="1805-07-19"></birth>
-                      <death when="1877-06-12"></death>
+                        <event type="birth"  when="1805-07-19"  ><ab>1805-07-19</ab></event>
+                        <event type="death"  when="1877-06-12"  ><ab>1877-06-12</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Todd County, p. 10. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Todd County, District 4, p. 14. Jordan Dodd, <em>Kentucky Marriages, 1802-1850</em>, Ancestry, Todd County, 1823. Jordan Dodd, <em>Kentucky Marriages, 1802-1850</em>, Ancestry, Todd County, Kentucky, 1861. <em>Find A Grave</em>, &quot;William Thompson Kennedy (1805-1877),&quot; Memorial #47516878, http://www.findagrave.com/memorial/47516878/william-thompson-kennedy (accessed March 23, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Todd County, p. 10. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Todd County, District 4, p. 14. Jordan Dodd, <hi rend=”italic”>Kentucky Marriages, 1802-1850</hi>, Ancestry, Todd County, 1823. Jordan Dodd, <hi rend=”italic”>Kentucky Marriages, 1802-1850</hi>, Ancestry, Todd County, Kentucky, 1861. <hi rend=”italic”>Find A Grave</hi>, &quot;William Thompson Kennedy (1805-1877),&quot; Memorial #47516878, http://www.findagrave.com/memorial/47516878/william-thompson-kennedy (accessed March 23, 2017).
 </bibl></ab>
     </back>
 </text>

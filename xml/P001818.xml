@@ -44,7 +44,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P001818">
                     <placeName>
                         <location>
@@ -53,7 +53,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -62,9 +62,9 @@
 
     </body>
     <back>
-        <ab><bibl><p>David J. Bodenhamer and Robert G. Barrows, ed. <em>Encyclopedia of Indianapolis</em> (Bloomington, Ind.: Indiana University Press, 1994),52; </p>
+        <ab><bibl>David J. Bodenhamer and Robert G. Barrows, ed. <hi rend=”italic”>Encyclopedia of Indianapolis</hi> (Bloomington, Ind.: Indiana University Press, 1994),52; 
 
-<p>William Vincent D&#39;Antonio and Robert L. Beck, &quot;Indiana,&quot; <em>Encyclopædia Britannica</em>, https://www.britannica.com/place/Indiana-state (accessed September 11, 2017).</p>
+William Vincent D&#39;Antonio and Robert L. Beck, &quot;Indiana,&quot; <hi rend=”italic”>Encyclopædia Britannica</hi>, https://www.britannica.com/place/Indiana-state (accessed September 11, 2017).
 </bibl></ab>
     </back>
 </text>

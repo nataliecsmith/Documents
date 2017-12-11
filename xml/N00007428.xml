@@ -46,8 +46,7 @@
                       William White
                         (Ballard County, Kentucky, farmer and deputy sheriff)
                     </persName>
-                      <birth when="c1825"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1825"  certainty="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Ballard County, p. 267. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, Picketts District, p. 65. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Ballard County, District 5, p. 15.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, p. 267. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Picketts District, p. 65. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, District 5, p. 15.
 </bibl></ab>
     </back>
 </text>

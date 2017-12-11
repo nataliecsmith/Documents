@@ -46,8 +46,8 @@
                       Bazzel Standrod
                         (Trigg County, Kentucky, farmer and magistrate)
                     </persName>
-                      <birth when="1797-12-18"></birth>
-                      <death when="1869-03-11"></death>
+                        <event type="birth"  when="1797-12-18"  ><ab>1797-12-18</ab></event>
+                        <event type="death"  when="1869-03-11"  ><ab>1869-03-11</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Trigg County, 1st District, p. 321A; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedule, Kentucky, Trigg County, District 1, p. 16-17; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Trigg County, p. 50; <em>Find A Grave</em>, &quot;Bazzel Standrod (1797-1869),&quot; Memorial #49596408, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=49596408&amp;ref=acom (accessed March 9, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, 1st District, p. 321A; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedule, Kentucky, Trigg County, District 1, p. 16-17; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Trigg County, p. 50; <hi rend=”italic”>Find A Grave</hi>, &quot;Bazzel Standrod (1797-1869),&quot; Memorial #49596408, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=49596408&amp;ref=acom (accessed March 9, 2017).
 </bibl></ab>
     </back>
 </text>

@@ -46,8 +46,8 @@
                       William J. Marshall, Sr.
                         (Henderson County, Kentucky, planter)
                     </persName>
-                      <birth when="1827-12-26"></birth>
-                      <death when="1894-07-23"></death>
+                        <event type="birth"  when="1827-12-26"  ><ab>1827-12-26</ab></event>
+                        <event type="death"  when="1894-07-23"  ><ab>1894-07-23</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Henderson County, Henderson, District 1, p. 271; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Henderson County, Henderson, Division 1, p. 144; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Henderson County, Henderson, Division 1, p. 147; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Henderson County, Henderson, Ward 2, p. 3; <em>Kentucky Birth, Marriage, and Death Records, 1852-1910</em>, Ancestry, Marriages, Henderson County, Kentucky, February 22, 1853.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Henderson County, Henderson, District 1, p. 271; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henderson County, Henderson, Division 1, p. 144; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Henderson County, Henderson, Division 1, p. 147; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Henderson County, Henderson, Ward 2, p. 3; <hi rend=”italic”>Kentucky Birth, Marriage, and Death Records, 1852-1910</hi>, Ancestry, Marriages, Henderson County, Kentucky, February 22, 1853.
 </bibl></ab>
     </back>
 </text>

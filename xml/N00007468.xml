@@ -46,8 +46,7 @@
                       Jackson J. Hall
                         (Ballard County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1816"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1816"  certainty="medium" ><ab>c1816</ab></event>
                         <trait type="race" subtype="White"/>
                         <trait type="race" subtype="Indian"/>
                       <trait type="gender" subtype="M"/>
@@ -61,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Ballard County, p. 270. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, Blandville, p. 11. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Ballard County, District 3, p. 2.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, p. 270. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Blandville, p. 11. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, District 3, p. 2.
 </bibl></ab>
     </back>
 </text>

@@ -46,8 +46,6 @@
                       David Smith
                         (Bracken County)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,7 +57,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Bracken County, Unnamed District.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Bracken County, Unnamed District.
 </bibl></ab>
     </back>
 </text>

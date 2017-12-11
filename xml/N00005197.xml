@@ -50,8 +50,7 @@
                       Lewis Higgenbotton
                         ()
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="1863-02-10"></death>
+                        <event type="death"  when="1863-02-10"  ><ab>1863-02-10</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -63,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-005-0010</p>
+        <ab><bibl>KYR-0001-005-0010
 </bibl></ab>
     </back>
 </text>

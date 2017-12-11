@@ -46,8 +46,7 @@
                       James J. Long
                         (Franklin County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1823"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1823"  certainty="medium" ><ab>c1823</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850),  Population Schedules, Kentucky, Franklin County, District 1, p. 7. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, District 1, p. 42. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Franklin County, Peaks Mill, p. 9.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850),  Population Schedules, Kentucky, Franklin County, District 1, p. 7. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, District 1, p. 42. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Franklin County, Peaks Mill, p. 9.
 </bibl></ab>
     </back>
 </text>

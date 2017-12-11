@@ -46,8 +46,8 @@
                       John B. D. Cogswell
                         (Wisconsin attorney)
                     </persName>
-                      <birth when="1829-06-06"></birth>
-                      <death when="1889-06-11"></death>
+                        <event type="birth"  when="1829-06-06"  ><ab>1829-06-06</ab></event>
+                        <event type="death"  when="1889-06-11"  ><ab>1889-06-11</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Wisconsin, Milwaukee County, Milwaukee, p. 110; John Bear Doane Cogswell Papers, American Antiquarian Society, Manuscript Collections, (http://www.americanantiquarian.org/Findingaids/john<em>bear</em>doane_cogswell.pdf) (accessed May 10, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Wisconsin, Milwaukee County, Milwaukee, p. 110; John Bear Doane Cogswell Papers, American Antiquarian Society, Manuscript Collections, (http://www.americanantiquarian.org/Findingaids/john<hi rend=”italic”>bear</hi>doane_cogswell.pdf) (accessed May 10, 2017).
 </bibl></ab>
     </back>
 </text>

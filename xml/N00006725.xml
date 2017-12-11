@@ -46,8 +46,8 @@
                       Archibald Carson
                         (Crab Orchard, Kentucky, constable, soldier, and justice of the peace)
                     </persName>
-                      <birth when="c1821"></birth>
-                      <death when="1897-06-18"></death>
+                        <event type="birth"  when="1821"  certainty="medium" ><ab>c1821</ab></event>
+                        <event type="death"  when="1897-06-18"  ><ab>1897-06-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedule, Kentucky, Lincoln County, District 2, p. 49.; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Lincoln County, Crab Orchard, p. 1; <em>Ninth Manuscript Census of the United States</em> (1870), Population schedule, Kentucky, Lincoln County, Crab Orchard, p. 5; <em>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</em>, NARA RG 94, Microfilm Series M397, Roll 0472; <em>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</em>, NARA RG 94, Microfilm Series M397, Roll 0088; <em>Find A Grave</em>, &quot;Arch Carson (1821-1897),&quot; Memorial #95240322, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=95240322&amp;ref=acom (accessed May 30, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedule, Kentucky, Lincoln County, District 2, p. 49.; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Lincoln County, Crab Orchard, p. 1; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population schedule, Kentucky, Lincoln County, Crab Orchard, p. 5; <hi rend=”italic”>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0472; <hi rend=”italic”>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0088; <hi rend=”italic”>Find A Grave</hi>, &quot;Arch Carson (1821-1897),&quot; Memorial #95240322, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=95240322&amp;ref=acom (accessed May 30, 2017).
 </bibl></ab>
     </back>
 </text>

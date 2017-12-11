@@ -46,8 +46,8 @@
                       Reverdy Johnson
                         (Baltimore, Maryland, attorney and politician)
                     </persName>
-                      <birth when="1796-05-21"></birth>
-                      <death when="1876-02-10"></death>
+                        <event type="birth"  when="1796-05-21"  ><ab>1796-05-21</ab></event>
+                        <event type="death"  when="1876-02-10"  ><ab>1876-02-10</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Biographical Directory of the United States Congress, &quot;Johnson, Reverdy,&quot; (http://bioguide.congress.gov/scripts/biodisplay.pl?index=j000169) (accessed May 8, 2017); <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Baltimore County, 10th Ward Baltimore City, p. 100B;<em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Baltimore County, 1st District, p. 174.</p>
+        <ab><bibl>Biographical Directory of the United States Congress, &quot;Johnson, Reverdy,&quot; (http://bioguide.congress.gov/scripts/biodisplay.pl?index=j000169) (accessed May 8, 2017); <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Baltimore County, 10th Ward Baltimore City, p. 100B;<hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Baltimore County, 1st District, p. 174.
 </bibl></ab>
     </back>
 </text>

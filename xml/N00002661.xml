@@ -50,8 +50,8 @@
                       John Lapsley McKee
                         (Louisville Presby. Reverend)
                     </persName>
-                      <birth when="1827-02-16"></birth>
-                      <death when="1902"></death>
+                        <event type="birth"  when="1827-02-16"  ><ab>1827-02-16</ab></event>
+                        <event type="death"  when="1902"  ><ab>1902</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>The Biographical Encyclopaedia of Kentucky of the Dead and Living Men of the Nineteenth Century</em> (Cincinnati: J. M. Armstrong &amp; Company, 1878), 288. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Adair County, Town of Columbia Division 1, p. 2. <em>Find A Grave</em>, &quot;John Lapsley McKee (1827-1902),&quot; Memorial #42523010, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=42523010&amp;ref=acom (accessed August, 8, 2017).</p>
+        <ab><bibl><hi rend=”italic”>The Biographical Encyclopaedia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi> (Cincinnati: J. M. Armstrong &amp; Company, 1878), 288. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Adair County, Town of Columbia Division 1, p. 2. <hi rend=”italic”>Find A Grave</hi>, &quot;John Lapsley McKee (1827-1902),&quot; Memorial #42523010, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=42523010&amp;ref=acom (accessed August, 8, 2017).
 </bibl></ab>
     </back>
 </text>

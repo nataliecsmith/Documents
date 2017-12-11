@@ -46,8 +46,8 @@
                       John Hunt Morgan
                         (Lexington, Kentucky, hemp manufacturer and soldier)
                     </persName>
-                      <birth when="1825-06-01"></birth>
-                      <death when="1864-09-04"></death>
+                        <event type="birth"  when="1825-06-01"  ><ab>1825-06-01</ab></event>
+                        <event type="death"  when="1864-09-04"  ><ab>1864-09-04</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>James A. Ramage, “Morgan, John Hunt,” in <em>The Kentucky Encyclopedia</em>, ed. John E. Kleber (Lexington: University Press of Kentucky, 2015), p. 650-651; James A. Ramage, <em>Rebel Raider: The Life of General John Hunt Morgan</em> (Lexington: University Press of Kentucky, 1986).</p>
+        <ab><bibl>James A. Ramage, “Morgan, John Hunt,” in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, ed. John E. Kleber (Lexington: University Press of Kentucky, 2015), p. 650-651; James A. Ramage, <hi rend=”italic”>Rebel Raider: The Life of General John Hunt Morgan</hi> (Lexington: University Press of Kentucky, 1986).
 </bibl></ab>
     </back>
 </text>

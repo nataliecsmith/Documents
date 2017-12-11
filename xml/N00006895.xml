@@ -46,8 +46,7 @@
                       William Richardson
                         (Hart County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1797"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1797"  certainty="medium" ><ab>c1797</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hart County, p. 253. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Hart County, 437. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hart County, District 2, p. 27. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Hart County, Division 2, p. 2. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hart County, Munfordville, p. 8. <em>Virginia, Compiled Marriages, 1740-1850</em>, Ancestry, Halifax County, 1821.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hart County, p. 253. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Hart County, 437. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hart County, District 2, p. 27. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Hart County, Division 2, p. 2. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hart County, Munfordville, p. 8. <hi rend=”italic”>Virginia, Compiled Marriages, 1740-1850</hi>, Ancestry, Halifax County, 1821.
 </bibl></ab>
     </back>
 </text>

@@ -46,8 +46,8 @@
                       James Nelson
                         (Grayson County, Kentucky, farmer)
                     </persName>
-                      <birth when="1813-05-03"></birth>
-                      <death when="1897-01-26"></death>
+                        <event type="birth"  when="1813-05-03"  ><ab>1813-05-03</ab></event>
+                        <event type="death"  when="1897-01-26"  ><ab>1897-01-26</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Grayson County, p. 6. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Grayson County, p. 20. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hardin County, Stephensburg, p. 392. <em>Find A Grave</em>, &quot;James Nelson, Sr. (1813-1897),&quot; Memorial #21312589, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=21312589 (accessed June 26, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Grayson County, p. 6. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grayson County, p. 20. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hardin County, Stephensburg, p. 392. <hi rend=”italic”>Find A Grave</hi>, &quot;James Nelson, Sr. (1813-1897),&quot; Memorial #21312589, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=21312589 (accessed June 26, 2017).
 </bibl></ab>
     </back>
 </text>

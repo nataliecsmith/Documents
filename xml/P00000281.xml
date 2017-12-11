@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00000281">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Robert M. Rennick, <em>Kentucky Place Names</em> (Lexington: University Press of Kentucky, 1984), 10; “Augusta,” in <em>The Kentucky Encyclopedia</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 41-42.</p>
+        <ab><bibl>Robert M. Rennick, <hi rend=”italic”>Kentucky Place Names</hi> (Lexington: University Press of Kentucky, 1984), 10; “Augusta,” in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 41-42.
 </bibl></ab>
     </back>
 </text>

@@ -46,8 +46,8 @@
                       Samuel James Cox
                         (Marshall County farmer)
                     </persName>
-                      <birth when="1809"></birth>
-                      <death when="1870"></death>
+                        <event type="birth"  when="1809"  ><ab>1809</ab></event>
+                        <event type="death"  when="1870"  ><ab>1870</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marshall County, Birmingham post office, p. 145; <em>Find A Grave</em>, &quot;Samuel James Cox (1809 - 1870),&quot; Memorial #30740228, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=30740228 (accessed July 9, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, Birmingham post office, p. 145; <hi rend=”italic”>Find A Grave</hi>, &quot;Samuel James Cox (1809 - 1870),&quot; Memorial #30740228, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=30740228 (accessed July 9, 2017).
 </bibl></ab>
     </back>
 </text>

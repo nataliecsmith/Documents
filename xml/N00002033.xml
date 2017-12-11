@@ -46,8 +46,8 @@
                       Luther Thayer Thustin
                         (Louisville US Army Paymaster)
                     </persName>
-                      <birth when="1817"></birth>
-                      <death when="1899"></death>
+                        <event type="birth"  when="1817"  ><ab>1817</ab></event>
+                        <event type="death"  when="1899"  ><ab>1899</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, 4th Ward City of Louisville, p. 87; Henry Tanner, ed., <em>Tanner’s Louisville Directory and Business Advertiser for 1861</em> (Louisville: Directory Publication and Advertising Agency, 1861), 246; <em>History of the Ohio Falls Cities and Their Counties</em>, vol. I (Cleveland: L.A. Williams &amp; Company, 1882), 98; Luther Thayer Thustin Papers, 1849-1887, A/T547, Filson Historical Society.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, 4th Ward City of Louisville, p. 87; Henry Tanner, ed., <hi rend=”italic”>Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 246; <hi rend=”italic”>History of the Ohio Falls Cities and Their Counties</hi>, vol. I (Cleveland: L.A. Williams &amp; Company, 1882), 98; Luther Thayer Thustin Papers, 1849-1887, A/T547, Filson Historical Society.
 </bibl></ab>
     </back>
 </text>

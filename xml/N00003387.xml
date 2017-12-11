@@ -46,8 +46,8 @@
                       William Rader
                         (Jackson County, Kentucky, farmer, soldier, and justice of the peace)
                     </persName>
-                      <birth when="1834-03-20"></birth>
-                      <death when="1917-07-15"></death>
+                        <event type="birth"  when="1834-03-20"  ><ab>1834-03-20</ab></event>
+                        <event type="death"  when="1917-07-15"  ><ab>1917-07-15</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</em>, NARA RG 94, Microfilm Series M397, Roll 0071; <em>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</em>, NARA RG 94, Microfilm Series M397, Roll 0021; <em>Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</em>. Microfilm roll #7016201. Kentucky Department for Libraries and Archives, Frankfort, Kentucky, Certificate# 33164 (accessed via Ancestry.com); <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Kentucky, Jackson County, Sturgeon, p. 8; KYR-0001-007-0340.</p>
+        <ab><bibl><hi rend=”italic”>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0071; <hi rend=”italic”>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0021; <hi rend=”italic”>Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</hi>. Microfilm roll #7016201. Kentucky Department for Libraries and Archives, Frankfort, Kentucky, Certificate# 33164 (accessed via Ancestry.com); <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Jackson County, Sturgeon, p. 8; KYR-0001-007-0340.
 </bibl></ab>
     </back>
 </text>

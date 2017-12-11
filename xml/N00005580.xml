@@ -46,8 +46,8 @@
                       Wheeler H. Peckham
                         (New York, Wisconsin, and Minnesota, attorney)
                     </persName>
-                      <birth when="1833-01-01"></birth>
-                      <death when="1905-09-27"></death>
+                        <event type="birth"  when="1833-01-01"  ><ab>1833-01-01</ab></event>
+                        <event type="death"  when="1905-09-27"  ><ab>1905-09-27</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Minnesota, Ramsey County, St. Paul, p. 79; Edward Patterson, <em>Memorial of Wheeler Hazard Peckham,</em> Association of the Bar of the City of New York, May 8, 1906.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Minnesota, Ramsey County, St. Paul, p. 79; Edward Patterson, <hi rend=”italic”>Memorial of Wheeler Hazard Peckham,</hi> Association of the Bar of the City of New York, May 8, 1906.
 </bibl></ab>
     </back>
 </text>

@@ -46,8 +46,7 @@
                       John W. Chandler
                         (Lebanon (marion co) merchant)
                     </persName>
-                      <birth when="1806"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1806"  ><ab>1806</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marion County, Lebanon District 2, p. 107.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, Lebanon District 2, p. 107.
 </bibl></ab>
     </back>
 </text>

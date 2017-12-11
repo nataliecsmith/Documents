@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00005650">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Santa Fe&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/Santa-Fe-New-Mexico) (accessed May 11, 2017).</p>
+        <ab><bibl>&quot;Santa Fe&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/Santa-Fe-New-Mexico) (accessed May 11, 2017).
 </bibl></ab>
     </back>
 </text>

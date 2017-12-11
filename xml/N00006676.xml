@@ -46,8 +46,8 @@
                       John M. Henderson 
                         (Lykins County, Kansas, farmer)
                     </persName>
-                      <birth when="1821-11-18"></birth>
-                      <death when="1871-06-29"></death>
+                        <event type="birth"  when="1821-11-18"  ><ab>1821-11-18</ab></event>
+                        <event type="death"  when="1871-06-29"  ><ab>1871-06-29</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Logan County, District 1, p. 36. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kansas, Lykins County, Middle Creek, p. 106.  <em>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</em>, Microfilm rolls #994027-994058, Logan County, 1855, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. <em>Find A Grave</em>, &quot;John Monroe Henderson (1821-1871),&quot; Memorial #94581774, http://www.findagrave.com/memorial/94581774/john-monroe-henderson (accessed May 28, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Logan County, District 1, p. 36. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kansas, Lykins County, Middle Creek, p. 106.  <hi rend=”italic”>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, Microfilm rolls #994027-994058, Logan County, 1855, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. <hi rend=”italic”>Find A Grave</hi>, &quot;John Monroe Henderson (1821-1871),&quot; Memorial #94581774, http://www.findagrave.com/memorial/94581774/john-monroe-henderson (accessed May 28, 2017).
 </bibl></ab>
     </back>
 </text>

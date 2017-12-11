@@ -46,8 +46,8 @@
                       Robert Payne
                         (Breckinridge County, Kentucky, farmer)
                     </persName>
-                      <birth when="1813-12-05"></birth>
-                      <death when="1897-09-08"></death>
+                        <event type="birth"  when="1813-12-05"  ><ab>1813-12-05</ab></event>
+                        <event type="death"  when="1897-09-08"  ><ab>1897-09-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em> (Louisville: F. A. Battey and Company, 1887), 1080. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breckinridge County, District 1, p. 35. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 3. <em>Find A Grave</em>, &quot;Robert Payne (1813-1897),&quot; Memorial #86871829, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86871829&amp;ref=acom (accessed June 25, 2017).</p>
+        <ab><bibl>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi> (Louisville: F. A. Battey and Company, 1887), 1080. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, District 1, p. 35. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 3. <hi rend=”italic”>Find A Grave</hi>, &quot;Robert Payne (1813-1897),&quot; Memorial #86871829, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86871829&amp;ref=acom (accessed June 25, 2017).
 </bibl></ab>
     </back>
 </text>

@@ -46,8 +46,7 @@
                       John T. Ralston
                         (Resident of Kentucky in 1863)
                     </persName>
-                      <birth when="c1825"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1825"  certainty="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Tenth Manuscript Census of the United States</em> (1880), Population Schedules, Kentucky, Carroll County, Sanders, p. 34; <em>Kentucky, Birth Records, 1847-1911</em>, Ancestry, Births, Gallatin County, Kentucky, Ohio River, 1853; KYR-0001-029-0554.</p>
+        <ab><bibl><hi rend=”italic”>Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Carroll County, Sanders, p. 34; <hi rend=”italic”>Kentucky, Birth Records, 1847-1911</hi>, Ancestry, Births, Gallatin County, Kentucky, Ohio River, 1853; KYR-0001-029-0554.
 </bibl></ab>
     </back>
 </text>

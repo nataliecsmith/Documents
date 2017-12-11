@@ -46,8 +46,8 @@
                       Stephen Henry Doom
                         (Lyon County, Kentucky, farmer)
                     </persName>
-                      <birth when="1825-10-02"></birth>
-                      <death when="1893-04-19"></death>
+                        <event type="birth"  when="1825-10-02"  ><ab>1825-10-02</ab></event>
+                        <event type="death"  when="1893-04-19"  ><ab>1893-04-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Lyon County, p. 24; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Lyon County, District 1, p. 64; <em>Find A Grave</em>, &quot;Stephen Henry Doom (1825-1893),&quot; Memorial #131676332, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=131676332 (accessed June 18, 2017); &quot;Kentucky Death Records, 1911-1962,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:NSW9-WQW : 20 October 2016), Stephen Doom in entry for William P. Doom, 1933; citing , Muhlenberg, Kentucky, United States, Office of Vital Statistics, Frankfort; FHL microfilm 1,913,113.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, p. 24; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lyon County, District 1, p. 64; <hi rend=”italic”>Find A Grave</hi>, &quot;Stephen Henry Doom (1825-1893),&quot; Memorial #131676332, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=131676332 (accessed June 18, 2017); &quot;Kentucky Death Records, 1911-1962,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:NSW9-WQW : 20 October 2016), Stephen Doom in entry for William P. Doom, 1933; citing , Muhlenberg, Kentucky, United States, Office of Vital Statistics, Frankfort; FHL microfilm 1,913,113.
 </bibl></ab>
     </back>
 </text>

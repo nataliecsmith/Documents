@@ -46,8 +46,8 @@
                       John James Orr
                         (County Atty., Carroll Co.)
                     </persName>
-                      <birth when="1832-05-21"></birth>
-                      <death when="1909-07-27"></death>
+                        <event type="birth"  when="1832-05-21"  ><ab>1832-05-21</ab></event>
+                        <event type="death"  when="1909-07-27"  ><ab>1909-07-27</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Carroll County, Ghent Magistrate District District No. 1, p. 14; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Carroll County, Carrollton, p. 5; &quot;Judge Orr Dies at Carrollton,&quot; <em>Louisville Courier-Journal</em> July 28, 1909, p. 8; <em>Find A Grave</em>, &quot;Judge John James Orr (1832 - 1909),&quot; Memorial #22773786, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=22773786 (accessed 7 May 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carroll County, Ghent Magistrate District District No. 1, p. 14; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Carroll County, Carrollton, p. 5; &quot;Judge Orr Dies at Carrollton,&quot; <hi rend=”italic”>Louisville Courier-Journal</hi> July 28, 1909, p. 8; <hi rend=”italic”>Find A Grave</hi>, &quot;Judge John James Orr (1832 - 1909),&quot; Memorial #22773786, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=22773786 (accessed 7 May 2017).
 </bibl></ab>
     </back>
 </text>

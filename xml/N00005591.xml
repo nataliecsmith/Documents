@@ -46,8 +46,8 @@
                       Winfield Smith
                         (Milwaukee, Wisconsin, attorney general)
                     </persName>
-                      <birth when="c1828"></birth>
-                      <death when="1899-11-08"></death>
+                        <event type="birth"  when="1828"  certainty="medium" ><ab>c1828</ab></event>
+                        <event type="death"  when="1899-11-08"  ><ab>1899-11-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Wisconsin, Milwaukee County, Milwaukee, Ward 4, p. 73.; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Wisconsin, Milwaukee County, Milwaukee, Ward 7, p. 23.; <em>Janesville Weekly Gazette</em> (Janesville, Wis.), October 30, 1863, p. 3;  <em>The Daily Milwaukee News</em> (Milwaukee, Wis.), October 9, 1855, p. 4; &quot;Died in London,&quot; <em>The Weekly Wisconsin</em> (Milwaukee, Wis.), November 11, 1899, p. 4.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Wisconsin, Milwaukee County, Milwaukee, Ward 4, p. 73.; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Wisconsin, Milwaukee County, Milwaukee, Ward 7, p. 23.; <hi rend=”italic”>Janesville Weekly Gazette</hi> (Janesville, Wis.), October 30, 1863, p. 3;  <hi rend=”italic”>The Daily Milwaukee News</hi> (Milwaukee, Wis.), October 9, 1855, p. 4; &quot;Died in London,&quot; <hi rend=”italic”>The Weekly Wisconsin</hi> (Milwaukee, Wis.), November 11, 1899, p. 4.
 </bibl></ab>
     </back>
 </text>

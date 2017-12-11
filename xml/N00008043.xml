@@ -46,8 +46,8 @@
                       Levi T. Dix
                         (Bracken County river pilot)
                     </persName>
-                      <birth when="1825"></birth>
-                      <death when="1893-04-15"></death>
+                        <event type="birth"  when="1825"  ><ab>1825</ab></event>
+                        <event type="death"  when="1893-04-15"  ><ab>1893-04-15</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bracken County, District No. 1, p. 69; <em>Find A Grave</em>, &quot;Levi T Dix (1825 - 1893),&quot; Memorial #116634837, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=116634837 (accessed July 20, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bracken County, District No. 1, p. 69; <hi rend=”italic”>Find A Grave</hi>, &quot;Levi T Dix (1825 - 1893),&quot; Memorial #116634837, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=116634837 (accessed July 20, 2017).
 </bibl></ab>
     </back>
 </text>

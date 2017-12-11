@@ -46,8 +46,8 @@
                       Andrew G. Miller
                         (Wisconsin associate justice and judge)
                     </persName>
-                      <birth when="1801-09-18"></birth>
-                      <death when="1874-09-30"></death>
+                        <event type="birth"  when="1801-09-18"  ><ab>1801-09-18</ab></event>
+                        <event type="death"  when="1874-09-30"  ><ab>1874-09-30</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Wisconsin, Milwaukee County, Milwaukee, Ward 7, p. 35; Federal Judicial Center, History of the Federal Judiciary, Judges, &quot;Miller, Andrew Galbraith,&quot; (https://www.fjc.gov/history/judges/miller-andrew-galbraith) (accessed May 10, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Wisconsin, Milwaukee County, Milwaukee, Ward 7, p. 35; Federal Judicial Center, History of the Federal Judiciary, Judges, &quot;Miller, Andrew Galbraith,&quot; (https://www.fjc.gov/history/judges/miller-andrew-galbraith) (accessed May 10, 2017).
 </bibl></ab>
     </back>
 </text>

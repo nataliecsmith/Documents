@@ -46,8 +46,8 @@
                       James T. Edmonds
                         (Lebanon (marion co) store clerk)
                     </persName>
-                      <birth when="1839-04-29"></birth>
-                      <death when="1922-07-29"></death>
+                        <event type="birth"  when="1839-04-29"  ><ab>1839-04-29</ab></event>
+                        <event type="death"  when="1922-07-29"  ><ab>1922-07-29</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Marion County, Lebanon District 1, p. 37. <em>Vital Statistics Original Death Certificates – Microfilm (1911-1955)</em>, Kentucky Department for Libraries and Archives, Frankfort, Kentucky, Roll #7017476: All Counties, microfilm p. 2523., <em>Find A Grave</em>, Entry for James T. Edmunds, Memorial #28436069, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=28436069 (accessed 14 June 2016).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Marion County, Lebanon District 1, p. 37. <hi rend=”italic”>Vital Statistics Original Death Certificates – Microfilm (1911-1955)</hi>, Kentucky Department for Libraries and Archives, Frankfort, Kentucky, Roll #7017476: All Counties, microfilm p. 2523., <hi rend=”italic”>Find A Grave</hi>, Entry for James T. Edmunds, Memorial #28436069, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=28436069 (accessed 14 June 2016).
 </bibl></ab>
     </back>
 </text>

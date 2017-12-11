@@ -46,8 +46,8 @@
                       Thomas Scudder Page
                         (Frankfort, farmer &amp; former asst state auditor )
                     </persName>
-                      <birth when="1800-04-19"></birth>
-                      <death when="1877-04-17"></death>
+                        <event type="birth"  when="1800-04-19"  ><ab>1800-04-19</ab></event>
+                        <event type="death"  when="1877-04-17"  ><ab>1877-04-17</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Franklin County, Frankfort, District 2, p. 54B. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, District 2, p. 7. <em>Find A Grave</em>, &quot;Thomas Scudder Page (1800-1877),&quot; Memorial #79947618, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=page&amp;GSfn=thomas&amp;GSmn=scudder&amp;GSbyrel=all&amp;GSdyrel=all&amp;GSob=n&amp;GRid=79947618&amp;df=all&amp; (accessed April 10, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, Frankfort, District 2, p. 54B. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, District 2, p. 7. <hi rend=”italic”>Find A Grave</hi>, &quot;Thomas Scudder Page (1800-1877),&quot; Memorial #79947618, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=page&amp;GSfn=thomas&amp;GSmn=scudder&amp;GSbyrel=all&amp;GSdyrel=all&amp;GSob=n&amp;GRid=79947618&amp;df=all&amp; (accessed April 10, 2017).
 </bibl></ab>
     </back>
 </text>

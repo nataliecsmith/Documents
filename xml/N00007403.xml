@@ -46,8 +46,7 @@
                       John R. Trafford
                         (Ballard County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1824"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1824"  certainty="medium" ><ab>c1824</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="U"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, Picketts District, p. 52. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Ballard County, Picketts, p. 8. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Ballard County, District No. 8, p. 23.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Picketts District, p. 52. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Ballard County, Picketts, p. 8. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, District No. 8, p. 23.
 </bibl></ab>
     </back>
 </text>

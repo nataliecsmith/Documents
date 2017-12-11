@@ -50,8 +50,8 @@
                       Alexander H. Dudley
                         (Lyon County, Kentucky, court clerk)
                     </persName>
-                      <birth when="c1808"></birth>
-                      <death when="c1864"></death>
+                        <event type="birth"  when="1808"  certainty="medium" ><ab>c1808</ab></event>
+                        <event type="death"  when="1864"  certainty="medium" ><ab>c1864</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Fulton County, Hickman, p. 224; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 99; Jordan Dodd, <em>Kentucky Marriages</em>, 1802-1850, Ancestry, Caldwell County, Kentucky, September 11, 1856; <em>The Louisville Daily Courier</em> (Louisville, Ky.), December 10. 1859; Thomas S. Page, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1859</em> (Frankfort, KY: John B. Major, 1860), p. 292; <em>Administrator’s and Executor’s Bond Books, 1854-1978</em>, Ancestry, Lyon County, Administrator’s Bond, June 1864; KYR-0001-029-0096; KYR-0001-029-0548.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fulton County, Hickman, p. 224; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 99; Jordan Dodd, <hi rend=”italic”>Kentucky Marriages</hi>, 1802-1850, Ancestry, Caldwell County, Kentucky, September 11, 1856; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), December 10. 1859; Thomas S. Page, <hi rend=”italic”>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1859</hi> (Frankfort, KY: John B. Major, 1860), p. 292; <hi rend=”italic”>Administrator’s and Executor’s Bond Books, 1854-1978</hi>, Ancestry, Lyon County, Administrator’s Bond, June 1864; KYR-0001-029-0096; KYR-0001-029-0548.
 </bibl></ab>
     </back>
 </text>

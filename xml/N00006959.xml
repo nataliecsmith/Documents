@@ -46,8 +46,7 @@
                       Thomas C. Judy
                         (Powell County, Kentucky, farmer and county court clerk)
                     </persName>
-                      <birth when="c1793"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1793"  certainty="medium" ><ab>c1793</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Montgomery County, District 2, p. 42. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Powell County, p. 26. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Powell County, Precinct 2, Subdivision 144, p. 135. William T. Samuels, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1865</em> (Frankfort, KY: George D. Prentice, 1866), p. 12. William T. Samuels, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1867</em> (Frankfort, KY: John H. Harney, 1867), p. 356. D. Howard Smith, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1869</em> (Frankfort, KY: S. I. M. Major, 1869), p. 173. KYR-0001-029-0570.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Montgomery County, District 2, p. 42. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Powell County, p. 26. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Powell County, Precinct 2, Subdivision 144, p. 135. William T. Samuels, <hi rend=”italic”>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1865</hi> (Frankfort, KY: George D. Prentice, 1866), p. 12. William T. Samuels, <hi rend=”italic”>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1867</hi> (Frankfort, KY: John H. Harney, 1867), p. 356. D. Howard Smith, <hi rend=”italic”>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1869</hi> (Frankfort, KY: S. I. M. Major, 1869), p. 173. KYR-0001-029-0570.
 </bibl></ab>
     </back>
 </text>

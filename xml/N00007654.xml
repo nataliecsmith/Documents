@@ -46,8 +46,7 @@
                       Manoah P. Clarkson
                         (Grayson County, Kentucky, innkeeper and tavern keeper)
                     </persName>
-                      <birth when="1810-12-28"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1810-12-28"  ><ab>1810-12-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Grayson County, p. 30. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Grayson County, p. 160. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Grayson County, p. 181. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Grayson County, Leitchfield, p. 75. <em>Record of Appointment of Postmasters, 1832-1971</em>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28, Grayson County, KY, p. 178, 324, and 622, (accessed via Ancestry.com). <em>Who Was Who in Hardin County</em> Hardin County Historical Society, comp. (Elizabethtown, Ky.: The Elizabethtown News, 1946), 34. W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em> (Louisville: F. A. Battey and Company, 1887), 1131.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Grayson County, p. 30. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Grayson County, p. 160. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grayson County, p. 181. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Grayson County, Leitchfield, p. 75. <hi rend=”italic”>Record of Appointment of Postmasters, 1832-1971</hi>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28, Grayson County, KY, p. 178, 324, and 622, (accessed via Ancestry.com). <hi rend=”italic”>Who Was Who in Hardin County</hi> Hardin County Historical Society, comp. (Elizabethtown, Ky.: The Elizabethtown News, 1946), 34. W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi> (Louisville: F. A. Battey and Company, 1887), 1131.
 </bibl></ab>
     </back>
 </text>

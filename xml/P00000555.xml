@@ -32,7 +32,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00000555">
                     <placeName>
                         <location>
@@ -41,7 +41,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -50,7 +50,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Ron D. Bryant, “Mercer County,” in The Kentucky Encyclopedia, ed. John E. Kleber (Lexington: University Press of Kentucky, 1992), p. 627.</p>
+        <ab><bibl>Ron D. Bryant, “Mercer County,” in The Kentucky Encyclopedia, ed. John E. Kleber (Lexington: University Press of Kentucky, 1992), p. 627.
 </bibl></ab>
     </back>
 </text>

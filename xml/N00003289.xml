@@ -46,8 +46,7 @@
                       F. J. Thibault
                         (San Francisco, California, merchant, commissioner, and notary)
                     </persName>
-                      <birth when="c1824"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1824"  certainty="medium" ><ab>c1824</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Manuscript Census of the State of California</em> (1852), Population Schedule, California, San Francisco County, San Francisco, p. 141; <em>Petaluma Argus</em> (Petaluma, Calif.) January 21, 1863, p. 4; <em>San Francisco Directory, For the Year Commencing September, 1862</em>, Henry G. Langley, comp. (San Francisco: Commercial Steam Presses: Valentine &amp; Co., 1862), p. 444 and 546 (accessed via Ancestry.com).</p>
+        <ab><bibl><hi rend=”italic”>Manuscript Census of the State of California</hi> (1852), Population Schedule, California, San Francisco County, San Francisco, p. 141; <hi rend=”italic”>Petaluma Argus</hi> (Petaluma, Calif.) January 21, 1863, p. 4; <hi rend=”italic”>San Francisco Directory, For the Year Commencing September, 1862</hi>, Henry G. Langley, comp. (San Francisco: Commercial Steam Presses: Valentine &amp; Co., 1862), p. 444 and 546 (accessed via Ancestry.com).
 </bibl></ab>
     </back>
 </text>

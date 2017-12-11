@@ -46,8 +46,7 @@
                       Richard J. Hughey
                         (Bracken County, Kentucky, court clerk)
                     </persName>
-                      <birth when="1817"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1817"  ><ab>1817</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Bracken County, p. 472; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bracken County, Brooksville, p. 130; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bracken County, Eastern District, p. 5; Thomas S. Page, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1859</em> (Frankfort, KY: John B. Major, 1860), p. 290. Grant Green, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1861</em> (Frankfort, KY: John B. Major, 1862), p. 305. William T. Samuels, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1865</em> (Frankfort, KY: George D. Prentice, 1866), p. 11.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bracken County, p. 472; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bracken County, Brooksville, p. 130; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bracken County, Eastern District, p. 5; Thomas S. Page, <hi rend=”italic”>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1859</hi> (Frankfort, KY: John B. Major, 1860), p. 290. Grant Green, <hi rend=”italic”>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1861</hi> (Frankfort, KY: John B. Major, 1862), p. 305. William T. Samuels, <hi rend=”italic”>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1865</hi> (Frankfort, KY: George D. Prentice, 1866), p. 11.
 </bibl></ab>
     </back>
 </text>

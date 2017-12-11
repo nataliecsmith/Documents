@@ -46,8 +46,8 @@
                       Charles Stephen French
                         (Clark County farmer)
                     </persName>
-                      <birth when="1828-06-08"></birth>
-                      <death when="1905-06-26"></death>
+                        <event type="birth"  when="1828-06-08"  ><ab>1828-06-08</ab></event>
+                        <event type="death"  when="1905-06-26"  ><ab>1905-06-26</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Clark County, District No. 2, p. 14; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Clark County, District No. 2, p. 8; Kathryn Owen and Ann P. Couey, <em>Early Winchester Cemetery Inscriptions: Winchester, Clark County, Kentucky</em> (Utica, Ky.: McDowell Publications, 1983), 36.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clark County, District No. 2, p. 14; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Clark County, District No. 2, p. 8; Kathryn Owen and Ann P. Couey, <hi rend=”italic”>Early Winchester Cemetery Inscriptions: Winchester, Clark County, Kentucky</hi> (Utica, Ky.: McDowell Publications, 1983), 36.
 </bibl></ab>
     </back>
 </text>

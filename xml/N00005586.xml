@@ -46,8 +46,8 @@
                       Wilson McCandless
                         (Pittsburgh, Pennsylvania, attorney and judge)
                     </persName>
-                      <birth when="1810-06-19"></birth>
-                      <death when="1882-06-30"></death>
+                        <event type="birth"  when="1810-06-19"  ><ab>1810-06-19</ab></event>
+                        <event type="death"  when="1882-06-30"  ><ab>1882-06-30</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Pennsylvania, Allegheny County, Collins Township, p. 41.; Federal Judicial Center, History of the Federal Judiciary, Justices, &quot;McCandless, Wilson,&quot; (https://www.fjc.gov/history/judges/mccandless-wilson) (accessed on  May 10, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Pennsylvania, Allegheny County, Collins Township, p. 41.; Federal Judicial Center, History of the Federal Judiciary, Justices, &quot;McCandless, Wilson,&quot; (https://www.fjc.gov/history/judges/mccandless-wilson) (accessed on  May 10, 2017).
 </bibl></ab>
     </back>
 </text>

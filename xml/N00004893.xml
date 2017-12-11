@@ -46,8 +46,8 @@
                       William P. Carpenter 
                         (Jackson County, Kentucky, farm laborer, soldier, and justice of the peace)
                     </persName>
-                      <birth when="1838-05-30"></birth>
-                      <death when="1906-06-16"></death>
+                        <event type="birth"  when="1838-05-30"  ><ab>1838-05-30</ab></event>
+                        <event type="death"  when="1906-06-16"  ><ab>1906-06-16</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Jackson County, McKee, p. 74; <em>Find A Grave</em>, &quot;Sergeant William P Carpenter (1838-1906),&quot; Memorial #41579066, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=41579066&amp;ref=acom (accessed May 2, 2017); <em>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</em>, NARA RG 94, Microfilm Series M397, Roll 0440.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Jackson County, McKee, p. 74; <hi rend=”italic”>Find A Grave</hi>, &quot;Sergeant William P Carpenter (1838-1906),&quot; Memorial #41579066, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=41579066&amp;ref=acom (accessed May 2, 2017); <hi rend=”italic”>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0440.
 </bibl></ab>
     </back>
 </text>

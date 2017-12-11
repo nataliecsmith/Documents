@@ -50,8 +50,8 @@
                       Jesse C. Gilbert
                         (Marshall County Attorney)
                     </persName>
-                      <birth when="1831"></birth>
-                      <death when="1894"></death>
+                        <event type="birth"  when="1831"  ><ab>1831</ab></event>
+                        <event type="death"  when="1894"  ><ab>1894</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,8 +64,8 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marshall County, Benton, p. 3. <em>Ninth Manuscript Census of the United States</em> (1870), 7Population7 Schedules, Kentucky, Marshall County, District 3, p. 1.<br>
-<em>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</em>, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. Roll #994048, microfilm p. 8. <em>Memorial Record of Western Kentucky, Volume I</em> (Lewis Publishing Company, 1904), 32-33. <em>Find A Grave</em>, &quot;Jesse Carter Gilbert (1831-1894),&quot; Memorial #81765479, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=81765479 (accessed June, 02, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, Benton, p. 3. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), 7Population7 Schedules, Kentucky, Marshall County, District 3, p. 1.<br>
+<hi rend=”italic”>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. Roll #994048, microfilm p. 8. <hi rend=”italic”>Memorial Record of Western Kentucky, Volume I</hi> (Lewis Publishing Company, 1904), 32-33. <hi rend=”italic”>Find A Grave</hi>, &quot;Jesse Carter Gilbert (1831-1894),&quot; Memorial #81765479, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=81765479 (accessed June, 02, 2017).
 </bibl></ab>
     </back>
 </text>

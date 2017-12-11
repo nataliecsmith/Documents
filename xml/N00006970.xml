@@ -46,8 +46,7 @@
                       George M. Pettit
                         (Powell County, Kentucky, merchant and postmaster)
                     </persName>
-                      <birth when="c1837"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1837"  certainty="medium" ><ab>c1837</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Montgomery County, District 2, p. 71. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Powell County, Stanton, p. 53. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Powell County, Precinct 4, p. 2. Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910), Powell County, Marriages, 1858, Microfilm rolls #994027-994058, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. <em>Record of Appointment of Postmasters, 1832-1971</em>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28, Powell County, Kentucky, p. 108, (accessed via Ancestry.com).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Montgomery County, District 2, p. 71. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Powell County, Stanton, p. 53. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Powell County, Precinct 4, p. 2. Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910), Powell County, Marriages, 1858, Microfilm rolls #994027-994058, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. <hi rend=”italic”>Record of Appointment of Postmasters, 1832-1971</hi>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28, Powell County, Kentucky, p. 108, (accessed via Ancestry.com).
 </bibl></ab>
     </back>
 </text>

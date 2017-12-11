@@ -50,8 +50,8 @@
                       William W. Gentry
                         (Webster Co. JP &amp; Farmer)
                     </persName>
-                      <birth when="1818-03-10"></birth>
-                      <death when="1878-12-29"></death>
+                        <event type="birth"  when="1818-03-10"  ><ab>1818-03-10</ab></event>
+                        <event type="death"  when="1878-12-29"  ><ab>1878-12-29</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,8 +64,8 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, North Carolina, Person County County, stamped p. 475. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Webster County, p. 138. <br>
-<em>Proceedings of the Grand Lodge of Kentucky, at a Grand Annual Communication, in the City of Louisville</em>, (Frankfort, Ky.: Frankfort Commonwealth, Printer, 1867), p. 323.  <em>Find A Grave</em>, &quot;William W. Gentry (1818-1878),&quot; Memorial #74824870, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=gentry&amp;GSfn=W&amp;GSmn=W&amp;GSby=1818&amp;GSbyrel=in&amp;GSdyrel=all&amp;GSst=19&amp;GScntry=4&amp;GSob=n&amp;GRid=74824870&amp;df=all&amp; (accessed August, 18, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, North Carolina, Person County County, stamped p. 475. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Webster County, p. 138. <br>
+<hi rend=”italic”>Proceedings of the Grand Lodge of Kentucky, at a Grand Annual Communication, in the City of Louisville</hi>, (Frankfort, Ky.: Frankfort Commonwealth, Printer, 1867), p. 323.  <hi rend=”italic”>Find A Grave</hi>, &quot;William W. Gentry (1818-1878),&quot; Memorial #74824870, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=gentry&amp;GSfn=W&amp;GSmn=W&amp;GSby=1818&amp;GSbyrel=in&amp;GSdyrel=all&amp;GSst=19&amp;GScntry=4&amp;GSob=n&amp;GRid=74824870&amp;df=all&amp; (accessed August, 18, 2017).
 </bibl></ab>
     </back>
 </text>

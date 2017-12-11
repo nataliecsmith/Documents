@@ -46,8 +46,8 @@
                       James C. LeForge
                         (Fleming County, Kentucky, laborer)
                     </persName>
-                      <birth when="1839-07-23"></birth>
-                      <death when="1915-11-08"></death>
+                        <event type="birth"  when="1839-07-23"  ><ab>1839-07-23</ab></event>
+                        <event type="death"  when="1915-11-08"  ><ab>1915-11-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Fleming County, District 1, p. 328.  <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Fleming County, District 2, p. 5. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Ohio, Hardin County, Liberty Township, p. 2. <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Fleming County, KY, September 1863, p. 211, (Accessed via ancestry.com). <em>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</em>, Fleming County, 1915,  file no. 28557, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. </p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, District 1, p. 328.  <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 2, p. 5. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Ohio, Hardin County, Liberty Township, p. 2. <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Fleming County, KY, September 1863, p. 211, (Accessed via ancestry.com). <hi rend=”italic”>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, Fleming County, 1915,  file no. 28557, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. 
 </bibl></ab>
     </back>
 </text>

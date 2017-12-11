@@ -46,8 +46,8 @@
                       Charles A. Hollister Fletcher
                         (Ohio and Iowa soldier)
                     </persName>
-                      <birth when="1837-09-07"></birth>
-                      <death when="1877-01-02"></death>
+                        <event type="birth"  when="1837-09-07"  ><ab>1837-09-07</ab></event>
+                        <event type="death"  when="1877-01-02"  ><ab>1877-01-02</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>U.S. Military Academy Cadet Application Papers, 1805-1866; (National Archives Microfilm Publication M688, 1 roll), Iowa, p. 78 (accessed via Ancestry.com); Francis B. Heitman, <em>Historical Register and Dictionary of the United States Army from its Organization</em>, Vol. 1, Section II, p. 277; <em>Find A Grave</em>, &quot;Charles Hollister Fletcher (1837-1877),&quot; Memorial #117842698, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=117842698&amp;ref=acom (accessed March 30, 2017).</p>
+        <ab><bibl>U.S. Military Academy Cadet Application Papers, 1805-1866; (National Archives Microfilm Publication M688, 1 roll), Iowa, p. 78 (accessed via Ancestry.com); Francis B. Heitman, <hi rend=”italic”>Historical Register and Dictionary of the United States Army from its Organization</hi>, Vol. 1, Section II, p. 277; <hi rend=”italic”>Find A Grave</hi>, &quot;Charles Hollister Fletcher (1837-1877),&quot; Memorial #117842698, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=117842698&amp;ref=acom (accessed March 30, 2017).
 </bibl></ab>
     </back>
 </text>

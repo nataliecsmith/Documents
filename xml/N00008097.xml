@@ -46,8 +46,8 @@
                       James A. Witty
                         (Christian County farmer)
                     </persName>
-                      <birth when="1835-05-18"></birth>
-                      <death when="1922-11-30"></death>
+                        <event type="birth"  when="1835-05-18"  ><ab>1835-05-18</ab></event>
+                        <event type="death"  when="1922-11-30"  ><ab>1922-11-30</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Christian County, Unnamed District, p. 133; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Christian County, Fruit Hill Precinct, p. 28; <em>Find A Grave</em>, &quot;James A. Witty (1835 - 1922),&quot; Memorial #55072725, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=55072725 (accessed September 29, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Christian County, Unnamed District, p. 133; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Christian County, Fruit Hill Precinct, p. 28; <hi rend=”italic”>Find A Grave</hi>, &quot;James A. Witty (1835 - 1922),&quot; Memorial #55072725, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=55072725 (accessed September 29, 2017).
 </bibl></ab>
     </back>
 </text>

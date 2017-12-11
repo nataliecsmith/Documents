@@ -50,8 +50,8 @@
                       Jacob Cox
                         (Franklin County, Kentucky, saddler)
                     </persName>
-                      <birth when="1790-07-18"></birth>
-                      <death when="1878-10-26"></death>
+                        <event type="birth"  when="1790-07-18"  ><ab>1790-07-18</ab></event>
+                        <event type="death"  when="1878-10-26"  ><ab>1878-10-26</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Franklin County, District 1, p. 9. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, District 1, p. 37. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Franklin County, Market House District, p. 8. Jordan Dodd, <em>Kentucky Marriages, 1802-1850</em>, Ancestry, Franklin County, 1812. <em>Find A Grave</em>, &quot;Jacob Cox (1790-1878),&quot; Memorial #23021841, http://www.findagrave.com/memorial/23021841/jacob-cox (accessed May 23, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 1, p. 9. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, District 1, p. 37. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Franklin County, Market House District, p. 8. Jordan Dodd, <hi rend=”italic”>Kentucky Marriages, 1802-1850</hi>, Ancestry, Franklin County, 1812. <hi rend=”italic”>Find A Grave</hi>, &quot;Jacob Cox (1790-1878),&quot; Memorial #23021841, http://www.findagrave.com/memorial/23021841/jacob-cox (accessed May 23, 2017).
 </bibl></ab>
     </back>
 </text>

@@ -46,8 +46,8 @@
                       Hezakiah W. Hinton
                         (Fleming County, Kentucky, millwright)
                     </persName>
-                      <birth when="1797-10-27"></birth>
-                      <death when="1873-11-07"></death>
+                        <event type="birth"  when="1797-10-27"  ><ab>1797-10-27</ab></event>
+                        <event type="death"  when="1873-11-07"  ><ab>1873-11-07</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Fleming County, District 1, p. 330. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Fleming County, District 1, p. 121. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Fleming County, Poplar Plains, p. 21. <em>Find A Grave</em>, &quot;Hezakiah Woodward Hinton, Sr. (1797-1873),&quot; Memorial #46347279, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=46347279&amp;ref=acom (accessed June 16, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, District 1, p. 330. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 1, p. 121. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fleming County, Poplar Plains, p. 21. <hi rend=”italic”>Find A Grave</hi>, &quot;Hezakiah Woodward Hinton, Sr. (1797-1873),&quot; Memorial #46347279, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=46347279&amp;ref=acom (accessed June 16, 2017).
 </bibl></ab>
     </back>
 </text>

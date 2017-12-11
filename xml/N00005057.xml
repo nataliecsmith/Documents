@@ -46,8 +46,8 @@
                       James Burnham
                         (Marshall co. farmer)
                     </persName>
-                      <birth when="1823-06-23"></birth>
-                      <death when="1907-12-19"></death>
+                        <event type="birth"  when="1823-06-23"  ><ab>1823-06-23</ab></event>
+                        <event type="death"  when="1907-12-19"  ><ab>1907-12-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States (1850)</em>, Population Schedules, Kentucky, Marshall County, unknown district, stamped p. 483.  <em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Marshall County, unknown district, p. 119. <em>Find A Grave</em>, James Burnham (1823-1907), Memorial #38275227, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=38275227 (accessed 14 June 2016).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States (1850)</hi>, Population Schedules, Kentucky, Marshall County, unknown district, stamped p. 483.  <hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Marshall County, unknown district, p. 119. <hi rend=”italic”>Find A Grave</hi>, James Burnham (1823-1907), Memorial #38275227, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=38275227 (accessed 14 June 2016).
 </bibl></ab>
     </back>
 </text>

@@ -46,8 +46,8 @@
                       Jacob B. Ehrich
                         (clerk of Louisville Police Department)
                     </persName>
-                      <birth when="c1824"></birth>
-                      <death when="1897-02-24"></death>
+                        <event type="birth"  when="1824"  certainty="medium" ><ab>c1824</ab></event>
+                        <event type="death"  when="1897-02-24"  ><ab>1897-02-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,9 +60,9 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>St. Louis City Death Records,</em> 1850-1902; <br>
-<em>The Louisville Directory and Business Advertiser for 1861</em>; <br>
-“The Courier-Journal,” Louisville, KY July 18, 1897.</p>
+        <ab><bibl><hi rend=”italic”>St. Louis City Death Records,</hi> 1850-1902; <br>
+<hi rend=”italic”>The Louisville Directory and Business Advertiser for 1861</hi>; <br>
+“The Courier-Journal,” Louisville, KY July 18, 1897.
 </bibl></ab>
     </back>
 </text>

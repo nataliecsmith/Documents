@@ -46,8 +46,8 @@
                       Nathan Bloom
                         (Louisville, Kentucky, merchant)
                     </persName>
-                      <birth when="1826-11-17"></birth>
-                      <death when="1887-01-14"></death>
+                        <event type="birth"  when="1826-11-17"  ><ab>1826-11-17</ab></event>
+                        <event type="death"  when="1887-01-14"  ><ab>1887-01-14</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 5, p. 155. Ninth Manuscript Census of the United States (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 7, p. 87. “Nathan Bloom (1828-1887),” <em>Find A Grave</em>, memorial no. 64947293, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=64947293&amp;ref=acom (accessed June 21, 2017).</p>
+        <ab><bibl>Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 5, p. 155. Ninth Manuscript Census of the United States (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 7, p. 87. “Nathan Bloom (1828-1887),” <hi rend=”italic”>Find A Grave</hi>, memorial no. 64947293, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=64947293&amp;ref=acom (accessed June 21, 2017).
 </bibl></ab>
     </back>
 </text>

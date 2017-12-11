@@ -46,8 +46,8 @@
                       David T. Towles
                         (Green County, Kentucky, attorney, county court clerk, and soldier)
                     </persName>
-                      <birth when="1830-06-06"></birth>
-                      <death when="1913-11-06"></death>
+                        <event type="birth"  when="1830-06-06"  ><ab>1830-06-06</ab></event>
+                        <event type="death"  when="1913-11-06"  ><ab>1913-11-06</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Green County, District 2, p. 132. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Green County, District 2, p. 64. H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 488-90. <em>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</em>, NARA RG 94, Microfilm Series M397, Roll 0268. <em>Report of the Adjutant General of the State of Kentucky: Mexican War Veterans</em> (Frankfort, Ky.: John D. Woods, Public Printer and Binder, 1889), p. 30. KYR-0001-029-0557.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Green County, District 2, p. 132. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Green County, District 2, p. 64. H. Levin, <hi rend=”italic”>The Lawyers and Lawmakers of Kentucky</hi> (Chicago: The Lewis Publishing Company, 1897), 488-90. <hi rend=”italic”>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0268. <hi rend=”italic”>Report of the Adjutant General of the State of Kentucky: Mexican War Veterans</hi> (Frankfort, Ky.: John D. Woods, Public Printer and Binder, 1889), p. 30. KYR-0001-029-0557.
 </bibl></ab>
     </back>
 </text>

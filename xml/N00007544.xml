@@ -46,8 +46,7 @@
                       James Sips
                         (Breckinridge County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1804"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1804"  certainty="medium" ><ab>c1804</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850),  Population Schedules, Kentucky, Breckinridge County, District 2, p. 71.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850),  Population Schedules, Kentucky, Breckinridge County, District 2, p. 71.
 </bibl></ab>
     </back>
 </text>

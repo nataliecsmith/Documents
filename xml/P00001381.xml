@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00001381">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Laura M. Lee and Brendan Mackie, <em>Fort Delaware</em> (Charleston, SC: Arcadia Publishing, 2010).</p>
+        <ab><bibl>Laura M. Lee and Brendan Mackie, <hi rend=”italic”>Fort Delaware</hi> (Charleston, SC: Arcadia Publishing, 2010).
 </bibl></ab>
     </back>
 </text>

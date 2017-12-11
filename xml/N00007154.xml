@@ -46,8 +46,8 @@
                       James Newman
                         (Fleming County, Kentucky, farmer)
                     </persName>
-                      <birth when="1811-07-28"></birth>
-                      <death when="1898-11-04"></death>
+                        <event type="birth"  when="1811-07-28"  ><ab>1811-07-28</ab></event>
+                        <event type="death"  when="1898-11-04"  ><ab>1898-11-04</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850),  Population Schedules, Kentucky, Fleming County, Division 2, p. 389. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Fleming County, District 1, p. 66. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Fleming County, District 1, p. 66. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Fleming County, Hillsboro, p. 4. E. Polk Johnson, <em>A History of Kentucky and Kentuckians, The Leaders and Representative Men in Commerce, Industry and Modern Activities</em>, vol. 3 (Chicago, IL: Lewis Publishing Company, 1912), p. 1566.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850),  Population Schedules, Kentucky, Fleming County, Division 2, p. 389. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 1, p. 66. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 1, p. 66. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fleming County, Hillsboro, p. 4. E. Polk Johnson, <hi rend=”italic”>A History of Kentucky and Kentuckians, The Leaders and Representative Men in Commerce, Industry and Modern Activities</hi>, vol. 3 (Chicago, IL: Lewis Publishing Company, 1912), p. 1566.
 </bibl></ab>
     </back>
 </text>

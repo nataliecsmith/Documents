@@ -46,8 +46,8 @@
                       Jonathan P. Ferguson
                         (Logan County, Kentucky, farmer)
                     </persName>
-                      <birth when="1813-05-10"></birth>
-                      <death when="1869-05-07"></death>
+                        <event type="birth"  when="1813-05-10"  ><ab>1813-05-10</ab></event>
+                        <event type="death"  when="1869-05-07"  ><ab>1869-05-07</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850),Slave Schedules, Kentucky, Logan County, District 1, p. 323. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Logan County, District 1, p. 52. <em>Find A Grave</em>, &quot;Jonathan P. Ferguson (1813-1869),&quot; Memorial #82802470, http://www.findagrave.com/memorial/82802470/jonathan-p-ferguson (accessed May 28, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850),Slave Schedules, Kentucky, Logan County, District 1, p. 323. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Logan County, District 1, p. 52. <hi rend=”italic”>Find A Grave</hi>, &quot;Jonathan P. Ferguson (1813-1869),&quot; Memorial #82802470, http://www.findagrave.com/memorial/82802470/jonathan-p-ferguson (accessed May 28, 2017).
 </bibl></ab>
     </back>
 </text>

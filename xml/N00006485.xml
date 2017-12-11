@@ -50,8 +50,8 @@
                       Isaac Wingate, Sr.
                         (Franklin County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1791"></birth>
-                      <death when="1876-06-18"></death>
+                        <event type="birth"  when="1791"  certainty="medium" ><ab>c1791</ab></event>
+                        <event type="death"  when="1876-06-18"  ><ab>1876-06-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Franklin County, District 1, p. 16. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Franklin County, District 1. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, District 1, p. 7. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Franklin County, Forks of Elkhorn, p. 17. <em>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</em>, Ancestry, Deaths, Franklin County, Kentucky, 1876.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 1, p. 16. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Franklin County, District 1. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, District 1, p. 7. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Franklin County, Forks of Elkhorn, p. 17. <hi rend=”italic”>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, Ancestry, Deaths, Franklin County, Kentucky, 1876.
 </bibl></ab>
     </back>
 </text>

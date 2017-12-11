@@ -46,8 +46,8 @@
                       George R. Price
                         (Metcalfe County, Kentucky, soldier)
                     </persName>
-                      <birth when="c1837"></birth>
-                      <death when="1903-11-23"></death>
+                        <event type="birth"  when="1837"  certainty="medium" ><ab>c1837</ab></event>
+                        <event type="death"  when="1903-11-23"  ><ab>1903-11-23</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Kentucky, Metcalfe County, Edmonton, p. 49; <em>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</em>, NARA RG 94, Microfilm Series M397, Roll 0175; &quot;Street Duel,&quot; <em>The Courier-Journal</em> (Louisville Ky.), November 24, 1903, p. 8.</p>
+        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Metcalfe County, Edmonton, p. 49; <hi rend=”italic”>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0175; &quot;Street Duel,&quot; <hi rend=”italic”>The Courier-Journal</hi> (Louisville Ky.), November 24, 1903, p. 8.
 </bibl></ab>
     </back>
 </text>

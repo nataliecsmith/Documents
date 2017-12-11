@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00002509">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Charles Goode Gomillion and Robert J. Norrell, &quot;Alabama&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/Alabama-state) (accessed on June 26, 2017); Rogers, William Warren, Robert David Ward, Leah Rawls Atkins, And Wayne Flynt <em>Alabama: The History of a Deep South State</em> (1994), 72.</p>
+        <ab><bibl>Charles Goode Gomillion and Robert J. Norrell, &quot;Alabama&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/Alabama-state) (accessed on June 26, 2017); Rogers, William Warren, Robert David Ward, Leah Rawls Atkins, And Wayne Flynt <hi rend=”italic”>Alabama: The History of a Deep South State</hi> (1994), 72.
 </bibl></ab>
     </back>
 </text>

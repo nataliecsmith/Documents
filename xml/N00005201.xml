@@ -46,8 +46,6 @@
                       Wilson Jones
                         ()
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,7 +57,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-005-0011</p>
+        <ab><bibl>KYR-0001-005-0011
 </bibl></ab>
     </back>
 </text>

@@ -46,8 +46,8 @@
                       Charles Humphrey Mooar
                         (Covington, Kentucky, attorney and judge)
                     </persName>
-                      <birth when="1822-06-17"></birth>
-                      <death when="1898-03-30"></death>
+                        <event type="birth"  when="1822-06-17"  ><ab>1822-06-17</ab></event>
+                        <event type="death"  when="1898-03-30"  ><ab>1898-03-30</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Kenton County, Covington, Ward 5, p. 254; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Kentucky, Kenton County, Covington, Ward 8, p. 15; Marvin Davis Bisbee, <em>Dartmouth College: Necrology, 1898-99</em> (Hanover, N.H.: Dartmouth Press, 1899), 16-17; <em>Find A Grave</em>, &quot;Judge Charles Humphrey Mooar (1822-1898),&quot; Memorial #78718313, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=78718313&amp;ref=acom (accessed May 23, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Kenton County, Covington, Ward 5, p. 254; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Kenton County, Covington, Ward 8, p. 15; Marvin Davis Bisbee, <hi rend=”italic”>Dartmouth College: Necrology, 1898-99</hi> (Hanover, N.H.: Dartmouth Press, 1899), 16-17; <hi rend=”italic”>Find A Grave</hi>, &quot;Judge Charles Humphrey Mooar (1822-1898),&quot; Memorial #78718313, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=78718313&amp;ref=acom (accessed May 23, 2017).
 </bibl></ab>
     </back>
 </text>

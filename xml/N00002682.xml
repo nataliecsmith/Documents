@@ -50,8 +50,8 @@
                       Richard T. Garnett
                         (Adair County Judge)
                     </persName>
-                      <birth when="1825-10-10"></birth>
-                      <death when="1871-12-19"></death>
+                        <event type="birth"  when="1825-10-10"  ><ab>1825-10-10</ab></event>
+                        <event type="death"  when="1871-12-19"  ><ab>1871-12-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Adair County, Districe 1, p. 27; <em>Find A Grave</em>, &quot;Richard T. Garnett (1825-1871),&quot; Memorial #94688830, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=94688830 (accessed May, 24, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Adair County, Districe 1, p. 27; <hi rend=”italic”>Find A Grave</hi>, &quot;Richard T. Garnett (1825-1871),&quot; Memorial #94688830, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=94688830 (accessed May, 24, 2017).
 </bibl></ab>
     </back>
 </text>

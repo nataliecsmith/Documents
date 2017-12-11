@@ -50,8 +50,8 @@
                       Isaac Newton Dysard
                         (Greenup County farmer)
                     </persName>
-                      <birth when="1828-21-12"></birth>
-                      <death when="1819-08-08"></death>
+                        <event type="birth"  when="1828-21-12"  ><ab>1828-21-12</ab></event>
+                        <event type="death"  when="1819-08-08"  ><ab>1819-08-08</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,11 +59,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Greenup County, Kentucky, farmer. Kentucky native. Son of Issac Newton Dysard, Sr. and Oliva Camp Dysard; <em>Find A Grave</em>, “Isaac N Dysard (1828-unknown),” Memorial No. 81736361, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=81736361&amp;ref=acom (accessed June 2, 2017).</p>
+        <p>Greenup County, Kentucky, farmer. Kentucky native. Son of Issac Newton Dysard, Sr. and Oliva Camp Dysard; <hi rend=”italic”>Find A Grave</hi>, “Isaac N Dysard (1828-unknown),” Memorial No. 81736361, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=81736361&amp;ref=acom (accessed June 2, 2017).</p>
 
     </body>
     <back>
-        <ab><bibl><p>Kentucky Birth, Marriage, and Death Records, 1852-1910, Ancestry, Deaths, Greenup County, 1918.</p>
+        <ab><bibl>Kentucky Birth, Marriage, and Death Records, 1852-1910, Ancestry, Deaths, Greenup County, 1918.
 </bibl></ab>
     </back>
 </text>

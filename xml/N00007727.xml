@@ -46,8 +46,8 @@
                       Henry Clay Thomas
                         (Grayson County, Kentucky, farmer)
                     </persName>
-                      <birth when="1829-04-05"></birth>
-                      <death when="1916-08-13"></death>
+                        <event type="birth"  when="1829-04-05"  ><ab>1829-04-05</ab></event>
+                        <event type="death"  when="1916-08-13"  ><ab>1916-08-13</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em>, (Louisville and Chicago: F. A. Battey and Company, 1887), 1122-1123. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Grayson County, p. 1. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Grayson County, p. 60. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Grayson County, p. 2. <em>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</em>, Grayson County, 1916,  no. 20502, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.</p>
+        <ab><bibl>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi>, (Louisville and Chicago: F. A. Battey and Company, 1887), 1122-1123. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Grayson County, p. 1. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grayson County, p. 60. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Grayson County, p. 2. <hi rend=”italic”>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, Grayson County, 1916,  no. 20502, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
 </bibl></ab>
     </back>
 </text>

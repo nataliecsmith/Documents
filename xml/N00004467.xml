@@ -46,8 +46,8 @@
                       James Harris
                         (stub, jefferson county)
                     </persName>
-                      <birth when="c1832"></birth>
-                      <death when="1899-12-27"></death>
+                        <event type="birth"  when="1832"  certainty="medium" ><ab>c1832</ab></event>
+                        <event type="death"  when="1899-12-27"  ><ab>1899-12-27</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, 3rd Ward, p. 136. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Illinois, Coles County, Mattoon, p. 53. <em>Kentucky Death Records, 1852-1964</em>, Jefferson County, 1899.</p>
+        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, 3rd Ward, p. 136. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Illinois, Coles County, Mattoon, p. 53. <hi rend=”italic”>Kentucky Death Records, 1852-1964</hi>, Jefferson County, 1899.
 </bibl></ab>
     </back>
 </text>

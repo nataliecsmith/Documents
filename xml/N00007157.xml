@@ -46,8 +46,7 @@
                       Hiram P. Jones
                         (Fleming County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1835"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1835"  certainty="medium" ><ab>c1835</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Fleming County, Division 2, p. 391. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Fleming County, District 1, p. 66. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Fleming County, Hillsboro, p. 37.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, Division 2, p. 391. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 1, p. 66. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fleming County, Hillsboro, p. 37.
 </bibl></ab>
     </back>
 </text>

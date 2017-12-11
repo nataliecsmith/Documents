@@ -44,7 +44,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00000918">
                     <placeName>
                         <location>
@@ -53,7 +53,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -62,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Ted Ownby and Charles Reagan Wilson, eds. (Jackson: University Press of Mississippi, 2017).</p>
+        <ab><bibl>Ted Ownby and Charles Reagan Wilson, eds. (Jackson: University Press of Mississippi, 2017).
 </bibl></ab>
     </back>
 </text>

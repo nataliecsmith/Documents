@@ -46,8 +46,8 @@
                       Lewis Leeds Houpt
                         (Philadelphia, Pennsylvania, railroad agent and entrepreneur)
                     </persName>
-                      <birth when="1826-04-20"></birth>
-                      <death when="1898-09-17"></death>
+                        <event type="birth"  when="1826-04-20"  ><ab>1826-04-20</ab></event>
+                        <event type="death"  when="1898-09-17"  ><ab>1898-09-17</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 15, p. 176; <em>McElroy&#39;s Philadelphia City Directory, 1861</em> (Philadelphia: Sherman &amp; Co., 1861), 1207; <em>Find A Grave</em>, &quot;Lewis Leeds Haupt (1826-1898),&quot; Memorial #143658961, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=143658961&amp;ref=acom (accessed May 10, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 15, p. 176; <hi rend=”italic”>McElroy&#39;s Philadelphia City Directory, 1861</hi> (Philadelphia: Sherman &amp; Co., 1861), 1207; <hi rend=”italic”>Find A Grave</hi>, &quot;Lewis Leeds Haupt (1826-1898),&quot; Memorial #143658961, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=143658961&amp;ref=acom (accessed May 10, 2017).
 </bibl></ab>
     </back>
 </text>

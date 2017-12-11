@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00003745">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Ron D. Bryant, “Edmonson County,” in <em>The Kentucky Encyclopedia</em>, ed. John E. Kleber (Lexington, KY: University Press of Kentucky, 2015), p. 284.</p>
+        <ab><bibl>Ron D. Bryant, “Edmonson County,” in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, ed. John E. Kleber (Lexington, KY: University Press of Kentucky, 2015), p. 284.
 </bibl></ab>
     </back>
 </text>

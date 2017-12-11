@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00001134">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Jeane Mason Fogle, &quot;Washington, D.C.&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/Washington-DC) (accessed May 22, 2017).</p>
+        <ab><bibl>Jeane Mason Fogle, &quot;Washington, D.C.&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/Washington-DC) (accessed May 22, 2017).
 </bibl></ab>
     </back>
 </text>

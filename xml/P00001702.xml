@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00001702">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Henry Gannett, <em>The Origin of Certain Place Names in the United States</em> (U.S. Government Printing Office, 1905) p. 298.</p>
+        <ab><bibl>Henry Gannett, <hi rend=”italic”>The Origin of Certain Place Names in the United States</hi> (U.S. Government Printing Office, 1905) p. 298.
 </bibl></ab>
     </back>
 </text>

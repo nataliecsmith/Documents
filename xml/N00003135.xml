@@ -46,8 +46,8 @@
                       Julius Vaden Thomasson
                         (Pendleton County, Kentucky, farmer)
                     </persName>
-                      <birth when="1800-03-24"></birth>
-                      <death when="1890-01-24"></death>
+                        <event type="birth"  when="1800-03-24"  ><ab>1800-03-24</ab></event>
+                        <event type="death"  when="1890-01-24"  ><ab>1890-01-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Pendleton County, First District; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Pendleton County, p. 180; <em>Find A Grave</em>, &quot;Julius Vaden Thomasson (1800-1890),&quot; Memorial #43936513, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=43936513&amp;ref=acom  (accessed March 30, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Pendleton County, First District; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Pendleton County, p. 180; <hi rend=”italic”>Find A Grave</hi>, &quot;Julius Vaden Thomasson (1800-1890),&quot; Memorial #43936513, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=43936513&amp;ref=acom  (accessed March 30, 2017).
 </bibl></ab>
     </back>
 </text>

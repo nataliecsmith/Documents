@@ -46,8 +46,7 @@
                       Lawrence Cavanaugh
                         (Grant County carpenter)
                     </persName>
-                      <birth when="c1832"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1832"  certainty="medium" ><ab>c1832</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Civil War Draft Registration, Grant County, KY, 20 Jul 1863, Vol 1, p. 84, <em>Consolidated Lists of Civil War Draft Registrations, 1863-1865</em>. NM-65, entry 172, 620 volumes. NAI: 4213514, Records of the Provost Marshal General’s Bureau (Civil War), RG 110, NARA, Vol 1, “U.S., Civil War Draft Registration Records, 1863-1865” database, ancestry.com.</p>
+        <ab><bibl>Civil War Draft Registration, Grant County, KY, 20 Jul 1863, Vol 1, p. 84, <hi rend=”italic”>Consolidated Lists of Civil War Draft Registrations, 1863-1865</hi>. NM-65, entry 172, 620 volumes. NAI: 4213514, Records of the Provost Marshal General’s Bureau (Civil War), RG 110, NARA, Vol 1, “U.S., Civil War Draft Registration Records, 1863-1865” database, ancestry.com.
 </bibl></ab>
     </back>
 </text>

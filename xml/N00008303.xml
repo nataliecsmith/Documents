@@ -46,8 +46,8 @@
                       John Hopkins Harney
                         (Lou. Democrat publisher)
                     </persName>
-                      <birth when="1806-02-20"></birth>
-                      <death when="1868-01-26"></death>
+                        <event type="birth"  when="1806-02-20"  ><ab>1806-02-20</ab></event>
+                        <event type="death"  when="1868-01-26"  ><ab>1868-01-26</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,11 +56,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky, newspaper editor. Kentucky native. Married Martha Rankin Wallace Harney. Father of Benjamin Mills Harney, William Wallace Harney, Selby T. Harney, Ellen Martha Harney Lawson, and John Hopkins Harney, Jr. Graduated from Miami University in Oxford, Ohio, in 1827. Mathematics professor at Indiana University in Bloomington, Indiana from 1827 to 1833. Mathematics professor at Hanover College in Hanover, Indiana from 1833 to 1838. President of the Louisville Collegiate Institute in Louisville from 1838 to 1840. Author of <em>An Algebra Upon the Inductive Method of Instruction</em> in 1840. President of Louisville College in Louisville from 1840 to 1844. Publisher of the <em>Louisville Democrat</em> in Louisville from 1844 to 1868. Partner in publishing firm of Harney, Hughes, &amp; Co. with William E. Hughes and John H. Bowman in Louisville in 1860. Member of the House of Representatives of the Commonwealth of Kentucky from Louisville from 1861 to 1863.</p>
+        <p>Louisville, Kentucky, newspaper editor. Kentucky native. Married Martha Rankin Wallace Harney. Father of Benjamin Mills Harney, William Wallace Harney, Selby T. Harney, Ellen Martha Harney Lawson, and John Hopkins Harney, Jr. Graduated from Miami University in Oxford, Ohio, in 1827. Mathematics professor at Indiana University in Bloomington, Indiana from 1827 to 1833. Mathematics professor at Hanover College in Hanover, Indiana from 1833 to 1838. President of the Louisville Collegiate Institute in Louisville from 1838 to 1840. Author of <hi rend=”italic”>An Algebra Upon the Inductive Method of Instruction</hi> in 1840. President of Louisville College in Louisville from 1840 to 1844. Publisher of the <hi rend=”italic”>Louisville Democrat</hi> in Louisville from 1844 to 1868. Partner in publishing firm of Harney, Hughes, &amp; Co. with William E. Hughes and John H. Bowman in Louisville in 1860. Member of the House of Representatives of the Commonwealth of Kentucky from Louisville from 1861 to 1863.</p>
 
     </body>
     <back>
-        <ab><bibl><p>Dwayne D. Cox and William J. Morrison, <em>The University of Louisville</em> (Lexington: University Press of Kentucky, 2000), 20-22; John H. Harney, <em>An Algebra Upon the Inductive Method of Instruction</em> (Louisville: Morton &amp; Griswold, 1840); Henry Tanner, ed., <em>Tanner’s Louisville Directory and Business Advertiser for 1861</em> (Louisville: Directory Publication and Advertising Agency, 1861), 112; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, KY: Collins &amp; Co., 1874), 357; <em>Find A Grave</em>, &quot;John Hopkins Harney, Sr. (1806 - 1868),&quot; Memorial #81660175, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=81660175 (accessed September 22, 2017).</p>
+        <ab><bibl>Dwayne D. Cox and William J. Morrison, <hi rend=”italic”>The University of Louisville</hi> (Lexington: University Press of Kentucky, 2000), 20-22; John H. Harney, <hi rend=”italic”>An Algebra Upon the Inductive Method of Instruction</hi> (Louisville: Morton &amp; Griswold, 1840); Henry Tanner, ed., <hi rend=”italic”>Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 112; Lewis Collins and Richard H. Collins, <hi rend=”italic”>Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, KY: Collins &amp; Co., 1874), 357; <hi rend=”italic”>Find A Grave</hi>, &quot;John Hopkins Harney, Sr. (1806 - 1868),&quot; Memorial #81660175, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=81660175 (accessed September 22, 2017).
 </bibl></ab>
     </back>
 </text>
