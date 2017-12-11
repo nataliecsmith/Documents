@@ -46,8 +46,6 @@
                       [Unknown] Dement 
                         (Caroline&#39;s Owner)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-004-0134</p>
+        <ab><bibl>KYR-0001-004-0134
 </bibl></ab>
     </back>
 </text>
