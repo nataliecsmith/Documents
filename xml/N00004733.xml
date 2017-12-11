@@ -50,8 +50,8 @@
                       Thomas Rodman
                         (Kentucky dry goods merchant and entrepreneur)
                     </persName>
-                      <birth when="1823-08-10"></birth>
-                      <death when="1900-12-21"></death>
+                        <event type="birth"  when="1823-08-10"  ><ab>1823-08-10</ab></event>
+                        <event type="death"  when="1900-12-21"  ><ab>1900-12-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;A Bill to incorporate the Henry County Deposit Bank,&quot; <em>Journal of the House of Representatives of the Commonwealth of Kentucky</em> (Frankfort, Ky.: Kentucky Yeoman Office, Jno. B. Major, State Printer, 1859), 252-255; &quot;An Act to Incorporate the Henry County Mutual Insurance Company,&quot; <em>Acts of the General Assembly of the Commonwealth of Kentucky, vol. 2 (Frankfort, Ky.: A. G. Hodges, Public Printer, 1858), 351-355; _Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Henry County; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Henry County, Town of New Castle, p. 2-3; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Henry County, Town of New Castle, p. 1; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, p. 25; <em>Find A Grave</em>, &quot;Thomas Rodman (1823-1900),&quot; Memorial #61104974, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=61104974 (accessed April 18, 2017).</p>
+        <ab><bibl>&quot;A Bill to incorporate the Henry County Deposit Bank,&quot; <hi rend=”italic”>Journal of the House of Representatives of the Commonwealth of Kentucky</hi> (Frankfort, Ky.: Kentucky Yeoman Office, Jno. B. Major, State Printer, 1859), 252-255; &quot;An Act to Incorporate the Henry County Mutual Insurance Company,&quot; <hi rend=”italic”>Acts of the General Assembly of the Commonwealth of Kentucky, vol. 2 (Frankfort, Ky.: A. G. Hodges, Public Printer, 1858), 351-355; _Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Henry County; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henry County, Town of New Castle, p. 2-3; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Henry County, Town of New Castle, p. 1; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Franklin County, Frankfort, p. 25; <hi rend=”italic”>Find A Grave</hi>, &quot;Thomas Rodman (1823-1900),&quot; Memorial #61104974, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=61104974 (accessed April 18, 2017).
 </bibl></ab>
     </back>
 </text>
