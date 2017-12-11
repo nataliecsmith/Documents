@@ -46,8 +46,7 @@
                       Samuel G. Suddarth
                         (Quarter Master General of Kentucky)
                     </persName>
-                      <birth when="c1822"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1822"  certainty="medium" ><ab>c1822</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Report of the Adjutant General of the State of Kentucky</em>, vol. 1 (Frankfort: John H. Harney, Public Printer, 1866), VII. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Adair County, District 1, p. 61.</p>
+        <ab><bibl><hi rend=”italic”>Report of the Adjutant General of the State of Kentucky</hi>, vol. 1 (Frankfort: John H. Harney, Public Printer, 1866), VII. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Adair County, District 1, p. 61.
 </bibl></ab>
     </back>
 </text>
