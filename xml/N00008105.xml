@@ -46,8 +46,8 @@
                       Richard Allan Morris
                         (Christian County farmer)
                     </persName>
-                      <birth when="1836"></birth>
-                      <death when="1927"></death>
+                        <event type="birth"  when="1836"  ><ab>1836</ab></event>
+                        <event type="death"  when="1927"  ><ab>1927</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Christian County, KY, July 1865, p. 33, (Accessed via ancestry.com); <em>Find A Grave</em>, &quot;Richard Allan Morris (1836-1927),&quot; Memorial #61126052, , https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=61126052 (accessed July 27, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Christian County, KY, July 1865, p. 33, (Accessed via ancestry.com); <hi rend=”italic”>Find A Grave</hi>, &quot;Richard Allan Morris (1836-1927),&quot; Memorial #61126052, , https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=61126052 (accessed July 27, 2017).
 </bibl></ab>
     </back>
 </text>
