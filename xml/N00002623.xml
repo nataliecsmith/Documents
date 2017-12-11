@@ -46,8 +46,7 @@
                       Alfred Allen
                         (Breckinridge County, Kentucky, attorney and politician)
                     </persName>
-                      <birth when="c1815"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1815"  certainty="medium" ><ab>c1815</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Breckinridge County, District 1, p. 113. Thomas Marshall Green, <em>Historic Families of Kentucky: With Special Reference to Stocks Immediately Derived from the Valley of Virginia</em> (Cincinnati: Robert Clarke &amp; Co., 1889), 278. <em>The Union Army: States and Regiments</em> vol. 4 (Madison, Wis.: Federal Publishing Company, 1908), 337.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District 1, p. 113. Thomas Marshall Green, <hi rend=”italic”>Historic Families of Kentucky: With Special Reference to Stocks Immediately Derived from the Valley of Virginia</hi> (Cincinnati: Robert Clarke &amp; Co., 1889), 278. <hi rend=”italic”>The Union Army: States and Regiments</hi> vol. 4 (Madison, Wis.: Federal Publishing Company, 1908), 337.
 </bibl></ab>
     </back>
 </text>
