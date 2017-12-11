@@ -42,8 +42,7 @@
                       Wallace W. Purdy
                         ()
                     </persName>
-                      <birth when="1834"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1834"  ><ab>1834</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -55,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marion County, Lebanon District 1, p. 102. Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910), Kentucky Department for Libraries and Archives, Frankfort, Kentucky. Roll #994047: Madison, Magoffin and Marion, p. 6.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, Lebanon District 1, p. 102. Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910), Kentucky Department for Libraries and Archives, Frankfort, Kentucky. Roll #994047: Madison, Magoffin and Marion, p. 6.
 </bibl></ab>
     </back>
 </text>
