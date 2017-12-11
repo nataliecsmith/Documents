@@ -50,8 +50,8 @@
                       Christopher Chinn
                         (Mercer Co. Judge)
                     </persName>
-                      <birth when="c1791"></birth>
-                      <death when="1868-01-09"></death>
+                        <event type="birth"  when="1791"  certainty="medium" ><ab>c1791</ab></event>
+                        <event type="death"  when="1868-01-09"  ><ab>1868-01-09</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,8 +64,8 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Notable Kentucky African Americans Database</em>, &quot;Madison (Chinn slave)&quot;<br>
-http://nkaa.uky.edu/record.php?note<em>id=2867 (accessed August 15, 2017); _Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Mercer county, Harrodsburg, p. 5; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Mercer county, Harrodsburg, p. 2. </p>
+        <ab><bibl><hi rend=”italic”>Notable Kentucky African Americans Database</hi>, &quot;Madison (Chinn slave)&quot;<br>
+http://nkaa.uky.edu/record.php?note<hi rend=”italic”>id=2867 (accessed August 15, 2017); _Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer county, Harrodsburg, p. 5; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Mercer county, Harrodsburg, p. 2. 
 </bibl></ab>
     </back>
 </text>
