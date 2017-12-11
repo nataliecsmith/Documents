@@ -43,8 +43,8 @@
             <particDesc>
                 <org xml:id="O00002994">
                     <orgName>Congress of the Confederate States of America</orgName>
-                      <event type="begun" when="1862-02-18">1862-02-18</event>
-                      <event type="ended" when="1865-03-18">1865-03-18</event>
+                        <event type="begun"  when="1862-02-18"  ><ab>1862-02-18</ab></event>
+                        <event type="ended"  when="1865-03-18"  ><ab>1865-03-18</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +55,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Ezra J. Warner, <em>Biographical Register of the Confederate Congress</em> (Baton Rouge: Louisiana State University Press, 1975).</p>
+        <ab><bibl>Ezra J. Warner, <hi rend=”italic”>Biographical Register of the Confederate Congress</hi> (Baton Rouge: Louisiana State University Press, 1975).
 </bibl></ab>
     </back>
 </text>
