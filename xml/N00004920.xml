@@ -50,8 +50,8 @@
                       Nelson Taylor
                         (New York attorney, soldier, and congressman)
                     </persName>
-                      <birth when="1821-06-08"></birth>
-                      <death when="1894-01-16"></death>
+                        <event type="birth"  when="1821-06-08"  ><ab>1821-06-08</ab></event>
+                        <event type="death"  when="1894-01-16"  ><ab>1894-01-16</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Biographical Directory of the United States Congress</em>, s.v. &quot;Taylor,Nelson,&quot; (http://bioguide.congress.gov/scripts/biodisplay.pl?index=T000096) (accessed May 2, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Biographical Directory of the United States Congress</hi>, s.v. &quot;Taylor,Nelson,&quot; (http://bioguide.congress.gov/scripts/biodisplay.pl?index=T000096) (accessed May 2, 2017).
 </bibl></ab>
     </back>
 </text>
