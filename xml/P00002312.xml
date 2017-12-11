@@ -52,7 +52,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00002312">
                     <placeName>
                         <location>
@@ -61,7 +61,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -70,7 +70,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Webster County&quot; in <em>The Kentucky Encyclopedia</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 939-40.</p>
+        <ab><bibl>&quot;Webster County&quot; in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 939-40.
 </bibl></ab>
     </back>
 </text>
