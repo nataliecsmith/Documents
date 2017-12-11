@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1400"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,62 +70,41 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency The Honorable Beriah M<hi rend="sup">c</hi>Goffin Governor of the state of Kentucky Your petitioner William M Bowman humbly complaining would most respectfully rapresent and state to your excellency that at the last August term of the Marion Circuit Court he was fined the Sum of fifty dollars for carrying concealed a deadly weapon, he would further State that he is poor and in <hi rend="str">a</hi> needy circimstaces and is entirely unable to pay the same he is married and has a family dependent upon his labor for support and the fine which if not paid in a short time he is informed by Authority he will be taken to Jail, he therefore in consideration of the facts above represented and hardnesS of the times humbly supplicates your Excellencys interposition in his behalf and that you will Gran a remisssion of the fine, Entreating I remain your most Obedient and humble Servant
+   <p>To his Excellency The Honorable Beriah M<hi rend="sup">c</hi>Goffin Governor of the <orgName ref="cwgk:O001025">state of Kentucky</orgName> Your petitioner <persName ref="cwgk:N00003052">William M Bowman</persName> humbly complaining would most respectfully rapresent and state to your excellency that at the last August term of the <orgName ref="cwgk:O00000425">Marion Circuit Court</orgName> he was fined the Sum of fifty dollars for carrying concealed a deadly weapon, he would further State that he is poor and in <hi rend="str">a</hi> needy circimstaces and is entirely unable to pay the same he is married and has a family dependent upon his labor for support and the fine which if not paid in a short time he is informed by Authority he will be taken to Jail, he therefore in consideration of the facts above represented and hardnesS of the times humbly supplicates your Excellencys interposition in his behalf and that you will Gran a remisssion of the fine, Entreating I remain your most Obedient and humble Servant
 <lb/><date when="1861-09-11">Sept 11<hi rend="underline"><hi rend="sup">"</hi></hi> 1861</date></p>
 <p>W, M, Bowman</p>
 <p>Sworn to before me this <date when="1861-09-12">12th day of Sept 1861</date></p>
-<p>L. H. Noble P. J. M. C. C.</p>
+<p><persName ref="cwgk:N00000470">L. H. Noble</persName> P. J. M. C. C.</p>
 <p>We the undersigned blieve the statements<pb/>
 <lb/>above to be true</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Signers
 <lb/>Tho<hi rend="sup">s</hi> H, Chandler
 <lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> Savage
 <lb/>A Calleys
-<lb/>Felix Smith
-<lb/>R C Harris
-<lb/>Joseph Spalding
-<lb/>W, C, Jarboe
-<lb/>William Spalding
-<lb/><hi rend="underline">H. H.</hi> Hughes
+<lb/><persName ref="cwgk:N00004987">Felix Smith
+</persName><lb/><persName ref="cwgk:N00000248">R C Harris</persName><lb/><persName ref="cwgk:N00004990">Joseph Spalding
+</persName><lb/><persName ref="cwgk:N00004991">W. C. Jarboe</persName><lb/><persName ref="cwgk:N00004992">William Spalding</persName><lb/><hi rend="underline">H. H.</hi> Hughes
 <lb/>JaS J Gartin
-<lb/>John Severance
-<lb/>John M Wilkinson
-<lb/>F, M, Hawkins
-<lb/>Anthony Walston
-<lb/>James Pruitt
-<lb/>W, W, Purdy
-<lb/>A S Hardy
-<lb/>P_ B_ Riffe
-<lb/>W, W, Wathen
-<lb/>J B wathen
-<lb/><unclear>W<hi rend="underline"><hi rend="sup">m</hi></hi> Banin</unclear>
-<lb/>C. S. Stoy
-<lb/>J O Kirkland
-<lb/>James Adams
-<lb/>James Edmonds
-<lb/>R A Wilkison
+<lb/><persName ref="cwgk:N00004995">John Severance</persName><lb/><persName ref="cwgk:N00004974">John M Wilkinson</persName><lb/><persName ref="cwgk:N00004976">F, M, Hawkins</persName><lb/>Anthony Walston
+<lb/><persName ref="cwgk:N00004975">James Pruitt</persName><lb/><persName ref="cwgk:N00000250">W, W, Purdy</persName><lb/><persName ref="cwgk:N00000256">A S Hardy</persName><lb/>P_ B_ Riffe
+<lb/><persName ref="cwgk:N00000255">W, W, Wathen</persName><lb/><persName ref="cwgk:N00004978">J B wathen</persName><lb/><unclear>W<hi rend="underline"><hi rend="sup">m</hi></hi> Banin</unclear>
+<lb/><persName ref="cwgk:N00004980">C. S. Stoy</persName><lb/><persName ref="cwgk:N00004981">J O Kirkland</persName><lb/><persName ref="cwgk:N00004982">James Adams
+</persName><lb/><persName ref="cwgk:N00004983">James Edmonds</persName><lb/>R A Wilkison
 <lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> G. Bree
 <lb/><cb n="2"/>Signers
-<lb/>J M Martin
-<lb/>Joseph Miller
-<lb/>Albert J Jenkins
-<lb/>A S Walle
-<lb/>Ben S. Bradshaw
+<lb/><persName ref="cwgk:N00003053">J M Martin</persName><lb/><persName ref="cwgk:N00003054">Joseph Miller</persName><lb/><persName ref="cwgk:N00003055">Albert J Jenkins</persName><lb/><persName ref="cwgk:N00003667">A S Walle
+</persName><lb/>Ben S. Bradshaw
 <lb/>W M, Rickets
-<lb/>N T Berry
-<lb/>John Shuck
-<lb/>Thos. C. Woods
-<lb/>W B Harrison
-<lb/>L. H. Noble
+<lb/><persName ref="cwgk:N00003083">N T Berry</persName><lb/><persName ref="cwgk:N00004970">John Shuck</persName><lb/><persName ref="cwgk:N00003085">Thos. C. Woods
+</persName><lb/><persName ref="cwgk:N00003086">W B Harrison</persName><lb/>L. H. Noble
 <lb/>James A. Graham
 <lb/>F, B. Johnson
-<lb/>J. W. Chandler
-<lb/><unclear/> <unclear>R M Shuete</unclear>
-<lb/>James M Fogle<milestone unit="column" n="1"/><pb/></p>
+<lb/><persName ref="cwgk:N00003087">J. W. Chandler</persName><lb/><unclear/> <unclear>R M Shuete</unclear>
+<lb/><persName ref="cwgk:N00003089">James M Fogle</persName><milestone unit="column" n="1"/><pb/></p>
 <p>Remitted 
 <lb/>B. M. </p>
 <p>Marion Cir. Ct.
-<lb/>&#36;50. &#125; Weapons
+<lb/>$50. } Weapons
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> M. Bowman
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-09-17">Sept 17. 1861</date></p>
   </body>
