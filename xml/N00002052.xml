@@ -46,8 +46,8 @@
                       Albert Petty Thompson
                         (Paducah atto &amp; Col. 3rd KY Inf. CSA)
                     </persName>
-                      <birth when="1829-03-03"></birth>
-                      <death when="1864-03-25"></death>
+                        <event type="birth"  when="1829-03-03"  ><ab>1829-03-03</ab></event>
+                        <event type="death"  when="1864-03-25"  ><ab>1864-03-25</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Bruce S. Allerdice and Lawrence Lee Hewitt, eds., <em>Kentuckians in Gray: Confederate Generals and Field Officers of the Bluegrass State</em> (Lexington: University Press of Kentucky, 2008), 310; <em>The Biographical Encyclopedia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati, OH: J. M. Armstrong &amp; Company, 1878), 537.</p>
+        <ab><bibl>Bruce S. Allerdice and Lawrence Lee Hewitt, eds., <hi rend=”italic”>Kentuckians in Gray: Confederate Generals and Field Officers of the Bluegrass State</hi> (Lexington: University Press of Kentucky, 2008), 310; <hi rend=”italic”>The Biographical Encyclopedia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati, OH: J. M. Armstrong &amp; Company, 1878), 537.
 </bibl></ab>
     </back>
 </text>
