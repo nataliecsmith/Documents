@@ -44,7 +44,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00002302">
                     <placeName>
                         <location>
@@ -53,7 +53,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -62,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Perry H. Howard and Robert J. Norrell, &quot;Louisiana&quot; in <em>Encyclopedia Britannica</em>, (https://www.britannica.com/place/Louisiana-state) (accessed May 2, 2017).</p>
+        <ab><bibl>Perry H. Howard and Robert J. Norrell, &quot;Louisiana&quot; in <hi rend=”italic”>Encyclopedia Britannica</hi>, (https://www.britannica.com/place/Louisiana-state) (accessed May 2, 2017).
 </bibl></ab>
     </back>
 </text>
