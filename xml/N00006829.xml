@@ -50,8 +50,8 @@
                       Charles S. Norton
                         (Chautauqua County, New York, merchant and county clerk)
                     </persName>
-                      <birth when="c1826"></birth>
-                      <death when="c1872"></death>
+                        <event type="birth"  when="1826"  certainty="medium" ><ab>c1826</ab></event>
+                        <event type="death"  when="1872"  certainty="medium" ><ab>c1872</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, New York, Chautauqua County, Carroll, p. 46; <em>New York Wills and Probate Records, 1659-1999</em>, Chautauqua County, New York, Administrator Bonds, Volume 1, 1871-1883, p. 47.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, New York, Chautauqua County, Carroll, p. 46; <hi rend=”italic”>New York Wills and Probate Records, 1659-1999</hi>, Chautauqua County, New York, Administrator Bonds, Volume 1, 1871-1883, p. 47.
 </bibl></ab>
     </back>
 </text>
