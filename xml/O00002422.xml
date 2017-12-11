@@ -47,8 +47,7 @@
             <particDesc>
                 <org xml:id="O00002422">
                     <orgName>Western Lunatic Asylum of Kentucky</orgName>
-                      <event type="begun" when="1848">1848</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1848"  ><ab>1848</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -59,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>William Henry Perrin, ed., <em>Counties of Christian and Trigg, Kentucky. Historical and Biographical</em> (Chicago, IL: F. A. Battey Publishing, 1884), 197-199; William T. Turner, &quot;Western State Hospital&quot; in <em>The Kentucky Encyclopedia</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 944-45. Charles Mayfield Meacham, <em>A History of Christian County Kentucky from Oxcart to Airplane</em> (Nashville: Marshall &amp; Bruce Co., 1930), p. 296-98.</p>
+        <ab><bibl>William Henry Perrin, ed., <hi rend=”italic”>Counties of Christian and Trigg, Kentucky. Historical and Biographical</hi> (Chicago, IL: F. A. Battey Publishing, 1884), 197-199; William T. Turner, &quot;Western State Hospital&quot; in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 944-45. Charles Mayfield Meacham, <hi rend=”italic”>A History of Christian County Kentucky from Oxcart to Airplane</hi> (Nashville: Marshall &amp; Bruce Co., 1930), p. 296-98.
 </bibl></ab>
     </back>
 </text>
