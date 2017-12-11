@@ -43,8 +43,7 @@
             <particDesc>
                 <org xml:id="O00000311">
                     <orgName>Kentucky Court of Appeals</orgName>
-                      <event type="begun" when="1792">1792</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1792"  ><ab>1792</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Lewis Collins and Richard H. Collins, <em>Collins’ Historical Sketches of Kentucky: History of Kentucky</em>, vol. 1 (Collins &amp; Company, 1874), 84, 500; John E. Kleber, ed., <em>The Kentucky Encyclopedia</em> (Lexington: University Press of Kentucky, 1992), 219.</p>
+        <ab><bibl>Lewis Collins and Richard H. Collins, <hi rend=”italic”>Collins’ Historical Sketches of Kentucky: History of Kentucky</hi>, vol. 1 (Collins &amp; Company, 1874), 84, 500; John E. Kleber, ed., <hi rend=”italic”>The Kentucky Encyclopedia</hi> (Lexington: University Press of Kentucky, 1992), 219.
 </bibl></ab>
     </back>
 </text>
