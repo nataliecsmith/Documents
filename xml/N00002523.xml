@@ -50,8 +50,7 @@
                       Frederick Fairthorne
                         (Philadelphia, Pennsylvania, attorney)
                     </persName>
-                      <birth when="c1824"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1824"  certainty="medium" ><ab>c1824</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>John Livingston, <em>Livingston&#39;s United States Law Register, and Official Directory</em> (New York: John Livingston, 1859), 795; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 10, District 29, p. 57; KYR-0001-007-0374.</p>
+        <ab><bibl>John Livingston, <hi rend=”italic”>Livingston&#39;s United States Law Register, and Official Directory</hi> (New York: John Livingston, 1859), 795; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Ward 10, District 29, p. 57; KYR-0001-007-0374.
 </bibl></ab>
     </back>
 </text>
