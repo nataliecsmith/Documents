@@ -46,8 +46,7 @@
                       William R. Waters
                         (Bracken County farmer)
                     </persName>
-                      <birth when="c1838"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1838"  certainty="medium" ><ab>c1838</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bracken County, District No. 1, p. 100; <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Archive Volume Number: 2 of 3, Bracken County, Kentucky, p. 480, (Accessed via ancestry.com).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bracken County, District No. 1, p. 100; <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Archive Volume Number: 2 of 3, Bracken County, Kentucky, p. 480, (Accessed via ancestry.com).
 </bibl></ab>
     </back>
 </text>
