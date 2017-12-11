@@ -50,8 +50,8 @@
                       John Marshall Harlan 
                         (Kentucky politician, soldier, and attorney)
                     </persName>
-                      <birth when="1833-06-01"></birth>
-                      <death when="1911-10-14"></death>
+                        <event type="birth"  when="1833-06-01"  ><ab>1833-06-01</ab></event>
+                        <event type="death"  when="1911-10-14"  ><ab>1911-10-14</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Franklin County, District 2, p. 54; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, District 1, p. 82; H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 151-55; <em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 31-32; Lorren P. Beth, John Marshall Harlan: The Last Whig Justice (Lexington: University Press of Kentucky, 1992). &quot;John Marshall Harlan, 1877-1911,&quot; <em>The Supreme Court Historical Society</em> (http://supremecourthistory.org/timeline<em>harlan</em>1877_1911.html) (accessed on July 19, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 2, p. 54; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, District 1, p. 82; H. Levin, <hi rend=”italic”>The Lawyers and Lawmakers of Kentucky</hi> (Chicago: The Lewis Publishing Company, 1897), 151-55; <hi rend=”italic”>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 31-32; Lorren P. Beth, John Marshall Harlan: The Last Whig Justice (Lexington: University Press of Kentucky, 1992). &quot;John Marshall Harlan, 1877-1911,&quot; <hi rend=”italic”>The Supreme Court Historical Society</hi> (http://supremecourthistory.org/timeline<hi rend=”italic”>harlan</hi>1877_1911.html) (accessed on July 19, 2017).
 </bibl></ab>
     </back>
 </text>
