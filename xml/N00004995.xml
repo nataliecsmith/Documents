@@ -46,8 +46,8 @@
                       John Severance
                         (Lebanon (marion co) barkeeper)
                     </persName>
-                      <birth when="1831-09-23"></birth>
-                      <death when="1887-04-25"></death>
+                        <event type="birth"  when="1831-09-23"  ><ab>1831-09-23</ab></event>
+                        <event type="death"  when="1887-04-25"  ><ab>1887-04-25</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Marion County, Lebanon District 2, p. 102. <em>Marion County [Kentucky] Court, Probate Records, 1863-1902</em>, Roll 598712: Administrators Bonds, Vol. 3, 1879-91, p. 227.  <em>Lebanon Standard and Times</em>, April 27, 1887. <em>Find A Grave</em>, &quot;John Severance (1831-1887)&quot;, Memorial # 105183455 http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=95025747&amp;ref=acom (accessed 14 June 2016).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Marion County, Lebanon District 2, p. 102. <hi rend=”italic”>Marion County [Kentucky] Court, Probate Records, 1863-1902</hi>, Roll 598712: Administrators Bonds, Vol. 3, 1879-91, p. 227.  <hi rend=”italic”>Lebanon Standard and Times</hi>, April 27, 1887. <hi rend=”italic”>Find A Grave</hi>, &quot;John Severance (1831-1887)&quot;, Memorial # 105183455 http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=95025747&amp;ref=acom (accessed 14 June 2016).
 </bibl></ab>
     </back>
 </text>
