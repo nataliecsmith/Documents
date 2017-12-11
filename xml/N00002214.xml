@@ -50,8 +50,8 @@
                       Charles S. Marshall
                         (Ballard County, Kentucky, lawyer and circuit judge)
                     </persName>
-                      <birth when="1821-01-19"></birth>
-                      <death when="1896-11-13"></death>
+                        <event type="birth"  when="1821-01-19"  ><ab>1821-01-19</ab></event>
+                        <event type="death"  when="1896-11-13"  ><ab>1896-11-13</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>J. H. Battle, W. H. Perrin, and G. C. Kniffin, <em>Kentucky: A History of the State</em>, Part II (Louisville: F. A. Battey Publishing Company, 1885), p. 307. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, Blandville district, p. 1. &quot;An Act to Incorporate Lodge No. 147, Indepdenent Order of Odd Fellows, in the town of Blandville, Kentucky,&quot; <em>Acts of the General Assembly of the Commonwealth of Kentucky</em> (Frankfort: John B. Major, Public Printer and W. R. Hughes, Public Printer, 1861, 1862, and 1863), 7. John Livingston, <em>Livingston&#39;s United States Law Register</em> (New York: Monthly Law Magazine, 1854), 106. <em>Find A Grave</em>, &quot;Judge Charles S. Marshall (1821-1896),&quot; Memorial #84223356, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=84223356&amp;ref=acom (accessed September 20, 2017). KYR-0001-004-0073. KYR-0001-004-0098. KYR-0001-020-1457.</p>
+        <ab><bibl>J. H. Battle, W. H. Perrin, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi>, Part II (Louisville: F. A. Battey Publishing Company, 1885), p. 307. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Blandville district, p. 1. &quot;An Act to Incorporate Lodge No. 147, Indepdenent Order of Odd Fellows, in the town of Blandville, Kentucky,&quot; <hi rend=”italic”>Acts of the General Assembly of the Commonwealth of Kentucky</hi> (Frankfort: John B. Major, Public Printer and W. R. Hughes, Public Printer, 1861, 1862, and 1863), 7. John Livingston, <hi rend=”italic”>Livingston&#39;s United States Law Register</hi> (New York: Monthly Law Magazine, 1854), 106. <hi rend=”italic”>Find A Grave</hi>, &quot;Judge Charles S. Marshall (1821-1896),&quot; Memorial #84223356, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=84223356&amp;ref=acom (accessed September 20, 2017). KYR-0001-004-0073. KYR-0001-004-0098. KYR-0001-020-1457.
 </bibl></ab>
     </back>
 </text>
