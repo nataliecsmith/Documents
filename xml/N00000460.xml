@@ -46,8 +46,8 @@
                       John Flavel Fisk, Sr.
                         (Covington, Kentucky, attorney and politician)
                     </persName>
-                      <birth when="1815-12-14"></birth>
-                      <death when="1902-02-21"></death>
+                        <event type="birth"  when="1815-12-14"  ><ab>1815-12-14</ab></event>
+                        <event type="death"  when="1902-02-21"  ><ab>1902-02-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Greg Perkins, “Fisk, John Flavel,” in <em>The Encyclopedia of Northern Kentucky</em>, eds. Paul A. Tenkotte and James C. Claypool (Lexington: University Press of Kentucky, 2009), p. 342; Lewis Collins and Richard H. Collins, <em>History of Kentucky, Volume II</em> (Covington, KY: Collins and Company, 1878), p. 421; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Kenton County, Covington, Ward 2, p. 240; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Kenton County, Covington, Ward 4, p. 198; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Kenton County, Covington, p. 27.</p>
+        <ab><bibl>Greg Perkins, “Fisk, John Flavel,” in <hi rend=”italic”>The Encyclopedia of Northern Kentucky</hi>, eds. Paul A. Tenkotte and James C. Claypool (Lexington: University Press of Kentucky, 2009), p. 342; Lewis Collins and Richard H. Collins, <hi rend=”italic”>History of Kentucky, Volume II</hi> (Covington, KY: Collins and Company, 1878), p. 421; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Kenton County, Covington, Ward 2, p. 240; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington, Ward 4, p. 198; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Kenton County, Covington, p. 27.
 </bibl></ab>
     </back>
 </text>
