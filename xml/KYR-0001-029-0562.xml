@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0562"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Hancock Circuit court, Sct:
-<lb/><date when="1863-02">February term 1863</date>.
-<lb/>The Commonwealth of Ky. Pltff
-<lb/>Against &#125; On an Indict for selling liquor to slaves N<hi rend="underline"><hi rend="sup">o</hi></hi> 2.
-<lb/>John Eglaff Deft</p>
-<p>This day came the Attorney for the Commonwealth and the defendant in open Court confessed Judgment by consent in sum of Ten dollars, Whereupon it is adjudged by the Court that the defendant make his fine to the Commonwealth by the payment of ten dollars, and the costs of this prosecution, and may be taken &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
+   <p><orgName ref="cwgk:O001025">State of Kentucky</orgName><lb/><orgName ref="cwgk:O00000399">Hancock Circuit court</orgName>, Sct:<lb/><date when="1863-02">February term 1863</date>.
+<lb/><orgName ref="cwgk:O001025">The Commonwealth of Ky</orgName>. Pltff<lb/>Against } On an Indict for selling liquor to slaves N<hi rend="underline"><hi rend="sup">o</hi></hi> 2.
+<lb/><persName ref="cwgk:N00002288">John Eglaff</persName> Deft</p>
+<p>This day came <persName ref="cwgk:N00002285">the Attorney for the Commonwealth</persName> and the defendant in open Court confessed Judgment by consent in sum of Ten dollars, Whereupon it is adjudged by the Court that the defendant make his fine to the Commonwealth by the payment of ten dollars, and the costs of this prosecution, and may be taken &amp;<hi rend="underline"><hi rend="sup">c</hi></hi></p>
 <p>A Copy,
-<lb/>Attest: <hi rend="underline">Eldred E Pate Clerk</hi><pb/></p>
+<lb/>Attest: <persName ref="cwgk:N00002290">Eldred E Pate</persName> Clerk<pb/></p>
 <p>Commonwealth of Ky.
-<lb/>vs. &#125; Co Orders.
+<lb/>vs. } Co Orders.
 <lb/>John Eglaff</p>
   </body>
  </text>
