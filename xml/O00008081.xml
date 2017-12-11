@@ -43,8 +43,6 @@
             <particDesc>
                 <org xml:id="O00008081">
                     <orgName>Ryan &amp; Batty</orgName>
-                      <event type="begun" when="unknown">unknown</event>
-                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +53,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-004-0008.</p>
+        <ab><bibl>KYR-0001-004-0008.
 </bibl></ab>
     </back>
 </text>
