@@ -50,8 +50,8 @@
                       Anson N. Hoskins
                         (Philadelphia, Pennsylvania, attorney and commissioner of deeds)
                     </persName>
-                      <birth when="c1820"></birth>
-                      <death when="1867-08-22"></death>
+                        <event type="birth"  when="1820"  certainty="medium" ><ab>c1820</ab></event>
+                        <event type="death"  when="1867-08-22"  ><ab>1867-08-22</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Upper Delaware Ward, p. 24; &quot;Republican Convention,&quot; <em>The Philadelphia Inquirer</em> (Philadelphia, Pa.), January 17, 1862, p. 8; &quot;Deaths,&quot; <em>The Philadelphia Inquirer</em>, August 26, 1867, p. 5; KYR-0001-007-0346.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedule, Pennsylvania, Philadelphia County, Philadelphia, Upper Delaware Ward, p. 24; &quot;Republican Convention,&quot; <hi rend=”italic”>The Philadelphia Inquirer</hi> (Philadelphia, Pa.), January 17, 1862, p. 8; &quot;Deaths,&quot; <hi rend=”italic”>The Philadelphia Inquirer</hi>, August 26, 1867, p. 5; KYR-0001-007-0346.
 </bibl></ab>
     </back>
 </text>
