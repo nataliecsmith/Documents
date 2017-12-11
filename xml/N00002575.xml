@@ -50,8 +50,8 @@
                       Jacob Mace
                         (Portsmouth, Ohio, banker and farmer)
                     </persName>
-                      <birth when="1809-05-21"></birth>
-                      <death when="1895-03-28"></death>
+                        <event type="birth"  when="1809-05-21"  ><ab>1809-05-21</ab></event>
+                        <event type="death"  when="1895-03-28"  ><ab>1895-03-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Ohio, Ross County, Liberty, p. 27; &quot;Nearing the End,&quot; <em>The Chillicothe Gazette</em> (Chillicothe, O.), August 18, 1893, p. 1;  <em>Find A Grave</em>, &quot;Jacob Mace (1809-1895),&quot; Memorial #67215194, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=MAC&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=37&amp;GScntry=4&amp;GSsr=1081&amp;GRid=67215194&amp; (accessed May 9, 2017); KYR-0001-007-0392.</p>
+        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Ohio, Ross County, Liberty, p. 27; &quot;Nearing the End,&quot; <hi rend=”italic”>The Chillicothe Gazette</hi> (Chillicothe, O.), August 18, 1893, p. 1;  <hi rend=”italic”>Find A Grave</hi>, &quot;Jacob Mace (1809-1895),&quot; Memorial #67215194, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GSln=MAC&amp;GSpartial=1&amp;GSbyrel=all&amp;GSst=37&amp;GScntry=4&amp;GSsr=1081&amp;GRid=67215194&amp; (accessed May 9, 2017); KYR-0001-007-0392.
 </bibl></ab>
     </back>
 </text>
