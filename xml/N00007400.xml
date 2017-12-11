@@ -46,8 +46,8 @@
                       Ash W. Violett
                         (Ballard County, Kentucky, farmer)
                     </persName>
-                      <birth when="1815-09-23"></birth>
-                      <death when="1891-08-04"></death>
+                        <event type="birth"  when="1815-09-23"  ><ab>1815-09-23</ab></event>
+                        <event type="death"  when="1891-08-04"  ><ab>1891-08-04</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Ballard County, p. 262. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, Picketts District, p. 41. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Ballard County, Picketts District, p. 8. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Ballard County, District 5, p. 1. <em>Find A Grave</em>, &quot;Ashford W. Violett, Sr (1815-1891),&quot; Memorial #139735892, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=139735892&amp;ref=acom (accessed June 22, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Ballard County, p. 262. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Picketts District, p. 41. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Ballard County, Picketts District, p. 8. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, District 5, p. 1. <hi rend=”italic”>Find A Grave</hi>, &quot;Ashford W. Violett, Sr (1815-1891),&quot; Memorial #139735892, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=139735892&amp;ref=acom (accessed June 22, 2017).
 </bibl></ab>
     </back>
 </text>
