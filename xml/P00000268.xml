@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00000268">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Roger D. Tate, Jr. “Pulaski County”  in John E. Kleber, ed., <em>The Encyclopedia of Kentucky</em> (Lexington: University Press of Kentucky, 2001), 747-49.</p>
+        <ab><bibl>Roger D. Tate, Jr. “Pulaski County”  in John E. Kleber, ed., <hi rend=”italic”>The Encyclopedia of Kentucky</hi> (Lexington: University Press of Kentucky, 2001), 747-49.
 </bibl></ab>
     </back>
 </text>
