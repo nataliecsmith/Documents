@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0332"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,9 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Pennsylvania
-<lb/>City and County of Philadelphia &#125; SS.</p>
-<p>I William V. Archer Commissioner of Deeds for the State of Kentucky duly appointed and commissioned by the Governor thereof for the State of Pennsylvania and authorized to take the acknolwdgements of Deeds and other writings, do certify that these Articles of Association of "The Hardwick Oil Company" were this day produced to me by Nelson Yocum, Stephen Benton, Joseph Pancoast, Marmaduke Moore, George S Crawford, J Edgar Thompson, Lewis. L. Houpt, H. C. Yarrow, Phillip Wilson and W. Williamson the corporators therein named and by them then and there acknowleged before me to be their and each of their several acts and deeds for the uses and purposes therein mentioned.</p>
+   <p><placeName ref="cwgk:P001006">State of Pennsylvania</placeName><lb/><placeName ref="cwgk:P00001701">City and County of Philadelphia</placeName> } SS.</p>
+<p>I <persName ref="cwgk:N001780">William V. Archer</persName> Commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName> duly appointed and commissioned by the <persName ref="cwgk:N001000">Governor</persName> thereof for the State of Pennsylvania and authorized to take the acknolwdgements of Deeds and other writings, do certify that these Articles of Association of "<orgName ref="cwgk:O00006529">The Hardwick Oil Company</orgName>" were this day produced to me by <persName ref="cwgk:N00005636">Nelson Yocum</persName>, <persName ref="cwgk:N00005639">Stephen Benton</persName>, <persName ref="cwgk:N00005629">Joseph Pancoast</persName>, <persName ref="cwgk:N00005638">Marmaduke Moore</persName>, George S Crawford, <persName ref="cwgk:N00005632">J Edgar Thompson</persName>, Lewis. L. Houpt, <persName ref="cwgk:N00006527">H. C. Yarrow</persName>, <persName ref="cwgk:N00005641">Phillip Wilson</persName> and <persName ref="cwgk:N00006530">W. Williamson</persName> the corporators therein named and by them then and there acknowleged before me to be their and each of their several acts and deeds for the uses and purposes therein mentioned.</p>
 <p><figure type="seal"><ab>WM. V. ARCHER. COMMISSIONER
 <lb/>OF DEEDS.
 <lb/>PHILADELPHIA.
@@ -74,8 +81,8 @@
 <p>W<hi rend="underline"><hi rend="sup">m</hi></hi> V. Archer
 <lb/>Commissioner for Kentucky in Philadelphia Penna.<pb/></p>
 <p>State of Kentucky
-<lb/>Estill County &#125; Sct</p>
-<p>I Morton M Price Clerk of the County Court of Estill County do Certify that this article of association of the Hardswicks,, Oil Company was this day produced to me in my office and by me Recorded given under my hand and seal office this <date when="1864-12-09">9th day of December 1864</date></p>
+<lb/><placeName ref="cwgk:P00004776">Estill County</placeName> } Sct</p>
+<p>I <persName ref="cwgk:N00005643">Morton M Price</persName> Clerk of the <orgName ref="cwgk:O00000619">County Court of Estill County</orgName> do Certify that this article of association of the Hardswicks,, Oil Company was this day produced to me in my office and by me Recorded given under my hand and seal office this <date when="1864-12-09">9th day of December 1864</date></p>
 <p>Morton M Price C E C C</p>
 <p><figure type="seal"><ab>ESTILL COUNTY COURT
 <lb/><unclear>KENTUCKY</unclear></ab></figure></p>
