@@ -50,8 +50,7 @@
                       Joseph T. McKibben
                         (Bracken County Saddler)
                     </persName>
-                      <birth when="c1800"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1800"  certainty="medium" ><ab>c1800</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Bracken County, Augusta, p. 134.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bracken County, Augusta, p. 134.
 </bibl></ab>
     </back>
 </text>
