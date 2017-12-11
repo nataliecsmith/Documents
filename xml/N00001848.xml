@@ -46,8 +46,7 @@
                       Anthony C. McElroy
                         (Springfield, ky bank cashier)
                     </persName>
-                      <birth when="1833-08"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1833-08"  ><ab>1833-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Washington County, Springfield District No. 1, p. 135. <em>Twelfth Manuscript Census of the United States</em> (1900), Population Schedules, Kentucky, Washington County, Springfield, district 128, sheet 4A, family 71. </p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Washington County, Springfield District No. 1, p. 135. <hi rend=”italic”>Twelfth Manuscript Census of the United States</hi> (1900), Population Schedules, Kentucky, Washington County, Springfield, district 128, sheet 4A, family 71. 
 </bibl></ab>
     </back>
 </text>
