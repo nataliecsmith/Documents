@@ -52,7 +52,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00001874">
                     <placeName>
                         <location>
@@ -61,7 +61,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -70,7 +70,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Ron D. Bryant, &quot;Campbell County,&quot; John E. Kleber, ed., <em>The Kentucky Encyclopedia.</em> (Lexington, Ky: University Press of Kentucky, 1992), 155.</p>
+        <ab><bibl>Ron D. Bryant, &quot;Campbell County,&quot; John E. Kleber, ed., <hi rend=”italic”>The Kentucky Encyclopedia.</hi> (Lexington, Ky: University Press of Kentucky, 1992), 155.
 </bibl></ab>
     </back>
 </text>
