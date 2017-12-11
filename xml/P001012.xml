@@ -36,7 +36,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P001012">
                     <placeName>
                         <location>
@@ -45,7 +45,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -54,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Robert M. Rennick, <em>Kentucky Place Names</em> (Lexington: The University Press of Kentucky, 1984), 14.</p>
+        <ab><bibl>Robert M. Rennick, <hi rend=”italic”>Kentucky Place Names</hi> (Lexington: The University Press of Kentucky, 1984), 14.
 </bibl></ab>
     </back>
 </text>
