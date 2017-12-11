@@ -47,8 +47,6 @@
             <particDesc>
                 <org xml:id="O00001128">
                     <orgName>12th District Court of California</orgName>
-                      <event type="begun" when="unknown">unknown</event>
-                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -59,7 +57,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-007-0314</p>
+        <ab><bibl>KYR-0001-007-0314
 </bibl></ab>
     </back>
 </text>
