@@ -46,8 +46,7 @@
                       George Bryan
                         (clerk of Russell County Court)
                     </persName>
-                      <birth when="c1819"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1819"  certainty="medium" ><ab>c1819</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Russell County, District 1, p. 225A;<em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Russell County, District 1, p. 526.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Russell County, District 1, p. 225A;<hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Russell County, District 1, p. 526.
 </bibl></ab>
     </back>
 </text>
