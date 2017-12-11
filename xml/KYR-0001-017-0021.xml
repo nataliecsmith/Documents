@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0021"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,54 +70,40 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the Governor of Kentucky</p>
-<p>The undersigned citizens of the 4th Justices District of Hancock County Ky represent that there is a vacancy in the Office of Justice of the Peace in said district occasioned by the removal of Miles Hughes, We would suggest to your Excellency the appointment of Stephen H. C Lewis to said office.-
-<lb/><hi rend="str">Sept</hi><date when="1860-11-06">Novr 6 1860. -- </date></p>
-<p><milestone unit="column" n="3"/><cb n="1"/>Jeff Burnett
-<lb/>Robert Hardy.
+   <p>To the <persName ref="cwgk:N00000258">Governor of Kentucky</persName></p>
+<p>The undersigned citizens of the 4th Justices District of <placeName ref="cwgk:P001816">Hancock County Ky </placeName>represent that there is a vacancy in the Office of Justice of the Peace in said district occasioned by the removal of <persName ref="cwgk:N00001786">Miles Hughes</persName>, We would suggest to your Excellency the appointment of <persName ref="cwgk:N00001787">Stephen H. C Lewis </persName>to said office.-<lb/><hi rend="str">Sept</hi><date when="1860-11-06">Novr 6 1860. -- </date></p>
+<p><milestone unit="column" n="3"/><cb n="1"/><persName ref="cwgk:N00001788">Jeff Burnett
+</persName><lb/>Robert Hardy.
 <lb/>Benj Lynch
 <lb/>W<hi rend="sup">m</hi> Cook
-<lb/>Wayman Cooper
-<lb/>J. K. Johnson
-<lb/>W. G Mays.
+<lb/><persName ref="cwgk:N00001799">Wayman Cooper</persName><lb/><persName ref="cwgk:N00001803">J. K. Johnson
+</persName><lb/>W. G Mays.
 <lb/>A. C. Lindsay
 <lb/>John <unclear>Swigurt</unclear>
-<lb/>Henry Paul.
-<lb/>T. G. Lynch
-<lb/>G H Roberts
-<lb/>J. H. Mathews
-<lb/>S. B. Burnett
-<lb/><cb n="2"/>W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Tindle
+<lb/><persName ref="cwgk:N00001818">Henry Pau</persName>l.<lb/><persName ref="cwgk:N00001821">T. G. Lynch</persName><lb/><persName ref="cwgk:N00001824">G H Roberts</persName><lb/>J. H. Mathews
+<lb/><persName ref="cwgk:N00001828">S. B. Burnett</persName><lb/><cb n="2"/>W<hi rend="underline"><hi rend="sup">m</hi></hi> B. Tindle
 <lb/>Hawkins Tindle
-<lb/>John Probus
-<lb/>T. F. Tindle
-<lb/>J A Clark
-<lb/>H Tindle Jr
+<lb/><persName ref="cwgk:N00001795">John Probus</persName><lb/><persName ref="cwgk:N00001798">T. F. Tindle
+</persName><lb/><persName ref="cwgk:N00001801">J A Clark</persName><lb/>H Tindle Jr
 <lb/>W<hi rend="sup">m</hi> Clark
 <lb/>Wm Sterett
 <lb/>Thos Ogden
-<lb/>C. E. Price
-<lb/>T. M Wheatly
-<lb/>Wilfred Hayes.
-<lb/>H. E. Haynes
-<lb/>A. J Logden
-<lb/>Jacob Swear.
-<lb/><cb n="3"/>D L Adair
-<lb/>Frank Gest
-<lb/>C J Sterett
-<lb/>D Davison
-<lb/>N Starks
+<lb/><persName ref="cwgk:N00001819">C. E. Price
+</persName><lb/><persName ref="cwgk:N00001822">T. M Wheatly
+</persName><lb/>Wilfred Hayes.
+<lb/><persName ref="cwgk:N00001812">H. E. Haynes</persName><lb/><persName ref="cwgk:N00001829">A. J Logden
+</persName><lb/><persName ref="cwgk:N00001830">Jacob Swear</persName>.<lb/><cb n="3"/><persName ref="cwgk:N00001790">D L Adair
+</persName><lb/><persName ref="cwgk:N00001793">Frank Gest
+</persName><lb/><persName ref="cwgk:N00001796">C J Sterett
+</persName><lb/><persName ref="cwgk:N00001800">D Davison</persName><lb/>N Starks
 <lb/>Tho<hi rend="sup">s</hi> Clark
 <lb/>Green Sterett
 <lb/>R G Tift
-<lb/>T M Newman
-<lb/>Baird Sterett
-<lb/>Jeff Richey
-<lb/>R. C. Walker
-<lb/>Jas Burnett
-<lb/>Sylvester Key
-<lb/>Geo Jarboe
-<lb/>Stephen Burdett<milestone unit="column" n="1"/><pb/></p>
+<lb/><persName ref="cwgk:N00001817">T M Newman
+</persName><lb/>Baird Sterett
+<lb/><persName ref="cwgk:N00001823">Jeff Richey</persName><lb/><persName ref="cwgk:N00001826">R. C. Walker</persName><lb/><persName ref="cwgk:N00001788">Jas Burnett
+</persName><lb/><persName ref="cwgk:N00001813">Sylvester Key
+</persName><lb/><persName ref="cwgk:N00001814">Geo Jarboe</persName><lb/>Stephen Burdett<milestone unit="column" n="1"/><pb/></p>
 <p>Hancock Co<figure type="hr"/>
 <lb/>J. P. Dist N<hi rend="sup">o</hi> 4
 <lb/>S. H. C. Lewis
