@@ -50,8 +50,8 @@
                       Aaron Lawson
                         (Edmonson County, Kentucky, farmer and court clerk)
                     </persName>
-                      <birth when="1833-01-31"></birth>
-                      <death when="1913-10-18"></death>
+                        <event type="birth"  when="1833-01-31"  ><ab>1833-01-31</ab></event>
+                        <event type="death"  when="1913-10-18"  ><ab>1913-10-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Barren County, Division 2, p. 461; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Edmonson County, p. 109; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hart County, Caverna, p. 3; <em>Kentucky Birth, Marriage, and Death Records, 1852-1910</em>, Ancestry, Marriages, Edmonson County, Kentucky, August 1858; William T. Samuels, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1865</em> (Frankfort, KY: George D. Prentice, 1866), p. 11; William T. Samuels, <em>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1867 (Frankfort, KY: John H. Harney, 1867)</em>, p. 355; <em>Kentucky Vital Statistics Original Death Certificates (1911-1955)</em>, 1913, Warren County, Kentucky, File no. 28121; <em>Find A Grave</em>, &quot;Judge Aaron Lawson (1833-1913),&quot; Memorial #83391663, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=83391663 (accessed August 16, 2017); KYR-0001-029-0479; KYR-0001-029-0531.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Barren County, Division 2, p. 461; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Edmonson County, p. 109; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hart County, Caverna, p. 3; <hi rend=”italic”>Kentucky Birth, Marriage, and Death Records, 1852-1910</hi>, Ancestry, Marriages, Edmonson County, Kentucky, August 1858; William T. Samuels, <hi rend=”italic”>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1865</hi> (Frankfort, KY: George D. Prentice, 1866), p. 11; William T. Samuels, <hi rend=”italic”>Annual Report of the Auditor of Public Accounts, of the State of Kentucky, for the Fiscal Year Ending October 10, 1867 (Frankfort, KY: John H. Harney, 1867)</hi>, p. 355; <hi rend=”italic”>Kentucky Vital Statistics Original Death Certificates (1911-1955)</hi>, 1913, Warren County, Kentucky, File no. 28121; <hi rend=”italic”>Find A Grave</hi>, &quot;Judge Aaron Lawson (1833-1913),&quot; Memorial #83391663, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=83391663 (accessed August 16, 2017); KYR-0001-029-0479; KYR-0001-029-0531.
 </bibl></ab>
     </back>
 </text>
