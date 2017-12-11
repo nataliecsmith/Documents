@@ -50,8 +50,7 @@
                       Moses West
                         (Independence, Kentucky, stage coach driver)
                     </persName>
-                      <birth when="1816-12-20"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1816-12-20"  ><ab>1816-12-20</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Kenton County, Independence, p. 2; <em>Find A Grave</em>, &quot;Moses West (1816-),&quot; Memorial #86805562, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86805562&amp;ref=acom (accessed March 23, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Independence, p. 2; <hi rend=”italic”>Find A Grave</hi>, &quot;Moses West (1816-),&quot; Memorial #86805562, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86805562&amp;ref=acom (accessed March 23, 2017).
 </bibl></ab>
     </back>
 </text>
