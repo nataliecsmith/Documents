@@ -46,8 +46,8 @@
                       Zebulon Ward
                         (Woodford co State Rep &amp; former penitentiary lessee)
                     </persName>
-                      <birth when="1822-01-14"></birth>
-                      <death when="1894-12-28"></death>
+                        <event type="birth"  when="1822-01-14"  ><ab>1822-01-14</ab></event>
+                        <event type="death"  when="1894-12-28"  ><ab>1894-12-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Woodford County, Unnamed District, p. 139; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Woodford County, Unnamed District, p. 72; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Fayette County, 4th Ward City of Lexington, p. 53; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 764; &quot;Ward-Hays House,&quot; National Register of Historic Places Inventory-Nomination Form, Little Rock, Arkansas, PU3122, June 10, 1975; <em>Find A Grave</em>, &quot;Zeb Ward, SR (1822-1894),&quot; Memorial #90314020, https://www.findagrave.com/memorial/90314020 (accessed November 21, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Woodford County, Unnamed District, p. 139; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Woodford County, Unnamed District, p. 72; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Fayette County, 4th Ward City of Lexington, p. 53; Lewis Collins and Richard H. Collins, <hi rend=”italic”>Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 764; &quot;Ward-Hays House,&quot; National Register of Historic Places Inventory-Nomination Form, Little Rock, Arkansas, PU3122, June 10, 1975; <hi rend=”italic”>Find A Grave</hi>, &quot;Zeb Ward, SR (1822-1894),&quot; Memorial #90314020, https://www.findagrave.com/memorial/90314020 (accessed November 21, 2017).
 </bibl></ab>
     </back>
 </text>
