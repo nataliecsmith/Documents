@@ -46,8 +46,8 @@
                       Curtis Field Burnam
                         (Madison Co. State Rep)
                     </persName>
-                      <birth when="1820-05-24"></birth>
-                      <death when="1909-03-19"></death>
+                        <event type="birth"  when="1820-05-24"  ><ab>1820-05-24</ab></event>
+                        <event type="death"  when="1909-03-19"  ><ab>1909-03-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Madison County, Town of Richmond, p. 5; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Madison County, Town of Richmond, p. 3; Robert R. Burnam, <em>A history of Masonry in Madison County, Kentucky, 1812-1913</em> (n.p., 1914), 69-71; Lewis Collins and Richard H. Collins, <em>Collins&#39; Historical Sketches of Kentucky</em>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 494; <em>Find A Grave</em>, &quot;Curtis Field Burnam (1820-1909),&quot; Memorial #33344480, https://www.findagrave.com/memorial/33344480 (accessed November 21, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Madison County, Town of Richmond, p. 5; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Madison County, Town of Richmond, p. 3; Robert R. Burnam, <hi rend=”italic”>A history of Masonry in Madison County, Kentucky, 1812-1913</hi> (n.p., 1914), 69-71; Lewis Collins and Richard H. Collins, <hi rend=”italic”>Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 494; <hi rend=”italic”>Find A Grave</hi>, &quot;Curtis Field Burnam (1820-1909),&quot; Memorial #33344480, https://www.findagrave.com/memorial/33344480 (accessed November 21, 2017).
 </bibl></ab>
     </back>
 </text>
