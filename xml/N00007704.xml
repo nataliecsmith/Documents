@@ -46,8 +46,8 @@
                       Gabriel Mattingly
                         (Breckinridge County, Kentucky, farmer)
                     </persName>
-                      <birth when="1798-08-15"></birth>
-                      <death when="1872-08-27"></death>
+                        <event type="birth"  when="1798-08-15"  ><ab>1798-08-15</ab></event>
+                        <event type="death"  when="1872-08-27"  ><ab>1872-08-27</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Marion County, District 1, p. 355. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breckinridge County, District 2, p. 59. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Breckinridge County, p. 16. <em>Find A Grave</em>, &quot;Gabriel Mattingly (1798-1872),&quot; Memorial #21606551, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=21606551 (accessed June 26, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marion County, District 1, p. 355. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, District 2, p. 59. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breckinridge County, p. 16. <hi rend=”italic”>Find A Grave</hi>, &quot;Gabriel Mattingly (1798-1872),&quot; Memorial #21606551, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=21606551 (accessed June 26, 2017).
 </bibl></ab>
     </back>
 </text>
