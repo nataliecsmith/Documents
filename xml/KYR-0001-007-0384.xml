@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0384"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,10 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Stanford Ky <date when="1865-03-10">March 10<hi rend="sup">th</hi> 1865</date>
+   <p><placeName ref="cwgk:P00005571">Stanford Ky</placeName> <date when="1865-03-10">March 10<hi rend="sup">th</hi> 1865</date>
 <lb/>Gov, Bramlett</p>
 <p>S G Higens has resigned his office as justice of the peace in and for Lincoln county he lived in the craborchard precinct.</p>
-<p>The people of that precinct have recommended to me Archabald Cussan as a suitable person to fill the vacancy of said office and requested me to advise you of their selection; if you shall so think I trust you will commission M<hi rend="sup">r</hi> A Cussan at your earliest conveinence as the craborchard people say they are much in need of a justice of the peace</p>
+<p>The people of that precinct have recommended to me <persName ref="cwgk:N00006725">Archabald Cussan</persName> as a suitable person to fill the vacancy of said office and requested me to advise you of their selection; if you shall so think I trust you will commission M<hi rend="sup">r</hi> A Cussan at your earliest conveinence as the craborchard people say they are much in need of a justice of the peace</p>
 <p>I am &amp;c W S Bailey county Judge &amp;c</p>
 <p>Dis. N<hi rend="sup">o</hi> 3<pb/></p>
 <p>Lincoln Co
