@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0366"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Union County Court <date when="1865-02">February Term 1865 ^(6<hi rend="underline"><hi rend="sup">th</hi></hi> day^</date></p>
-<p>On motion of Samuel. A. Davis he is hereby appointed to fill the vacancy in the office of sheriff of this County occasioned by the removal of John. W. Gregory, he having refused to execute Bond for the collection of the revenue &amp;<hi rend="underline"><hi rend="sup">c</hi></hi>, said Davis to act until the <date when="1865-08">next August</date> election and until his successor then chosen shall qualify, Whereupon said Davis took the oaths prescribed by law and the constitution and together with H Munchhoff, Abner Davis, George W. Orm, J. J. Jones and A. J. Harris his sureties executed covenant to the Commonwealth conditioned as required by law,</p>
+   <p><orgName ref="cwgk:O00000721">Union County Court</orgName> <date when="1865-02">February Term 1865 ^(6<hi rend="underline"><hi rend="sup">th</hi></hi> day^</date></p>
+<p>On motion of Samuel. A. Davis he is hereby appointed to fill the vacancy in the office of sheriff of this County occasioned by the removal of John. W. Gregory, he having refused to execute Bond for the collection of the revenue &amp;<hi rend="underline"><hi rend="sup">c</hi></hi>, said Davis to act until the <date when="1865-08">next August</date> election and until his successor then chosen shall qualify, Whereupon said Davis took the oaths prescribed by law and the constitution and together with<persName ref="cwgk:N00005132"> H Munchhoff</persName>, <persName ref="cwgk:N00005131">Abner Davis</persName>, George W. Orm,<persName ref="cwgk:N00005328"> J. J. Jones</persName> and <persName ref="cwgk:N00005134">A. J. Harris</persName> his sureties executed covenant to the Commonwealth conditioned as required by law,</p>
 <p>I certify that the above is a true copy made <hi rend="str">it</hi>in the union County Court held on Monday the <date when="1865-02-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> day of Febry 1865</date>.</p>
-<p>H, W, Waggener Clk
-<lb/>By J M Waggener D C
-<lb/>Union County Court<pb/></p>
+<p><persName ref="cwgk:N00005329">H. W. Waggener</persName> Clk<lb/>By <persName ref="cwgk:N00005334">J M Waggene</persName>r D C<lb/><placeName ref="cwgk:P00001845">Union Co</placeName>unty Court<pb/></p>
 <p>Union Co
 <lb/>Sheriff
 <lb/>appt<hi rend="underline"><hi rend="sup">d</hi></hi>
