@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0583"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,51 +70,30 @@
  </teiHeader>
  <text>
   <body>
-   <p>We the undersigned citizens of Greenup County, would respectfully represent, to his Excellency, the Governor of the Commonwealth of Kentucky, that George <unclear>Lemiblin</unclear>, a Frenchman of Greenup County, was found Guilty of Larceny, at the <date when="--07">July</date> term of the Greenup Circuit, and was Sentenced to ^confinement in^ the State, penitentiary for the period of <gap/> years the facts of his conviction, are as follows, the prisoner is a man of humble circumstances, is inductrious, &amp; regarded as a man of honesty, But was intoxicated, when he killed the sheep, for which he was convicted, he killed the sheep in presence of some two or three persons, and Everything in the whole case indicates, no felonious intent on the part of the accused to Defraud the owner out of the value of the sheep, everything connected with the killing of the sheep was open &amp; public, we therefore under<pb/>
+   <p>We the undersigned citizens of <placeName ref="cwgk:P001759">Greenup County</placeName>, would respectfully represent, to his Excellency, the Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>, that George <unclear>Lemiblin</unclear>, a Frenchman of <placeName ref="cwgk:P001759">Greenup County</placeName>, was found Guilty of Larceny, at the <date when="--07">July</date> term of the <orgName ref="cwgk:O00000383">Greenup Circuit</orgName>, and was Sentenced to ^confinement in^ <orgName ref="cwgk:O00000266">the State, penitentiary</orgName> for the period of <gap/> years the facts of his conviction, are as follows, the prisoner is a man of humble circumstances, is inductrious, &amp; regarded as a man of honesty, But was intoxicated, when he killed the sheep, for which he was convicted, he killed the sheep in presence of some two or three persons, and Everything in the whole case indicates, no felonious intent on the part of the accused to Defraud the owner out of the value of the sheep, everything connected with the killing of the sheep was open &amp; public, we therefore under<pb/>
 <lb/>under the circumstances, recomend him as a fit subject for Executive Clemency, and petition, his pardon</p>
-<p>Hugh Craycraft -- 
-<lb/><hi rend="underline">By W. C. Ireland</hi> -- 
-<lb/>August Lamblin
-<lb/>By W. C. Ireland -- at his request.
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. F Harding
+<p><persName ref="cwgk:N00007108">Hugh Craycraft</persName> -- <lb/>By  -- 
+<persName ref="cwgk:N00007109">W. C. Ireland</persName><lb/><persName ref="cwgk:N00007110">August Lamblin</persName><lb/>By <persName ref="cwgk:N00007109">W. C. Ireland</persName> -- at his request.<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. F Harding
 <lb/>Harvey M<hi rend="underline"><hi rend="sup">c</hi></hi>Allister
 <lb/>By W F Harding
-<lb/>Len Barney
-<lb/><hi rend="str">By</hi> Samuel Valence
-<lb/>Samuel Hunter
-<lb/>By W<hi rend="underline"><hi rend="sup">m</hi></hi> F Harding
-<lb/>Samuel Crawford
-<lb/>N. Walker
-<lb/>Samuel M. Berry
+<lb/><persName ref="cwgk:N00007113">Len Barney</persName><lb/><hi rend="str">By</hi> <persName ref="cwgk:N00007114">Samuel Valence</persName><lb/><persName ref="cwgk:N00007115">Samuel Hunter</persName><lb/>By W<hi rend="underline"><hi rend="sup">m</hi></hi> F Harding
+<lb/><persName ref="cwgk:N00007116">Samuel Crawford
+</persName><lb/><persName ref="cwgk:N00007118">N. Walker</persName><lb/>Samuel M. Berry
 <lb/>John <unclear>Crsnell</unclear>
 <lb/>Samuel A <unclear>Cresnull</unclear>
-<lb/>John Davis
-<lb/>françois Raio
-<lb/>Prospere Ross
-<lb/>Nathaniel S warner
+<lb/><persName ref="cwgk:N00007088">John Davis</persName><lb/>françois Raio
+<lb/><persName ref="cwgk:N00007090">Prospere Ross</persName><lb/>Nathaniel S warner
 <lb/>Richard, D, Walker
 <lb/>John. L. Mackay
-<lb/>John. Pratt
-<lb/>Moses MacKroy Jr
-<lb/>Aron Cisk
-<lb/>John T albertson
-<lb/>John A Smith
-<lb/>G B Lee<pb/>
-<lb/>W Pickens
-<lb/>Moses Mackay
-<lb/>Michal Bryon
+<lb/><persName ref="cwgk:N00007070">John. Pratt</persName><lb/>Moses MacKroy Jr
+<lb/><persName ref="cwgk:N00007098">Aron Cisk</persName><lb/><persName ref="cwgk:N00007099">John T albertson</persName><lb/><persName ref="cwgk:N00007100">John A Smith</persName><lb/><persName ref="cwgk:N00007101">G B Lee</persName><pb/>
+<lb/><persName ref="cwgk:N00007102">W Pickens</persName><lb/><persName ref="cwgk:N00007103">Moses Mackay</persName><lb/>Michal Bryon
 <lb/>James Doyle
 <lb/>Henry Fagan
-<lb/>W, Hen, Williams
-<lb/>James Middaugh Jr
-<lb/>Robert Gordon
-<lb/>Michael Kenedy
-<lb/>William Haan
-<lb/>Fred Martin
-<lb/>John Colman
+<lb/><persName ref="cwgk:N00007107">W. Hen. Williams</persName><lb/><persName ref="cwgk:N00007071">James Middaugh Jr</persName><lb/>Robert Gordon
+<lb/><persName ref="cwgk:N00007073">Michael Kenedy</persName><lb/><persName ref="cwgk:N00007075">William Haan</persName><lb/><persName ref="cwgk:N00007076">Fred Martin</persName><lb/>John Colman
 <lb/>W<hi rend="sup">m</hi> <unclear>Tarry</unclear>
-<lb/>Ephraim Morgan
-<lb/>Richerd flanigan
+<lb/><persName ref="cwgk:N00007078">Ephraim Morgan</persName><lb/>Richerd flanigan
 <lb/><unclear>Cisell</unclear> flanigan
 <lb/>Joaseph Davis
 <lb/>John Gray
