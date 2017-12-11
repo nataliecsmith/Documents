@@ -46,8 +46,7 @@
                       William J. Tice
                         (Jefferson Co, Frankfort, and Covington)
                     </persName>
-                      <birth when="c1848"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1848"  certainty="medium" ><ab>c1848</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-029-0578; KYR-0001-029-0504.</p>
+        <ab><bibl>KYR-0001-029-0578; KYR-0001-029-0504.
 </bibl></ab>
     </back>
 </text>
