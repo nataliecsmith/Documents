@@ -43,8 +43,8 @@
             <particDesc>
                 <org xml:id="O00001850">
                     <orgName>Merchants Bank of Kentucky</orgName>
-                      <event type="begun" when="1860-09-01">1860-09-01</event>
-                      <event type="ended" when="1874-07-05">1874-07-05</event>
+                        <event type="begun"  when="1860-09-01"  ><ab>1860-09-01</ab></event>
+                        <event type="ended"  when="1874-07-05"  ><ab>1874-07-05</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +55,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Henry Tanner, ed., <em>Tanner’s Louisville Directory and Business Advertiser for 1861</em> (Louisville: Directory Publication and Advertising Agency, 1861), 324. <em>The City of Louisville And a Glimpse of Kentucky</em> (Louisville: Louisville Board of Trade, 1887), 144.</p>
+        <ab><bibl>Henry Tanner, ed., <hi rend=”italic”>Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 324. <hi rend=”italic”>The City of Louisville And a Glimpse of Kentucky</hi> (Louisville: Louisville Board of Trade, 1887), 144.
 </bibl></ab>
     </back>
 </text>
