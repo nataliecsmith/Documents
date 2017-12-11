@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0370"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>I, Chatham T. Ewing of the State of Pennsylvania &amp; County of Allegheny solemnly swear that I will well &amp; truly perform the duties of commissioner of Deeds for the State of Kentucky to the best of my ability -- </p>
+   <p>I, <persName ref="cwgk:N00004966">Chatham T. Ewing</persName> of the <placeName ref="cwgk:P001006">State of Pennsylvania</placeName> &amp; <placeName ref="cwgk:P00004916">County of Allegheny </placeName>solemnly swear that I will well &amp; truly perform the duties of commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName> to the best of my ability -- </p>
 <p>Chatham T. Ewing.</p>
 <p>State of Pennsylvania
-<lb/>Allegheny County -- &#125; <hi rend="underline">ss</hi></p>
-<p>Before me Jacob H Walter Prothonotary of the Court of Common Pleas in &amp; for the State &amp; County above named, came the above named Chatham T. Ewing who being duly sworn according to law made the foregoing affidavit and acknowledged his signature to be genuine. In witness whereof I have hereinto signed my name &amp; affixed my official Seal</p>
+<lb/>Allegheny County -- } <hi rend="underline">ss</hi></p>
+<p>Before me <persName ref="cwgk:N00005346">Jacob H Walter </persName>Prothonotary of the <orgName ref="cwgk:O00005350">Court of Common Pleas</orgName> in &amp; for the State &amp; County above named, came the above named Chatham T. Ewing who being duly sworn according to law made the foregoing affidavit and acknowledged his signature to be genuine. In witness whereof I have hereinto signed my name &amp; affixed my official Seal</p>
 <p><figure type="seal"><ab>SEAL OF <unclear>COURT OF</unclear> COMMON PLEAS.
 <lb/><unclear/></ab></figure></p>
 <p>Jacob H Walter
