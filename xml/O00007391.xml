@@ -43,8 +43,8 @@
             <particDesc>
                 <org xml:id="O00007391">
                     <orgName>T. &amp; R. Slevin &amp; Cain</orgName>
-                      <event type="begun" when="1854">1854</event>
-                      <event type="ended" when="1877">1877</event>
+                        <event type="begun"  when="1854"  ><ab>1854</ab></event>
+                        <event type="ended"  when="1877"  ><ab>1877</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +55,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>“T. &amp; R. Slevin &amp; Cain,” <em>The Louisville Daily Courier</em> (Louisville, Ky.), September 9, 1854, p. 2; “Clothing Department, ” <em>The Courier-Journal</em> (Louisville, Ky.), May 11, 1872, p. 4; “By Thos. Anderson &amp; Co, Auctioneers,” <em>The Courier-Journal</em> (Louisville, Ky.), March 21, 1877, p. 4.</p>
+        <ab><bibl>“T. &amp; R. Slevin &amp; Cain,” <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), September 9, 1854, p. 2; “Clothing Department, ” <hi rend=”italic”>The Courier-Journal</hi> (Louisville, Ky.), May 11, 1872, p. 4; “By Thos. Anderson &amp; Co, Auctioneers,” <hi rend=”italic”>The Courier-Journal</hi> (Louisville, Ky.), March 21, 1877, p. 4.
 </bibl></ab>
     </back>
 </text>
