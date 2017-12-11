@@ -42,8 +42,8 @@
                       Thomas H. Chandler
                         (Lebanon (marion co) town marshal)
                     </persName>
-                      <birth when="1820"></birth>
-                      <death when="1875-12-27"></death>
+                        <event type="birth"  when="1820"  ><ab>1820</ab></event>
+                        <event type="death"  when="1875-12-27"  ><ab>1875-12-27</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,7 +56,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Marion County, District 2, p. 109. &quot;West and South,&quot; (Jacksboro, Texas) <em>Frontier Echo</em>, January 21, 1876.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Marion County, District 2, p. 109. &quot;West and South,&quot; (Jacksboro, Texas) <hi rend=”italic”>Frontier Echo</hi>, January 21, 1876.
 </bibl></ab>
     </back>
 </text>
