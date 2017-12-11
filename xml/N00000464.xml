@@ -50,8 +50,7 @@
                       William Newman
                         (Edmonson County, Kentucky, farmer and merchant)
                     </persName>
-                      <birth when="c1819"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1819"  certainty="medium" ><ab>c1819</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Edmonson County, p. 11; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Edmonson County, p. 109; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Edmonson County, p. 2; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 11, p. 104.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Edmonson County, p. 11; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Edmonson County, p. 109; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Edmonson County, p. 2; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 11, p. 104.
 </bibl></ab>
     </back>
 </text>
