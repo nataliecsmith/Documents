@@ -46,8 +46,8 @@
                       Russell W. Wake
                         (Eddyville, Kentucky, attorney)
                     </persName>
-                      <birth when="1834-08-05"></birth>
-                      <death when="1888-06-27"></death>
+                        <event type="birth"  when="1834-08-05"  ><ab>1834-08-05</ab></event>
+                        <event type="death"  when="1888-06-27"  ><ab>1888-06-27</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Trigg County, District 1, p. 300; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 100; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 13; &quot;Kentucky Death Records, 1911-1962,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:NSP6-LX3 : 20 October 2016), Russell Wake in entry for Hugh Wake, 1944; citing Kuttawa, Lyon, Kentucky, United States, Office of Vital Statistics, Frankfort; FHL microfilm 1,913,558; <em>Find A Grave</em>, &quot;Russell Weir Wake (1834-1888),&quot; Memorial #6567722, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=6567722 (accessed June 18, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, District 1, p. 300; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 100; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 13; &quot;Kentucky Death Records, 1911-1962,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:NSP6-LX3 : 20 October 2016), Russell Wake in entry for Hugh Wake, 1944; citing Kuttawa, Lyon, Kentucky, United States, Office of Vital Statistics, Frankfort; FHL microfilm 1,913,558; <hi rend=”italic”>Find A Grave</hi>, &quot;Russell Weir Wake (1834-1888),&quot; Memorial #6567722, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=6567722 (accessed June 18, 2017).
 </bibl></ab>
     </back>
 </text>
