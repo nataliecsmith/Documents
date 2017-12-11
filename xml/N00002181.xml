@@ -46,8 +46,8 @@
                       Daniel G. Dalton
                         (Ballard County, Kentucky, farmer)
                     </persName>
-                      <birth when="1834-03-04"></birth>
-                      <death when="1914-01-16"></death>
+                        <event type="birth"  when="1834-03-04"  ><ab>1834-03-04</ab></event>
+                        <event type="death"  when="1914-01-16"  ><ab>1914-01-16</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, Tharps district, p. 143. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Ballard County, Laceloveville District, p. 22. <em>Find A Grave</em>, &quot;Daniel Gilbert Dalton (1834-1914),&quot; Memorial #19582316, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=19582316&amp;ref=acom (accessed September 12, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Tharps district, p. 143. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, Laceloveville District, p. 22. <hi rend=”italic”>Find A Grave</hi>, &quot;Daniel Gilbert Dalton (1834-1914),&quot; Memorial #19582316, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=19582316&amp;ref=acom (accessed September 12, 2017).
 </bibl></ab>
     </back>
 </text>
