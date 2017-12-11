@@ -42,8 +42,8 @@
                       Rufus K. Williams
                         (Judge of the Kentucky Court of Appeals)
                     </persName>
-                      <birth when="c1816"></birth>
-                      <death when="1889-07-24"></death>
+                        <event type="birth"  when="1816"  certainty="medium" ><ab>c1816</ab></event>
+                        <event type="death"  when="1889-07-24"  ><ab>1889-07-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,7 +56,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>H. Levin, <em>The Lawyers and Lawmakers of Kentucky</em> (Chicago: The Lewis Publishing Company, 1897), 94; “An Eminent Jurist Dead,” <em>Courier-Journal</em> (Louisville, Kentucky), July 25, 1889; Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Graves County, p. 272.</p>
+        <ab><bibl>H. Levin, <hi rend=”italic”>The Lawyers and Lawmakers of Kentucky</hi> (Chicago: The Lewis Publishing Company, 1897), 94; “An Eminent Jurist Dead,” <hi rend=”italic”>Courier-Journal</hi> (Louisville, Kentucky), July 25, 1889; Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Graves County, p. 272.
 </bibl></ab>
     </back>
 </text>
