@@ -46,8 +46,7 @@
                       Henry Shrimp
                         (Campbell County, Kentucky, shipmate)
                     </persName>
-                      <birth when="c1818"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1818"  certainty="medium" ><ab>c1818</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Campbell County, Newport, p. 67. S. Worrel, <em>Northern Kentucky Marriages, 1795-1850</em>, Ancestry, Campbell County, 1848.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Campbell County, Newport, p. 67. S. Worrel, <hi rend=”italic”>Northern Kentucky Marriages, 1795-1850</hi>, Ancestry, Campbell County, 1848.
 </bibl></ab>
     </back>
 </text>
