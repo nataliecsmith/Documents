@@ -46,8 +46,7 @@
                       Joseph Jacob
                         (Louisville, Kentucky, clerk)
                     </persName>
-                      <birth when="c1837"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1837"  certainty="medium" ><ab>c1837</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District 1, p. 45. Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 3, p. 672.</p>
+        <ab><bibl>Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District 1, p. 45. Eighth Manuscript Census of the United States (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 3, p. 672.
 </bibl></ab>
     </back>
 </text>
