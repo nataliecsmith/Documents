@@ -46,8 +46,8 @@
                       Burwell B. Sayre
                         (Frankfort, Kentucky, teacher)
                     </persName>
-                      <birth when="1810-12-10"></birth>
-                      <death when="1879-04-28"></death>
+                        <event type="birth"  when="1810-12-10"  ><ab>1810-12-10</ab></event>
+                        <event type="death"  when="1879-04-28"  ><ab>1879-04-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedule, Kentucky, Franklin County, District 2, p. 56; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Franklin County, Frankfort, p. 103.; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedule, Kentucky, Franklin County, Frankfort, p. 15-6; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Kentucky, Franklin County, Frankfort, p. 37; <em>The Frankfort Roundabout</em> (Frankfort, Ky.), &quot;December 17, 1892, p. 1; <em>Find A Grave</em>, &quot;B. B. Sayre (1810-1879),&quot; Memorial #70371196, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=70371196&amp;ref=acom (accessed May 5, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedule, Kentucky, Franklin County, District 2, p. 56; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Franklin County, Frankfort, p. 103.; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedule, Kentucky, Franklin County, Frankfort, p. 15-6; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Franklin County, Frankfort, p. 37; <hi rend=”italic”>The Frankfort Roundabout</hi> (Frankfort, Ky.), &quot;December 17, 1892, p. 1; <hi rend=”italic”>Find A Grave</hi>, &quot;B. B. Sayre (1810-1879),&quot; Memorial #70371196, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=70371196&amp;ref=acom (accessed May 5, 2017).
 </bibl></ab>
     </back>
 </text>
