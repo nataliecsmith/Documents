@@ -43,8 +43,6 @@
             <particDesc>
                 <org xml:id="O00006958">
                     <orgName>St. Charles Hotel</orgName>
-                      <event type="begun" when="unknown">unknown</event>
-                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +53,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Williams&#39; Covington and Newport Directory for 1866-7</em> (Covington: Williams &amp; Co., 1866), p. 87. <em>Williams&#39; Covington and Newport Directory</em> (Cincinnati, O.: Williams &amp; Co., 1880), p. 121. KYR-0001-029-0558.</p>
+        <ab><bibl><hi rend=”italic”>Williams&#39; Covington and Newport Directory for 1866-7</hi> (Covington: Williams &amp; Co., 1866), p. 87. <hi rend=”italic”>Williams&#39; Covington and Newport Directory</hi> (Cincinnati, O.: Williams &amp; Co., 1880), p. 121. KYR-0001-029-0558.
 </bibl></ab>
     </back>
 </text>
