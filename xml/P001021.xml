@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P001021">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Carl Waldman and Catherine Mason, <em>Encyclopedia of European Peoples</em>, vol. 2 (New York: Infobase Publishing, 2006), 226.</p>
+        <ab><bibl>Carl Waldman and Catherine Mason, <hi rend=”italic”>Encyclopedia of European Peoples</hi>, vol. 2 (New York: Infobase Publishing, 2006), 226.
 </bibl></ab>
     </back>
 </text>
