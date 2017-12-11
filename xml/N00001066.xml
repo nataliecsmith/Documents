@@ -50,8 +50,8 @@
                       James M. Sandifer
                         (Somerset, Kentucky, dentist and police judge)
                     </persName>
-                      <birth when="1828-08-24"></birth>
-                      <death when="1891-02-01"></death>
+                        <event type="birth"  when="1828-08-24"  ><ab>1828-08-24</ab></event>
+                        <event type="death"  when="1891-02-01"  ><ab>1891-02-01</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Pulaski County, Somerset, p. 4; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Kentucky, Pulaski County, Somerset, p. 9; <em>Stanford Interior Journal</em> (Stanford, Ky.), August 23, 1872, p. 1; <em>Find A Grave</em>, &quot;James M. Sandifer (1828-1891),&quot; Memorial #16414194, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=16414194&amp;ref=acom (accessed May 25, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Pulaski County, Somerset, p. 4; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Pulaski County, Somerset, p. 9; <hi rend=”italic”>Stanford Interior Journal</hi> (Stanford, Ky.), August 23, 1872, p. 1; <hi rend=”italic”>Find A Grave</hi>, &quot;James M. Sandifer (1828-1891),&quot; Memorial #16414194, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=16414194&amp;ref=acom (accessed May 25, 2017).
 </bibl></ab>
     </back>
 </text>
