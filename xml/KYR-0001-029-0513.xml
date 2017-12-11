@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0513"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,14 +70,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>W. E. Ashbrook
-<lb/>Sheriff Kenton County
-<lb/>Rev <date when="1860">1860</date></p>
+   <p><persName ref="cwgk:N00000465">W. E. Ashbrook</persName><lb/>Sheriff <orgName ref="cwgk:O00000645">Kenton County</orgName><lb/>Rev <date when="1860">1860</date></p>
 <p><table rend="rules">
 <row>
 	<cell>Amt of Judgment for</cell>
 	<cell>Princp</cell>
-	<cell>&#36;4.990.90</cell>
+	<cell>$4.990.90</cell>
 </row>
 <row>
 	<cell>" " " "</cell>
@@ -89,7 +95,7 @@
 <p>Damages Remitted
 <lb/>J F Robinson<pb/></p>
 <p>Franklin Cir. Ct
-<lb/>&#36;998.18 &#125; Damages
+<lb/>$998.18 } Damages
 <lb/>W. E Ashbrook
 <lb/>Shff of Kenton
 <lb/>Remission Iss<hi rend="sup">d</hi> <date when="1863-08-14">Aug 14. 1863</date></p>
