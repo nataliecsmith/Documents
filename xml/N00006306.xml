@@ -46,8 +46,7 @@
                       Andrew H. Herod
                         (Kenton County, Kentucky, jailor)
                     </persName>
-                      <birth when="c1816"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1816"  certainty="medium" ><ab>c1816</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Kenton County, Covington, Ward 2, p. 83. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Indiana, Jennings County, p. 23. &quot;Covington Newport City Directory 1856,” <em>Kenton County Public Library</em>, GenKY ID 289713, http://genealogy.kentonlibrary.org/genky/descriptions/cnd.php (accessed January 20, 2017). KYR-0001-004-1321.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington, Ward 2, p. 83. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Indiana, Jennings County, p. 23. &quot;Covington Newport City Directory 1856,” <hi rend=”italic”>Kenton County Public Library</hi>, GenKY ID 289713, http://genealogy.kentonlibrary.org/genky/descriptions/cnd.php (accessed January 20, 2017). KYR-0001-004-1321.
 </bibl></ab>
     </back>
 </text>
