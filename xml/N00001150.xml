@@ -58,8 +58,7 @@
                       John A. Crittenden
                         (Franklin County Deputy Sheriff)
                     </persName>
-                      <birth when="1828"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1828"  ><ab>1828</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -72,7 +71,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, District No. 2, p. 95.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, District No. 2, p. 95.
 </bibl></ab>
     </back>
 </text>
