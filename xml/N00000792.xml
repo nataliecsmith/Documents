@@ -58,8 +58,8 @@
                       Charles T. Taylor
                         (Louisville, Kentucky, attorney and French consular)
                     </persName>
-                      <birth when="c1806"></birth>
-                      <death when="1870-04"></death>
+                        <event type="birth"  when="1806"  certainty="medium" ><ab>c1806</ab></event>
+                        <event type="death"  when="1870-04"  ><ab>1870-04</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -72,7 +72,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Seventh Ward, p. 22. &quot;Officers of Elections,&quot; <em>The Louisville Daily Courier</em> (Louisville, Ky.), November 6, 1847, p. 3. &quot;Important Change,&quot; <em>The Louisville Daily Courier</em> (Louisville, Ky.), May 7, 1858, p. 1.  <em>Federal Mortality Census Schedules, 1850-1880, and Related Indexes, 1850-1880</em>, Archive Collection: T655, Archive Roll# 15, Census Year: 1870, Census Place: Louisville, Jefferson, Kentucky, Page: 734. <em>Edwards&#39; Annual Director . . in the City of Louisville for 1865-6</em> (Louisville: Edwards, Greenough, &amp; Deved, 1865), p. 561.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Seventh Ward, p. 22. &quot;Officers of Elections,&quot; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), November 6, 1847, p. 3. &quot;Important Change,&quot; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), May 7, 1858, p. 1.  <hi rend=”italic”>Federal Mortality Census Schedules, 1850-1880, and Related Indexes, 1850-1880</hi>, Archive Collection: T655, Archive Roll# 15, Census Year: 1870, Census Place: Louisville, Jefferson, Kentucky, Page: 734. <hi rend=”italic”>Edwards&#39; Annual Director . . in the City of Louisville for 1865-6</hi> (Louisville: Edwards, Greenough, &amp; Deved, 1865), p. 561.
 </bibl></ab>
     </back>
 </text>
