@@ -46,8 +46,7 @@
                       Jesse Alexander
                         (Greenup County farmer)
                     </persName>
-                      <birth when="c1830"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1830"  certainty="medium" ><ab>c1830</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, [State], Greenup County, p. 23-24; Kentucky Birth, Marriage, and Death Records, 1847-1911, Ancestry, Birth Records, Greenup County, 1852.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, [State], Greenup County, p. 23-24; Kentucky Birth, Marriage, and Death Records, 1847-1911, Ancestry, Birth Records, Greenup County, 1852.
 </bibl></ab>
     </back>
 </text>
