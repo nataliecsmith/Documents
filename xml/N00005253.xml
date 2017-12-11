@@ -46,8 +46,8 @@
                       George W. Searcy
                         (Anderson County, Kentucky, farmer)
                     </persName>
-                      <birth when="1827-03-03"></birth>
-                      <death when="1896-05-17"></death>
+                        <event type="birth"  when="1827-03-03"  ><ab>1827-03-03</ab></event>
+                        <event type="death"  when="1896-05-17"  ><ab>1896-05-17</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Anderson County, p. 244. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Anderson County, p. 32-33. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Anderson County, District 3, p. 3. <em>Kentucky, Marriage Records, 1852-1914</em>, Ancestry, Anderson County, Kentucky, September 31, 1858. <em>Find A Grave</em>, &quot;George Searcy (1827-1896),&quot; Memorial #66178706, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=66178706 (accessed May 7, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Anderson County, p. 244. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, p. 32-33. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Anderson County, District 3, p. 3. <hi rend=”italic”>Kentucky, Marriage Records, 1852-1914</hi>, Ancestry, Anderson County, Kentucky, September 31, 1858. <hi rend=”italic”>Find A Grave</hi>, &quot;George Searcy (1827-1896),&quot; Memorial #66178706, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=66178706 (accessed May 7, 2017).
 </bibl></ab>
     </back>
 </text>
