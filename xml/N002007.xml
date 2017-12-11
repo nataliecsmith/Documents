@@ -50,8 +50,8 @@
                       Raymond B. Lynch
                         (Louisville Printer.)
                     </persName>
-                      <birth when="1824-12-03"></birth>
-                      <death when="1911-03-02"></death>
+                        <event type="birth"  when="1824-12-03"  ><ab>1824-12-03</ab></event>
+                        <event type="death"  when="1911-03-02"  ><ab>1911-03-02</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,9 +64,9 @@
 
     </body>
     <back>
-        <ab><bibl><p>“Pay Tribute to Memory of Raymond B. Lynch, Pioneer Louisville Printer,” <em>Courier-Journal</em> (Louisville, Ky.), March 12, 1911, p. A3. </p>
+        <ab><bibl>“Pay Tribute to Memory of Raymond B. Lynch, Pioneer Louisville Printer,” <hi rend=”italic”>Courier-Journal</hi> (Louisville, Ky.), March 12, 1911, p. A3. 
 
-<p><em>Tenth Manuscript Census of the United States (1880)</em>, Population Schedules, Kentucky, Jefferson County, Louisville, ED 141, p. 51. </p>
+<hi rend=”italic”>Tenth Manuscript Census of the United States (1880)</hi>, Population Schedules, Kentucky, Jefferson County, Louisville, ED 141, p. 51. 
 </bibl></ab>
     </back>
 </text>
