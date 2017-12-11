@@ -46,8 +46,8 @@
                       George Washington Johnson
                         (Provisional Governor of Kentucky)
                     </persName>
-                      <birth when="1811-05-27"></birth>
-                      <death when="1862-04-08"></death>
+                        <event type="birth"  when="1811-05-27"  ><ab>1811-05-27</ab></event>
+                        <event type="death"  when="1862-04-08"  ><ab>1862-04-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Lowell H. Harrison, “George W. Johnson (1861-1862)” in Lowell H. Harrison, Ed., Kentucky’s Governors (Lexington: University Press of Kentucky, 2004), 82-84; Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Scott County, District No 1, p. 31-32.</p>
+        <ab><bibl>Lowell H. Harrison, “George W. Johnson (1861-1862)” in Lowell H. Harrison, Ed., Kentucky’s Governors (Lexington: University Press of Kentucky, 2004), 82-84; Eighth Manuscript Census of the United States (1860), Slave Schedules, Kentucky, Scott County, District No 1, p. 31-32.
 </bibl></ab>
     </back>
 </text>
