@@ -54,8 +54,8 @@
                       Joshua Tevis
                         (Louisville State Rep &amp; US District Atto)
                     </persName>
-                      <birth when="1826-06-20"></birth>
-                      <death when="1900-10-12"></death>
+                        <event type="birth"  when="1826-06-20"  ><ab>1826-06-20</ab></event>
+                        <event type="death"  when="1900-10-12"  ><ab>1900-10-12</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +68,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States (1850)</em>, Population Schedules, Kentucky, Woodford County, Woodford, p 460. <em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Jefferson County, Louisville, 5th Ward, p 138; &quot;Joshua Tevis,&quot; <em>Louisville Courier-Journal</em>, October 14, 1900, p. A4; J. Stoddard Johnston, <em>Memorial History of Louisville from its First Settlement to the Year 1896</em>, vol. 1 (Chicago and New York: American Biographical Publishing Co., 1896), 135; Roger D. Hunt, <em>Colonels in Blue: Indiana, Kentucky and Tennessee</em> (Jefferson, N.C.: McFarland &amp; Company, Inc., 2014), 190.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States (1850)</hi>, Population Schedules, Kentucky, Woodford County, Woodford, p 460. <hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Jefferson County, Louisville, 5th Ward, p 138; &quot;Joshua Tevis,&quot; <hi rend=”italic”>Louisville Courier-Journal</hi>, October 14, 1900, p. A4; J. Stoddard Johnston, <hi rend=”italic”>Memorial History of Louisville from its First Settlement to the Year 1896</hi>, vol. 1 (Chicago and New York: American Biographical Publishing Co., 1896), 135; Roger D. Hunt, <hi rend=”italic”>Colonels in Blue: Indiana, Kentucky and Tennessee</hi> (Jefferson, N.C.: McFarland &amp; Company, Inc., 2014), 190.
 </bibl></ab>
     </back>
 </text>
