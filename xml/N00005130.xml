@@ -46,8 +46,8 @@
                       John W. Gregory
                         (Union County, Kentucky, clerk and sheriff)
                     </persName>
-                      <birth when="1831-05-19"></birth>
-                      <death when="1888-10-28"></death>
+                        <event type="birth"  when="1831-05-19"  ><ab>1831-05-19</ab></event>
+                        <event type="death"  when="1888-10-28"  ><ab>1888-10-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Union County, p. 157; <em>Find A Grave</em>, &quot;John W. Gregory (1831-1888),&quot; Memorial #106478234, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=106478234&amp;ref=acom (accessed May 5, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Union County, p. 157; <hi rend=”italic”>Find A Grave</hi>, &quot;John W. Gregory (1831-1888),&quot; Memorial #106478234, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=106478234&amp;ref=acom (accessed May 5, 2017).
 </bibl></ab>
     </back>
 </text>
