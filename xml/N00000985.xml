@@ -46,8 +46,8 @@
                       Bennett Little Kerr
                         (Hart County attorney)
                     </persName>
-                      <birth when="1798-05-06"></birth>
-                      <death when="1874-02-13"></death>
+                        <event type="birth"  when="1798-05-06"  ><ab>1798-05-06</ab></event>
+                        <event type="death"  when="1874-02-13"  ><ab>1874-02-13</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Hart County, Munfordville, District 2, p. 133. <em>Find A Grave</em>, &quot;Judge Bennett Littleton Kerr (1798-1874),&quot; Memorial #93592399, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=93592399(accessed July, 31, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Hart County, Munfordville, District 2, p. 133. <hi rend=”italic”>Find A Grave</hi>, &quot;Judge Bennett Littleton Kerr (1798-1874),&quot; Memorial #93592399, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=93592399(accessed July, 31, 2017).
 </bibl></ab>
     </back>
 </text>
