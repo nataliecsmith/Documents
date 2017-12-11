@@ -50,8 +50,8 @@
                       Basil Holland
                         (Marshall co. doctor)
                     </persName>
-                      <birth when="c1829"></birth>
-                      <death when="1870-03"></death>
+                        <event type="birth"  when="1829"  certainty="medium" ><ab>c1829</ab></event>
+                        <event type="death"  when="1870-03"  ><ab>1870-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Marshall County, Briensburg, p. 5. <em>Annual Announcement of the Law, Literary, and Medical Departments, of the University of Nashville: Session of 1854-5</em> (Nashville: John T. S. Fall, 1854), 20. <em>Ninth Manuscript Census of the United States (1870)</em>, Mortality Schedules, Kentucky, Marshall County, District 2, p. 1.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Marshall County, Briensburg, p. 5. <hi rend=”italic”>Annual Announcement of the Law, Literary, and Medical Departments, of the University of Nashville: Session of 1854-5</hi> (Nashville: John T. S. Fall, 1854), 20. <hi rend=”italic”>Ninth Manuscript Census of the United States (1870)</hi>, Mortality Schedules, Kentucky, Marshall County, District 2, p. 1.
 </bibl></ab>
     </back>
 </text>
