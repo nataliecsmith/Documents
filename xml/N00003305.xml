@@ -50,8 +50,8 @@
                       Samuel Bennett
                         (Spencer County, Kentucky, solider, farmer, and justice of the peace)
                     </persName>
-                      <birth when="c1795"></birth>
-                      <death when="c1864"></death>
+                        <event type="birth"  when="1795"  certainty="medium" ><ab>c1795</ab></event>
+                        <event type="death"  when="1864"  certainty="medium" ><ab>c1864</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Spencer County, District 1, p. 33; <em>War of 1812 Pension Applications</em>, Washington D.C.: National Archives, NARA Microfilm Publication M313, 102 rolls, Records of the Department of Veterans Affairs, Record Group Number 15, WO 32187 and WC 21249.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Spencer County, District 1, p. 33; <hi rend=”italic”>War of 1812 Pension Applications</hi>, Washington D.C.: National Archives, NARA Microfilm Publication M313, 102 rolls, Records of the Department of Veterans Affairs, Record Group Number 15, WO 32187 and WC 21249.
 </bibl></ab>
     </back>
 </text>
