@@ -46,8 +46,8 @@
                       John S. Van Winkle
                         (Wayne Co state rep)
                     </persName>
-                      <birth when="1829-03-08"></birth>
-                      <death when="1888-10-28"></death>
+                        <event type="birth"  when="1829-03-08"  ><ab>1829-03-08</ab></event>
+                        <event type="death"  when="1888-10-28"  ><ab>1888-10-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Wayne County, Monticello, p. 2; Office of the Kentucky Secretary of State, &quot;Secretary of State John S. Van Winkle,&quot; apps.sos.ky.gov/secdesk/sosinfo/default.aspx?id=40 (accessed November 22, 2017); <em>Find A Grave</em>, &quot;John Sallee VanWinkle (1829-1888),&quot; Memorial #40846871, https://www.findagrave.com/memorial/40846871 (accessed November 22, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Wayne County, Monticello, p. 2; Office of the Kentucky Secretary of State, &quot;Secretary of State John S. Van Winkle,&quot; apps.sos.ky.gov/secdesk/sosinfo/default.aspx?id=40 (accessed November 22, 2017); <hi rend=”italic”>Find A Grave</hi>, &quot;John Sallee VanWinkle (1829-1888),&quot; Memorial #40846871, https://www.findagrave.com/memorial/40846871 (accessed November 22, 2017).
 </bibl></ab>
     </back>
 </text>
