@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0537"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,24 +71,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>Paris Ky <date when="1863-08-15">Aug. 15 1863</date>
+   <p><placeName ref="cwgk:P00000514">Paris Ky</placeName> <date when="1863-08-15">Aug. 15 1863</date>
 <lb/>To His Excellency,
-<lb/>James F. Robinson
-<lb/>Govenor of the State of Kentucky.</p>
-<p>Your petitioners state that the grand-Jury of Bourbon County indicted Willoughby Scott for being a man of "bad fame", that he was arrested and entered into a bond in the sum of two-hundred Dollars (&#36;200) with George <hi rend="str">A</hi> Parker as his surety for his appearance at the <date when="--04">April</date> term of Bourbon Circuit Court to answer the indictment against him, that said bond was <hi rend="underline">forfeited</hi> at said term, that summons issued against said Parker and judgment was obtained at the <date when="--07">July</date> term against said Parker for &#36;200; that there were indictments found by the same grand jury against several other parties for the same offense, that none of them have ever been tried but continued from term to term, that had Scott been present his case would also have been Continued, that said Scott had so acted that he could not appear to answer said "bond" without being liable to arrest by the Military, that in fact he is now in custody of the military authorities in the state of Ohio, that Willoughby Scott is insolvent. Your petitioners therefore pray that you will <hi rend="underline">remit</hi> in favor of Geo. <hi rend="str">A.</hi> Parker so<pb/>
+<lb/><persName ref="cwgk:N001004">James F. Robinson</persName><lb/>Govenor of <orgName ref="cwgk:O001025">the State of Kentucky</orgName>.</p>
+<p>Your petitioners state that the grand-Jury of <placeName ref="cwgk:P00000515">Bourbon County</placeName> indicted <persName ref="cwgk:N00000520">Willoughby Scott</persName> for being a man of "bad fame", that he was arrested and entered into a bond in the sum of two-hundred Dollars ($200) with George <hi rend="str">A</hi> Parker as his surety for his appearance at the <date when="--04">April</date> term of <orgName ref="cwgk:O00000350">Bourbon Circuit Court</orgName> to answer the indictment against him, that said bond was <hi rend="underline">forfeited</hi> at said term, that summons issued against said Parker and judgment was obtained at the <date when="--07">July</date> term against said Parker for $200; that there were indictments found by the same grand jury against several other parties for the same offense, that none of them have ever been tried but continued from term to term, that had Scott been present his case would also have been Continued, that said Scott had so acted that he could not appear to answer said "bond" without being liable to arrest by the Military, that in fact he is now in custody of the military authorities in <placeName ref="cwgk:P001036">the state of Ohio</placeName>, that <persName ref="cwgk:N00000520">Willoughby Scott</persName> is insolvent. Your petitioners therefore pray that you will <hi rend="underline">remit</hi> in favor of Geo. <hi rend="str">A.</hi> Parker so<pb/>
 <lb/>much of the <hi rend="underline">forfeited</hi> bail as goes to the trustee of the Jury fund</p>
-<p>R T Davis
-<lb/><hi rend="underline">Geo: M Williams</hi>
-<lb/>Jas W <hi rend="underline">Ingels</hi>
+<p><persName ref="cwgk:N00000528">R T Davis</persName><lb/>
+<persName ref="cwgk:N00000535">Geo: M Williams</persName><lb/>Jas W <hi rend="underline">Ingels</hi>
 <lb/>Jesse. H. <hi rend="underline">Talbott</hi>
 <lb/>B f Patten
-<lb/><hi rend="underline">R, H, Hanson</hi><pb/></p>
+<lb/><persName ref="cwgk:N00000753">R, H, Hanson</persName><pb/></p>
 <p>Hon. Jas. F. Robinson
 <lb/>Governor of Kentucky</p>
 <p>Bourbon Cir. Ct</p>
 <p>I am satisfied from reliable statements as well as the Petition that this fine against G. Parker should be &amp; is remitted</p>
 <p>J F Robinson</p>
-<p>&#36;200 &#125; Recog.
+<p>$200 } Recog.
 <lb/>Geo. Parker
 <lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-08-19">Aug 19. 1863</date></p>
   </body>
