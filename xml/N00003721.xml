@@ -46,8 +46,8 @@
                       Robert Walter Agnew
                         (Henderson County, Kentucky, resident)
                     </persName>
-                      <birth when="1836-10-01"></birth>
-                      <death when="1912-01-05"></death>
+                        <event type="birth"  when="1836-10-01"  ><ab>1836-10-01</ab></event>
+                        <event type="death"  when="1912-01-05"  ><ab>1912-01-05</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Henderson County, District 2, p. 322; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Henderson County, Division 1, p. 55; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Henderson County, Henderson, p. 23; <em>Kentucky Vital Statistics Original Death Certificates (1911-1955)</em>, Ancestry, 1912, Henderson County, Kentucky, file no. 1271.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Henderson County, District 2, p. 322; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henderson County, Division 1, p. 55; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Henderson County, Henderson, p. 23; <hi rend=”italic”>Kentucky Vital Statistics Original Death Certificates (1911-1955)</hi>, Ancestry, 1912, Henderson County, Kentucky, file no. 1271.
 </bibl></ab>
     </back>
 </text>
