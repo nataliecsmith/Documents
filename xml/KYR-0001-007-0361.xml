@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0361"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Springfield Ky
-<lb/><date when="1865-02-20">Febuay 20<hi rend="sup">th</hi> 1865</date>
+   <p><placeName ref="cwgk:P00001847">Springfield Ky</placeName><lb/><date when="1865-02-20">Febuay 20<hi rend="sup">th</hi> 1865</date>
 <lb/>To his excellency
-<lb/>Thos E Bramlette govr Ky</p>
-<p>As Justice of the peace of the first district of springfield Washington County Ky. I hereby tender my resignation of said office</p>
-<p>W R Casey J P W C<pb/></p>
+<lb/><persName ref="cwgk:N001000">Thos E Bramlette</persName> govr Ky</p>
+<p>As Justice of the peace of the first district of springfield <placeName ref="cwgk:P00005027">Washington County Ky</placeName>. I hereby tender my resignation of said office</p>
+<p><persName ref="cwgk:N00005028">W R Casey</persName> J P W C<pb/></p>
 <p>Washington Co
 <lb/>Resig &amp; appt<hi rend="sup">d</hi>
 <lb/>Justice Peace
