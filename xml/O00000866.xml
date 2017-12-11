@@ -43,8 +43,8 @@
             <particDesc>
                 <org xml:id="O00000866">
                     <orgName>10th Kentucky Volunteer Cavalry Regiment</orgName>
-                      <event type="begun" when="1862-09-09">1862-09-09</event>
-                      <event type="ended" when="1863-09-17">1863-09-17</event>
+                        <event type="begun"  when="1862-09-09"  ><ab>1862-09-09</ab></event>
+                        <event type="ended"  when="1863-09-17"  ><ab>1863-09-17</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +55,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Report of the Adjutant General of the State of Kentucky</em>, vol. 1 (Frankfort: John H. Harney, Public Printer, 1866), 271.</p>
+        <ab><bibl><hi rend=”italic”>Report of the Adjutant General of the State of Kentucky</hi>, vol. 1 (Frankfort: John H. Harney, Public Printer, 1866), 271.
 </bibl></ab>
     </back>
 </text>
