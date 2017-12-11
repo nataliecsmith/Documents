@@ -39,19 +39,19 @@
             <particDesc>
                 <org xml:id="O00000748">
                     <orgName>Army of the Ohio</orgName>
-                      <event type="begun" when="1861-12-02">1861-12-02</event>
-                      <event type="ended" when="1862-10-24">1862-10-24</event>
+                        <event type="begun"  when="1861-12-02"  ><ab>1861-12-02</ab></event>
+                        <event type="ended"  when="1862-10-24"  ><ab>1862-10-24</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>This Army was created on December 2, 1861. It existed as a standalone army until it was transferred back to the Department of the Cumberland on October 24, 1862. <em>Commander(s)</em>: Don Carlos Buell.</p>
+        <p>This Army was created on December 2, 1861. It existed as a standalone army until it was transferred back to the Department of the Cumberland on October 24, 1862. <hi rend=”italic”>Commander(s)</hi>: Don Carlos Buell.</p>
 
     </body>
     <back>
-        <ab><bibl><p>Frank J. Welcher, <em>The Union Army, 1861-1865: Organization and Operations, vol. 2, The Western Theatre</em> (Bloomington: Indiana University Press, 1993), 192-206. Gerald J. Prokopowicz, <em>All for the Regiment: The Army of the Ohio, 1861-1862</em> (Chapel Hill: The University of North Carolina Press, 2014).</p>
+        <ab><bibl>Frank J. Welcher, <hi rend=”italic”>The Union Army, 1861-1865: Organization and Operations, vol. 2, The Western Theatre</hi> (Bloomington: Indiana University Press, 1993), 192-206. Gerald J. Prokopowicz, <hi rend=”italic”>All for the Regiment: The Army of the Ohio, 1861-1862</hi> (Chapel Hill: The University of North Carolina Press, 2014).
 </bibl></ab>
     </back>
 </text>
