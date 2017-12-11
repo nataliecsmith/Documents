@@ -46,8 +46,8 @@
                       Doctor S. Thomas
                         (Hancock County, Kentucky, blacksmith)
                     </persName>
-                      <birth when="1812-11-11"></birth>
-                      <death when="1873-07-23"></death>
+                        <event type="birth"  when="1812-11-11"  ><ab>1812-11-11</ab></event>
+                        <event type="death"  when="1873-07-23"  ><ab>1873-07-23</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;An Act to incorporate the &#39;Western Coal Company&#39;,&quot; <em>Acts of the General Assembly of the Commonwealth of Kentucky: Passed at December Session, 1842</em> (Frankfort, Ky.: A. G. Hodges, State Printer, 1843), 236; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hancock County; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hancock County, Hawesville, p. 122; <em>Find A Grave</em>, &quot;Doctor Simms Thomas (1812-1873),&quot; Memorial #89301564, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=89301564&amp;ref=acom (accessed April 6, 2017).</p>
+        <ab><bibl>&quot;An Act to incorporate the &#39;Western Coal Company&#39;,&quot; <hi rend=”italic”>Acts of the General Assembly of the Commonwealth of Kentucky: Passed at December Session, 1842</hi> (Frankfort, Ky.: A. G. Hodges, State Printer, 1843), 236; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hancock County; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hancock County, Hawesville, p. 122; <hi rend=”italic”>Find A Grave</hi>, &quot;Doctor Simms Thomas (1812-1873),&quot; Memorial #89301564, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=89301564&amp;ref=acom (accessed April 6, 2017).
 </bibl></ab>
     </back>
 </text>
