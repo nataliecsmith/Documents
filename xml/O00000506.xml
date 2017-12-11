@@ -47,8 +47,8 @@
             <particDesc>
                 <org xml:id="O00000506">
                     <orgName>Confederate States Army</orgName>
-                      <event type="begun" when="1861">1861</event>
-                      <event type="ended" when="1865">1865</event>
+                        <event type="begun"  when="1861"  ><ab>1861</ab></event>
+                        <event type="ended"  when="1865"  ><ab>1865</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Henry Putney Beers, <em>The Confederacy: A Guide to the Archives of the Government of the Confederate States of America</em> (Washington, D.C.: National Archives and Records Administration, 1968, reprinted 1986), 259.</p>
+        <ab><bibl>Henry Putney Beers, <hi rend=”italic”>The Confederacy: A Guide to the Archives of the Government of the Confederate States of America</hi> (Washington, D.C.: National Archives and Records Administration, 1968, reprinted 1986), 259.
 </bibl></ab>
     </back>
 </text>
