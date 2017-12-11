@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00000737">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Department of the Mississippi</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00000737">
+                    <orgName>Department of the Mississippi</orgName>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>This department existed in three separate periods. This department was created on March 11, 1862. Consisted of the Departments of Kansas, the Missouri, and the Ohio. The Department of Kansas was removed to form its own department on May 2, 1862, along with the Indian Territory west of Arkansas and the Nebraska, Colorado, and Dakota territories. Kentucky west of the north-south line passing through Knoxville, Tennessee, was attached to this department on June 8, 1862. At this point the department consisted of all or part of twelve states—Missouri, Minnesota, Iowa, Wisconsin, Indiana, Illinois, Kentucky, Tennessee, Arkansas, Michigan, and Ohio.  On July 16, 1862, District of Ohio was transferred from the department.  On August 19, 1862, several parts of the department were transferred to the Department of the Ohio—including Illinois, Indiana, Wisconsin, parts of Ohio and Michigan west of the north-south Knoxville line, the part of Kentucky east of the Tennessee River. On September 6, 1862, Iowa and Minnesota became part of the Department of the Northwest. This department was disbanded on September 19, 1862, transferring several entities to the Departments of the Missouri and the District of Ohio. <hi rend=”italic”>Commander(s)</hi>: Henry W. Halleck and Ulysses S. Grant.</p>
+
+<p>The second was created on November 28, 1864. It was geographically defined by the state of Mississippi and the parts of Tennessee west of the Tennessee River. On January 17, 1865, this department consisted of the state of Mississippi—minus parts controlled by the troops of George H. Thomas. On February 10, 1865, the part of Mississippi controlled by Federal forces on the Mississippi River was added to this department. This department was disbanded on May 17, 1865. <hi rend=”italic”>Commander(s)</hi>: Napoleon J. T. Dana and Gouverneur K. Warren.</p>
+
+<p>The third was created on June 27, 1865. It was geographically defined by the state of Mississippi and assigned to the Military Division of the Gulf. This department was disbanded on August 6, 1866. <hi rend=”italic”>Commander(s)</hi>: Henry W. Slocum.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Frank J. Welcher, <hi rend=”italic”>The Union Army, 1861—1865: Organization and Operations, vol. 2, The Western Theatre</hi> (Bloomington: Indiana University Press, 1993), 78-88.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
