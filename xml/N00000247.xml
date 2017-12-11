@@ -46,8 +46,8 @@
                       Charles Savage
                         (Marion Co Saddler)
                     </persName>
-                      <birth when="1823"></birth>
-                      <death when="1883"></death>
+                        <event type="birth"  when="1823"  ><ab>1823</ab></event>
+                        <event type="death"  when="1883"  ><ab>1883</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marion County, Lebanon District 1, p. 44. Marion County [Kentucky] Court, Probate Records, 1863-1902, Roll 598712: Administrators Bonds, Vol. 3, 1879-91, p. 101.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, Lebanon District 1, p. 44. Marion County [Kentucky] Court, Probate Records, 1863-1902, Roll 598712: Administrators Bonds, Vol. 3, 1879-91, p. 101.
 </bibl></ab>
     </back>
 </text>
