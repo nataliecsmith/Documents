@@ -46,8 +46,8 @@
                       Abram Adams Hammond 
                         (Indiana governor )
                     </persName>
-                      <birth when="1814-03-21"></birth>
-                      <death when="1874-08-27"></death>
+                        <event type="birth"  when="1814-03-21"  ><ab>1814-03-21</ab></event>
+                        <event type="death"  when="1874-08-27"  ><ab>1874-08-27</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,8 +60,8 @@
 
     </body>
     <back>
-        <ab><bibl><p>George Iriving Reed, ed., <em>Encyclopedia of Biography of Indiana</em>, vol. 2 (Chicago: The Century Publishing and Engraving Co., 1899), 37-39. “Indiana Governor Abram Adams Hammond (1814 - 1874),” <br>
-http://www.in.gov/history/2736.htm (accessed July 21, 2017).</p>
+        <ab><bibl>George Iriving Reed, ed., <hi rend=”italic”>Encyclopedia of Biography of Indiana</hi>, vol. 2 (Chicago: The Century Publishing and Engraving Co., 1899), 37-39. “Indiana Governor Abram Adams Hammond (1814 - 1874),” <br>
+http://www.in.gov/history/2736.htm (accessed July 21, 2017).
 </bibl></ab>
     </back>
 </text>
