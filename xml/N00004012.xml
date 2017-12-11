@@ -46,8 +46,7 @@
                       H. H. Hughes 
                         (clerk, Marion county court)
                     </persName>
-                      <birth when="c1836"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1836"  certainty="medium" ><ab>c1836</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marion county,  Lebanon district 1, p.35.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion county,  Lebanon district 1, p.35.
 </bibl></ab>
     </back>
 </text>
