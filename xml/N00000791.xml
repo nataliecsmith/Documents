@@ -50,8 +50,8 @@
                       William Mix
                         (Louisville, Kentucky, attorney)
                     </persName>
-                      <birth when="1833-03-18"></birth>
-                      <death when="1894-10-30"></death>
+                        <event type="birth"  when="1833-03-18"  ><ab>1833-03-18</ab></event>
+                        <event type="death"  when="1894-10-30"  ><ab>1894-10-30</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Will Be Private: Funeral of the Late William Mix,&quot; <em>Courier-Journal</em> (Louisville, Ky.), November 1, 1894, p. 8; &quot;Gathered to His Fathers: Death of William Mix,&quot; <em>Courier-Journal</em> (Louisville, Ky.),October 31, 1894, p. 2.</p>
+        <ab><bibl>&quot;Will Be Private: Funeral of the Late William Mix,&quot; <hi rend=”italic”>Courier-Journal</hi> (Louisville, Ky.), November 1, 1894, p. 8; &quot;Gathered to His Fathers: Death of William Mix,&quot; <hi rend=”italic”>Courier-Journal</hi> (Louisville, Ky.),October 31, 1894, p. 2.
 </bibl></ab>
     </back>
 </text>
