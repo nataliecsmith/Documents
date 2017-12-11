@@ -43,8 +43,7 @@
             <particDesc>
                 <org xml:id="O00006734">
                     <orgName>Nettleton, Gilbert, &amp; Camp</orgName>
-                      <event type="begun" when="c1861">c1861</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1861"  certainty="medium" ><ab>c1861</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Pensions and Bounties,&quot; <em>The New York Times</em> (New York City, N.Y.), September 26, 1862, p. 7; KYR-0001-007-0395.</p>
+        <ab><bibl>&quot;Pensions and Bounties,&quot; <hi rend=”italic”>The New York Times</hi> (New York City, N.Y.), September 26, 1862, p. 7; KYR-0001-007-0395.
 </bibl></ab>
     </back>
 </text>
