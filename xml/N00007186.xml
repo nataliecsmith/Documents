@@ -46,8 +46,8 @@
                       James M. Roby
                         (Fleming County, Kentucky, blacksmith)
                     </persName>
-                      <birth when="1834"></birth>
-                      <death when="1910-09-15"></death>
+                        <event type="birth"  when="1834"  ><ab>1834</ab></event>
+                        <event type="death"  when="1910-09-15"  ><ab>1910-09-15</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Fleming County, District 1, p. 313. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Mason County, District 2, East Maysville, p. 171. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Fleming County, Poplar Plains, p. 4. <em>Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</em>, Jefferson County, Deaths, 1910, Microfilm rolls #7007125-7007131, 7011804-7011813, 7012974-7013570, 7015456-7015462, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. KYR-0001-029-0573.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, District 1, p. 313. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, District 2, East Maysville, p. 171. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fleming County, Poplar Plains, p. 4. <hi rend=”italic”>Birth and Death Records: Covington, Lexington, Louisville, and Newport – Microfilm (before 1911)</hi>, Jefferson County, Deaths, 1910, Microfilm rolls #7007125-7007131, 7011804-7011813, 7012974-7013570, 7015456-7015462, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. KYR-0001-029-0573.
 </bibl></ab>
     </back>
 </text>
