@@ -50,8 +50,8 @@
                       Howard Douglass
                         (Cincinnati, Ohio, soldier and commissioner of deeds)
                     </persName>
-                      <birth when="1846-01-21"></birth>
-                      <death when="1908-07-18"></death>
+                        <event type="birth"  when="1846-01-21"  ><ab>1846-01-21</ab></event>
+                        <event type="death"  when="1908-07-18"  ><ab>1908-07-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Ohio, Hamilton County, Cincinnati, Ward 14, p. 9; <em>Eleventh Manuscript Census of the United States</em> (1890),  Veterans Schedule, Ohio, Hamilton County, Cincinnati, p. 2; &quot;Pythian of Note Dies at 62,&quot; <em>The Chicago Tribune</em> (Chicago, Ill.), July 18, 1902, p. 4; &quot;To Rest,&quot; <em>The Cincinnati Enquirer</em> (Cincinnati, O.), July 24, 1908, p. 7; KYR-0001-007-0367; KYR-0001-007-0373; KYR-0001-007-0375.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Ohio, Hamilton County, Cincinnati, Ward 14, p. 9; <hi rend=”italic”>Eleventh Manuscript Census of the United States</hi> (1890),  Veterans Schedule, Ohio, Hamilton County, Cincinnati, p. 2; &quot;Pythian of Note Dies at 62,&quot; <hi rend=”italic”>The Chicago Tribune</hi> (Chicago, Ill.), July 18, 1902, p. 4; &quot;To Rest,&quot; <hi rend=”italic”>The Cincinnati Enquirer</hi> (Cincinnati, O.), July 24, 1908, p. 7; KYR-0001-007-0367; KYR-0001-007-0373; KYR-0001-007-0375.
 </bibl></ab>
     </back>
 </text>
