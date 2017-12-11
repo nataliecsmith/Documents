@@ -50,8 +50,7 @@
                       William Wilson Hollman
                         (Eddyville, Kentucky, machinist and liquor dealer)
                     </persName>
-                      <birth when="c1817"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1817"  certainty="medium" ><ab>c1817</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 102; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Lyon County, District 1, p. 331; Ancestry.com. *U.S. IRS Tax Assessment Lists, 1862-1918( [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2008, Series M768, Roll 02, Lyon County, Kentucky, 1864, p. 49.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 102; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lyon County, District 1, p. 331; Ancestry.com. *U.S. IRS Tax Assessment Lists, 1862-1918( [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2008, Series M768, Roll 02, Lyon County, Kentucky, 1864, p. 49.
 </bibl></ab>
     </back>
 </text>
