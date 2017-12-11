@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0349"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington Ky
-<lb/><date when="1865-01-08">Jan 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
-<lb/>Dear Gov -- </p>
-<p>I have Just returned from a trip up Red River in La, and while in Shreveport was requested by members of the Bar of that place, to ask of you the appointment of a commissioner of Deeds for Kentucky in that place. The need of a Commissioner at that place is very much felt. -- I had some difficulty in the want of one myself.</p>
+   <p><placeName ref="cwgk:P001002">Lexington Ky
+</placeName><lb/><date when="1865-01-08">Jan 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>Dear <persName ref="cwgk:N001000">Gov</persName> -- </p>
+<p>I have Just returned from a trip up <geogName ref="cwgk:G00004923">Red River</geogName> in <placeName ref="cwgk:P00002302">La</placeName>, and while in <placeName ref="cwgk:P00004922">Shreveport</placeName> was requested by members of the Bar of that place, to ask of you the appointment of a commissioner of Deeds for <orgName ref="cwgk:O001025">Kentucky</orgName> in that place. The need of a Commissioner at that place is very much felt. -- I had some difficulty in the want of one myself.</p>
 <p>They recommended the name of <hi rend="underline">Samuel</hi> <hi rend="underline">Wells</hi> Esq as a Suitable person. -- </p>
 <p>Please attend to this and very much oblige, the legal fraternity of North Western La &amp; your obedient Servant. -- </p>
-<p>L B, Grigsby</p>
+<p><persName ref="cwgk:N00004947">L B. Grigsby</persName></p>
 <p>Gov Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlett. -- <pb/></p>
 <p>Com<hi rend="sup">r</hi> of Deeds
 <lb/>Louisiana
