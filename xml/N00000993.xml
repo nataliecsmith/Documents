@@ -46,7 +46,7 @@
                       Jesse W. Kincheloe
                         (Breckinridge Co. Lawyer)
                     </persName>
-                      <birth when="c1806"></birth>
+                        <event type="birth"  when="1806"  certainty="medium" ><ab>c1806</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breckinridge, District 1, p. 111.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge, District 1, p. 111.
 </bibl></ab>
     </back>
 </text>
