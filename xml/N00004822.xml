@@ -46,8 +46,8 @@
                       C. Thompson Worley
                         (Lexington, Kentucky, auctioneer and mayor)
                     </persName>
-                      <birth when="1818"></birth>
-                      <death when="1887-08-22"></death>
+                        <event type="birth"  when="1818"  ><ab>1818</ab></event>
+                        <event type="death"  when="1887-08-22"  ><ab>1887-08-22</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Jessamine County, District 2, p. 71. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 92. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 50. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Fayette County, Lexington, Ward 2, p. 109. William Henry Perrin, ed., <em>History of Fayette County, Kentucky</em> (Chicago, IL: O. L. Baskin &amp; Co., 1882), p. 271. <em>Find A Grave</em>, &quot;Caleb Thompson Worley (1818-1887),&quot; Memorial #28671418, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=28671418 (accessed April 27, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jessamine County, District 2, p. 71. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 92. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 50. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette County, Lexington, Ward 2, p. 109. William Henry Perrin, ed., <hi rend=”italic”>History of Fayette County, Kentucky</hi> (Chicago, IL: O. L. Baskin &amp; Co., 1882), p. 271. <hi rend=”italic”>Find A Grave</hi>, &quot;Caleb Thompson Worley (1818-1887),&quot; Memorial #28671418, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=28671418 (accessed April 27, 2017).
 </bibl></ab>
     </back>
 </text>
