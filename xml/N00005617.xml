@@ -46,8 +46,7 @@
                       Lewis Hurst
                         (Brooklyn, New York, attorney and commissioner of deeds)
                     </persName>
-                      <birth when="c1827"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1827"  certainty="medium" ><ab>c1827</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, New York, Kings County, Brooklyn, Ward 11, District 2, p. 184.; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, New York, Kings County, Brooklyn, Ward 20, p. 38; <em>The Brooklyn Daily Eagle</em> (Brooklyn, N.Y.), February 22, 1860, p. 4.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, New York, Kings County, Brooklyn, Ward 11, District 2, p. 184.; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, New York, Kings County, Brooklyn, Ward 20, p. 38; <hi rend=”italic”>The Brooklyn Daily Eagle</hi> (Brooklyn, N.Y.), February 22, 1860, p. 4.
 </bibl></ab>
     </back>
 </text>
