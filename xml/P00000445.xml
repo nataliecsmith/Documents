@@ -36,7 +36,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00000445">
                     <placeName>
                         <location>
@@ -45,7 +45,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -54,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Otto A. Rothert, <em>A History of Muhlenberg County</em> (Louisville, KY: John P. Morton and Company, 1913), xvii.</p>
+        <ab><bibl>Otto A. Rothert, <hi rend=”italic”>A History of Muhlenberg County</hi> (Louisville, KY: John P. Morton and Company, 1913), xvii.
 </bibl></ab>
     </back>
 </text>
