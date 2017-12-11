@@ -50,8 +50,7 @@
                       Washington Eblin
                         (Franklin County prisoner)
                     </persName>
-                      <birth when="c1825"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1825"  certainty="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Franklin County, District 1, p. 49. KYR-0001-029-0597. KYR-0001-020-1167. KYR-0001-020-1176.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 1, p. 49. KYR-0001-029-0597. KYR-0001-020-1167. KYR-0001-020-1176.
 </bibl></ab>
     </back>
 </text>
