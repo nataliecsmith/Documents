@@ -46,8 +46,7 @@
                       J. F. Cessna
                         (LaRue County County Judge)
                     </persName>
-                      <birth when="1805"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1805"  ><ab>1805</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, LaRue County, Hodgenville, p. 144. </p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, LaRue County, Hodgenville, p. 144. 
 </bibl></ab>
     </back>
 </text>
