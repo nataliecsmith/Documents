@@ -50,8 +50,8 @@
                       Moses Block
                         (Louisville, Kentucky, fancy store owner)
                     </persName>
-                      <birth when="1809"></birth>
-                      <death when="1882"></death>
+                        <event type="birth"  when="1809"  ><ab>1809</ab></event>
+                        <event type="death"  when="1882"  ><ab>1882</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 8, p. 226; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 9, p. 10; <em>Find A Grave</em>, &quot;Moses Block (1809-1882),&quot; Memorial #64946875, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=64946875 (accessed June 21, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 8, p. 226; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 9, p. 10; <hi rend=”italic”>Find A Grave</hi>, &quot;Moses Block (1809-1882),&quot; Memorial #64946875, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=64946875 (accessed June 21, 2017).
 </bibl></ab>
     </back>
 </text>
