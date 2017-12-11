@@ -46,8 +46,8 @@
                       Richard Aylett Buckner, Jr.
                         (Lexington &amp; Speaker of State House)
                     </persName>
-                      <birth when="1813-12-03"></birth>
-                      <death when="1900-02-19"></death>
+                        <event type="birth"  when="1813-12-03"  ><ab>1813-12-03</ab></event>
+                        <event type="death"  when="1900-02-19"  ><ab>1900-02-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</em>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 18; <em>Find A Grave</em>, &quot;Judge Richard A Buckner (1813-1900),&quot; Memorial #100468589, https://www.findagrave.com/memorial/100468589 (accessed November 16, 2017).</p>
+        <ab><bibl><hi rend=”italic”>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 18; <hi rend=”italic”>Find A Grave</hi>, &quot;Judge Richard A Buckner (1813-1900),&quot; Memorial #100468589, https://www.findagrave.com/memorial/100468589 (accessed November 16, 2017).
 </bibl></ab>
     </back>
 </text>
