@@ -46,8 +46,8 @@
                       James P. Pollock
                         (Ballard County, Kentucky, master wagon-maker)
                     </persName>
-                      <birth when="1837-12-24"></birth>
-                      <death when="1919-05-09"></death>
+                        <event type="birth"  when="1837-12-24"  ><ab>1837-12-24</ab></event>
+                        <event type="death"  when="1919-05-09"  ><ab>1919-05-09</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="U"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Ballard County, Blandville, p. 6. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hickman County, Columbus, p. 3. <em>Hickman County, Ky. Cemeteries</em>, vol. 3 (Melber, Ky.: Hickman County Historical Society, 1997), p. 204. <em>Find A Grave</em>, &quot;James P. Pollock (1837-1919),&quot; Memorial #23251001, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=23251001&amp;ref=acom (accessed September 11, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Blandville, p. 6. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hickman County, Columbus, p. 3. <hi rend=”italic”>Hickman County, Ky. Cemeteries</hi>, vol. 3 (Melber, Ky.: Hickman County Historical Society, 1997), p. 204. <hi rend=”italic”>Find A Grave</hi>, &quot;James P. Pollock (1837-1919),&quot; Memorial #23251001, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=23251001&amp;ref=acom (accessed September 11, 2017).
 </bibl></ab>
     </back>
 </text>
