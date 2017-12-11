@@ -39,8 +39,8 @@
             <particDesc>
                 <org xml:id="O00006538">
                     <orgName>Second French Empire</orgName>
-                      <event type="begun" when="1852">1852</event>
-                      <event type="ended" when="1870">1870</event>
+                        <event type="begun"  when="1852"  ><ab>1852</ab></event>
+                        <event type="ended"  when="1870"  ><ab>1870</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -51,7 +51,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Second Empire&quot; in <em>Encyclopedia Brittanica</em>, https://www.britannica.com/topic/Second-Empire (accessed May 24, 2017).</p>
+        <ab><bibl>&quot;Second Empire&quot; in <hi rend=”italic”>Encyclopedia Brittanica</hi>, https://www.britannica.com/topic/Second-Empire (accessed May 24, 2017).
 </bibl></ab>
     </back>
 </text>
