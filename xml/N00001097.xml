@@ -54,8 +54,8 @@
                       William J. Moseley
                         (McLean Co. Hotel Keeper)
                     </persName>
-                      <birth when="1818-03-03"></birth>
-                      <death when="1863-11-05"></death>
+                        <event type="birth"  when="1818-03-03"  ><ab>1818-03-03</ab></event>
+                        <event type="death"  when="1863-11-05"  ><ab>1863-11-05</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +68,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, McLean County, Unnamed District, p. 56. <em>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</em>, Microfilm rolls #994027-994058, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. <em>Find A Grave</em>, &quot;William Jasper Moseley (1818-1863),&quot; Memorial #22694766, https://www.findagrave.com/memorial/22694766 (accessed September 19, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean County, Unnamed District, p. 56. <hi rend=”italic”>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, Microfilm rolls #994027-994058, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. <hi rend=”italic”>Find A Grave</hi>, &quot;William Jasper Moseley (1818-1863),&quot; Memorial #22694766, https://www.findagrave.com/memorial/22694766 (accessed September 19, 2017).
 </bibl></ab>
     </back>
 </text>
