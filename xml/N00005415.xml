@@ -50,8 +50,8 @@
                       Elijah Connor Phister
                         (Mason County circuit court judge, attorney, and mayor)
                     </persName>
-                      <birth when="1822-10-08"></birth>
-                      <death when="1887-05-16"></death>
+                        <event type="birth"  when="1822-10-08"  ><ab>1822-10-08</ab></event>
+                        <event type="death"  when="1887-05-16"  ><ab>1887-05-16</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, [State], Mason County, District 2, p. 172; Tenkotte, Paul A. and James C. Claypool, eds., <em>The Encyclopedia of Northern Kentucky</em> (Lexington: The University Press of Kentucky, 2009), 715. </p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, [State], Mason County, District 2, p. 172; Tenkotte, Paul A. and James C. Claypool, eds., <hi rend=”italic”>The Encyclopedia of Northern Kentucky</hi> (Lexington: The University Press of Kentucky, 2009), 715. 
 </bibl></ab>
     </back>
 </text>
