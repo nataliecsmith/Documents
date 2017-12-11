@@ -50,8 +50,7 @@
                       Harrison W. Waggener
                         (Morganfield, Kentucky, saddler and county clerk)
                     </persName>
-                      <birth when="c1817"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1817"  certainty="medium" ><ab>c1817</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Union, Morganfield, p. 206; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedule, Kentucky, Union County, Morganfield, p. 33;<em>Ninth Manuscript Census of the United States</em> (1870), Population Schedule, Kentucky, Union County, Morganfield, p. 1; KYR-0001-007-0366.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Union, Morganfield, p. 206; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedule, Kentucky, Union County, Morganfield, p. 33;<hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Union County, Morganfield, p. 1; KYR-0001-007-0366.
 </bibl></ab>
     </back>
 </text>
