@@ -54,8 +54,8 @@
                       Charles L. Stuteville
                         (Calhoun, Ky Saddler)
                     </persName>
-                      <birth when="1834-08-02"></birth>
-                      <death when="1866-08-26"></death>
+                        <event type="birth"  when="1834-08-02"  ><ab>1834-08-02</ab></event>
+                        <event type="death"  when="1866-08-26"  ><ab>1866-08-26</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +68,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, McLean County, Calhoun, p. 2. <em>Find A Grave</em>, &quot;Charles L. Stuteville (1834-1866),&quot; Memorial #88070334, https://www.findagrave.com/memorial/88070334 (accessed September, 11, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean County, Calhoun, p. 2. <hi rend=”italic”>Find A Grave</hi>, &quot;Charles L. Stuteville (1834-1866),&quot; Memorial #88070334, https://www.findagrave.com/memorial/88070334 (accessed September, 11, 2017).
 </bibl></ab>
     </back>
 </text>
