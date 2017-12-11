@@ -46,8 +46,8 @@
                       Foster Butler
                         (Breckinridge County, Kentucky, resident)
                     </persName>
-                      <birth when="1836-06-23"></birth>
-                      <death when="1920-02-03"></death>
+                        <event type="birth"  when="1836-06-23"  ><ab>1836-06-23</ab></event>
+                        <event type="death"  when="1920-02-03"  ><ab>1920-02-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Breckinridge County, District 2, p. 91. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breckinridge County, District 2, p. 96. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Breckinridge County, McDaniels, p. 4. <em>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</em>, Breckinridge County, 1920,  no. 3105, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District 2, p. 91. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, District 2, p. 96. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breckinridge County, McDaniels, p. 4. <hi rend=”italic”>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, Breckinridge County, 1920,  no. 3105, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
 </bibl></ab>
     </back>
 </text>
