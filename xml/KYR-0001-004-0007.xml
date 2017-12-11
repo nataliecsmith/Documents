@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0007"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,10 +71,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hopkinsville, Ky.,
-<lb/><date when="1863-09-01">Sept 1<hi rend="sup">st</hi> 1863</date> -- 
-<lb/>To His Excellency James F. Robinson Governor of the Commonwealth of Kentucky or his successor, the Hon. Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette -- </p>
-<p>Your petitioner John G. Merritt, respectfully showeth to your Excellency, that at the <date when="1863-03">March term of the Christian Circuit Court 1863</date>. two several fines were assessed upon your petitioner by said Court upon verdicts rendered <hi rend="str">o</hi>in the trial of two indictments the one for carrying concealed weapons, &amp; the other for disturbing religious worship, the fine in the first case being twenty dollars, and in the second case being fifty dollars. Your petitioner further showeth to your Excellency that, at the time of the trial of said indictments, he was sick and confined to his bed, being afflicted with hemorahage of the lungs, and for that reason could not attend the said trials -- that, if he had been able to attend said trials, he could have made it appear that he was not gulity as charged in the indictment for disturbing religious worship, but that he (at the time said offence was alleged to have been committed) ^was^ at the church as a peaceable citizen, disturbing no one, but was himself disturbed and insulted by others, and that, if <hi rend="str"><unclear/></hi>there was any disturbance at the time it was not casued by him; but by others. Your petitioner is in the habit of attending the public worship of God, and <hi rend="str">is</hi> fully appreciates the necessity of enforcing the laws<pb/>
+   <p><placeName ref="cwgk:P00002431">Hopkinsville</placeName>, Ky.,<lb/><date when="1863-09-01">Sept 1<hi rend="sup">st</hi> 1863</date> -- 
+<lb/>To His Excellency <persName ref="cwgk:N001004">James F. Robinson</persName> Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> or his successor, the Hon. Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette -- </p>
+<p>Your petitioner <persName ref="cwgk:N00008092">John G. Merritt</persName>, respectfully showeth to your Excellency, that at the March term of the . two several fines were assessed upon your petitioner by said Court upon verdicts rendered <orgName ref="cwgk:O00000362">Christian Circuit Court</orgName> 1863<hi rend="str">o</hi>in the trial of two indictments the one for carrying concealed weapons, &amp; the other for disturbing religious worship, the fine in the first case being twenty dollars, and in the second case being fifty dollars. Your petitioner further showeth to your Excellency that, at the time of the trial of said indictments, he was sick and confined to his bed, being afflicted with hemorahage of the lungs, and for that reason could not attend the said trials -- that, if he had been able to attend said trials, he could have made it appear that he was not gulity as charged in the indictment for disturbing religious worship, but that he (at the time said offence was alleged to have been committed) ^was^ at the church as a peaceable citizen, disturbing no one, but was himself disturbed and insulted by others, and that, if <hi rend="str"><unclear/></hi>there was any disturbance at the time it was not casued by him; but by others. Your petitioner is in the habit of attending the public worship of God, and <hi rend="str">is</hi> fully appreciates the necessity of enforcing the laws<pb/>
 <lb/>of the Commonwealth wh<hi rend="str">ich</hi>ose <hi rend="str"><unclear/></hi>objects <hi rend="str"><unclear/></hi>are to secure the freedom of religion and religious worship -- Certainly your petitioner's reverence for God and for religion <hi rend="str"><unclear/></hi>and respect for his house and his people, would restrain from such offences -- Your petitioner further showeth to your Excellency that long before the trials aforesaid (say for three years) he has been and is now afflicted with disease of the lungs which has assumed the form of Consumption, and that his affliction is so great that he is now and has been for a long time unable to work for a support, but depends for a living upon the charity of his father. Your petitioner has no property and is wholly unable to pay the said fines -- </p>
 <p>For the reasons aforesaid your petitioner would respectfully pray your Excellency to remit to and pardon him of so much of said fines as by the law belong to the Commonwealth, and Your petitioner will ever pray &amp;c.</p>
 <p>J G Merritt</p>
@@ -75,29 +82,24 @@
 <p>I. B. Boyd (Juryman)
 <lb/>J G Witty
 <lb/>W. A Witty
-<lb/>Jas B Witty Juryman
-<lb/>J A Witty
-<lb/>A F Witty
-<lb/>W W Boyd Juryman
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. Linnville
-<lb/>J A youngs
-<lb/>J m<unclear>oris</unclear>
+<lb/><persName ref="cwgk:N00008096">Jas B Witty</persName> Juryman<lb/><persName ref="cwgk:N00008097">J A Witty
+</persName><lb/>A F Witty
+<lb/><persName ref="cwgk:N00008099">W W Boyd</persName> Juryman<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>. Linnville
+<lb/><persName ref="cwgk:N00008101">J A youngs</persName><lb/>J m<unclear>oris</unclear>
 <lb/>G. W Witty
 <lb/>George Golay
-<lb/>R A Morris
-<lb/><hi rend="str">G D Mor</hi>
+<lb/><persName ref="cwgk:N00008105">R A Morris
+</persName><lb/><hi rend="str">G D Mor</hi>
 <lb/>J D Morris
 <lb/>R. Knight
-<lb/>J S Renolds
-<lb/>James Roberts
-<lb/>John Ryan
-<lb/>A. Armstrong
-<lb/>R. Golay
-<lb/>S n Boyd
+<lb/><persName ref="cwgk:N00008129">J S Renolds
+</persName><lb/><persName ref="cwgk:N00008130">James Roberts
+</persName><lb/><persName ref="cwgk:N00008131">John Ryan</persName><lb/><persName ref="cwgk:N00008132">A. Armstrong
+</persName><lb/><persName ref="cwgk:N00008133">R. Golay
+</persName><lb/>S n Boyd
 <lb/>James Hollins
 <lb/>John Linville
-<lb/>J Wagoner
-<lb/>H J Morris
+<lb/><persName ref="cwgk:N00008137">J Wagoner</persName><lb/>H J Morris
 <lb/>G kinight
 <lb/>J <hi rend="str">T</hi> T. Fuller
 <lb/>R S Fuller
@@ -112,7 +114,7 @@
 <lb/>Rejected <date when="1863-09-12">12<hi rend="sup">th</hi> Sept/63</date></p>
 <p>Jno G Merrit
 <lb/>Pet for remission fine
-<lb/>&#36;50 and &#36;20. for carrying concealed weapons &amp; distbg R. worship
+<lb/>$50 and $20. for carrying concealed weapons &amp; distbg R. worship
 <lb/><date when="1863-09-12">Sept 12<hi rend="sup">th</hi> 1863</date>
 <lb/>Refused
 <lb/>Tho E Bramlette</p>
