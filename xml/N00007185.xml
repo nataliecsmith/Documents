@@ -46,8 +46,8 @@
                       Robert H. Yantis
                         (Garrard County, Kentucky, physician)
                     </persName>
-                      <birth when="1838-02-02"></birth>
-                      <death when="1918-09-19"></death>
+                        <event type="birth"  when="1838-02-02"  ><ab>1838-02-02</ab></event>
+                        <event type="death"  when="1918-09-19"  ><ab>1918-09-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Garrard County, Division 1, p. 266. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Garrard County, Lancaster, p. 12. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Fleming County, Poplar Plains, p. 16. <em>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</em>, Fleming County, 1918,  file no. 22462, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. KYR-0001-029-0573.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Garrard County, Division 1, p. 266. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Garrard County, Lancaster, p. 12. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fleming County, Poplar Plains, p. 16. <hi rend=”italic”>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, Fleming County, 1918,  file no. 22462, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. KYR-0001-029-0573.
 </bibl></ab>
     </back>
 </text>
