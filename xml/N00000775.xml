@@ -54,8 +54,8 @@
                       George Twyman Wood
                         (Munfordville)
                     </persName>
-                      <birth when="1796-09-17"></birth>
-                      <death when="1876-02-24"></death>
+                        <event type="birth"  when="1796-09-17"  ><ab>1796-09-17</ab></event>
+                        <event type="death"  when="1876-02-24"  ><ab>1876-02-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +68,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Hart County, Munfordville, District 2, p. 131; <em>Report of the Adjutant General of the State of Kentucky</em>, vol. 1 (Frankfort: John H. Harney, Public Printer, 1866), VII. <em>Kentucky, Death Records, 1852-1964</em>, Ancestry, Hart County, 1876. <em>Find A Grave</em>, &quot;George Twyman Wood (1796-1876),&quot; Memorial #114277492, https://ww28XX, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Hart County, Munfordville, District 2, p. 131; <hi rend=”italic”>Report of the Adjutant General of the State of Kentucky</hi>, vol. 1 (Frankfort: John H. Harney, Public Printer, 1866), VII. <hi rend=”italic”>Kentucky, Death Records, 1852-1964</hi>, Ancestry, Hart County, 1876. <hi rend=”italic”>Find A Grave</hi>, &quot;George Twyman Wood (1796-1876),&quot; Memorial #114277492, https://ww28XX, 2017).
 </bibl></ab>
     </back>
 </text>
