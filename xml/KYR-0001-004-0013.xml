@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0013"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,54 +70,49 @@
  </teiHeader>
  <text>
   <body>
-   <p>The undersigned citizens of Marshall County Ky. who are conversant with the facts in regard to the trial evidence &amp; conviction of Ja<hi rend="underline"><hi rend="sup">s</hi></hi> H. Marshall, and the Standing &amp; credibility of the witnesses, State that the evidence on trial consisted of the Statements alone of the prosecutor and of a boy fourteen years old ^&amp; Dr Holland.^ The prosecutor Stated that he lost ^on public road between Briensburg &amp;, Palma^ a carpet Sack containing coffee glass tumblers cottonade &amp; a pair of pants off of a wagon; that he lost Said articles within <hi rend="sup">1</hi>/<hi rend="sub">2</hi> mile of Briensburg; that distance to Palma is 6 miles; that he went on to Briensburg without delay, and discovering that Said articles were missing he immediately Started back on road to Palma on horseback to hunt for Said articles; that Said Marshall &amp; boy 14 years- viz witness Louis A, Page were the only persons that he met going the Palma road except a Soldier who passed on a head of Said Marshall &amp; boy; that Said Marshall was driving an ox team, and that he prosecutor road at a fast gate but ^never^ over took Marshall until he reached Palma, a distance of 5 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> or 6 miles from where he met him: that <hi rend="str">The evidence of Said boy</hi> when he overtook Marshall he prosecutor<pb/>
+   <p>The undersigned citizens of <placeName ref="cwgk:P00000910">Marshall County Ky.</placeName> who are conversant with the facts in regard to the trial evidence &amp; conviction of Ja<hi rend="underline"><hi rend="sup">s</hi></hi> H. Marshall, and the Standing &amp; credibility of the witnesses, State that the evidence on trial consisted of the Statements alone of the prosecutor and of a boy fourteen years old ^&amp; Dr Holland.^ The prosecutor Stated that he lost ^on public road between <placeName ref="cwgk:P00007966">Briensburg</placeName> &amp;, <placeName ref="cwgk:P00007967">Palma</placeName>^ a carpet Sack containing coffee glass tumblers cottonade &amp; a pair of pants off of a wagon; that he lost Said articles within <hi rend="sup">1</hi>/<hi rend="sub">2</hi> mile of Briensburg; that distance to <placeName ref="cwgk:P00007967">Palma</placeName> is 6 miles; that he went on to <placeName ref="cwgk:P00007966">Briensburg</placeName> without delay, and discovering that Said articles were missing he immediately Started back on road to Palma on horseback to hunt for Said articles; that Said Marshall &amp; boy 14 years- viz witness <persName ref="cwgk:N00007931">Louis A. Page</persName> were the only persons that he met going the Palma road except a Soldier who passed on a head of Said Marshall &amp; boy; that Said Marshall was driving an ox team, and that he prosecutor road at a fast gate but ^never^ over took Marshall until he reached <placeName ref="cwgk:P00007967">Palma</placeName>, a distance of 5 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> or 6 miles from where he met him: that <hi rend="str">The evidence of Said boy</hi> when he overtook Marshall he prosecutor<pb/>
 <lb/>asked Marshall if he had not found a carpet ^Sack^ &amp; other articles named; and that Marshall Said no; that prosecutor then drew &amp; cocked a pistol on Marshall &amp; told ^him^ he intended to search wagon &amp; would have Said articles; and that Marshall Said he had found Some tumblers &amp; cottonade but no coffee ^pantaloons^ or carpet Sack.</p>
 <p>The boys evidence was that he was with Marshall driving the oxen &amp; that he first discovered Some goods in road, cottonade &amp; tumblers; that he called to Marshall &amp; pointed him to Same; that there was no carpet Sack coffee or other article except what was given up to prosecutor; that a man ^on horse back^ in Soldiers uniform passed on Same road before him &amp; Marshall about the time or a little before meeting prosecutor; that prosecutor did ask Marshall at Palma if he had found a Carpet Sack; and that Marshall Said he had not found a carpet Sack but that he had found Some goods in the road, in a bundle, and asked if they were prosecutors, &amp; prosecutor Said they were. Marshall delivered the cottonade &amp; tumblers to prosecutor, who<pb/>
 <lb/>Said there was Some coffee &amp; a carpet Sack &amp;c lost also by him; that Marshall &amp; witness, boy went on to Paducah with <hi rend="str">a</hi> the load of marketing they had at the time of finding Said articles; that prosecutor never drew, cocked or Showed a pistol as Stated by prosecutor; and that at feed time at Paducah, Marshall in getting out feed for his oxen found one glass tumbler &amp; a piece of cotton goods that had got Separated from the bundle found, &amp; had worked down under the feed &amp; was not noticed or known at time of delivering the other articles to prosecutor; Marshall as Soon as he discovered S<hi rend="str">o</hi>ame, Said there was Some more of the goods of prosecutor &amp; that he did not know it before, &amp; would deliver on his return home; that when they returned home Marshall Said to his wife that Said articles belonged to prosecutor, &amp; directed her to deliver ^or Send^ them to prosecutor if She Saw a chance; that prosecutor went to Marshalls, and Marshalls wife he being absent, Said <hi rend="str">to prosicutor</hi> before being interrogated that there was Some things there belonging to him &amp; which Mr. Marshall did not See at time the other goods were<pb/>
 <lb/>delivered to prosecutor, and that Mr Marshall had directed her to give or Send them to prosecutor first opportunity. Dr. Holland stated that he went with prosecutor to Marshalls &amp; that Mrs Marshall <hi rend="str">informed</hi> made the Statements as above Set forth and that the boy told the Same tale or in other words made the Same Statement then as on the trial &amp; with as little difference or variation as any man ever did We believing Marshall ^to be^ innocent &amp; that he was convicted because of the Statements of a greatly prejudiced witness would ask &amp; pray your Excellency to immediately pardon him, as in justice you Should do.</p>
-<p><milestone unit="column" n="3"/><cb n="1"/>J, F, West
-<lb/>W. W. Malcone
-<lb/>Moses E Stone
-<lb/>W J Clark
-<lb/>R F Gregry
-<lb/>Samuel Cox
-<lb/>James Baker
-<lb/>J M Cox
-<lb/>A.. T.. Sims
-<lb/>H Washburn
-<lb/>E. Tatum
-<lb/>P. Fulcher
+<p><milestone unit="column" n="3"/><cb n="1"/><persName ref="cwgk:N00007934">J. F. West</persName><lb/><persName ref="cwgk:N00007935">W. W. Malcone</persName><lb/><persName ref="cwgk:N00007936">Moses E Stone
+</persName><lb/><persName ref="cwgk:N00007938">W J Clark
+</persName><lb/>R F Gregry
+<lb/><persName ref="cwgk:N00007939">Samuel Cox
+</persName><lb/><persName ref="cwgk:N00007940">James Baker
+</persName><lb/><persName ref="cwgk:N00005046">J M Cox
+</persName><lb/>A.. T.. Sims
+<lb/><persName ref="cwgk:N00007942">H Washburn</persName><lb/><persName ref="cwgk:N00007943">E. Tatum
+</persName><lb/>P. Fulcher
 <lb/>Wm. Hamilton
-<lb/><cb n="2"/>A S Brown
-<lb/>L, H, Sasseen
-<lb/>Ja<hi rend="sup">s</hi> Dason
+<lb/><cb n="2"/><persName ref="cwgk:N00007945">A S Brown
+</persName><lb/><persName ref="cwgk:N00007946">L. H. Sasseen</persName><lb/>Ja<hi rend="sup">s</hi> Dason
 <lb/>J, W, Brown
-<lb/>L, C, Hamilton
-<lb/><unclear>Danl Cros</unclear>
+<lb/><persName ref="cwgk:N00007949">L. C. Hamilton
+</persName><lb/><unclear>Danl Cros</unclear>
 <lb/>W W Hester
-<lb/>W, C. Fields
-<lb/>B F Hamilton
-<lb/>G Fields
-<lb/>W. H. Robinson
+<lb/><persName ref="cwgk:N00007952">W. C. Fields
+</persName><lb/><persName ref="cwgk:N00007953">B F Hamilton
+</persName><lb/><persName ref="cwgk:N00007954">G Fields
+</persName><lb/>W. H. Robinson
 <lb/>James J Lindsey Jr
-<lb/>L. M. Fields
-<lb/>Jno T Stone
-<lb/>W H Johnson
-<lb/><cb n="3"/>J. C. Gilbert
-<lb/>B. Holland
-<lb/>Caleb Lindsey
+<lb/><persName ref="cwgk:N00007957">L. M. Fields
+</persName><lb/><persName ref="cwgk:N00006492">Jno T Stone
+</persName><lb/><persName ref="cwgk:N00007958">W H Johnson
+</persName><lb/><cb n="3"/><persName ref="cwgk:N00005121">J. C. Gilbert
+</persName><lb/><persName ref="cwgk:N00005032">B. Holland
+</persName><lb/>Caleb Lindsey
 <lb/>W. J. Culp
-<lb/>James quarles
-<lb/>J, F, Mccoy
+<lb/><persName ref="cwgk:N00007960">James quarles
+</persName><lb/>J, F, Mccoy
 <lb/>James. Lindsey segn
 <lb/>A <hi rend="str"><unclear/></hi> K Lindsey
-<lb/>M Lindsey
-<lb/>Thomas Fields
-<lb/>A B Lindsey
+<lb/><persName ref="cwgk:N00005042">M Lindsey</persName><lb/><persName ref="cwgk:N00005106">Thomas Fields
+</persName><lb/>A B Lindsey
 <lb/>W<hi rend="sup">m</hi> Washburn
-<lb/>J Downing
-<lb/>B Downing
-<lb/>W. Strow<milestone unit="column" n="1"/><pb/>
+<lb/><persName ref="cwgk:N00005107">J Downing
+</persName><lb/><persName ref="cwgk:N00007964">B Downing
+</persName><lb/>W. Strow<milestone unit="column" n="1"/><pb/>
 <lb/>Henry Hanson
 <lb/>L. R. Finley
 <lb/>John Baker
@@ -125,8 +128,8 @@
 <lb/>H H Downing<pb/></p>
 <p>Statement of evidence and Pett for pardon of Jas H Marshall of <gap/> County</p>
 <p>Re<hi rend="sup">cd</hi> <date when="1863-09-01">Sept 1<hi rend="sup">st</hi> 1863</date>
-<lb/>Marshall C't C't
-<lb/>vs
+<lb/><orgName ref="cwgk:O00000428">Marshall C't C't
+</orgName><lb/>vs
 <lb/>J. H. Marshall</p>
   </body>
  </text>
