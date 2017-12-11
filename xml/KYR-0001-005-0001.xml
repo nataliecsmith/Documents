@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0001"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,12 +72,11 @@
  <text>
   <body>
    <p>Office Chief of Police,
-<lb/>Louisville, Ky., <date when="1863-09-05">Sept 5<hi rend="sup">th</hi> 1863</date>.
-<lb/>Friend Prewett Esq
-<lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>Enclosed you will find warrant &amp; affidavit in case of Comwlth vs Christian Hafner f<hi rend="str">r</hi>or which you will please obtain for me an Requisition on the state of Indiana, appointing Delos T. Bligh Agent, By so doing you will Much Oblige</p>
+<lb/><placeName ref="cwgk:P00000337">Louisville, Ky</placeName>., <date when="1863-09-05">Sept 5<hi rend="sup">th</hi> 1863</date>.
+<lb/><persName ref="cwgk:N00005179">Friend Prewett </persName>Esq<lb/>D<hi rend="sup">r</hi> Sir</p>
+<p>Enclosed you will find warrant &amp; affidavit in case of <orgName ref="cwgk:O001025">Comwlth </orgName>vs <persName ref="cwgk:N00006286">Christian Hafner</persName> f<hi rend="str">r</hi>or which you will please obtain for me an Requisition on the state of <placeName ref="cwgk:P001818">Indiana</placeName>, appointing <persName ref="cwgk:N00005178">Delos T. Bligh</persName> Agent, By so doing you will Much Oblige</p>
 <p>Your friend
-<lb/><hi rend="underline">J. T B. Ehrich</hi></p>
+<lb/>J. <persName ref="cwgk:N00005177">[J. T] B. Ehrich</persName></p>
   </body>
  </text>
 </TEI>
