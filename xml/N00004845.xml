@@ -50,8 +50,8 @@
                       George Parker
                         (Union County sheriff)
                     </persName>
-                      <birth when="1807"></birth>
-                      <death when="1871-03"></death>
+                        <event type="birth"  when="1807"  ><ab>1807</ab></event>
+                        <event type="death"  when="1871-03"  ><ab>1871-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>History of Union County, Kentucky</em>, (Evansville, IN: Courier Co., Printers, Binders and Engravers, 1886), 84-88, 193. </p>
+        <ab><bibl><hi rend=”italic”>History of Union County, Kentucky</hi>, (Evansville, IN: Courier Co., Printers, Binders and Engravers, 1886), 84-88, 193. 
 </bibl></ab>
     </back>
 </text>
