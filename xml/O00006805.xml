@@ -43,8 +43,8 @@
             <particDesc>
                 <org xml:id="O00006805">
                     <orgName>First National Bank of Lexington</orgName>
-                      <event type="begun" when="1865-01-26">1865-01-26</event>
-                      <event type="ended" when="c1913">c1913</event>
+                        <event type="begun"  when="1865-01-26"  ><ab>1865-01-26</ab></event>
+                        <event type="ended"  when="1913"  certainty="medium" ><ab>c1913</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +55,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>William M. Ambrose, First Security National Bank &amp; Trust Company, (Lexington: Limestone Press, 2007); Lexington History Museum, &quot;First National Bank of Lexington,&quot; (http://lexhistory.org/wikilex/first-national-bank-1865-1913) (accessed June 1, 2017).</p>
+        <ab><bibl>William M. Ambrose, First Security National Bank &amp; Trust Company, (Lexington: Limestone Press, 2007); Lexington History Museum, &quot;First National Bank of Lexington,&quot; (http://lexhistory.org/wikilex/first-national-bank-1865-1913) (accessed June 1, 2017).
 </bibl></ab>
     </back>
 </text>
