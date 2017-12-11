@@ -46,8 +46,7 @@
                       William Corum
                         ()
                     </persName>
-                      <birth when="c1811"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1811"  certainty="medium" ><ab>c1811</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Greenup, , p. 1; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Greenup, District 2, p. 157</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup, , p. 1; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup, District 2, p. 157
 </bibl></ab>
     </back>
 </text>
