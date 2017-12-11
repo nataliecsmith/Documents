@@ -44,7 +44,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00001194">
                     <placeName>
                         <location>
@@ -53,7 +53,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -62,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Ron D. Bryant, &quot;Boone County&quot; in <em>The Kentucky Encyclopedia</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 99-100.</p>
+        <ab><bibl>Ron D. Bryant, &quot;Boone County&quot; in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 99-100.
 </bibl></ab>
     </back>
 </text>
