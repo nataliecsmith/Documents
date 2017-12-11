@@ -46,8 +46,7 @@
                       Horace Hawes
                         (Fleming County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1798"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1798"  certainty="medium" ><ab>c1798</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Fleming County, District 1, p. 339. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Fleming County, Poplar Plains, p. 9. <em>Fleming County, Kentucky, Marriage Index, 1798-1857</em>, Ancestry, Kentucky, Fleming County, 1827.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, District 1, p. 339. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fleming County, Poplar Plains, p. 9. <hi rend=”italic”>Fleming County, Kentucky, Marriage Index, 1798-1857</hi>, Ancestry, Kentucky, Fleming County, 1827.
 </bibl></ab>
     </back>
 </text>
