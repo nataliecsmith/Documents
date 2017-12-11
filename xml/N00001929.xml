@@ -46,8 +46,8 @@
                       Isham Green Harris
                         (Gov of Tennessee)
                     </persName>
-                      <birth when="1818-02-10"></birth>
-                      <death when="1897-07-08"></death>
+                        <event type="birth"  when="1818-02-10"  ><ab>1818-02-10</ab></event>
+                        <event type="death"  when="1897-07-08"  ><ab>1897-07-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Leonard Schulp, &quot;Isham Green Harris&quot; in <em>The Tennessee Encyclopedia of History and Culture</em>, version 2.0, http://tennesseeencyclopedia.net/entry.php?rec=608, (accessed September 18, 2017); Sam Davis Elliott, <em>Isham G. Harris of Tennessee: Confederate Governor and United States Senator</em> (Baton Rouge: Louisiana State University Press, 2010); <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Tennessee, Shelby County, 14th District, p. 143; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Tennessee, Shelby County, 14th District, p. 21.</p>
+        <ab><bibl>Leonard Schulp, &quot;Isham Green Harris&quot; in <hi rend=”italic”>The Tennessee Encyclopedia of History and Culture</hi>, version 2.0, http://tennesseeencyclopedia.net/entry.php?rec=608, (accessed September 18, 2017); Sam Davis Elliott, <hi rend=”italic”>Isham G. Harris of Tennessee: Confederate Governor and United States Senator</hi> (Baton Rouge: Louisiana State University Press, 2010); <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Shelby County, 14th District, p. 143; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Tennessee, Shelby County, 14th District, p. 21.
 </bibl></ab>
     </back>
 </text>
