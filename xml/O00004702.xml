@@ -51,8 +51,7 @@
             <particDesc>
                 <org xml:id="O00004702">
                     <orgName>Office of the Auditor of Public Accounts of Kentucky</orgName>
-                      <event type="begun" when="1792">1792</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1792"  ><ab>1792</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -63,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>James Strohmaier, &quot;&quot;Auditor of Public Acccounts, Office Of,&quot; in <em>The Kentucky Encyclopedia</em>, John E. Kleber, ed., (Lexington: The University Press of Kentucky, 1992), 40.</p>
+        <ab><bibl>James Strohmaier, &quot;&quot;Auditor of Public Acccounts, Office Of,&quot; in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, John E. Kleber, ed., (Lexington: The University Press of Kentucky, 1992), 40.
 </bibl></ab>
     </back>
 </text>
