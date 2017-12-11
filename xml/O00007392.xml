@@ -47,8 +47,7 @@
             <particDesc>
                 <org xml:id="O00007392">
                     <orgName>Adath Israel</orgName>
-                      <event type="begun" when="1842">1842</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1842"  ><ab>1842</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -59,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>“Kentucky,” in <em>The Jewish Encyclopedia: A Descriptive Record of the History, Religion, Literature, and Customs of the Jewish People from the Earliest Times to the Present Day _, ed. Isidore Singer, vol. 7 (New York: Funk and Wagnalls Co, 1906), p. 467; Lee Shai Weissbach, &quot;Kentucky Jewry During the Civil War,&quot; in _The Register of the Kentucky Historical Society</em>, vol. 110, No. 2 (Spring 2012), pp. 165-84.</p>
+        <ab><bibl>“Kentucky,” in <hi rend=”italic”>The Jewish Encyclopedia: A Descriptive Record of the History, Religion, Literature, and Customs of the Jewish People from the Earliest Times to the Present Day _, ed. Isidore Singer, vol. 7 (New York: Funk and Wagnalls Co, 1906), p. 467; Lee Shai Weissbach, &quot;Kentucky Jewry During the Civil War,&quot; in _The Register of the Kentucky Historical Society</hi>, vol. 110, No. 2 (Spring 2012), pp. 165-84.
 </bibl></ab>
     </back>
 </text>
