@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0524"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  <text>
   <body>
    <p>To His excellency,
-<lb/>Governor Robinson:</p>
-<p>Your Petitioner, Charley Miller, would most humbly represent, that he left his home in Germany, over 4 years ago, when quite a young man, and came to the United States, and finally located in Kentucky.</p>
-<p>He states that about 3 years ago he was in Edmundson County, Ky. looking for work, by means of which to earn a support -- he had never been in that county before -- when he was arrested by an officer, he supposes by the Sheriff of the county, upon a charge of horse-stealing -- tried, convicted, and sentenced to 4 years confinement in the Penitentiary, from the <date when="1860-09-24">24th of September, 1860</date>.</p>
+<lb/><persName ref="cwgk:N001004">Governor Robinson</persName>:</p>
+<p>Your Petitioner, <persName ref="cwgk:N00000461">Charley Miller</persName>, would most humbly represent, that he left his home in <placeName ref="cwgk:P001022">Germany</placeName>, over 4 years ago, when quite a young man, and came to the United States, and finally located in <placeName ref="cwgk:P001800">Kentucky</placeName>.</p>
+<p>He states that about 3 years ago he was in <placeName ref="cwgk:P00000441">Edmundson County</placeName>, Ky. looking for work, by means of which to earn a support -- he had never been in that county before -- when he was arrested by an officer, he supposes by the Sheriff of the county, upon a charge of horse-stealing -- tried, convicted, and sentenced to 4 years confinement in <orgName ref="cwgk:O00000266">the Penitentiary</orgName>, from the <date when="1860-09-24">24th of September, 1860</date>.</p>
 <p>He solemnly protests before his God and your excellency that he was entirely innocent of the charge upon which he was convicted. He never would have been convicted, if he had understood the English language, <unclear>of</unclear> if there had been any German families in that County, by whom his defense could have been made known.</p>
-<p>From all he can learn about the st<unclear>ea</unclear>ling of the horse, he understands that a man by the name of William Neman had lost a horse some time before your Petitioner went into that county<pb/>
+<p>From all he can learn about the st<unclear>ea</unclear>ling of the horse, he understands that a man by the name of <persName ref="cwgk:N00000464">William Neman</persName> had lost a horse some time before your Petitioner went into that county<pb/>
 <lb/>to hunt work. And upon seeing your Petitioner, a stranger in the county, the loser of the horse supposed that your Petitoner was the man who had stolen him, and at once set on foot the prosecution which has terminate<hi rend="str">d</hi> so fatally to him.</p>
 <p>He further says that it was proven upon the trial that your Petitioner <hi rend="underline">looked</hi> <hi rend="underline">like</hi> the man who had stolen the horse, and for <hi rend="underline">this resemblance</hi>, and this alone has he been incarcerated for the last 3 years in the Penitentiary.</p>
 <p>He states that there was no proof that he stole the horse -- no horse was ever in his possession, and there was not the slightest evidence connecting him in any way with the crime, excepting his supposed resemblance to the criminal.</p>
@@ -77,9 +85,9 @@
 <lb/>Charley Miller,
 <lb/>By his atty.<pb/></p>
 <p>I do certify, that Chas Miller behaved himself well whilst I was Clerk of Ky Penitentiary and I do recomnd his Pardon I was Clerk for four years</p>
-<p><hi rend="underline">Jas S Sneed</hi></p>
+<p><persName ref="cwgk:N00000463">Jas S Sneed</persName></p>
 <p>Miller has been a good prisoner since I have had charge of the Prison</p>
-<p>H I Todd</p>
+<p><persName ref="cwgk:N00000230">H I Todd</persName></p>
 <p>I have known Miller ever since he was put in the Penitentiary. He has behave exceedingly well, and I recommend his pardon</p>
 <p>R. W. Lawler<pb/></p>
 <p>Edmonson Cir. Ct</p>
