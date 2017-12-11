@@ -42,8 +42,6 @@
                       James J. Sartin
                         (marion co?)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -55,7 +53,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-020-1400.</p>
+        <ab><bibl>KYR-0001-020-1400.
 </bibl></ab>
     </back>
 </text>
