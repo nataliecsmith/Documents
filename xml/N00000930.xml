@@ -46,8 +46,7 @@
                       James G. Carter
                         (Campbell County, Kentucky, stone mason and attorney)
                     </persName>
-                      <birth when="c1821"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1821"  certainty="medium" ><ab>c1821</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Campbell County, District 2, p. 105; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Campbell County, p. 147; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Rockcastle County, Voting District 6, p. 94; KYR-0001-029-0507; KYR-0001-029-0544.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Campbell County, District 2, p. 105; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Campbell County, p. 147; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Rockcastle County, Voting District 6, p. 94; KYR-0001-029-0507; KYR-0001-029-0544.
 </bibl></ab>
     </back>
 </text>
