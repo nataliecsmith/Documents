@@ -39,8 +39,7 @@
             <particDesc>
                 <org xml:id="O001019">
                     <orgName>Senate of the Commonwealth of Kentucky</orgName>
-                      <event type="begun" when="1792">1792</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1792"  ><ab>1792</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -51,7 +50,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Robert M. Ireland, <em>The Kentucky State Constitution: A Reference Guide</em> (Westport, Conn.: Greenwood Press, 1999); Kentucky Constitution. Accessed February 17, 2017. (http://www.lrc.state.ky.us/legresou/constitu/intro.htm).</p>
+        <ab><bibl>Robert M. Ireland, <hi rend=”italic”>The Kentucky State Constitution: A Reference Guide</hi> (Westport, Conn.: Greenwood Press, 1999); Kentucky Constitution. Accessed February 17, 2017. (http://www.lrc.state.ky.us/legresou/constitu/intro.htm).
 </bibl></ab>
     </back>
 </text>
