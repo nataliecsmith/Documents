@@ -46,8 +46,8 @@
                       James H. Owsley
                         (Larue County, Kentucky, store clerk)
                     </persName>
-                      <birth when="1835-05-06"></birth>
-                      <death when="1912-12-21"></death>
+                        <event type="birth"  when="1835-05-06"  ><ab>1835-05-06</ab></event>
+                        <event type="death"  when="1912-12-21"  ><ab>1912-12-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Larue County, Hamiltons, p. 403. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Larue County, p. 145. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hardin County, Sonora, p. 7. <em>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</em>, Hardin County, 1912,  no. 30502, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Larue County, Hamiltons, p. 403. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Larue County, p. 145. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hardin County, Sonora, p. 7. <hi rend=”italic”>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, Hardin County, 1912,  no. 30502, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
 </bibl></ab>
     </back>
 </text>
