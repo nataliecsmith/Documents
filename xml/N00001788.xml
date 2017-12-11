@@ -46,8 +46,7 @@
                       Jeff Burnett
                         (hancock county farmer)
                     </persName>
-                      <birth when="1831-08"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1831-08"  ><ab>1831-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 59; <em>Twelfth Manuscript Census of the United States</em> (1900), Population Schedules, Kentucky, Hancock County, Magisterial District No. 1, p. 6.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 59; <hi rend=”italic”>Twelfth Manuscript Census of the United States</hi> (1900), Population Schedules, Kentucky, Hancock County, Magisterial District No. 1, p. 6.
 </bibl></ab>
     </back>
 </text>
