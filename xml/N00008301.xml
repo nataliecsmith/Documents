@@ -46,8 +46,8 @@
                       William A. Moody 
                         (Fairview KY)
                     </persName>
-                      <birth when="1810-09-24"></birth>
-                      <death when="1860-08"></death>
+                        <event type="birth"  when="1810-09-24"  ><ab>1810-09-24</ab></event>
+                        <event type="death"  when="1860-08"  ><ab>1860-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Christian County, District No. 2, p. 53; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Christian County, District No. 2, p. 36; W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em>, 1st ed., pt. 2 (Louisville and Chicago: F. A. Battey and Company, 1888), 203-.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Christian County, District No. 2, p. 53; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Christian County, District No. 2, p. 36; W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi>, 1st ed., pt. 2 (Louisville and Chicago: F. A. Battey and Company, 1888), 203-.
 </bibl></ab>
     </back>
 </text>
