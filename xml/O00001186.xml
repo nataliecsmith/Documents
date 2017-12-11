@@ -43,8 +43,7 @@
             <particDesc>
                 <org xml:id="O00001186">
                     <orgName>United States Army</orgName>
-                      <event type="begun" when="1775">1775</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1775"  ><ab>1775</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Stewart, Richard W. ed. <em>American Military History</em>. Washington, D.C.: Center of Military History, United States Army, 2009.</p>
+        <ab><bibl>Stewart, Richard W. ed. <hi rend=”italic”>American Military History</hi>. Washington, D.C.: Center of Military History, United States Army, 2009.
 </bibl></ab>
     </back>
 </text>
