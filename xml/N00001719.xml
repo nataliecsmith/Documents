@@ -50,8 +50,8 @@
                       William Brown Read
                         (Lawyer and State Senator)
                     </persName>
-                      <birth when="1817-12-14"></birth>
-                      <death when="1880-08-05"></death>
+                        <event type="birth"  when="1817-12-14"  ><ab>1817-12-14</ab></event>
+                        <event type="death"  when="1880-08-05"  ><ab>1880-08-05</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Biographical Directory of the United States Congress</em>, “William Brown Read,” http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000094. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, LaRue County, Hodgenville, p. 150.</p>
+        <ab><bibl><hi rend=”italic”>Biographical Directory of the United States Congress</hi>, “William Brown Read,” http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000094. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, LaRue County, Hodgenville, p. 150.
 </bibl></ab>
     </back>
 </text>
