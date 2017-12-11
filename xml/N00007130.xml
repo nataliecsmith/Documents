@@ -46,8 +46,8 @@
                       Robert Daniel Howe
                         (Fleming County, Kentucky, laborer)
                     </persName>
-                      <birth when="1840-10-07"></birth>
-                      <death when="1922-08-21"></death>
+                        <event type="birth"  when="1840-10-07"  ><ab>1840-10-07</ab></event>
+                        <event type="death"  when="1922-08-21"  ><ab>1922-08-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Fleming County, District No. 1, p. 273. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Fleming County, District No. 1, p. 273. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Fleming County, District No. 2, p. 128. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Fleming County, District No. 2, p. 12. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Fleming County, Poplar Plains, p. 8. <em>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</em>, Fleming County, 1922,  file no. 17678, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, District No. 1, p. 273. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Fleming County, District No. 1, p. 273. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District No. 2, p. 128. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Fleming County, District No. 2, p. 12. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fleming County, Poplar Plains, p. 8. <hi rend=”italic”>Vital Statistics Original Death Certificates – Microfilm (1911-1964)</hi>, Fleming County, 1922,  file no. 17678, Microfilm rolls #7016130-7041803, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
 </bibl></ab>
     </back>
 </text>
