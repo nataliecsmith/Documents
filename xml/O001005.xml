@@ -43,8 +43,8 @@
             <particDesc>
                 <org xml:id="O001005">
                     <orgName>Southern Bank of Kentucky</orgName>
-                      <event type="begun" when="1850">1850</event>
-                      <event type="ended" when="1866">1866</event>
+                        <event type="begun"  when="1850"  ><ab>1850</ab></event>
+                        <event type="ended"  when="1866"  ><ab>1866</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +55,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Adelaide Rossalia Hasse, <em>Index of Economic Material in Documents of the State of the United States: Kentucky, 1792 – 1904</em> (Baltimore, The Lord Baltimore Press, 1910), 100; <em>Journal of the House of Representatives of the Commonwealth of Kentucky</em> (Frankfort: State Printing Office, 1865), 357; E. Polk Johnson, 948.</p>
+        <ab><bibl>Adelaide Rossalia Hasse, <hi rend=”italic”>Index of Economic Material in Documents of the State of the United States: Kentucky, 1792 – 1904</hi> (Baltimore, The Lord Baltimore Press, 1910), 100; <hi rend=”italic”>Journal of the House of Representatives of the Commonwealth of Kentucky</hi> (Frankfort: State Printing Office, 1865), 357; E. Polk Johnson, 948.
 </bibl></ab>
     </back>
 </text>
