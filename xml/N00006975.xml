@@ -46,8 +46,7 @@
                       Green V. Hall
                         (Powell County, Kentucky, carpenter and soldier)
                     </persName>
-                      <birth when="c1825"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1825"  certainty="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Powell County, Stanton, p. 53. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Powell County, Stanton, Sub. No. 144,  p. 23. <em>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</em>, NARA RG 94, Microfilm Series M397, Roll 0367. <em>Record of Appointment of Postmasters, 1832-1971</em>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28, Powell County, Kentucky, p. 108, (accessed via Ancestry.com). KYR-0001-029-0570.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Powell County, Stanton, p. 53. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Powell County, Stanton, Sub. No. 144,  p. 23. <hi rend=”italic”>Compiled Service Records of Volunteer Union Soldiers who Served in Organizations From State of Kentucky</hi>, NARA RG 94, Microfilm Series M397, Roll 0367. <hi rend=”italic”>Record of Appointment of Postmasters, 1832-1971</hi>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28, Powell County, Kentucky, p. 108, (accessed via Ancestry.com). KYR-0001-029-0570.
 </bibl></ab>
     </back>
 </text>
