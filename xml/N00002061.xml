@@ -46,8 +46,7 @@
                       Egbert A. Raworth
                         (Nashville, TN)
                     </persName>
-                      <birth when="1810"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1810"  ><ab>1810</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Tennessee, Davidson County, Nashville, p. 158 B; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Tennessee, Davidson County, Nashville;  <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Tennessee, Davidson County, 13th District, p. 154; KYR-0001-017-0046.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Tennessee, Davidson County, Nashville, p. 158 B; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Tennessee, Davidson County, Nashville;  <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Davidson County, 13th District, p. 154; KYR-0001-017-0046.
 </bibl></ab>
     </back>
 </text>
