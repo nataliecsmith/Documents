@@ -50,8 +50,7 @@
                       Joseph B. Northcutt
                         (Fleming County, Kentucky, farmer and justice of the peace)
                     </persName>
-                      <birth when="c1825"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1825"  certainty="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Fleming County, 2nd Division, p. 401A; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Fleming County, District 2, p. 42-43; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedule, Kentucky, Fleming County, District 2, p. 8; KYR-0001-007-0354.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, 2nd Division, p. 401A; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Fleming County, District 2, p. 42-43; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedule, Kentucky, Fleming County, District 2, p. 8; KYR-0001-007-0354.
 </bibl></ab>
     </back>
 </text>
