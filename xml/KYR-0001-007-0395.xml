@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0395"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -67,14 +75,13 @@
 <lb/>NETTLETON, <hi rend="str">GILBERT &amp; CAMP,</hi>
 <lb/>Attorney<hi rend="str">s</hi> and Counsellor<hi rend="str">s</hi> at Law,
 <lb/>No. 111 BROADWAY.</p>
-<p>CHARLES NETTLETON,
-<lb/>Notary and Commissioner for all the States,
-<lb/><hi rend="str">EDWARD GILBERT,</hi>
-<lb/><hi rend="str">HENRY CAMP,</hi></p>
-<p>New York, <date when="1865-03-11">March 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
-<lb/>Hon Thomas E Bramlette
-<lb/>Gov. of Ky. Frankfort Ky.</p>
-<p>Sir- My appointment as Commissioner for your State to reside in this City, will expire early next month.</p>
+<p><persName ref="cwgk:N00006729">CHARLES NETTLETON,
+</persName><lb/>Notary and Commissioner for all the States,
+<lb/>
+<persName ref="cwgk:N00006731">EDWARD GILBERT</persName>,<lb/><persName ref="cwgk:N00006735">HENRY CAMP</persName>,</p>
+<p><placeName ref="cwgk:P001007">New York</placeName>, <date when="1865-03-11">March 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1865</date>
+<lb/>Hon <persName ref="cwgk:N001000">Thomas E Bramlette</persName><lb/>Gov. of Ky. Frankfort Ky.</p>
+<p>Sir- My appointment as Commissioner for your State to reside in <placeName ref="cwgk:P00002569">this City</placeName>, will expire early next month.</p>
 <p>I would respectfully ask you for a renewal of the appointment -- </p>
 <p>I am with much Respect
 <lb/>Truly Yours
