@@ -50,8 +50,8 @@
                       H. C. Martin
                         (Munfordville, Kentucky)
                     </persName>
-                      <birth when="1834"></birth>
-                      <death when="1919-01-06"></death>
+                        <event type="birth"  when="1834"  ><ab>1834</ab></event>
+                        <event type="death"  when="1919-01-06"  ><ab>1919-01-06</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>“Capt. H. C. Martin, Lawyer and G.A.R. Veteran, Is Dead,” <em>Courier-Journal</em> (Louisville, Ky.), January 7, 1919, p. 3.</p>
+        <ab><bibl>“Capt. H. C. Martin, Lawyer and G.A.R. Veteran, Is Dead,” <hi rend=”italic”>Courier-Journal</hi> (Louisville, Ky.), January 7, 1919, p. 3.
 </bibl></ab>
     </back>
 </text>
