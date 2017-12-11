@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0390"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Maryland
-<lb/>County &amp; City of Baltimore &#125; SS</p>
-<p>I Willilam P, Eaton of the city of Baltimore, having been appointed by the Governor of the State of Kentucky, a commissioner in and for said city to take the acknowledgement and proof of the execution of deeds and other instruments <hi rend="str">of</hi> in writing under seal, to be used or recorded in said State of Kentucky, and to administer oaths or affirmations, do solemnly swear that I will well and faithfully execute and perform the duties of such commissioner, under and by virtue of the laws of the said state of Kentucky.</p>
+   <p><placeName ref="cwgk:P00001160">State of Maryland
+</placeName><lb/><placeName ref="cwgk:P00003303">County &amp; City of Baltimore</placeName> } SS</p>
+<p>I <persName ref="cwgk:N00005646">Willilam P. Eaton</persName> of the city of Baltimore, having been appointed by the <persName ref="cwgk:N001000">Governor of the State of Kentucky</persName>, a commissioner in and for said city to take the acknowledgement and proof of the execution of deeds and other instruments <hi rend="str">of</hi> in writing under seal, to be used or recorded in said <placeName ref="cwgk:P001800">State of Kentucky</placeName>, and to administer oaths or affirmations, do solemnly swear that I will well and faithfully execute and perform the duties of such commissioner, under and by virtue of the laws of the said state of Kentucky.</p>
 <p><hi rend="underline">William P. Eaton</hi>
 <lb/>A commissioner of the state of Kentucky</p>
 <p><figure type="seal"><ab>WILLIAM P. EATON
 <lb/>A COMMISSIONER FOR THE STATE OF Kentucky
 <lb/>BALTIMORE, MD.</ab></figure></p>
 <p>State of Maryland
-<lb/>City &amp; County of Baltimore &#125; SS</p>
+<lb/>City &amp; County of Baltimore } SS</p>
 <p>Sworn to and subscribed before me this <date when="1865-03-04">4th day of March in the year of our Lord one thousand eight hundred and sixty five</date></p>
-<p>Allen E. Forrester
-<lb/>Justice of the Peace</p>
+<p><persName ref="cwgk:N00005645">Allen E. Forrester
+</persName><lb/>Justice of the Peace</p>
 <p><stamp type="revenue"/><note place="stamp"><date when="1865-03-04">3.4.1865</date>
 <lb/>A. E. F.</note><pb/></p>
 <p>Maryland
