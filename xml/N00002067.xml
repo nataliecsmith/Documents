@@ -50,8 +50,8 @@
                       William H. Lusby
                         (Lexington, Kentucky, marshal and Fayette County Jailer)
                     </persName>
-                      <birth when="1817-10-29"></birth>
-                      <death when="1886-11-06"></death>
+                        <event type="birth"  when="1817-10-29"  ><ab>1817-10-29</ab></event>
+                        <event type="death"  when="1886-11-06"  ><ab>1886-11-06</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-029-0546. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Fayette County, District 1, p. 131. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 377. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 51. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Fayette County, Lexington, Ward 3, p. 10. “William Henry Lusby,” <em>Find A Grave</em>, &quot;William Henry Lusby (1817 - 1886),&quot; Memorial #21632606, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=21632606 (accessed May 19, 2017).</p>
+        <ab><bibl>KYR-0001-029-0546. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fayette County, District 1, p. 131. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 377. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Fayette County, Lexington, Ward 1, p. 51. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette County, Lexington, Ward 3, p. 10. “William Henry Lusby,” <hi rend=”italic”>Find A Grave</hi>, &quot;William Henry Lusby (1817 - 1886),&quot; Memorial #21632606, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=21632606 (accessed May 19, 2017).
 </bibl></ab>
     </back>
 </text>
