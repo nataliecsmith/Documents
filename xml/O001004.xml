@@ -43,8 +43,7 @@
             <particDesc>
                 <org xml:id="O001004">
                     <orgName>Fifth Street Baptist Church</orgName>
-                      <event type="begun" when="1839">1839</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1839"  ><ab>1839</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Fifth Street Baptist Church&quot; in The Encyclopedia of Louisville,  John E. Kleber, ed.(Lexington: University Press of Kentucky, 2001), 287-88.</p>
+        <ab><bibl>&quot;Fifth Street Baptist Church&quot; in The Encyclopedia of Louisville,  John E. Kleber, ed.(Lexington: University Press of Kentucky, 2001), 287-88.
 </bibl></ab>
     </back>
 </text>
