@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0033"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>BANKING HOUSE OF JOSEPH A. PINER,
-<lb/>Newport, Ky., <date when="1860-12-17">Dec 17 1860</date>
+   <p><orgName ref="cwgk:O00001877">BANKING HOUSE OF JOSEPH A. PINER</orgName>,<lb/><placeName ref="cwgk:P00000862">Newport, Ky.</placeName>, <date when="1860-12-17">Dec 17 1860</date>
 <lb/><gap/> Esq., Cash.
 <lb/>Dear Sir:
-<lb/>To his Excellency B Magoffin
-<lb/>Govenor of the Commonwealth of Kentucky
-<lb/>Dear sir</p>
-<p>You will Confer a great favor on me by appointing William A, Piner Notar<hi rend="str">a</hi>y Public, for Campbell County; he is my clerk; and as I have to protest a great deal of papers: <hi rend="underline">these hard times</hi>; it would be a great advantage to have a Notara in my office</p>
+<lb/>To his Excellency <persName ref="cwgk:N00000258">B Magoffin
+</persName><lb/>Govenor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky
+</orgName><lb/>Dear sir</p>
+<p>You will Confer a great favor on me by appointing <persName ref="cwgk:N00001879">William A. Piner</persName> Notar<hi rend="str">a</hi>y Public, for <placeName ref="cwgk:P00001874">Campbell County</placeName>; he is my clerk; and as I have to protest a great deal of papers: <hi rend="underline">these hard times</hi>; it would be a great advantage to have a Notara in my office</p>
 <p>by so doing you will
 <lb/>much oblige
 <lb/>J A Piner<pb/></p>
