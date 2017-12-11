@@ -50,7 +50,7 @@
                       Thomas J. Elliott
                         (Jefferson County, Kentucky)
                     </persName>
-                      <birth when="c1834"></birth>
+                        <event type="birth"  when="1834"  certainty="medium" ><ab>c1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Kentucky Civil War Service Records of Union Soldiers, 1861-1865,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:F8N9-PZ3 : 4 December 2014), Thomas J Elliott, 1862; from &quot;Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations from the State of Kentucky,&quot; Fold3.com; citing military unit Second Infantry, Cr-Fo, NARA microfilm publication M397, roll 163, National Archives and Records Administration, Washington, D.C.</p>
+        <ab><bibl>&quot;Kentucky Civil War Service Records of Union Soldiers, 1861-1865,&quot; database, FamilySearch (https://familysearch.org/ark:/61903/1:1:F8N9-PZ3 : 4 December 2014), Thomas J Elliott, 1862; from &quot;Compiled Service Records of Volunteer Union Soldiers Who Served in Organizations from the State of Kentucky,&quot; Fold3.com; citing military unit Second Infantry, Cr-Fo, NARA microfilm publication M397, roll 163, National Archives and Records Administration, Washington, D.C.
 </bibl></ab>
     </back>
 </text>
