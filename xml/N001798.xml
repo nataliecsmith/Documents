@@ -46,8 +46,8 @@
                       Charles Eginton
                         (Clark County, Kentucky, attorney)
                     </persName>
-                      <birth when="1814-09-23"></birth>
-                      <death when="1890-09-23"></death>
+                        <event type="birth"  when="1814-09-23"  ><ab>1814-09-23</ab></event>
+                        <event type="death"  when="1890-09-23"  ><ab>1890-09-23</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Clark County, District 2, p. 41; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Clark County, District 2, p. 3; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Clark County, Winchester, District 2, p. 78; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Clark County, Winchester, District 2, p. 33; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Clark County, Winchester, p. 4; <em>Kentucky Birth, Marriage, and Death Records, 1852-1910</em>, Ancestry, Marriages, Kenton County, Kentucky, 1890; <em>Find A Grave</em>, &quot;Judge Charles S. Eginton (1814-1890),&quot; Memorial #58497535, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=58497535 (accessed August 16, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Clark County, District 2, p. 41; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Clark County, District 2, p. 3; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clark County, Winchester, District 2, p. 78; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Clark County, Winchester, District 2, p. 33; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Clark County, Winchester, p. 4; <hi rend=”italic”>Kentucky Birth, Marriage, and Death Records, 1852-1910</hi>, Ancestry, Marriages, Kenton County, Kentucky, 1890; <hi rend=”italic”>Find A Grave</hi>, &quot;Judge Charles S. Eginton (1814-1890),&quot; Memorial #58497535, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=58497535 (accessed August 16, 2017).
 </bibl></ab>
     </back>
 </text>
