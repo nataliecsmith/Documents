@@ -50,8 +50,8 @@
                       John G. Morrison
                         (Judge of Scott County Court)
                     </persName>
-                      <birth when="c1811"></birth>
-                      <death when="1884-01-21"></death>
+                        <event type="birth"  when="1811"  certainty="medium" ><ab>c1811</ab></event>
+                        <event type="death"  when="1884-01-21"  ><ab>1884-01-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Scott County, District 1, Georgetown, p. 128. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Scott County, District 1, p. 16. <em>Find A Grave</em>, &quot;[Name] ([Birth]-[Death]),&quot; Memorial #99164909, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=99164909 (accessed May, 31, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Scott County, District 1, Georgetown, p. 128. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Scott County, District 1, p. 16. <hi rend=”italic”>Find A Grave</hi>, &quot;[Name] ([Birth]-[Death]),&quot; Memorial #99164909, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=99164909 (accessed May, 31, 2017).
 </bibl></ab>
     </back>
 </text>
