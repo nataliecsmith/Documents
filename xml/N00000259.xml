@@ -50,8 +50,8 @@
                       Jefferson Finis Davis
                         (CS President)
                     </persName>
-                      <birth when="1808-06-03"></birth>
-                      <death when="1889-12-06"></death>
+                        <event type="birth"  when="1808-06-03"  ><ab>1808-06-03</ab></event>
+                        <event type="death"  when="1889-12-06"  ><ab>1889-12-06</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>The Paper of Jefferson Davis, s.v. “About Jefferson Davis: Chronology,” https://jeffersondavis.rice.edu (accessed October 24, 2016); The Papers of Jefferson Davis, s.v. “Geneaology of the Davis Family,” https://jeffersondavis.rice.edu/Genealogy.aspx (accessed October 24, 2016); William J. Cooper, Jefferson Davis, American (New York: Knopf, 2000); Joan Cashin, First Lady of the Confederacy (Cambridge: Belknap Press, 2006).</p>
+        <ab><bibl>The Paper of Jefferson Davis, s.v. “About Jefferson Davis: Chronology,” https://jeffersondavis.rice.edu (accessed October 24, 2016); The Papers of Jefferson Davis, s.v. “Geneaology of the Davis Family,” https://jeffersondavis.rice.edu/Genealogy.aspx (accessed October 24, 2016); William J. Cooper, Jefferson Davis, American (New York: Knopf, 2000); Joan Cashin, First Lady of the Confederacy (Cambridge: Belknap Press, 2006).
 </bibl></ab>
     </back>
 </text>
