@@ -46,8 +46,8 @@
                       John Quincy Adams King
                         (Paducah (McCracken co) attorney)
                     </persName>
-                      <birth when="1828"></birth>
-                      <death when="1880"></death>
+                        <event type="birth"  when="1828"  ><ab>1828</ab></event>
+                        <event type="death"  when="1880"  ><ab>1880</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Cumberland County, Burkesville, stamped p. 280. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, McCracken County, Paducah District 2, p. 134. <em>Tenth Manuscript Census of the United States</em> (1880), Mortality Schedules, Colorado, Arapahoe County, District 1, p. 27.<em>Journal of the Senate of the Commonwealth of Kentucky</em> (Frankfort: A. G. Hodges, 1856), 3. George Mason Graham Stafford, <em>The King Family of Virginia, Geneaology, 1350-1950</em> (Genealogical Society of Utah, 1971), microfilm reproduction of typescript, 28-29.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Cumberland County, Burkesville, stamped p. 280. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McCracken County, Paducah District 2, p. 134. <hi rend=”italic”>Tenth Manuscript Census of the United States</hi> (1880), Mortality Schedules, Colorado, Arapahoe County, District 1, p. 27.<hi rend=”italic”>Journal of the Senate of the Commonwealth of Kentucky</hi> (Frankfort: A. G. Hodges, 1856), 3. George Mason Graham Stafford, <hi rend=”italic”>The King Family of Virginia, Geneaology, 1350-1950</hi> (Genealogical Society of Utah, 1971), microfilm reproduction of typescript, 28-29.
 </bibl></ab>
     </back>
 </text>
