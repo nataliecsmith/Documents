@@ -46,8 +46,8 @@
                       William McAfee Rickets
                         (marion Co)
                     </persName>
-                      <birth when="1844"></birth>
-                      <death when="1915-09-08"></death>
+                        <event type="birth"  when="1844"  ><ab>1844</ab></event>
+                        <event type="death"  when="1915-09-08"  ><ab>1915-09-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Marion County, District 1. <em>Eight Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marion County, Lebanon District 1, p. 37. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Marion County, Marion, p. 22. <em>Kentucky, County Marriages, 1873-1965</em> Ancestry, Taylor County, 1864. <em>Alabama, Deaths and Burials Index, 1881-1974</em> Ancestry.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marion County, District 1. <hi rend=”italic”>Eight Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marion County, Lebanon District 1, p. 37. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marion County, Marion, p. 22. <hi rend=”italic”>Kentucky, County Marriages, 1873-1965</hi> Ancestry, Taylor County, 1864. <hi rend=”italic”>Alabama, Deaths and Burials Index, 1881-1974</hi> Ancestry.
 </bibl></ab>
     </back>
 </text>
