@@ -46,8 +46,8 @@
                       Bernard Henry Gotthelf
                         (Louisville, Kentucky, Jewish rabbi and U.S. Army chaplain)
                     </persName>
-                      <birth when="1819-02-03"></birth>
-                      <death when="1878-09-07"></death>
+                        <event type="birth"  when="1819-02-03"  ><ab>1819-02-03</ab></event>
+                        <event type="death"  when="1878-09-07"  ><ab>1878-09-07</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Lee Shai Weissbach, &quot;Kentucky Jewry During the Civil War,&quot; in <em>The Register of the Kentucky Historical Society</em>, vol. 110, No. 2 (Spring 2012), pp. 165-84; “Kentucky,” in <em>The Jewish Encyclopedia: A Descriptive Record of the History, Religion, Literature, and Customs of the Jewish People from the Earliest Times to the Present Day _, ed. Isidore Singer, vol. 7 (New York: Funk and Wagnalls Co, 1906), p. 467; Leo Turitz and Evelyn Turitz, _Jews in Early Mississippi</em> (Jackson: University Press of Mississippi, 1983), p. 45; <em>Letters Received by the Commission Branch of the Adjutant General&#39;s Office, 1863-1870</em>, NARA RG 94, Microfilm Series M1064, Roll 0024; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District 2, p. 177; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 4, p. 28; <em>Find A Grave</em>, &quot;Rabbi Bernhard Henry Gotthelf (1819-1878),&quot; Memorial #11094135, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=11094135 (accessed June 21, 2017).</p>
+        <ab><bibl>Lee Shai Weissbach, &quot;Kentucky Jewry During the Civil War,&quot; in <hi rend=”italic”>The Register of the Kentucky Historical Society</hi>, vol. 110, No. 2 (Spring 2012), pp. 165-84; “Kentucky,” in <hi rend=”italic”>The Jewish Encyclopedia: A Descriptive Record of the History, Religion, Literature, and Customs of the Jewish People from the Earliest Times to the Present Day _, ed. Isidore Singer, vol. 7 (New York: Funk and Wagnalls Co, 1906), p. 467; Leo Turitz and Evelyn Turitz, _Jews in Early Mississippi</hi> (Jackson: University Press of Mississippi, 1983), p. 45; <hi rend=”italic”>Letters Received by the Commission Branch of the Adjutant General&#39;s Office, 1863-1870</hi>, NARA RG 94, Microfilm Series M1064, Roll 0024; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, Louisville, District 2, p. 177; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 4, p. 28; <hi rend=”italic”>Find A Grave</hi>, &quot;Rabbi Bernhard Henry Gotthelf (1819-1878),&quot; Memorial #11094135, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=11094135 (accessed June 21, 2017).
 </bibl></ab>
     </back>
 </text>
