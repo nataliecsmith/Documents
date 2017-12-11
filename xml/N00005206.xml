@@ -46,8 +46,8 @@
                       Thomas M. Freeman
                         (Anderson County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1809"></birth>
-                      <death when="1886-04-21"></death>
+                        <event type="birth"  when="1809"  certainty="medium" ><ab>c1809</ab></event>
+                        <event type="death"  when="1886-04-21"  ><ab>1886-04-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Franklin County, District 2, p. 63; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Anderson County, p. 21; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Shelby County, Hardinsville, p. 1; <em>Kentucky, Death Records, 1852-1964</em>, Ancestry, Jefferson County, Kentucky, April 21, 1886.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 2, p. 63; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, p. 21; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Shelby County, Hardinsville, p. 1; <hi rend=”italic”>Kentucky, Death Records, 1852-1964</hi>, Ancestry, Jefferson County, Kentucky, April 21, 1886.
 </bibl></ab>
     </back>
 </text>
