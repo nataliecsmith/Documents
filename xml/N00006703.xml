@@ -46,8 +46,8 @@
                       David Washington Jernigan
                         (Muhlenberg County, Kentucky, farmer)
                     </persName>
-                      <birth when="1819-10-04"></birth>
-                      <death when="1895-03-02"></death>
+                        <event type="birth"  when="1819-10-04"  ><ab>1819-10-04</ab></event>
+                        <event type="death"  when="1895-03-02"  ><ab>1895-03-02</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Muhlenberg County, Sub Division 2, p. 255; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Muhlenberg County, Sub Division 2; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Muhlenberg County, District 2, p. 43; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Muhlenberg County, Paradise, Precinct 4, p. 18; <em>Tennessee State Marriages, 1780-2002</em>, Robertson County, 1845, Microfilm, Tennessee State Library and Archives, Nashville; <em>Find A Grave</em>, &quot;David Washington Jernigan (1819-1895),&quot; Memorial #32464689, http://www.findagrave.com/cgi-bin/fg.cgi/page/gr/<br>http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=32464689 (accessed May 29, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Muhlenberg County, Sub Division 2, p. 255; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Muhlenberg County, Sub Division 2; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Muhlenberg County, District 2, p. 43; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Muhlenberg County, Paradise, Precinct 4, p. 18; <hi rend=”italic”>Tennessee State Marriages, 1780-2002</hi>, Robertson County, 1845, Microfilm, Tennessee State Library and Archives, Nashville; <hi rend=”italic”>Find A Grave</hi>, &quot;David Washington Jernigan (1819-1895),&quot; Memorial #32464689, http://www.findagrave.com/cgi-bin/fg.cgi/page/gr/<br>http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=32464689 (accessed May 29, 2017).
 </bibl></ab>
     </back>
 </text>
