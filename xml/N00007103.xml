@@ -46,8 +46,8 @@
                       Moses Mackoy, Sr.
                         (Greenup County, Kentucky, farmer)
                     </persName>
-                      <birth when="1800-05-23"></birth>
-                      <death when="1869-08-05"></death>
+                        <event type="birth"  when="1800-05-23"  ><ab>1800-05-23</ab></event>
+                        <event type="death"  when="1869-08-05"  ><ab>1869-08-05</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 244. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Greenup County, District 1, p. 253. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Greenup County, p. 112. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Greenup County, p. 2. <em>Find A Grave</em>, &quot;Moses Fuqua Mackoy, Sr (1800-1869),&quot; Memorial #23962289, http://www.findagrave.com/memorial/23962289/moses-fuqua-mackoy (accessed June 15, 2017). KYR-0001-029-0583.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 244. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Greenup County, District 1, p. 253. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 112. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Greenup County, p. 2. <hi rend=”italic”>Find A Grave</hi>, &quot;Moses Fuqua Mackoy, Sr (1800-1869),&quot; Memorial #23962289, http://www.findagrave.com/memorial/23962289/moses-fuqua-mackoy (accessed June 15, 2017). KYR-0001-029-0583.
 </bibl></ab>
     </back>
 </text>
