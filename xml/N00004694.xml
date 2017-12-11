@@ -46,8 +46,7 @@
                       William Temple
                         (Hancock County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1795"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1795"  certainty="medium" ><ab>c1795</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hancock County, p. 302; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Hancock County, p. 269; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hancock County, p. 27; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hancock County, Pellville, p. 2; Jordan Dodd, <em>Kentucky Marriages, 1802-1850</em>, Ancestry, Bullitt County, Kentucky, March 29, 1825.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hancock County, p. 302; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Hancock County, p. 269; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hancock County, p. 27; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hancock County, Pellville, p. 2; Jordan Dodd, <hi rend=”italic”>Kentucky Marriages, 1802-1850</hi>, Ancestry, Bullitt County, Kentucky, March 29, 1825.
 </bibl></ab>
     </back>
 </text>
