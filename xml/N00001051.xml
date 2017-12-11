@@ -50,8 +50,7 @@
                       James A. Kackley
                         (Germantown, Kentucky, merchant and postmaster)
                     </persName>
-                      <birth when="c1827"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1827"  certainty="medium" ><ab>c1827</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Maysville Weekly Bulletin</em> (Maysville, Ky.), May 6, 1864, p. 2; <em>Record of Appointment of Postmasters, 1832-1971</em>. NARA Microfilm Publication, M841, 145 rolls. <em>Records of the Post Office Department</em>, RG 28. Washington, D.C.: National Archives, Bracken County, KY, Germantown, p. 20; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Bracken County, Germantown, p. 3; KYR-0001-007-0309.</p>
+        <ab><bibl><hi rend=”italic”>Maysville Weekly Bulletin</hi> (Maysville, Ky.), May 6, 1864, p. 2; <hi rend=”italic”>Record of Appointment of Postmasters, 1832-1971</hi>. NARA Microfilm Publication, M841, 145 rolls. <hi rend=”italic”>Records of the Post Office Department</hi>, RG 28. Washington, D.C.: National Archives, Bracken County, KY, Germantown, p. 20; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Bracken County, Germantown, p. 3; KYR-0001-007-0309.
 </bibl></ab>
     </back>
 </text>
