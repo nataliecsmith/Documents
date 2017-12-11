@@ -46,8 +46,8 @@
                       William W. Newman
                         (Hancock County, Kentucky, farmer)
                     </persName>
-                      <birth when="1823-06-12"></birth>
-                      <death when="1908-10-12"></death>
+                        <event type="birth"  when="1823-06-12"  ><ab>1823-06-12</ab></event>
+                        <event type="death"  when="1908-10-12"  ><ab>1908-10-12</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Hancock County, p. 295; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hancock County, p. 57; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hancock County, Hawesville, p. 23; <em>Consolidated Lists of Civil War Draft Registration Records</em> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Hancock County, KY, 1863, p. 474, (Accessed via ancestry.com); <em>Index To Compiled Service Records Of Volunteer Soldiers Who Served During The Mexican War</em>, NARA RG 94, Microfilm Series M616, Roll 0027; <em>Find A Grave</em>, &quot;William W. Newman (1823-1908),&quot; Memorial #90196837, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=90196837 (accessed April 14, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Hancock County, p. 295; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hancock County, p. 57; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hancock County, Hawesville, p. 23; <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Hancock County, KY, 1863, p. 474, (Accessed via ancestry.com); <hi rend=”italic”>Index To Compiled Service Records Of Volunteer Soldiers Who Served During The Mexican War</hi>, NARA RG 94, Microfilm Series M616, Roll 0027; <hi rend=”italic”>Find A Grave</hi>, &quot;William W. Newman (1823-1908),&quot; Memorial #90196837, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=90196837 (accessed April 14, 2017).
 </bibl></ab>
     </back>
 </text>
