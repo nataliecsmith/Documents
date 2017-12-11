@@ -50,8 +50,8 @@
                       Jackson McClain
                         (Henderson County, Kentucky, planter and banker)
                     </persName>
-                      <birth when="1816-10-05"></birth>
-                      <death when="1892-12-02"></death>
+                        <event type="birth"  when="1816-10-05"  ><ab>1816-10-05</ab></event>
+                        <event type="death"  when="1892-12-02"  ><ab>1892-12-02</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Edmund L. Starling, <em>History of Henderson County, Kentucky</em> (Henderson, KY: n.p., 1887), 813-814; <em>Federal Writers&#39; Project: Slave Narrative Project, Vol. 5, Indiana, Arnold-Woodson</em>, (1936), p. 189-192, https://www.loc.gov/item/mesn050/ (accessed February 2, 2017); <em>Find A Grave</em>, &quot;Col. Jackson McClain (1816-1892),&quot; Memorial #85736278, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=85736278 (accessed July 28, 2017); <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Henderson County, District 1, p. 282; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Henderson County, District 1; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Henderson County, Division 2, p. 52; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Henderson County, Division 2, p. 17-18; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Henderson County, Upper Town, p. 20.</p>
+        <ab><bibl>Edmund L. Starling, <hi rend=”italic”>History of Henderson County, Kentucky</hi> (Henderson, KY: n.p., 1887), 813-814; <hi rend=”italic”>Federal Writers&#39; Project: Slave Narrative Project, Vol. 5, Indiana, Arnold-Woodson</hi>, (1936), p. 189-192, https://www.loc.gov/item/mesn050/ (accessed February 2, 2017); <hi rend=”italic”>Find A Grave</hi>, &quot;Col. Jackson McClain (1816-1892),&quot; Memorial #85736278, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=85736278 (accessed July 28, 2017); <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Henderson County, District 1, p. 282; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Henderson County, District 1; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henderson County, Division 2, p. 52; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Henderson County, Division 2, p. 17-18; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Henderson County, Upper Town, p. 20.
 </bibl></ab>
     </back>
 </text>
