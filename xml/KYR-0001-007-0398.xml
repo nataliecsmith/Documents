@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0398"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>New York <date when="1865-03-23">March 23<hi rend="underline"><hi rend="sup">rd</hi></hi> 65</date>
+   <p><placeName ref="cwgk:P001007">New York</placeName> <date when="1865-03-23">March 23<hi rend="underline"><hi rend="sup">rd</hi></hi> 65</date>
 <lb/>D<hi rend="underline"><hi rend="sup">r</hi></hi> Sir</p>
-<p>Your communication respecting my re-appointment as commissioner for Kentucky is before me I herewith enclose &#36;5. Statute fee. I reside in Brooklyn but have my office in N. Y. City just across the river -- </p>
+<p>Your communication respecting my re-appointment as commissioner for <orgName ref="cwgk:O001025">Kentucky</orgName> is before me I herewith enclose $5. Statute fee. I reside in <placeName ref="cwgk:P00005611">Brooklyn</placeName> but have my office in <placeName ref="cwgk:P00002569">N. Y. City</placeName> just across <geogName ref="cwgk:G00005612">the river</geogName> -- </p>
 <p>Please send commission
 <lb/>and oblige Yours Very Respty
-<lb/><hi rend="underline">Lewis Hurst</hi></p>
-<p>Jas B Page
-<lb/>Ass't Sect'ry of State<pb/></p>
+<lb/><persName ref="cwgk:N00005617">Lewis Hurst</persName></p>
+<p><persName ref="cwgk:N001778">Jas B Page</persName><lb/>Ass't Sect'ry of State<pb/></p>
 <p>New York
 <lb/>Com<hi rend="sup">r</hi> Deeds
 <lb/><hi rend="str">W</hi><hi rend="str"><hi rend="sup">m</hi></hi><hi rend="str"> Hurst</hi>
