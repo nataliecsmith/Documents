@@ -39,8 +39,7 @@
             <particDesc>
                 <org xml:id="O00006447">
                     <orgName>Kingdom of Belgium</orgName>
-                      <event type="begun" when="1831-07-21">1831-07-21</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1831-07-21"  ><ab>1831-07-21</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -51,7 +50,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Alexander B. Murphy, et al., &quot;Belgium&quot; in <em>Encyclopedia Brittanica</em>, https://www.britannica.com/place/Belgium (accessed May 22, 2017).</p>
+        <ab><bibl>Alexander B. Murphy, et al., &quot;Belgium&quot; in <hi rend=”italic”>Encyclopedia Brittanica</hi>, https://www.britannica.com/place/Belgium (accessed May 22, 2017).
 </bibl></ab>
     </back>
 </text>
