@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0302"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -66,14 +74,14 @@
    <p>Louisville -- Ky.
 <lb/><date when="1864-09-05">Sept. 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
 <lb/>Dear Major,</p>
-<p>At Gen<hi rend="underline">l</hi> Jerry Boyle's request, I write for a commission as Notary Public for A. O. Dur<hi rend="str">b</hi>land- of this city. Whatever fee <hi rend="str">you</hi> is required will be sent you on receipt of commission Please state amount in your enclosure- and direct to Gen<hi rend="underline"><hi rend="sup">l</hi></hi> J. T. Boyle here.</p>
+<p>At Gen<hi rend="underline">l</hi> <persName ref="cwgk:N00000523">Jerry Boyle</persName>'s request, I write for a commission as Notary Public for A. O. Dur<hi rend="str">b</hi>land- of this city. Whatever fee <hi rend="str">you</hi> is required will be sent you on receipt of commission Please state amount in your enclosure- and direct to Gen<hi rend="underline"><hi rend="sup">l</hi></hi> J. T. Boyle here.</p>
 <p>I may want such commission myself- and will let you know shortly.</p>
-<p>Remember me to the Governor- most kindly- and to the immitable "Van" -- and accept my regards for yourself</p>
+<p>Remember me to the <persName ref="cwgk:N001000">Governor</persName>- most kindly- and to the immitable "<persName ref="cwgk:N001777">Van</persName>" -- and accept my regards for yourself</p>
 <p>Truly Your's
-<lb/><hi rend="underline">John Boyle</hi></p>
+<lb/><persName ref="cwgk:N00000879">John Boyle</persName></p>
 <p>Maj. Ja<hi rend="sup">s</hi> S. Page
 <lb/>Asst. Sec'y of State
-<lb/>Frankfort Ky<pb/></p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName><pb/></p>
 <p>Notary
 <lb/>Jefferson Co
 <lb/>A O Dur<hi rend="str">b</hi>land
