@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0131"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -66,8 +74,8 @@
    <p>The following is the substance of the testimony in the case of
 <lb/>Com<hi rend="underline"><hi rend="sup">th</hi></hi> of Ky
 <lb/>vs
-<lb/>Caroline</p>
-<p>tried for murder of Blanche Levi child of Willis and Anne Levi of Louisville Ky at the <date when="--05">may term</date> of the Jeff Co Cir Court-</p>
+<lb/><persName ref="cwgk:N002001">Caroline</persName></p>
+<p>tried for murder of Blanche Levi child of <persName ref="cwgk:N00000995">Willis</persName> and <persName ref="cwgk:N002005">Anne Levi </persName>of <placeName ref="cwgk:P00000337">Louisville Ky</placeName> at the <date when="--05">may term</date> of the <orgName ref="cwgk:O001000">Jeff Co Cir Court</orgName>-</p>
 <p>Caroline is aged about 20 yrs -- is a contraband &amp; was employed as a cook &amp; the only servant of Willis Levi -- had been so employed since <date when="1862-09">Sept 1862</date>, -- Levi<hi rend="sup">s</hi> family consisted of himself, his wife &amp; child &amp; Caroline. </p>
 <p>Caroline cooked &amp; washed; Levi being a boat pilot was absent more than one half the time. She was a good servant &amp; seemed to love the child, who was very fond of <hi rend="str">Blanche (the child)</hi> <hi rend="str">(</hi>her (Caroline) About two months before the death of the child (which occurred some time in <date when="1863-02">Feb 1863</date>,) Levi who had purchased some strychnine for the purpose of killing some cats and pigeons that had been annoying him asked his wife for the poison, who<pb/>
 <lb/><note place="header">2</note>taking it from some shelf or ^mantle or^ other exposed place in the family room handed the paper ^containing the poison^ to Levi, He called Caroline &amp; had her to bring him some beef which he took &amp; cut into three peices, small peices, about 1 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> inches square &amp; on each peice put some of the poison saying at the time that "here is enough strychnine (or poison) to kill a regiment of men", Caroline standing near by with the remainder of the beef in her hand <hi rend="str">&amp;</hi> hearing the remark</p>
@@ -93,7 +101,7 @@
 <p><note place="footer">(Mrs Levi further stated on cross-ex. that since She examined the paper of poison on Tuesday evening it had not been opened or retied -- &amp; upon its being presented to her ^in court^ said it was not tied badly.) com atty</note><pb/>
 <lb/><note place="header">10</note>A good many friends remained with Mrs L- during Tuesday;</p>
 <p>Coffee was the usual beverage of the family Tea was served only when ordered by Mrs L- &amp; it was generally ordered by her only when she felt unwell -- Coffee was her drunk for breakfast &amp; supper usually. Mr Levi was fond of it -- Tuesday at dinner Tea was served without any orders to that effect or on the subject in any way whatever as far as any witness could state Coffee was ordered for Supper but Caroline served Tea instead And about Tea-<note place="left margin">10</note>time Mrs L- smelt coffee (as though it was being parched) &amp; made some remark on the subject when some one stepped to the kitchen &amp; saw some in a bowl or vessel in which it was not usually kept, seemingly wet &amp; asked about it Caroline said she was drying some coffee in which she had spilled some water </p>
-<p>The stomach of Blanch was taken out by a physician Dr Palmer, bottled, sealed up &amp; carried by two persons to an experienced practical chemist Dr Jenkins who analysed the contents -- applied three tests &amp; each one gave him strychnia He analysed about one third or one fourth<pb/>
+<p>The stomach of Blanch was taken out by a physician <persName ref="cwgk:N002012">Dr Palmer</persName>, bottled, sealed up &amp; carried by two persons to an experienced practical chemist <persName ref="cwgk:N002013">Dr Jenkins</persName> who analysed the contents -- applied three tests &amp; each one gave him strychnia He analysed about one third or one fourth<pb/>
 <lb/><note place="header">11</note>of the contents ^of the childs stomach^, with some of which he killed a frog, (the symptoms of which in death indicated the presence of strychnia) <note place="left margin">11</note>One third or one fourth the contents were sufficient to have caused death </p>
 <p>While the post mortem examination was being made Caroline was seen 30 feet from the kitchen standing very near the window of the room where the body of the child was, in an attitude as if endeavoring to look in upon the proceding ^(the window shutters being closed)^ During Tuesday afternoon &amp; the whole of Wednesday she seemed restless, not contented unless briskly engaged at work often went first to the front &amp; then to the back gate of the lot &amp; would look restlessly &amp; quickly first ^in^ one direction &amp; then immediately in another</p>
 <p>She was seen to look at the body of the child &amp; smile -- she did this twice.</p>
@@ -110,7 +118,7 @@
 <p>The chemist said Blanche died from the effects of strychnia ^in her stomach^ <hi rend="str">administered to her</hi> It was proven that the childs symptoms in death were those of a person having taken strychnia</p>
 <p>Dupuy Com' atty<pb/></p>
 <p>Commonwealth
-<lb/>vs &#125; <hi rend="underline">Testimony</hi>
+<lb/>vs } <hi rend="underline">Testimony</hi>
 <lb/>Caroline (a slave)</p>
   </body>
  </text>
