@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0588"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,22 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Todd Circuit Court
-<lb/>The Commmonwealth of Kentucky
-<lb/>against &#125; Indictment <date when="1863-04">April Term 1863</date>
-<lb/>Elijah Jones
-<lb/>William Norman</p>
-<p>The Grand Jury of Todd County in the name and by the authority of the Commonwealth of Kentucky accuse Elijah Jones, William Norman of the offence of A breach of the peace Committed as follows viz The said Elijah Jones and William Norman on the <date when="1862-10-10">10<hi rend="sup">th</hi> day of October 1862</date> in the County "aforesaid" Wilfully and unlawfully by force and armes and with violence entered the House of Noel Stennet and beat bruised and otherwise injured M<hi rend="sup">rs</hi> Margarett Stennett thereby while in possession of said House against the peace and dignity of the Commonwealth of Kentucky</p>
+   <p><orgName ref="cwgk:O00000578">Todd Circuit Court</orgName><lb/><orgName ref="cwgk:O001025">The Commmonwealth of Kentucky</orgName><lb/>against } Indictment <date when="1863-04">April Term 1863</date>
+<lb/><persName ref="cwgk:N00002690">Elijah Jones</persName><lb/><persName ref="cwgk:N00002691">William Norman</persName></p>
+<p>The Grand Jury of Todd County in the name and by the authority of the Commonwealth of Kentucky accuse Elijah Jones, William Norman of the offence of A breach of the peace Committed as follows viz The said Elijah Jones and William Norman on the <date when="1862-10-10">10<hi rend="sup">th</hi> day of October 1862</date> in <placeName ref="cwgk:P00002675">the County "aforesaid"</placeName> Wilfully and unlawfully by force and armes and with violence entered the House of Noel Stennet and beat bruised and otherwise injured M<hi rend="sup">rs</hi> <persName ref="cwgk:N00002693">Margarett Stennett</persName> thereby while in possession of said House against the peace and dignity of the Commonwealth of Kentucky</p>
 <p>W T Kennedy Foreman
 <lb/>Grand Jury
-<lb/>E P Campbell Attorney for the Commonwealth.</p>
+<lb/><persName ref="cwgk:N00002633">E P Campbell</persName> Attorney for the Commonwealth.</p>
 <p>Information given by
 <lb/>Margarett Stennett
-<lb/>Leander Stennett
-<lb/>Neander Stennett
-<lb/>Dr J N Bartlett</p>
+<lb/><persName ref="cwgk:N00002695">Leander Stennett</persName><lb/><persName ref="cwgk:N00002696">Neander Stennett</persName><lb/>Dr <persName ref="cwgk:N00002697">J N Bartlett</persName></p>
 <p>A copy attest
-<lb/>Ben T Perkins C T C C</p>
+<lb/><persName ref="cwgk:N00002698">Ben T Perkins</persName> C T C C</p>
   </body>
  </text>
 </TEI>
