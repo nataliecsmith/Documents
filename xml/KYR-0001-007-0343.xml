@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0343"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky
-<lb/><date when="1865-01-23">January 23<hi rend="sup">rd</hi>
+   <p><placeName ref="cwgk:P00000337">Louisville Ky</placeName><lb/><date when="1865-01-23">January 23<hi rend="sup">rd</hi>
 <lb/>1865</date>
-<lb/>Gov. Bramlette</p>
-<p>There is a vacancy in the office of Justice of the Peace in the Hays' Spring District in this County, occasioned by the removal of O. C. Curry from the State.</p>
-<p>I recommend for the vacancy D<hi rend="underline"><hi rend="sup">r</hi></hi> A R Groves of that District, as worthy and qualified, and by his Conservative loyalty, a fit person for it.</p>
+<lb/><persName ref="cwgk:N001000">Gov. Bramlette</persName></p>
+<p>There is a vacancy in the office of Justice of the Peace in the Hays' Spring District in <placeName ref="cwgk:P001005">this County</placeName>, occasioned by the removal of <persName ref="cwgk:N00001759">O. C. Curry</persName> from <placeName ref="cwgk:P001800">the State</placeName>.</p>
+<p>I recommend for the vacancy D<hi rend="underline"><hi rend="sup">r</hi></hi> <persName ref="cwgk:N00004895">A R Groves</persName> of that District, as worthy and qualified, and by his Conservative loyalty, a fit person for it.</p>
 <p>Refer to D<hi rend="underline"><hi rend="sup">r</hi></hi> Allen of the <unclear>River</unclear>
 <lb/>Very Respy
-<lb/>Andrew Monroe<pb/></p>
+<lb/>Andrew <persName ref="cwgk:N00004897">Monroe</persName><pb/></p>
 <p>Justice Peace
 <lb/>Jefferson Co
 <lb/>A R Groves
