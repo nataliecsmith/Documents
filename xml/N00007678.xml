@@ -46,8 +46,8 @@
                       James Burtle
                         (Grayson County, Kentucky, merchant and farmer)
                     </persName>
-                      <birth when="1818-11-05"></birth>
-                      <death when="1895-04-19"></death>
+                        <event type="birth"  when="1818-11-05"  ><ab>1818-11-05</ab></event>
+                        <event type="death"  when="1895-04-19"  ><ab>1895-04-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State</em>, (Louisville: F. A. Battey and Company, 1887), 1100. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Grayson County, p. 1. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Grayson County, p. 162. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Grayson County, Leitchfield, p. 36. <em>Find A Grave</em>, &quot;James Burtle (1818-1895),&quot; Memorial #63192332, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=63192332&amp;ref=acom (accessed June 26, 2017).</p>
+        <ab><bibl>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi>, (Louisville: F. A. Battey and Company, 1887), 1100. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Grayson County, p. 1. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Grayson County, p. 162. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Grayson County, Leitchfield, p. 36. <hi rend=”italic”>Find A Grave</hi>, &quot;James Burtle (1818-1895),&quot; Memorial #63192332, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=63192332&amp;ref=acom (accessed June 26, 2017).
 </bibl></ab>
     </back>
 </text>
