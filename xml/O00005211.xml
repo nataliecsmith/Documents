@@ -47,8 +47,7 @@
             <particDesc>
                 <org xml:id="O00005211">
                     <orgName>Branch Bank of Kentucky, Frankfort</orgName>
-                      <event type="begun" when="1834-02-22">1834-02-22</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1834-02-22"  ><ab>1834-02-22</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -59,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Basil W. Duke, <em>History of the Bank of Kentucky, 1792-1895</em> (Louisville: John P. Morton &amp; Company, 1895), 22, 138.</p>
+        <ab><bibl>Basil W. Duke, <hi rend=”italic”>History of the Bank of Kentucky, 1792-1895</hi> (Louisville: John P. Morton &amp; Company, 1895), 22, 138.
 </bibl></ab>
     </back>
 </text>
