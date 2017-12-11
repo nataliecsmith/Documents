@@ -50,8 +50,8 @@
                       Octavious Marcellus Jenkins
                         (Eddyville, Kentucky, merchant)
                     </persName>
-                      <birth when="1823-12-25"></birth>
-                      <death when="1901-05-03"></death>
+                        <event type="birth"  when="1823-12-25"  ><ab>1823-12-25</ab></event>
+                        <event type="death"  when="1901-05-03"  ><ab>1901-05-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 326; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 100; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Lyon County, Eddyville, p. 13; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Lyon County, Eddyville, p. 1; <em>Find A Grave</em>, &quot;Octavius Marcellus Jenkins (1823-1901),&quot; Memorial #6656566, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=6656566 (accessed June 18, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 326; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 100; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Lyon County, Eddyville, p. 13; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lyon County, Eddyville, p. 1; <hi rend=”italic”>Find A Grave</hi>, &quot;Octavius Marcellus Jenkins (1823-1901),&quot; Memorial #6656566, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=6656566 (accessed June 18, 2017).
 </bibl></ab>
     </back>
 </text>
