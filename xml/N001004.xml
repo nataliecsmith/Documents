@@ -46,8 +46,8 @@
                       James Fisher Robinson
                         (governor)
                     </persName>
-                      <birth when="1800-10-04"></birth>
-                      <death when="1882-10-31"></death>
+                        <event type="birth"  when="1800-10-04"  ><ab>1800-10-04</ab></event>
+                        <event type="death"  when="1882-10-31"  ><ab>1882-10-31</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>John David Smith, “James F. Robinson (1862-1863)” in Lowell H. Harrison, Ed., Kentucky’s Governors (Lexington: University Press of Kentucky, 2004), 89-92. William Henry Engle, Pennsylvania Genealogies: Scotch-Irish and German (Harrisburg: Lane S. Hart, 1886), 553, 556-7. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Scott County, District No 1, p. 35. <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Scott County, District No 2, p. 1 and 6.</p>
+        <ab><bibl>John David Smith, “James F. Robinson (1862-1863)” in Lowell H. Harrison, Ed., Kentucky’s Governors (Lexington: University Press of Kentucky, 2004), 89-92. William Henry Engle, Pennsylvania Genealogies: Scotch-Irish and German (Harrisburg: Lane S. Hart, 1886), 553, 556-7. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Scott County, District No 1, p. 35. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Scott County, District No 2, p. 1 and 6.
 </bibl></ab>
     </back>
 </text>
