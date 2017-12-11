@@ -46,8 +46,8 @@
                       Jonathan Davis
                         (Spencer County, Kentucky, farmer, politician, and judge)
                     </persName>
-                      <birth when="1805-11-14"></birth>
-                      <death when="1878-01-09"></death>
+                        <event type="birth"  when="1805-11-14"  ><ab>1805-11-14</ab></event>
+                        <event type="death"  when="1878-01-09"  ><ab>1878-01-09</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Spencer County, District 1, p. 35; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedule, Kentucky, Spencer County, District 1, p. 5;  &quot;Kentucky Legislature,&quot; <em>The Louisville Daily Courier</em> (Louisville, Ky.), August 11, 1851, p. 3; &quot;Spencer County&quot; in <em>The Kentucky Encyclopedia</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), p. 840-42; <em>Find A Grave</em>, &quot;Jonathan Davis (1805-1878),&quot; Memorial #118749326, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=118749326&amp;ref=acom (accessed March 31, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Spencer County, District 1, p. 35; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedule, Kentucky, Spencer County, District 1, p. 5;  &quot;Kentucky Legislature,&quot; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), August 11, 1851, p. 3; &quot;Spencer County&quot; in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), p. 840-42; <hi rend=”italic”>Find A Grave</hi>, &quot;Jonathan Davis (1805-1878),&quot; Memorial #118749326, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=118749326&amp;ref=acom (accessed March 31, 2017).
 </bibl></ab>
     </back>
 </text>
