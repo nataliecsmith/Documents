@@ -46,8 +46,8 @@
                       Sarah Ann Hord Myers
                         (Christian County, Kentucky, farmer)
                     </persName>
-                      <birth when="1807-03-23"></birth>
-                      <death when="1873-12-29"></death>
+                        <event type="birth"  when="1807-03-23"  ><ab>1807-03-23</ab></event>
+                        <event type="death"  when="1873-12-29"  ><ab>1873-12-29</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Christian County, District 2, p. 413; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Christian County, p. 142; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Christian County, Fruit Hill Precinct, p. 31; Joan McCarty, “Hord Cemetery,” http://www.westernkyhistory.org/christian/cemetery/hord.html (accessed February 23, 2017); KYR-0001-029-0532.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Christian County, District 2, p. 413; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Christian County, p. 142; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Christian County, Fruit Hill Precinct, p. 31; Joan McCarty, “Hord Cemetery,” http://www.westernkyhistory.org/christian/cemetery/hord.html (accessed February 23, 2017); KYR-0001-029-0532.
 </bibl></ab>
     </back>
 </text>
