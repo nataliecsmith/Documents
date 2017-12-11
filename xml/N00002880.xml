@@ -46,8 +46,7 @@
                       W. W. Owen
                         (Louisville, Kentucky, resident)
                     </persName>
-                      <birth when="c1814"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1814"  certainty="medium" ><ab>c1814</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Jefferson County, Louisville 8th ward, p. 270-271. KYR-0001-004-0169.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville 8th ward, p. 270-271. KYR-0001-004-0169.
 </bibl></ab>
     </back>
 </text>
