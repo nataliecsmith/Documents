@@ -46,8 +46,8 @@
                       James Rodman
                         (Franklin County, Kentucky, and Christian County, Kentucky, physician and asylum superintendent)
                     </persName>
-                      <birth when="1829-03-06"></birth>
-                      <death when="1902-01-10"></death>
+                        <event type="birth"  when="1829-03-06"  ><ab>1829-03-06</ab></event>
+                        <event type="death"  when="1902-01-10"  ><ab>1902-01-10</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>“Dr. James Rodman,” <em>The American Practitioner and News</em> 33 no. 3 (February 1902): p. 113. William Henry Perrin, ed., <em>Counties of Christian and Trigg, Kentucky. Historical and Biographical</em> (Chicago, IL: F. A. Battey Publishing, 1884), p.197-99. Charles Mayfield Meacham, <em>A History of Christian County Kentucky from Oxcart to Airplane</em> (Nashville: Marshall &amp; Bruce Co., 1930), p. 296-98. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, District 1, p. 78. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Christian County, Hamby Precinct, p. 33. <em>Find A Grave</em>, &quot;Dr. James Rodman (1829-1902),&quot; Memorial #89559618, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=89559618&amp;ref=acom (accessed September 22, 2017).</p>
+        <ab><bibl>“Dr. James Rodman,” <hi rend=”italic”>The American Practitioner and News</hi> 33 no. 3 (February 1902): p. 113. William Henry Perrin, ed., <hi rend=”italic”>Counties of Christian and Trigg, Kentucky. Historical and Biographical</hi> (Chicago, IL: F. A. Battey Publishing, 1884), p.197-99. Charles Mayfield Meacham, <hi rend=”italic”>A History of Christian County Kentucky from Oxcart to Airplane</hi> (Nashville: Marshall &amp; Bruce Co., 1930), p. 296-98. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort, District 1, p. 78. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Christian County, Hamby Precinct, p. 33. <hi rend=”italic”>Find A Grave</hi>, &quot;Dr. James Rodman (1829-1902),&quot; Memorial #89559618, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=89559618&amp;ref=acom (accessed September 22, 2017).
 </bibl></ab>
     </back>
 </text>
