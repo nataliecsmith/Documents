@@ -47,8 +47,7 @@
             <particDesc>
                 <org xml:id="O00005581">
                     <orgName>Peckham &amp; Bloodgood</orgName>
-                      <event type="begun" when="c1854">c1854</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1854"  certainty="medium" ><ab>c1854</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -59,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Josiah Seymour Currey, <em>History of Milwaukee, City and County</em> (Milwaukee: S.J. Clarke Publishing Company, 1922), p. 530.</p>
+        <ab><bibl>Josiah Seymour Currey, <hi rend=”italic”>History of Milwaukee, City and County</hi> (Milwaukee: S.J. Clarke Publishing Company, 1922), p. 530.
 </bibl></ab>
     </back>
 </text>
