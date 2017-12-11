@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0580"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,17 +70,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency James F Robinson</p>
-<p>Your Petitioner H A Huseman would respectfully state that he is a cripple and has lost a leg- That he procured from the County Court of Henry County a Merchants license and under it supposed. that he had a right to sell liquors by the small -- <hi rend="str">F</hi>That he never under said license sold liquor to be drank in his store or on premises adjacent thereto with a knowledge that it was to be so drank in the store or on such premises.</p>
+   <p>To his Excellency<persName ref="cwgk:N001004"> James F Robinson</persName></p>
+<p>Your Petitioner <persName ref="cwgk:N00005553">H A Huseman</persName> would respectfully state that he is a cripple and has lost a leg- That he procured from the <orgName ref="cwgk:O00000637">County Court of Henry County</orgName> a Merchants license and under it supposed. that he had a right to sell liquors by the small -- <hi rend="str">F</hi>That he never under said license sold liquor to be drank in <orgName ref="cwgk:O00005567">his store</orgName> or on premises adjacent thereto with a knowledge that it was to be so drank in the store or on such premises.</p>
 <p>Notwithstanding this in some five indictments which were tried against ^him^ at the present Term of this Court, It was proven that persons who purchased spiritous Liquors of him did drink and not with his consent the liquors so drank upon premises ajacent to his said store -- He states that he is a poor man &amp; a cripple and under the law was fined the sum of twenty dollars in each case- He therefore under all the circumstances ^asks^ that your Excellency will remit said fines and your petitioner as in duty bound will ever pray &amp;<hi rend="sup">c</hi></p>
 <p>H. A. Huesman</p>
 <p>This day the Petitioner appeared before me and made oath the the statements in the above petition are true to the best of his knowledge and belief -- </p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Ed Nuttall
-<lb/>E. S. Pryor
-<lb/>Tho<hi rend="sup">s</hi> W Rice
-<lb/><cb n="2"/>Geo. L. Humston C, H, C C.
-<lb/>C. Fitnam
-<lb/>M Silberman<pb/></p>
+<lb/><persName ref="cwgk:N00005556">E. S. Pryor</persName><lb/>Tho<hi rend="sup">s</hi> W Rice
+<lb/><cb n="2"/><persName ref="cwgk:N00004939">Geo. L. Humston</persName> C, H, C C.<lb/><persName ref="cwgk:N00005563">C. Fitnam</persName><lb/><persName ref="cwgk:N00005565">M Silberman</persName><pb/></p>
 <p><milestone unit="column" n="1"/>H A. Huseman
 <lb/>Pettn to remit fine
 <lb/>No good reason to remit
