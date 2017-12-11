@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0553"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>New Liberty Ky
-<lb/><date when="1863-08-19">Aug 19<hi rend="sup">th</hi> 1863</date>
-<lb/>His Excellency James F. Robinson
-<lb/>Governor of Kentucky
-<lb/>Sir</p>
-<p>At the Time of the Carroll Circuit Court a judgment was rendered in favor of the Commonwealth of Ky vs Lewis E Krutz for selling Liquor without a License- The<hi rend="str">m</hi>re happened an interim <hi rend="str">between</hi> <hi rend="str">after</hi> from the expiration of his License to the procurement of another- for which he was fined -- </p>
-<p>His neighbors have sent a petition to your Honor <hi rend="str"><unclear/></hi>praying a remitt<hi rend="str">n</hi>ance of the fine -- Mr. Krutz is a poor man with a large family of helpless children &amp;. is a <hi rend="underline">Loyal</hi> <hi rend="underline">Union</hi> Man -- He is now a resident of Owen County- If not incompatible with the interest of the state it would be an act of Charity &amp; Mercy to remit his fines</p>
+   <p><placeName ref="cwgk:P00004758">New Liberty Ky</placeName><lb/><date when="1863-08-19">Aug 19<hi rend="sup">th</hi> 1863</date>
+<lb/>His Excellency <persName ref="cwgk:N001004">James F. Robinson</persName><lb/>Governor of <orgName ref="cwgk:O001025">Kentucky</orgName><lb/>Sir</p>
+<p>At the Time of the <orgName ref="cwgk:O00000365">Carroll Circuit Court</orgName> a judgment was rendered in favor of the Commonwealth of Ky vs <persName ref="cwgk:N00004757">Lewis E Krutz</persName> for selling Liquor without a License- The<hi rend="str">m</hi>re happened an interim <hi rend="str">between</hi> <hi rend="str">after</hi> from the expiration of his License to the procurement of another- for which he was fined -- </p>
+<p>His neighbors have sent a petition to your Honor <hi rend="str"><unclear/></hi>praying a remitt<hi rend="str">n</hi>ance of the fine -- Mr. Krutz is a poor man with a large family of helpless children &amp;. is a <hi rend="underline">Loyal</hi> <hi rend="underline">Union</hi> Man -- He is now a resident of <placeName ref="cwgk:P00004760">Owen County</placeName>- If not incompatible with the interest of the state it would be an act of Charity &amp; Mercy to remit his fines</p>
 <p>Respty Your svt
 <lb/>J. B. English -- </p>
   </body>
