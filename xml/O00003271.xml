@@ -43,8 +43,6 @@
             <particDesc>
                 <org xml:id="O00003271">
                     <orgName>Knox &amp; Smith</orgName>
-                      <event type="begun" when="unknown">unknown</event>
-                      <event type="ended" when="unknown">unknown</event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +53,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Smith, Irwin Z.,&quot; in <em>Encyclopedia of the History of St. Louis,</em> William Hyde and Howard Louis Conrad, eds. (New York: The Southern History Company, 1899), 2086-2087; <em>Biographical Directory of the United States Congress</em>, s.v. “Knox, Samuel,” (http://bioguide.congress.gov/scripts/biodisplay.pl?index=K000297) (accessed March 30, 2017); KYR-0001-007-0321.</p>
+        <ab><bibl>&quot;Smith, Irwin Z.,&quot; in <hi rend=”italic”>Encyclopedia of the History of St. Louis,</hi> William Hyde and Howard Louis Conrad, eds. (New York: The Southern History Company, 1899), 2086-2087; <hi rend=”italic”>Biographical Directory of the United States Congress</hi>, s.v. “Knox, Samuel,” (http://bioguide.congress.gov/scripts/biodisplay.pl?index=K000297) (accessed March 30, 2017); KYR-0001-007-0321.
 </bibl></ab>
     </back>
 </text>
