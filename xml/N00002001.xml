@@ -46,8 +46,7 @@
                       Alfred C. Cope
                         (Breathitt County &amp; 5th KY Infy CSA)
                     </persName>
-                      <birth when="1828"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1828"  ><ab>1828</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Breathitt County, District No. 1; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Breathitt County, District No. 1, p. 117; KYR-0001-017-0039; <em>Report of the Adjutant General of the State of Kentucky: Confederate Kentucky Volunteers War 1861-65</em>, vol. 1 (Frankfort: Legislature of Kentucky, 1915), 228-29.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breathitt County, District No. 1; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breathitt County, District No. 1, p. 117; KYR-0001-017-0039; <hi rend=”italic”>Report of the Adjutant General of the State of Kentucky: Confederate Kentucky Volunteers War 1861-65</hi>, vol. 1 (Frankfort: Legislature of Kentucky, 1915), 228-29.
 </bibl></ab>
     </back>
 </text>
