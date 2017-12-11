@@ -46,8 +46,8 @@
                       Uriah Kevil
                         (Princeton, Kentucky, farmhand)
                     </persName>
-                      <birth when="1839-03-09"></birth>
-                      <death when="1923-07-28"></death>
+                        <event type="birth"  when="1839-03-09"  ><ab>1839-03-09</ab></event>
+                        <event type="death"  when="1923-07-28"  ><ab>1923-07-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Caldwell County, District 2, p. 377; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Caldwell County, Princeton, p. 33; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Caldwell County, Princeton, p. 87; <em>Find A Grave</em>, &quot;Uriah Laban Kevil (1839-1923),&quot; Memorial #11094637, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=11094637 (accessed August 21, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 2, p. 377; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Caldwell County, Princeton, p. 33; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Caldwell County, Princeton, p. 87; <hi rend=”italic”>Find A Grave</hi>, &quot;Uriah Laban Kevil (1839-1923),&quot; Memorial #11094637, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=11094637 (accessed August 21, 2017).
 </bibl></ab>
     </back>
 </text>
