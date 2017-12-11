@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0586"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,36 +70,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency James F Robinson
-<lb/>Governor of the Commonwealth of Kentucky</p>
-<p>Your petitioners, being Jurors, officers of the Campbell Circuit Court, and others would respectfully represent that at the <date when="1862-02">Febuary term 1862</date> ^of said court^ James Johnson was put upon trial under an indictment charging him with being accessory to the crime of another having counterfeit money in possession with intent to pass the same &amp;c. That the verdict of the Jury was against him and he was adjudged to confinemet in the Penitentiary for two years and that he is now suffering that penalty,</p>
-<p>your petitioners would state that s<hi rend="underline"><hi rend="sup">d</hi></hi> Johnson is an old man with a family ^consists^ of his wife and several children. That the proof though considered strong enough to <hi rend="str">him</hi> <hi rend="str">guilty</hi> authorize the verdict against him was not <hi rend="str">of</hi> conclusive against him.</p>
-<p>In consideration of his age, and of the wants and condition of his family who we understand to be desirous to move to ^the state of^ Pennsylvania and of the possibility of his being innocent of the charge the undersigned would most earnestly but respectfully urge <hi rend="str">upon</hi> the exercise of executive clemancy in his case and grant his pardon and restoration to liberty.</p>
-<p>Jas Artman clk c. c. ct
-<lb/><hi rend="underline">W J, Berry</hi> Atty<pb/>
-<lb/>J Berry Atty
-<lb/>Joseph Eichelbayer</p>
+   <p>To his Excellency <persName ref="cwgk:N001004">James F Robinson</persName><lb/>Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName></p>
+<p>Your petitioners, being Jurors, officers of the <orgName ref="cwgk:O00000361">Campbell Circuit Court</orgName>, and others would respectfully represent that at the <date when="1862-02">Febuary term 1862</date> ^of said court^ <persName ref="cwgk:N00006779">James Johnson</persName> was put upon trial under an indictment charging him with being accessory to the crime of another having counterfeit money in possession with intent to pass the same &amp;c. That the verdict of the Jury was against him and he was adjudged to confinemet in <orgName ref="cwgk:O00000266">the Penitentiary</orgName> for two years and that he is now suffering that penalty,</p>
+<p>your petitioners would state that s<hi rend="underline"><hi rend="sup">d</hi></hi> Johnson is an old man with a family ^consists^ of <persName ref="cwgk:N00006780">his wife</persName> and several children. That the proof though considered strong enough to <hi rend="str">him</hi> <hi rend="str">guilty</hi> authorize the verdict against him was not <hi rend="str">of</hi> conclusive against him.</p>
+<p>In consideration of his age, and of the wants and condition of his family who we understand to be desirous to move to ^the state of^ <placeName ref="cwgk:P001006">Pennsylvania</placeName> and of the possibility of his being innocent of the charge the undersigned would most earnestly but respectfully urge <hi rend="str">upon</hi> the exercise of executive clemancy in his case and grant his pardon and restoration to liberty.</p>
+<p><persName ref="cwgk:N00006781">Jas Artman</persName> clk c. c. ct<lb/><hi rend="underline">W J, Berry</hi> Atty<pb/>
+<lb/><persName ref="cwgk:N00006782">J Berry</persName> Atty<lb/>Joseph Eichelbayer</p>
 <p><hi rend="underline">Tho</hi> <hi rend="underline">M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Gideon</hi> Juror
 <lb/>Tho<hi rend="sup">s</hi> Shinks
-<lb/>Abram Garrison
-<lb/>Henry Shrimp
-<lb/>Jas Haner
-<lb/>F Null
-<lb/>G W Gay
-<lb/>Jas, H. Peters
-<lb/>John Kents &#125; Jurors</p>
+<lb/><persName ref="cwgk:N00006786">Abram Garrison</persName><lb/><persName ref="cwgk:N00006785">Henry Shrimp</persName><lb/><persName ref="cwgk:N00006788">Jas Haner</persName><lb/><persName ref="cwgk:N00006789">F Null</persName><lb/><persName ref="cwgk:N00006791">G W Gay</persName><lb/>Jas, H. Peters
+<lb/><persName ref="cwgk:N00006794">John Kents</persName> } Jurors</p>
 <p>F. M. Webster Attoy
 <lb/>Geo R Fea<unclear/>s Atty at Law
-<lb/>J, B, Payne J, P, C, C
-<lb/>J. Hawthorn
-<lb/>H E Spilman (Deputy Sherriff)
-<lb/>C. W. Kavanaugh atto
-<lb/>Ira Root Attorney at law</p>
-<p>Jno,, C,, Mead
-<lb/>Sam Moore
-<lb/>Henry Wendt
-<lb/>J. C D. Goode
-<lb/>Jno C Thomas &#125; City Councilman<pb/></p>
+<lb/><persName ref="cwgk:N00006798">J, B, Payne</persName> J, P, <orgName ref="cwgk:O00000606">C, C</orgName><lb/><persName ref="cwgk:N00004721">J. Hawthorn</persName><lb/><persName ref="cwgk:N00006799">H E Spilman</persName> (Deputy Sherriff)<lb/><persName ref="cwgk:N00006796">C. W. Kavanaugh</persName> atto<lb/><persName ref="cwgk:N00004727">Ira Root</persName> Attorney at law</p>
+<p><persName ref="cwgk:N00006797">Jno,, C,, Mead</persName><lb/><persName ref="cwgk:N00006800">Sam Moore</persName><lb/><persName ref="cwgk:N00006801">Henry Wendt</persName><lb/>J. C D. Goode
+<lb/><persName ref="cwgk:N00006803">Jno C Thomas</persName> } <placeName ref="cwgk:P00004717">City</placeName> Councilman<pb/></p>
 <p>Jas Johnsons Pett for Pardon<figure type="hr"/></p>
 <p>No Good reason observed for pardon in this case</p>
 <p>Grant Pardon
