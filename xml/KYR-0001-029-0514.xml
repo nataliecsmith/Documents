@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0514"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,25 +70,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>Auditor's Office, Kentucky,
-<lb/>Frankfort, <gap/>, 186<gap/>.
+   <p><orgName ref="cwgk:O00004702">Auditor's Office</orgName>, Kentucky,<lb/>Frankfort, <gap/>, 186<gap/>.
 <lb/><gap/>, Esq.:
 <lb/>Dear Sir:</p>
 <p>Comwth <hi rend="str">J</hi>of Ky,
 <lb/>vs.
-<lb/>J H M<hi rend="sup">c</hi>Brayer Shff Anderson Co</p>
+<lb/>J H M<hi rend="sup">c</hi>Brayer Shff <orgName ref="cwgk:O00000592">Anderson Co</orgName></p>
 <p>Judgment for bal revenue <date when="1862">1862</date>.
-<lb/>Principal &#36;1038.36.
-<lb/>Damages &#36;207 <hi rend="sup">67</hi>/<hi rend="sub">100</hi>
+<lb/>Principal $1038.36.
+<lb/>Damages $207 <hi rend="sup">67</hi>/<hi rend="sub">100</hi>
 <lb/>Costs of Suit 7.45</p>
 <p>The Shff has this day paid the principal interest and costs of the above debt, and I think the damages should be remitted.</p>
-<p>Grant Green
-<lb/><hi rend="underline">Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi>
+<p><persName ref="cwgk:N00000466">Grant Green</persName><lb/><hi rend="underline">Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi>
 <lb/><date when="1863-08-31">August 31, 1863</date>,</p>
 <p>H<hi rend="str">on</hi>is Excellency,
-<lb/>James F Robinson.<pb/></p>
-<p>Franklin Cir. Ct
-<lb/>&#36;207.67 &#125; Damages</p>
+<lb/><persName ref="cwgk:N001004">James F Robinson</persName>.<pb/></p>
+<p><orgName ref="cwgk:O00000376">Franklin Cir. Ct</orgName><lb/>$207.67 } Damages</p>
 <p>Damages remitted
 <lb/><hi rend="underline">J F Robinson</hi></p>
 <p>J. W. M<hi rend="sup">c</hi>Brayer
