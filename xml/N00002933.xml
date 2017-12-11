@@ -46,8 +46,7 @@
                       James H. Compton
                         (Hart County- deputy clerk, Hart County Court)
                     </persName>
-                      <birth when="c1840"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1840"  certainty="medium" ><ab>c1840</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hart County, Munfordville, p. 131. KYR-0001-004-0011.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hart County, Munfordville, p. 131. KYR-0001-004-0011.
 </bibl></ab>
     </back>
 </text>
