@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0584"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  <text>
   <body>
    <p>To His Excellency
-<lb/>Thomas E. Bramlette, Governor.</p>
-<p>Your Petitioners Thomas Hines, R. Enders &amp; Henry Enders would most respectfully state, that on the night of the <date when="1863-07-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> day of July 1863</date>, a runaway negro, from the state of Tennessee, broke into the Tobacco ware House in this place and stold therefrom two bolts of domestic and Some gunny bags, and next morning, just after your petitioner Hines was opening his store, the negro came and offered to sell them to Hines, and Hines, thinking something was not right, engaged him in conversation, telling him he would buy the articles, and was <hi rend="underline">jewing</hi> him, merely to gain time, until some one could come in, so that information could be given of the theft; in about 20 minutes, the deputy Marshall did <hi rend="str"><unclear/></hi>call in, for the express purpose of caching the negro, he having a few minutes before, had been informed of the theft; Whereupon Hines told him<pb/>
-<lb/>(the officer) and that was said and done, and when the negro came to his house, and the cause of Hines detaining him &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> the officer took charge of the goods &amp; delivered them to the owner, and also arrested the negro and Hines -- for the Felony -- The negro was tried before the examining Court and sent on for further trial, and as Hines was an important witness for the Commonwealth, the <hi rend="str">examining Court</hi>deputy Marshall, took his bond with R. Enders &amp; H. Enders as his Security, <hi rend="underline">in a felony</hi> case instead of as witness for the Commonwealth -- They being informed by Fuller the Deputy Marshall, that it was a bond to appear as witness and it was not read over to them; The officer had blank bonds, and the parties signed the blanks without reading- The negro before court, together with other negroes, broke jail and run off from the state, and at the <date when="1863-10">October Term 1863</date>, through some oversight, the bond<pb/>
+<lb/><persName ref="cwgk:N001000">Thomas E. Bramlette</persName>, Governor.</p>
+<p>Your Petitioners <persName ref="cwgk:N00004749">Thomas Hines</persName>, <persName ref="cwgk:N00002673">R. Enders</persName> &amp; <persName ref="cwgk:N00004751">Henry Enders</persName> would most respectfully state, that on the night of the <date when="1863-07-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> day of July 1863</date>, <persName ref="cwgk:N00004750">a runaway negro</persName>, from the state of <placeName ref="cwgk:P001001">Tennessee</placeName>, broke into the Tobacco ware House in this place and stold therefrom two bolts of domestic and Some gunny bags, and next morning, just after your petitioner Hines was opening <orgName ref="cwgk:O00004752">his store</orgName>, the negro came and offered to sell them to Hines, and Hines, thinking something was not right, engaged him in conversation, telling him he would buy the articles, and was <hi rend="underline">jewing</hi> him, merely to gain time, until some one could come in, so that information could be given of the theft; in about 20 minutes, the deputy Marshall did <hi rend="str"><unclear/></hi>call in, for the express purpose of caching the negro, he having a few minutes before, had been informed of the theft; Whereupon Hines told him<pb/>
+<lb/>(the officer) and that was said and done, and when the negro came to his house, and the cause of Hines detaining him &amp;<hi rend="underline"><hi rend="sup">c</hi></hi> the officer took charge of the goods &amp; delivered them to the owner, and also arrested the negro and Hines -- for the Felony -- The negro was tried before the examining Court and sent on for further trial, and as Hines was an important witness for <orgName ref="cwgk:O001025">the Commonwealth</orgName>, the <hi rend="str">examining Court</hi>deputy Marshall, took his bond with <persName ref="cwgk:N00002673">R. Enders</persName> &amp; H. Enders as his Security, <hi rend="underline">in a felony</hi> case instead of as witness for <orgName ref="cwgk:O001025">the Commonwealth</orgName> -- They being informed by <persName ref="cwgk:N00004753">Fuller the Deputy Marshall</persName>, that it was a bond to appear as witness and it was not read over to them; The officer had blank bonds, and the parties signed the blanks without reading- The negro before court, together with other negroes, broke jail and run off from the state, and at the <date when="1863-10">October Term 1863</date>, through some oversight, the bond<pb/>
 <lb/>of Hines &amp; Enders as Security was taken as forfeited, a copy of said bond and order of court, are filed herewith -- </p>
-<p>Now Your petitioner Hines, Says that he is <hi rend="underline">Seventy Nine years</hi> old, and has resided in this County since its formation, and has always sustained an irreproachable reputation, that he was not charged or suspected with a felony that the foregoing facts are true, That the Deputy Marshall told him he would notify him, whenever the Circuit Court wanted him as a witness -- He received no notification and never heard of any steps being taken in the case, till after court and a summons Served on him and his Securitis -- That the deputy Marshall had no authority to take such a bond even if your petitioner was guilty, for the Code expressly says all such bonds are to be taken by a Sheriff -- See Criminal Code Sec 79, page 318 Stantons Edition -- </p>
+<p>Now Your petitioner Hines, Says that he is <hi rend="underline">Seventy Nine years</hi> old, and has resided in <placeName ref="cwgk:P00000909">this County</placeName> since its formation, and has always sustained an irreproachable reputation, that he was not charged or suspected with a felony that the foregoing facts are true, That the Deputy Marshall told him he would notify him, whenever <orgName ref="cwgk:O00000429">the Circuit Court</orgName> wanted him as a witness -- He received no notification and never heard of any steps being taken in the case, till after court and a summons Served on him and his Securitis -- That the deputy Marshall had no authority to take such a bond even if your petitioner was guilty, for the Code expressly says all such bonds are to be taken by a Sheriff -- See Criminal Code Sec 79, page 318 Stantons Edition -- </p>
 <p>Wherefore Your petitioners pray<pb/>
 <lb/>that your Excellency remit the amount of said forefeited recognizance -- </p>
 <p>Your petitioners would further state, that Hines has a large family, including grandchildren dependent on him for support, as the father of his grandchildren is now in the U. S. Army, and it is as much as he can do, in his old age and limited means to make a Support -- They <hi rend="underline">earnestly</hi> and<hi rend="underline"> imploringly</hi> ask your clemency -- </p>
