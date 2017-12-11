@@ -50,8 +50,8 @@
                       Blanche Levi
                         (Louisville, Kentucky)
                     </persName>
-                      <birth when="c1861-11"></birth>
-                      <death when="1863-02"></death>
+                        <event type="birth"  when="1861-11"  certainty="medium" ><ab>c1861-11</ab></event>
+                        <event type="death"  when="1863-02"  ><ab>1863-02</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-004-0131.</p>
+        <ab><bibl>KYR-0001-004-0131.
 </bibl></ab>
     </back>
 </text>
