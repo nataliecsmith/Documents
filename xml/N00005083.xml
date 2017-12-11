@@ -46,8 +46,7 @@
                       Caleb Clark Dorroh
                         (Livingston Co. farmer)
                     </persName>
-                      <birth when="1828"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1828"  ><ab>1828</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Livingston County, Division 1, p. 12.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Livingston County, Division 1, p. 12.
 </bibl></ab>
     </back>
 </text>
