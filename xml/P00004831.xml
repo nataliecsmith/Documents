@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00004831">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Gale Edwards, &quot;Wayne County,&quot; in <em>The Kentucky Encyclopedia</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 938-39.</p>
+        <ab><bibl>Gale Edwards, &quot;Wayne County,&quot; in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 938-39.
 </bibl></ab>
     </back>
 </text>
