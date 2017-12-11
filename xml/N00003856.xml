@@ -50,8 +50,8 @@
                       Drury M. Kevil
                         (Princeton, Kentucky, farmer)
                     </persName>
-                      <birth when="1808-12-25"></birth>
-                      <death when="1898-10-18"></death>
+                        <event type="birth"  when="1808-12-25"  ><ab>1808-12-25</ab></event>
+                        <event type="death"  when="1898-10-18"  ><ab>1898-10-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 74; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Caldwell County, Princeton, p. 24; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Caldwell County, Harmony, p. 5; <em>Find A Grave</em>, &quot;Drury M Kevil (1808-1898),&quot; Memorial #124712918, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=124712918 (accessed April 7, 2017); KYR-0001-029-0539.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 1, p. 74; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Caldwell County, Princeton, p. 24; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Caldwell County, Harmony, p. 5; <hi rend=”italic”>Find A Grave</hi>, &quot;Drury M Kevil (1808-1898),&quot; Memorial #124712918, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=124712918 (accessed April 7, 2017); KYR-0001-029-0539.
 </bibl></ab>
     </back>
 </text>
