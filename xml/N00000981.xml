@@ -50,8 +50,8 @@
                       James H. Compton
                         (Hart Co. Clerk)
                     </persName>
-                      <birth when="1840-04-03"></birth>
-                      <death when="1912-10-03"></death>
+                        <event type="birth"  when="1840-04-03"  ><ab>1840-04-03</ab></event>
+                        <event type="death"  when="1912-10-03"  ><ab>1912-10-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,9 +64,9 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Hart, Munfordville, District 2, p. 130. <br>
-<em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Hart, Hammonsville, p. 7-8. <br>
-Kentucky. Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910). Microfilm rolls #994027-994058. Kentucky Department for Libraries and Archives, Frankfort, Kentucky.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hart, Munfordville, District 2, p. 130. <br>
+<hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Hart, Hammonsville, p. 7-8. <br>
+Kentucky. Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910). Microfilm rolls #994027-994058. Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
 </bibl></ab>
     </back>
 </text>
