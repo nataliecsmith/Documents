@@ -50,8 +50,7 @@
                       Hugh W. Tener
                         (Philadelphia, Pennsylvania, bookkeeper and commissioner of deeds)
                     </persName>
-                      <birth when="1825"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1825"  ><ab>1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Pennsylvania, Philadelphia County, Philadelphia, p. 68; &quot;Address to the People of Pennsylvania,&quot; <em>Public Ledger</em> (Philadelphia, Pa.), October 20, 1848, p. 2; &quot;Local Intelligence,&quot; <em>The Philadelphia Inquirer</em> (Philadelphia, Pa.), August 25, 1862, p. 8.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Pennsylvania, Philadelphia County, Philadelphia, p. 68; &quot;Address to the People of Pennsylvania,&quot; <hi rend=”italic”>Public Ledger</hi> (Philadelphia, Pa.), October 20, 1848, p. 2; &quot;Local Intelligence,&quot; <hi rend=”italic”>The Philadelphia Inquirer</hi> (Philadelphia, Pa.), August 25, 1862, p. 8.
 </bibl></ab>
     </back>
 </text>
