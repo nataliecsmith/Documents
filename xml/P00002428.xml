@@ -40,7 +40,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P00002428">
                     <placeName>
                         <location>
@@ -49,7 +49,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Gregory Lewis McNamee and Neil Morgan, &quot;California&quot; in <em>Encyclopedia Britannic</em>, (https://www.britannica.com/place/California-state) (accessed May 25, 2017).</p>
+        <ab><bibl>Gregory Lewis McNamee and Neil Morgan, &quot;California&quot; in <hi rend=”italic”>Encyclopedia Britannic</hi>, (https://www.britannica.com/place/California-state) (accessed May 25, 2017).
 </bibl></ab>
     </back>
 </text>
