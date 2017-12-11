@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0565"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,27 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the Governor of Ky James F. Robinson, At the <date when="1863-07">July term of the Anderson Circuit Court held in 1863</date></p>
-<p>Your petitioner Henry Gee was fined the sum of fifty dollars for the offense of Keeping a tipling house. The circumstances were of such a mitigatin nature under which he was fined that he offers the following names who were Jurors that tried the case, and on hearing prays that your executive clemency maybe extended towards him and the fine be remited.</p>
+   <p>To the Governor of <orgName ref="cwgk:O001025">Ky</orgName> <persName ref="cwgk:N001004">James F. Robinson</persName>, At the July term of the <orgName ref="cwgk:O00000341">Anderson Circuit Court</orgName> held in 1863</p>
+<p>Your petitioner <persName ref="cwgk:N00005202">Henry Gee</persName> was fined the sum of fifty dollars for the offense of Keeping a tipling house. The circumstances were of such a mitigatin nature under which he was fined that he offers the following names who were Jurors that tried the case, and on hearing prays that your executive clemency maybe extended towards him and the fine be remited.</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Jury.
-<lb/>Tho, M, Freeman
-<lb/>J C Betterworth
-<lb/>O, C, Egbert
-<lb/>E. Yeates
-<lb/>John M<hi rend="underline"><hi rend="sup">c</hi></hi>michael
-<lb/>T D Rake
-<lb/>J. J Carter
-<lb/>George Searcy
-<lb/>E. N. Berryman
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> M. Neal
-<lb/>P. A. Spears
-<lb/>B. Roach</p>
+<lb/><persName ref="cwgk:N00005206">Tho. M. Freeman</persName><lb/><persName ref="cwgk:N00005239">J C Betterworth</persName><lb/><persName ref="cwgk:N00003489">O, C, Egbert</persName><lb/><persName ref="cwgk:N00005240">E. Yeates</persName><lb/>John M<hi rend="underline"><hi rend="sup">c</hi></hi>michael
+<lb/><persName ref="cwgk:N00005248">T D Rake</persName><lb/>J. J Carter
+<lb/><persName ref="cwgk:N00005253">George Searcy</persName><lb/><persName ref="cwgk:N00005254">E. N. Berryman</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> M. Neal
+<lb/><persName ref="cwgk:N00005260">P. A. Spear</persName>s<lb/><persName ref="cwgk:N00005261">B. Roach</persName></p>
 <p>I certify that the above names are the Jury that tried the case in the petition mentioned</p>
 <p>C H Fenwick c a c c
 <lb/><cb n="2"/><hi rend="str">Names of the Jury</hi><pb/></p>
-<p><milestone unit="column" n="1"/>J. S. Littlepage Jr
-<lb/>Lawrenceburg
-<lb/>Ky</p>
+<p><milestone unit="column" n="1"/><persName ref="cwgk:N00003487">J. S. Littlepage Jr</persName><lb/><placeName ref="cwgk:P00001867">Lawrenceburg</placeName><lb/>Ky</p>
   </body>
  </text>
 </TEI>
