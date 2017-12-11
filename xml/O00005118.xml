@@ -43,8 +43,7 @@
             <particDesc>
                 <org xml:id="O00005118">
                     <orgName>United States War Department</orgName>
-                      <event type="begun" when="1789">1789</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1789"  ><ab>1789</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Kenneth W. Munden and Henry Putney Beers, <em>The Union: A Guide to the Federal Archives Relating to the Civil War</em> (Washington, D.C.: National Archives and Records Administration, 1962, reprinted 1986), 242-44. L. D. Ingersoll, <em>A History of the War Department of the United States</em> (Washington, D.C.: Francis B. Mohun, 1880). Frank J. Welcher, <em>The Union Army, 1861—1865: Organization and Operations, vol. 1</em>, The Eastern Theatre (Bloomington: Indiana University Press, 1989). Frank J. Welcher, <em>The Union Army, 1861—1865: Organization and Operations</em>, vol. 2, The Western Theatre (Bloomington: Indiana University Press, 1993).</p>
+        <ab><bibl>Kenneth W. Munden and Henry Putney Beers, <hi rend=”italic”>The Union: A Guide to the Federal Archives Relating to the Civil War</hi> (Washington, D.C.: National Archives and Records Administration, 1962, reprinted 1986), 242-44. L. D. Ingersoll, <hi rend=”italic”>A History of the War Department of the United States</hi> (Washington, D.C.: Francis B. Mohun, 1880). Frank J. Welcher, <hi rend=”italic”>The Union Army, 1861—1865: Organization and Operations, vol. 1</hi>, The Eastern Theatre (Bloomington: Indiana University Press, 1989). Frank J. Welcher, <hi rend=”italic”>The Union Army, 1861—1865: Organization and Operations</hi>, vol. 2, The Western Theatre (Bloomington: Indiana University Press, 1993).
 </bibl></ab>
     </back>
 </text>
