@@ -46,8 +46,8 @@
                       Abraham Lincoln
                         (Railsplitter)
                     </persName>
-                      <birth when="1809-02-12"></birth>
-                      <death when="1865-04-15"></death>
+                        <event type="birth"  when="1809-02-12"  ><ab>1809-02-12</ab></event>
+                        <event type="death"  when="1865-04-15"  ><ab>1865-04-15</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>The Papers of Abraham Lincoln, s.v. “Abraham Lincoln Chronology,” http://www.papersofabrahamlincoln.org/resources/abraham-lincoln-chronology (accessed October 24, 2016); Michael Burlingame, Abraham Lincoln: A Life (Baltimore: Johns Hopkins University Press, 2008); David Herbert Donald, Lincoln (New York: Simon &amp; Schuster, 1996); Ronald C. White, Jr., A. Lincoln: A Biography (New York: Random House, Inc., 2009).</p>
+        <ab><bibl>The Papers of Abraham Lincoln, s.v. “Abraham Lincoln Chronology,” http://www.papersofabrahamlincoln.org/resources/abraham-lincoln-chronology (accessed October 24, 2016); Michael Burlingame, Abraham Lincoln: A Life (Baltimore: Johns Hopkins University Press, 2008); David Herbert Donald, Lincoln (New York: Simon &amp; Schuster, 1996); Ronald C. White, Jr., A. Lincoln: A Biography (New York: Random House, Inc., 2009).
 </bibl></ab>
     </back>
 </text>
