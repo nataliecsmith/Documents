@@ -50,8 +50,8 @@
                        John Fowler Leavy
                         (Frankfort atto &amp; postal agent)
                     </persName>
-                      <birth when="1815-12-08"></birth>
-                      <death when="1891-05-05"></death>
+                        <event type="birth"  when="1815-12-08"  ><ab>1815-12-08</ab></event>
+                        <event type="death"  when="1891-05-05"  ><ab>1891-05-05</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>A Catalogue of The Officers and Students of Transylvania University</em> (Lexington: J. G. Norwood, 1830), 14. <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Franklin County, District 2, p. 110. <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Franklin County, District 2, p. 880. Louisville <em>Morning Courier</em>, May 3, 1849, p. 1. Louisville <em>Daily Courier</em>, June 16, 1851, p. 2; September 15, 1851, p. 2; May 31, 1853, p. 3; January 5, 1854, p. 2. Louisville <em>Courier-Journal</em>, September 5, 1897, p. A8. <em>Find A Grave</em>, &quot;John Fowler Leavy (1815 - 1891),&quot; Memorial #38440418, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=38440418 (accessed May 18, 2017).</p>
+        <ab><bibl><hi rend=”italic”>A Catalogue of The Officers and Students of Transylvania University</hi> (Lexington: J. G. Norwood, 1830), 14. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Franklin County, District 2, p. 110. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Franklin County, District 2, p. 880. Louisville <hi rend=”italic”>Morning Courier</hi>, May 3, 1849, p. 1. Louisville <hi rend=”italic”>Daily Courier</hi>, June 16, 1851, p. 2; September 15, 1851, p. 2; May 31, 1853, p. 3; January 5, 1854, p. 2. Louisville <hi rend=”italic”>Courier-Journal</hi>, September 5, 1897, p. A8. <hi rend=”italic”>Find A Grave</hi>, &quot;John Fowler Leavy (1815 - 1891),&quot; Memorial #38440418, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=38440418 (accessed May 18, 2017).
 </bibl></ab>
     </back>
 </text>
