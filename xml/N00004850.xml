@@ -46,8 +46,8 @@
                       David Cloyd James
                         (Union Circuit Court clerk)
                     </persName>
-                      <birth when="1828-12-21"></birth>
-                      <death when="1915-01-18"></death>
+                        <event type="birth"  when="1828-12-21"  ><ab>1828-12-21</ab></event>
+                        <event type="death"  when="1915-01-18"  ><ab>1915-01-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Find A Grave</em>, &quot;David C. James (1828-1915),&quot; Memorial # 06628135, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=106628135&amp;ref=acom (accessed April 28, 2017). <em>History of Union County, Kentucky</em>, (Evansville, IN: Courier Co., Printers, Binders, and Engravers, 1886), 470-472.</p>
+        <ab><bibl><hi rend=”italic”>Find A Grave</hi>, &quot;David C. James (1828-1915),&quot; Memorial # 06628135, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=106628135&amp;ref=acom (accessed April 28, 2017). <hi rend=”italic”>History of Union County, Kentucky</hi>, (Evansville, IN: Courier Co., Printers, Binders, and Engravers, 1886), 470-472.
 </bibl></ab>
     </back>
 </text>
