@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0547"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,32 +71,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency James F. Robinson, Governor of Kentucky,</p>
-<p>The undersigned respectfully represent that at the present term of the Bracken Circuit Court, Thomas A. Ressess and Isaac Nelson, having been indicted for consenting to act, and having acted as seconds in a duel fought in said County, appeared in court and without subjecting the Commonwealth to the expense and trouble of a trial, <hi rend="str"><unclear/></hi>acknowledged the truth of the allegations against them, and were fined the sum of &#36;150 each, The other parties indicted for the same offense were not found by the Shff, and have not appeared in court, Both the gentlemen <hi rend="str">d</hi>reserve the forbearance and clemency of your excellency, and we respectfully ask that you will remit so much of their fines as you have authority to do under the law, and <hi rend="str">With the highest respect</hi> also the penalty of disfranchisement imposed by the statute in such cases, We are well satisfied that the parties for whom we invoke this act of clemency are gentlemen who will well appreciate your kind interposition.</p>
+   <p>To his Excellency <persName ref="cwgk:N001004">James F. Robinson</persName>, Governor of <orgName ref="cwgk:O001025">Kentucky</orgName>,</p>
+<p>The undersigned respectfully represent that at the present term of the <orgName ref="cwgk:O00000347">Bracken Circuit Court</orgName>, <persName ref="cwgk:N00005743">Thomas A. Ressess</persName> and <persName ref="cwgk:N00006559">Isaac Nelson</persName>, having been indicted for consenting to act, and having acted as seconds in a duel fought in said <placeName ref="cwgk:P00000319">County</placeName>, appeared in court and without subjecting the Commonwealth to the expense and trouble of a trial, <hi rend="str"><unclear/></hi>acknowledged the truth of the allegations against them, and were fined the sum of $150 each, The other parties indicted for the same offense were not found by the Shff, and have not appeared in court, Both the gentlemen <hi rend="str">d</hi>reserve the forbearance and clemency of your excellency, and we respectfully ask that you will remit so much of their fines as you have authority to do under the law, and <hi rend="str">With the highest respect</hi> also the penalty of disfranchisement imposed by the statute in such cases, We are well satisfied that the parties for whom we invoke this act of clemency are gentlemen who will well appreciate your kind interposition.</p>
 <p>With the highest regard &amp;c
-<lb/>Brooksville, Ky, <date when="1863-08-26">Aug 26 1863</date>,
+<lb/><placeName ref="cwgk:P00004716">Brooksville, Ky</placeName>, <date when="1863-08-26">Aug 26 1863</date>,
 <lb/><hi rend="underline">Thorton. F. Marshall</hi></p>
-<p><milestone unit="column" n="3"/><cb n="1"/>E. C. Phister
-<lb/>Jn<hi rend="sup">o</hi> M Duke
-<lb/>L C Pearce
-<lb/>H F Pearce
-<lb/>Thos. M. Green
-<lb/><cb n="2"/>N. C. Mayhall -- 
-<lb/>J G Hickman
-<lb/><cb n="3"/>R, B, Carpenter
-<lb/><hi rend="underline">H, Taylor</hi>
-<lb/>B. G. Willis
-<lb/><hi rend="underline">John N Furber</hi>
-<lb/>C, H, Lee
+<p><milestone unit="column" n="3"/><cb n="1"/><persName ref="cwgk:N00005415">E. C. Phister</persName><lb/>Jn<hi rend="sup">o</hi> M Duke
+<lb/><persName ref="cwgk:N00003913">L C Pearce</persName><lb/><persName ref="cwgk:N00006579">H F Pearce</persName><lb/>Thos. M. Green
+<lb/><cb n="2"/><persName ref="cwgk:N00006582">N. C. Mayhall</persName> -- <lb/><persName ref="cwgk:N00006583">J G Hickman</persName><lb/><cb n="3"/><persName ref="cwgk:N00005226">R, B, Carpenter</persName><lb/>
+<persName ref="cwgk:N00006586">H. Taylor</persName><lb/><persName ref="cwgk:N00006584">B. G. Willis</persName><lb/>
+<persName ref="cwgk:N00006587">John N Furber</persName><lb/>C, H, Lee
 <lb/>Rich<hi rend="underline"><hi rend="sup">d</hi></hi> J, Hughey
-<lb/>W. A. Doniphan-<pb/></p>
+<lb/><persName ref="cwgk:N00006592">W. A. Doniphan</persName>-<pb/></p>
 <p><milestone unit="column" n="1"/><date when="1863-09-05">Sept 5<hi rend="sup">th </hi>1863</date>
 <lb/>Remit all except Costs &amp;c.
-<lb/>Tho E Bramlette</p>
+<lb/><persName ref="cwgk:N001000">Tho E Bramlette</persName></p>
 <p>Bracken Cir Court
 <lb/>vs
 <lb/>Nelson &amp; Ressess
-<lb/>&#36;150. each
+<lb/>$150. each
 <lb/>Remitted <date when="1863-09-05">5<hi rend="sup">th</hi> Sept 1863</date></p>
   </body>
  </text>
