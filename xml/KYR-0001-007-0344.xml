@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-007-0344"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Owensboro Ky
-<lb/><date when="1865-01-04">Jany 4<hi rend="sup">th</hi> 1865</date>
+   <p>Owensboro <orgName ref="cwgk:O001025">Ky</orgName><lb/><date when="1865-01-04">Jany 4<hi rend="sup">th</hi> 1865</date>
 <lb/>Tho<hi rend="sup">s</hi> E Bramlette
-<lb/>Governor of Ky</p>
-<p>Dr Sir-: Enclosed I send you a petition signed by some of the most responsible &amp; best Citizens of our County the object of which is Set forth in the petition -- I can say to you that M<hi rend="sup">r</hi> I P Washburn will answer the purpose he is an aged man and has filed more important positions than the one he applies for now -- Among the Signatures to his peitition you will find that of Jessee Moore Post Master of our town -- W. S. M<hi rend="sup">c</hi>Farland County atty. and Ray &amp; Hardin attys of some reputation I mention this for the reason that since M<hi rend="sup">r</hi> Washburn has applied one A. G. Botts has written you on the subject and annother appointment</p>
+<lb/>Governor of <orgName ref="cwgk:O001025">Ky</orgName></p>
+<p>Dr Sir-: Enclosed I send you a petition signed by some of the most responsible &amp; best Citizens of our County the object of which is Set forth in the petition -- I can say to you that M<hi rend="sup">r</hi> <persName ref="cwgk:N00004904">I P Washburn</persName> will answer the purpose he is an aged man and has filed more important positions than the one he applies for now -- Among the Signatures to his peitition you will find that of Jessee Moore Post Master of our town -- W. S. M<hi rend="sup">c</hi>Farland County atty. and Ray &amp; Hardin attys of some reputation I mention this for the reason that since M<hi rend="sup">r</hi> Washburn has applied one <persName ref="cwgk:N00004899">A. G. Botts</persName> has written you on the subject and annother appointment</p>
 <p>Very Respectifully
 <lb/><hi rend="underline">Geo. W. Swoope</hi></p>
   </body>
