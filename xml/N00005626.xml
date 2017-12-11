@@ -46,8 +46,6 @@
                       William H. Dungan
                         (Jefferson County Notary Public)
                     </persName>
-                      <birth when="unknown"></birth>
-                      <death when="unknown"></death>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>KYR-0001-007-0327</p>
+        <ab><bibl>KYR-0001-007-0327
 </bibl></ab>
     </back>
 </text>
