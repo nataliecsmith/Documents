@@ -43,8 +43,7 @@
             <particDesc>
                 <org xml:id="O00005577">
                     <orgName>Milwaukee Circuit Court</orgName>
-                      <event type="begun" when="1848-05-29">1848-05-29</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1848-05-29"  ><ab>1848-05-29</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Constitution of the State of Wisconsin, Adopted in Convention, at Madison, on the first day of February, in the year Our Lord one thousand eight hundred and forty-eight</em> (Wisconsin: Beriah Brown, Printer, 1848) , p. 10, (http://content.wisconsinhistory.org/cdm/ref/collection/tp/id/71777) (accessed on May 9, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Constitution of the State of Wisconsin, Adopted in Convention, at Madison, on the first day of February, in the year Our Lord one thousand eight hundred and forty-eight</hi> (Wisconsin: Beriah Brown, Printer, 1848) , p. 10, (http://content.wisconsinhistory.org/cdm/ref/collection/tp/id/71777) (accessed on May 9, 2017).
 </bibl></ab>
     </back>
 </text>
