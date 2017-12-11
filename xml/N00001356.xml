@@ -46,8 +46,8 @@
                       Thomas P. Hays
                         (Ballard County, Kentucky, politician)
                     </persName>
-                      <birth when="1829-08-13"></birth>
-                      <death when="1896-09-23"></death>
+                        <event type="birth"  when="1829-08-13"  ><ab>1829-08-13</ab></event>
+                        <event type="death"  when="1896-09-23"  ><ab>1896-09-23</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Ballard County, Corporation of Milburn, p. 495A. Lewis Collins, <em>Collins’ Historical Sketches of Kentucky. History of Kentucky</em> (Covington: Collins &amp; Co., 1874), 39. &quot;Kentucky Legislature,&quot; <em>Daily Commonwealth</em> (Frankfort, Ky.), December 11, 1863, p. 2. <em>Find A Grave</em>, &quot;Thomas Pease Hays (1829-1896),&quot; Memorial #126136823, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=126136823&amp;ref=acom (accessed September 21, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, Corporation of Milburn, p. 495A. Lewis Collins, <hi rend=”italic”>Collins’ Historical Sketches of Kentucky. History of Kentucky</hi> (Covington: Collins &amp; Co., 1874), 39. &quot;Kentucky Legislature,&quot; <hi rend=”italic”>Daily Commonwealth</hi> (Frankfort, Ky.), December 11, 1863, p. 2. <hi rend=”italic”>Find A Grave</hi>, &quot;Thomas Pease Hays (1829-1896),&quot; Memorial #126136823, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=126136823&amp;ref=acom (accessed September 21, 2017).
 </bibl></ab>
     </back>
 </text>
