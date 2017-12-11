@@ -46,8 +46,8 @@
                       Almanzor Allen
                         (spencer county farmer)
                     </persName>
-                      <birth when="1821-11-14"></birth>
-                      <death when="1899-07-31"></death>
+                        <event type="birth"  when="1821-11-14"  ><ab>1821-11-14</ab></event>
+                        <event type="death"  when="1899-07-31"  ><ab>1899-07-31</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Kentucky Marriages, 1785-1979,&quot; database, <em>FamilySearch</em>, https://familysearch.org/ark:/61903/1:1:FW1G-XWB (accessed September 8, 2017); <em>Tenth Manuscript Census of the United States</em> (1880), Population Schedules, Kentucky, Spencer County, Taylorsville, 180th Enumeration District, p. 516; <em>Find A Grave</em>, &quot;Almanzor Allen (1821 - 1899),&quot; Memorial #42881282, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=42881282 (accessed September 8, 2017).</p>
+        <ab><bibl>&quot;Kentucky Marriages, 1785-1979,&quot; database, <hi rend=”italic”>FamilySearch</hi>, https://familysearch.org/ark:/61903/1:1:FW1G-XWB (accessed September 8, 2017); <hi rend=”italic”>Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kentucky, Spencer County, Taylorsville, 180th Enumeration District, p. 516; <hi rend=”italic”>Find A Grave</hi>, &quot;Almanzor Allen (1821 - 1899),&quot; Memorial #42881282, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=42881282 (accessed September 8, 2017).
 </bibl></ab>
     </back>
 </text>
