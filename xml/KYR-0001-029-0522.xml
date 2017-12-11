@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0522"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,43 +71,34 @@
  </teiHeader>
  <text>
   <body>
-   <p>We the undersigned Citizens of the City of Louisville, State of Kentucky would most respectfully unite with Moses &amp; Fanny Block, in their petition to your Excellency to remit their fine<hi rend="str">d</hi> imposed <date when="1863-07-06">July <hi rend="str">4</hi>6<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>; and would further state that the exercise of executive clemency towards them would be, as we believe proper and right.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>L. Bamberger
-<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> Kniephaber</hi>
-<lb/>M. Bach
-<lb/>Sam'l Lieberman
+   <p>We the undersigned Citizens of <orgName ref="cwgk:O001028">the City of Louisville</orgName>, <orgName ref="cwgk:O001025">State of Kentucky</orgName> would most respectfully unite with <persName ref="cwgk:N00007370">Moses</persName> &amp; Fanny Block, in their petition to<persName ref="cwgk:N001004"> your Excellency</persName> to remit their fine<hi rend="str">d</hi> imposed <date when="1863-07-06">July <hi rend="str">4</hi>6<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>; and would further state that the exercise of executive clemency towards them would be, as we believe proper and right.</p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00007372">L. Bamberger
+</persName><lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> Kniephaber</hi>
+<lb/><persName ref="cwgk:N00007374">M. Bach</persName><lb/>Sam'l Lieberman
 <lb/><hi rend="underline">S. G. Henry &amp; C</hi><hi rend="underline"><hi rend="sup">o</hi></hi><hi rend="underline">
-<lb/></hi>T Anderson &amp; Co
-<lb/><hi rend="underline">James S. Phelps
+<lb/></hi><orgName ref="cwgk:O00007389">T Anderson &amp; Co</orgName><lb/><hi rend="underline">James S. Phelps
 <lb/></hi><cb n="2"/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Mix
 <lb/>L. <hi rend="underline">Kahn</hi>
-<lb/>S. Ullman
-<lb/>H. Keisker
-<lb/>B. Hess
-<lb/>M H Richardson
-<lb/>Alex. owens</p>
+<lb/><persName ref="cwgk:N00007378">S. Ullman</persName><lb/><persName ref="cwgk:N00007379">H. Keisker</persName><lb/><persName ref="cwgk:N00007380">B. Hess</persName><lb/><persName ref="cwgk:N00004481">M H Richardson</persName><lb/>Alex. owens</p>
 <p><milestone unit="column" n="1"/>I have known Mr. M. Block for Eleven years, and during all that time he has born the reputation of a peace-loving, charitable gentleman. For a number of years he held offices of trust and honor in my Congregation, and has discharged them to his credit. Being <hi rend="str"><unclear/></hi>, as I confidently believe, his first error, I add willilngly my name to aid the petitioners.</p>
-<p>B. H. Gotthelf
-<lb/>Minister of the Jew. Congreg.</p>
+<p><persName ref="cwgk:N00007393">B. H. Gotthelf</persName><lb/>Minister of <orgName ref="cwgk:O00007392">the Jew. Congreg.</orgName></p>
 <p><milestone unit="column" n="2"/><cb n="1"/><hi rend="underline">Hughes &amp; Parkhill</hi>
 <lb/>N R Levin &amp; C<unclear/>
-<lb/>J P Buckner,
-<lb/>Prather, &amp;, Smith
-<lb/><cb n="2"/><hi rend="underline">Nathan Bloom</hi>
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Skene
+<lb/><persName ref="cwgk:N00007383">J P Buckner</persName>,<lb/><orgName ref="cwgk:O00007390">Prather, &amp;, Smith</orgName><lb/><cb n="2"/>
+<persName ref="cwgk:N00007384">Nathan Bloom</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Skene
 <lb/>Edw<hi rend="sup">d</hi> Fuller
-<lb/>John Christopher<pb/>
+<lb/><persName ref="cwgk:N00007387">John Christopher</persName><pb/>
 <lb/><milestone unit="column" n="1"/>F. H. Hegan
 <lb/><unclear/> <hi rend="underline">Barkhouse &amp; Co</hi>
 <lb/>L <unclear/>, C, Hopkins
 <lb/><hi rend="underline">Hart &amp; Co</hi>
 <lb/>J. van Borries &amp; C<hi rend="sup">o</hi>
 <lb/>Jno Colemann<pb/></p>
-<p>Louisville City Ct</p>
+<p><orgName ref="cwgk:O001838">Louisville City Ct</orgName></p>
 <p>The fine of Fifty dollars agst Fanny Block is remitted-- One half of the fine against her husband is remitted</p>
 <p><hi rend="underline">J F Robinson</hi></p>
-<p>&#36;100
-<lb/>&#36;50 &#125; Assault
+<p>$100
+<lb/>$50 } Assault
 <lb/>Iss <date when="1863-08-05">Aug 5. 1863</date></p>
   </body>
  </text>
