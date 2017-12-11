@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0029"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,19 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Warren Equity &amp; Criminal Court <date when="1863-08">August Term 1863</date>
-<lb/>The Commonwealth of Kenty
-<lb/>Against
-<lb/>Alanson Trigg
-<lb/>Indictment for a Misdemeanor</p>
-<p>This day came the attorney for the Commonwealth and the defendant by this attorney who plead not guilty and thereupon came the following Jury to wit. G A Kirby James F Ewing, Calvin A Garrison Joseph Fallen S S Johnson Robert Graham Henry Vance H B Elrod W<hi rend="sup">m</hi> Davenport W<hi rend="sup">m</hi> H Kinnard V K Hines and H J Neighbors who were elected tried and sworn and having heard the evidence returned the following verdict to wit -- We of the Jury find the defendant A Trigg guilty of permitting each of his Slaves Jerry and Beverly to go at large and hire themselves out for their own benefit as charged in this Indictment -- C A Garrison Foreman -- It is therefore adjudged by the Court that the defendant make his fine to the Commonwealth by the payment of Eighty Dollars and the cost herein and may be taken &amp;c.</p>
-<p>A Copy Test L L Cooke C W E &amp; C C
-<lb/><stamp type="revenue"/><note place="stamp">L L C
+   <p>State of <placeName ref="cwgk:P001800">Kentucky</placeName><lb/><orgName ref="cwgk:O00000585">Warren Equity &amp; Criminal Court</orgName> <date when="1863-08">August Term 1863</date>
+<lb/>The <orgName ref="cwgk:O001025">Commonwealth of Kenty
+</orgName><lb/>Against
+<lb/><persName ref="cwgk:N00004889">Alanson Trigg
+</persName><lb/>Indictment for a Misdemeanor</p>
+<p>This day came the <persName ref="cwgk:N00005301">attorney for the Commonwealth</persName> and the defendant by this attorney who plead not guilty and thereupon came the following Jury to wit. <persName ref="cwgk:N00004891">G A Kirby</persName> <persName ref="cwgk:N00004892">James F Ewing</persName>, <persName ref="cwgk:N00004928">Calvin A Garrison</persName> Joseph Fallen S S Johnson <persName ref="cwgk:N00004931">Robert Graham</persName> <persName ref="cwgk:N00004932">Henry Vance</persName><persName ref="cwgk:N00004933"> H B Elrod</persName> W<hi rend="sup">m</hi> Davenport W<hi rend="sup">m</hi> H Kinnard <persName ref="cwgk:N00004937">V K Hines</persName> and <persName ref="cwgk:N00004938">H J Neighbors</persName> who were elected tried and sworn and having heard the evidence returned the following verdict to wit -- We of the Jury find the defendant A Trigg guilty of permitting each of his Slaves <persName ref="cwgk:N00004940">Jerry</persName> and <persName ref="cwgk:N00004941">Beverly</persName> to go at large and hire themselves out for their own benefit as charged in this Indictment -- C A Garrison Foreman -- It is therefore adjudged by the Court that the defendant make his fine to the Commonwealth by the payment of Eighty Dollars and the cost herein and may be taken &amp;c.</p>
+<p>A Copy Test <persName ref="cwgk:N00004890">L L Cooke</persName> C W E &amp; C C<lb/><stamp type="revenue"/><note place="stamp">L L C
 <lb/><date when="1863-10-05">5<hi rend="sup">th</hi> Oct
 <lb/>1863</date></note><pb/></p>
 <p>Comwlth
-<lb/>vs &#125; Copy Judgt
+<lb/>vs } Copy Judgt
 <lb/>A Trigg
 <lb/>A Copy for Deft</p>
   </body>
