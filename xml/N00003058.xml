@@ -46,8 +46,8 @@
                       John &quot;Jack&quot; Dawson
                         (Nelson County farmer and slaveholder)
                     </persName>
-                      <birth when="1825-12-24"></birth>
-                      <death when="1906"></death>
+                        <event type="birth"  when="1825-12-24"  ><ab>1825-12-24</ab></event>
+                        <event type="death"  when="1906"  ><ab>1906</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <em>Kentucky: A History of the State, Fourth Edition</em> (Louisville and Chicago: F. A. Battey and Company, 1887), 837-38.</p>
+        <ab><bibl>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State, Fourth Edition</hi> (Louisville and Chicago: F. A. Battey and Company, 1887), 837-38.
 </bibl></ab>
     </back>
 </text>
