@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00000845">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Humphrey Marshall</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00000845">
+                    <persName>
+                      Humphrey Marshall
+                        (Confederate Gen. &amp; Rep.)
+                    </persName>
+                        <event type="birth"  when="1812-01-13"  ><ab>1812-01-13</ab></event>
+                        <event type="death"  when="1872-03-28"  ><ab>1872-03-28</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>A Kentucky soldier, attorney, farmer, and politician. Appointed to and graduated from the United States Military Academy at West Point in 1832. Resigned from the army in 1833. Studied law and admitted to the bar in 1833. Practiced law in Frankfort, Kentucky from 1833 to 1834 and in Louisville, Kentucky from 1834 to 1846. Elected and served on the Louisville City Council. Served in the Kentucky State Militia. Served as a colonel of Volunteers in the First Kentucky Cavalry in the Mexican War. Engaged in agriculture business in Henry County, Kentucky. Married to Frances McAlister Marshall. Father of Nelly Nichol Marshall McAfee. Served the Seventh Congressional District of Kentucky as an Whig Party member of the United States House of Representative from 1849 to 1852 and again as an American “Know Nothing” Party member from 1855 to 1859. Served a minister to China from 1852 to 1854. Canvassed for John C. Breckinridge in the 1860 presidential election. Served as a brigadier general in the Confederate State Army during the Civil War from 1861 to 1863, resigning on two occasions. Moved to Richmond, Virginia to continue his law practice. Served the Eighth Congressional District as a member of the Second Confederate Congress in the House of Representatives from 1864 to 1865. Moved to New Orleans, Louisiana.</p>
+
+    </body>
+    <back>
+        <ab><bibl>Ezra J. Warner and W. Buck Yearns, <hi rend=”italic”>Biographical Register of the Confederate Congress</hi> (Baton Rouge: Louisiana State University Press, 1975), 167-168; <hi rend=”italic”>Biographical Directory of the United States Congress</hi>, s.v. “Marshall, Humphrey,” (http://bioguide.congress.gov/scripts/biodisplay.pl?index=S000894) (accessed January 18, 2017); Lewis Collins and Richard Collins, <hi rend=”italic”>History of Kentucky</hi>, vol. 1 (Collins &amp; Company, 1882), 353; <hi rend=”italic”>The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 648; Charles Lanman, <hi rend=”italic”>Biographical Annals of the Civil Government of the United States</hi> (Washington: J. M. Morrison, 1887), 319; “Marshall, Humphrey,” <hi rend=”italic”>The Kentucky Encyclopedia</hi>, ed. John E. Kleber (Lexington: University Press of Kentucky, 1992), 610; “Humphrey Marshall,” (http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=8930) (accessed January 18, 2017); “Humphrey Marshall,” <hi rend=”italic”>Courier-Journal</hi> (Louisville, Ky.), March 29, 1872.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
