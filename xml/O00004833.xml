@@ -47,8 +47,8 @@
             <particDesc>
                 <org xml:id="O00004833">
                     <orgName>Hunter &amp; Bruce</orgName>
-                      <event type="begun" when="1855">1855</event>
-                      <event type="ended" when="1869">1869</event>
+                        <event type="begun"  when="1855"  ><ab>1855</ab></event>
+                        <event type="ended"  when="1869"  ><ab>1869</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Williams&#39; Lexington City Directory for 1864-5</em> (Lexington, Ky.: Williams &amp; Co., 1864), p. 33, 60. William Henry Perrin, ed., *History of Fayette County, Kentucky (Chicago, IL: O. L. Baskin &amp; Co., 1882), p. 564-65. KYR-0001-029-0556.</p>
+        <ab><bibl><hi rend=”italic”>Williams&#39; Lexington City Directory for 1864-5</hi> (Lexington, Ky.: Williams &amp; Co., 1864), p. 33, 60. William Henry Perrin, ed., *History of Fayette County, Kentucky (Chicago, IL: O. L. Baskin &amp; Co., 1882), p. 564-65. KYR-0001-029-0556.
 </bibl></ab>
     </back>
 </text>
