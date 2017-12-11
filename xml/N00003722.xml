@@ -46,8 +46,8 @@
                       John Tuell
                         (Henderson, Kentucky, bricklayer)
                     </persName>
-                      <birth when="c1829"></birth>
-                      <death when="1864-12"></death>
+                        <event type="birth"  when="1829"  certainty="medium" ><ab>c1829</ab></event>
+                        <event type="death"  when="1864-12"  ><ab>1864-12</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Henderson County, Division 1, p. 10; <em>Kentucky Birth, Marriage, and Death Records, 1852-1910</em>, Ancestry, Marriages, Hardin County, Kentucky, December 19, 1854; <em>Consolidated Lists of Civil War Draft Registrations, 1863-1865</em>, Ancestry, Kentucky, Congressional District 2, Henderson County, Kentucky, 1863, p. 276; <em>Find A Grave</em>, &quot;John Tuell (1829-1864),&quot; Memorial #85255530, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=85255530&amp;ref=acom (accessed July 31, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Henderson County, Division 1, p. 10; <hi rend=”italic”>Kentucky Birth, Marriage, and Death Records, 1852-1910</hi>, Ancestry, Marriages, Hardin County, Kentucky, December 19, 1854; <hi rend=”italic”>Consolidated Lists of Civil War Draft Registrations, 1863-1865</hi>, Ancestry, Kentucky, Congressional District 2, Henderson County, Kentucky, 1863, p. 276; <hi rend=”italic”>Find A Grave</hi>, &quot;John Tuell (1829-1864),&quot; Memorial #85255530, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=85255530&amp;ref=acom (accessed July 31, 2017).
 </bibl></ab>
     </back>
 </text>
