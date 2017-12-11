@@ -46,8 +46,7 @@
                       Thomas J. Nichols
                         (Lexington, Kentucky, clerk and deputy sheriff)
                     </persName>
-                      <birth when="c1838"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1838"  certainty="medium" ><ab>c1838</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Fayette County, Lexington, Ward 3, p. 112. KYR-0001-029-0556.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, Lexington, Ward 3, p. 112. KYR-0001-029-0556.
 </bibl></ab>
     </back>
 </text>
