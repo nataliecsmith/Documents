@@ -43,8 +43,7 @@
             <particDesc>
                 <org xml:id="O00003470">
                     <orgName>Frankfort Police Court</orgName>
-                      <event type="begun" when="1839">1839</event>
-                      <event type="ended" when="unknown">unknown</event>
+                        <event type="begun"  when="1839"  ><ab>1839</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;An Act to reduce into one the several acts in relation to the town of Frankfort, and for other purposes,&quot; approved February 16, 1839, <em>Acts of the General Assembly of the Commonwealth of Kentucky</em>, (Frankfort, Ky.: 1839), 188-89.</p>
+        <ab><bibl>&quot;An Act to reduce into one the several acts in relation to the town of Frankfort, and for other purposes,&quot; approved February 16, 1839, <hi rend=”italic”>Acts of the General Assembly of the Commonwealth of Kentucky</hi>, (Frankfort, Ky.: 1839), 188-89.
 </bibl></ab>
     </back>
 </text>
