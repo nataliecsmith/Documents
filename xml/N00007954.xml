@@ -46,8 +46,7 @@
                       G. Fields
                         (Marshall County)
                     </persName>
-                      <birth when="c1846"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1846"  certainty="medium" ><ab>c1846</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marshall County, Unnamed District, p. 106.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, Unnamed District, p. 106.
 </bibl></ab>
     </back>
 </text>
