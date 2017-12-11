@@ -54,8 +54,8 @@
                       Charles C. Eaves
                         (Greenville and Henderson attorney)
                     </persName>
-                      <birth when="1825-01-20"></birth>
-                      <death when="1905-08-17"></death>
+                        <event type="birth"  when="1825-01-20"  ><ab>1825-01-20</ab></event>
+                        <event type="death"  when="1905-08-17"  ><ab>1905-08-17</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +68,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Otto A. Rothert, <em>A History of Muhlenberg County</em> (Louisville, KY: John P. Morton and Company, 1913), p. 242-244. John Livingston, <em>Livingston’s United States Law Register, and Official Directory</em> (New York: John A. Gray, 1859), p. 304. Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Muhlenberg County, District 1, p. 222. Jordan Dodd, <em>Kentucky Marriages, 1802-1850</em>, Muhlenberg County, 1852. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Muhlenberg County, Greenville, District 2, p. 42. <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Henderson County, Henderson, Ward 3, p. 28. <em>Twelfth Manuscript Census of the United States (1900)</em>, Population Schedules, Kentucky, Muhlenberg County, Greenville City, ED 70. </p>
+        <ab><bibl>Otto A. Rothert, <hi rend=”italic”>A History of Muhlenberg County</hi> (Louisville, KY: John P. Morton and Company, 1913), p. 242-244. John Livingston, <hi rend=”italic”>Livingston’s United States Law Register, and Official Directory</hi> (New York: John A. Gray, 1859), p. 304. Seventh Manuscript Census of the United States (1850), Population Schedules, Kentucky, Muhlenberg County, District 1, p. 222. Jordan Dodd, <hi rend=”italic”>Kentucky Marriages, 1802-1850</hi>, Muhlenberg County, 1852. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Muhlenberg County, Greenville, District 2, p. 42. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Henderson County, Henderson, Ward 3, p. 28. <hi rend=”italic”>Twelfth Manuscript Census of the United States (1900)</hi>, Population Schedules, Kentucky, Muhlenberg County, Greenville City, ED 70. 
 </bibl></ab>
     </back>
 </text>
