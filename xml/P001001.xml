@@ -44,7 +44,7 @@
                     <term type="type">Place</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="P001001">
                     <placeName>
                         <location>
@@ -53,7 +53,7 @@
                         </location>
                     </placeName>
                 </place> 
-            </particDesc>    
+            </settingDesc>    
         </profileDesc>
     </teiHeader>
     <text>
@@ -62,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Paul H. Bergeron, Stephen V. Ash, and Jeanette Keith, <em>Tennesseans and Their History</em> (Knoxville: University of Tennessee Press, 1999), 69.</p>
+        <ab><bibl>Paul H. Bergeron, Stephen V. Ash, and Jeanette Keith, <hi rend=”italic”>Tennesseans and Their History</hi> (Knoxville: University of Tennessee Press, 1999), 69.
 </bibl></ab>
     </back>
 </text>
