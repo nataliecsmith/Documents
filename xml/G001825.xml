@@ -40,11 +40,11 @@
                     <term type="type">Geographical Feature</term>
                 </keywords>
             </textClass>
-            <particDesc>
+            <settingDesc>
                 <place xml:id="G001825">
                     <geogName>Ohio River</geogName>
                 </place>
-            </particDesc>
+            </settingDesc>
         </profileDesc>
     </teiHeader>
      <text>
@@ -53,7 +53,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Charles E. Parrish, &quot;Ohio River&quot; in <em>The Kentucky Encyclopedia</em>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 690-92.</p>
+        <ab><bibl>Charles E. Parrish, &quot;Ohio River&quot; in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 690-92.
 </bibl></ab>
     </back>
 </text>
