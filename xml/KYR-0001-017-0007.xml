@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0007"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,15 +73,14 @@
   <body>
    <p>Hodgnville Ky. <date when="1860-10-04">Oct 4 1860</date>
 <lb/>His Excellency
-<lb/>Gov. Magoffin
-<lb/>Dear sir</p>
-<p>Their is a vacancy now in this the 1<hi rend="underline"><hi rend="sup">st</hi></hi> <hi rend="str">the</hi> <hi rend="str"><unclear/></hi>Justices district of Magistrate ^for Larue Conty^ occasioned by the resignation of Lewis Read Esqr, and the citizens of this town and district ^desire^ that one be appointed who lives in the town of Hodgnville and in looking round for the purpose of ascertaining who would best suit the people and give general Satisfaction, we have come to the conclusion that our townsman George W Brownfield is the man, and we therefore solicit his appoitmt Mr. Brownfield is and always has been a good and constant Democrat and is well calculatd to fill the office, his appoitmt will confer a lasting favor on your friends</p>
-<p>W B Read
-<lb/>W, H, Hamilton
-<lb/>A M Jones
-<lb/>H S Johnson
-<lb/>I, F. Cessna P. J L C
-<lb/>William Robertson<pb/></p>
+<lb/><persName ref="cwgk:N00000258">Gov. Magoffin</persName><lb/>Dear sir</p>
+<p>Their is a vacancy now in this the 1<hi rend="underline"><hi rend="sup">st</hi></hi> <hi rend="str">the</hi> <hi rend="str"><unclear/></hi>Justices district of Magistrate ^for <placeName ref="cwgk:P00001718">Larue Cont</placeName>y^ occasioned by the resignation of <persName ref="cwgk:N00001716">Lewis Read Esq</persName>r, and the citizens of this town and district ^desire^ that one be appointed who lives in the town of Hodgnville and in looking round for the purpose of ascertaining who would best suit the people and give general Satisfaction, we have come to the conclusion that our townsman <persName ref="cwgk:N00001717">George W Brownfield</persName> is the man, and we therefore solicit his appoitmt Mr. Brownfield is and always has been a good and constant Democrat and is well calculatd to fill the office, his appoitmt will confer a lasting favor on your friends</p>
+<p><persName ref="cwgk:N00001719">W B Read
+</persName><lb/>W, H, Hamilton
+<lb/><persName ref="cwgk:N00001721">A M Jones
+</persName><lb/><persName ref="cwgk:N00001722">H S Johnson
+</persName><lb/>I, F. Cessna P. J L C
+<lb/><persName ref="cwgk:N00001724">William Robertson</persName><pb/></p>
 <p>Larue Co.<figure type="hr"/>
 <lb/>J P.
 <lb/>G. W. Brownfield
