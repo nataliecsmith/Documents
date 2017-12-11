@@ -47,8 +47,8 @@
             <particDesc>
                 <org xml:id="O001006">
                     <orgName>Baird &amp; Price</orgName>
-                      <event type="begun" when="c1860">c1860</event>
-                      <event type="ended" when="c1878">c1878</event>
+                        <event type="begun"  when="1860"  certainty="medium" ><ab>c1860</ab></event>
+                        <event type="ended"  when="1878"  certainty="medium" ><ab>c1878</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Edwards&#39; Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, Business firms, Etc., Etc., in the City of Louisville, For 1865-6</em> (Louisville: Edwards, Greenough &amp; Deved, 1866), 196. John Petrie, “Noted Characters Memorable to Louisville: Jonathan Hobson Price,” Louisville <em>Courier-Journal</em>, March 19, 1916, C1.</p>
+        <ab><bibl><hi rend=”italic”>Edwards&#39; Annual Director to the Inhabitants, Institutions, Incorporated Companies, Manufacturing Establishments, Business firms, Etc., Etc., in the City of Louisville, For 1865-6</hi> (Louisville: Edwards, Greenough &amp; Deved, 1866), 196. John Petrie, “Noted Characters Memorable to Louisville: Jonathan Hobson Price,” Louisville <hi rend=”italic”>Courier-Journal</hi>, March 19, 1916, C1.
 </bibl></ab>
     </back>
 </text>
