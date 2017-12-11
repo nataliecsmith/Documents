@@ -43,8 +43,8 @@
             <particDesc>
                 <org xml:id="O00006826">
                     <orgName>Second Bank of Kentucky</orgName>
-                      <event type="begun" when="1835-04-29">1835-04-29</event>
-                      <event type="ended" when="1865-03-13">1865-03-13</event>
+                        <event type="begun"  when="1835-04-29"  ><ab>1835-04-29</ab></event>
+                        <event type="ended"  when="1865-03-13"  ><ab>1865-03-13</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +55,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Lexington History Museum, &quot;Bank of Kentucky (Second),&quot; (http://lexhistory.org/wikilex/bank-kentucky-second) (accessed June 2, 2017); William M. Ambrose, &quot;First Security National Bank &amp; Trust Company 1835-1992,&quot; (Lexington: Limestone Press, 2007).</p>
+        <ab><bibl>Lexington History Museum, &quot;Bank of Kentucky (Second),&quot; (http://lexhistory.org/wikilex/bank-kentucky-second) (accessed June 2, 2017); William M. Ambrose, &quot;First Security National Bank &amp; Trust Company 1835-1992,&quot; (Lexington: Limestone Press, 2007).
 </bibl></ab>
     </back>
 </text>
