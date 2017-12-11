@@ -46,8 +46,8 @@
                       A. T. Sims
                         (Marshall County)
                     </persName>
-                      <birth when="1834-05-10"></birth>
-                      <death when="1909-08-30"></death>
+                        <event type="birth"  when="1834-05-10"  ><ab>1834-05-10</ab></event>
+                        <event type="death"  when="1909-08-30"  ><ab>1909-08-30</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Marshall County, Briensburg post office, p. 91; <em>Find A Grave</em>, &quot;A. T. Sims (1834 - 1909),&quot; Memorial #67238780, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=67238780 (accessed November 1, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, Briensburg post office, p. 91; <hi rend=”italic”>Find A Grave</hi>, &quot;A. T. Sims (1834 - 1909),&quot; Memorial #67238780, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=67238780 (accessed November 1, 2017).
 </bibl></ab>
     </back>
 </text>
