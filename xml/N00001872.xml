@@ -46,8 +46,8 @@
                       Augustin Louis Haggard
                         (Clark Co. Judge)
                     </persName>
-                      <birth when="1820-01-03"></birth>
-                      <death when="1895-12-20"></death>
+                        <event type="birth"  when="1820-01-03"  ><ab>1820-01-03</ab></event>
+                        <event type="death"  when="1895-12-20"  ><ab>1895-12-20</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Clark County, District No. 2, p. 53; <em>Winchester Democrat</em>, Dec. 24, 1895; Kathryn Owen, <em>Old Graveyards in Clark County, Kentucky</em> (New Orleans: Polyanthos), 57.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Clark County, District No. 2, p. 53; <hi rend=”italic”>Winchester Democrat</hi>, Dec. 24, 1895; Kathryn Owen, <hi rend=”italic”>Old Graveyards in Clark County, Kentucky</hi> (New Orleans: Polyanthos), 57.
 </bibl></ab>
     </back>
 </text>
