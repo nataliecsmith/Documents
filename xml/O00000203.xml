@@ -39,8 +39,8 @@
             <particDesc>
                 <org xml:id="O00000203">
                     <orgName>Captial Hotel</orgName>
-                      <event type="begun" when="1853">1853</event>
-                      <event type="ended" when="1917">1917</event>
+                        <event type="begun"  when="1853"  ><ab>1853</ab></event>
+                        <event type="ended"  when="1917"  ><ab>1917</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -51,7 +51,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Nettie Henry Glenn, <em>Early Frankfort Kentucky, 1786-1861</em> (n.p., 1986), 213-19; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Franklin County, Frankfort District No. 1, p. 113.</p>
+        <ab><bibl>Nettie Henry Glenn, <hi rend=”italic”>Early Frankfort Kentucky, 1786-1861</hi> (n.p., 1986), 213-19; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort District No. 1, p. 113.
 </bibl></ab>
     </back>
 </text>
