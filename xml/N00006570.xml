@@ -46,8 +46,7 @@
                       Stephen Stone
                         (Mercer County, Kentucky, farmer)
                     </persName>
-                      <birth when="c1795"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1795"  certainty="medium" ><ab>c1795</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Mercer County, District 1, p. 245; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Mercer County, District No. 1; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 1; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Mercer County, Precinct 5, p. 514; Elizabeth Prather Ellsberry, comp., <em>Marriage Records of Mercer County, Kentucky Volume II 1800-15</em> (Chillicothe, MO: Elizabeth Prather Ellsberry, c1965);  Yates Publishing, <em>U.S. and International Marriage Records, 1560-1900</em>, Ancestry, source no. 1772.000, 1827.</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Mercer County, District 1, p. 245; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Mercer County, District No. 1; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mercer County, Harrodsburg, p. 1; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mercer County, Precinct 5, p. 514; Elizabeth Prather Ellsberry, comp., <hi rend=”italic”>Marriage Records of Mercer County, Kentucky Volume II 1800-15</hi> (Chillicothe, MO: Elizabeth Prather Ellsberry, c1965);  Yates Publishing, <hi rend=”italic”>U.S. and International Marriage Records, 1560-1900</hi>, Ancestry, source no. 1772.000, 1827.
 </bibl></ab>
     </back>
 </text>
