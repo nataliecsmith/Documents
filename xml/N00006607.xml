@@ -46,8 +46,8 @@
                       Winford Green Bailey
                         (Lincoln County, Kentucky, politician and county judge)
                     </persName>
-                      <birth when="1803-03-16"></birth>
-                      <death when="1883-04-19"></death>
+                        <event type="birth"  when="1803-03-16"  ><ab>1803-03-16</ab></event>
+                        <event type="death"  when="1883-04-19"  ><ab>1883-04-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>&quot;Deaths: Judge Winfred G. Baily,&quot; <em>Semi-weekly Interior Journal (Stanford, Ky.), April 20, 1883, p. 3; Lewis Collins and Richard H. Collins, _History of Kentucky</em>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1878), 468; <em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky, Lincoln County, District No. 2, p. 302B; <em>Seventh Manuscript Census of the United States</em> (1850), Slave Schedules, Kentucky, Lincoln County, District No. 2; <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Lincoln County, Stanford, p. 5; <em>Eighth Manuscript Census of the United States</em> (1860), Slave Schedules, Kentucky, Lincoln County, Stanford, p. 2; <em>Find A Grave</em>, &quot;Winford Green Bailey (1803-1883),&quot; Memorial #32023772, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=32023772 (accessed May 26, 2017); Folklife Archives, Manuscripts &amp; Folklife Archives, &quot;Bailey, Winford Green, 1803-1883 (SC 2243)&quot; (2010). <em>MSS Finding Aids.</em> Paper 1287 (http://digitalcommons.wku.edu/dlsc<em>mss</em>fin_aid/1287).</p>
+        <ab><bibl>&quot;Deaths: Judge Winfred G. Baily,&quot; <hi rend=”italic”>Semi-weekly Interior Journal (Stanford, Ky.), April 20, 1883, p. 3; Lewis Collins and Richard H. Collins, _History of Kentucky</hi>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1878), 468; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lincoln County, District No. 2, p. 302B; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Lincoln County, District No. 2; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lincoln County, Stanford, p. 5; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Lincoln County, Stanford, p. 2; <hi rend=”italic”>Find A Grave</hi>, &quot;Winford Green Bailey (1803-1883),&quot; Memorial #32023772, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=32023772 (accessed May 26, 2017); Folklife Archives, Manuscripts &amp; Folklife Archives, &quot;Bailey, Winford Green, 1803-1883 (SC 2243)&quot; (2010). <hi rend=”italic”>MSS Finding Aids.</hi> Paper 1287 (http://digitalcommons.wku.edu/dlsc<hi rend=”italic”>mss</hi>fin_aid/1287).
 </bibl></ab>
     </back>
 </text>
