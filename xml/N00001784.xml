@@ -46,8 +46,7 @@
                       James F. Overton
                         (Meade Co. Ky)
                     </persName>
-                      <birth when="1831-06-24"></birth>
-                      <death when="unknown"></death>
+                        <event type="birth"  when="1831-06-24"  ><ab>1831-06-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><p>Smith, Hicks &amp; Jones, <em>Personnel of the Texas State Government, with Sketches of Distinguished Texans, Embracing the Executive and Staff, Heads of the Departments, United States Senators and Representatives, Members of the Twenty-first Legislature</em> (Austin: Smith Hicks and Jones, 1889), 241-243. <em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Meade County, Unknown District, p. 115. _Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Tennessee, NARA RG 109, Microfilm Series M268, Roll 0013.</p>
+        <ab><bibl>Smith, Hicks &amp; Jones, <hi rend=”italic”>Personnel of the Texas State Government, with Sketches of Distinguished Texans, Embracing the Executive and Staff, Heads of the Departments, United States Senators and Representatives, Members of the Twenty-first Legislature</hi> (Austin: Smith Hicks and Jones, 1889), 241-243. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Meade County, Unknown District, p. 115. _Compiled Service Records of Confederate Soldiers who Served in Organizations from the State of Tennessee, NARA RG 109, Microfilm Series M268, Roll 0013.
 </bibl></ab>
     </back>
 </text>
