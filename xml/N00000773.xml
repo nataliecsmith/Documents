@@ -46,8 +46,8 @@
                       Collis Ormsby
                         (Louisville merchant)
                     </persName>
-                      <birth when="1817"></birth>
-                      <death when="1891"></death>
+                        <event type="birth"  when="1817"  ><ab>1817</ab></event>
+                        <event type="death"  when="1891"  ><ab>1891</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States (1860)</em>, Population Schedules, Kentucky, Jefferson County, Louisville, Fifth Ward, p. 208. <em>Ninth Manuscript Census of the United States (1870)</em>, Population Schedules, Kentucky, Jefferson County, Louisville, District 2, p. 33. <em>Tanner’s Louisville Directory, and Business Advertiser for 1861</em> (Louisville: Henry Tanner, 1861), 189. <em>Louisville Daily Journal</em>, Jun. 22, 1861, p. 1.</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Jefferson County, Louisville, Fifth Ward, p. 208. <hi rend=”italic”>Ninth Manuscript Census of the United States (1870)</hi>, Population Schedules, Kentucky, Jefferson County, Louisville, District 2, p. 33. <hi rend=”italic”>Tanner’s Louisville Directory, and Business Advertiser for 1861</hi> (Louisville: Henry Tanner, 1861), 189. <hi rend=”italic”>Louisville Daily Journal</hi>, Jun. 22, 1861, p. 1.
 </bibl></ab>
     </back>
 </text>
