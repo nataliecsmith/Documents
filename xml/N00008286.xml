@@ -50,8 +50,8 @@
                       Russell Knight Thornberry
                         (Webster Co.)
                     </persName>
-                      <birth when="1809-02-02"></birth>
-                      <death when="1900-06-24"></death>
+                        <event type="birth"  when="1809-02-02"  ><ab>1809-02-02</ab></event>
+                        <event type="death"  when="1900-06-24"  ><ab>1900-06-24</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,8 +64,8 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Seventh Manuscript Census of the United States</em> (1850), Population Schedules, Kentucky,<br>
- Henderson County, District 2. <em>Internal Revenue Assessment Lists for Kentucky, 1862-1866</em>, NARA RG 58, Microfilm Series M768, Roll 2. <em>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</em>. Microfilm rolls #994027-994058. Kentucky Department for Libraries and Archives, Frankfort, Kentucky. <em>Find A Grave</em>, &quot;Russell Knight Thornberry (1809-1900),&quot; Memorial #86691957, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86691957 (accessed August, 23, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky,<br>
+ Henderson County, District 2. <hi rend=”italic”>Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi>, NARA RG 58, Microfilm Series M768, Roll 2. <hi rend=”italic”>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>. Microfilm rolls #994027-994058. Kentucky Department for Libraries and Archives, Frankfort, Kentucky. <hi rend=”italic”>Find A Grave</hi>, &quot;Russell Knight Thornberry (1809-1900),&quot; Memorial #86691957, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=86691957 (accessed August, 23, 2017).
 </bibl></ab>
     </back>
 </text>
