@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0001"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,7 +71,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Tho<hi rend="sup">s</hi>. E. Bramlette Governor of the Commonwealth of Kentucky -- Your Petitioners Cal Underwood &amp; W<hi rend="underline"><hi rend="sup">m</hi></hi> Sproul respectfully state, that they were indicted by the Grand Jury of Taylor County at a former term of the Court for a Breach of the Peace upon the testimony of Lewis Bell and his wife, and at the <date when="1863-09">September Term 1863</date> Inst. upon a trial of the case, they were fined Ten dollars each. Your petitioners state that the verdict of the Jury was wholly unexpected to them, as they were concious of having been guilty of no breach of the Peace, nor was any such thing intended. Nor could it rationally be construed into a breach of the Peace on the part of said Underwood &amp; Sproul. The proof in the case was simply, that Underwood &amp; Sproul stoped at the house of said Bell, on their way home from the camp at Campbellsville where they had been to visit sons and neighbor boys who were in the army. and having imbibed a little freely, they felt funny good natured and frolicsome. having some of the ardent along with them, they asked Bell to drink out of their bottle, which he did, they then gave all of their children a drink, and last offered the old lady some, and she having become offendid at some remarks that had been made about her sons who were in the Confederate army. struck the bottle with violence knocking it out of Sprouls hand, and spilling some of the liquor in her own face and breaking the bottle. No one was mad on the<pb/>
+   <p>To his Excellency Tho<hi rend="sup">s</hi>. E. Bramlette Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> -- Your Petitioners <persName ref="cwgk:N00000512">Cal Underwood</persName> &amp; W<hi rend="underline"><hi rend="sup">m</hi></hi> Sproul respectfully state, that they were indicted by the Grand Jury of <placeName ref="cwgk:P00000681">Taylor County</placeName> at a former term of the Court for a Breach of the Peace upon the testimony of <persName ref="cwgk:N00000504">Lewis Bell</persName> and his wife, and at the <date when="1863-09">September Term 1863</date> Inst. upon a trial of the case, they were fined Ten dollars each. Your petitioners state that the verdict of the Jury was wholly unexpected to them, as they were concious of having been guilty of no breach of the Peace, nor was any such thing intended. Nor could it rationally be construed into a breach of the Peace on the part of said Underwood &amp; Sproul. The proof in the case was simply, that Underwood &amp; Sproul stoped at the house of said Bell, on their way home from the camp at <placeName ref="cwgk:P00000507">Campbellsville</placeName> where they had been to visit sons and neighbor boys who were in the army. and having imbibed a little freely, they felt funny good natured and frolicsome. having some of the ardent along with them, they asked Bell to drink out of their bottle, which he did, they then gave all of their children a drink, and last offered the old lady some, and she having become offendid at some remarks that had been made about her sons who were in the <orgName ref="cwgk:O00000506">Confederate army</orgName>. struck the bottle with violence knocking it out of Sprouls hand, and spilling some of the liquor in her own face and breaking the bottle. No one was mad on the<pb/>
 <lb/>occasion but M<hi rend="underline"><hi rend="sup">rs</hi></hi> Bell. she ordered your petitioners Underwood &amp; Sproul out of the house, and they immediately obeyed, and went out. she closed the door on them, then took a gun from the rack, and shot through the door at them but they were gone. there was no proof that your peititioners Sproul &amp; Underwood did or said any thing in anger, or intended harm or wrong in any respect. May it therefore please your Excellency the premises considered to remit the fines aforesaid, and as in duty bound they will ever pray &amp;c.</p>
 <p>C,, Underwood
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Sprowls</p>
