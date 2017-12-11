@@ -54,8 +54,8 @@
                       Richard William Masterson
                         (Carroll County, Kentucky, attorney)
                     </persName>
-                      <birth when="1817-03-14"></birth>
-                      <death when="1904-12-30"></death>
+                        <event type="birth"  when="1817-03-14"  ><ab>1817-03-14</ab></event>
+                        <event type="death"  when="1904-12-30"  ><ab>1904-12-30</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -68,7 +68,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedule, Kentucky, Carroll County, Carrollton, p. 14; &quot;Appointments by the Governor,&quot; <em>The Louisville Daily Courier</em> (Louisville, Ky.), September 20, 1848, p. 1; <em>Find A Grave</em>, &quot;Richard William Masterson (1817-1904),&quot; Memorial #31723382, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=31723382&amp;ref=acom (accessed March 10, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Carroll County, Carrollton, p. 14; &quot;Appointments by the Governor,&quot; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), September 20, 1848, p. 1; <hi rend=”italic”>Find A Grave</hi>, &quot;Richard William Masterson (1817-1904),&quot; Memorial #31723382, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=31723382&amp;ref=acom (accessed March 10, 2017).
 </bibl></ab>
     </back>
 </text>
