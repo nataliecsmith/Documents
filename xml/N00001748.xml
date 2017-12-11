@@ -50,8 +50,8 @@
                       Napoleon Bonapart Cheatham
                         (Cumberland County, Kentucky, county clerk)
                     </persName>
-                      <birth when="1817-04-16"></birth>
-                      <death when="1903-06-01"></death>
+                        <event type="birth"  when="1817-04-16"  ><ab>1817-04-16</ab></event>
+                        <event type="death"  when="1903-06-01"  ><ab>1903-06-01</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><p><em>Eighth Manuscript Census of the United States</em> (1860), Population Schedules, Kentucky, Cumberland County, Town of Burkesville District No. 1, p. 73; <em>Ninth Manuscript Census of the United States</em> (1870), Population Schedules, Kentucky, Barren County, Glasgow, p. 18; <em>Find A Grave</em>, &quot;Napoleon Bonapart Cheatham&quot; (1817-1903),&quot; Memorial #91315962, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=91315962&amp;ref=acom (accessed March 31, 2017).</p>
+        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Cumberland County, Town of Burkesville District No. 1, p. 73; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Barren County, Glasgow, p. 18; <hi rend=”italic”>Find A Grave</hi>, &quot;Napoleon Bonapart Cheatham&quot; (1817-1903),&quot; Memorial #91315962, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=91315962&amp;ref=acom (accessed March 31, 2017).
 </bibl></ab>
     </back>
 </text>
