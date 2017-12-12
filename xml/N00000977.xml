@@ -10,10 +10,6 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
           </respStmt>
           <respStmt>
@@ -54,8 +50,8 @@
                       William Fontaine Bullock
                         (Louisville attorney &amp; judge)
                     </persName>
-                          <birth when="1807-01-16"><ab>1807-01-16</ab></birth>
-                        <death when="1889-08-09"><ab>1889-08-09</ab></death>
+                        <event type="birth"  when="1807-01-16"  ><ab>1807-01-16</ab></event>
+                        <event type="death"  when="1889-08-09"  ><ab>1889-08-09</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,11 +60,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky, attorney. Fayette County, Kentucky, native. Son of Edmund Bullock and Elizabeth Fontaine Bullock. Married to Mary Bullock. Father of William F. Bullock, Jr., Pearce Bullock, Henry P. Bullock, and Wallace Bullock. Graduated from Transylvania University in Lexington, Kentucky, in 1824. Began practicing law in Louisville in 1828. Member of the House of Representatives of the Commonwealth of Kentucky from Louisville from 1838 to 1841. Trustee of the Kentucky School for the Blind. Appointed circuit judge of the Fifth Judicial District of Kentucky in 1846. Attorney in Louisville in 1860. Owned two enslaved people in Louisville in 1860. Employed Bridget Flanigan as a servant in Louisville in 1860.</p>
+        <p>Louisville, Kentucky, attorney. Fayette County, Kentucky, native. Son of Edmund Bullock and Elizabeth Fontaine Bullock. Graduated from Transylvania University in Lexington, Kentucky, in 1824. Married to Mary Bullock. Father of William F. Bullock, Jr., Pearce Bullock, Henry P. Bullock, and Wallace Bullock. Began practicing law in Louisville in 1828. Member of the House of Representatives of the Commonwealth of Kentucky from Louisville from 1838 to 1841. Trustee of the Kentucky School for the Blind. Appointed circuit judge of the Fifth Judicial District of Kentucky in 1846. Attorney in Louisville in 1860. Owned two enslaved people in Louisville in 1860. Employed Bridget Flanigan as a servant in Louisville in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Sixth Ward, p. 30; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Jefferson County, Louisville, Sixth Ward, p. 2; W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi>, 8th ed. (Louisville and Chicago: F. A. Battey and Company, 1888), 753-56; <hi rend=”italic”>Find A Grave</hi>, &quot;Judge William Fontaine Bullock (1807-1889),&quot; Memorial #92046669, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=92046669&amp;ref=acom (accessed June, 29, 2017).
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Sixth Ward, p. 30; <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Jefferson County, Louisville, Sixth Ward, p. 2; W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend="italic">Kentucky: A History of the State</hi>, 8th ed. (Louisville and Chicago: F. A. Battey and Company, 1888), 753-56; <hi rend="italic">Find A Grave</hi>, &quot;Judge William Fontaine Bullock (1807-1889),&quot; Memorial #92046669, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=92046669&amp;ref=acom (accessed June, 29, 2017).
 </bibl></ab>
     </back>
 </text>
