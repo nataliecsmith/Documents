@@ -50,7 +50,7 @@
                       Isaac P. Washburn
                         (Daviess County, Kentucky, soldier and editor)
                     </persName>
-                        <event type="birth"  when="1803"  certainty="medium" ><ab>c1803</ab></event>
+                        <event type="birth"  when="1803"  cert="medium" ><ab>c1803</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Daviess County, Kentucky, soldier and editor. Kentucky native. Married to Eliza J. Washburn. Second lieutenant in the 4th Kentucky Infantry Regiment during the Mexican-American War. Editor of the <hi rend=”italic”>Owensboro Democrat</hi> in Owensboro in 1860.</p>
+        <p>Daviess County, Kentucky, soldier and editor. Kentucky native. Married to Eliza J. Washburn. Second lieutenant in the 4th Kentucky Infantry Regiment during the Mexican-American War. Editor of the <hi rend="italic">Owensboro Democrat</hi> in Owensboro in 1860.</p>
 
     </body>
     <back>
