@@ -44,7 +44,7 @@
                 <org xml:id="O00001133">
                     <orgName>Kentucky Institute for the Feeble Minded</orgName>
                         <event type="begun"  when="1860-02-11"  ><ab>1860-02-11</ab></event>
-                        <event type="ended"  when="1972"  certainty="medium" ><ab>c1972</ab></event>
+                        <event type="ended"  when="1972"  cert="medium" ><ab>c1972</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
