@@ -46,8 +46,8 @@
                       Henry Holdship
                         (Pittsburgh, Pennsylvania, clerk and commissioner of deeds)
                     </persName>
-                        <event type="birth"  when="1825"  certainty="medium" ><ab>c1825</ab></event>
-                        <event type="death"  when="1897"  certainty="medium" ><ab>c1897</ab></event>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
+                        <event type="death"  when="1897"  cert="medium" ><ab>c1897</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
