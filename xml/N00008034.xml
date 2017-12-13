@@ -42,7 +42,7 @@
                       John N. Norton
                         (Frankfort, Kentucky, minister, professor, and author)
                     </persName>
-                        <event type="birth"  when="1820"  certainty="medium" ><ab>c1820</ab></event>
+                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
                         <event type="death"  when="1881-01-18"  ><ab>1881-01-18</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -52,7 +52,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Frankfort, Kentucky, minister, professor, and author. Virginia native. Married to Mary L. Norton. Attended Hobart College in New York. Assistant rector of the Episcopal Church in Rochester, New York from 1844 to 1846. Relocated to Frankfort in 1847. Founding rector of the Episcopal Church of the Ascension in Frankfort, serving from 1847 to 1870. Owned five enslaved persons in 1860. Professor at Dr. Lloyd&#39;s English School and the Kentucky Military Institute. Author of many books of theology and history, including <hi rend=”italic”>The Boy who was Trained Up to be a Clergyman</hi>, <hi rend=”italic”>Life of General Washington</hi>, <hi rend=”italic”>Life of Doctor Franklin</hi>, and many sermons and biographies of prominent Episcopal bishops.</p>
+        <p>Frankfort, Kentucky, minister, professor, and author. Virginia native. Married to Mary L. Norton. Attended Hobart College in New York. Assistant rector of the Episcopal Church in Rochester, New York from 1844 to 1846. Relocated to Frankfort in 1847. Founding rector of the Episcopal Church of the Ascension in Frankfort, serving from 1847 to 1870. Owned five enslaved persons in 1860. Professor at Dr. Lloyd&#39;s English School and the Kentucky Military Institute. Author of many books of theology and history, including <hi rend="italic">The Boy who was Trained Up to be a Clergyman</hi>, <hi rend="italic">Life of General Washington</hi>, <hi rend="italic">Life of Doctor Franklin</hi>, and many sermons and biographies of prominent Episcopal bishops.</p>
 
     </body>
     <back>
