@@ -46,7 +46,7 @@
                       Lewis Martin Jr.
                         (Princeton, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1789"  certainty="medium" ><ab>c1789</ab></event>
+                        <event type="birth"  when="1789"  cert="medium" ><ab>c1789</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
