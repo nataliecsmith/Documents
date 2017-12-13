@@ -50,8 +50,8 @@
                       Irwin Z. Smith
                         (St. Louis, Missouri, attorney and politician)
                     </persName>
-                        <event type="birth"  when="1826"  certainty="medium" ><ab>c1826</ab></event>
-                        <event type="death"  when="1881"  certainty="medium" ><ab>c1881</ab></event>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <event type="death"  when="1881"  cert="medium" ><ab>c1881</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
