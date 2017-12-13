@@ -46,8 +46,8 @@
                       George W. Orme
                         (Uniontown, Kentucky, saddler)
                     </persName>
-                        <event type="birth"  when="1826"  certainty="medium" ><ab>c1826</ab></event>
-                        <event type="death"  when="1905"  certainty="medium" ><ab>c1905</ab></event>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <event type="death"  when="1905"  cert="medium" ><ab>c1905</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
