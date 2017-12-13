@@ -46,8 +46,8 @@
                       James Snider
                         (Greenup County farmer)
                     </persName>
-                        <event type="birth"  when="1800"  certainty="medium" ><ab>c1800</ab></event>
-                        <event type="death"  when="1880"  certainty="medium" ><ab>c1880</ab></event>
+                        <event type="birth"  when="1800"  cert="medium" ><ab>c1800</ab></event>
+                        <event type="death"  when="1880"  cert="medium" ><ab>c1880</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
