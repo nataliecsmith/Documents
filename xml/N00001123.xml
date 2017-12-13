@@ -54,8 +54,8 @@
                       Samuel Ayers Atchison, Jr.
                         (Louisville Lawyer/Democrat (JR).)
                     </persName>
-                        <event type="birth"  when="1833"  certainty="medium" ><ab>c1833</ab></event>
-                        <event type="death"  when="1880"  certainty="medium" ><ab>c1880</ab></event>
+                        <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
+                        <event type="death"  when="1880"  cert="medium" ><ab>c1880</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
