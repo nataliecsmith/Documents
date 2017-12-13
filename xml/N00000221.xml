@@ -50,8 +50,8 @@
                       James Calvert
                         (Boone County, Kentucky, sheriff and politician)
                     </persName>
-                        <event type="birth"  when="1806"  certainty="medium" ><ab>c1806</ab></event>
-                        <event type="death"  when="1876"  certainty="medium" ><ab>c1876</ab></event>
+                        <event type="birth"  when="1806"  cert="medium" ><ab>c1806</ab></event>
+                        <event type="death"  when="1876"  cert="medium" ><ab>c1876</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
