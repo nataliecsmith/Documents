@@ -46,7 +46,7 @@
                       Harriet Page Marshall
                         (Marshall Co. ky)
                     </persName>
-                        <event type="birth"  when="1816"  certainty="medium" ><ab>c1816</ab></event>
+                        <event type="birth"  when="1816"  cert="medium" ><ab>c1816</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -55,8 +55,8 @@
     </teiHeader>
     <text>
     <body>
-        <p>Marshall County, Kentucky, housewife. Indiana native. Married Jesse D. W. Page. Mother of <br>
-Celia J. Page, Lydia J. Page, Martha Page, Ellen W. Page, Lilbern Page, and Louis A. Page. <br>
+        <p>Marshall County, Kentucky, housewife. Indiana native. Married Jesse D. W. Page. Mother of <lb/>
+Celia J. Page, Lydia J. Page, Martha Page, Ellen W. Page, Lilbern Page, and Louis A. Page. <lb/>
 Married James H. Marshall in Benton, Kentucky, on July 11, 1855. Mother of L. P. C. Marshall and C. M. Marshall. Housewife in Marshall County in 1860.</p>
 
     </body>
