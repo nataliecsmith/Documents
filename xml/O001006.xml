@@ -47,8 +47,8 @@
             <particDesc>
                 <org xml:id="O001006">
                     <orgName>Baird &amp; Price</orgName>
-                        <event type="begun"  when="1860"  certainty="medium" ><ab>c1860</ab></event>
-                        <event type="ended"  when="1878"  certainty="medium" ><ab>c1878</ab></event>
+                        <event type="begun"  when="1860"  cert="medium" ><ab>c1860</ab></event>
+                        <event type="ended"  when="1878"  cert="medium" ><ab>c1878</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
