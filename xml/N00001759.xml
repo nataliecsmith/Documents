@@ -50,8 +50,8 @@
                       Oliver C. Curry 
                         (Kentucky and Indiana merchant, justice of the peace, and attorney)
                     </persName>
-                        <event type="birth"  when="1834"  certainty="medium" ><ab>c1834</ab></event>
-                        <event type="death"  when="1875"  certainty="medium" ><ab>c1875</ab></event>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
+                        <event type="death"  when="1875"  cert="medium" ><ab>c1875</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
