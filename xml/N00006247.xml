@@ -47,7 +47,7 @@
                         (Whitley County, Kentucky, politician)
                     </persName>
                         <event type="birth"  when="1810"  ><ab>1810</ab></event>
-                        <event type="death"  when="1887"  certainty="medium" ><ab>c1887</ab></event>
+                        <event type="death"  when="1887"  cert="medium" ><ab>c1887</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
