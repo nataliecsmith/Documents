@@ -46,7 +46,7 @@
                       Thomas M. Green
                         (Maysville, Kentucky, newspaper editor)
                     </persName>
-                        <event type="birth"  when="1837"  certainty="medium" ><ab>c1837</ab></event>
+                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,7 +55,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Maysville, Kentucky, newspaper editor. Kentucky native. Son of Mary K. Green. Married to Nancy Green. Father of John Green, Bessie Green, and Pearce Green. Editor of <hi rend=”italic”>The Weekly Maysville Eagle</hi> from 1863 to 1876.</p>
+        <p>Maysville, Kentucky, newspaper editor. Kentucky native. Son of Mary K. Green. Married to Nancy Green. Father of John Green, Bessie Green, and Pearce Green. Editor of <hi rend="italic">The Weekly Maysville Eagle</hi> from 1863 to 1876.</p>
 
     </body>
     <back>
