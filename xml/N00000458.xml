@@ -50,7 +50,7 @@
                       Charles W. Roback
                         (Cincinnati, Ohio, physician and medicine manufacturer)
                     </persName>
-                        <event type="birth"  when="1816"  certainty="medium" ><ab>c1816</ab></event>
+                        <event type="birth"  when="1816"  cert="medium" ><ab>c1816</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Cincinnati, Ohio, physician and medicine manufacturer. Native of Sweden. Married to Mary H. Roback. Author of <hi rend=”italic”>The Mysteries of Astrology, and the Wonders of Magic</hi> in 1854. Published <hi rend=”italic”>Dr. Roback’s Scandinavian Almanac</hi> from 1855 to 1860. Owner of The Scandinavian Remedies in Cincinnati.</p>
+        <p>Cincinnati, Ohio, physician and medicine manufacturer. Native of Sweden. Married to Mary H. Roback. Author of <hi rend="italic">The Mysteries of Astrology, and the Wonders of Magic</hi> in 1854. Published <hi rend="italic">Dr. Roback’s Scandinavian Almanac</hi> from 1855 to 1860. Owner of The Scandinavian Remedies in Cincinnati.</p>
 
     </body>
     <back>
