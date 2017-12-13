@@ -50,7 +50,7 @@
                       John Smith Gavitt
                         (Evansville Indiana)
                     </persName>
-                        <event type="birth"  when="1826"  certainty="medium" ><ab>c1826</ab></event>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
                         <event type="death"  when="1861-10-21"  ><ab>1861-10-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
