@@ -51,7 +51,7 @@
                         (California/New York Life Insurance Agent)
                     </persName>
                         <event type="birth"  when="1838-01-08"  ><ab>1838-01-08</ab></event>
-                        <event type="death"  when="1889"  certainty="medium" ><ab>c1889</ab></event>
+                        <event type="death"  when="1889"  cert="medium" ><ab>c1889</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
