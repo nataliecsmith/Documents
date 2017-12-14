@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-003-0068"> 
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title level="a" type="main">E. H. Hopper et al. to Thomas E. Bramlette</title>
+    <title level="a" type="parallel">CWG1585</title>
+    <respStmt>
+     <resp n="transcriber">Transcribed by:</resp>
+     <name>Whitney R Smith</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_1">Single Proof by:</resp>
+     <name>Elizabeth J Van Allen</name>
+    </respStmt>
+    <respStmt>
+     <resp n="encoding">Markup by:</resp>
+     <name>Anthony P Curtis</name>
+    </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proofing by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>Kentucky Historical Society</publisher>
+    <pubPlace>Frankfort, Kentucky</pubPlace>
+    <availability>
+     <p>This image and transcription is publicly accessible. The image appears courtesy of the repository named in the Source Description. The transcription and annotation were undertaken by Kentucky Historical Society staff, volunteers, and interns. If referencing this document title, accession number, and permanent URL.</p>
+    </availability>
+   </publicationStmt>
+   <seriesStmt>
+    <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+     <title level="s" type="sub">Annotated Digital Documentary Edition</title> <!-- Need to change because will have EA stage docs in Omeka alongside annotated ones. We'll have to map this to a new metadata category and search facet so users can know which ones are annotated and which aren't. -->
+    <respStmt>
+     <resp>Project Director</resp>
+     <name>Patrick A. Lewis</name>
+    </respStmt>
+   </seriesStmt>
+   <sourceDesc>
+    <msDesc>
+    <msIdentifier>
+      <country>UNITED STATES</country>
+      <region>KY</region>
+      <settlement>Frankfort</settlement>
+      <repository>Kentucky Department for Libraries and Archives</repository>
+      <collection>Office of the Governor, Thomas E. Bramlette: Governor's Official Correspondence File, Military Correspondence, 1863-1867</collection>
+      <idno>BR5-106</idno>
+     </msIdentifier>
+    </msDesc>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+   <creation>
+    <placeName>Hopkinsville, Christian County, Kentucky</placeName>
+    <date when="1864-01-23">23 January 1864</date>
+   </creation>
+   <textClass>
+    <keywords>
+     <term type="genre">Petition</term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  <body>
+   <p><!-- Change 1.0 2017-01-27 PAL -->Hopkinsville Ky <lb/><date when="1864-01-23">Januy 23<hi rend="sup">rd</hi> 1864</date>
+    <lb/>To his Excellency <lb/>Gov Bramlette</p>
+<p>The undersigned loyal citizens of Christian County who have always been and expect ever to be for putting down the rebellion represent, That our County is suffering evils ruinous to our Citizens and incalculable in their consequences Some time since two of our Citizens were sent to represent to Your Excellency the serious losses of our Citizens from slaves leaving &amp; going to Clarksville &amp; Fort Donelson, No relief has been obtained but the evil is rapidly on the increase. Some of our largest farmers &amp; best citizens (loyal men) are losing all except the helpless ones. In a word our County is ruined if the evil is not stopped.</p>
+<p>Ruin drives to desperation, Shall we take the law in our own hands? or can the Executive of our state do any thing to arrest the evil We feel that loyalty &amp; protection Should be inseperable &amp; hope his authority will be used for our relief,</p>
+<p><milestone unit="column" n="2"/><cb n="1"/>E. H Hopper <lb/>A. Palmer <lb/>G B
+    Long <lb/>P, W, Dryden <lb/>J F Ellis <lb/>John M Gowan <lb/>R. S. M<hi rend="sup"
+    >c</hi>Reynolds <lb/>A V Long <lb/>John. C. Durrett <lb/>Lucien Jones <lb/>E. L Foulks --
+     <lb/><cb n="2"/>James F Buckner <lb/><hi rend="underline">E R Cook</hi>
+    <lb/>A. Wallace <lb/>James Casky <lb/>Cha<hi rend="sup">s</hi> M<hi rend="sup">c</hi>Kee <lb/>T
+    L Starling <lb/>W B Jones <lb/>Rich<hi rend="underline"><hi rend="sup">d</hi></hi> Durrett
+    <lb/>Geo. Poindexter <lb/>V. W. Crabb <lb/>H. J. Wyatt <lb/>Saml B Younghorse <lb/>D, J,
+    Hooser</p>
+  </body>
+ </text>
+</TEI>
