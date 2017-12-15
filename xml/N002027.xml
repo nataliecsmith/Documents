@@ -46,7 +46,7 @@
                       John G. Enlow
                         (Louisville policeman)
                     </persName>
-                        <event type="birth"  when="1818"  certainty="medium" ><ab>c1818</ab></event>
+                        <event type="birth"  when="1818"  cert="medium" ><ab>c1818</ab></event>
                         <event type="death"  when="1897-07-01"  ><ab>1897-07-01</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population/ Schedules, Kentucky, Jefferson County, Louisville, 4th District, 7th Ward, stamped p. 364. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 9, p. 20. <hi rend=”italic”>Vital Statistics Original Death Certificates – Microfilm</hi> (1911-1964). Microfilm rolls #7016130-7041803. Kentucky Department for Libraries and Archives, Frankfort, Kentucky. Henry Tanner, ed., <hi rend=”italic”>Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 323.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population/ Schedules, Kentucky, Jefferson County, Louisville, 4th District, 7th Ward, stamped p. 364. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 9, p. 20. <hi rend="italic">Vital Statistics Original Death Certificates – Microfilm</hi> (1911-1964). Microfilm rolls #7016130-7041803. Kentucky Department for Libraries and Archives, Frankfort, Kentucky. Henry Tanner, ed., <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 323.
 </bibl></ab>
     </back>
 </text>

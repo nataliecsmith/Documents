@@ -50,7 +50,7 @@
                       John B. Bruner
                         (Breckinridge County, Kentucky, attorney and politician)
                     </persName>
-                        <event type="birth"  when="1822"  certainty="medium" ><ab>c1822</ab></event>
+                        <event type="birth"  when="1822"  cert="medium" ><ab>c1822</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, District 1, p. 111. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 4. Lewis Collins and Richard H. Collins, <hi rend=”italic”>Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1874). p. 96.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, District 1, p. 111. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breckinridge County, Hardinsburg, p. 4. Lewis Collins and Richard H. Collins, <hi rend="italic">Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1874). p. 96.
 </bibl></ab>
     </back>
 </text>

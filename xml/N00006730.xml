@@ -50,7 +50,7 @@
                       William B. Harrison
                         (Elkton, Kentucky, attorney)
                     </persName>
-                        <event type="birth"  when="1813"  certainty="medium" ><ab>c1813</ab></event>
+                        <event type="birth"  when="1813"  cert="medium" ><ab>c1813</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Todd County, District 1; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Todd County, p. 1; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Todd County, p. 1; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Todd County, District 4, p. 5; H. Charles Ulman, <hi rend=”italic”>Lawyers’ Record and Official Register of the United States</hi> (New York: A. S. Barnes and Co., 1972), p. 538.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Todd County, District 1; <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Todd County, p. 1; <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Todd County, p. 1; <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Todd County, District 4, p. 5; H. Charles Ulman, <hi rend="italic">Lawyers’ Record and Official Register of the United States</hi> (New York: A. S. Barnes and Co., 1972), p. 538.
 </bibl></ab>
     </back>
 </text>

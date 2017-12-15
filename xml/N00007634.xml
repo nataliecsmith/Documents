@@ -46,7 +46,7 @@
                       Johnson Dehaven
                         (Breckinridge County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1819"  certainty="medium" ><ab>c1819</ab></event>
+                        <event type="birth"  when="1819"  cert="medium" ><ab>c1819</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 50A. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 700B. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 32. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breckinridge County, Wheatleys Precinct, p. 7.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 50A. <hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 700B. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 32. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Breckinridge County, Wheatleys Precinct, p. 7.
 </bibl></ab>
     </back>
 </text>

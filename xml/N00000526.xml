@@ -50,8 +50,8 @@
                       William H. Towne
                         (Boston, MA Deeds Commissioner)
                     </persName>
-                        <event type="birth"  when="1840"  certainty="medium" ><ab>c1840</ab></event>
-                        <event type="death"  when="1924"  certainty="medium" ><ab>c1924</ab></event>
+                        <event type="birth"  when="1840"  cert="medium" ><ab>c1840</ab></event>
+                        <event type="death"  when="1924"  cert="medium" ><ab>c1924</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (<hi rend=”italic”>Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865</hi>); Record Group: 110, Records of the Provost Marshal General&#39;s Bureau (Civil War); Collection Name: Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records); NAI: 4213514; Archive Volume Number: 2 of 4, Massachusetts, Suffolk County, Fourth District, May/June 1863, p. 653; Department of Public Health, Registry of Vital Records and Statistics. Massachusetts Vital Records Index to Deaths [1916–1970]. Volumes 66–145, p. 223; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Massachusetts, Boston Ward 10, p. 109.
+        <ab><bibl><hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (<hi rend="italic">Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865</hi>); Record Group: 110, Records of the Provost Marshal General&#39;s Bureau (Civil War); Collection Name: Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records); NAI: 4213514; Archive Volume Number: 2 of 4, Massachusetts, Suffolk County, Fourth District, May/June 1863, p. 653; Department of Public Health, Registry of Vital Records and Statistics. Massachusetts Vital Records Index to Deaths [1916–1970]. Volumes 66–145, p. 223; <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Massachusetts, Boston Ward 10, p. 109.
 </bibl></ab>
     </back>
 </text>

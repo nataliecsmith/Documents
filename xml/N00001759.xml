@@ -50,8 +50,8 @@
                       Oliver C. Curry 
                         (Kentucky and Indiana merchant, justice of the peace, and attorney)
                     </persName>
-                        <event type="birth"  when="1834"  certainty="medium" ><ab>c1834</ab></event>
-                        <event type="death"  when="1875"  certainty="medium" ><ab>c1875</ab></event>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
+                        <event type="death"  when="1875"  cert="medium" ><ab>c1875</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Jefferson County, District 1, p. 82; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Indiana, Clark County, Jeffersonville, Ward 1, p. 9; <hi rend=”italic”>Find A Grave</hi>, &quot;Oliver C Curry (1834-1875),&quot; Memorial #120516909, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=120516909&amp;ref=acom (accessed May 2, 2017).
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Jefferson County, District 1, p. 82; <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Indiana, Clark County, Jeffersonville, Ward 1, p. 9; <hi rend="italic">Find A Grave</hi>, &quot;Oliver C Curry (1834-1875),&quot; Memorial #120516909, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=120516909&amp;ref=acom (accessed May 2, 2017).
 </bibl></ab>
     </back>
 </text>

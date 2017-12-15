@@ -46,7 +46,7 @@
                       William Pickens
                         (Greenup County, Kentucky, farm laborer)
                     </persName>
-                        <event type="birth"  when="1806"  certainty="medium" ><ab>c1806</ab></event>
+                        <event type="birth"  when="1806"  cert="medium" ><ab>c1806</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 225. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 111. KYR-0001-029-0583.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1, p. 225. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 111. KYR-0001-029-0583.
 </bibl></ab>
     </back>
 </text>

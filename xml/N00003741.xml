@@ -46,7 +46,7 @@
                       John C. Cable
                         (Rockcastle County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1831"  certainty="medium" ><ab>c1831</ab></event>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, Mt. Vernon, p. 45; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Rockcastle County, District 6, p. 25; <hi rend=”italic”>Consolidated Lists of Civil War Draft Registrations, 1863-1865</hi>, Ancestry, Kentucky, Congressional District 8, Rockcastle County, Kentucky, June 1863, p. 80.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, Mt. Vernon, p. 45; <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Rockcastle County, District 6, p. 25; <hi rend="italic">Consolidated Lists of Civil War Draft Registrations, 1863-1865</hi>, Ancestry, Kentucky, Congressional District 8, Rockcastle County, Kentucky, June 1863, p. 80.
 </bibl></ab>
     </back>
 </text>

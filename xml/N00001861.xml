@@ -46,7 +46,7 @@
                       Collins Fitch
                         (Meade county farmer)
                     </persName>
-                        <event type="birth"  when="1792"  certainty="medium" ><ab>c1792</ab></event>
+                        <event type="birth"  when="1792"  cert="medium" ><ab>c1792</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Meade County, p. 133.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Meade County, p. 133.
 </bibl></ab>
     </back>
 </text>

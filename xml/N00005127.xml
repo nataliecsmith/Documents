@@ -46,7 +46,7 @@
                       John S. Hays
                         (Nashville, Tennesse, and Frankfort, Kentucky, minister)
                     </persName>
-                        <event type="birth"  when="1830"  certainty="medium" ><ab>c1830</ab></event>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
                         <event type="death"  when="1899-01-07"  ><ab>1899-01-07</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Tennessee, Davidson County, Nashville, Ward 2, p. 64; &quot;Reverend J.S. Hays D.D.&quot; <hi rend=”italic”>The Frankfort Roundabout</hi> (Frankfort, Ky.), January 14, 1899, p. 4.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Tennessee, Davidson County, Nashville, Ward 2, p. 64; &quot;Reverend J.S. Hays D.D.&quot; <hi rend="italic">The Frankfort Roundabout</hi> (Frankfort, Ky.), January 14, 1899, p. 4.
 </bibl></ab>
     </back>
 </text>

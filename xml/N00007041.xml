@@ -46,7 +46,7 @@
                       John W. Lowe
                         (Graves County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1817"  certainty="medium" ><ab>c1817</ab></event>
+                        <event type="birth"  when="1817"  cert="medium" ><ab>c1817</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Graves County, District 2, p. 374. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Graves County, p. 75. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Graves County, p. 29. <hi rend=”italic”>Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kansas, Chautauqua County, Hendricks, p. 12.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Graves County, District 2, p. 374. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Graves County, p. 75. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Graves County, p. 29. <hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Kansas, Chautauqua County, Hendricks, p. 12.
 </bibl></ab>
     </back>
 </text>

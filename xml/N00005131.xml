@@ -46,7 +46,7 @@
                       Abner Davis
                         (Uniontown, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1795"  certainty="medium" ><ab>c1795</ab></event>
+                        <event type="birth"  when="1795"  cert="medium" ><ab>c1795</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Union, Uniontown, p. 22; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Union, Uniontown, p. 17.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Union, Uniontown, p. 22; <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Union, Uniontown, p. 17.
 </bibl></ab>
     </back>
 </text>

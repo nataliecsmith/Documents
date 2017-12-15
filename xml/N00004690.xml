@@ -46,7 +46,7 @@
                       Edward Humphrey
                         (Hawesville, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1829"  certainty="medium" ><ab>c1829</ab></event>
+                        <event type="birth"  when="1829"  cert="medium" ><ab>c1829</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hancock County, p. 19.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hancock County, p. 19.
 </bibl></ab>
     </back>
 </text>

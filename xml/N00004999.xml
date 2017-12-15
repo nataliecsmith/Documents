@@ -46,7 +46,7 @@
                       C. E. Miller
                         (Marshall County farmer)
                     </persName>
-                        <event type="birth"  when="1825"  certainty="medium" ><ab>c1825</ab></event>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
                         <event type="death"  when="1859-01"  ><ab>1859-01</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. Roll #994048, handwritten p. 323.
+        <ab><bibl><hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>, Kentucky Department for Libraries and Archives, Frankfort, Kentucky. Roll #994048, handwritten p. 323.
 </bibl></ab>
     </back>
 </text>

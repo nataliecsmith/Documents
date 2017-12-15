@@ -46,7 +46,7 @@
                       Thomas M. Green
                         (Maysville, Kentucky, newspaper editor)
                     </persName>
-                        <event type="birth"  when="1837"  certainty="medium" ><ab>c1837</ab></event>
+                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,11 +55,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Maysville, Kentucky, newspaper editor. Kentucky native. Son of Mary K. Green. Married to Nancy Green. Father of John Green, Bessie Green, and Pearce Green. Editor of <hi rend=”italic”>The Weekly Maysville Eagle</hi> from 1863 to 1876.</p>
+        <p>Maysville, Kentucky, newspaper editor. Kentucky native. Son of Mary K. Green. Married to Nancy Green. Father of John Green, Bessie Green, and Pearce Green. Editor of <hi rend="italic">The Weekly Maysville Eagle</hi> from 1863 to 1876.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Kenton County, Covington, p. 40; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mason County, Maysville, Ward 1, p. 4; <hi rend=”italic”>Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Mason County, KY, September 1863, p. 137, (Accessed via ancestry.com); &quot;The Weekly Maysville Eagle,&quot; Chronicling America (http://chroniclingamerica.loc.gov/lccn/sn84027432/) (Accessed on August 25, 2017).
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Kenton County, Covington, p. 40; <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mason County, Maysville, Ward 1, p. 4; <hi rend="italic">Consolidated Lists of Civil War Draft Registration Records</hi> (Provost Marshal General&#39;s Bureau; Consolidated Enrollment Lists, 1863-1865), NARA RG 110, Records of the Provost Marshal General&#39;s Bureau (Civil War), Consolidated Enrollment Lists, 1863-1865 (Civil War Union Draft Records), Mason County, KY, September 1863, p. 137, (Accessed via ancestry.com); &quot;The Weekly Maysville Eagle,&quot; Chronicling America (http://chroniclingamerica.loc.gov/lccn/sn84027432/) (Accessed on August 25, 2017).
 </bibl></ab>
     </back>
 </text>

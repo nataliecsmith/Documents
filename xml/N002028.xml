@@ -46,7 +46,7 @@
                       Charles Junot
                         (Louisville policeman)
                     </persName>
-                        <event type="birth"  when="1823"  certainty="medium" ><ab>c1823</ab></event>
+                        <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
                         <event type="death"  when="1890-04-23"  ><ab>1890-04-23</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl>Henry Tanner, ed., <hi rend=”italic”>Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 135. “Death of &quot;Capt.&quot; Junot,” <hi rend=”italic”>Courier-Journal</hi> (Louisville, Ky.), April 24, 1890, p. 8. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, 6th Ward, p.58.  <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Pennsylvania, Philadelphia County, Ward 2, District 5, p. 31.
+        <ab><bibl>Henry Tanner, ed., <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 135. “Death of &quot;Capt.&quot; Junot,” <hi rend="italic">Courier-Journal</hi> (Louisville, Ky.), April 24, 1890, p. 8. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, 6th Ward, p.58.  <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Pennsylvania, Philadelphia County, Ward 2, District 5, p. 31.
 </bibl></ab>
     </back>
 </text>

@@ -44,7 +44,7 @@
                 <org xml:id="O00006805">
                     <orgName>First National Bank of Lexington</orgName>
                         <event type="begun"  when="1865-01-26"  ><ab>1865-01-26</ab></event>
-                        <event type="ended"  when="1913"  certainty="medium" ><ab>c1913</ab></event>
+                        <event type="ended"  when="1913"  cert="medium" ><ab>c1913</ab></event>
                 </org>
             </particDesc>
         </profileDesc>

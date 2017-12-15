@@ -46,7 +46,7 @@
                       David A. Morgan
                         (Lyon County, Kentucky laborer)
                     </persName>
-                        <event type="birth"  when="1842"  certainty="medium" ><ab>c1842</ab></event>
+                        <event type="birth"  when="1842"  cert="medium" ><ab>c1842</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, District 2, p. 375; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, p. 64. 
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Trigg County, District 2, p. 375; <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, p. 64. 
 </bibl></ab>
     </back>
 </text>

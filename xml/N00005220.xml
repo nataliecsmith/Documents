@@ -46,7 +46,7 @@
                       E. P. Hamilton
                         (Carrollton wharf master)
                     </persName>
-                        <event type="birth"  when="1822"  certainty="medium" ><ab>c1822</ab></event>
+                        <event type="birth"  when="1822"  cert="medium" ><ab>c1822</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carroll County, Carrollton District No. 2, p. 16; G. W. Hawes, <hi rend=”italic”>G.W. Hawes&#39; Commercial Gazetteer, and Business Directory of the Ohio River</hi> (Indianapolis, IN: G.W. Hawes, Publisher, 1861), 146.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Carroll County, Carrollton District No. 2, p. 16; G. W. Hawes, <hi rend="italic">G.W. Hawes&#39; Commercial Gazetteer, and Business Directory of the Ohio River</hi> (Indianapolis, IN: G.W. Hawes, Publisher, 1861), 146.
 </bibl></ab>
     </back>
 </text>

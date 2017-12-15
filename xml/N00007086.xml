@@ -50,7 +50,7 @@
                       John Criswell
                         (Greenup County, Kentucky, shoemaker)
                     </persName>
-                        <event type="birth"  when="1815"  certainty="medium" ><ab>c1815</ab></event>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lewis County, District 2, p. 169. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 110. <hi rend=”italic”>Kentucky, County Marriages, 1783-1965</hi>, Ancestry, Lewis County, 1841, film no. 000344051. KYR-0001-029-0583.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Lewis County, District 2, p. 169. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 110. <hi rend="italic">Kentucky, County Marriages, 1783-1965</hi>, Ancestry, Lewis County, 1841, film no. 000344051. KYR-0001-029-0583.
 </bibl></ab>
     </back>
 </text>

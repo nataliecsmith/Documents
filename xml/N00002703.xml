@@ -46,7 +46,7 @@
                       Daniel G. Colyer
                         (Rockcastle County, Kentucky, court clerk)
                     </persName>
-                        <event type="birth"  when="1817"  certainty="medium" ><ab>c1817</ab></event>
+                        <event type="birth"  when="1817"  cert="medium" ><ab>c1817</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Rockcastle County, Southern District; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, Mount Vernon, p. 124; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Mortality Schedules, Kentucky, Rockcastle County, District 6, p. 1.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Rockcastle County, Southern District; <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, Mount Vernon, p. 124; <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Mortality Schedules, Kentucky, Rockcastle County, District 6, p. 1.
 </bibl></ab>
     </back>
 </text>

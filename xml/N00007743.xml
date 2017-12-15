@@ -46,7 +46,7 @@
                       Canada Bratcher
                         (Grayson County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1803"  certainty="medium" ><ab>c1803</ab></event>
+                        <event type="birth"  when="1803"  cert="medium" ><ab>c1803</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="U"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Grayson County, p. 60B. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grayson County, p. 60.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Grayson County, p. 60B. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grayson County, p. 60.
 </bibl></ab>
     </back>
 </text>

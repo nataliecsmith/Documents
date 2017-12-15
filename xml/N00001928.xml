@@ -46,7 +46,7 @@
                       Alexander C. Norvell
                         (Tennessee)
                     </persName>
-                        <event type="birth"  when="1826"  certainty="medium" ><ab>c1826</ab></event>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Davidson County, 5th Ward Nashville, p. 156; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Davidson County, 3rd Ward Nashville, p. 89.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Davidson County, 5th Ward Nashville, p. 156; <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Tennessee, Davidson County, 3rd Ward Nashville, p. 89.
 </bibl></ab>
     </back>
 </text>

@@ -46,7 +46,7 @@
                       Thomas E. Gregory
                         (Marshall Co. farmer)
                     </persName>
-                        <event type="birth"  when="1834"  certainty="medium" ><ab>c1834</ab></event>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Marshall County, unknown district, p. 108.  <hi rend=”italic”>Kentucky, County Marriages, 1783-1965</hi> Ancestry. Marshall County, 1862.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Marshall County, unknown district, p. 108.  <hi rend="italic">Kentucky, County Marriages, 1783-1965</hi> Ancestry. Marshall County, 1862.
 </bibl></ab>
     </back>
 </text>

@@ -50,7 +50,7 @@
                       John E. Woodward
                         (Paducah, Kentucky, liquor dealer)
                     </persName>
-                        <event type="birth"  when="1812"  certainty="medium" ><ab>c1812</ab></event>
+                        <event type="birth"  when="1812"  cert="medium" ><ab>c1812</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McCracken County, District 1, Paducah, p. 974. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, McCracken County, Paducah, Division 3, Paducah, p. 48.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McCracken County, District 1, Paducah, p. 974. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, McCracken County, Paducah, Division 3, Paducah, p. 48.
 </bibl></ab>
     </back>
 </text>

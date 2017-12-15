@@ -46,7 +46,7 @@
                       Charles B. Anderson
                         (Maysville (Mason County) hardware merchant)
                     </persName>
-                        <event type="birth"  when="1824"  certainty="medium" ><ab>c1824</ab></event>
+                        <event type="birth"  when="1824"  cert="medium" ><ab>c1824</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, 3rd Ward Maysville, p. 54; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mason County, Maysville Ward No. 4, p. 13.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Mason County, 3rd Ward Maysville, p. 54; <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Mason County, Maysville Ward No. 4, p. 13.
 </bibl></ab>
     </back>
 </text>

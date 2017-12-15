@@ -46,7 +46,7 @@
                       Charles Wall
                         (Louisville flour inspector and carpenter)
                     </persName>
-                        <event type="birth"  when="1822"  certainty="medium" ><ab>c1822</ab></event>
+                        <event type="birth"  when="1822"  cert="medium" ><ab>c1822</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -61,7 +61,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 5, p. 211. Edwards, Greenough, and DeVed, Publishers, <hi rend=”italic”>Edwards&#39; Annual Director. City of Louisville, for 1865-6</hi> (Louisville: Maxwell &amp; Co, Printers and Booksellers), 580.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 5, p. 211. Edwards, Greenough, and DeVed, Publishers, <hi rend="italic">Edwards&#39; Annual Director. City of Louisville, for 1865-6</hi> (Louisville: Maxwell &amp; Co, Printers and Booksellers), 580.
 </bibl></ab>
     </back>
 </text>

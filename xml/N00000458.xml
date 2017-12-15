@@ -50,7 +50,7 @@
                       Charles W. Roback
                         (Cincinnati, Ohio, physician and medicine manufacturer)
                     </persName>
-                        <event type="birth"  when="1816"  certainty="medium" ><ab>c1816</ab></event>
+                        <event type="birth"  when="1816"  cert="medium" ><ab>c1816</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,11 +59,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Cincinnati, Ohio, physician and medicine manufacturer. Native of Sweden. Married to Mary H. Roback. Author of <hi rend=”italic”>The Mysteries of Astrology, and the Wonders of Magic</hi> in 1854. Published <hi rend=”italic”>Dr. Roback’s Scandinavian Almanac</hi> from 1855 to 1860. Owner of The Scandinavian Remedies in Cincinnati.</p>
+        <p>Cincinnati, Ohio, physician and medicine manufacturer. Native of Sweden. Married to Mary H. Roback. Author of <hi rend="italic">The Mysteries of Astrology, and the Wonders of Magic</hi> in 1854. Published <hi rend="italic">Dr. Roback’s Scandinavian Almanac</hi> from 1855 to 1860. Owner of The Scandinavian Remedies in Cincinnati.</p>
 
     </body>
     <back>
-        <ab><bibl>Lewis H. Bond, <hi rend=”italic”>Reports of Cases Decided in the Circuit and District Courts of the United States within the Southern District of Ohio, Volume II</hi> (Cincinnati, OH: Robert Clarke &amp; Co., 1872), p. 36; George W. Hawes, <hi rend=”italic”>Michigan State Gazetteer, and Business Directory, for 1860</hi> (Detroit, MI: F. Raymond and Company, 1859), p. 445; Charles W. Roback, <hi rend=”italic”>Dr. Roback’s Scandinavian Almanac</hi> (Cincinnati, OH: Charles W. Roback, [1860]); Charles W. Roback, <hi rend=”italic”>The Mysteries of Astrology, and the Wonders of Magic: Including a History of the Rise and Progress of Astrology, and the Various Branches of Necromancy; Together with Valuable Directions and Suggestions Relative to the Casting of Nativities, and Predictions by Geomancy, Chiromancy, Physiognomy, &amp;c. Also, Highly Interesting Narratives, Anecdotes, &amp;c. Illustrative of the Marvels of Witchcraft, Spiritual Phenomena, and the Results of Supernatural Influence</hi> (Boston, MA: Charles W. Roback, 1854); <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Hamilton County, Cincinnati, Ward 15, p. 64.
+        <ab><bibl>Lewis H. Bond, <hi rend="italic">Reports of Cases Decided in the Circuit and District Courts of the United States within the Southern District of Ohio, Volume II</hi> (Cincinnati, OH: Robert Clarke &amp; Co., 1872), p. 36; George W. Hawes, <hi rend="italic">Michigan State Gazetteer, and Business Directory, for 1860</hi> (Detroit, MI: F. Raymond and Company, 1859), p. 445; Charles W. Roback, <hi rend="italic">Dr. Roback’s Scandinavian Almanac</hi> (Cincinnati, OH: Charles W. Roback, [1860]); Charles W. Roback, <hi rend="italic">The Mysteries of Astrology, and the Wonders of Magic: Including a History of the Rise and Progress of Astrology, and the Various Branches of Necromancy; Together with Valuable Directions and Suggestions Relative to the Casting of Nativities, and Predictions by Geomancy, Chiromancy, Physiognomy, &amp;c. Also, Highly Interesting Narratives, Anecdotes, &amp;c. Illustrative of the Marvels of Witchcraft, Spiritual Phenomena, and the Results of Supernatural Influence</hi> (Boston, MA: Charles W. Roback, 1854); <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Ohio, Hamilton County, Cincinnati, Ward 15, p. 64.
 </bibl></ab>
     </back>
 </text>

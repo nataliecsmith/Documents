@@ -50,7 +50,7 @@
                       John Smith Gavitt
                         (Evansville Indiana)
                     </persName>
-                        <event type="birth"  when="1826"  certainty="medium" ><ab>c1826</ab></event>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
                         <event type="death"  when="1861-10-21"  ><ab>1861-10-21</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -64,17 +64,17 @@
 
     </body>
     <back>
-        <ab><bibl>Joseph P. Elliott, <hi rend=”italic”>A History of Evansville and Vanderburgh County</hi> (Evansville, Ind: Keller Printing Company, 1897), 380; 
+        <ab><bibl>Joseph P. Elliott, <hi rend="italic">A History of Evansville and Vanderburgh County</hi> (Evansville, Ind: Keller Printing Company, 1897), 380; 
 
-<hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Vanderburgh County, Evansville, p. 74; 
+<hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Indiana, Vanderburgh County, Evansville, p. 74; 
 
-<hi rend=”italic”>Report of the Adjutant General of the State of Indiana</hi>, vol. 2, 1861-1865 (Indianapolis, Ind: W.R. Holloway, State Printer, 1865), 270.
+<hi rend="italic">Report of the Adjutant General of the State of Indiana</hi>, vol. 2, 1861-1865 (Indianapolis, Ind: W.R. Holloway, State Printer, 1865), 270.
 
-William E. Henry, <hi rend=”italic”>Legislative and State Manual of Indiana for 1899-1900</hi> (Indianapolis: WM. B. Burfort, 1899), 812;
+William E. Henry, <hi rend="italic">Legislative and State Manual of Indiana for 1899-1900</hi> (Indianapolis: WM. B. Burfort, 1899), 812;
 
-“Past Sheriffs of Vanderburgh County,” <hi rend=”italic”>Vanderburgh County Sheriff’s Office</hi>, http://www.vanderburghsheriff.com/past-sheriffs.aspx;
+“Past Sheriffs of Vanderburgh County,” <hi rend="italic">Vanderburgh County Sheriff’s Office</hi>, http://www.vanderburghsheriff.com/past-sheriffs.aspx;
 
-<hi rend=”italic”>Case Files of Approved Pension Applications of Widows and Other Veterans of the Army and Navy Who Served Mainly in the Civil War and the War With Spain, compiled 1861 - 1934</hi>, NARA RG 15, Roll WC37546 (accessed via Fold3.com).
+<hi rend="italic">Case Files of Approved Pension Applications of Widows and Other Veterans of the Army and Navy Who Served Mainly in the Civil War and the War With Spain, compiled 1861 - 1934</hi>, NARA RG 15, Roll WC37546 (accessed via Fold3.com).
 </bibl></ab>
     </back>
 </text>

@@ -46,7 +46,7 @@
                       Daniel Gee
                         (Anderson County farmer)
                     </persName>
-                        <event type="birth"  when="1804"  certainty="medium" ><ab>c1804</ab></event>
+                        <event type="birth"  when="1804"  cert="medium" ><ab>c1804</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, Lawrenceburg post office, p. 97.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, Lawrenceburg post office, p. 97.
 </bibl></ab>
     </back>
 </text>

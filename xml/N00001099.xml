@@ -50,7 +50,7 @@
                       George W. Hull
                         (Louisville, Kentucky, attorney and notary)
                     </persName>
-                        <event type="birth"  when="1837"  certainty="medium" ><ab>c1837</ab></event>
+                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl>&quot;Medical and Law Commencement of the University of Louisville,&quot; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), March 2, 1858, p. 2; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 7, p. 46; KYR-0001-007-0312.
+        <ab><bibl>&quot;Medical and Law Commencement of the University of Louisville,&quot; <hi rend="italic">The Louisville Daily Courier</hi> (Louisville, Ky.), March 2, 1858, p. 2; <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Jefferson County, Louisville Ward 7, p. 46; KYR-0001-007-0312.
 </bibl></ab>
     </back>
 </text>

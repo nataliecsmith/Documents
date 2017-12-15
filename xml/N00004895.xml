@@ -46,7 +46,7 @@
                       Abraham R. Groves, Sr.
                         (Jefferson County, Kentucky, physician, farmer, and justice of the peace)
                     </persName>
-                        <event type="birth"  when="1835"  certainty="medium" ><ab>c1835</ab></event>
+                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
                         <event type="death"  when="1911-04-17"  ><ab>1911-04-17</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Jefferson County, Hays Precinct, p. 3; &quot;Dr. Abraham R Groves Dies at Home in East End,&quot; <hi rend=”italic”>The Courier-Journal</hi> (Louisville, Ky.), April 18, 1911, p. 7.
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Jefferson County, Hays Precinct, p. 3; &quot;Dr. Abraham R Groves Dies at Home in East End,&quot; <hi rend="italic">The Courier-Journal</hi> (Louisville, Ky.), April 18, 1911, p. 7.
 </bibl></ab>
     </back>
 </text>

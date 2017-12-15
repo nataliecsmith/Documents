@@ -42,7 +42,7 @@
                       William Darling
                         (Carroll County)
                     </persName>
-                        <event type="birth"  when="1816"  certainty="medium" ><ab>c1816</ab></event>
+                        <event type="birth"  when="1816"  cert="medium" ><ab>c1816</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,8 +55,8 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, <br>
-Kentucky, Carroll County, p. 72; <hi rend=”italic”>Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi> NARA RG 58, Microfilm Series M768, Roll 15, Kentucky, Collection District No. 4, Division No. 1, 1863, (Accessed via ancestry.com).
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, <lb/>
+Kentucky, Carroll County, p. 72; <hi rend="italic">Internal Revenue Assessment Lists for Kentucky, 1862-1866</hi> NARA RG 58, Microfilm Series M768, Roll 15, Kentucky, Collection District No. 4, Division No. 1, 1863, (Accessed via ancestry.com).
 </bibl></ab>
     </back>
 </text>

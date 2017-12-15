@@ -46,7 +46,7 @@
                       John F Jones
                         (Greenup County, laborer)
                     </persName>
-                        <event type="birth"  when="1836"  certainty="medium" ><ab>c1836</ab></event>
+                        <event type="birth"  when="1836"  cert="medium" ><ab>c1836</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 22; Kentucky Birth, Marriage, and Death Records, 1852-1964, Ancestry, Deaths, Greenup County, 1937.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, p. 22; Kentucky Birth, Marriage, and Death Records, 1852-1964, Ancestry, Deaths, Greenup County, 1937.
 </bibl></ab>
     </back>
 </text>

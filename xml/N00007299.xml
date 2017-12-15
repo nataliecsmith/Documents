@@ -46,7 +46,7 @@
                       John C. Evans
                         (Lyon County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1816"  certainty="medium" ><ab>c1816</ab></event>
+                        <event type="birth"  when="1816"  cert="medium" ><ab>c1816</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, p. 30.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, p. 30.
 </bibl></ab>
     </back>
 </text>

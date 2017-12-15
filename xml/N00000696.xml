@@ -46,7 +46,7 @@
                       Thomas Wealch
                         (Carroll County)
                     </persName>
-                        <event type="birth"  when="1827"  certainty="medium" ><ab>c1827</ab></event>
+                        <event type="birth"  when="1827"  cert="medium" ><ab>c1827</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Carroll County, Prestonsville, p. 4.
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Carroll County, Prestonsville, p. 4.
 </bibl></ab>
     </back>
 </text>

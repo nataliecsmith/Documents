@@ -46,7 +46,7 @@
                       Laban S. Locker
                         (Marshall Co. postmaster)
                     </persName>
-                        <event type="birth"  when="1819"  certainty="medium" ><ab>c1819</ab></event>
+                        <event type="birth"  when="1819"  cert="medium" ><ab>c1819</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marshall County, unknown district, p. stamped 473. <hi rend=”italic”>Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Marshall County, unknown district, p. 99. <hi rend=”italic”>Record of Appointment of Postmasters, 1832-1971</hi> (National Archives Microfilm Publication, M841, Roll 47: Kentucky, Knox - Marshall Counties), Records of the Post Office Department, Record Group Number 28, National Archives, Washington D.C., p. 135.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marshall County, unknown district, p. stamped 473. <hi rend="italic">Eighth Manuscript Census of the United States (1860)</hi>, Population Schedules, Kentucky, Marshall County, unknown district, p. 99. <hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi> (National Archives Microfilm Publication, M841, Roll 47: Kentucky, Knox - Marshall Counties), Records of the Post Office Department, Record Group Number 28, National Archives, Washington D.C., p. 135.
 </bibl></ab>
     </back>
 </text>

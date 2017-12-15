@@ -43,7 +43,7 @@
             <particDesc>
                 <org xml:id="O00005350">
                     <orgName>Philadelphia Court of Common Pleas</orgName>
-                        <event type="begun"  when="1722"  certainty="medium" ><ab>c1722</ab></event>
+                        <event type="begun"  when="1722"  cert="medium" ><ab>c1722</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -54,7 +54,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>The Unified Judicial System of Pennsylvania</hi>, &quot;History,&quot; (http://www.pacourts.us/learn/history) (accessed May 8, 2017).
+        <ab><bibl><hi rend="italic">The Unified Judicial System of Pennsylvania</hi>, &quot;History,&quot; (http://www.pacourts.us/learn/history) (accessed May 8, 2017).
 </bibl></ab>
     </back>
 </text>

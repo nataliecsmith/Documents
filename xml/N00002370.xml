@@ -46,7 +46,7 @@
                       Thomas A. Franklin
                         (Clerk of Grant Co. Ct.)
                     </persName>
-                        <event type="birth"  when="1812"  certainty="medium" ><ab>c1812</ab></event>
+                        <event type="birth"  when="1812"  cert="medium" ><ab>c1812</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,9 +59,9 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, <br>
-Kentucky, Grant County, Unknown District, p. 62. Ancestry.com.* <br>
-<hi rend=”italic”>Record of Appointment of Postmasters, 1832-1971</hi>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28,  Grant County, KY, Volume 28, 12 Nov 1861, (accessed via Ancestry.com).
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, <lb/>
+Kentucky, Grant County, Unknown District, p. 62. Ancestry.com.* <lb/>
+<hi rend="italic">Record of Appointment of Postmasters, 1832-1971</hi>, NARA Microfilm Publication, M841, Records of the Post Office Department, Record Group Number 28,  Grant County, KY, Volume 28, 12 Nov 1861, (accessed via Ancestry.com).
 </bibl></ab>
     </back>
 </text>

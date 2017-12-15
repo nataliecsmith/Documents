@@ -42,7 +42,7 @@
                       J. D. Osborne
                         (Louisville, Kentucky, newspaper editor and owner)
                     </persName>
-                        <event type="birth"  when="1823"  certainty="medium" ><ab>c1823</ab></event>
+                        <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -51,11 +51,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Louisville, Kentucky, newspaper editor and owner. Virginia native. Married to Harriet Osborne. Father of William J. E. Osborne, Emily Osborne, Jane M. Osborne, and Hattie Osborne. Editor at the <hi rend=”italic”>Louisville Journal</hi> in 1860. Partner in the <hi rend=”italic”>Louisville Journal</hi> with George D. Prentice and Isham Henderson. President of the Western Associated Press in 1865.</p>
+        <p>Louisville, Kentucky, newspaper editor and owner. Virginia native. Married to Harriet Osborne. Father of William J. E. Osborne, Emily Osborne, Jane M. Osborne, and Hattie Osborne. Editor at the <hi rend="italic">Louisville Journal</hi> in 1860. Partner in the <hi rend="italic">Louisville Journal</hi> with George D. Prentice and Isham Henderson. President of the Western Associated Press in 1865.</p>
 
     </body>
     <back>
-        <ab><bibl>&quot;An Act to incorporate the Louisville Journal Company,&quot; March 9, 1867, in Acts of the Commonwealth of Kentucky Passed by the General Assembly at the Adjourned Session (January 3, 1867) which was Begun and Held in the City of Frankfort, on Monday, the 4th Day of December, 1865 (Frankfort: Kentucky Yeoman Office, 1867), 437-38. A. T. Andreas, History of Chicago: from the Earliest Period to the Present Time, v. II From 1857 Until the Fire of 1871 (Chicago: A. T. Andreas Company, 1885), 500. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, 5th Ward, p. 144145.
+        <ab><bibl>&quot;An Act to incorporate the Louisville Journal Company,&quot; March 9, 1867, in Acts of the Commonwealth of Kentucky Passed by the General Assembly at the Adjourned Session (January 3, 1867) which was Begun and Held in the City of Frankfort, on Monday, the 4th Day of December, 1865 (Frankfort: Kentucky Yeoman Office, 1867), 437-38. A. T. Andreas, History of Chicago: from the Earliest Period to the Present Time, v. II From 1857 Until the Fire of 1871 (Chicago: A. T. Andreas Company, 1885), 500. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, 5th Ward, p. 144145.
 </bibl></ab>
     </back>
 </text>

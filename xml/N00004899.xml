@@ -50,8 +50,8 @@
                       Albert G. Botts
                         (Daviess County, Kentucky, attorney, judge, and politician)
                     </persName>
-                        <event type="birth"  when="1811"  certainty="medium" ><ab>c1811</ab></event>
-                        <event type="death"  when="1871"  certainty="medium" ><ab>c1871</ab></event>
+                        <event type="birth"  when="1811"  cert="medium" ><ab>c1811</ab></event>
+                        <event type="death"  when="1871"  cert="medium" ><ab>c1871</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Daviess County, District 2, p. 119; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedule, Kentucky, Daviess County, District 2, p. 12; Lewis Collins and Richard H. Collins, <hi rend=”italic”>History of Kentucky</hi>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 153 and 645; <hi rend=”italic”>Kentucky Wills and Probate Records, 1812-1936</hi>, Kentucky County Court, vol. A-D,<br>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Daviess County, District 2, p. 119; <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedule, Kentucky, Daviess County, District 2, p. 12; Lewis Collins and Richard H. Collins, <hi rend="italic">History of Kentucky</hi>, vol. 2 (Covington, Ky.: Collins &amp; Co., 1882), 153 and 645; <hi rend="italic">Kentucky Wills and Probate Records, 1812-1936</hi>, Kentucky County Court, vol. A-D,<lb/>
  p. 336-37 (accessed via ancestry.com).
 </bibl></ab>
     </back>

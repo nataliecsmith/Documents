@@ -43,8 +43,8 @@
             <particDesc>
                 <org xml:id="O00001081">
                     <orgName>Somerset Board of Trustees</orgName>
-                        <event type="begun"  when="1802"  certainty="medium" ><ab>c1802</ab></event>
-                        <event type="ended"  when="1888"  certainty="medium" ><ab>c1888</ab></event>
+                        <event type="begun"  when="1802"  cert="medium" ><ab>c1802</ab></event>
+                        <event type="ended"  when="1888"  cert="medium" ><ab>c1888</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
@@ -55,7 +55,7 @@
 
     </body>
     <back>
-        <ab><bibl>J. H. Deberry, &quot;Somerset&quot; in <hi rend=”italic”>The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 833.
+        <ab><bibl>J. H. Deberry, &quot;Somerset&quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 833.
 </bibl></ab>
     </back>
 </text>

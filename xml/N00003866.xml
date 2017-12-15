@@ -50,8 +50,8 @@
                       James L. Satterfield
                         (Princeton, Kentucky, farm hand)
                     </persName>
-                        <event type="birth"  when="1840"  certainty="medium" ><ab>c1840</ab></event>
-                        <event type="death"  when="1867"  certainty="medium" ><ab>c1867</ab></event>
+                        <event type="birth"  when="1840"  cert="medium" ><ab>c1840</ab></event>
+                        <event type="death"  when="1867"  cert="medium" ><ab>c1867</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 2, p. 74; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Caldwell County, Princeton, p. 34; Jordan Dodd, <hi rend=”italic”>Kentucky Marriages, 1802-1850</hi>, Ancestry, Caldwell County, Kentucky, October 9, 1862; Caldwell County Court, Administration Bonds, 1863-1878, Ancestry, James L. Satterfield administration bond, probated February 4, 1867.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Caldwell County, District 2, p. 74; <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Caldwell County, Princeton, p. 34; Jordan Dodd, <hi rend="italic">Kentucky Marriages, 1802-1850</hi>, Ancestry, Caldwell County, Kentucky, October 9, 1862; Caldwell County Court, Administration Bonds, 1863-1878, Ancestry, James L. Satterfield administration bond, probated February 4, 1867.
 </bibl></ab>
     </back>
 </text>

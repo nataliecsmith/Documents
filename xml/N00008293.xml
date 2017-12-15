@@ -50,7 +50,7 @@
                       Julius  A. Jackson
                         (Webster Co.)
                     </persName>
-                        <event type="birth"  when="1830"  certainty="medium" ><ab>c1830</ab></event>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,8 +63,8 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky,<br>
- Webster County, p. 8. <hi rend=”italic”>Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>. Microfilm rolls #994027-994058. Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky,<lb/>
+ Webster County, p. 8. <hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm (1852-1910)</hi>. Microfilm rolls #994027-994058. Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
 </bibl></ab>
     </back>
 </text>

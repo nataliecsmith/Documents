@@ -46,7 +46,7 @@
                       John B. Wathen
                         (marion co?)
                     </persName>
-                        <event type="birth"  when="1804"  certainty="medium" ><ab>c1804</ab></event>
+                        <event type="birth"  when="1804"  cert="medium" ><ab>c1804</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marion County, District 2. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marion County, Lebanon, p. 7.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marion County, District 2. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Marion County, Lebanon, p. 7.
 </bibl></ab>
     </back>
 </text>

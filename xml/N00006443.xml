@@ -46,7 +46,7 @@
                       William Hamilton
                         (Marshall County farmer)
                     </persName>
-                        <event type="birth"  when="1820"  certainty="medium" ><ab>c1820</ab></event>
+                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marshall County, p. 464 B.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marshall County, p. 464 B.
 </bibl></ab>
     </back>
 </text>

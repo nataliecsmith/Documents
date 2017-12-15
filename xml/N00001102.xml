@@ -50,7 +50,7 @@
                       Frank S. Robards 
                         (Calhoun, Ky)
                     </persName>
-                        <event type="birth"  when="1825"  certainty="medium" ><ab>c1825</ab></event>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, McLean County, Rumsey, p. 5.
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, McLean County, Rumsey, p. 5.
 </bibl></ab>
     </back>
 </text>

@@ -58,8 +58,8 @@
                       John R. Graham
                         (Frankfort, Kentucky, grocer and judge)
                     </persName>
-                        <event type="birth"  when="1817"  certainty="medium" ><ab>c1817</ab></event>
-                        <event type="death"  when="1880"  certainty="medium" ><ab>c1880</ab></event>
+                        <event type="birth"  when="1817"  cert="medium" ><ab>c1817</ab></event>
+                        <event type="death"  when="1880"  cert="medium" ><ab>c1880</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -72,7 +72,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Franklin County, Frankfort, p. 97; <hi rend=”italic”>U.S. Mortality Schedules</hi> (1880), Kentucky, Franklin County, p. 2; KYR-0001-004-0022; KYR-0001-007-0364; KYR-0001-004-0077; KYR-0001-004-0078.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Franklin County, Frankfort, p. 97; <hi rend="italic">U.S. Mortality Schedules</hi> (1880), Kentucky, Franklin County, p. 2; KYR-0001-004-0022; KYR-0001-007-0364; KYR-0001-004-0077; KYR-0001-004-0078.
 </bibl></ab>
     </back>
 </text>

@@ -46,7 +46,7 @@
                       Robert D. Mahone
                         (Lexington, Kentucky, merchant and tailor)
                     </persName>
-                        <event type="birth"  when="1820"  certainty="medium" ><ab>c1820</ab></event>
+                        <event type="birth"  when="1820"  cert="medium" ><ab>c1820</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, Lexington, Ward 4, p. 77. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Fayette County, Lexington, Ward 4, p. 50. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette County, Precinct 6, p. 49.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fayette County, Lexington, Ward 4, p. 77. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Fayette County, Lexington, Ward 4, p. 50. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fayette County, Precinct 6, p. 49.
 </bibl></ab>
     </back>
 </text>

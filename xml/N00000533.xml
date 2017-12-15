@@ -50,7 +50,7 @@
                       William Brown
                         (Independence, KY Merchant/Justice of the Peace)
                     </persName>
-                        <event type="birth"  when="1825"  certainty="medium" ><ab>c1825</ab></event>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Kenton County, Independence, p. 5; KYR-0001-007-0307.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Kenton County, Independence, p. 5; KYR-0001-007-0307.
 </bibl></ab>
     </back>
 </text>

@@ -46,7 +46,7 @@
                       Daniel J. Fizer
                         (Fleming County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1801"  certainty="medium" ><ab>c1801</ab></event>
+                        <event type="birth"  when="1801"  cert="medium" ><ab>c1801</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, District 1, p. 338. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 2, p. 125. Jordan R. Dodd, <hi rend=”italic”>Early American Marriages: Virginia to 1850</hi> (Bountiful, UT: Precision Indexing Publishers), Bedford County, Virginia, 1824 (accessed via Ancestry).
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Fleming County, District 1, p. 338. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Fleming County, District 2, p. 125. Jordan R. Dodd, <hi rend="italic">Early American Marriages: Virginia to 1850</hi> (Bountiful, UT: Precision Indexing Publishers), Bedford County, Virginia, 1824 (accessed via Ancestry).
 </bibl></ab>
     </back>
 </text>

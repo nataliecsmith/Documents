@@ -46,7 +46,7 @@
                       Robert Hardy
                         (hancock county blacksmith)
                     </persName>
-                        <event type="birth"  when="1814"  certainty="medium" ><ab>c1814</ab></event>
+                        <event type="birth"  when="1814"  cert="medium" ><ab>c1814</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Pennsylvania, Allegheny County, Lower St. Clair Township, p. 134 B; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 136.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Pennsylvania, Allegheny County, Lower St. Clair Township, p. 134 B; <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hancock County, Unnamed District, p. 136.
 </bibl></ab>
     </back>
 </text>

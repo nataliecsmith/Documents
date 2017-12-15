@@ -46,7 +46,7 @@
                       R. S. Graham
                         (Graves County, Kentucky, resident)
                     </persName>
-                        <event type="birth"  when="1839"  certainty="medium" ><ab>c1839</ab></event>
+                        <event type="birth"  when="1839"  cert="medium" ><ab>c1839</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Graves County, District No. 2, p. 376A.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Graves County, District No. 2, p. 376A.
 </bibl></ab>
     </back>
 </text>

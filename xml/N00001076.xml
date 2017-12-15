@@ -54,7 +54,7 @@
                       Silas C. Riggs
                         (McLean Co farmer)
                     </persName>
-                        <event type="birth"  when="1817"  certainty="medium" ><ab>c1817</ab></event>
+                        <event type="birth"  when="1817"  cert="medium" ><ab>c1817</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -67,7 +67,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean County, p. 23. <hi rend=”italic”>Kentucky Birth, Marriage and Death Records – Microfilm</hi> (1852-1910), Microfilm rolls #994027-994058, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean County, p. 23. <hi rend="italic">Kentucky Birth, Marriage and Death Records – Microfilm</hi> (1852-1910), Microfilm rolls #994027-994058, Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
 </bibl></ab>
     </back>
 </text>

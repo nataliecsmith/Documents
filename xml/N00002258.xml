@@ -46,7 +46,7 @@
                       Joseph Kimmel
                         (Ballard County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1815"  certainty="medium" ><ab>c1815</ab></event>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedule, Kentucky, Ballard County, p. 302A. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Ballard County, Lovelaceville District, p. 161. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Slave Schedule, Kentucky, Ballard County, Lovelaceville District, p. 20.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedule, Kentucky, Ballard County, p. 302A. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Ballard County, Lovelaceville District, p. 161. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedule, Kentucky, Ballard County, Lovelaceville District, p. 20.
 </bibl></ab>
     </back>
 </text>

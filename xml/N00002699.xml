@@ -50,7 +50,7 @@
                       Nicholas Lacy
                         (Todd County, Kentucky, resident)
                     </persName>
-                        <event type="birth"  when="1844"  certainty="medium" ><ab>c1844</ab></event>
+                        <event type="birth"  when="1844"  cert="medium" ><ab>c1844</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Todd County, Kirksville, p. 2. KYR-0001-029-0590.
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Todd County, Kirksville, p. 2. KYR-0001-029-0590.
 </bibl></ab>
     </back>
 </text>

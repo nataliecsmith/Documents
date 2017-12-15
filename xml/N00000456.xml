@@ -46,7 +46,7 @@
                       Charles Kirtley
                         (Rockcastle County, Kentucky, minister)
                     </persName>
-                        <event type="birth"  when="1819"  certainty="medium" ><ab>c1819</ab></event>
+                        <event type="birth"  when="1819"  cert="medium" ><ab>c1819</ab></event>
                         <event type="death"  when="1880-05"  ><ab>1880-05</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, Mt. Vernon, p. 125; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Mortality Schedules, Kentucky, Rockcastle County, Enumeration District 96, p. 1; <hi rend=”italic”>Acts of the General Assembly of the Commonwealth of Kentucky, Passed at the Session of the General Assembly Which Was Begun and Held in the City of Frankfort, on Monday, the Fourth Day of December, 1865</hi> (Frankfort, KY: George D. Prentice, 1866), ch. 97, p. 76.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, Mt. Vernon, p. 125; <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Mortality Schedules, Kentucky, Rockcastle County, Enumeration District 96, p. 1; <hi rend="italic">Acts of the General Assembly of the Commonwealth of Kentucky, Passed at the Session of the General Assembly Which Was Begun and Held in the City of Frankfort, on Monday, the Fourth Day of December, 1865</hi> (Frankfort, KY: George D. Prentice, 1866), ch. 97, p. 76.
 </bibl></ab>
     </back>
 </text>

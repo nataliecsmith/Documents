@@ -46,7 +46,7 @@
                       Edward Gilbert
                         (New York City, New York, attorney)
                     </persName>
-                        <event type="birth"  when="1830"  certainty="medium" ><ab>c1830</ab></event>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, New York, New York City, Ward 20, District 2, p. 240; &quot;The Republican Electors of the Twentieth Ward,&quot; <hi rend=”italic”>The New York Times</hi> (New York City, N.Y.), October 10, 1860, p. 3.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, New York, New York City, Ward 20, District 2, p. 240; &quot;The Republican Electors of the Twentieth Ward,&quot; <hi rend="italic">The New York Times</hi> (New York City, N.Y.), October 10, 1860, p. 3.
 </bibl></ab>
     </back>
 </text>

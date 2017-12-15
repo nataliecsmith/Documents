@@ -50,7 +50,7 @@
                       John P. Haggin
                         (Harrodsburg, Kentucky, attorney)
                     </persName>
-                        <event type="birth"  when="1828"  certainty="medium" ><ab>c1828</ab></event>
+                        <event type="birth"  when="1828"  cert="medium" ><ab>c1828</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Harrodsburg, p. 8; &quot;John P. Haggin, Attorney at Law,&quot; <hi rend=”italic”>The Daily Commonwealth</hi> (Frankfort, Ky.), March 4, 1854, p. 1.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Harrodsburg, p. 8; &quot;John P. Haggin, Attorney at Law,&quot; <hi rend="italic">The Daily Commonwealth</hi> (Frankfort, Ky.), March 4, 1854, p. 1.
 </bibl></ab>
     </back>
 </text>

@@ -46,7 +46,7 @@
                       John C. Brown
                         (murderer, Clay County, KY)
                     </persName>
-                        <event type="birth"  when="1842"  certainty="medium" ><ab>c1842</ab></event>
+                        <event type="birth"  when="1842"  cert="medium" ><ab>c1842</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Clay, District 1, p. 108B. <hi rend=”italic”>Kentucky, County Marriages, 1783-1965</hi>, Ancestry, Clay County, 1861.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Clay, District 1, p. 108B. <hi rend="italic">Kentucky, County Marriages, 1783-1965</hi>, Ancestry, Clay County, 1861.
 </bibl></ab>
     </back>
 </text>

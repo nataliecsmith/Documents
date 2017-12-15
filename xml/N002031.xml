@@ -46,7 +46,7 @@
                       Alexander C. Cross
                         (Louisville, Kentucky)
                     </persName>
-                        <event type="birth"  when="1831"  certainty="medium" ><ab>c1831</ab></event>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
                         <event type="death"  when="1866-05-19"  ><ab>1866-05-19</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 2, p. 249. Henry Tanner, ed., <hi rend=”italic”>Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 323. “An Efficient Policeman Dead” <hi rend=”italic”>Courier-Journal</hi> (Louisville, Ky.), May 21, 1866, p. 1.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville Ward 2, p. 249. Henry Tanner, ed., <hi rend="italic">Tanner’s Louisville Directory and Business Advertiser for 1861</hi> (Louisville: Directory Publication and Advertising Agency, 1861), 323. “An Efficient Policeman Dead” <hi rend="italic">Courier-Journal</hi> (Louisville, Ky.), May 21, 1866, p. 1.
 </bibl></ab>
     </back>
 </text>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0027"> 
  <teiHeader>
   <fileDesc>
@@ -17,6 +17,10 @@
      <resp n="encoding">Markup by:</resp>
      <name>Anthony P Curtis</name>
     </respStmt>
+    <respStmt>
+     <resp n="proof_2">Double Proof by:</resp>
+     <name>CWGK Staff</name>
+    </respStmt>
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -27,7 +31,6 @@
    </publicationStmt>
    <seriesStmt>
     <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
-     <title level="s" type="sub">Early Access</title>
     <respStmt>
      <resp>Project Director</resp>
      <name>Patrick A. Lewis</name>
@@ -60,12 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>WAR DEPARTMENT, Washington, <date when="1861-04-15">April 15<hi rend="sup">th</hi>, 1861.</date></p>
+   <p>WAR DEPARTMENT, WASHINGTON, <date when="1861-04-15">April 15<hi rend="sup">th</hi>, 1861.</date></p>
 <p>SIR: Under the act of Congress "for calling forth the militia to execute the laws of the Union, suppress insurrections, repel invasions," &amp;c., approved <date when="1795-02-28">February 28, 1795</date>, I have the honor to request your excellency to cause to be immediately detached from the militia of your State the quota designated in the table below, to serve as infantry or riflemen for the period of three months, unless sooner discharged.</p>
 <p>Your excellency will please communicate to me the time at or about which your quota will be expected at its rendezvous, as it will be met as soon as practicable by an officer or officers to muster it into the service and pay of the United States. At the same time the oath of fidelity to the United States will be administered to every officer and man.</p>
 <p>The mustering officer will be instructed to receive no man under the rank of commissioned officer who is in years apparently over forty-five, or under eighteen, or who is not in physical strength and vigor.</p>
-<p><note place="body">omit all these but Ky</note>
-<lb/>TABLE OF QUOTAS.
+<p><note place="body">omit all these but Ky</note></p>
+<p>TABLE OF QUOTAS.
 <lb/><lb/>
 <lb/><table rend="rules">
 <row>
@@ -77,32 +80,32 @@
 	<cell/>
 	<cell/>
 	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
 	<cell>COMPOSITION OF THE REGIMENTS.</cell>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
-	<cell/>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
 	<cell/>
 	<cell/>
 	<cell/>
 </row>
 <row>
 	<cell>STATES.</cell>
-	<cell>Major generals</cell>
-	<cell>Aides de-camp to major generals, (major.)</cell>
+	<cell>Major generals.</cell>
+	<cell>Aides-de-camp to major generals, (major.)</cell>
 	<cell>Division inspectors, (lieutenant colonel.)</cell>
 	<cell>Brigadier generals.</cell>
 	<cell>Aides to brigadier generals, (captains.)</cell>
@@ -366,7 +369,7 @@
 	<cell>16</cell>
 	<cell>16</cell>
 	<cell>16</cell>
-	<cell>160</cell>
+	<cell>1<hi rend="str"><unclear/></hi>60</cell>
 	<cell>160</cell>
 	<cell>160</cell>
 	<cell>640</cell>
@@ -469,7 +472,7 @@
 	<cell>2,560</cell>
 	<cell>151</cell>
 	<cell>2,972</cell>
-	<cell>3,1<hi rend="str">3</hi>23</cell>
+	<cell>3,1<hi rend="str">3</hi>^2^3</cell>
 </row>
 <row>
 	<cell>Virginia</cell>
@@ -845,34 +848,34 @@
 </row>
 <row>
 	<cell>Minnesota</cell>
-	<cell>__</cell>
-	<cell>__</cell>
-	<cell>__</cell>
-	<cell>__</cell>
-	<cell>__</cell>
-	<cell>__</cell>
-	<cell><hi rend="underline">1</hi></cell>
-	<cell><hi rend="underline">1</hi></cell>
-	<cell><hi rend="underline">1</hi></cell>
-	<cell><hi rend="underline">1</hi></cell>
-	<cell><hi rend="underline">1</hi></cell>
-	<cell><hi rend="underline">1</hi></cell>
-	<cell><hi rend="underline">1</hi></cell>
-	<cell><hi rend="underline">1</hi></cell>
-	<cell><hi rend="underline">1</hi></cell>
-	<cell><hi rend="underline">1</hi></cell>
-	<cell><hi rend="underline">1</hi></cell>
-	<cell><hi rend="underline">10</hi></cell>
-	<cell><hi rend="underline">10</hi></cell>
-	<cell><hi rend="underline">10</hi></cell>
-	<cell><hi rend="underline">40</hi></cell>
-	<cell><hi rend="underline">40</hi></cell>
-	<cell><hi rend="underline">10</hi></cell>
-	<cell><hi rend="underline">10</hi></cell>
-	<cell><hi rend="underline">640</hi></cell>
-	<cell><hi rend="underline">37</hi></cell>
-	<cell><hi rend="underline">743</hi></cell>
-	<cell><hi rend="underline">780</hi></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell></cell>
+	<cell>1</cell>
+	<cell>1</cell>
+	<cell>1</cell>
+	<cell>1</cell>
+	<cell>1</cell>
+	<cell>1</cell>
+	<cell>1</cell>
+	<cell>1</cell>
+	<cell>1</cell>
+	<cell>1</cell>
+	<cell>1</cell>
+	<cell>10</cell>
+	<cell>10</cell>
+	<cell>10</cell>
+	<cell>40</cell>
+	<cell>40</cell>
+	<cell>10</cell>
+	<cell>10</cell>
+	<cell>640</cell>
+	<cell>37</cell>
+	<cell>743</cell>
+	<cell>780</cell>
 </row>
 <row>
 	<cell>Total</cell>
@@ -914,7 +917,7 @@
 <lb/>Beriah Magoffin
 <lb/><hi rend="italic">Governor of</hi> Kentucky.<pb/></p>
 <p>Requisition for troops from Ky<figure type="hr"/>
-<lb/>1861</p>
+<lb/><date when="1861">1861</date></p>
   </body>
  </text>
 </TEI>

@@ -46,7 +46,7 @@
                       William Loewy
                         (California attorney and clerk)
                     </persName>
-                        <event type="birth"  when="1833"  certainty="medium" ><ab>c1833</ab></event>
+                        <event type="birth"  when="1833"  cert="medium" ><ab>c1833</ab></event>
                         <event type="death"  when="1918-08-10"  ><ab>1918-08-10</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl>&quot;William Loewy, Veteran Lawyer Dies at San Jose,&quot; <hi rend=”italic”>San Francisco Chronicle</hi> (San Francisco, Calif.), August 12, 1918, p. 3; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, California, San Francisco, San Francisco Ward 4, p. 354; KYR-0001-007-0314.
+        <ab><bibl>&quot;William Loewy, Veteran Lawyer Dies at San Jose,&quot; <hi rend="italic">San Francisco Chronicle</hi> (San Francisco, Calif.), August 12, 1918, p. 3; <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, California, San Francisco, San Francisco Ward 4, p. 354; KYR-0001-007-0314.
 </bibl></ab>
     </back>
 </text>

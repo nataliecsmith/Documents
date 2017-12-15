@@ -50,7 +50,7 @@
                       John A. Moore
                         (Rockcastle County, Kentucky, attorney)
                     </persName>
-                        <event type="birth"  when="1804"  certainty="medium" ><ab>c1804</ab></event>
+                        <event type="birth"  when="1804"  cert="medium" ><ab>c1804</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Rockcastle County, Northern District, p. 420. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, p. 119. Lewis Collins and Richard H. Collins, <hi rend=”italic”>Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, KY: Collins &amp; Co., 1878), p. 690-691.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Rockcastle County, Northern District, p. 420. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, p. 119. Lewis Collins and Richard H. Collins, <hi rend="italic">Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, KY: Collins &amp; Co., 1878), p. 690-691.
 </bibl></ab>
     </back>
 </text>

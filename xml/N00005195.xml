@@ -46,7 +46,7 @@
                       Charlton D. Shean
                         (Hardin Co. Farmer)
                     </persName>
-                        <event type="birth"  when="1807"  certainty="medium" ><ab>c1807</ab></event>
+                        <event type="birth"  when="1807"  cert="medium" ><ab>c1807</ab></event>
                         <event type="death"  when="1870-03"  ><ab>1870-03</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eight Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hardin County, District 3, p. 42; <hi rend=”italic”>U.S. Federal Census Mortality Schedule, 1850-1855</hi> Ancestry, Hardin County, 1870; <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Hardin,District 1, p. 290.
+        <ab><bibl><hi rend="italic">Eight Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Hardin County, District 3, p. 42; <hi rend="italic">U.S. Federal Census Mortality Schedule, 1850-1855</hi> Ancestry, Hardin County, 1870; <hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Hardin,District 1, p. 290.
 </bibl></ab>
     </back>
 </text>

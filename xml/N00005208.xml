@@ -46,7 +46,7 @@
                       Milton J. Cook
                         (Rockcastle Co, farmer)
                     </persName>
-                        <event type="birth"  when="1825"  certainty="medium" ><ab>c1825</ab></event>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, p. 113. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Rockcaste County, District 1, p. 56.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Rockcastle County, p. 113. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Rockcaste County, District 1, p. 56.
 </bibl></ab>
     </back>
 </text>

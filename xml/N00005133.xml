@@ -46,8 +46,8 @@
                       George W. Orme
                         (Uniontown, Kentucky, saddler)
                     </persName>
-                        <event type="birth"  when="1826"  certainty="medium" ><ab>c1826</ab></event>
-                        <event type="death"  when="1905"  certainty="medium" ><ab>c1905</ab></event>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
+                        <event type="death"  when="1905"  cert="medium" ><ab>c1905</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Union County, Uniontown, p. 217.; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Union County, Uniontown, p. 9; <hi rend=”italic”>Find A Grave</hi>, &quot;George Orme (1826-1905),&quot; Memorial #106887645, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=106887645&amp;ref=acom (accessed May 5, 2017).
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Union County, Uniontown, p. 217.; <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Union County, Uniontown, p. 9; <hi rend="italic">Find A Grave</hi>, &quot;George Orme (1826-1905),&quot; Memorial #106887645, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=106887645&amp;ref=acom (accessed May 5, 2017).
 </bibl></ab>
     </back>
 </text>

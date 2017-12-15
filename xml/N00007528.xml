@@ -46,7 +46,7 @@
                       Leve W. Weaver
                         (Blandville, Kentucky, master carpenter)
                     </persName>
-                        <event type="birth"  when="1822"  certainty="medium" ><ab>c1822</ab></event>
+                        <event type="birth"  when="1822"  cert="medium" ><ab>c1822</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Blandville, p. 3. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, Blandville, p. 4.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Ballard County, Blandville, p. 3. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Ballard County, Blandville, p. 4.
 </bibl></ab>
     </back>
 </text>

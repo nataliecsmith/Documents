@@ -46,7 +46,7 @@
                       John A. Lamm
                         (Graves County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1810"  certainty="medium" ><ab>c1810</ab></event>
+                        <event type="birth"  when="1810"  cert="medium" ><ab>c1810</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Graves County, District 2, p. 375. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Graves County, p. 22. <hi rend=”italic”>Find A Grave</hi>, &quot;John A. Lamm (1810-1864),&quot; Memorial #84032866, http://www.findagrave.com/memorial/84032866/john-a.-lamm (accessed June 13, 2017).
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Graves County, District 2, p. 375. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Graves County, p. 22. <hi rend="italic">Find A Grave</hi>, &quot;John A. Lamm (1810-1864),&quot; Memorial #84032866, http://www.findagrave.com/memorial/84032866/john-a.-lamm (accessed June 13, 2017).
 </bibl></ab>
     </back>
 </text>

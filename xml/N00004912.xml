@@ -50,7 +50,7 @@
                       Tranedo Bass
                         (Barren County resident imprisoned in the KY State Penitentiary)
                     </persName>
-                        <event type="birth"  when="1836"  certainty="medium" ><ab>c1836</ab></event>
+                        <event type="birth"  when="1836"  cert="medium" ><ab>c1836</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -62,7 +62,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Barren County, District 1, p. 8. KYR-0001-004-1071.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Barren County, District 1, p. 8. KYR-0001-004-1071.
 </bibl></ab>
     </back>
 </text>

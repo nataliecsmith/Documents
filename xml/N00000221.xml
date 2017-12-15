@@ -50,8 +50,8 @@
                       James Calvert
                         (Boone County, Kentucky, sheriff and politician)
                     </persName>
-                        <event type="birth"  when="1806"  certainty="medium" ><ab>c1806</ab></event>
-                        <event type="death"  when="1876"  certainty="medium" ><ab>c1876</ab></event>
+                        <event type="birth"  when="1806"  cert="medium" ><ab>c1806</ab></event>
+                        <event type="death"  when="1876"  cert="medium" ><ab>c1876</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Boone, Burlington, p. 40; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Boone County, Burlington, p. 5; &quot;Election Returns,&quot; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), August 13, 1861, p. 4; &quot;Kentucky Legislature,&quot; <hi rend=”italic”>The Louisville Daily Courier</hi> (Louisville, Ky.), September 07, 1861, p. 2; Lewis Collins and Richard H. Collins, eds., <hi rend=”italic”>History of Kentucky</hi> (Covington, Ky.: Collins &amp; Co., 1878), 51.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Boone, Burlington, p. 40; <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Boone County, Burlington, p. 5; &quot;Election Returns,&quot; <hi rend="italic">The Louisville Daily Courier</hi> (Louisville, Ky.), August 13, 1861, p. 4; &quot;Kentucky Legislature,&quot; <hi rend="italic">The Louisville Daily Courier</hi> (Louisville, Ky.), September 07, 1861, p. 2; Lewis Collins and Richard H. Collins, eds., <hi rend="italic">History of Kentucky</hi> (Covington, Ky.: Collins &amp; Co., 1878), 51.
 </bibl></ab>
     </back>
 </text>

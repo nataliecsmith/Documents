@@ -46,8 +46,8 @@
                       James B. Lyttle
                         (Sheriff, Manchester, Kentucky)
                     </persName>
-                        <event type="birth"  when="1835"  certainty="medium" ><ab>c1835</ab></event>
-                        <event type="death"  when="1863"  certainty="medium" ><ab>c1863</ab></event>
+                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
+                        <event type="death"  when="1863"  cert="medium" ><ab>c1863</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,8 +60,8 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clay County, District 1, p. 89. <br>
-<hi rend=”italic”>Kentucky, County Marriages, 1783-1965</hi>, Ancestry, Clay County, 1863.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Clay County, District 1, p. 89. <lb/>
+<hi rend="italic">Kentucky, County Marriages, 1783-1965</hi>, Ancestry, Clay County, 1863.
 </bibl></ab>
     </back>
 </text>

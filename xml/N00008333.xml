@@ -42,7 +42,7 @@
                       John A. Hatcher
                         (Graves County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1834"  certainty="medium" ><ab>c1834</ab></event>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -55,7 +55,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Graves County, p. 42. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Graves County, Haynes Precinct, p. 10.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Graves County, p. 42. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Graves County, Haynes Precinct, p. 10.
 </bibl></ab>
     </back>
 </text>

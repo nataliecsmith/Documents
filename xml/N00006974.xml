@@ -46,7 +46,7 @@
                       Henry W. Hall
                         (Powell County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1818"  certainty="medium" ><ab>c1818</ab></event>
+                        <event type="birth"  when="1818"  cert="medium" ><ab>c1818</ab></event>
                         <trait type="race" subtype="White"/>
                         <trait type="race" subtype="Indian"/>
                       <trait type="gender" subtype="M"/>
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Montgomery County, District 2, p. 53. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Powell County, p. 20. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Powell County, Precinct 2, Subdivision 144, p. 21.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Montgomery County, District 2, p. 53. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Powell County, p. 20. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Powell County, Precinct 2, Subdivision 144, p. 21.
 </bibl></ab>
     </back>
 </text>

@@ -46,7 +46,7 @@
                       L. D. Ross
                         (Lawyer, Greenup Co.)
                     </persName>
-                        <event type="birth"  when="1811"  certainty="medium" ><ab>c1811</ab></event>
+                        <event type="birth"  when="1811"  cert="medium" ><ab>c1811</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Greenup County, District 1.
 </bibl></ab>
     </back>
 </text>

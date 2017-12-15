@@ -46,7 +46,7 @@
                       Achilles Nelson
                         (clerk of Russell Circuit Court)
                     </persName>
-                        <event type="birth"  when="1835"  certainty="medium" ><ab>c1835</ab></event>
+                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, [State], Russell, Jamestown, p. 2.
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, [State], Russell, Jamestown, p. 2.
 </bibl></ab>
     </back>
 </text>

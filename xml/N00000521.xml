@@ -50,8 +50,8 @@
                       Albert O. Durland
                         (Louisville businessman)
                     </persName>
-                        <event type="birth"  when="1841"  certainty="medium" ><ab>c1841</ab></event>
-                        <event type="death"  when="1902"  certainty="medium" ><ab>c1902</ab></event>
+                        <event type="birth"  when="1841"  cert="medium" ><ab>c1841</ab></event>
+                        <event type="death"  when="1902"  cert="medium" ><ab>c1902</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Edwards&#39; Annual Director to the Inhabitants, Institutions . . . in the City of Louisville for 1865-6</hi> (St. Louis: Edwards, Greenough &amp; Deved, 1865), p. 283; “Death of Captain A O Durland,” <hi rend=”italic”>The Courier-Journal</hi> (Louisville, Ky.), August 8, 1902, p. 2.
+        <ab><bibl><hi rend="italic">Edwards&#39; Annual Director to the Inhabitants, Institutions . . . in the City of Louisville for 1865-6</hi> (St. Louis: Edwards, Greenough &amp; Deved, 1865), p. 283; “Death of Captain A O Durland,” <hi rend="italic">The Courier-Journal</hi> (Louisville, Ky.), August 8, 1902, p. 2.
 </bibl></ab>
     </back>
 </text>

@@ -46,7 +46,7 @@
                       William Polk, Sr.
                         (Crittenden County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1823"  certainty="medium" ><ab>c1823</ab></event>
+                        <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Crittenden County, West Half, p. 17; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Caldwell County, Fredonia, p. 15.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Crittenden County, West Half, p. 17; <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Caldwell County, Fredonia, p. 15.
 </bibl></ab>
     </back>
 </text>

@@ -46,7 +46,7 @@
                       George W. Latham
                         (Todd County farmer)
                     </persName>
-                        <event type="birth"  when="1825"  certainty="medium" ><ab>c1825</ab></event>
+                        <event type="birth"  when="1825"  cert="medium" ><ab>c1825</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Todd County, Unnamed District, p. 213 B; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Todd County, Unnamed District, p. 39; J. H. Battle, ed., <hi rend=”italic”>County of Todd, Kentucky: Historical and Biographical</hi> (Chicago and Louisville: F. A. Battey Publishing Co., 1884), 275-76. 
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Todd County, Unnamed District, p. 213 B; <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Todd County, Unnamed District, p. 39; J. H. Battle, ed., <hi rend="italic">County of Todd, Kentucky: Historical and Biographical</hi> (Chicago and Louisville: F. A. Battey Publishing Co., 1884), 275-76. 
 </bibl></ab>
     </back>
 </text>

@@ -46,7 +46,7 @@
                       John Jones
                         (Marshall co. farmer)
                     </persName>
-                        <event type="birth"  when="1808"  certainty="medium" ><ab>c1808</ab></event>
+                        <event type="birth"  when="1808"  cert="medium" ><ab>c1808</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, unknown district, p. 25.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, unknown district, p. 25.
 </bibl></ab>
     </back>
 </text>

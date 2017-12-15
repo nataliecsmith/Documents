@@ -46,7 +46,7 @@
                       Abraham S. Brown
                         (Marshall County farmer)
                     </persName>
-                        <event type="birth"  when="1805"  certainty="medium" ><ab>c1805</ab></event>
+                        <event type="birth"  when="1805"  cert="medium" ><ab>c1805</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marshall County, Unnamed District, p. 464.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Marshall County, Unnamed District, p. 464.
 </bibl></ab>
     </back>
 </text>

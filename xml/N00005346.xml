@@ -46,7 +46,7 @@
                       Jacob H. Walter
                         (West Deer, Pennsylvania, merchant and prothonotary)
                     </persName>
-                        <event type="birth"  when="1835"  certainty="medium" ><ab>c1835</ab></event>
+                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Pennsylvania, Allegheny County, West Deer, p. 41.; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Pennsylvania, Allegheny County, Pittsburgh, Ward 8, p. 106.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Pennsylvania, Allegheny County, West Deer, p. 41.; <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Pennsylvania, Allegheny County, Pittsburgh, Ward 8, p. 106.
 </bibl></ab>
     </back>
 </text>

@@ -46,7 +46,7 @@
                       William Bruce
                         (Breckinridge County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1804"  certainty="medium" ><ab>c1804</ab></event>
+                        <event type="birth"  when="1804"  cert="medium" ><ab>c1804</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="U"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 146B-147A. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Breckinridge County, District No. 2, p. 708 <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 140-41.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 146B-147A. <hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Breckinridge County, District No. 2, p. 708 <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckinridge County, District No. 2, p. 140-41.
 </bibl></ab>
     </back>
 </text>

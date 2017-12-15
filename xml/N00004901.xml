@@ -50,7 +50,7 @@
                       George W. Swoope
                         (Owensboro Lawyer)
                     </persName>
-                        <event type="birth"  when="1835"  certainty="medium" ><ab>c1835</ab></event>
+                        <event type="birth"  when="1835"  cert="medium" ><ab>c1835</ab></event>
                         <event type="death"  when="1903-10-02"  ><ab>1903-10-02</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Daviess County, District 1, p. 160; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Daviess County, Owensboro Ward 2, p. 6; <hi rend=”italic”>The Hartford Republican</hi> (Hartford, Ky.), October 2, 1903, p. 3.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Daviess County, District 1, p. 160; <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedule, Kentucky, Daviess County, Owensboro Ward 2, p. 6; <hi rend="italic">The Hartford Republican</hi> (Hartford, Ky.), October 2, 1903, p. 3.
 </bibl></ab>
     </back>
 </text>

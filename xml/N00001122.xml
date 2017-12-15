@@ -54,7 +54,7 @@
                       James W. Shortedge
                         (Calhoun, Ky Hotel Keeper)
                     </persName>
-                        <event type="birth"  when="1819"  certainty="medium" ><ab>c1819</ab></event>
+                        <event type="birth"  when="1819"  cert="medium" ><ab>c1819</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -67,7 +67,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean County, Calhoun, p. 3.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean County, Calhoun, p. 3.
 </bibl></ab>
     </back>
 </text>

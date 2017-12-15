@@ -46,8 +46,8 @@
                       Peter Finley, Sr.
                         (Covington, Kentucky, hosteler)
                     </persName>
-                        <event type="birth"  when="1830"  certainty="medium" ><ab>c1830</ab></event>
-                        <event type="death"  when="1863"  certainty="medium" ><ab>c1863</ab></event>
+                        <event type="birth"  when="1830"  cert="medium" ><ab>c1830</ab></event>
+                        <event type="death"  when="1863"  cert="medium" ><ab>c1863</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington, Ward 3, p. 120; KYR-0001-029-0525.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Kenton County, Covington, Ward 3, p. 120; KYR-0001-029-0525.
 </bibl></ab>
     </back>
 </text>

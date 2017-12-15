@@ -50,7 +50,7 @@
                       William Kash
                         (Breathitt County, Kentucky, farmer and justice of the peace)
                     </persName>
-                        <event type="birth"  when="1809"  certainty="medium" ><ab>c1809</ab></event>
+                        <event type="birth"  when="1809"  cert="medium" ><ab>c1809</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breathitt County, District 1, p. 94; KYR-0001-007-0308.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breathitt County, District 1, p. 94; KYR-0001-007-0308.
 </bibl></ab>
     </back>
 </text>

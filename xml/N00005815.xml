@@ -46,7 +46,7 @@
                       Daniel Callihan
                         (Greenup County farmer)
                     </persName>
-                        <event type="birth"  when="1818"  certainty="medium" ><ab>c1818</ab></event>
+                        <event type="birth"  when="1818"  cert="medium" ><ab>c1818</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, East Little Sandy, p. 21; <hi rend=”italic”>Kentucky, County Marriages, 1852-1914</hi>, Ancestry, Greenup County, 1853.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Greenup County, East Little Sandy, p. 21; <hi rend="italic">Kentucky, County Marriages, 1852-1914</hi>, Ancestry, Greenup County, 1853.
 </bibl></ab>
     </back>
 </text>

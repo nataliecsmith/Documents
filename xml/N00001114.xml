@@ -54,7 +54,7 @@
                       Norris Foster
                         (Calhoun, Ky )
                     </persName>
-                        <event type="birth"  when="1826"  certainty="medium" ><ab>c1826</ab></event>
+                        <event type="birth"  when="1826"  cert="medium" ><ab>c1826</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -67,7 +67,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean County, Calhoun, p. 4. <hi rend=”italic”>Proceeding of the Grand Lodge of Kentucky</hi>, (Frankfort, Ky.: Frankfort Commonwealth, Printer, 1867), 230.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, McLean County, Calhoun, p. 4. <hi rend="italic">Proceeding of the Grand Lodge of Kentucky</hi>, (Frankfort, Ky.: Frankfort Commonwealth, Printer, 1867), 230.
 </bibl></ab>
     </back>
 </text>

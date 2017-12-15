@@ -46,7 +46,7 @@
                       Thomas P. Paine
                         (Eddyville, Kentucky, manufacturer)
                     </persName>
-                        <event type="birth"  when="1823"  certainty="medium" ><ab>c1823</ab></event>
+                        <event type="birth"  when="1823"  cert="medium" ><ab>c1823</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lyon County, Eddyville, p. 9; Ancestry.com. <hi rend=”italic”>U.S. IRS Tax Assessment Lists, 1862-1918</hi> [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2008., Lyon County, Kentucky, November 1865.
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lyon County, Eddyville, p. 9; Ancestry.com. <hi rend="italic">U.S. IRS Tax Assessment Lists, 1862-1918</hi> [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2008., Lyon County, Kentucky, November 1865.
 </bibl></ab>
     </back>
 </text>

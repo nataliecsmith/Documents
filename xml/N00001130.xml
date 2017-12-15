@@ -51,7 +51,7 @@
                         (California/New York Life Insurance Agent)
                     </persName>
                         <event type="birth"  when="1838-01-08"  ><ab>1838-01-08</ab></event>
-                        <event type="death"  when="1889"  certainty="medium" ><ab>c1889</ab></event>
+                        <event type="death"  when="1889"  cert="medium" ><ab>c1889</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -64,7 +64,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, California, Sacramento County, Sacramento Ward 2, p. 91; <hi rend=”italic”>Find A Grave</hi>, &quot;Harry Smith Homans (1838-1889),&quot; Memorial #93851955, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=93851955&amp;ref=acom (accessed March 29, 2017); KYR-0001-007-0314.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, California, Sacramento County, Sacramento Ward 2, p. 91; <hi rend="italic">Find A Grave</hi>, &quot;Harry Smith Homans (1838-1889),&quot; Memorial #93851955, http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=93851955&amp;ref=acom (accessed March 29, 2017); KYR-0001-007-0314.
 </bibl></ab>
     </back>
 </text>

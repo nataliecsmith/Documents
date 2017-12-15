@@ -50,7 +50,7 @@
                       Benjamin Young
                         (Anderson County farmer)
                     </persName>
-                        <event type="birth"  when="1805"  certainty="medium" ><ab>c1805</ab></event>
+                        <event type="birth"  when="1805"  cert="medium" ><ab>c1805</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, Lawrenceburg post office, p. 33.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Anderson County, Lawrenceburg post office, p. 33.
 </bibl></ab>
     </back>
 </text>

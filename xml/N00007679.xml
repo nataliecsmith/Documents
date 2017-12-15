@@ -46,7 +46,7 @@
                       Archibald C. McBeath
                         (Grayson County, Kentucky, physician)
                     </persName>
-                        <event type="birth"  when="1806"  certainty="medium" ><ab>c1806</ab></event>
+                        <event type="birth"  when="1806"  cert="medium" ><ab>c1806</ab></event>
                         <event type="death"  when="1872-09"  ><ab>1872-09</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="U"/>
@@ -60,7 +60,7 @@
 
     </body>
     <back>
-        <ab><bibl>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend=”italic”>Kentucky: A History of the State</hi> (Louisville: F. A. Battey and Company, 1887), 1114. <hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Grayson County, p. 5B. <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grayson County, Litchfield, p. 1. <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Grayson County, Litchfield, p. 4.
+        <ab><bibl>W. H. Perrin, J. H. Battle, and G. C. Kniffin, <hi rend="italic">Kentucky: A History of the State</hi> (Louisville: F. A. Battey and Company, 1887), 1114. <hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Grayson County, p. 5B. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Grayson County, Litchfield, p. 1. <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Grayson County, Litchfield, p. 4.
 </bibl></ab>
     </back>
 </text>

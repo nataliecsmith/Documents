@@ -46,7 +46,7 @@
                       James A. Graham
                         (marion co lawyer)
                     </persName>
-                        <event type="birth"  when="1837"  certainty="medium" ><ab>c1837</ab></event>
+                        <event type="birth"  when="1837"  cert="medium" ><ab>c1837</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, [State], Marion, Lebanon, District 2, p. 102.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, [State], Marion, Lebanon, District 2, p. 102.
 </bibl></ab>
     </back>
 </text>

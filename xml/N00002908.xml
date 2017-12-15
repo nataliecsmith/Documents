@@ -46,7 +46,7 @@
                       John C. Baker
                         (Franklin County, Kentucky, farmer)
                     </persName>
-                        <event type="birth"  when="1834"  certainty="medium" ><ab>c1834</ab></event>
+                        <event type="birth"  when="1834"  cert="medium" ><ab>c1834</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, District 2, p. 60; KYR-0001-029-0500.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, District 2, p. 60; KYR-0001-029-0500.
 </bibl></ab>
     </back>
 </text>

@@ -46,7 +46,7 @@
                       Willoughby Sanford Scott
                         (Bourbon County, Kentucky, farmer and slave trader)
                     </persName>
-                        <event type="birth"  when="1815"  certainty="medium" ><ab>c1815</ab></event>
+                        <event type="birth"  when="1815"  cert="medium" ><ab>c1815</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bourbon County, District 1, p. 292; <hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bourbon County, Paris, p. 3; KYR-0001-029-0537.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Bourbon County, District 1, p. 292; <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Bourbon County, Paris, p. 3; KYR-0001-029-0537.
 </bibl></ab>
     </back>
 </text>

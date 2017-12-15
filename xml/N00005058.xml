@@ -46,7 +46,7 @@
                       J. H. Cook
                         (Marshall co wagon maker)
                     </persName>
-                        <event type="birth"  when="1828"  certainty="medium" ><ab>c1828</ab></event>
+                        <event type="birth"  when="1828"  cert="medium" ><ab>c1828</ab></event>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,7 +58,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, Briensburg, p. 5.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Marshall County, Briensburg, p. 5.
 </bibl></ab>
     </back>
 </text>

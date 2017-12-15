@@ -50,7 +50,7 @@
                       William C. Wood
                         (Louisville attorney)
                     </persName>
-                        <event type="birth"  when="1831"  certainty="medium" ><ab>c1831</ab></event>
+                        <event type="birth"  when="1831"  cert="medium" ><ab>c1831</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -63,7 +63,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Tanner’s Louisville Directory, and Business Advertiser for 1861</hi> (Louisville: Henry Tanner, 1861), 267. <hi rend=”italic”>Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Missouri, Livingston, Chillicothe, p. 22.
+        <ab><bibl><hi rend="italic">Tanner’s Louisville Directory, and Business Advertiser for 1861</hi> (Louisville: Henry Tanner, 1861), 267. <hi rend="italic">Tenth Manuscript Census of the United States</hi> (1880), Population Schedules, Missouri, Livingston, Chillicothe, p. 22.
 </bibl></ab>
     </back>
 </text>

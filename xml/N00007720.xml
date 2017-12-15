@@ -46,7 +46,7 @@
                       Joseph Tucker
                         (Breckinridge County, Kentucky, resident)
                     </persName>
-                        <event type="birth"  when="1812"  certainty="medium" ><ab>c1812</ab></event>
+                        <event type="birth"  when="1812"  cert="medium" ><ab>c1812</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District 2, p. 66. KYR-0001-029-0566.
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Breckinridge County, District 2, p. 66. KYR-0001-029-0566.
 </bibl></ab>
     </back>
 </text>

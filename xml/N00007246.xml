@@ -46,7 +46,7 @@
                       Robert A. Dickson
                         (Eddyville, Kentucky, grocer)
                     </persName>
-                        <event type="birth"  when="1832"  certainty="medium" ><ab>c1832</ab></event>
+                        <event type="birth"  when="1832"  cert="medium" ><ab>c1832</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 104; <hi rend=”italic”>Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lyon County, Eddyville, p. 2.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Lyon County, Eddyville, p. 104; <hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Lyon County, Eddyville, p. 2.
 </bibl></ab>
     </back>
 </text>

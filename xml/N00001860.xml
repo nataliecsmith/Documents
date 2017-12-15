@@ -46,7 +46,7 @@
                       John H. Cashman
                         (Breckenridge County farmer)
                     </persName>
-                        <event type="birth"  when="1812"  certainty="medium" ><ab>c1812</ab></event>
+                        <event type="birth"  when="1812"  cert="medium" ><ab>c1812</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckenridge County, District One, p. 16.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Breckenridge County, District One, p. 16.
 </bibl></ab>
     </back>
 </text>

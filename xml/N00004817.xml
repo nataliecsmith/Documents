@@ -46,7 +46,7 @@
                       Joseph P. Gailbreath 
                         (Louisville attorney)
                     </persName>
-                        <event type="birth"  when="1827"  certainty="medium" ><ab>c1827</ab></event>
+                        <event type="birth"  when="1827"  cert="medium" ><ab>c1827</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 2, p. 242. Henry Tanner, ed., <hi rend=”italic”>Tanner&#39;s Louisville Directory, and Business Advertiser for 1861</hi>, (Louisville, KY: Directory Publication and Advertising Agency), 95.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 2, p. 242. Henry Tanner, ed., <hi rend="italic">Tanner&#39;s Louisville Directory, and Business Advertiser for 1861</hi>, (Louisville, KY: Directory Publication and Advertising Agency), 95.
 </bibl></ab>
     </back>
 </text>

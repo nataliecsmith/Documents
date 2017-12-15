@@ -46,7 +46,7 @@
                       Caroline Dement
                         (Tennessee/Louisville)
                     </persName>
-                        <event type="birth"  when="1842"  certainty="medium" ><ab>c1842</ab></event>
+                        <event type="birth"  when="1842"  cert="medium" ><ab>c1842</ab></event>
                         <trait type="race" subtype="Black"/>
                       <trait type="gender" subtype="F"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-020-0131.<br>
+        <ab><bibl>KYR-0001-020-0131.<lb/>
 KYR-0001-020-0134.
 </bibl></ab>
     </back>

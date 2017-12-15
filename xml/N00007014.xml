@@ -46,7 +46,7 @@
                       Frederick Williams
                         (Louisville, Kentucky, bank clerk)
                     </persName>
-                        <event type="birth"  when="1811"  certainty="medium" ><ab>c1811</ab></event>
+                        <event type="birth"  when="1811"  cert="medium" ><ab>c1811</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -59,7 +59,7 @@
 
     </body>
     <back>
-        <ab><bibl><hi rend=”italic”>Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 7, p. 119. KYR-0001-029-0593.
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, Louisville, Ward 7, p. 119. KYR-0001-029-0593.
 </bibl></ab>
     </back>
 </text>
