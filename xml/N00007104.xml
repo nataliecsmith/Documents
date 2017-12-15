@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Michael Beyer</title>
+        <title level="a" type="main">Michael O&#39;Bryan</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
@@ -43,7 +47,7 @@
         <particDesc>
                 <person xml:id="N00007104">
                     <persName>
-                      Michael Beyer
+                      Michael O&#39;Bryan
                         (Likely Greenup County)
                     </persName>
                       <trait type="gender" subtype="U"/>
@@ -53,7 +57,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed a petition for George B. Lamblin.</p>
+        <p>Signed a petition for George B. Lamblin in Greenup County, Kentucky.</p>
 
     </body>
     <back>
