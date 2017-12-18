@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">West Point, Hardin County, Kentucky</title>
+        <title level="a" type="main">West Point, Kentucky</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name></name>
@@ -45,7 +49,7 @@
                     <placeName>
                         <location>
                               <geo>37.9995 -85.9436</geo>
-                            <settlement>West Point, Hardin County, Kentucky</settlement>
+                            <settlement>West Point, Kentucky</settlement>
                         </location>
                     </placeName>
                 </place> 
