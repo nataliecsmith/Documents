@@ -71,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P001006">State of Pennsylvania</placeName><lb/>City &amp; County of Philad<hi rend="sup">a</hi> } S.S.</p>
-<p>I. <persName ref="cwgk:N001780">Wm V Arche</persName>r duly appointed by the Governer of the State of Kentucky a Commissioner for the State of Kentucky resident at Philadelphia in the State of Pennsylvania; do Solemnly Swear that I will well and faithfully execute and perform all the duties of such Commissioner under and by virtue of the Land of the said State of Kentucky</p>
+   <p><placeName ref="cwgk:P001006">State of Pennsylvania</placeName><lb/>City &amp; County of <placeName ref="cwgk:P00001701">Philad<hi rend="sup">a</hi></placeName> } S.S.</p>
+   <p>I. <persName ref="cwgk:N001780">Wm V Arche</persName>r duly appointed by the <persName ref="cwgk:N001000">Governer of the State of Kentucky</persName> a Commissioner for the <orgName ref="cwgk:O001025">State of Kentucky</orgName> resident at Philadelphia in the State of Pennsylvania; do Solemnly Swear that I will well and faithfully execute and perform all the duties of such Commissioner under and by virtue of the Land of the said State of Kentucky</p>
 <p><hi rend="underline">Wm V Archer</hi></p>
 <p><figure type="seal"><ab>ARTHUR M BURTON
 <lb/>COMMISSIONER
 <lb/>PHILADELPHIA PENNY</ab></figure></p>
 <p>Sworn and subscribed me this <date when="1860-09-17">seventeenth day of September AD 1860</date></p>
-<p>Arthur M. Burton
+   <p><persName ref="cwgk:N001781">Arthur M. Burton</persName>
 <lb/>Commissioner for Kentucky
 <lb/>in Pennsylvania<pb/></p>
 <p>Pennsylvania<figure type="hr"/>
