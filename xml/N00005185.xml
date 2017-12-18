@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">D. A. Hamilton</title>
+        <title level="a" type="main">David A. Hamilton</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Stephen Powell</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name></name>
@@ -43,7 +47,7 @@
         <particDesc>
                 <person xml:id="N00005185">
                     <persName>
-                      D. A. Hamilton
+                      David A. Hamilton
                         (murder victim, Hardin Co.)
                     </persName>
                         <event type="death"  when="1863-09-30"  ><ab>1863-09-30</ab></event>
