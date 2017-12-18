@@ -3,18 +3,18 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Cincinnati, Hamilton County, Ohio</title>
+        <title level="a" type="main">Cincinnati, Ohio</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Tyler Campbell</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
+            <name>Patrick A. Lewis</name>
           </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Patrick A. Lewis</name>
+            <name>Anthony P. Curtis</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -49,7 +49,7 @@
                     <placeName>
                         <location>
                               <geo>39.1031 -84.512</geo>
-                            <settlement>Cincinnati, Hamilton County, Ohio</settlement>
+                            <settlement>Cincinnati, Ohio</settlement>
                         </location>
                     </placeName>
                 </place> 
