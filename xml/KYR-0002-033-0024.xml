@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0024"> 
  <teiHeader>
   <fileDesc>
@@ -64,20 +64,20 @@
  <text>
   <body>
    <p>H<hi rend="underline"><hi rend="sup">d</hi></hi> Q<hi rend="underline"><hi rend="sup">rs</hi></hi> 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav
-<lb/>Camp Near Lost Mountain Geo
-<lb/><date when="1864-06-14">June 14" 1864</date>.
-<lb/>Gov Bramlette</p>
+<lb/>Camp Near <placeName ref="cwgk:P00005793">Lost Mountain Geo
+</placeName><lb/><date when="1864-06-14">June 14" 1864</date>.
+<lb/>Gov <persName ref="cwgk:N001000">Bramlette</persName></p>
 <p>Sir -- I have the honor to recommend to you for promotion the following officers -- </p>
-<p>Captain Thomas Rowland Co "K" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be promoted to Major vice Maj Drye Resigned, this for Gallant Conduct in many battles &amp; skirmishes.</p>
-<p>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt Phillip Roberts Co "K" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be made Captain same "Co" vice Rowland promoted. Tilford N Bruner 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt Co "K" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be made 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt same "Co" vice Roberts promoted, 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt James S Pankey Co "I" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be made Capt Co "I" vice Capt Smith Risigned. Thomas Graves orderly Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Co "I" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be made 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt same "Co" vice Pankey promoted. 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt Joseph D Beatie Co "L"<pb/>
-<lb/>1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be made Captain same "Co" vice Capt Fishback Resigned. Granville. I. Vaught orderly Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Co "L" to be made 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt vice Beatie promoted,</p>
+<p>Captain <persName ref="cwgk:N00005140">Thomas Rowland </persName>Co "K" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be promoted to Major vice <persName ref="cwgk:N00005237">Maj Drye </persName>Resigned, this for Gallant Conduct in many battles &amp; skirmishes.</p>
+<p>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt <persName ref="cwgk:N00005166">Phillip Roberts</persName> Co "K" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be made Captain same "Co" vice Rowland promoted. Tilford N Bruner 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt Co "K" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be made 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt same "Co" vice Roberts promoted, 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt James S Pankey Co "I" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be made Capt Co "I" vice <persName ref="cwgk:N00005165">Capt Smith </persName>Risigned. <persName ref="cwgk:N00005771">Thomas Graves</persName> orderly Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Co "I" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be made 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt same "Co" vice Pankey promoted. 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt <persName ref="cwgk:N00005168">Joseph D Beatie </persName>Co "L"<pb/>
+<lb/>1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be made Captain same "Co" vice Capt <persName ref="cwgk:N00000518">Fishback </persName>Resigned. Granville. I. Vaught orderly Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Co "L" to be made 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt vice Beatie promoted,</p>
 <p>I am Sir
 <lb/>Very Resptly
 <lb/>your ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi> 
-<lb/>S Adams
-<lb/>Lt Col 1<hi rend="sup">st</hi> Ky Cav</p>
+<lb/><persName ref="cwgk:N00005138">S Adams
+</persName><lb/>Lt Col 1<hi rend="sup">st</hi> Ky Cav</p>
 <p>P. S
-<lb/>George H Norton ^asst Surgeon^ vice A. G Huffman resigned</p>
+<lb/><persName ref="cwgk:N00005795">George H Norton </persName>^asst Surgeon^ vice <persName ref="cwgk:N00005796">A. G Huffman</persName> resigned</p>
 <p>S Adams</p>
   </body>
  </text>
