@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1370"> 
  <teiHeader>
   <fileDesc>
@@ -63,16 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Columbia Ky
-<lb/><date when="1864-12-16">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 16" 1864</date>
+   <p><placeName ref="cwgk:P001014">Columbia Ky</placeName><lb/><date when="1864-12-16">Dec<hi rend="underline"><hi rend="sup">r</hi></hi> 16" 1864</date>
 <lb/>Gov. Bramlette
 <lb/>Dear Sir</p>
-<p>At the last term of the Barren Circuit Court an Indictment for "Hog stealing" was found and returned by the Grand Jury against E K. Owsley Esq -- from my long and intimate acquaintance with M<hi rend="underline"><hi rend="sup">r</hi></hi> O<hi rend="sub">s</hi>- his character standing as a Gentleman of irreproachable integrity -- I need not assure you that I was astounded at such an accusation; I have made enquiry into the circumstances surrounding the case. and am gratified to be able to state from reliable information, that the prosecution is malicious and unfounded -- It might be that the same feeling of malevolence that set on foot the charge might stimulate the parties to sustain it, and M<hi rend="underline"><hi rend="sup">r</hi></hi> Owsley has thought proper to ask that the proceeding be stopped before trial and in that view of the case I cheerfully join with him in asking your Excellencys interposition in his behalf, I do this too the more willingly on account of his much esteemed relations and family with whom I have mingled in closest ties of friendship from early boyhood. Hoping that your Excellency will favourably consider this application</p>
+<p>At the last term of the <orgName ref="cwgk:O00000351">Barren Circuit Court</orgName> an Indictment for "Hog stealing" was found and returned by the Grand Jury against <persName ref="cwgk:N00002588">E K. Owsley</persName> Esq -- from my long and intimate acquaintance with M<hi rend="underline"><hi rend="sup">r</hi></hi> O<hi rend="sub">s</hi>- his character standing as a Gentleman of irreproachable integrity -- I need not assure you that I was astounded at such an accusation; I have made enquiry into the circumstances surrounding the case. and am gratified to be able to state from reliable information, that the prosecution is malicious and unfounded -- It might be that the same feeling of malevolence that set on foot the charge might stimulate the parties to sustain it, and M<hi rend="underline"><hi rend="sup">r</hi></hi> Owsley has thought proper to ask that the proceeding be stopped before trial and in that view of the case I cheerfully join with him in asking your Excellencys interposition in his behalf, I do this too the more willingly on account of his much esteemed relations and family with whom I have mingled in closest ties of friendship from early boyhood. Hoping that your Excellency will favourably consider this application</p>
 <p>I remain
 <lb/>very Respt
 <lb/>your friend &amp; obt
 <lb/>servant
-<lb/>T T Alexander</p>
+<lb/><persName ref="cwgk:N00002587">T T Alexander</persName></p>
   </body>
  </text>
 </TEI>
