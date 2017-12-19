@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0013"> 
  <teiHeader>
   <fileDesc>
@@ -63,14 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>In front of Atlanta Geo
-<lb/><date when="1864-06-01">June 1<hi rend="sup">st</hi> 1864,</date>
-<lb/>Gov Bramlette -- </p>
-<p>Sir -- I return a present Commission issued to Lt Root. the Commission is to Rob<hi rend="underline"><hi rend="sup">t</hi></hi> C Root, it should be William C. Root, please have another Commission issued and the bearer of this will bring it to the Reg<hi rend="underline"><hi rend="sup">t</hi></hi></p>
+   <p>In front of <placeName ref="cwgk:P00005758">Atlanta Geo
+</placeName><lb/><date when="1864-06-01">June 1<hi rend="sup">st</hi> 1864,</date>
+<lb/><persName ref="cwgk:N001000">Gov Bramlette</persName> -- </p>
+<p>Sir -- I return a present Commission issued to <persName ref="cwgk:N00005156">Lt Root</persName>. the Commission is to Rob<hi rend="underline"><hi rend="sup">t</hi></hi> C Root, it should be William C. Root, please have another Commission issued and the bearer of this will bring it to the Reg<hi rend="underline"><hi rend="sup">t</hi></hi></p>
 <p>I am very Resptly
 <lb/>Your ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
-<lb/>W D Carpenter
-<lb/>adjt 
+<lb/><persName ref="cwgk:N00005141">W D Carpenter
+</persName><lb/>adjt 
 <lb/>1<hi rend="sup">st</hi> Ky Cav.<pb/></p>
 <p>In front of Atlanta Ga
 <lb/><date when="1864-06-01">June 1<hi rend="underline"><hi rend="sup">s</hi></hi> 1864</date><figure type="hr"/>
