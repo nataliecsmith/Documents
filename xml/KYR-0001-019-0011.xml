@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0011"> 
  <teiHeader>
   <fileDesc>
@@ -69,11 +69,9 @@
 <p><milestone unit="column" n="2"/><cb n="1"/>A. STAGER, Gen. Sup't, Cleveland, O.
 <lb/><cb n="2"/>I. R. ELWOOD, Sec'y, Rochester, N. Y.<milestone unit="column" n="1"/><figure type="hr"/></p>
 <p><gap/>1860.
-<lb/>To Gov Magoffin
-<lb/>By Telegraph from Louisville <date when="1861">30 186<hi rend="str">0</hi>1</date>.</p>
-<p>Telegraph Barrett Cashier of Branch Southern Bank here to pay amount to credit of Commonwealath of Ky in his Bank to A O Brannin &amp; Myself to be used in arming the State, Sign dispatch as Governor of Kentucky check held by us Signed by you objected to as an individual check &amp; not as Governor
-<lb/>answer</p>
-<p>B J Adams</p>
+<lb/>To Gov <persName ref="cwgk:N00000258">Magoffin</persName><lb/>By Telegraph from <placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861">30 186<hi rend="str">0</hi>1</date>.</p>
+<p>Telegraph Barrett Cashier of Branch <orgName ref="cwgk:O001005">Southern Bank</orgName> here to pay amount to credit of<orgName ref="cwgk:O001025"> Commonwealath of Ky</orgName> in his Bank to <persName ref="cwgk:N00000403">A O Brannin</persName> &amp; Myself to be used in arming the State, Sign dispatch as Governor of Kentucky check held by us Signed by you objected to as an individual check &amp; not as Governor<lb/>answer</p>
+<p><persName ref="cwgk:N00000401">B J Adams</persName></p>
   </body>
  </text>
 </TEI>
