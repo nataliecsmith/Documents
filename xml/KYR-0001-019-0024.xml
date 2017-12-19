@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0024"> 
  <teiHeader>
   <fileDesc>
@@ -64,9 +64,9 @@
  <text>
   <body>
    <p>To His Excellency.
-<lb/>Gov. Beriah Magoffin</p>
+<lb/>Gov. <persName ref="cwgk:N00000258">Beriah Magoffin</persName></p>
 <p>Sir the old citizens of this place and vicinity in consequence of the disrupted condition of our country have formed and organized themselves into a home guard, in order that they may be prepared for any emergency, that may come upon them. we are however without arms and we apply to you Excellency, to furnish us with the necessary amount of arms, the guards prefer the sharp riflle if they can get them if they cannot be procured, they will be satisfied with such as your excellency will furnish. the Guards number rank and file Fifty Nine. Hoping to hear from you soon I remain Verry Resptfully</p>
-<p>D. T. Porter. Cpt. Guard</p>
+<p><persName ref="cwgk:N00002594">D. T. Porter</persName>. Cpt. Guard</p>
 <p>Keysburg, <date when="1861-04-26">April <hi rend="underline">26</hi><hi rend="underline"><hi rend="sup">th</hi></hi><hi rend="underline"> 1861</hi></date></p>
 <p>N. B. Send amount of Bond to be given immediately</p>
 <p>D T Porter<pb/></p>
