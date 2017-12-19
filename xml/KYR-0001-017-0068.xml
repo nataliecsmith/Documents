@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0068"> 
  <teiHeader>
   <fileDesc>
@@ -63,44 +63,8 @@
  <text>
   <body>
    <p>Notaries</p>
-<p><table rend="rules">
-<row>
-	<cell>L. W. Long</cell>
-	<cell>Union Co</cell>
-	<cell><hi rend="underline">paid</hi> &#x2713;</cell>
-</row>
-<row>
-	<cell>H. A Schaeffer</cell>
-	<cell>Jefferson "</cell>
-	<cell>&#x2713;</cell>
-</row>
-<row>
-	<cell>Ja<hi rend="sup">s</hi>. A. Terrill</cell>
-	<cell>"</cell>
-	<cell>&#x2713;</cell>
-</row>
-<row>
-	<cell>W. E Robinson</cell>
-	<cell>"</cell>
-	<cell>&#x2713;</cell>
-</row>
-<row>
-	<cell>O. A. Patten</cell>
-	<cell>Kenton "</cell>
-	<cell>&#x2713;</cell>
-</row>
-<row>
-	<cell>P, S, Bush</cell>
-	<cell>"</cell>
-	<cell>&#x2713;</cell>
-</row>
-<row>
-	<cell>Jo<hi rend="sup">s</hi>, M<hi rend="sup">c</hi>Groty</cell>
-	<cell>Mercer "</cell>
-	<cell>&#x2713;</cell>
-</row>
-</table>
-<lb/><pb/></p>
+<p>	
+<placeName ref="cwgk:P00001845">Union Co</placeName><lb/><pb/></p>
 <p>Notaries to be confirmed<figure type="hr"/>
 <lb/><date when="1861-02-09">Feby 9. 1861</date></p>
   </body>
