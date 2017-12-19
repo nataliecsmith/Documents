@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0140"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,61 +72,45 @@
  <text>
   <body>
    <p>Calhoon <date when="1863-10-02">2<hi rend="underline"><hi rend="sup">d</hi></hi> Oct. 1863</date>
-<lb/>To Gov. Bramlette
-<lb/>Governor of Kentucky</p>
-<p>The Undersigned petitioners would Respectfully Represent that at the Last <date when="--09">September</date> Term of the MLean Circuit Court a fine <hi rend="str">w</hi>of Fifty Dollars Was adjudged against L B Lillard for Keeping a Tipling House We Want Represent that if a Tipling House Was Kept it Was Under such Circumstance that We think Executive Clemency Should be used- and Respectfully ask that the fine be Remitted.</p>
-<p>Yours Truly &amp;<hi rend="underline"><hi rend="sup">c</hi></hi>
-<lb/>Alf C Tanner
-<lb/>Alf. H. Edwards
-<lb/>L. G. Alexander
-<lb/>Ben. H. Franklin
-<lb/>W C Mosley
-<lb/>Thomas C <unclear>Tihoenr</unclear>
-<lb/>Isaac N Vertrees
-<lb/>D. H. Jones
-<lb/>W Calhoun
-<lb/>R. Dicken
-<lb/>James Hiell
-<lb/>D Little P. J. M. C.
-<lb/>R. W Allen Provost Marshal M<hi rend="sup">c</hi>Lean Co Ky
-<lb/>Lot. Cooper
-<lb/>John Van Horn
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> J Moseley<pb/>
-<lb/>Henry Griffith
-<lb/>Samuel H Jones
-<lb/>Thornley Atchison
-<lb/>C. L. Stubenville
-<lb/>P. H. Preston
-<lb/>Isaac Calhoon
-<lb/>L. L. Little
-<lb/>T M Conditt
+<lb/>To <persName ref="cwgk:N001000">Gov. Bramlette
+</persName><lb/>Governor of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p>The Undersigned petitioners would Respectfully Represent that at the Last <date when="--09">September</date> Term of the MLean Circuit Court a fine <hi rend="str">w</hi>of Fifty Dollars Was adjudged against <persName ref="cwgk:N00001106">L B Lillard </persName>for Keeping a Tipling House We Want Represent that if a Tipling House Was Kept it Was Under such Circumstance that We think Executive Clemency Should be used- and Respectfully ask that the fine be Remitted.</p>
+<p>Yours Truly<persName ref="cwgk:N00001074">[Colemon mitcake]</persName>&amp;
+<persName ref="cwgk:N00001074">[Colemon mitcake]</persName><lb/>Alf C Tann<persName ref="cwgk:N00001074">[Colemon mitcake]</persName>r<lb/>Alf. H. Edw<persName ref="cwgk:N00001074">[Colemon mitcake]</persName>rds<lb/><persName ref="cwgk:N00001079">L. G. Alexander
+</persName><lb/>Ben. H. Frankli<persName ref="cwgk:N00001074">[Colemon mitcake]</persName><lb/><persName ref="cwgk:N00001087">W C Mosley
+</persName><lb/>Thomas C<persName ref="cwgk:N00001074">[Colemon mitcake]</persName>Tihoe
+<persName ref="cwgk:N00001074">[Colemon mitcake]</persName>r<lb/>Isaac N Vertre<persName ref="cwgk:N00001074">[Colemon mitcake]</persName>s<lb/><persName ref="cwgk:N00001090">D. H. Jones
+</persName><lb/><persName ref="cwgk:N00001091">W Calhoun</persName><lb/><persName ref="cwgk:N00001080">R. Dicken</persName><lb/>James Hiel<persName ref="cwgk:N00001074">[Colemon mitcake]</persName><lb/><persName ref="cwgk:N00001093">D Little</persName> P. J. M. <persName ref="cwgk:N00001074">[Colemon mitcake]</persName>.<lb/>R. W Allen Provost Marshal<persName ref="cwgk:N00001074">[Colemon mitcake]</persName>MLean Co Ky
+<persName ref="cwgk:N00001074">[Colemon mitcake]</persName><lb/><persName ref="cwgk:N00001095">Lot. Cooper
+</persName><lb/><persName ref="cwgk:N00001096">John Van Horn</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> J Moseley<pb/>
+<lb/><persName ref="cwgk:N00001082">Henry Griffith
+</persName><lb/><persName ref="cwgk:N00001098">Samuel H Jones
+</persName><lb/><persName ref="cwgk:N00001100">Thornley Atchison</persName><lb/>C. L. Stubenville
+<lb/><persName ref="cwgk:N00001108">P. H. Preston
+</persName><lb/>Isaac Calhoon
+<lb/><persName ref="cwgk:N00001083">L. L. Little
+</persName><lb/>T M Conditt
 <lb/>A F Wattkins
-<lb/>C G Clark
-<lb/>Ben Croutcher
-<lb/>J L Mclaughlin
+<lb/><persName ref="cwgk:N00001112">C G Clark</persName><lb/><persName ref="cwgk:N00001084">Ben Croutcher
+</persName><lb/>J L Mclaughlin
 <lb/>Noris Foster
-<lb/>W. T. Owen
-<lb/>Elijah. H. Mosely
+<lb/><persName ref="cwgk:N00001115">W. T. Owen
+</persName><lb/>Elijah. H. Mosely
 <lb/>George.. G.. Jones
-<lb/>T. H. Jones
-<lb/>James Garreson
-<lb/>J S Garrison
-<lb/>R P Heal
-<lb/>W B Riggs
-<lb/>Gorg <unclear>Vierit</unclear>
-<lb/>W W Mitchel
-<lb/>J. W. Shortedge
-<lb/>Howard Pinkston
-<lb/><unclear>Colemon mitcehl</unclear>
-<lb/>Low X Edwards
-<lb/>J. T. Jones
-<lb/>F S.. Robards<pb/>
-<lb/>Isaac Vertrees
-<lb/><hi rend="str">S</hi> S C Riggs
-<lb/>D, G, Thomason
-<lb/>A, H, Castlen
-<lb/>E. P. Moseley
-<lb/>Alf C Tanner</p>
+<lb/><persName ref="cwgk:N00001070">T. H. Jones</persName><lb/>James Garreson
+<lb/><persName ref="cwgk:N00001119">J S Garrison
+</persName><lb/>R P Heal
+<lb/><persName ref="cwgk:N00001071">W B Riggs</persName><lb/>Gorg <unclear>Vierit</unclear>
+<lb/><persName ref="cwgk:N00001121">W W Mitchel
+</persName><lb/>J. W. Shortedge
+<lb/><persName ref="cwgk:N00001101">Howard Pinkston
+</persName><lb/><unclear>Colemon mitcehl</unclear>
+<lb/><persName ref="cwgk:N00001073">Low X Edwards
+</persName><lb/><persName ref="cwgk:N00001075">J. T. Jones
+</persName><lb/>F S.. Robards<pb/>
+<lb/><persName ref="cwgk:N00001089">Isaac Vertrees</persName><lb/><hi rend="str">S</hi> S C Riggs
+<lb/><persName ref="cwgk:N00001103">D. G. Thomason</persName><lb/>A, H, Castlen
+<lb/><persName ref="cwgk:N00001104">E. P. Moseley</persName><lb/>Alf C Tanner</p>
   </body>
  </text>
 </TEI>
