@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1376"> 
  <teiHeader>
   <fileDesc>
@@ -63,10 +63,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1864-12-08">December 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.
-<lb/>Gov, Bramlette
-<lb/>Dear Sir</p>
-<p>Enclosed you will find the petition of A. B. Miller-- Governor if there ever was a case that merited your clemency it is this one this young man Charles Miller was among the very first in our city to volenteer to stand by the <hi rend="underline">union</hi> he together with another brother &amp; Father has faithfully served their country for three years-- His Father is a poor man paralized in both legs so that he cannot wolk one step &amp; his wife is feeble &amp; this son is the only help they Have I have talked with several Gentleman who were present at the trial-- they all agree that he ought to be pardoned-- If I did not believe him to be a Gallant &amp; true soldier &amp; not guilty, I would not<pb/>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1864-12-08">December 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>.
+<lb/><persName ref="cwgk:N001000">Gov, Bramlette
+</persName><lb/>Dear Sir</p>
+<p>Enclosed you will find the petition of <persName ref="cwgk:N00005666">A. B. Miller</persName>-- Governor if there ever was a case that merited your clemency it is this one this young man <persName ref="cwgk:N00005667">Charles Miller</persName> was among the very first in our city to volenteer to stand by the <hi rend="underline">union</hi> he together with another brother &amp; Father has faithfully served their country for three years-- His Father is a poor man paralized in both legs so that he cannot wolk one step &amp; his wife is feeble &amp; this son is the only help they Have I have talked with several Gentleman who were present at the trial-- they all agree that he ought to be pardoned-- If I did not believe him to be a Gallant &amp; true soldier &amp; not guilty, I would not<pb/>
 <lb/>trouble you with this case but what I say I know to be true wherefore in the name of mercy &amp; Justice I ask you to pardon the young man-- it will in my Judgement the heartty approval of all good citizens who know him &amp; his poor parents--, The affliction of his parents &amp; their good character will plead my apology-- for this ergent letter</p>
 <p>with profound Respect
 <lb/>I am yours
