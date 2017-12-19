@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0002"> 
  <teiHeader>
   <fileDesc>
@@ -63,8 +63,7 @@
  </teiHeader>
  <text>
   <body>
-   <p><note place="header">Lt. Col Silas Adams com Colonel 1<hi rend="underline"><hi rend="sup">st</hi></hi> cavalry <date when="1864-06-05">June 5. 1864</date> vice Frank Wolford dismissed<figure type="hr"/>
-<lb/>1. 2. 3. 4. 5.</note></p>
+   <p>Lt. Col <persName ref="cwgk:N00005138">Silas Adams</persName> com Colonel 1st cavalry June 5. 1864 vice <persName ref="cwgk:N00005137">Frank Wolford</persName> dismissed</p>
 <p>H<hi rend="underline"><hi rend="sup">d</hi></hi> Q<hi rend="underline"><hi rend="sup">rs</hi></hi> 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav
 <lb/>Allatoona Geo
 <lb/><date when="1864-06-05">June 5" 1864</date>.
@@ -72,182 +71,9 @@
 <lb/>Sir -- </p>
 <p>As a vacancy exists in this Regiment as Colonel= we the undersigned officers of said Regiment do Resptly petition your Exc<hi rend="str">i</hi>ellency to Commission Lt Col Silas Adams as Colonel of the 1<hi rend="sup">st</hi> Ky Cav vice Col Wolford out of service. Col Adams is so well known as a<hi rend="str">s</hi> Cavalry officer. he needs no recommendation from us, a like petition was sent you some time since, but we have heard nothing from it. Our Regiment numbers over one Thousand men, and <hi rend="str">are</hi> is entitled to all the officers allowed a Cavalry Regiment.</p>
 <p>signed
-<lb/><table rend="rules">
-<row>
-	<cell>F. M Halveti</cell>
-	<cell>Major</cell>
-	<cell> </cell>
-</row>
-<row>
-	<cell>W D Carpenter</cell>
-	<cell>Adjt</cell>
-	<cell> </cell>
-</row>
-<row>
-	<cell>M H Blackford</cell>
-	<cell>Q M</cell>
-	<cell> </cell>
-</row>
-<row>
-	<cell>E. Cox</cell>
-	<cell>Commissary</cell>
-	<cell> </cell>
-</row>
-</table><pb/>
-<lb/><table rend="rules">
-<row>
-	<cell>H. Brown</cell>
-	<cell>Surgeon</cell>
-	<cell> </cell>
-</row>
-<row>
-	<cell>A A Campbell</cell>
-	<cell>asst Surgeon.</cell>
-	<cell> </cell>
-</row>
-<row>
-	<cell>F M Wolford</cell>
-	<cell>Capt</cell>
-	<cell>Co A</cell>
-</row>
-<row>
-	<cell>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Belden</cell>
-	<cell>"</cell>
-	<cell>" B</cell>
-</row>
-<row>
-	<cell>D R Carr</cell>
-	<cell>"</cell>
-	<cell>C</cell>
-</row>
-<row>
-	<cell>R C Blain</cell>
-	<cell>"</cell>
-	<cell>F</cell>
-</row>
-<row>
-	<cell>James G Dick</cell>
-	<cell>"</cell>
-	<cell>H</cell>
-</row>
-<row>
-	<cell>A. T. Keen</cell>
-	<cell>"</cell>
-	<cell>J</cell>
-</row>
-<row>
-	<cell>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Rowland</cell>
-	<cell>"</cell>
-	<cell>K</cell>
-</row>
-<row>
-	<cell>J B Fishback</cell>
-	<cell>"</cell>
-	<cell>L</cell>
-</row>
-<row>
-	<cell>James Humphrey</cell>
-	<cell>Lt</cell>
-	<cell>A</cell>
-</row>
-<row>
-	<cell>W<hi rend="underline"><hi rend="sup">m</hi></hi> Adams</cell>
-	<cell>"</cell>
-	<cell>"</cell>
-</row>
-<row>
-	<cell>Vincent Peyton</cell>
-	<cell>"</cell>
-	<cell>B</cell>
-</row>
-<row>
-	<cell>W<hi rend="sup">m</hi> Everett</cell>
-	<cell>"</cell>
-	<cell>"</cell>
-</row>
-<row>
-	<cell>James Chilton</cell>
-	<cell>"</cell>
-	<cell>C</cell>
-</row>
-<row>
-	<cell>W. C. Root</cell>
-	<cell>"</cell>
-	<cell>"</cell>
-</row>
-<row>
-	<cell>Warren Lamb</cell>
-	<cell>"</cell>
-	<cell>D</cell>
-</row>
-<row>
-	<cell>John Kimbrell</cell>
-	<cell>"</cell>
-	<cell>E</cell>
-</row>
-<row>
-	<cell>W. B. Ballard</cell>
-	<cell>"</cell>
-	<cell>"</cell>
-</row>
-<row>
-	<cell>O, M, Dodson</cell>
-	<cell>"</cell>
-	<cell>F</cell>
-</row>
-<row>
-	<cell>R G Huffman</cell>
-	<cell>"</cell>
-	<cell>"</cell>
-</row>
-<row>
-	<cell>Daniel Murphy</cell>
-	<cell>"</cell>
-	<cell>G</cell>
-</row>
-<row>
-	<cell>A. Grubbs</cell>
-	<cell>"</cell>
-	<cell>H</cell>
-</row>
-<row>
-	<cell>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Duncan</cell>
-	<cell>"</cell>
-	<cell>"</cell>
-</row>
-</table><pb/>
-<lb/><table rend="rules">
-<row>
-	<cell>James S Pankey</cell>
-	<cell>Lt</cell>
-	<cell>Co I</cell>
-</row>
-<row>
-	<cell>John M<hi rend="sup">c</hi>Clain</cell>
-	<cell>"</cell>
-	<cell>" J</cell>
-</row>
-<row>
-	<cell><hi rend="str">J</hi>A. S. Smith</cell>
-	<cell>"</cell>
-	<cell>" "</cell>
-</row>
-<row>
-	<cell>Phillip Roberts</cell>
-	<cell>"</cell>
-	<cell>" K</cell>
-</row>
-<row>
-	<cell>Tilford. N. Bruner</cell>
-	<cell>"</cell>
-	<cell>" "</cell>
-</row>
-<row>
-	<cell>Joseph Batie</cell>
-	<cell>"</cell>
-	<cell>" L.</cell>
-</row>
-</table></p>
+<lb/>	<persName ref="cwgk:N00005141">W D Carpenter</persName><pb/>
+<lb/>	<persName ref="cwgk:N00005140">Thos Rowland</persName><pb/>
+<lb/>	<persName ref="cwgk:N00005163">James S Pankey</persName></p>
 <p>I have copied this from the original petition signed by every officer, And I Certify that we have on the Regimental Rolls over one thousand men, we have here in the front over five hundred men mounted Twice as many as any other Cavalry Regiment in Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Stoneman's Command. we need more field officers in the Regiment. Col Adams is Commanding a Brigade. Major Owens is a prisoner. Maj Drye is at home wounded and we have only one Field officer with the Regiment.</p>
 <p>I am very Resptly 
 <lb/>Your ob<hi rend="sup">t</hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
