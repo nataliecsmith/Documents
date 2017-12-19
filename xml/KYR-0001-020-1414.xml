@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1414"> 
  <teiHeader>
   <fileDesc>
@@ -63,34 +63,32 @@
  </teiHeader>
  <text>
   <body>
-   <p>Carlisle, Ky,
-<lb/><date when="1861-09-17">Sep 17 1861</date>
-<lb/>Hon B, Magoffin,</p>
-<p>Sir, Our friend W<hi rend="sup">m</hi> Still became security upon a replevin bond for Michel Burns, who was fined at the last term of the Nicholas Circuit Court &#36;50, for carrying concealed deadly weapons, Since the bond was given Burns has died ^without any means or property,^ and M<hi rend="sup">r</hi> Still now asks that the amount thereof may be remitted. I respectfully unite in that request and ask that M<hi rend="sup">r</hi> Still may be released, and the amount of the bond remitted,</p>
+   <p><placeName ref="cwgk:P00000537">Carlisle</placeName>, Ky,<lb/><date when="1861-09-17">Sep 17 1861</date>
+<lb/>Hon<persName ref="cwgk:N00000258"> B. Magoffin</persName>,</p>
+<p>Sir, Our friend W<hi rend="sup">m</hi> Still became security upon a replevin bond for <persName ref="cwgk:N00007476">Michel Burns</persName>, who was fined at the last term of the Nicholas Circuit Court $50, for carrying concealed deadly weapons, Since the bond was given Burns has died ^without any means or property,^ and M<hi rend="sup">r</hi> Still now asks that the amount thereof may be remitted. I respectfully unite in that request and ask that M<hi rend="sup">r</hi> Still may be released, and the amount of the bond remitted,</p>
 <p>Respectfully, 
 <lb/>Your Obt Svt 
-<lb/>R H Stanton</p>
+<lb/><persName ref="cwgk:N00002605">R H Stanton</persName></p>
 <p>We, citizens of Nicholas County, recommend to the Governor, the propriety of remitting the above. <date when="1861-09-18">Sept. 18, 1861.</date></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>John F, M<hi rend="sup">c</hi>Millan
-<lb/>E. M. Ewing
-<lb/>Robert Sims
-<lb/><cb n="2"/>Benj. F. Edwards
-<lb/>W. P. Ross
-<lb/><hi rend="underline">R B Kiddard</hi>
-<lb/>A. J. Banta
-<lb/>William Norvell
-<lb/>E C Burden
-<lb/>Thomas E. Quisenberry
-<lb/>A J Bante Jnr
-<lb/><hi rend="underline">J. L.</hi> <hi rend="underline">Arnold</hi>
-<lb/>John M, Ball
-<lb/>J H Holladay
-<lb/>W. W. Howard
-<lb/>Fitch Munger
-<lb/>Milford Berry
-<lb/>Jonathan Johnson<milestone unit="column" n="1"/><pb/></p>
+<lb/><persName ref="cwgk:N00007477">E. M. Ewing</persName><lb/><persName ref="cwgk:N00007478">Robert Sims
+</persName><lb/><cb n="2"/><persName ref="cwgk:N00007479">Benj. F. Edwards
+</persName><lb/><persName ref="cwgk:N00006451">W. P. Ross
+</persName><lb/><hi rend="underline">R B Kiddard</hi>
+<lb/><persName ref="cwgk:N00002717">A. J. Banta
+</persName><lb/><persName ref="cwgk:N00006646">William Norvell
+</persName><lb/><persName ref="cwgk:N00007483">E C Burden
+</persName><lb/><persName ref="cwgk:N00007485">Thomas E. Quisenberry
+</persName><lb/><persName ref="cwgk:N00007486">A J Bante Jnr
+</persName><lb/><hi rend="underline">J. L.</hi> <hi rend="underline">Arnold</hi>
+<lb/><persName ref="cwgk:N00007488">John M. Ball
+</persName><lb/><persName ref="cwgk:N00007489">J H Holladay
+</persName><lb/><persName ref="cwgk:N00002414">W. W. Howard
+</persName><lb/><persName ref="cwgk:N00006356">Fitch Munger
+</persName><lb/><persName ref="cwgk:N00007491">Milford Berry
+</persName><lb/><persName ref="cwgk:N00007493">Jonathan Johnson</persName><milestone unit="column" n="1"/><pb/></p>
 <p>Nicholas Cir. Ct
-<lb/>&#36;50. &#125; Weapons
+<lb/>$50. } Weapons
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Still
 <lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-09-20">Sept 20.<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date><figure type="hr"/></p>
 <p>Remitted
