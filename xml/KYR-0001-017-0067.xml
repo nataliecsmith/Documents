@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0067"> 
  <teiHeader>
   <fileDesc>
@@ -64,10 +64,10 @@
  <text>
   <body>
    <p>Senate Chamber <date when="1861-02-09">9<hi rend="sup">th</hi> F<hi rend="underline">eb</hi>/61</date>
-<lb/>Governor Magoffin</p>
-<p>I would suggest to your Excellency the appointment of some Two or Three aids in my portion of the state, say John Hyden of the county of Clay, John S. Hargis of the county of Breathitt, E, B, Treadway &amp; myself for the county of Owsley, with Those names <hi rend="str"><unclear/></hi>for a Brace Sir in, my portion of the state, your Excellency <unclear><hi rend="str">Th</hi></unclear>would have no cause for fears of Servile or Civil wars</p>
+<lb/><persName ref="cwgk:N00000258">Governor Magoffin</persName></p>
+<p>I would suggest to your Excellency the appointment of some Two or Three aids in my portion of the state, say <persName ref="cwgk:N00002434">John Hyden</persName> of the <placeName ref="cwgk:P00000570">county of Clay,</placeName> John S. Hargis of the <placeName ref="cwgk:P00001048">county of Breathitt</placeName>, <persName ref="cwgk:N00002436">E. B. Treadway</persName> &amp; myself for the <placeName ref="cwgk:P00000562">county of Owsley</placeName>, with Those names <hi rend="str"><unclear/></hi>for a Brace Sir in, my portion of the state, your Excellency <unclear><hi rend="str">Th</hi></unclear>would have no cause for fears of Servile or Civil wars</p>
 <p>your Truly
-<lb/>J Ewing Gibson<pb/></p>
+<lb/><persName ref="cwgk:N00001027">J Ewing Gibson</persName><pb/></p>
 <p>Issue Commission &amp; hand to Gibson
 <lb/>B. M</p>
 <p>aids

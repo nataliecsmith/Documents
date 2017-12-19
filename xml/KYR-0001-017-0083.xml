@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0083"> 
  <teiHeader>
   <fileDesc>
@@ -63,13 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Williams Town Ky
-<lb/><date when="1861-02-22">Feby 22<hi rend="underline"><hi rend="sup">d</hi></hi> 1861.</date>
-<lb/>Hon B. MaGoffin</p>
-<p>Dear Sir, Esq<hi rend="underline"><hi rend="sup">r</hi></hi> <hi rend="str">Robt</hi> Joseph Elliston has resigned his office of Justice of the Peace for this County in District. No 4, and the citizens in that District desire you to appoint Thomas A Franklin to fill the place made Vacant by the Resignation of s<hi rend="sup">d</hi> Elliston.</p>
+   <p><placeName ref="cwgk:P00002296">Williams Town Ky
+</placeName><lb/><date when="1861-02-22">Feby 22<hi rend="underline"><hi rend="sup">d</hi></hi> 1861.</date>
+<lb/>Hon <persName ref="cwgk:N00000258">B. MaGoffin</persName></p>
+<p>Dear Sir, Esq<hi rend="underline"><hi rend="sup">r</hi></hi> <hi rend="str">Robt</hi> <persName ref="cwgk:N00002298">Joseph Elliston</persName> has resigned his office of Justice of the Peace for this County in District. No 4, and the citizens in that District desire you to appoint <persName ref="cwgk:N00002370">Thomas A Franklin</persName> to fill the place made Vacant by the Resignation of s<hi rend="sup">d</hi> Elliston.</p>
 <p>With Respect
-<lb/>H Hall
-<lb/>President Judge G, C. C C<pb/></p>
+<lb/><persName ref="cwgk:N00002505">H Hall
+</persName><lb/>President Judge G, C. C C<pb/></p>
 <p>Grant Co.</p>
 <p>Issue commission
 <lb/>B. M</p>

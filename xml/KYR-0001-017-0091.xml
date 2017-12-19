@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0091"> 
  <teiHeader>
   <fileDesc>
@@ -63,13 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Office Louisville Courier.
-<lb/><date when="1861-02-25">Feby 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1861.</date>
-<lb/>Gov. Magoffin:-</p>
-<p>A personal friend of mine, D<hi rend="underline"><hi rend="sup">r</hi></hi> Mandeville Thum of this city is ambitious of becoming an <hi rend="underline">aid</hi> of the Governor. Knowing him to be a gentleman in the true sense of the word, and one who would do honor to the position, I dare solicit the appointment from you.</p>
+   <p>Office <orgName ref="cwgk:O00000730">Louisville Courier</orgName>.<lb/><date when="1861-02-25">Feby 20<hi rend="underline"><hi rend="sup">th</hi></hi> 1861.</date>
+<lb/><persName ref="cwgk:N00000258">Gov. Magoffin</persName>:-</p>
+<p>A personal friend of mine, D<hi rend="underline"><hi rend="sup">r</hi></hi> <persName ref="cwgk:N00002567">Mandeville Thum</persName> of this city is ambitious of becoming an <hi rend="underline">aid</hi> of the Governor. Knowing him to be a gentleman in the true sense of the word, and one who would do honor to the position, I dare solicit the appointment from you.</p>
 <p>I am assured my dear Governor you will pardon the request, since it serves my friend and attaches him to you.</p>
 <p>Your friend
-<lb/><hi rend="underline">Walter Overton</hi><pb/></p>
+<lb/><persName ref="cwgk:N00002568">Walter Overton</persName><pb/></p>
 <p>Aid<figure type="hr"/>
 <lb/>D<hi rend="underline"><hi rend="sup">r</hi></hi> M Thum
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-03-02">Mar. 2. 1861</date></p>

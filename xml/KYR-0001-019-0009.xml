@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0009"> 
  <teiHeader>
   <fileDesc>
@@ -63,14 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Petersburgh Boone Co Ky, <date when="1861-02-05">Feb 5/61</date>
+   <p><placeName ref="cwgk:P00001218">Petersburgh</placeName> <placeName ref="cwgk:P00001194">Boone Co Ky.</placeName> <date when="1861-02-05">Feb 5/61</date>
 <lb/>Hon, Beriah M<hi rend="underline"><hi rend="sup">c</hi></hi>Goffin
 <lb/>Govenor of Kentucky.
 <lb/>Dear Sir</p>
-<p>I have just rcd. a letter from an old companion in arms, one who fought side by side with me on the Caledonia in the battle of Lake Erie James Artus of Maysville. who informs me that the Legislature of this state last winter ^voted^ that a gold medal should be prepared by the Govenor &amp; presented to each of the survivors of the battle in Lake Erie on the <date when="1813-09-10">10<hi rend="sup">th</hi> of Sept 1813</date>. Please inform me if the above information is correct &amp; what step will be necessary for me to take to obtain the medal, Your with Respect</p>
-<p>John Norris<pb/></p>
-<p>Lake Erie
-<lb/>Volunteer
+<p>I have just rcd. a letter from an old companion in arms, one who fought side by side with me on <orgName ref="cwgk:O00001221">the Caledonia</orgName> in the battle of Lake Erie James Artus of<placeName ref="cwgk:P00001219"> Maysville</placeName>. who informs me that the Legislature of this state last winter ^voted^ that a gold medal should be prepared by the Govenor &amp; presented to each of the survivors of the battle in Lake Erie on the <date when="1813-09-10">10<hi rend="sup">th</hi> of Sept 1813</date>. Please inform me if the above information is correct &amp; what step will be necessary for me to take to obtain the medal, Your with Respect</p>
+<p><persName ref="cwgk:N00001196">John Norris</persName><pb/></p>
+<p><geogName ref="cwgk:G00001220">Lake Erie
+</geogName><lb/>Volunteer
 <lb/>Medals<figure type="hr"/></p>
 <p>Norris Medal</p>
   </body>

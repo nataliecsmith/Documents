@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0090"> 
  <teiHeader>
   <fileDesc>
@@ -63,13 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Johnson County Court
-<lb/><date when="1861-02">February Term 1861.</date></p>
-<p>It is Ordered to be Certified to his Excellency the Governor of Kentucky that James Crum is a proper and fit person to fill the office of Justice of the Peace of this County in District N<hi rend="sup">o</hi> 6 in the place of James Step resigned</p>
-<p>A Copy att John Hawes C, J, C, C<pb/></p>
-<p>Johnson Co
-<lb/>J. P. Dist No 6
+   <p><placeName ref="cwgk:P001800">State of Kentucky
+</placeName><lb/><orgName ref="cwgk:O00000644">Johnson County Court
+</orgName><lb/><date when="1861-02">February Term 1861.</date></p>
+<p>It is Ordered to be Certified to his Excellency the <persName ref="cwgk:N00000258">Governor of Kentucky</persName> that <persName ref="cwgk:N00002564">James Crum</persName> is a proper and fit person to fill the office of Justice of the Peace of this County in District N<hi rend="sup">o</hi> 6 in the place of James Step resigned</p>
+<p>A Copy att <persName ref="cwgk:N00002565">John Hawes </persName>C, J, C, C<pb/></p>
+<p><placeName ref="cwgk:P00002566">Johnson Co
+</placeName><lb/>J. P. Dist No 6
 <lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Crum</p>
 <p>Issue Commission
 <lb/>B. M</p>

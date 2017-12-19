@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0065"> 
  <teiHeader>
   <fileDesc>
@@ -63,13 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Owingsville Ky
-<lb/><date when="1861-02-04">February 4<hi rend="sup">th</hi> 1861</date>
+   <p><placeName ref="cwgk:P00002306">Owingsville Ky
+</placeName><lb/><date when="1861-02-04">February 4<hi rend="sup">th</hi> 1861</date>
 <lb/>To His Excellency
-<lb/>Govenor Magoffin
-<lb/>Frankfort Ky
-<lb/>Dear, Sir -- </p>
-<p>Mr A Trumbo having resigned his office of Police Judge of the town of Owingsville. I herewith enclose his resignation addressed to you</p>
+<lb/><persName ref="cwgk:N00000258">Govenor Magoffin
+</persName><lb/><placeName ref="cwgk:P00000308">Frankfort Ky
+</placeName><lb/>Dear, Sir -- </p>
+<p>Mr <persName ref="cwgk:N00002307">A Trumbo</persName> having resigned his office of Police Judge of the town of Owingsville. I herewith enclose his resignation addressed to you</p>
 <p>The Board of Trustees of which I am a member have nominated as his successor Col. V, B, Young -- If the nominations meets your approbation you will please send him his commission -- </p>
 <p>I remain yours very Respectfully
 <lb/>R Gudgell<pb/></p>

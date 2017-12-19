@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0057"> 
  <teiHeader>
   <fileDesc>
@@ -63,24 +63,7 @@
  <text>
   <body>
    <p>Notary Public</p>
-<p><table rend="rules">
-<row>
-	<cell>G. C. Gaines</cell>
-	<cell/>
-</row>
-<row>
-	<cell>H.. L. Woolfolk</cell>
-	<cell>Dixon Webster County</cell>
-</row>
-<row>
-	<cell>John Brooks</cell>
-	<cell/>
-</row>
-<row>
-	<cell>W. T. Vaughn.</cell>
-	<cell>Clayville D<hi rend="sup">o</hi>..</cell>
-</row>
-</table><pb/></p>
+<p>	<persName ref="cwgk:N00002308">G. C. Gaines</persName><pb/></p>
 <p>Webster Co.
 <lb/>Notaries Public<figure type="hr"/>
 <lb/>Com<hi rend="underline"><hi rend="sup">d</hi></hi>

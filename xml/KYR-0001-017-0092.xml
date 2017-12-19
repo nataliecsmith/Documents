@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0092"> 
  <teiHeader>
   <fileDesc>
@@ -63,8 +63,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of New York</p>
-<p>City &amp; County of New York ss:</p>
+   <p><placeName ref="cwgk:P001007">State of New York</placeName></p>
+<p><placeName ref="cwgk:P00002569">City &amp; County of New York</placeName> ss:</p>
 <p>Thomas Darlington being duly sworn says that he will well and truly execute and perform all the duties of his station as a Commissioner of Deeds for Kentucky resident in New York.</p>
 <p>Thomas Darlington</p>
 <p>Subscribed &amp; Sworn to this <date when="1861-02-26">26<hi rend="sup">th </hi>day of February A.D. 1861</date> before me in the City of New York</p>

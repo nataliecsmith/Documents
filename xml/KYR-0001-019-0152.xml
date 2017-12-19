@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0152"> 
  <teiHeader>
   <fileDesc>
@@ -63,12 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Governor,</p>
-<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> White is in Louisville and is expected at home <hi rend="underline">this evening</hi> -- Had you not better Telagrah M<hi rend="underline"><hi rend="sup">r</hi></hi> Guthrie to hunt him up and use him if thinks it necessary, on the conditions you and I agreed-</p>
+   <p><persName ref="cwgk:N00000258">Governor</persName>,</p>
+<p>M<hi rend="underline"><hi rend="sup">r</hi></hi> White is in <placeName ref="cwgk:P00000337">Louisville </placeName>and is expected at home <hi rend="underline">this evening</hi> -- Had you not better Telagrah M<hi rend="underline"><hi rend="sup">r</hi></hi> Guthrie to hunt him up and use him if thinks it necessary, on the conditions you and I agreed-</p>
 <p><hi rend="str">m</hi>Respectfully
 <lb/>P. D
 <lb/>Arsenal Tuesday morning</p>
-<p>P. S. M<hi rend="underline"><hi rend="sup">r</hi></hi> White will likely be found at U. S. Hotel</p>
+<p>P. S. M<hi rend="underline"><hi rend="sup">r</hi></hi> White will likely be found at <placeName ref="cwgk:P00006933">U. S. Hotel</placeName></p>
 <p>P D</p>
   </body>
  </text>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0097"> 
  <teiHeader>
   <fileDesc>
@@ -64,13 +64,13 @@
  <text>
   <body>
    <p>Phil<hi rend="sup">a</hi> <date when="1861-03-11">Mar 11. 1861</date>.
-<lb/>Hon Thomas B. Monroe Jr
-<lb/>Secretary of State of Ky
+<lb/>Hon <persName ref="cwgk:N00002581">Thomas B. Monroe Jr
+</persName><lb/>Secretary of State of Ky
 <lb/>D<hi rend="sup">r</hi> Sir</p>
 <p>I acknowledge rect of Commission dated <date when="1861-02-02">Feby 2/61</date>, and send herewith the official oath which I trust will be found correct</p>
 <p>Respll yours--
-<lb/>Joshua Sperring
-<lb/>142 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> So 4th.</p>
+<lb/><persName ref="cwgk:N00002560">Joshua Sperring
+</persName><lb/>142 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> So 4th.</p>
   </body>
  </text>
 </TEI>

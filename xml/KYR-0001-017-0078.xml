@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0078"> 
  <teiHeader>
   <fileDesc>
@@ -63,8 +63,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>Savannah Ga.
-<lb/><date when="1861-02-07">Feb. 7th. 1861.</date>
+   <p><placeName ref="cwgk:P00002476">Savannah Ga</placeName>.<lb/><date when="1861-02-07">Feb. 7th. 1861.</date>
 <lb/>To His Excellency
 <lb/>the Governor of
 <lb/>the State of
@@ -77,7 +76,7 @@
 <lb/><hi rend="underline">J. P.</hi><pb/></p>
 <p>I know Jno. Staley to be a Magistrate of good character, and believe him competent to fill the office for which he has applied.</p>
 <p><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> <unclear/></hi> J. J. C. C. C.
-<lb/><hi rend="underline">W B Knopf J. J C. C.C</hi><pb/></p>
+<lb/><persName ref="cwgk:N00002478">W B Knopf</persName> J. J C. C.C<pb/></p>
 <p>Georgia<figure type="hr"/>
 <lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>Jno. A. Staley

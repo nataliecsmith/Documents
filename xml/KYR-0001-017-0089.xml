@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0089"> 
  <teiHeader>
   <fileDesc>
@@ -62,8 +62,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>William P. Mellen
-<lb/>Cincinnati O.</p>
+   <p><persName ref="cwgk:N00002563">William P. Mellen
+</persName><lb/>Cincinnati O.</p>
 <p>For -- Comm<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds</p>
   </body>
  </text>

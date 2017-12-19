@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0070"> 
  <teiHeader>
   <fileDesc>
@@ -64,11 +64,11 @@
   <body>
    <p><date when="1861-02-11">Feby 11 1861</date>
 <lb/>To his Excellency.
-<lb/>Gov. Magoffin</p>
-<p>May I take the liberty of asking you to give to Mr Young A. Linn the appointment of Aid to the Governor- It would be a compliment which he richly merits and one that he would appreciate -- </p>
+<lb/><persName ref="cwgk:N00000258">Gov. Magoffin</persName></p>
+<p>May I take the liberty of asking you to give to Mr <persName ref="cwgk:N00002458">Young A. Linn </persName>the appointment of Aid to the Governor- It would be a compliment which he richly merits and one that he would appreciate -- </p>
 <p>I am very respectfully
 <lb/>Your ob<hi rend="underline"><hi rend="sup">t</hi></hi> ser't
-<lb/>J. Wes. Cook<pb/></p>
+<lb/><persName ref="cwgk:N00002459">J. Wes. Cook</persName><pb/></p>
 <p>Aid<figure type="hr"/>
 <lb/>Young. A Linn
 <lb/><date when="1861-02-11">Feby 11. 1861</date></p>

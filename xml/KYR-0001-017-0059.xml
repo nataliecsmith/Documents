@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0059"> 
  <teiHeader>
   <fileDesc>
@@ -63,14 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1861-01-28">Jany 28/61</date>
-<lb/>His Excellency Gov Magoffin
-<lb/>Frankfort
-<lb/>Governor</p>
-<p>I respectfully ask for Mr Thomas Darlington of New York City the appointment of Kentucky Commissioner in &amp; for the state of New York</p>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-01-28">Jany 28/61</date>
+<lb/>His Excellency <persName ref="cwgk:N00000258">Gov Magoffin</persName><lb/><placeName ref="cwgk:P00000308">Frankfort</placeName><lb/>Governor</p>
+<p>I respectfully ask for Mr <persName ref="cwgk:N00002346">Thomas Darlington</persName> of New York City the appointment of Kentucky Commissioner in &amp; for the state of New York</p>
 <p>Please advise me of your determination</p>
 <p>Your Obdt servt
-<lb/><hi rend="underline">J. B Kinkead</hi><pb/></p>
+<lb/><persName ref="cwgk:N00000781">J. B Kinkead</persName><pb/></p>
 <p>New York<figure type="hr"/>
 <lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> Darlington

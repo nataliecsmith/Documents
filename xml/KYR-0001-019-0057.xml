@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0057"> 
  <teiHeader>
   <fileDesc>
@@ -63,13 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Maysville Ky <date when="1861-05-28">May 28<hi rend="sup">th</hi> ^1861^</date>
-<lb/>Govner Magoffin
-<lb/>Dear Sir</p>
+   <p><placeName ref="cwgk:P00001219">Maysville</placeName> Ky <date when="1861-05-28">May 28<hi rend="sup">th</hi> ^1861^</date>
+<lb/>Govner<persName ref="cwgk:N00000258"> Magoffin
+</persName><lb/>Dear Sir</p>
 <p>We the youths of the city of Maysville have organised ourselves into a company for the protection of <hi rend="str">our</hi>the <hi rend="str">n</hi>Neutrality of our state and I the writer is the captain of said company and I do write you this letter ask<hi rend="str">king</hi>ing you to <hi rend="underline">please</hi> send me a sword and belt and our company will return their best thanks and myself in behalf.</p>
 <p>Direct to
-<lb/>Capt. H. M. Pearce
-<lb/>Care L. C. Pearce, Maysville Ky<pb/></p>
+<lb/>Capt.<persName ref="cwgk:N00003881"> H. M. Pearce</persName><lb/>Care <persName ref="cwgk:N00003913">L. C. Pearce</persName>, Maysville Ky<pb/></p>
 <p>Sec will answer</p>
 <p>Answ<hi rend="underline"><hi rend="sup">d</hi></hi></p>
   </body>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0058"> 
  <teiHeader>
   <fileDesc>
@@ -63,17 +63,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Weakly County Tennesse
-<lb/><date when="1861-05-28">May 2<hi rend="str">7</hi>8<hi rend="sup">th </hi>1861</date>
-<lb/>To Hon John A Gardner</p>
+   <p><placeName ref="cwgk:P00003914">Weakly County Tennesse
+</placeName><lb/><date when="1861-05-28">May 2<hi rend="str">7</hi>8<hi rend="sup">th </hi>1861</date>
+<lb/>To Hon <persName ref="cwgk:N00003328">John A Gardner</persName></p>
 <p>Sir I refer you to a letter of introduction which you will please find herewith</p>
-<p>I called on Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Harris at Nashville Tennessee on Saturday last <date when="1861-05-25">25 Inst.</date> and had a Conference with him, <hi rend="str">and</hi> on the subject of various public reports, to the effect that troops were being concentrated on the border of Kentucky awaiting the action of a Convention Called to meet at mayfield graves County Ky-- on Thursday the <date when="1861-05-30">30<hi rend="sup">th</hi> of May Ins<hi rend="sup">t</hi>,</date> to take steps preparatory to seceding from Kentucky, and annexing the seven Counties west of the Tennesse river to the state of Tennessee</p>
+<p>I called on Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Harris at Nashville<placeName ref="cwgk:P001001"> Tennessee</placeName> on Saturday last <date when="1861-05-25">25 Inst.</date> and had a Conference with him, <hi rend="str">and</hi> on the subject of various public reports, to the effect that troops were being concentrated on the border of Kentucky awaiting the action of a Convention Called to meet at mayfield graves County Ky-- on Thursday the <date when="1861-05-30">30<hi rend="sup">th</hi> of May Ins<hi rend="sup">t</hi>,</date> to take steps preparatory to seceding from Kentucky, and annexing the seven Counties west of the Tennesse river to the state of<placeName ref="cwgk:P001001"> Tennessee</placeName></p>
 <p>Altho this report is simply absurd, yet under the circumstances it is Calculated to exert a Mischieveous influence upon our political affairs in Kentucky and May precipitate upon us and you, troubles which it is to the interest of both to avoid</p>
 <p>His Excellency refered me to you as his Confidential agent in this part of the state of Tennessee, and urged me to visit you, and make known more fully his wishes togather with those of the Government and people of Ky<pb/></p>
-<p>as shown by my letter of instructions from Governor Magoffin, (a copy of which is herewith enclosed) and from other sources within your reach</p>
-<p>I have in conclusion to say that whilst the people of Kentucky intend to make the destiny of the Confederate States their destiny, still we must avoid precipitation of any sort and leave that question to the logic of events -- </p>
+<p>as shown by my letter of instructions from Governor <persName ref="cwgk:N00000258">Magoffin</persName>, (a copy of which is herewith enclosed) and from other sources within your reach</p>
+<p>I have in conclusion to say that whilst the people of <placeName ref="cwgk:P001800">Kentucky </placeName>intend to make the destiny of the Confederate States their destiny, still we must avoid precipitation of any sort and leave that question to the logic of events -- </p>
 <p>I appeal to your admitted Judgement and prudence therefore, and must be permitted earnestly to hope, that no moove Towards Ky, or over her soil will be made without the consent or at the request of the legally Constituted authorities: It being the policy of Kentucky to maintain a Strict armed Neutrality as set fourth in the proclamation of his Excellency the Governor of Kentucky bearing date the <date when="1861-05-20">20th May 1861</date>, to which I beg leave to refer</p>
-<p>Hoping to hear from you at Paducah Ky at your earliest Convenience -- I have the</p>
+<p>Hoping to hear from you at <placeName ref="cwgk:P00001227">Paducah Ky</placeName> at your earliest Convenience -- I have the</p>
 <p>honor to be your obt Servt
 <lb/>Jno M <unclear><hi rend="underline">Johnson</hi></unclear><pb/></p>
 <p>Hon John A. Gardner

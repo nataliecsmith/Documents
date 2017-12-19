@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0005"> 
  <teiHeader>
   <fileDesc>
@@ -63,21 +63,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Fort Bragg, California
-<lb/><date when="1861-01-08">Jan. 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>.
+   <p><orgName ref="cwgk:O00001183">Fort Bragg, California</orgName><lb/><date when="1861-01-08">Jan. 8<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>.
 <lb/>Sir</p>
-<p>I have just this moment heard that South Carolina has left the Union. I do not know what Kentucky has done, nor what she intends to do, but she cannot go wrong and I am with her heart soul and body.</p>
+<p>I have just this moment heard that <placeName ref="cwgk:P00001184">South Carolina</placeName> has left the Union. I do not know what <placeName ref="cwgk:P001800">Kentucky</placeName> has done, nor what she intends to do, but she cannot go wrong and I am with her heart soul and body.</p>
 <p>When She requires my services they are at your commands.</p>
-<p>Whilst she is in the Union I am an officer in the United States Army, when she goes out please enroll my name as a private in one of the companies of the Kentucky State Guard, report me "absent with leave," order me to my post and I will obey immediately.</p>
+<p>Whilst she is in the Union I am an officer in the <orgName ref="cwgk:O00001186">United States Army</orgName>, when she goes out please enroll my name as a private in one of the companies of the <orgName ref="cwgk:O00000303">Kentucky State Guard</orgName>, report me "absent with leave," order me to my post and I will obey immediately.</p>
 <p>Very respectfully
 <lb/>Your Obt. Svt
 <lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> P. Martin
 <lb/>Bat. 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lt. 6<hi rend="underline"><hi rend="sup">th</hi></hi> Inf<hi rend="underline"><hi rend="sup">ty</hi></hi>
 <lb/>U. S. A.</p>
-<p>His Excell<hi rend="str">a</hi>ency B. Magoffin
-<lb/>Gov. of Kentucky
-<lb/>Frankfort
-<lb/>KY -- <pb/></p>
+<p>His Excell<hi rend="str">a</hi>ency <persName ref="cwgk:N00000258">B. Magoffin</persName><lb/>Gov. of Kentucky
+<lb/><placeName ref="cwgk:P00000308">Frankfort
+</placeName><lb/>KY -- <pb/></p>
 <p>Lieut Martin</p>
   </body>
  </text>

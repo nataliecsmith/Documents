@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0087"> 
  <teiHeader>
   <fileDesc>
@@ -65,12 +65,12 @@
   <body>
    <p>Philad<hi rend="sup">a.</hi> P<hi rend="sup">a</hi> <date when="1861-02-23">Feb 23/61,</date>
 <lb/>His Excellency
-<lb/>B. Magoffin
-<lb/>D<hi rend="sup">r</hi> Sir</p>
+<lb/><persName ref="cwgk:N00000258">B. Magoffin
+</persName><lb/>D<hi rend="sup">r</hi> Sir</p>
 <p>I hereby respectfully apply to your Excellency for the renewal of my appointment as Commissioner of Deeds which will expire on the <date when="1861-03-02">2<hi rend="sup">d</hi> March 1861.</date> I am a member of the bar, competent to perform its duties and believe my acts have been satisfactory to persons having business with your State -- I beg to refer to former recommendations which I suppose are on file in your State Department</p>
 <p>Resply
-<lb/>Joshua Sperring
-<lb/>162 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> So 4<pb/></p>
+<lb/><persName ref="cwgk:N00002560">Joshua Sperring
+</persName><lb/>162 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> So 4<pb/></p>
 <p>Pennsylvania<figure type="hr"/>
 <lb/>Joshua Sperring
 <lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0049"> 
  <teiHeader>
   <fileDesc>
@@ -63,20 +63,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Office of the Quartermaster-General,
-<lb/>Frankfort, Ky., Wednesd<hi rend="sup">ay</hi> <date when="1861-05-05">May 5<hi rend="sup">th</hi>, 1861</date>.
+   <p><orgName ref="cwgk:O00000389">Office of the Quartermaster-General</orgName>,<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, Ky., Wednesd<hi rend="sup">ay</hi> <date when="1861-05-05">May 5<hi rend="sup">th</hi>, 1861</date>.
 <lb/>Dear Sir</p>
-<p>I arrived in the city late yesterday evening with dispatches from Senator Johnson, which I have left with Col B. M. West.</p>
-<p>My mission being to transport arms for Col Tilghman's district, and failing to obtain them, I have determined to leave this evening for Louisville where I shall remain Several days, and if your Excellency desires to Send dispatches to my section of the state by me, you will please send them to me at Louisville care Mess Kean Steele &amp; Judge proprietors &amp;c. It will perhaps be the safer plan to Send them by me, since the mails beyond Louisville are seriously deranged.</p>
+<p>I arrived in the city late yesterday evening with dispatches from Senator <persName ref="cwgk:N001801">Johnson</persName>, which I have left with Col <persName ref="cwgk:N00003327">B. M. West</persName>.</p>
+<p>My mission being to transport arms for Col <persName ref="cwgk:N00001266">Tilghman</persName>'s district, and failing to obtain them, I have determined to leave this evening for Louisville where I shall remain Several days, and if your Excellency desires to Send dispatches to my section of the state by me, you will please send them to me at<placeName ref="cwgk:P00003308"> Louisville care Mess Kean Steele &amp; Judge proprietors &amp;c</placeName>. It will perhaps be the safer plan to Send them by me, since the mails beyond <placeName ref="cwgk:P00000337">Louisville</placeName> are seriously deranged.</p>
 <p>I have the honour to be
 <lb/>Your Excl<hi rend="sup">ency'</hi>'s obt svt
-<lb/>R. Cobb
-<lb/>1<hi rend="sup">st</hi> Lieut K, S, G,</p>
+<lb/><persName ref="cwgk:N00003309">R. Cobb</persName><lb/>1<hi rend="sup">st</hi> Lieut <orgName ref="cwgk:O00000303">K, S, G,</orgName></p>
 <p>His Excellency
-<lb/>B. Magoffin,
-<lb/>Frankfort.
+<lb/><persName ref="cwgk:N00000258">B. Magoffin</persName>,<lb/>Frankfort.
 <lb/>over<pb/></p>
-<p>In addition to Senator Johnson's despatches I enclose the letter of Mr J. A Gardner to him in response to the note of the Senator to Mr G_ I had the good fortune to see M<hi rend="sup">r</hi> Gardner on my way from Union City to Clarksville Tenn, and he very kindly offered me the copy of his letter which I send you- Consenting to its publication if your Excellency should see proper to do so -- He desired me however to return the copy to him at Gardner. P. O. Your Excellency will therefore please have a copy taken and Send the other to me either at Louisville, or at my place of Residence- Eddyville Lyon Co Ky.</p>
+<p>In addition to Senator Johnson's despatches I enclose the letter of <persName ref="cwgk:N00003328">Mr J. A Gardner</persName> to him in response to the note of the Senator to Mr G_ I had the good fortune to see M<hi rend="sup">r</hi> Gardner on my way from <placeName ref="cwgk:P00003313">Union City</placeName> to <placeName ref="cwgk:P00002783">Clarksville</placeName> Tenn, and he very kindly offered me the copy of his letter which I send you- Consenting to its publication if your Excellency should see proper to do so -- He desired me however to return the copy to him at Gardner. P. O. Your Excellency will therefore please have a copy taken and Send the other to me either at Louisville, or at my place of Residence- <placeName ref="cwgk:P00000393">Eddyville</placeName> <placeName ref="cwgk:P00002081">Lyon Co</placeName> Ky.</p>
 <p>truly &amp;c
 <lb/>Cobb</p>
   </body>

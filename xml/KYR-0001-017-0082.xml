@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0082"> 
  <teiHeader>
   <fileDesc>
@@ -63,7 +63,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hickman Ky <date when="1861-02-11">Feby 11<hi rend="sup">th</hi> 1861.</date>
+   <p><placeName ref="cwgk:P00002504">Hickman Ky </placeName><date when="1861-02-11">Feby 11<hi rend="sup">th</hi> 1861.</date>
 <lb/>To Hon'ble Beriah M<hi rend="underline"><hi rend="sup">c</hi></hi>goffin.
 <lb/>Govney of the Commonwealth of Kentucky.</p>
 <p>Sir- I hereby tender to Your Excellency my Resignation of the office of Justice of the Peace for the district N<hi rend="underline"><hi rend="sup">o</hi></hi> 1 in the county of Fulton- Kenty.</p>

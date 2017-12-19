@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0017"> 
  <teiHeader>
   <fileDesc>
@@ -69,13 +69,13 @@
 <p><milestone unit="column" n="2"/><cb n="1"/>N. GREEN, Pres. S. W. Telegraph Co.
 <lb/><cb n="2"/>A. STAGER, General Supt. W. U. Telegraph.<milestone unit="column" n="1"/><figure type="hr"/></p>
 <p>SEND THE FOLLOWING MESSAGE, SUBJECT TO THE ABOVE CONDITIONS.</p>
-<p>Louisville <date when="1861-04-26">Apl 26th 1861</date>
+<p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-04-26">Apl 26th 1861</date>
 <lb/>To G. W. Norton Esq
-<lb/>Russelville Ky</p>
+<lb/><placeName ref="cwgk:P00002479">Russelville Ky</placeName></p>
 <p>Can I draw on you for your quota of the five hundred thousand dollars in the event of drafts coming in for the supply of arms and munitions of war to put the state in a complete position of self defence The amount to the credit of the state subject to my order answer immediately</p>
 <p>B. Magoffin</p>
 <p>Copy B.</p>
-<p>&#36;3.95</p>
+<p>$3.95</p>
   </body>
  </text>
 </TEI>

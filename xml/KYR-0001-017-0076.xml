@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0076"> 
  <teiHeader>
   <fileDesc>
@@ -63,14 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Princeton Ky
-<lb/><date when="1861-02-04">Feby 4/61.</date>
-<lb/>Govr Magoffin
-<lb/>Sir</p>
-<p>It becomes my duty to advise your Excellency of a vacancy in the Office of Justice of the Peace in the 1<hi rend="underline"><hi rend="sup">st</hi></hi> District of of Caldwell County ^occasioned^ by the resignation of Esqr M, Dudley and would respectfully Suggest the name of our Townsman James B- Sasseen as a proper and Suitable to whom if tendered would accept the appointment,</p>
+   <p><placeName ref="cwgk:P00002273">Princeton Ky</placeName><lb/><date when="1861-02-04">Feby 4/61.</date>
+<lb/><persName ref="cwgk:N00000258">Govr Magoffin
+</persName><lb/>Sir</p>
+<p>It becomes my duty to advise your Excellency of a vacancy in the Office of Justice of the Peace in the 1<hi rend="underline"><hi rend="sup">st</hi></hi> District of of <placeName ref="cwgk:P00002472">Caldwell County</placeName> ^occasioned^ by the resignation of Esqr <persName ref="cwgk:N00002473">M. Dudley</persName> and would respectfully Suggest the name of our Townsman <persName ref="cwgk:N00002474">James B. Sasseen</persName> as a proper and Suitable to whom if tendered would accept the appointment,</p>
 <p>Very Respectfully
 <lb/>Your Obt svt,
-<lb/><hi rend="underline">J. Newt Turner</hi><pb/></p>
+<lb/><persName ref="cwgk:N00002475">J. Newt Turner</persName><pb/></p>
 <p>Caldwell Co
 <lb/>Issue commission<figure type="hr"/></p>
 <p>J. P.

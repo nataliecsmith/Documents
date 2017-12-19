@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0014"> 
  <teiHeader>
   <fileDesc>
@@ -67,15 +67,14 @@
 <lb/>TERMS AND CONDITIONS ON WHICH MESSAGES ARE RECEIVED BY THESE COMPANIES FOR TRANSMISSION.</p>
 <p>THE PUBLIC ARE NOTIFIED, that in order to guard against mistakes in the transmission of messages, every message of importance ought to be repeated, by being sent back from the station at which it is to be received to the station from which it is originally sent. Half the usual price for transmission will be charged for repeating the message. These Companies will not be responsible for mistakes or delays in the transmission or delivery of unrepeated messages, from whatever cause they may arise; nor will they be responsible for damages arising from mistakes or delays in the transmission or delivery of a repeated message, beyond an amount exceeding two hundred times the amount paid for sending the message; nor will they be responsible for delays arising from interruptions in the working of their Telegraphs, nor for any mistake or omission of any other Company over whose lines a message is to be sent to reach the place of destination. All messages will hereafter be received by these Companies for transmission, subject to the above conditions. Neither of the above Companies will be liable for the responsibilities of the other.</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>N. GREEN, Pres. S. W. Telegraph Co.
-<lb/><cb n="2"/>A. STAGER, General Supt. W. U. Telegraph.<milestone unit="column" n="1"/><figure type="hr"/></p>
+<lb/><cb n="2"/><persName ref="cwgk:N00001004">A. STAGER</persName>, General Supt. W. U. Telegraph.<milestone unit="column" n="1"/><figure type="hr"/></p>
 <p>SEND THE FOLLOWING MESSAGE, SUBJECT TO THE ABOVE CONDITIONS.</p>
-<p>Louisville <date when="1861-04-26">Apl 26th 1861</date>
-<lb/>To J, L Dallum Esqr
-<lb/>Paducah Ky</p>
+<p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-04-26">Apl 26th 1861</date>
+<lb/>To <persName ref="cwgk:N00001228">J, L Dallum</persName> Esqr<lb/><placeName ref="cwgk:P00001227">Paducah Ky</placeName></p>
 <p>You have my proclamation Can I draw on you for your quota of the five hundred thousand dollars to put the State in a complete condition of self defence The amount subject to my order and put to the credit of the state <hi rend="str">answer</hi> to be drawn for as needed answer</p>
-<p>B. Magoffin</p>
+<p><persName ref="cwgk:N00000258">B. Magoffin</persName></p>
 <p>Copy B.</p>
-<p>&#36;3<hi rend="underline">60</hi></p>
+<p>$3<hi rend="underline">60</hi></p>
   </body>
  </text>
 </TEI>

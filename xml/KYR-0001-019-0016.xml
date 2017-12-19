@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0016"> 
  <teiHeader>
   <fileDesc>
@@ -63,10 +63,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Santa Fe Bracken County Ky
-<lb/><date when="1861-04-28">April 28<hi rend="sup">th</hi> 1861</date>
-<lb/>Hon Beriah Magoffin
-<lb/>Governor of Ky</p>
+   <p><placeName ref="cwgk:P00000318">Santa Fe</placeName> <placeName ref="cwgk:P00000319">Bracken County</placeName> <placeName ref="cwgk:P001800">Ky</placeName><lb/><date when="1861-04-28">April 28<hi rend="sup">th</hi> 1861</date>
+<lb/>Hon <persName ref="cwgk:N00000258">Beriah Magoffin
+</persName><lb/>Governor of <placeName ref="cwgk:P001800">Ky</placeName></p>
 <p>Sir the Present Existing and threatening attitude and Condition the Country is in It is time all true patriots was up and Doing if it is Consistent under the present Circumstances I ask permission of you to raise 100 able bodied men in this vicinity armed and Equiped by the State to hold them in rediness at any Emergency Subject to your Order let me know forth with</p>
 <p>Your Obedient Servt
 <lb/>W. D. Pope<pb/></p>

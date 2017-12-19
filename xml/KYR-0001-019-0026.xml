@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0026"> 
  <teiHeader>
   <fileDesc>
@@ -63,13 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Alexandria Campbell Co Ky
-<lb/><date when="1861-04-17">April the 17 1861</date>
-<lb/>B Magofin Esqr</p>
-<p>Respected sir I have been induced to tax your time and patience by a portion of my company and <hi rend="underline">number</hi> of our best Farmers Merchants &amp; and Mechanics By informing you I have recived no answer from my call for armes for my company our presant position leads us to fear we will have use for them before we will learn to use them properly I am ^happy^ to inform you your answer to Lincans call on Kentucky for men is <hi rend="underline">received</hi> and indorced by most respect<hi rend="str">fully</hi>able if not by a majority we find our selves surounded by those who will back the the<pb/>
+   <p><placeName ref="cwgk:P00001878">Alexandria</placeName> <placeName ref="cwgk:P00001874">Campbell Co Ky</placeName><lb/><date when="1861-04-17">April the 17 1861</date>
+<lb/><persName ref="cwgk:N00000258">B Magofin</persName> Esqr</p>
+<p>Respected sir I have been induced to tax your time and patience by a portion of my company and <hi rend="underline">number</hi> of our best Farmers Merchants &amp; and Mechanics By informing you I have recived no answer from my call for armes for my company our presant position leads us to fear we will have use for them before we will learn to use them properly I am ^happy^ to inform you your answer to <persName ref="cwgk:N001760">Lincans</persName> call on <placeName ref="cwgk:P001800">Kentucky</placeName> for men is <hi rend="underline">received</hi> and indorced by most respect<hi rend="str">fully</hi>able if not by a majority we find our selves surounded by those who will back the the<pb/>
 <lb/>administration if not overpowered by numbers in the state</p>
 <p>I have the pleasure to be your <hi rend="underline">obedient</hi> <hi rend="underline">servant</hi>
-<lb/>B, J, Beall Capt of the Campbell County Rangers</p>
+<lb/><persName ref="cwgk:N00001889">B. J. Beall</persName> Capt of the Campbell County Rangers</p>
 <p>To his Excelency
 <lb/>B Magofin Go<hi rend="underline"><hi rend="sup">v</hi></hi> of Ky<pb/></p>
 <p>Arms<figure type="hr"/>

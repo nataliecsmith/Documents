@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0006"> 
  <teiHeader>
   <fileDesc>
@@ -63,12 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Armory "Grey's Battalion"
-<lb/>Madison Ind, <date when="1861-01-12">Jan 12' 1861</date>.
+   <p>Armory "<orgName ref="cwgk:O00001187">Grey's Battalion</orgName>"<lb/><placeName ref="cwgk:P00001188">Madison Ind</placeName>, <date when="1861-01-12">Jan 12' 1861</date>.
 <lb/>Sir</p>
 <p>I am authorized to render you the services of the above named corps to aid in quelling servile disturbances or to defend our sister state from Abolition raids of any kind or description.</p>
 <p>We can bring about 118 rifles, with the proper quota of officers, into the field</p>
-<p>Satuated as we are, with communication by steam ferry with Kentucky, we feel that, should the exigence arise, we could make ourselves useful</p>
+<p>Satuated as we are, with communication by steam ferry with <placeName ref="cwgk:P001800">Kentucky</placeName>, we feel that, should the exigence arise, we could make ourselves useful</p>
 <p>Orders from you, per mail or Telelgraph, will receive prompt attention and obedience</p>
 <p>With sentiments of high respect
 <lb/>I remain &amp;C.
@@ -76,11 +75,9 @@
 <lb/>Sec. G. B.
 <lb/>Box 151 P. O.</p>
 <p>His Excellency
-<lb/>Gov B. Magoffin
-<lb/>Frankfort
-<lb/>Ky.</p>
+<lb/>Gov <persName ref="cwgk:N00000258">B. Magoffin</persName><lb/><placeName ref="cwgk:P00000308">Frankfort</placeName><lb/>Ky.</p>
 <p>P. S,
-<lb/>Our Commandant and Major, Mssrs Bachman and Shrewsberry, are cadets from K. M. I. at Frankfort.<pb/></p>
+<lb/>Our Commandant and Major, Mssrs <persName ref="cwgk:N00001190">Bachman</persName> and Shrewsberry, are cadets from <orgName ref="cwgk:O00001192">K. M. I.</orgName> at Frankfort.<pb/></p>
 <p>Milary Co from Madison Ia</p>
   </body>
  </text>

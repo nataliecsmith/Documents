@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0030"> 
  <teiHeader>
   <fileDesc>
@@ -69,10 +69,10 @@
 <p><milestone unit="column" n="2"/><cb n="1"/>N. GREEN, Pres. S. W. Telegraph Co.
 <lb/><cb n="2"/>A. STAGER, General Supt. W. U. Telegraph.<milestone unit="column" n="1"/><figure type="hr"/>
 <lb/>SEND THE FOLLOWING MESSAGE, SUBJECT TO THE ABOVE CONDITIONS.</p>
-<p>Louisville <date when="1861-05-01">May 1<hi rend="sup">st</hi> 1861</date>
+<p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-05-01">May 1<hi rend="sup">st</hi> 1861</date>
 <lb/>To D<hi rend="underline"><hi rend="sup">r</hi></hi> L. P. Blackburn
-<lb/>New Orleans,</p>
-<p>Money remitted Hewitt &amp; Co. See Norton of that firm.</p>
+<lb/><placeName ref="cwgk:P00002303">New Orleans</placeName>,</p>
+<p>Money remitted <orgName ref="cwgk:O00002590">Hewitt &amp; Co.</orgName> See <persName ref="cwgk:N00002589">Norton</persName> of that firm.</p>
 <p>Ben. J. Adams</p>
 <p>copy</p>
 <p>1.40</p>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0018"> 
  <teiHeader>
   <fileDesc>
@@ -63,15 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Office FARMERS BANK of KENTUCKY,
-<lb/>F. C. McCALLA, Cash.
-<lb/>Georgetown, <date when="1864-01-23">Jany 23 1864</date>
+   <p>Office <orgName ref="cwgk:O001021">FARMERS BANK of KENTUCKY</orgName>,<lb/><persName ref="cwgk:N00005219">F. C. McCALLA</persName>, Cash.<lb/><placeName ref="cwgk:P001838">Georgetown</placeName>, <date when="1864-01-23">Jany 23 1864</date>
 <lb/>My D<hi rend="sup">r</hi> <unclear>Friend</unclear></p>
-<p>I enclose Judge Morrisons petition to the Gov to advertise for the Boy I wrote you about -- Wish very much he may do it as I have no doubt he could be found if it is done</p>
+<p>I enclose <persName ref="cwgk:N00005217">Judge Morrisons</persName> petition to the Gov to advertise for the Boy I wrote you about -- Wish very much he may do it as I have no doubt he could be found if it is done</p>
 <p>Very humly Yrs
 <lb/><hi rend="underline">F. C. M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Calla</hi><pb/></p>
-<p>Reward of &#36;100 for Rial (slave) &amp; &#36;250. for the murder of Covington</p>
-<p>Tho E Bramlette</p>
+<p>Reward of $100 for <persName ref="cwgk:N00005214">Rial</persName> (slave) &amp; $250. for the murder of <persName ref="cwgk:N00005216">Covington</persName></p>
+<p><persName ref="cwgk:N001000">Tho E Bramlette</persName></p>
   </body>
  </text>
 </TEI>

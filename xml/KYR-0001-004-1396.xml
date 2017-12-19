@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1396"> 
  <teiHeader>
   <fileDesc>
@@ -63,17 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Carlisle Ky
-<lb/><date when="1864-12-08">Dec 8<hi rend="sup">th</hi> 1864</date>
-<lb/>Gov. Bramblett:
-<lb/>D Sir:</p>
+   <p><placeName ref="cwgk:P00000537">Carlisle Ky
+</placeName><lb/><date when="1864-12-08">Dec 8<hi rend="sup">th</hi> 1864</date>
+<lb/><persName ref="cwgk:N001000">Gov. Bramblett</persName>:<lb/>D Sir:</p>
 <p>Inclosed find two Petitions for the remission of fines -- They are not numerously signed, but all who were applied to signed them, signatures to any given number might be obtained but it was deemed unneccessary,</p>
 <p>One of them is signed by Eight of the Jury who rendered the verdict, The others of the Jury not being convenient to town were not applied to -- I am personally acquainted with the defendants Know their cases are meritorious, and am free to give the assurances that they will not again be indicted for a similar offense<pb/>
 <lb/>They are quite poor and a remission of the fines will greatly relieve them</p>
 <p>Trusting you may find yourself able to grant them the relief they ask, I am Gov.</p>
 <p>Very Respectfully
 <lb/>Your Obt Sevt.
-<lb/><hi rend="underline">W. P. Ross</hi></p>
+<lb/><persName ref="cwgk:N00006451">W. P. Ross</persName></p>
   </body>
  </text>
 </TEI>

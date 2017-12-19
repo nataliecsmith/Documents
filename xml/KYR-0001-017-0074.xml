@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0074"> 
  <teiHeader>
   <fileDesc>
@@ -63,21 +63,20 @@
  </teiHeader>
  <text>
   <body>
-   <p>Roaring Spring Trigg County Ky
-<lb/><date when="1861-02-02">Febuary 2<hi rend="sup">nd</hi> 1861</date>
+   <p><placeName ref="cwgk:P00000548">Roaring Spring</placeName> Trigg County Ky<lb/><date when="1861-02-02">Febuary 2<hi rend="sup">nd</hi> 1861</date>
 <lb/>To the
-<lb/>Hon Beriah Magoffin</p>
+<lb/>Hon <persName ref="cwgk:N00000258">Beriah Magoffin</persName></p>
 <p>Dear Sir Some months ago I resighned my commission as a Justice of the peace for this district with the intention of moving from the county Since circumstances have caused me to settle here again permanently and It seems to be the wish of the neighborhood that I shall again act as a Justice of the peace of this district to which arrangement I have consented provided you will reappointe me &amp; send the commission</p>
 <p>Yours Truly
-<lb/>William S Watwood</p>
+<lb/><persName ref="cwgk:N00002461">William S Watwood</persName></p>
 <p>We the undersighned fully concur in the above representation of W S Watwood Esq &amp; hope that he may be reappointed</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Jno J Roach
-<lb/>L. U. Landrum
-<lb/>Jno, C Whitlock
-<lb/>Thos. S. Campbell
-<lb/><cb n="2"/>W<hi rend="sup">m</hi> Richards
-<lb/>W, H, Malone
-<lb/>Joseph,, Hite<milestone unit="column" n="1"/><pb/></p>
+<lb/><persName ref="cwgk:N00002464">L. U. Landrum
+</persName><lb/>Jno, C Whitlock
+<lb/><persName ref="cwgk:N00002468">Thos. S. Campbell
+</persName><lb/><cb n="2"/>W<hi rend="sup">m</hi> Richards
+<lb/><persName ref="cwgk:N00002465">W. H. Malone
+</persName><lb/><persName ref="cwgk:N00002467">Joseph,, Hite</persName><milestone unit="column" n="1"/><pb/></p>
 <p>Trigg Co<figure type="hr"/>
 <lb/>J. P. Dist N<hi rend="sup">o</hi> 4
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> S. Watwood</p>

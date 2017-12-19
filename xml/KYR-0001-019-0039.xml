@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0039"> 
  <teiHeader>
   <fileDesc>
@@ -69,13 +69,12 @@
 <p><milestone unit="column" n="2"/><cb n="1"/>N. GREEN, Pres. S. W. Telegraph Co.
 <lb/><cb n="2"/>A. STAGER, General Supt. W. U. Telegraph.<milestone unit="column" n="1"/><figure type="hr"/>
 <lb/>SEND THE FOLLOWING MESSAGE, SUBJECT TO THE ABOVE CONDITIONS.</p>
-<p>Louisville <date when="1861-05-02">May 2 1861</date>
-<lb/>To M. O. H. Norton
-<lb/>N. Orleans</p>
+<p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-05-02">May 2 1861</date>
+<lb/>To <persName ref="cwgk:N00002589">M. O. H. Norton</persName><lb/><placeName ref="cwgk:P00002303">N. Orleans</placeName></p>
 <p>Did you receive check thirty thousand dollars and is it paid</p>
-<p>Ben J Adams</p>
+<p><persName ref="cwgk:N00000401">Ben J Adams</persName></p>
 <p>copy
-<lb/>&#36;1<hi rend="underline"><hi rend="sup">48</hi></hi></p>
+<lb/>$1<hi rend="underline"><hi rend="sup">48</hi></hi></p>
   </body>
  </text>
 </TEI>

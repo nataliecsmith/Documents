@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0093"> 
  <teiHeader>
   <fileDesc>
@@ -64,13 +64,12 @@
  <text>
   <body>
    <p>Phil<hi rend="sup">a</hi> <date when="1861-03-02">Mar 2<hi rend="sup">d</hi> 1861</date>,
-<lb/>James W. Tate Esq
-<lb/>Secty of State
+<lb/><persName ref="cwgk:N00001223">James W. Tate</persName> Esq<lb/>Secty of State
 <lb/>D<hi rend="sup">r</hi> Sir</p>
-<p>Yours of <date when="1861-02-27">27<hi rend="sup">th</hi> Feby</date> rec<hi rend="sup">d</hi> Enclosed please find &#36;5-- the fee to be p<hi rend="sup">d</hi> on renewal of Commission</p>
+<p>Yours of <date when="1861-02-27">27<hi rend="sup">th</hi> Feby</date> rec<hi rend="sup">d</hi> Enclosed please find $5-- the fee to be p<hi rend="sup">d</hi> on renewal of Commission</p>
 <p>Resply Yours -- 
-<lb/>Joshua Sperring
-<lb/>142 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> So 4</p>
+<lb/><persName ref="cwgk:N00002560">Joshua Sperring
+</persName><lb/>142 <hi rend="sup">1</hi>/<hi rend="sub">2</hi> So 4</p>
   </body>
  </text>
 </TEI>

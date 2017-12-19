@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0054"> 
  <teiHeader>
   <fileDesc>
@@ -63,8 +63,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of New York
-<lb/>City &amp; County of New York.
+   <p><placeName ref="cwgk:P001007">State of New York
+</placeName><lb/>City &amp; County of New York.
 <lb/><date when="1861-01-17">January 17<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>,</p>
 <p>I do solemnly swear that I will well and truly execute and perform all the duties of my office of Commissioner of Deeds for Kentucky in the State of New York to the best of my skill and judgment. So help me God.</p>
 <p><hi rend="underline">Edw</hi><hi rend="underline"><hi rend="sup">d</hi></hi><hi rend="underline"> F, de Selding</hi></p>

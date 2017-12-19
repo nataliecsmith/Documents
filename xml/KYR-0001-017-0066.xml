@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0066"> 
  <teiHeader>
   <fileDesc>
@@ -63,10 +63,9 @@
  <text>
   <body>
    <p>Notaries</p>
-<p>Jeremiah Davidson <hi rend="underline">Greenup Co.</hi>
-<lb/>A. Boyd M<hi rend="sup">c</hi>Cracken "
-<lb/>Ja<hi rend="sup">s.</hi> D. White Ballard
-<lb/>Cha<hi rend="underline"><hi rend="sup">s.</hi></hi> Wickliffe "<pb/></p>
+<p><persName ref="cwgk:N00002432">Jeremiah Davidson </persName>
+<placeName ref="cwgk:P001759">Greenup Co</placeName>.<lb/><persName ref="cwgk:N00002433">A. Boyd</persName> M<hi rend="sup">c</hi>Cracken "
+<lb/>Ja<hi rend="sup">s.</hi> D. White <placeName ref="cwgk:P001035">Ballard</placeName><lb/>Cha<hi rend="underline"><hi rend="sup">s.</hi></hi> Wickliffe "<pb/></p>
 <p>Notaries
 <lb/>Confirmed
 <lb/><date when="1861-02-07">Feby 7. 1861</date></p>
