@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0039"> 
  <teiHeader>
   <fileDesc>
@@ -63,14 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>HEAD QUARTERS, DEPARTMENT OF THE OHIO.
-<lb/><hi rend="italic">Cincinnati, Ohio</hi> <date when="1863-01-14">January 14<hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="italic">186</hi>3</date>
+   <p>HEAD QUARTERS, <orgName ref="cwgk:O001001">DEPARTMENT OF THE OHIO</orgName>.<lb/><hi rend="italic">Cincinnati, Ohio</hi> <date when="1863-01-14">January 14<hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="italic">186</hi>3</date>
 <lb/>SPECIAL ORDERS,
 <lb/>No. 27</p>
-<p>The resignation of 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lieutenant <hi rend="underline">Richard W. Davis</hi> 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Regiment Cavalry Kentucky Volunteers, is hereby accepted, to take effect on the <date when="1863-01-16">(16<hi rend="underline"><hi rend="sup">th</hi></hi>) sixteenth day of January 1863.</date></p>
-<p>BY ORDER OF MAJOR GENERAL WRIGHT.
-<lb/>C. W. Foster
-<lb/>Assistant Adjutant General. </p>
+<p>The resignation of 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lieutenant  2<persName ref="cwgk:N00006169">Richard W. Davis</persName><hi rend="underline"><hi rend="sup">nd</hi></hi> Regiment Cavalry Kentucky Volunteers, is hereby accepted, to take effect on the <date when="1863-01-16">(16<hi rend="underline"><hi rend="sup">th</hi></hi>) sixteenth day of January 1863.</date></p>
+<p>BY ORDER OF MAJOR <persName ref="cwgk:N00006168">GENERAL WRIGHT.</persName><lb/><persName ref="cwgk:N00006170">C. W. Foster</persName><lb/>Assistant Adjutant General. </p>
 <p>1.2.3.4.5.6</p>
 <p>1.</p>
 <p>Governor of Kentucky<pb/></p>
