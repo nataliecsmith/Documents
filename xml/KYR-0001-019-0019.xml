@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0019"> 
  <teiHeader>
   <fileDesc>
@@ -63,17 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>New Liberty <date when="1861-04-26">April 26 1861</date>
-<lb/>To his Excelency B Magoffin</p>
+   <p><placeName ref="cwgk:P00004758">New Liberty</placeName> <date when="1861-04-26">April 26 1861</date>
+<lb/>To his Excelency <persName ref="cwgk:N00000258">B Magoffin</persName></p>
 <p>In Belieiving that we will Ere long be called to act in defence of our People and State, I therefore tender you my Servises as surgeon to any Post that I may be assingned and will be ready when called for.. Accept my high esteem and believe me your friend</p>
 <p>W<hi rend="sup">m</hi> Hughs,</p>
 <p>To his Excelency B Magoffin
-<lb/>Govenor of Kentucky</p>
+<lb/>Govenor of <placeName ref="cwgk:P001800">Kentucky</placeName></p>
 <p>D<hi rend="underline"><hi rend="sup">r</hi></hi> Hughs is a Gentliman with whom I am well acquainted and can most cordially recommend ^him^ to the position He asks. should he be accepted I should be very Glad to<pb/>
 <lb/>have him attached to the Ohio River batalion to which I belong with high esteem</p>
 <p>Yours Respectfully
-<lb/>A W. Holeman
-<lb/><hi rend="str">comm</hi><pb/></p>
+<lb/><persName ref="cwgk:N00007717">A W. Holeman</persName><lb/><hi rend="str">comm</hi><pb/></p>
 <p>New Liberty
 <lb/>D<hi rend="sup">r</hi> W<hi rend="sup">m</hi> Huges
 <lb/>An<hi rend="sup">sd</hi> Ja<hi rend="sup">s</hi> W Tate</p>
