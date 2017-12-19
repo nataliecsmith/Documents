@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0094"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Oldtown Ridge
-<lb/><date when="1861-04-13">Apl 13<hi rend="sup">th </hi>1861</date>
+   <p><placeName ref="cwgk:P00008146">Oldtown Ridge
+</placeName><lb/><date when="1861-04-13">Apl 13<hi rend="sup">th </hi>1861</date>
 <lb/>Geor W. Johnson Esq
 <lb/>Dr Sir</p>
-<p>I regreted very much that the Bill of exchange went to protest, In fact felt so bad about it, I would not come to see you whilest in Kentucky in regard to the deeds of the lands traded, but will arrange it early next Fall by shiping enough of my first cotton to some other house, to satisfy both amounts that is due,</p>
+<p>I regreted very much that the Bill of exchange went to protest, In fact felt so bad about it, I would not come to see you whilest in <placeName ref="cwgk:P001800">Kentucky</placeName> in regard to the deeds of the lands traded, but will arrange it early next Fall by shiping enough of my first cotton to some other house, to satisfy both amounts that is due,</p>
 <p>Yours Respectfully
-<lb/>John H. Yerby<pb/></p>
+<lb/><persName ref="cwgk:N00008147">John H. Yerby</persName><pb/></p>
 <p>John H. Yerby (Ark)
 <lb/><date when="1861-04-13">April 13. 1861.</date></p>
 <p>Letter of John Yerby -- </p>
