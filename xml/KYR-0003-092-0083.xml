@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0083"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,18 +67,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>GALT HOUSE.
-<lb/>Cor. Main &amp; Second Sts.,
+   <p><orgName ref="cwgk:O00002784">GALT HOUSE.
+</orgName><lb/>Cor. Main &amp; Second Sts.,
 <lb/>ENLARGED
 <lb/>1859.
 <lb/>LOUISVILLE, KY.
-<lb/>SILAS F. MILLER &amp; CO.
-<lb/>LESSEES.</p>
+<lb/><persName ref="cwgk:N00008204">SILAS F. MILLER &amp; CO.</persName><lb/>LESSEES.</p>
 <p>Louisville <date when="1860-11-12">Nov<hi rend="underline"><hi rend="sup">r</hi></hi> 12'/60</date>
 <lb/>Geo W Johnson Esqr
-<lb/>Georgetown
-<lb/>Dear Sir</p>
-<p>I hold the stakes in a bet between W V Johnson &amp; Smith of &#36;500 each on Breckinridge carrying Ky W V Johnson betting on Breckenridge, Smith the reverse, W V Johnson put up your certified check on Farmers Bank at Georgetown payable to his order, and he has not endorsed it to me you will do me the favour to either remit me another check for like amount and I will remit you the one I now hold, or you can instruct the officers of the Bank, to pay the certified one with my endorsement. Your attention to this will much</p>
+<lb/><placeName ref="cwgk:P001838">Georgetown
+</placeName><lb/>Dear Sir</p>
+<p>I hold the stakes in a bet between <persName ref="cwgk:N00008203">W V Johnson</persName> &amp; Smith of $500 each on <persName ref="cwgk:N001789">Breckinridge</persName> carrying <placeName ref="cwgk:P001800">Ky</placeName> <persName ref="cwgk:N00008203">W V Johnson</persName> betting on Breckenridge, <persName ref="cwgk:N00008266">Smith</persName> the reverse, <persName ref="cwgk:N00008203">W V Johnson</persName> put up your certified check on <orgName ref="cwgk:O001021">Farmers Bank at Georgetown</orgName> payable to his order, and he has not endorsed it to me you will do me the favour to either remit me another check for like amount and I will remit you the one I now hold, or you can instruct the officers of the Bank, to pay the certified one with my endorsement. Your attention to this will much</p>
 <p>oblige Your Friend,
 <lb/>Silas F Miller<pb/></p>
 <p>Silas F Miller
