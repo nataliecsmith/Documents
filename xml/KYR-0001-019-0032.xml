@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0032"> 
  <teiHeader>
   <fileDesc>
@@ -69,13 +69,12 @@
 <p><milestone unit="column" n="2"/><cb n="1"/>N. GREEN, Pres. S. W. Telegraph Co.
 <lb/><cb n="1"/>A. STAGER, General Supt. W. U. Telegraph.<milestone unit="column" n="1"/><figure type="hr"/>
 <lb/>SEND THE FOLLOWING MESSAGE, SUBJECT TO THE ABOVE CONDITIONS.</p>
-<p>Louisville <date when="1861-05-01">May 1st 1861</date>
-<lb/>To M. O. H. Norton
-<lb/>New Orleans</p>
-<p>Governor absent, thirty thousdand dollars remitted you by express of monday, Governor will advise you as to further purchases Blackburn advised two thousand muskets six hundred Kegs powder two pieces heavy ordnance latter very important</p>
+<p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-05-01">May 1st 1861</date>
+<lb/>To <persName ref="cwgk:N00002589">M. O. H. Norton</persName><lb/><placeName ref="cwgk:P00002303">New Orleans</placeName></p>
+<p>Governor absent, thirty thousdand dollars remitted you by express of monday, Governor will advise you as to further purchases <persName ref="cwgk:N00002591">Blackburn</persName> advised two thousand muskets six hundred Kegs powder two pieces heavy ordnance latter very important</p>
 <p>Ben J. Adams</p>
 <p>copy
-<lb/>&#36;3<hi rend="underline"><hi rend="sup">40</hi></hi></p>
+<lb/>$3<hi rend="underline"><hi rend="sup">40</hi></hi></p>
   </body>
  </text>
 </TEI>
