@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0102"> 
  <teiHeader>
   <fileDesc>
@@ -65,9 +65,9 @@
   <body>
    <p>Commonwealth of Kentucky,
 <lb/>OFFICE SECRETARY OF STATE,
-<lb/>Frankfort, <gap/> 186 <gap/>.
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <gap/> 186 <gap/>.
 <lb/>Dear Sir:</p>
-<p>Comth v<hi rend="sup">s</hi> C M Mathews, on forfeited recognizance Judgment <hi rend="underline">Henry Circuit Court at </hi><date when="1863-09"><hi rend="underline">Sept Term 1863</hi></date></p>
+<p>Comth v<hi rend="sup">s</hi> <persName ref="cwgk:N00000289">C M Mathew</persName>s, on forfeited recognizance Judgment <orgName ref="cwgk:O00000400">Henry Circuit Court</orgName> at <date when="1863-09"><hi rend="underline">Sept Term 1863</hi></date></p>
   </body>
  </text>
 </TEI>
