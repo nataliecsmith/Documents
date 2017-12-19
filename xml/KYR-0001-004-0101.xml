@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0101"> 
  <teiHeader>
   <fileDesc>
@@ -63,18 +63,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Kenton Circuit Court
-<lb/><date when="--09">Sept Term</date>, <date when="1863-09-14">Sept 14, 1863</date>.
+   <p>State of <placeName ref="cwgk:P001800">Kentucky
+</placeName><lb/><orgName ref="cwgk:O00000410">Kenton Circuit Court
+</orgName><lb/><date when="--09">Sept Term</date>, <date when="1863-09-14">Sept 14, 1863</date>.
 <lb/>Commonwealth
-<lb/>agst. &#125; Indictment
+<lb/>agst. } Indictment
 <lb/>Simeon Sheppard</p>
-<p>"The Sureties in the Recognizance herein John S Nixon &amp; J. R Grant failing to answer though duly summoned it is adjudged that the Commonwealth of Kentucky recover of them the sum of One Hundred Dollars and her costs herein expended"</p>
+<p>"The Sureties in the Recognizance herein <persName ref="cwgk:N00000755">John S Nixon</persName> &amp; <persName ref="cwgk:N00000756">J. R Grant</persName> failing to answer though duly summoned it is adjudged that the Commonwealth of Kentucky recover of them the sum of One Hundred Dollars and her costs herein expended"</p>
 <p>Copy att
-<lb/>B. W. Foley Clk
-<lb/>By A C Ellis D C<pb/></p>
+<lb/><persName ref="cwgk:N00000304">B. W. Foley Clk
+</persName><lb/>By A C Ellis D C<pb/></p>
 <p>Comwth
-<lb/>v &#125; Judgt
+<lb/>v } Judgt
 <lb/>Sheppard<figure type="hr"/>
 <lb/><hi rend="underline">Copy</hi></p>
   </body>

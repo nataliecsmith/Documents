@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1374"> 
  <teiHeader>
   <fileDesc>
@@ -63,14 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky,
-<lb/><date when="1864-12-27">Dec. 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
-<lb/>Dear Gov,</p>
-<p>I am induced to ask you to pardon Hannah Tolliver, a free woman of Colour, convicted of the crime of aiding a slave to escape.</p>
+   <p><placeName ref="cwgk:P00000337">Louisville Ky</placeName>,<lb/><date when="1864-12-27">Dec. 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
+<lb/>Dear <persName ref="cwgk:N001000">Gov</persName>,</p>
+<p>I am induced to ask you to pardon <persName ref="cwgk:N00005660">Hannah Tolliver</persName>, a free woman of Colour, convicted of the crime of aiding a slave to escape.</p>
 <p>very resptly &amp;,
-<lb/><hi rend="underline">P. B Muir</hi><pb/></p>
-<p>Jefferson Cir Ct
-<lb/>vs
+<lb/><persName ref="cwgk:N002003">P. B Muir</persName><pb/></p>
+<p><orgName ref="cwgk:O001000">Jefferson Cir Ct</orgName><lb/>vs
 <lb/>Hannah Tolliver
 <lb/>f, w, c
 <lb/>Pardoned

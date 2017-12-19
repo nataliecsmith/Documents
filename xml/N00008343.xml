@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005185">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008343">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">David A. Hamilton</title>
+        <title level="a" type="main">Daniel B. Hinton</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Stephen Powell</name>
+            <name></name>
           </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Patrick A. Lewis</name>
-          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name></name>
@@ -45,12 +41,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00005185">
+                <person xml:id="N00008343">
                     <persName>
-                      David A. Hamilton
-                        (murder victim, Hardin Co.)
+                      Daniel B. Hinton
+                        (Fleming county, farm laborer)
                     </persName>
-                        <event type="death"  when="1863-09-30"  ><ab>1863-09-30</ab></event>
+                        <event type="birth"  when="1841"  cert="medium" ><ab>c1841</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -58,11 +55,12 @@
     </teiHeader>
     <text>
     <body>
-        <p>Murdered on September 30, 1863 in Hardin County, Kentucky.</p>
+        <p>Fleming County, Kentucky, farmer. Kentucky native. Married to Betsy A. Boys Hinton. Father of Maretta Hinton and Rosanna Hinton.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-005-0006
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fleming, Tilton, p. 16.<br>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records</hi> Microfilm (1852-1910). Microfilm rolls #994027-994058. Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
 </bibl></ab>
     </back>
 </text>

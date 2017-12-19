@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1378"> 
  <teiHeader>
   <fileDesc>
@@ -62,19 +62,18 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his excellency Thomas E. Bramlett Governor of the Commonwealth of Kentucky</p>
-<p>The petition of Alexander Selkirk a Mulatto and the undersigned citizens of Manchester Clay County Kentucky respectfully represents to your excellency that the said Selkirk is a free mulato who fled from Virginia about the time the rebelion broke out and that if he returns there he would have to go into the Rebel army or loose his life Selkirk is a good Black smith and useful to the citizens of Manchester and harmless in his disposition, at the present term of the Clay Circuit Court he was indicted for having come into this state contrary to the act of assembly, Selkirk fully intends to return to virginia as soon as it is safe for him to do so, and we hope your excellency will interpose your pardning power and in his case remit or respite the penalty aforesaid till it will be safe for him to return to his own country. Alexander Selkirk petitione</p>
+   <p>To his excellency <persName ref="cwgk:N001000">Thomas E. Bramlett</persName> Governor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName></p>
+<p>The petition of Alexander Selkirk a Mulatto and the undersigned citizens of <placeName ref="cwgk:P00005727">Manchester Clay County Kentucky</placeName> respectfully represents to your excellency that the said Selkirk is a free mulato who fled from <placeName ref="cwgk:P001037">Virginia</placeName> about the time the rebelion broke out and that if he returns there he would have to go into the <orgName ref="cwgk:O00000506">Rebel army</orgName> or loose his life Selkirk is a good Black smith and useful to the citizens of Manchester and harmless in his disposition, at the present term of the <orgName ref="cwgk:O00000372">Clay Circuit Court</orgName> he was indicted for having come into this state contrary to the act of assembly, Selkirk fully intends to return to virginia as soon as it is safe for him to do so, and we hope your excellency will interpose your pardning power and in his case remit or respite the penalty aforesaid till it will be safe for him to return to his own country. Alexander Selkirk petitione</p>
 <p>We the under signed believing the above statements to be true hope your excellency will grant the prayer of the petitioner or in some way extend relief to him</p>
-<p>David G, Lyttle
-<lb/>G W. Price Clerk
+<p><persName ref="cwgk:N00005695">David G. Lyttle
+</persName><lb/>G W. Price Clerk
 <lb/>R, <unclear>A,</unclear> Young Atty
-<lb/>John Lucas capt
-<lb/>R. Y. Potter x capt<pb/>
+<lb/><persName ref="cwgk:N00005728">John Lucas</persName> capt<lb/>R. Y. Potter x capt<pb/>
 <lb/>W<hi rend="sup">m</hi>. M<hi rend="underline"><hi rend="sup">c</hi></hi>Daniel
 <lb/>D. G. Williams
-<lb/>J. W. Smith
-<lb/>James Gibson
-<lb/>S W Bates<pb/></p>
+<lb/><persName ref="cwgk:N00005697">J. W. Smith
+</persName><lb/>James Gibson
+<lb/><persName ref="cwgk:N00005699">S W Bates</persName><pb/></p>
 <p>Clay Cir Ct
 <lb/>vs
 <lb/>Alexander Selkirk a freeman of color
@@ -85,7 +84,7 @@
 <p>Pardon the <hi rend="underline">offense</hi></p>
 <p>His Ex Thos E, Bramlett
 <lb/>Gov of Ky
-<lb/>Frankfort</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName></p>
   </body>
  </text>
 </TEI>

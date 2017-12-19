@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0108"> 
  <teiHeader>
   <fileDesc>
@@ -63,11 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1863-10-28">Oct 28 1863</date>
-<lb/>Governor Bramlette</p>
-<p>I very seldom presume to interfere in things of this nature but feel calld on to say something in behalf of Col Gorin chargd with <hi rend="underline">maliciously</hi> Shooting W C Wood. M<hi rend="sup">r</hi> wood has entirely recovered. The Col as you know is an old respected member of the bar he is very much troubled so much as to almost unsettle his mind he is very much to be pitied He <hi rend="underline">certainly had no malice</hi> against m<hi rend="sup">r</hi> wood The shooting was done under very great excitement and the col labourd under the impression that M<hi rend="sup">r</hi> wood a powerful and much younger man had struck him and in the act of following up his blows when he fir<hi rend="sup">d</hi> Public opinion so far as I can gather it is universal that Col Gorin ought to be pardoned in this my own feeling<hi rend="underline"><hi rend="sup">s</hi></hi> &amp; Judgment as a man and law abiding citizen fully concurs. I trust that you will find no difficulty in relieving Col Gorin</p>
+   <p><placeName ref="cwgk:P00000337">Louisville </placeName><date when="1863-10-28">Oct 28 1863</date>
+<lb/><persName ref="cwgk:N001000">Governor Bramlette</persName></p>
+<p>I very seldom presume to interfere in things of this nature but feel calld on to say something in behalf of <persName ref="cwgk:N00000330">Col Gorin</persName> chargd with <hi rend="underline">maliciously</hi> Shooting W C Wood. M<hi rend="sup">r</hi> wood has entirely recovered. The Col as you know is an old respected member of the bar he is very much troubled so much as to almost unsettle his mind he is very much to be pitied He <hi rend="underline">certainly had no malice</hi> against m<hi rend="sup">r</hi> wood The shooting was done under very great excitement and the col labourd under the impression that M<hi rend="sup">r</hi> wood a powerful and much younger man had struck him and in the act of following up his blows when he fir<hi rend="sup">d</hi> Public opinion so far as I can gather it is universal that <persName ref="cwgk:N00000330">Col Gorin</persName> ought to be pardoned in this my own feeling<hi rend="underline"><hi rend="sup">s</hi></hi> &amp; Judgment as a man and law abiding citizen fully concurs. I trust that you will find no difficulty in relieving <persName ref="cwgk:N00000330">Col Gorin</persName></p>
 <p>very Respectfully
-<lb/><hi rend="underline">W. W. Fry</hi></p>
+<lb/><persName ref="cwgk:N00000945">W. W. Fry</persName></p>
   </body>
  </text>
 </TEI>

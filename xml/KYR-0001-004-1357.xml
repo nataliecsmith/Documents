@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1357"> 
  <teiHeader>
   <fileDesc>
@@ -62,58 +62,30 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Thomas E. Bramlette, Govenor of the state of Kentucky,</p>
-<p>The undersigned citizens of Mercer County, most respectfully unite in the Petition of John Patterson, to your Excellency, and ask you to pardon him-
-<lb/><date when="1864-11-14">Nov. 14, 1864.</date></p>
+   <p>To His Excellency <persName ref="cwgk:N001000">Thomas E. Bramlette</persName>, Govenor of the <orgName ref="cwgk:O001025">state of Kentucky</orgName>,</p>
+<p>The undersigned citizens of <placeName ref="cwgk:P00000556">Mercer County</placeName>, most respectfully unite in the Petition of John Patterson, to your Excellency, and ask you to pardon him-<lb/><date when="1864-11-14">Nov. 14, 1864.</date></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Callet Charls
-<lb/>Henry Taylor
-<lb/>M Cummins
-<lb/>Mathew Patterson
-<lb/>James Divine
-<lb/>John C McIntire
-<lb/>William Purdom
-<lb/>Elias Divine
-<lb/>James Lawson
-<lb/>G W Tompkins
-<lb/>M D Hall
-<lb/>D. C. May.
-<lb/>A. D. Haynes
-<lb/>Ashley Patterson
-<lb/>Jno L Gibson
-<lb/><unclear/> Gray
-<lb/>Charles Kirkland
-<lb/><hi rend="underline">R. P. M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Grath</hi>
-<lb/>A G Davenport
-<lb/>John B. Jennings
-<lb/>P W Bottom
-<lb/>John Burk
-<lb/>Patrick treynor
-<lb/>John Hill
-<lb/>Frank. Traves
-<lb/><cb n="2"/>W. T. Cahill
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Payne
+<lb/><persName ref="cwgk:N00006156">Henry Taylor
+</persName><lb/><persName ref="cwgk:N00006837">M Cummins</persName><lb/>Mathew Patterson
+<lb/><persName ref="cwgk:N00006159">James Divine</persName><lb/><persName ref="cwgk:N00006740">John C McIntire</persName><lb/><persName ref="cwgk:N00006842">William Purdom</persName><lb/><persName ref="cwgk:N00006152">Elias Divine
+</persName><lb/><persName ref="cwgk:N00006160">James Lawson
+</persName><lb/><persName ref="cwgk:N00006155">G W Tompkins</persName><lb/><persName ref="cwgk:N00006572">M D Hall</persName><lb/>D. C. May.
+<lb/><persName ref="cwgk:N00006841">A. D. Haynes</persName><lb/><persName ref="cwgk:N00006148">Ashley Patterson</persName><lb/><persName ref="cwgk:N00006845">Jno L Gibson</persName><lb/><unclear/> Gray
+<lb/><persName ref="cwgk:N00006150">Charles Kirkland</persName><lb/><hi rend="underline">R. P. M</hi><hi rend="underline"><hi rend="sup">c</hi></hi><hi rend="underline">Grath</hi>
+<lb/><persName ref="cwgk:N00006147">A G Davenport</persName><lb/><persName ref="cwgk:N00006737">John B. Jennings</persName><lb/><persName ref="cwgk:N00006844">P W Bottom</persName><lb/><persName ref="cwgk:N00006739">John Burk</persName><lb/>Patrick treynor
+<lb/><persName ref="cwgk:N00004026">John Hill</persName><lb/>Frank. Traves
+<lb/><cb n="2"/><persName ref="cwgk:N00005255">W. T. Cahill</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Payne
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> G Smith
 <lb/>John W. Debam
-<lb/>J. D. Hale
-<lb/>Charles Fitzmorris
-<lb/>Waller Fitzmorris
-<lb/>M. V. Bowen
-<lb/>J. H. Faircloth
-<lb/>Ben C Allin
-<lb/>S S M Fatridge
-<lb/>James. Walters
-<lb/>W A Nooe
-<lb/>J. K Slaughter
+<lb/><persName ref="cwgk:N00005392">J. D. Hale</persName><lb/><persName ref="cwgk:N00006149">Charles Fitzmorris</persName><lb/><persName ref="cwgk:N00006848">Waller Fitzmorris</persName><lb/>M. V. Bowen
+<lb/><persName ref="cwgk:N00006158">J. H. Faircloth</persName><lb/>Ben C Allin
+<lb/><persName ref="cwgk:N00002330">S S M Fatridge</persName><lb/>James. Walters
+<lb/><persName ref="cwgk:N00006851">W A Nooe</persName><lb/>J. K Slaughter
 <lb/>J C, Dean
 <lb/>James D Hardin
 <lb/>Thos,, J,, Vanarsdall
 <lb/>S H Graves
-<lb/>Iverson, L, Bottom
-<lb/>J W Hale
-<lb/>L. G. Hale
-<lb/>E H Carter
-<lb/>Richard Board C, M, C, C
-<lb/>W, A. Jennings<milestone unit="column" n="1"/><pb/>
+<lb/><persName ref="cwgk:N00006157">Iverson, L, Bottom</persName><lb/><persName ref="cwgk:N00006846">J W Hale</persName><lb/><persName ref="cwgk:N00005502">L. G. Hale</persName><lb/><persName ref="cwgk:N00002282">E H Carter</persName><lb/><persName ref="cwgk:N00002356">Richard Board </persName>C, M, C, C<lb/><persName ref="cwgk:N00006849">W, A. Jennings</persName><milestone unit="column" n="1"/><pb/>
 <lb/><hi rend="str">Naes</hi> Names
 <lb/>George W <hi rend="str"><unclear/></hi> gibson
 <lb/>basel, p davies

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0141"> 
  <teiHeader>
   <fileDesc>
@@ -63,61 +63,47 @@
  </teiHeader>
  <text>
   <body>
-   <p>We the undersigned Members of the Jury who tried John Cosden on a charge of Larceny, recommend him to an Executive pardon -- 
-<lb/>Louisville <date when="1863-10-29">Octo. 29. 1863</date> -- </p>
-<p><milestone unit="column" n="2"/><cb n="1"/>J. H. Myers for-
-<lb/><hi rend="underline">M. Billings</hi>
+   <p>We the undersigned Members of the Jury who tried <persName ref="cwgk:N00001237">John Cosden</persName> on a charge of Larceny, recommend him to an Executive pardon -- <lb/><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1863-10-29">Octo. 29. 1863</date> -- </p>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00001238">J. H. Myers</persName> for-<lb/><hi rend="underline">M. Billings</hi>
 <lb/><hi rend="underline">C. Henry Finck</hi>
 <lb/>Ja<hi rend="sup">s</hi> Hughs
-<lb/>L. P. Garrett</p>
-<p><cb n="2"/>I hereby certify that <hi rend="str">the names of these </hi>persons herein named were jurors in the case of Jno Cosden indicted as Jno Crosby in Jefferson Circuit Ct</p>
+<lb/><persName ref="cwgk:N00001242">L. P. Garrett</persName></p>
+<p><cb n="2"/>I hereby certify that <hi rend="str">the names of these </hi>persons herein named were jurors in the case of Jno Cosden indicted as Jno Crosby in <orgName ref="cwgk:O001000">Jefferson Circuit Ct</orgName></p>
 <p>Jas P Chambers
 <lb/>by Lee Chambers D C<milestone unit="column" n="1"/></p>
 <p>We the undersigned neighbors and acquaintances of John Cosdon ask your Excellency to pardon him.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>J. E. Littrell
-<lb/>W H. Page
-<lb/>John Jameson
-<lb/>Clinton Pearce
-<lb/>John Bell
-<lb/>Marshall Jameson
-<lb/>Enos Sutton
-<lb/>Capt M<hi rend="sup">c</hi>Dowell
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00001245">J. E. Littrell
+</persName><lb/>W H. Page
+<lb/><persName ref="cwgk:N00001249">John Jameson
+</persName><lb/>C<persName ref="cwgk:N00001255">linton Pearce</persName><lb/><persName ref="cwgk:N00001250">John Bell</persName><lb/><persName ref="cwgk:N00001252">Marshall Jameson</persName><lb/><persName ref="cwgk:N00001253">Enos Sutton</persName><lb/>Capt M<hi rend="sup">c</hi>Dowell
 <lb/>James lezer
 <lb/>W townsend
-<lb/>J. R. Chambers
-<lb/>M Boston
-<lb/>Henry J Smith
-<lb/><cb n="2"/>M Flanigan
-<lb/>S <unclear/>
+<lb/><persName ref="cwgk:N002041">J. R. Chambers</persName><lb/><persName ref="cwgk:N00001263">M Boston</persName><lb/><persName ref="cwgk:N00001264">Henry J Smith
+</persName><lb/><cb n="2"/><persName ref="cwgk:N00001246">M Flanigan</persName><lb/>S <unclear/>
 <lb/>J <unclear>varble</unclear>
-<lb/>H C Russell
-<lb/>George Jackson
-<lb/>Wallim Wadle
+<lb/><persName ref="cwgk:N002033">H C Russell
+</persName><lb/><persName ref="cwgk:N00001256">George Jackson</persName><lb/>Wallim Wadle
 <lb/>Thomas O Henr<unclear>y</unclear><milestone unit="column" n="1"/><pb/>
 <lb/><milestone unit="column" n="3"/><cb n="1"/>S. W. Watson
-<lb/>L. T. Smith
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Mullikin
+<lb/><persName ref="cwgk:N00001273">L. T. Smith
+</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Mullikin
 <lb/>James. L. Turner (Watchman, made the arrest)
-<lb/>James Kirkpatrick (Ex-Chief of Police)
-<lb/>Baird &amp; Price (Attos at Law -- 
-<lb/>A A Chickering
-<lb/>J T Sheppard
-<lb/>John OConnor
-<lb/>Pink Varble
-<lb/>W<hi rend="sup">m</hi> William
+<lb/><persName ref="cwgk:N00001229">James Kirkpatrick</persName> (Ex-Chief of Police)<lb/><orgName ref="cwgk:O001006">Baird &amp; Price</orgName> (Attos at Law -- <lb/>A A Chickering
+<lb/><persName ref="cwgk:N00001231">J T Sheppard</persName><lb/><persName ref="cwgk:N00001232">John OConnor
+</persName><lb/><persName ref="cwgk:N00001233">Pink Varble
+</persName><lb/>W<hi rend="sup">m</hi> William
 <lb/>Alex<hi rend="underline"><hi rend="sup">r</hi></hi> Mackay
-<lb/>John Odell
-<lb/><cb n="2"/>James Gray
-<lb/>Thomas J Muir.
-<lb/>D. W. Rowland.
-<lb/>Ben G Harris
-<lb/><cb n="3"/>W. H. M<hi rend="sup">c</hi>Clish
+<lb/><persName ref="cwgk:N00001236">John Odell
+</persName><lb/><cb n="2"/><persName ref="cwgk:N00001272">James Gray
+</persName><lb/><persName ref="cwgk:N00001274">Thomas J Muir</persName>.<lb/>D. W. Rowland.
+<lb/><persName ref="cwgk:N00001280">Ben G Harris
+</persName><lb/><cb n="3"/>W. H. M<hi rend="sup">c</hi>Clish
 <lb/>G T Ditcher
-<lb/>Jas Weles<milestone unit="column" n="1"/><pb/></p>
+<lb/><persName ref="cwgk:N00001281">Jas Weles</persName><milestone unit="column" n="1"/><pb/></p>
 <p>Jefferson County</p>
 <p>Cosdens Pet for Pardon</p>
 <p>Refused
-<lb/>Tho E Bramlette</p>
+<lb/><persName ref="cwgk:N001000">Tho E Bramlette</persName></p>
   </body>
  </text>
 </TEI>

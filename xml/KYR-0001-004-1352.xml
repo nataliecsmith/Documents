@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1352"> 
  <teiHeader>
   <fileDesc>
@@ -63,19 +63,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Cattlettsburg Ky
-<lb/><date when="1864-11-16">Nov 16<hi rend="sup">th</hi> 1864</date>
-<lb/>Thomas E Bramlett Esqr
-<lb/>Govenr of Ky</p>
-<p>Sir- The "pore man with a large family" I refered to in my former letter is Elba Ulin who was fined for an assault and battery before Richard Scott Esqr of Boyd County Ky in the <date when="1864-08-27">27 of Aug 1864</date> &#36;26,50, the case was made out against him- by disreputable witnesses and his petition was signed by very respectable citizens of this county asking a remission of the fine I think it should be remitted,</p>
-<p>Gov Jacobs is here.</p>
+   <p><placeName ref="cwgk:P00001173">Cattlettsburg Ky</placeName><lb/><date when="1864-11-16">Nov 16<hi rend="sup">th</hi> 1864</date>
+<lb/><persName ref="cwgk:N001000">Thomas E Bramlett</persName> Esqr<lb/>Govenr of Ky</p>
+<p>Sir- The "pore man with a large family" I refered to in my former letter is <persName ref="cwgk:N00001175">Elba Ulin</persName> who was fined for an assault and battery before <persName ref="cwgk:N00001177">Richard Scott</persName> Esqr of <placeName ref="cwgk:P00001174">Boyd County</placeName> Ky in the <date when="1864-08-27">27 of Aug 1864</date> $26,50, the case was made out against him- by disreputable witnesses and his petition was signed by very respectable citizens of this county asking a remission of the fine I think it should be remitted,</p>
+<p><persName ref="cwgk:N00001176">Gov Jacobs</persName> is here.</p>
 <p>Yrs Respectfully
-<lb/><hi rend="underline">L T Moore</hi><pb/></p>
+<lb/><persName ref="cwgk:N00000825">L T Moore</persName><pb/></p>
 <p>Justice
 <lb/>Boyd Co
 <lb/>vs
 <lb/>E. Ulin
-<lb/>&#36;24,<hi rend="sup">50</hi>
+<lb/>$24,<hi rend="sup">50</hi>
 <lb/>Remitted
 <lb/><date when="1864-11-22">22<hi rend="sup">nd</hi> Nov/64</date></p>
   </body>

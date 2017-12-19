@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1361"> 
  <teiHeader>
   <fileDesc>
@@ -64,13 +64,11 @@
  <text>
   <body>
    <p>Provost Marshalls Office
-<lb/>Scott County Kentucky</p>
-<p>The undersigned Provost Marshal of Scott County Ky states that some time in <date when="1864-03">March last,</date> one W. H. Coham was under arrest, by the Civil authorities of Scott County-- He had a preliminary examination before the Presiding Judge of Said County, &amp; admitted to Bail in the sum of three hundred Dollars, with G. W Corham &amp; John M<hi rend="sup">c</hi>Lin as sureties on his Bond-- After his release from Jail I arrested him immediately as a deserter from the 18<hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="str">Ky</hi>Reg Ky Vol. Infantry &amp; delivered him to Capt Thos. H. Moore Pro M 7<hi rend="underline"><hi rend="sup">th</hi></hi> Ky District at Lexington Ky -- by whose orders he was sent to his Regiment -- which was then stationed (I think) on the Nashville Rail Road</p>
-<p>Jno, N, Long
-<lb/>Pro Mar Scott Co Ky</p>
+<lb/><placeName ref="cwgk:P001030">Scott County Kentucky</placeName></p>
+<p>The undersigned Provost Marshal of Scott County Ky states that some time in <date when="1864-03">March last,</date> one W. H. Coham was under arrest, by the Civil authorities of Scott County-- He had a preliminary examination before the Presiding Judge of Said County, &amp; admitted to Bail in the sum of three hundred Dollars, with <persName ref="cwgk:N00002371">G. W Corham</persName> &amp; John M<hi rend="sup">c</hi>Lin as sureties on his Bond-- After his release from Jail I arrested him immediately as a deserter from the 18<hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="str">Ky</hi>Reg Ky Vol. Infantry &amp; delivered him to Capt <persName ref="cwgk:N00002376">Thos. H. Moore</persName> Pro M 7<hi rend="underline"><hi rend="sup">th</hi></hi> Ky District at <placeName ref="cwgk:P001002">Lexington Ky</placeName> -- by whose orders he was sent to his Regiment -- which was then stationed (I think) on the <orgName ref="cwgk:O00002377">Nashville Rail Road</orgName></p>
+<p><persName ref="cwgk:N00002369">Jno, N, Long</persName><lb/>Pro Mar Scott Co Ky</p>
 <p>Sworn to before me by Jno N. Long this <date when="1864-12-21">21 Dec 1864</date></p>
-<p>Sam. W. Long
-<lb/>P. J. Geo town<pb/></p>
+<p><persName ref="cwgk:N00002375">Sam. W. Long</persName><lb/>P. J. Geo town<pb/></p>
 <p>Exhibit for Petition of John Macklin &amp; Geo W Cohorn</p>
   </body>
  </text>

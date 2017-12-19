@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1356"> 
  <teiHeader>
   <fileDesc>
@@ -63,13 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Mercer circuit Court
-<lb/>Commonwealth of Ky
-<lb/>against
+   <p><orgName ref="cwgk:O00000424">Mercer circuit Court</orgName><lb/><orgName ref="cwgk:O001025">Commonwealth of Ky</orgName><lb/>against
 <lb/>John Patterson</p>
-<p>The undersigned citizens of Mercer County state that they were present at the time of the shooting alledged in the Indictment against said John Patterson, <hi rend="str">for</hi> charging him with shooting A. G. Kyle, and we saw the shooting and State that said Patterson did not shoot said Kyle -- </p>
+<p>The undersigned citizens of <placeName ref="cwgk:P00000556">Mercer County</placeName> state that they were present at the time of the shooting alledged in the Indictment against said John Patterson, <hi rend="str">for</hi> charging him with shooting <persName ref="cwgk:N00002275">A. G. Kyle</persName>, and we saw the shooting and State that said Patterson did not shoot said Kyle -- </p>
 <p>E gabhart
-<lb/>James Taylor.</p>
+<lb/><persName ref="cwgk:N00002276">James Taylor</persName>.</p>
   </body>
  </text>
 </TEI>

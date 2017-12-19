@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1353"> 
  <teiHeader>
   <fileDesc>
@@ -63,13 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>County of Jefferson</p>
-<p>John Schroeder states on oath that he is a resident of Louisville Ky. that he is personally acquainted with W<hi rend="underline"><hi rend="sup">m</hi></hi> Salzman who <hi rend="str">was</hi> was indicted in the Jefferson Circuit Court. and for whom David Schroeder this affiants father went bail and that about ^the^ <date when="1864-05-12">12<hi rend="underline"><hi rend="sup">th</hi></hi> of last May</date> his said father sent him to Nashville Tennesee. to look after said Salzman, he ^said Salzman^ having left Louisville some time previous, And that after making search for several days succeeded in finding him in Nashville Tenn where he was in the service of the United States being a member of the 12 Regiment of Michigan volunteers. And that he conversed with said Salzman and requested him to come back to Louisville -- and deliver himself up to the proper authorities which said Salzman refused to do.</p>
+   <p><placeName ref="cwgk:P001800">State of Kentucky
+</placeName><lb/><placeName ref="cwgk:P001005">County of Jefferson</placeName></p>
+<p><persName ref="cwgk:N00005181">John Schroeder</persName> states on oath that he is a resident of <placeName ref="cwgk:P00000337">Louisville Ky</placeName>. that he is personally acquainted with W<hi rend="underline"><hi rend="sup">m</hi></hi> Salzman who <hi rend="str">was</hi> was indicted in the <orgName ref="cwgk:O001000">Jefferson Circuit Cour</orgName>t. and for whom <persName ref="cwgk:N00005180">David Schroeder</persName> this affiants father went bail and that about ^the^ <date when="1864-05-12">12<hi rend="underline"><hi rend="sup">th</hi></hi> of last May</date> his said father sent him to Nashville Tennesee. to look after said Salzman, he ^said Salzman^ having left Louisville some time previous, And that after making search for several days succeeded in finding him in Nashville Tenn where he was in the service of the <orgName ref="cwgk:O00001186">United States</orgName> being a member of the <orgName ref="cwgk:O00006023">12 Regiment of Michigan volunteers</orgName>. And that he conversed with said Salzman and requested him to come back to Louisville -- and deliver himself up to the proper authorities which said Salzman refused to do.</p>
 <p>John ^his X mark^ Schroeder</p>
 <p>Subscribed and sworn to before me by John Schroeder this <date when="1864-11-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> day of November 1864</date></p>
-<p>John N Mattingly
-<lb/>Notary Public Jeff Co Ky</p>
+<p><persName ref="cwgk:N00006024">John N Mattingly</persName><lb/>Notary Public Jeff Co Ky</p>
   </body>
  </text>
 </TEI>

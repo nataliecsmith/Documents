@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0106"> 
  <teiHeader>
   <fileDesc>
@@ -63,17 +63,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Eminence Henry County Ky. 9<hi rend="underline"><hi rend="sup">th</hi></hi> <date when="1864">1864</date>
-<lb/>To His Excellency, Thomas E Bramlette
-<lb/>Governor of Ky</p>
-<p>Your Excellency will find by refering to the proper record that the Legislature of Ky. at its last session passed an act entitled, "An Act for the benefit of R L Tinsley &amp; others," The reasons for the passage of that act were substantially the following. In the spring of <date when="1862">1862</date>. the undersigned had stolen from them five head of valuable horses. The thieves were pursued with all possible dispatch &amp; vigilence across the Ohio river through the states of Indiana &amp; Illinois &amp; across the Mississippi river into the state of Missouri, without capturing any of the stolen property, &amp; expending in the fruitless search over two hundred dollars (&#36;200).</p>
-<p>George Myres, a citizen of Indiana &amp; a horse thief by profession, was arrested and brought to trial upon the charge of being accessory to the theft. By due process of law he was placed under bonds of (&#36;750) to apear and answer at the ensuing term of the Henry County Circuit Court, C M Mathews becoming<pb/>
-<lb/>his security on the bond. The undersigned believing that Myres would never ap^p^ear for trial, &amp; that the penitentiary would be defrauded of its just dues, &amp; knowing that Mathews was or thought he was secure <hi rend="str">in</hi> against loss in case Myres should forfeit his bond, asked &amp; obtained the passage of the above mentioned act, by which your Excellency will see is appropriated ^to them^ &#36;500) of the forfeited bond when collected and paid into the state Treasury.</p>
+   <p><placeName ref="cwgk:P00000309">Eminence Henry County Ky</placeName>. 9<hi rend="underline"><hi rend="sup">th</hi></hi> <date when="1864">1864</date>
+<lb/>To His Excellency, <persName ref="cwgk:N001000">Thomas E Bramlette
+</persName><lb/>Governor of Ky</p>
+<p>Your Excellency will find by refering to the proper record that the Legislature of Ky. at its last session passed an act entitled, "An Act for the benefit of <persName ref="cwgk:N00000310">R L Tinsley </persName>&amp; others," The reasons for the passage of that act were substantially the following. In the spring of <date when="1862">1862</date>. the undersigned had stolen from them five head of valuable horses. The thieves were pursued with all possible dispatch &amp; vigilence across the Ohio river through the states of Indiana &amp; Illinois &amp; across the Mississippi river into the state of Missouri, without capturing any of the stolen property, &amp; expending in the fruitless search over two hundred dollars ($200).</p>
+<p><persName ref="cwgk:N00000286">George Myres</persName>, a citizen of Indiana &amp; a horse thief by profession, was arrested and brought to trial upon the charge of being accessory to the theft. By due process of law he was placed under bonds of ($750) to apear and answer at the ensuing term of the <orgName ref="cwgk:O00000400">Henry County Circuit Court</orgName>, <persName ref="cwgk:N00000289">C M Mathews</persName> becoming<pb/>
+<lb/>his security on the bond. The undersigned believing that Myres would never ap^p^ear for trial, &amp; that the penitentiary would be defrauded of its just dues, &amp; knowing that Mathews was or thought he was secure <hi rend="str">in</hi> against loss in case Myres should forfeit his bond, asked &amp; obtained the passage of the above mentioned act, by which your Excellency will see is appropriated ^to them^ $500) of the forfeited bond when collected and paid into the state Treasury.</p>
 <p>The undersigned would beg leave to further bring to your notice the fact that Mathews <hi rend="str">made known</hi> admitted to more than one of them that Myres had made to him a deed to his farm in Indiana, &amp; that he had received from him two horses, and it is believed money besides, leaving no doubt on our minds that he was made <hi rend="str">good</hi> ^secure^ in signing the bond. The fact is well known and can be substanciated that his friends in Indiana raised a considerable sum of money for the purpose ^as is supposed^ of obtaining his release, The undersigned would also represent that they believe Mathews abundantly able to pay the amount of the bond, and in as much as we, who have ^lost^ our property our time and our money &amp; have at<pb/>
 <lb/>all times held our selves in readiness &amp; have <hi rend="str">furnished to</hi> aided the Commonwealth in every way in our power to bring to justice a common enemy. would respectfully ask that you ^do^ not remit the bond, &amp; that you remove all hindrance to the execution of the Judgement of Court,</p>
 <p>R. L. Tinsley
-<lb/>H. C. Ellis
-<lb/><hi rend="underline">Newton Bright</hi></p>
+<lb/><persName ref="cwgk:N00000328">H. C. Ellis
+</persName><lb/><persName ref="cwgk:N00000768">Newton Bright</persName></p>
   </body>
  </text>
 </TEI>

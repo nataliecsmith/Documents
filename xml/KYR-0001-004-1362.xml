@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1362"> 
  <teiHeader>
   <fileDesc>
@@ -62,17 +62,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the Governor of Kentucky</p>
-<p>at the <date when="1864-10">October</date> Term of the Mason Circuit Court Daniel Kirk was fined Two Hundred Dollars for permitting gaming in a House in which he was acting as Bar Keeper,. Mason B. Parker owned the House and has the fine to pay, as Kirk is worth nothing whatever, Parker was not at home when the gaming took place Kirk is a clever and yielding man, and has by his cleverness got him self fined and being insolvent I am compelled to pay for his folly and wrong. I there fore respectfully petition your excellency to remit so much of that fine as is coming to the state <date when="1864-12-01">Dec 1<hi rend="sup">st</hi> 1864</date></p>
+   <p>To the <persName ref="cwgk:N001000">Governor of Kentucky</persName></p>
+<p>at the <date when="1864-10">October</date> Term of the <orgName ref="cwgk:O00000426">Mason Circuit Court</orgName> <persName ref="cwgk:N00002381">Daniel Kirk</persName> was fined Two Hundred Dollars for permitting gaming in a House in which he was acting as Bar Keeper,. <persName ref="cwgk:N00002382">Mason B. Parker</persName> owned the House and has the fine to pay, as Kirk is worth nothing whatever, Parker was not at home when the gaming took place Kirk is a clever and yielding man, and has by his cleverness got him self fined and being insolvent I am compelled to pay for his folly and wrong. I there fore respectfully petition your excellency to remit so much of that fine as is coming to the state <date when="1864-12-01">Dec 1<hi rend="sup">st</hi> 1864</date></p>
 <p>Mason B Parker</p>
 <p>I recommend the governor to grant the above petition <hi rend="str">Dec 1</hi><hi rend="str"><hi rend="sup">st</hi></hi><hi rend="str"> 1864</hi>-- I believe the facts as stated above are true--</p>
-<p>Geo M Thomas
-<lb/>atto for Comlth</p>
+<p><persName ref="cwgk:N00002380">Geo M Thomas</persName><lb/>atto for Comlth</p>
 <p><date when="1864-12-01">Decr 1 1864</date><pb/></p>
 <p>Mason Cir Ct
 <lb/>vs
 <lb/>Daniel Kirk
-<lb/>&#36;200,
+<lb/>$200,
 <lb/>Remit<figure type="hr"/>
 <lb/><date when="1864-12-07">7<hi rend="sup">th</hi> Dec./64</date></p>
   </body>

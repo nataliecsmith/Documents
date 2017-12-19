@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1365"> 
  <teiHeader>
   <fileDesc>
@@ -63,12 +63,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>County of Bourbon &#125; Sct:
-<lb/>To his Excellency
-<lb/>Tho. E Bramlett
-<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Ky</p>
-<p>Your Petitioner Columbus Tate would respectfully represent that Geo Stoker (a free man of color) was at the <date when="1861-04">April Term 1861</date> Indicted in two instances for selling spirituous Liquors, that on the <date when="1862-04-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> April 1862,</date> Your petitioner became the surety on 2 Recognisance' for the said George appearance at the <date when="1863-04">following April</date> term of the Bourbon Circuit Court, that on the 1<hi rend="sup">st</hi> day of <date when="1863-04">said April</date> Term, he in person brought the said George into Court &amp; delivered him up to the sheriff B. f. Pullen, the cases were continued &amp; no further recognisance was required of the said George-- your petitioner after delivering said George to the court thinking that he had fully discharged his obligation upon said bonds went home -- That at the <date when="1864-10">Oct<hi rend="underline"><hi rend="sup">o</hi></hi> Term 1864</date> of said court Judgment was rendered against him (your petitioner) in said cases for &#36;100. each. Your petitioner Respectfully asks your Excellency to remit said Judgments (or fines) that said George is now<pb/>
+   <p><placeName ref="cwgk:P001800">State of Kentucky</placeName><lb/><placeName ref="cwgk:P00000515">County of Bourbon</placeName> } Sct:<lb/>To his Excellency
+<lb/><persName ref="cwgk:N001000">Tho. E Bramlett</persName><lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Ky</p>
+<p>Your Petitioner <persName ref="cwgk:N00002537">Columbus Tate</persName> would respectfully represent that <persName ref="cwgk:N00002540">Geo Stoker</persName> (a free man of color) was at the <date when="1861-04">April Term 1861</date> Indicted in two instances for selling spirituous Liquors, that on the <date when="1862-04-16">16<hi rend="underline"><hi rend="sup">th</hi></hi> April 1862,</date> Your petitioner became the surety on 2 Recognisance' for the said George appearance at the <date when="1863-04">following April</date> term of the <orgName ref="cwgk:O00000350">Bourbon Circuit Court</orgName>, that on the 1<hi rend="sup">st</hi> day of <date when="1863-04">said April</date> Term, he in person brought the said George into Court &amp; delivered him up to the sheriff <persName ref="cwgk:N00002390">B. f. Pullen</persName>, the cases were continued &amp; no further recognisance was required of the said George-- your petitioner after delivering said George to the court thinking that he had fully discharged his obligation upon said bonds went home -- That at the <date when="1864-10">Oct<hi rend="underline"><hi rend="sup">o</hi></hi> Term 1864</date> of said court Judgment was rendered against him (your petitioner) in said cases for $100. each. Your petitioner Respectfully asks your Excellency to remit said Judgments (or fines) that said George is now<pb/>
 <lb/>&amp; has been ever since the Indictments were found against him in Bourbon County.</p>
 <p><hi rend="underline">Columbus Tate</hi></p>
 <p>we the undersigned would respectfully state that we are well acquainted with the petitioner Columbus Tate who is an humble good citizen has a large family of children dependent upon his labor for support, has but little means &amp; a hard laboring man, honest quiet &amp; industrious. &amp; that his case is one worthy the interposition of your Excellency, which we respectfully ask on his behalf--</p>
@@ -77,14 +74,10 @@
 <p>We the undersigned respectfully ask for the fine to be remitted,</p>
 <p>A, S, Thomson
 <lb/><hi rend="str"><unclear/></hi>. f Pullen late S B C
-<lb/>W W Alexander
-<lb/>O. V Talbott
-<lb/>P <unclear>Hail</unclear>
-<lb/>Allen Bashford
-<lb/>J. Ed Ray
-<lb/><hi rend="underline">R W Hutchcraft</hi>
-<lb/>R S Henderson
-<lb/>Sam<hi rend="sup">l</hi> Rulo Jailor B C</p>
+<lb/><persName ref="cwgk:N00002544">W W Alexander</persName><lb/><persName ref="cwgk:N00002542">O. V Talbott</persName><lb/>P <unclear>Hail</unclear>
+<lb/><persName ref="cwgk:N00002387">Allen Bashford
+</persName><lb/><persName ref="cwgk:N00002541">J. Ed Ray</persName><lb/>
+<persName ref="cwgk:N00002547">R W Hutchcraft</persName><lb/><persName ref="cwgk:N00002538">R S Henderson</persName><lb/>Sam<hi rend="sup">l</hi> Rulo Jailor B C</p>
 <p>Bourbon Cir Ct
 <lb/>vs
 <lb/>Columbus Tate

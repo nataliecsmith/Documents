@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00005184">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00006065">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">West Point, Kentucky</title>
+        <title level="a" type="main">13th Kentucky Volunteer Infantry Regiment</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Stephen Powell</name>
+            <name>Anthony P. Curtis</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name></name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -41,28 +37,25 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="type">Place</term>
+                    <term type="type">Organization</term>
                 </keywords>
             </textClass>
-            <settingDesc>
-                <place xml:id="P00005184">
-                    <placeName>
-                        <location>
-                              <geo>37.9995 -85.9436</geo>
-                            <settlement>West Point, Kentucky</settlement>
-                        </location>
-                    </placeName>
-                </place> 
-            </settingDesc>    
+            <particDesc>
+                <org xml:id="O00006065">
+                    <orgName>13th Kentucky Volunteer Infantry Regiment</orgName>
+                        <event type="begun"  when="1861-12-30"  ><ab>1861-12-30</ab></event>
+                        <event type="ended"  when="1865-01-12"  ><ab>1865-01-12</ab></event>
+                </org>
+            </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Located in Hardin County, Kentucky. Located on the Ohio River.</p>
+        <p>Organized at Camp Hobson, Kentucky. Mustered in on December 30, 1861 and mustered out on January 12, 1865. Commander(s): Edward H. Hobson and William E. Hobson.</p>
 
     </body>
     <back>
-        <ab><bibl>Robert M. Rennick, <hi rend="italic">Kentucky Place Names</hi> (Lexington: University Press of Kentucky, 1984), 313-314 
+        <ab><bibl><hi rend="italic">Report of the Adjutant General of the State of Kentucky</hi>, vol. 1 (Frankfort: John H. Harney, Public Printer, 1866), 855-871.
 </bibl></ab>
     </back>
 </text>
