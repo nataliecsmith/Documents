@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1366"> 
  <teiHeader>
   <fileDesc>
@@ -63,14 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Paris Ky <date when="1864-12-19">Decr 19<hi rend="sup">th</hi> 1864</date>
+   <p><placeName ref="cwgk:P00000514">Paris Ky</placeName> <date when="1864-12-19">Decr 19<hi rend="sup">th</hi> 1864</date>
 <lb/>Govr Tho E. Bramlet</p>
-<p>Dr Sir I have a favour for a Friend to to ask of you on the <date when="1864-12-12">12th of this Month</date> I sent by the bearer Dr Harnard a petition to you signed by a no of persons asking the releas of a Fine in the Circuit Court against one Columbus Tate he was on a bond for the forthcoming of Negro at the Court in <date when="1861">1861</date> when court was in cession Mr Tate brought the Negro in and gave him up to the Sheriff in open Court when the cas was Continued Mr Tate had gone home in Good Faith and the Sheriff let the Negro as he stated in the petion as Sheriff Dr Har<hi rend="str">a</hi>nard had is Pocket robed which contained the petition as he will state to you If you can not releas Mr Tate of the fine <hi rend="str"><unclear/></hi>he <hi rend="str">do</hi> only ask the fine and not the Fees if not the release he wants a Respite to give him Tim to have the petien signed as the Sheriff is preping him he is a Stead industrious Man and has a large Family and is hard to Live but honest </p>
+<p>Dr Sir I have a favour for a Friend to to ask of you on the <date when="1864-12-12">12th of this Month</date> I sent by the bearer <persName ref="cwgk:N00002557">Dr Harnard</persName> a petition to you signed by a no of persons asking the releas of a Fine in <orgName ref="cwgk:O00000350">the Circuit Court</orgName> against one <persName ref="cwgk:N00002537">Columbus Tate</persName> he was on a bond for the forthcoming of Negro at the Court in <date when="1861">1861</date> when court was in cession Mr Tate brought the Negro in and gave him up to the Sheriff in open Court when the cas was Continued Mr Tate had gone home in Good Faith and the Sheriff let the Negro as he stated in the petion as Sheriff Dr Har<hi rend="str">a</hi>nard had is Pocket robed which contained the petition as he will state to you If you can not releas Mr Tate of the fine <hi rend="str"><unclear/></hi>he <hi rend="str">do</hi> only ask the fine and not the Fees if not the release he wants a Respite to give him Tim to have the petien signed as the Sheriff is preping him he is a Stead industrious Man and has a large Family and is hard to Live but honest </p>
 <p>Your Friend &amp; voter
-<lb/>A. S. Thomson<pb/></p>
+<lb/><persName ref="cwgk:N00002386">A. S. Thomson</persName><pb/></p>
 <p>To His Excelency Gov Bramlette</p>
 <p>The writer of the within is the sheriff elect of this county &amp; is reliable</p>
-<p>Jno C. Brent</p>
+<p><persName ref="cwgk:N00002556">Jno C. Brent</persName></p>
   </body>
  </text>
 </TEI>
