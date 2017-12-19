@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0052"> 
  <teiHeader>
   <fileDesc>
@@ -63,12 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Williams Town Ky
-<lb/><date when="1861-01-14">January 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+   <p><placeName ref="cwgk:P00002296">Williams Town</placeName> Ky<lb/><date when="1861-01-14">January 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
 <lb/>To his
 <lb/>Excellency
-<lb/>Beriah Magiffin</p>
-<p>I herewith tender you my resignation as one of the Justices of The Peace for District N<hi rend="sup">o</hi> 4. (Flat Creek) in Grant County <hi rend="str">and has</hi> to take effect from this date -- </p>
+<lb/><persName ref="cwgk:N00000258">Beriah Magiffin</persName></p>
+<p>I herewith tender you my resignation as one of the Justices of The Peace for District N<hi rend="sup">o</hi> 4. (<geogName ref="cwgk:G00002297">Flat Creek</geogName>) in <placeName ref="cwgk:P00000938">Grant County</placeName> <hi rend="str">and has</hi> to take effect from this date -- </p>
 <p>With much Respect
 <lb/>I am your
 <lb/>obt svt,
