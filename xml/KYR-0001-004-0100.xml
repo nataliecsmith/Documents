@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0100"> 
  <teiHeader>
   <fileDesc>
@@ -63,10 +63,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hartford Ky
-<lb/><date when="1863-09-14">sept 14. 1863</date>.
+   <p><placeName ref="cwgk:P001000">Hartford Ky
+</placeName><lb/><date when="1863-09-14">sept 14. 1863</date>.
 <lb/>To his Excelency
-<lb/>Gov Bramlete</p>
+<lb/><persName ref="cwgk:N001000">Gov Bramlete</persName></p>
 <p>I have been called uppon- by Mr Moses Bare- to state the condition of his health, I have Known him for the last Eight years, and to my certain Knolledge his health has not been good during the time of my acquaintance with him he is very small- what we call a dwarfe- he is also a forigner and is unacquainted with our Laws untill <hi rend="str">his</hi> our last Grand Jury met since that time I believe that he has obeyed the Laws to the letter I will further state that I believe that he was led off by several Houses kept in our town by Native Born cittizins for I know that all our Grocerys <hi rend="str">a</hi>sold in violation of our Laws and I further state that I am confident that it is the wish of at least 3 fourth of our citizens that his fine should be remited.</p>
 <p><hi rend="str">I</hi>Yours in hast.
 <lb/>W J Berry M. D</p>
