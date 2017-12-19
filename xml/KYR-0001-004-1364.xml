@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1364"> 
  <teiHeader>
   <fileDesc>
@@ -62,10 +62,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>Mercer Cir Ct
-<lb/>vs
-<lb/>W. A Ronal
-<lb/>&#36;25.
+   <p><orgName ref="cwgk:O00000424">Mercer Cir Ct</orgName><lb/>vs
+<lb/><persName ref="cwgk:N00006505">W. A Ronal</persName><lb/>$25.
 <lb/>Remitted
 <lb/><date when="1864-12-20">20<hi rend="sup">th</hi> Dec/64</date><pb/></p>
 <p>Com</p>
