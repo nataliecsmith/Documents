@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0052"> 
  <teiHeader>
   <fileDesc>
@@ -69,12 +69,10 @@
 <p><milestone unit="column" n="2"/><cb n="1"/>N. GREEN, Pres. S. W. Telegraph Co.
 <lb/><cb n="2"/>A. STAGER, General Supt. W. U. Telegraph.<milestone unit="column" n="1"/><figure type="hr"/>
 <lb/>SEND THE FOLLOWING MESSAGE, SUBJECT TO THE ABOVE CONDITIONS.</p>
-<p>Louisville <date when="1861-05-06">May 6<hi rend="sup">th</hi> 186<hi rend="str">0</hi>1</date>.
-<lb/>To Gov. Magoffin
-<lb/>Frankfort.</p>
+<p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-05-06">May 6<hi rend="sup">th</hi> 186<hi rend="str">0</hi>1</date>.
+<lb/>To Gov. <persName ref="cwgk:N00000258">Magoffin</persName><lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>.</p>
 <p>Can get one hundred (100) Navy Revolvers for Three thousand dollars (3.000) Shall I buy,</p>
-<p>E. P. Barbour
-<lb/>Galt House</p>
+<p><persName ref="cwgk:N00003307">E. P. Barbour</persName><lb/><orgName ref="cwgk:O00002784">Galt House</orgName></p>
 <p>(Copy)</p>
   </body>
  </text>
