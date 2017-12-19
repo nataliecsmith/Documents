@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1363"> 
  <teiHeader>
   <fileDesc>
@@ -63,15 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Cov Ky <date when="1864-12-19">Dec 19/64</date>
+   <p><placeName ref="cwgk:P00000936">Cov Ky</placeName> <date when="1864-12-19">Dec 19/64</date>
 <lb/>His Excellency Gov Bramlette
 <lb/>Dear Sir.</p>
-<p>I understand -- that Mr Henry Crout has proposed new evidence in the penal cases against him, I was one of the attys-- and hence state that I thought at the time-- as good, true, law-abiding man as Mr Crout-- ought hardly to have been convicted upon the testimony. One <hi rend="underline">Beazley</hi> -- was the standing witness that term of the Court-- and swept the city, but we could not then impeach him -- and for that reason Mr Crout-- is compelled to look to you. He is a very<pb/>
+<p>I understand -- that Mr <persName ref="cwgk:N00002383">Henry Crout</persName> has proposed new evidence in the penal cases against him, I was one of the attys-- and hence state that I thought at the time-- as good, true, law-abiding man as Mr Crout-- ought hardly to have been convicted upon the testimony. One  -- was the standing witness that term of the Court-- and swept the city, but we could not then impeach him -- and for that reason Mr Crout-- is compelled to look to you. He is a very<persName ref="cwgk:N00002384">Beazley</persName><pb/>
 <lb/>exemplary law abiding Man-- He spent a large Sum-- raised a company-- went up to be sworn in-- (Last Fall) with his company and was thrown out because of slight rupture-- thus losing all his time and several hundred dollars. He is deserving of your clemency</p>
 <p>Respectfully Yours
-<lb/>John F Fisk<pb/></p>
-<p>Commonwealth
-<lb/>vs &#125; Letters &amp;c
+<lb/><persName ref="cwgk:N00000460">John F Fisk</persName><pb/></p>
+<p><orgName ref="cwgk:O001025">Commonwealth</orgName><lb/>vs } Letters &amp;c
 <lb/>Henry Crout</p>
   </body>
  </text>
