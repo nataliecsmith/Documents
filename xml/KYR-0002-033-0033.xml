@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0033"> 
  <teiHeader>
   <fileDesc>
@@ -63,14 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Head-Quarters Department of the Ohio,
-<lb/>Cincinnati, Ohio, <date when="1863-11-02">November 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 1863</date>,
+   <p>Head-Quarters <orgName ref="cwgk:O001001">Department of the Ohio</orgName>,<lb/><placeName ref="cwgk:P00001208">Cincinnati, Ohio,</placeName> <date when="1863-11-02">November 2<hi rend="underline"><hi rend="sup">nd</hi></hi> 1863</date>,
 <lb/>SPECIAL ORDERS,
 <lb/>No. 415</p>
-<p>1 ,, ,, ,, Private <hi rend="underline">Robert Prudy</hi>, Co, "D" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Cavalry Kentucky Volunteers, is discharged the service, to date from the <date when="1863-09-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> day of September 1863,</date> to enable him to accept a Commission then tendered him by the Governor of Kentucky and since when he has been acting in the capacity of a Commissioned Officer. </p>
-<p>By Order of Major General Burnside
-<lb/>W P Anderson 
-<lb/>Assistant Adjutant General. </p>
+<p>1 ,, ,, ,, Private , Co, "D" 1<persName ref="cwgk:N00005940">Robert Prudy</persName><hi rend="underline"><hi rend="sup">st</hi></hi> Cavalry Kentucky Volunteers, is discharged the service, to date from the <date when="1863-09-21">21<hi rend="underline"><hi rend="sup">st</hi></hi> day of September 1863,</date> to enable him to accept a Commission then tendered him by the <persName ref="cwgk:N001000">Governor of Kentucky </persName>and since when he has been acting in the capacity of a Commissioned Officer. </p>
+<p>By Order of Major <persName ref="cwgk:N00005702">General Burnside</persName><lb/><persName ref="cwgk:N00005941">W P Anderson </persName><lb/>Assistant Adjutant General. </p>
 <p>Govenor of Kentucky.<pb/></p>
 <p>1 Cav
 <lb/>Robert Prudy
