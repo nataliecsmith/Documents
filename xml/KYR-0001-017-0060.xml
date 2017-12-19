@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0060"> 
  <teiHeader>
   <fileDesc>
@@ -63,15 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Boston <date when="1861-01-31">Jan<hi rend="sup">y</hi>. 31. 1861</date>
+   <p><placeName ref="cwgk:P00000524">Boston</placeName> <date when="1861-01-31">Jan<hi rend="sup">y</hi>. 31. 1861</date>
 <lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> W. Tate Esqr
 <lb/>asst Secty. of State
-<lb/>Frankfort Ky.
-<lb/>Dr Sir</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName>.<lb/>Dr Sir</p>
 <p>Yours of the <date when="1861-01-14">14"</date> is recv<hi rend="sup">d</hi> and I owe you an apology for the delay in forwarding my oath and the fee of your office. When my Commission was received I immediately executed the oath and laid it away with the comm<hi rend="underline"><hi rend="sup">n</hi></hi> and not being call<hi rend="sup">d</hi> upon to act as a Comm<hi rend="underline"><hi rend="sup">r</hi></hi> for your State in the mean time, it has remained undisturbed 'till now -- which your letter reminds me of -- I enclose the <hi rend="underline">oath</hi> and <hi rend="underline">Five</hi> <hi rend="underline">dollars</hi> as <hi rend="underline">fee</hi>. -- You will oblige me by acknowledging receipt of the same.</p>
 <p>Very respectfully
 <lb/>Yours &amp;c
-<lb/>Sam: S. Curtis.</p>
+<lb/><persName ref="cwgk:N00002347">Sam. S. Curtis</persName>.</p>
   </body>
  </text>
 </TEI>
