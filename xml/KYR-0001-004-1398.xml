@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1398"> 
  <teiHeader>
   <fileDesc>
@@ -65,13 +65,13 @@
   <body>
    <p><stamp type="revenue"/><note place="stamp">J B
 <lb/><date when="1864-12-01">Dec 1 1864</date></note>
-<lb/>To His Excellency Gov. Bramlette</p>
-<p>The petition of the undersigned Isaiah Boone a citizen of Madison County Ky respectfully sheweth, That sometime in the month of <date when="1864-01">January</date> or <date when="1864-02">February of this year</date> he was in the city of Louisville Ky on business, having carried down the Ky. River a lot of Cedar logs for sale, and was stopping at a hotel kept by a man named Michael Sharer.</p>
-<p>During his stay there a man named Baker was killed by Thomas Woodward, the barkeeper of the house -- Woodward was tried before our examining court and held to bail in the Sum of &#36;1500, and Sharer and this petitioner entered on his bond for his appearance before the Jefferson Circuit Court -- Woodward failed to appear before the Court, and petitioner and Sharer jointly paid to a detective policeman &#36;110 to pursue and bring back to trial Woodward He was caught in Burlington Iowa, and brought back to Louisville Ky, where he is now confined in jail to await his trial. In the meanwhile, a proceeding was instituted in the court on the bail bond which had been forfeited, and a judgment rendered against your petitioner at the <date when="1864-11">Nov. term 1864</date> for the amount of the bond &#36;1500 &amp; costs, and an execution is now in the hands of the Sheriff of Madison County against your petitioner for that judgment -- Woodward was brought back before the judgment -- <pb/>
+<lb/>To His Excellency <persName ref="cwgk:N001000">Gov. Bramlette</persName></p>
+<p>The petition of the undersigned Isaiah Boone a citizen of <placeName ref="cwgk:P00000446">Madison County Ky</placeName> respectfully sheweth, That sometime in the month of <date when="1864-01">January</date> or <date when="1864-02">February of this year</date> he was in the city of <placeName ref="cwgk:P00000337">Louisville Ky</placeName> on business, having carried down the Ky. River a lot of Cedar logs for sale, and was stopping at a hotel kept by a man named Michael Sharer.</p>
+<p>During his stay there a man named Baker was killed by Thomas Woodward, the barkeeper of the house -- Woodward was tried before our examining court and held to bail in the Sum of $1500, and Sharer and this petitioner entered on his bond for his appearance before the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName> -- Woodward failed to appear before the Court, and petitioner and Sharer jointly paid to a detective policeman $110 to pursue and bring back to trial Woodward He was caught in Burlington Iowa, and brought back to Louisville Ky, where he is now confined in jail to await his trial. In the meanwhile, a proceeding was instituted in the court on the bail bond which had been forfeited, and a judgment rendered against your petitioner at the <date when="1864-11">Nov. term 1864</date> for the amount of the bond $1500 &amp; costs, and an execution is now in the hands of the Sheriff of Madison County against your petitioner for that judgment -- Woodward was brought back before the judgment -- <pb/>
 <lb/>Your petitioner states that he is poor and has endeavored at all times to do his whole duty to his country -- He was deceived into signing the bail bond originally, and has done all he could to vindicate the State -- He humbly prays your excellency to grant him a remission of all of said judgments within your power &amp; he will ever pray -- as to his character he refers to the accompanying paper -- <date when="1864-11-11">Nov, 11 1864</date></p>
 <p>Isaiah Boone</p>
-<p>State of Kentucky
-<lb/>Madison County Sct.</p>
+<p><placeName ref="cwgk:P001800">State of Kentucky
+</placeName><lb/>Madison County Sct.</p>
 <p>Sworn to before me by <hi rend="str">Isziah</hi> Isaiah Boone This <date when="1864-12-01">Dec 1<hi rend="underline"><hi rend="sup">st</hi></hi> 1864</date></p>
 <p>John Bennett
 <lb/><hi rend="underline">Ex. M. C</hi></p>
@@ -96,11 +96,11 @@
 <lb/>Samuel Bennett
 <lb/>Tho<hi rend="sup">s</hi> Broaddus</p>
 <p>I hope the prayer of the petitioner will be granted. Woodward is now in custody.</p>
-<p>P. B. Muir<pb/></p>
+<p><persName ref="cwgk:N002003">P. B. Muir</persName><pb/></p>
 <p>Jefferson Cir Ct
 <lb/>vs
 <lb/>Isaiah Boone
-<lb/>&#36;1500.
+<lb/>$1500.
 <lb/>Remit
 <lb/><date when="1865-01-11">11<hi rend="sup">th</hi> Jany 1865</date>
 <lb/>Remit</p>
