@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0096"> 
  <teiHeader>
   <fileDesc>
@@ -63,13 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Nashville, Tenn. <date when="1861-03-11">March 11<hi rend="underline"><hi rend="sup">th </hi></hi>1861</date>.
-<lb/>His Excellency, the Governor
-<lb/>of Kentucky,
-<lb/>Frankfort, Ky.
-<lb/>Dear Sir,</p>
-<p>The letter dated <date when="1861-01-14">Jany. 14<hi rend="sup">th</hi>,</date> addressed by the Asst. Secty. of State, Jas. W. Tate, to Hardin P. Bostick, enclosing to him a commission as commissioner of Deeds for Kentucky, to reside in ths city, was duly recieved. Soon after its receipt and before he took the oath of office as required by law, Mr. Bostick was taken sick and died on the <date when="1861-02-23">23<hi rend="sup">rd</hi> of last month.</date> His commission is herewith returned.</p>
-<p>I now respectfully apply for the same appointment and if appointed will fill the duties of the office to the best of my ability. I refer you to the statements below, of Ex-Gov. Neil S. Brown and J. T. Dunlap Comptroller of Tenn.</p>
+   <p><placeName ref="cwgk:P001004">Nashville, Tenn</placeName>. <date when="1861-03-11">March 11<hi rend="underline"><hi rend="sup">th </hi></hi>1861</date>.
+<lb/>His Excellency, <persName ref="cwgk:N00000258">the Governor
+</persName><lb/>of Kentucky,
+<lb/><placeName ref="cwgk:P00000308">Frankfort, Ky</placeName>.<lb/>Dear Sir,</p>
+<p>The letter dated <date when="1861-01-14">Jany. 14<hi rend="sup">th</hi>,</date> addressed by the Asst. Secty. of State, <persName ref="cwgk:N00001223">Jas. W. Tate</persName>, to <persName ref="cwgk:N00002060">Hardin P. Bostick,</persName> enclosing to him a commission as commissioner of Deeds for Kentucky, to reside in ths city, was duly recieved. Soon after its receipt and before he took the oath of office as required by law, Mr. Bostick was taken sick and died on the <date when="1861-02-23">23<hi rend="sup">rd</hi> of last month.</date> His commission is herewith returned.</p>
+<p>I now respectfully apply for the same appointment and if appointed will fill the duties of the office to the best of my ability. I refer you to the statements below, of Ex-Gov. <persName ref="cwgk:N00002579">Neil S. Brown </persName>and <persName ref="cwgk:N00002580">J. T. Dunlap</persName> Comptroller of Tenn.</p>
 <p>Yours very respectfully
 <lb/>J. L. Bostick</p>
 <p>We know Mr. Bostick well. He is a gentleman &amp; a lawyer of fine qualifications, &amp; we hope he may be appointed.</p>
