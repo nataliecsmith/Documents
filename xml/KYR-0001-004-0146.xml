@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0146"> 
  <teiHeader>
   <fileDesc>
@@ -63,11 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Glasgow <date when="1863-10-24">Oct 24<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
+   <p><placeName ref="cwgk:P00000336">Glasgow</placeName> <date when="1863-10-24">Oct 24<hi rend="underline"><hi rend="sup">th</hi></hi> 1863</date>
 <lb/>Dear sir</p>
-<p>I herewith forward you my bond executed as directed, the bond is amply good. I wish the comssion to cover at least such of the 21<hi rend="underline"><hi rend="sup">st</hi></hi> Ky vols as may want to send mony by me, many of the 9<hi rend="underline"><hi rend="sup">th</hi></hi> Ky reside in ^this^ county and adjoining ones. I would accept for them, but if it suit the Gov. as well, let the Comssion be alone for the 21<hi rend="underline"><hi rend="sup">st</hi></hi> -- these are dangerous times to cary mony. no news here, I do not think the Gurillas will pester this place, as it is now Garissined -- </p>
+<p>I herewith forward you my bond executed as directed, the bond is amply good. I wish the comssion to cover at least such of the 21<hi rend="underline"><hi rend="sup">st</hi></hi> Ky vols as may want to send mony by me, many of the 9<hi rend="underline"><hi rend="sup">th</hi></hi> Ky reside in ^this^ county and adjoining ones. I would accept for them, but if it suit the <persName ref="cwgk:N001000">Gov</persName>. as well, let the Comssion be alone for the 21<hi rend="underline"><hi rend="sup">st</hi></hi> -- these are dangerous times to cary mony. no news here, I do not think the Gurillas will pester this place, as it is now Garissined -- </p>
 <p>your friend
-<lb/>W. F. Evans</p>
+<lb/><persName ref="cwgk:N00001570">W. F. Evans</persName></p>
   </body>
  </text>
 </TEI>
