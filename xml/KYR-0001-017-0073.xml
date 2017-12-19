@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0073"> 
  <teiHeader>
   <fileDesc>
@@ -63,15 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Shelbyville Ky
-<lb/><date when="1861-02-12">February 12<hi rend="sup">th</hi> 1861</date>
-<lb/>His Excly B, Magoffin
-<lb/>Frankfort
-<lb/>Ky -- </p>
-<p>By the death of H B Oliver a Justice of the Peace for the 5<hi rend="sup">th</hi> District of this county -- there has been made a vacancy in that office -- Enclosed you will find a petition of a portion of the citizens of said District recommending the appointment of R H George or W, A, M<hi rend="sup">c</hi>Dowel either of whom <hi rend="str">a</hi> is competent for the place -- </p>
+   <p><placeName ref="cwgk:P00002066">Shelbyville Ky
+</placeName><lb/><date when="1861-02-12">February 12<hi rend="sup">th</hi> 1861</date>
+<lb/>His Excly <persName ref="cwgk:N00000258">B. Magoffin
+</persName><lb/><placeName ref="cwgk:P00000308">Frankfort
+</placeName><lb/>Ky -- </p>
+<p>By the death of <persName ref="cwgk:N00002451">H B Oliver</persName> a Justice of the Peace for the 5<hi rend="sup">th</hi> District of this county -- there has been made a vacancy in that office -- Enclosed you will find a petition of a portion of the citizens of said District recommending the appointment of <persName ref="cwgk:N00002452">R H George</persName> or W, A, M<hi rend="sup">c</hi>Dowel either of whom <hi rend="str">a</hi> is competent for the place -- </p>
 <p>Yr obt servt
-<lb/>J, L, Caldwell
-<lb/>Judge shelby County Ct -- <pb/></p>
+<lb/><persName ref="cwgk:N00002293">J. L. Caldwell
+</persName><lb/>Judge shelby County Ct -- <pb/></p>
 <p>Shelby Co<figure type="hr"/>
 <lb/>J. P.
 <lb/>Dist N<hi rend="sup">o</hi> 5.
