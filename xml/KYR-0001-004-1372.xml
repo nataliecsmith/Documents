@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1372"> 
  <teiHeader>
   <fileDesc>
@@ -63,8 +63,8 @@
  <text>
   <body>
    <p><date when="1864-12-05">Dec 5<hi rend="sup">th</hi> 18,64</date>
-<lb/>Honerable Thomas, E. Bramlette Go<hi rend="underline">v</hi> of the commonwealth of Ky</p>
-<p>I Waddy Thompson of the county of Metcalfe and state of Kentucky haveing been Indited in the Metcalfe circuit court for the offence of Keeping a Tipling house after my Licens had expired and haveing confessed Judgement in the Metca^l^fe circuit court at its <date when="1864-12">December term 1864</date> in the sum of Sixty dollars</p>
+<lb/>Honerable <persName ref="cwgk:N001000">Thomas, E. Bramlette</persName> Go<hi rend="underline">v</hi> of the commonwealth of Ky</p>
+<p>I Waddy Thompson of the <placeName ref="cwgk:P00004949">county of Metcalfe</placeName> and state of Kentucky haveing been Indited in the <orgName ref="cwgk:O00000430">Metcalfe circuit court</orgName> for the offence of Keeping a Tipling house after my Licens had expired and haveing confessed Judgement in the Metca^l^fe circuit court at its <date when="1864-12">December term 1864</date> in the sum of Sixty dollars</p>
 <p>Now we the undersigned citizens of Metcalfe county Ky would Respectfully ask your remittance of said fine as we are satesfied from every circumstance and from the acquaintance that we have with the said Waddy Thompson that he did not commit the above ^stated^ offence with any intention or desire to violate the laws of the commonwealth of Kentucky he being a good loyal man and a law abideing citizen and respectable man we earnestly request your consideration and remittance of said fine if consistant with your feelings after consideration of the matter</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>W. O. Newman
 <lb/>James Mitchell
@@ -94,7 +94,7 @@
 <p>Metcalfe Cir Ct
 <lb/>vs
 <lb/>Waddy Thompson
-<lb/>&#36;60,
+<lb/>$60,
 <lb/><date when="1865-08-28">28 Aug/65</date></p>
 <p>sent for fee
 <lb/><date when="1865-07-22">22 July</date></p>
