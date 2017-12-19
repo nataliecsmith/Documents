@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0034"> 
  <teiHeader>
   <fileDesc>
@@ -63,16 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort Ky.
-<lb/>Executive Office
+   <p><placeName ref="cwgk:P00000308">Frankfort Ky.</placeName><lb/>Executive Office
 <lb/><date when="1861-05-02">May 2<hi rend="underline"><hi rend="sup">d</hi></hi> 1861</date>
-<lb/>P. Swigert Esq
-<lb/>Prest Farmers Bank
-<lb/>Sir</p>
-<p>I rec<hi rend="sup">d</hi> a telegram from N. Orleans this morning, asking for Two hundred thousand Dollars to be placed<hi rend="str">^</hi> to the credit to the credit of the state there in the citizens bank subject to the order of Hewit Norton &amp; Co the agents of the state of Ky to purchase arms munitions of war &amp;<hi rend="sup">c</hi> &amp;<hi rend="sup">c</hi> to put the state in a position of self defense Can I draw upon your Bk for your quota of the half million of Dollars asked for, for that purpose. Please answer as soon as possbile as they require an immediate answer, I go to Louisville on this evenings train- Please answer me there -- If your answer is favorable I shall of course ask the Legislature to provide for its payment</p>
+<lb/><persName ref="cwgk:N00002747">P. Swigert</persName> Esq<lb/>Prest <orgName ref="cwgk:O00002741">Farmers Bank</orgName><lb/>Sir</p>
+<p>I rec<hi rend="sup">d</hi> a telegram from <placeName ref="cwgk:P00002303">N. Orleans</placeName> this morning, asking for Two hundred thousand Dollars to be placed<hi rend="str">^</hi> to the credit to the credit of the state there in the citizens bank subject to the order of Hewit Norton &amp; Co the agents of the state of Ky to purchase arms munitions of war &amp;<hi rend="sup">c</hi> &amp;<hi rend="sup">c</hi> to put the state in a position of self defense Can I draw upon your Bk for your quota of the half million of Dollars asked for, for that purpose. Please answer as soon as possbile as they require an immediate answer, I go to <placeName ref="cwgk:P00000337">Louisville</placeName> on this evenings train- Please answer me there -- If your answer is favorable I shall of course ask the Legislature to provide for its payment</p>
 <p>With great respect
 <lb/>Yr frd. &amp; obt. servt
-<lb/><hi rend="underline">B. Magoffin</hi></p>
+<lb/><persName ref="cwgk:N00000258">B. Magoffin</persName></p>
   </body>
  </text>
 </TEI>
