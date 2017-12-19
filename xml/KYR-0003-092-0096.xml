@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0096"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,9 +70,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>Dear Sir</p>
-<p>I was absent from Home for a day or so &amp; thus did not receive your note till yesterday evening= I think there can be no doubt of our being able to raise the Money in your acceptance if the parties you name are not in a position to pay the amt due you; I will meet you in Lexington on Tuesday next say on arrival of Cars at Agl Dep Bank where we can see what can be done
-<lb/>Saturday <date when="1861-04-27">27 Apr 1861</date>.</p>
+   <p>Dear <persName ref="cwgk:N001002">Sir</persName></p>
+<p>I was absent from Home for a day or so &amp; thus did not receive your note till yesterday evening= I think there can be no doubt of our being able to raise the Money in your acceptance if the parties you name are not in a position to pay the amt due you; I will meet you in <placeName ref="cwgk:P001002">Lexington</placeName> on Tuesday next say on arrival of Cars at <orgName ref="cwgk:O00008149">Agl Dep Bank</orgName> where we can see what can be done<lb/>Saturday <date when="1861-04-27">27 Apr 1861</date>.</p>
 <p>Yours very truly
 <lb/>R Aitcheson Alexander</p>
 <p>P. S.
