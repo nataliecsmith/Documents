@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0021"> 
  <teiHeader>
   <fileDesc>
@@ -69,13 +69,12 @@
 <p><milestone unit="column" n="2"/><cb n="1"/>N. GREEN, Pres. S. W. Telegraph Co.
 <lb/><cb n="2"/>A. STAGER, General Supt. W. U. Telegraph.<milestone unit="column" n="1"/><figure type="hr"/>
 <lb/>SEND THE FOLLOWING MESSAGE, SUBJECT TO THE ABOVE CONDITIONS.</p>
-<p>Louisville <date when="1861-04-29">Apl 29th 1861</date>
-<lb/>To M, O, H. Norton Esq
-<lb/>Hewitt &amp; Co New Orleans</p>
-<p>Want you as agent of State Kentucky to have inspected and receive arms and amunition purchased at my instance by L P. Blackburn and ship them immediately by rail to Gen S. B. Buckner Louisville</p>
-<p>B. Magoffin</p>
+<p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-04-29">Apl 29th 1861</date>
+<lb/>To <persName ref="cwgk:N00002589">M, O, H. Norton Esq</persName><lb/><orgName ref="cwgk:O00002590">Hewitt &amp; Co New Orleans</orgName></p>
+<p>Want you as agent of <orgName ref="cwgk:O001025">State Kentucky</orgName> to have inspected and receive arms and amunition purchased at my instance by <persName ref="cwgk:N00002591">L P. Blackburn</persName> and ship them immediately by rail to Gen S. B. Buckner Louisville</p>
+<p><persName ref="cwgk:N00000258">B. Magoffin</persName></p>
 <p>copy</p>
-<p>&#36;3<hi rend="underline">40</hi></p>
+<p>$3<hi rend="underline">40</hi></p>
   </body>
  </text>
 </TEI>
