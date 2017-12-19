@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0036"> 
  <teiHeader>
   <fileDesc>
@@ -65,10 +65,9 @@
   <body>
    <p>Executive Department
 <lb/>Frankfort <date when="1861-05-02">May 2. 1861</date>
-<lb/>Messrs Hewitt Norton &amp; Co
-<lb/>New Orleans.</p>
-<p>You are authorized to act as Agents of this state in the purchase of arms. Assume the agency and ^confer with T. O. Moore.^ <hi rend="str">h</hi>Have the dispatch sent to your care, delivered to Dr Luke Blackburn.</p>
-<p>B. Magoffin</p>
+<lb/>Messrs <orgName ref="cwgk:O00002590">Hewitt Norton &amp; Co</orgName><lb/><placeName ref="cwgk:P00002303">New Orleans</placeName>.</p>
+<p>You are authorized to act as Agents of this state in the purchase of arms. Assume the agency and ^confer with <persName ref="cwgk:N00002746">T. O. Moore</persName>.^ <hi rend="str">h</hi>Have the dispatch sent to your care, delivered to <persName ref="cwgk:N00002591">Dr Luke Blackburn</persName>.</p>
+<p><persName ref="cwgk:N00000258">B. Magoffin</persName></p>
   </body>
  </text>
 </TEI>
