@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0077"> 
  <teiHeader>
   <fileDesc>
@@ -63,16 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>New York <date when="1861-02-12">February 12<hi rend="sup">th</hi> 1861.</date>
-<lb/>Hon<hi rend="underline"><hi rend="sup">le</hi></hi> James W. Tate.
-<lb/>Ass<hi rend="underline"><hi rend="sup">nt</hi></hi> Secretary of State
-<lb/>State of Kentucky.
-<lb/>Dr Sir.</p>
+   <p><placeName ref="cwgk:P001007">New York</placeName> <date when="1861-02-12">February 12<hi rend="sup">th</hi> 1861.</date>
+<lb/>Hon<hi rend="underline"><hi rend="sup">le</hi></hi> <persName ref="cwgk:N00001223">James W. Tate</persName>.<lb/>Ass<hi rend="underline"><hi rend="sup">nt</hi></hi> Secretary of State
+<lb/><placeName ref="cwgk:P001800">State of Kentucky</placeName>.<lb/>Dr Sir.</p>
 <p>On my return to my office after an absence of some time. I find a letter from you stating that you have never received from me my oath of office as Commissioner for your State I find on examination that through an oversight it has never been forwarded to you for which I beg leave to apologize.</p>
-<p>Enclosed you will find the required document together with your fee (&#36;5<hi rend="underline"><hi rend="sup">00</hi></hi>) the receipt of which please acknowledge,</p>
+<p>Enclosed you will find the required document together with your fee ($5<hi rend="underline"><hi rend="sup">00</hi></hi>) the receipt of which please acknowledge,</p>
 <p><hi rend="str">Ed</hi>Very Respy
 <lb/>Your Obt Sevt
-<lb/><hi rend="underline">Edwin F. Corey Jun</hi><pb/></p>
+<lb/><persName ref="cwgk:N00000530">Edwin F. Corey Jun</persName><pb/></p>
 <p>New York<figure type="hr"/>
 <lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>Oath
