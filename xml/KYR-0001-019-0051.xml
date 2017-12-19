@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0051"> 
  <teiHeader>
   <fileDesc>
@@ -64,12 +64,12 @@
  <text>
   <body>
    <p>State of Kentucky
-<lb/>Franklin County Sct</p>
-<p>I George W Gwin a Justice of the peace for said County do Certify that on this day Genl Peter Dudley came personally before me in my Office and made oath that he would faithfully ^uphold to the best of his ability -- ^ execute the provisions of the Act of the General Assembly of the Commonwealth of Kentucky passed On the <date when="1861-05-23">23<hi rend="underline"><hi rend="sup">d</hi></hi> day of May 1861</date>. "A Senate Bill for. the regulation of the Militia And to provide for the Arming of the State" Said Dudley being one of the Commissioners appointed under, and to Carry out the objects of Said act -- </p>
+<lb/><placeName ref="cwgk:P001019">Franklin County</placeName> Sct</p>
+<p>I George W Gwin a Justice of the peace for said County do Certify that on this day <persName ref="cwgk:N00003353">Genl Peter Dudley</persName> came personally before me in my Office and made oath that he would faithfully ^uphold to the best of his ability -- ^ execute the provisions of the Act of the General Assembly of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName> passed On the <date when="1861-05-23">23<hi rend="underline"><hi rend="sup">d</hi></hi> day of May 1861</date>. "A Senate Bill for. the regulation of the Militia And to provide for the Arming of the State" Said Dudley being one of the Commissioners appointed under, and to Carry out the objects of Said act -- </p>
 <p>Given under my hand this <date when="1861-05-25">25<hi rend="sup">th</hi> day of May 1861</date>.
 <lb/><hi rend="underline">Geo W. Gwin</hi> J. P. F. C<pb/></p>
 <p>Franklin County Sct.</p>
-<p>Samuel Gill this day appeared before the undersigned a Justice of the peace for said County and took the oath mentioned in the within Certificate as administered to Genl Peter Dudly Witness my hand this <date when="1861-05-31">31<hi rend="sup">st.</hi> day of May 1861</date></p>
+<p><persName ref="cwgk:N00003389">Samuel Gill</persName> this day appeared before the undersigned a Justice of the peace for said County and took the oath mentioned in the within Certificate as administered to Genl Peter Dudly Witness my hand this <date when="1861-05-31">31<hi rend="sup">st.</hi> day of May 1861</date></p>
 <p><hi rend="underline">G. W. Gwin</hi> J. P.</p>
   </body>
  </text>
