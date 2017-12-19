@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0149"> 
  <teiHeader>
   <fileDesc>
@@ -77,25 +77,22 @@
 <lb/>G S Hamilton
 <lb/>Moses Baer.
 <lb/>Alfred Stogner
-<lb/>John Raly
-<lb/>Griffin Patterson
-<lb/>Alexander Stogner
-<lb/>C J Lawton who do not drink but think it was a necessity at that particular time
-<lb/>J T Hill
-<lb/>S L Baird
-<lb/>Leut A. P. Hudson of 12 Ky Cavl
-<lb/>E R Murrell
-<lb/>H. R Cook
+<lb/><persName ref="cwgk:N00001006">John Raly</persName><lb/><persName ref="cwgk:N00001008">Griffin Patterson
+</persName><lb/>Alexander Stogner
+<lb/><persName ref="cwgk:N00001012">C J Lawton</persName> who do not drink but think it was a necessity at that particular time<lb/><persName ref="cwgk:N00001016">J T Hill
+</persName><lb/>S L Baird
+<lb/>Leut <persName ref="cwgk:N00001019">A. P. Hudson</persName> of 12 Ky Cavl<lb/><persName ref="cwgk:N00001022">E R Murrell
+</persName><lb/>H. R Cook
 <lb/>I. S. Ford
-<lb/>H, E, Carling
-<lb/>S Manzry
-<lb/>Thomas Handly
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Rosenberg
-<lb/>Simon Levi
-<lb/>Q C Shanks
-<lb/>Henry Small
-<lb/>Wm, H. Potts
-<lb/>Henry. <unclear>Arments.</unclear>
+<lb/><persName ref="cwgk:N00001028">H. E. Carling
+</persName><lb/><persName ref="cwgk:N00001030">S Manzry
+</persName><lb/><persName ref="cwgk:N00001032">Thomas Handly
+</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Rosenberg
+<lb/><persName ref="cwgk:N00001689">Simon Levi
+</persName><lb/>Q C Shanks
+<lb/><persName ref="cwgk:N00001692">Henry Small
+</persName><lb/><persName ref="cwgk:N00001693">Wm. H. Potts
+</persName><lb/>Henry. <unclear>Arments.</unclear>
 <lb/>Louis. <unclear>Arments.</unclear>
 <lb/>A. B. Baird Post Master
 <lb/><cb n="2"/>J, J, Harrison
@@ -104,30 +101,21 @@
 <lb/>W<hi rend="sup">m</hi> Hardwick
 <lb/>Alf -- Nall
 <lb/>John T Austin
-<lb/>Philip Felix
-<lb/>Henry T Stevens
-<lb/>Granville Crawford
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Graves
-<lb/>R, N, Hood
-<lb/>J L Woodward
-<lb/>F G Nall
-<lb/>D S Hill Presiding Judge Ohio Cty Court
-<lb/>F Sullenger
-<lb/>W, B, Lawton
-<lb/>T J Kerby
-<lb/>A. B, Gratz
-<lb/>Lea Davis
-<lb/>James Gibson
-<lb/>L R Carson
-<lb/>D, A, Miller
-<lb/>J B Stevens
-<lb/>W H Miller Rep Ohio Co
-<lb/>D. A. Miller Jr
-<lb/>A. L, Morton clerk Ohio Circuit Court
-<lb/>W. H. Davidson D. C.
-<lb/>Jas B Bennett Marshal of Oho County
-<lb/>Robbert Moseley
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Bryant</p>
+<lb/>P<persName ref="cwgk:N00001003">hilip Felix
+</persName><lb/><persName ref="cwgk:N00001005">Henry T Stevens</persName><lb/><persName ref="cwgk:N00001007">Granville Crawford
+</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Graves
+<lb/><persName ref="cwgk:N00001011">R. N. Hood</persName><lb/><persName ref="cwgk:N00001013">J L Woodward
+</persName><lb/>F G Nall
+<lb/><persName ref="cwgk:N00001015">D S Hill </persName>Presiding Judge Ohio Cty Court<lb/><persName ref="cwgk:N00001018">F Sullenger
+</persName><lb/><persName ref="cwgk:N00001020">W. B. Lawton</persName><lb/><persName ref="cwgk:N00001021">T J Kerby
+</persName><lb/><persName ref="cwgk:N00001023">A. B. Gratz
+</persName><lb/><persName ref="cwgk:N00001025">Lea Davis
+</persName><lb/><persName ref="cwgk:N00001027">James Gibson</persName><lb/>L R Carson
+<lb/><persName ref="cwgk:N00001031">D. A. Miller</persName><lb/><persName ref="cwgk:N00001686">J B Stevens
+</persName><lb/>W H Miller Rep Ohio Co
+<lb/><persName ref="cwgk:N00001031">D. A. Miller</persName> Jr<lb/>A. L, Morton clerk Ohio Circuit Court
+<lb/><persName ref="cwgk:N00001694">W. H. Davidson</persName> D. C.<lb/><persName ref="cwgk:N00001696">Jas B Bennett</persName> Marshal of Oho County<lb/><persName ref="cwgk:N00001698">Robbert Moseley
+</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Bryant</p>
   </body>
  </text>
 </TEI>
