@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0008"> 
  <teiHeader>
   <fileDesc>
@@ -63,16 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Chicago <date when="1861-01-19">Jany 19<hi rend="sup">th</hi>/61</date>
-<lb/>Hon. B. Magoffin
-<lb/>Dear Sir</p>
+   <p><placeName ref="cwgk:P00001215">Chicago</placeName> <date when="1861-01-19">Jany 19<hi rend="sup">th</hi>/61</date>
+<lb/>Hon. <persName ref="cwgk:N00000258">B. Magoffin</persName><lb/>Dear Sir</p>
 <p>The real Seat of our troubles Exist in the Nort<hi rend="str"><unclear/></hi>hern States the only cure I now see in reach is to Slough off the diseases. instead of concealing them in the Government under pretense of saving the Union, if it were possible (I don't think it is) to do such a thing= it would only be temporary, to break out in a worse form in few years.</p>
 <p>All parties must and will concur in the truth of the following. There must always be one Superior Nationality on the Continent. If this point is not reached with certainty, there is no safety for any party any where.</p>
 <p>This Superior Nationality Can not<pb/>
-<lb/>be formed in our day with out the South (a United South) forming an important part of it. to get up such a Government it must be done by the south, the North is helpless. Any efforts put forth headed by saving the union Simply means first to <hi rend="str">g</hi>Save the Republican party both cannot be saved If a united South Acts promptly and gets up the present Federal <hi rend="str"><unclear/></hi>Constitution with proper Amendments on Slavery revenue &amp; Navigation Laws. Indiana and the west will come in and the union will go on for a thousand years part Slave and part free, and Mr. Lincoln will be President (I hope in Peace) of Ohio and remaining states East and North all free. the Kind of a Union he has been prophesying and hoping <hi rend="str">will</hi>for<pb/></p>
-<p>Lincoln's States will all come in as soon as wanted and peace will reign. I hope Lincoln will be allowed to be inaugurated and remain on the 10 miles square at Washington, I hope you will get Kentucky to take some action,</p>
+<lb/>be formed in our day with out the South (a United South) forming an important part of it. to get up such a Government it must be done by the south, the North is helpless. Any efforts put forth headed by saving the union Simply means first to <hi rend="str">g</hi>Save the Republican party both cannot be saved If a united South Acts promptly and gets up the present Federal <hi rend="str"><unclear/></hi>Constitution with proper Amendments on Slavery revenue &amp; Navigation Laws.<placeName ref="cwgk:P001818"> Indiana</placeName> and the west will come in and the union will go on for a thousand years part Slave and part free, and <persName ref="cwgk:N001760">Mr. Lincoln</persName> will be President (I hope in Peace) of<placeName ref="cwgk:P001036"> Ohio</placeName> and remaining states East and North all free. the Kind of a Union he has been prophesying and hoping <hi rend="str">will</hi>for<pb/></p>
+<p>Lincoln's States will all come in as soon as wanted and peace will reign. I hope Lincoln will be allowed to be inaugurated and remain on the 10 miles square at <placeName ref="cwgk:P00001134">Washington</placeName>, I hope you will get <placeName ref="cwgk:P001800">Kentucky</placeName> to take some action,</p>
 <p>Yours verry Truly
-<lb/>James Larmon</p>
+<lb/><persName ref="cwgk:N00001217">James Larmon</persName></p>
 <p>P s this copy of my writing is hard to read</p>
 <p>James Larmon<pb/></p>
 <p>Larman,
