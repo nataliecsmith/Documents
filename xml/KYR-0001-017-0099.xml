@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0099"> 
  <teiHeader>
   <fileDesc>
@@ -63,9 +63,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Pennsylvania
-<lb/>City and County of Philadelphia &#125; Ss</p>
-<p>I, Theodore D. Rand residing in the City of Philadelphia, in the State of Pennsylvania appointed by the Governor of the State of Kentucky a commissioner in and for the State of Pennsylvania to take the acknowledgment of Deeds and other instruments of writing to be used or recorded in the said State of Kentucky and to administer oaths, and affirmations, and to take and certify depositions to be used in the said State of Kentucky, pursuant to the act of the Legislature thereof entitled "Statute of Kentucky authorizing the appointment of commissioners of Deeds in other States" which took effect on the <date when="1852-07-01">first of July 1852,</date> do solemnly swear that I will well and truly execute and perform all the duties of such comissioner, under and by virtue of the Laws of the said State of Kentucky.</p>
+   <p><placeName ref="cwgk:P001006">State of Pennsylvania
+</placeName><lb/><placeName ref="cwgk:P00001701">City </placeName>and <placeName ref="cwgk:P00002584">County of Philadelphia</placeName> } Ss</p>
+<p>I, <persName ref="cwgk:N00002508">Theodore D. Rand </persName>residing in the City of Philadelphia, in the State of Pennsylvania appointed by the <persName ref="cwgk:N00000258">Governor of the State of Kentucky</persName> a commissioner in and for the State of Pennsylvania to take the acknowledgment of Deeds and other instruments of writing to be used or recorded in the said <placeName ref="cwgk:P001800">State of Kentucky a</placeName>nd to administer oaths, and affirmations, and to take and certify depositions to be used in the said State of Kentucky, pursuant to the act of the Legislature thereof entitled "Statute of Kentucky authorizing the appointment of commissioners of Deeds in other States" which took effect on the <date when="1852-07-01">first of July 1852,</date> do solemnly swear that I will well and truly execute and perform all the duties of such comissioner, under and by virtue of the Laws of the said State of Kentucky.</p>
 <p>Theo D. Rand</p>
 <p>Sworn to and Subscribed before me
 <lb/>Witness my hand &amp; Official Seal this <date when="1861-03-17">Seventh day of March A.D 1861</date></p>
