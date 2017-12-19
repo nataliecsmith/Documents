@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0006"> 
  <teiHeader>
   <fileDesc>
@@ -64,27 +64,10 @@
  <text>
   <body>
    <p>War Department,
-<lb/>Adjutant General's Office,
-<lb/>Washington, <date when="1862-04-16">April 16, 1862.</date>
+<lb/><orgName ref="cwgk:O00005246">Adjutant General's Office,</orgName><lb/>Washington, <date when="1862-04-16">April 16, 1862.</date>
 <lb/>Special Orders, N<hi rend="underline"><hi rend="sup">o</hi></hi> 83.<figure type="hr"/></p>
 <p>5....The following officers having been reported on adversely by Boards of examination, and the President having approved the reports, are discharged the service to take effect <date when="1862-04-14">April 14<hi rend="underline"><hi rend="sup">th</hi></hi> 1862.</date>
-<lb/><table rend="rules">
-<row>
-	<cell>Major</cell>
-	<cell><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> A Coffey</hi>,</cell>
-	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky. Cavalry</cell>
-</row>
-<row>
-	<cell>Capt.</cell>
-	<cell><hi rend="underline">Francis B. Alexander</hi>,</cell>
-	<cell>1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky "</cell>
-</row>
-<row>
-	<cell>Capt.</cell>
-	<cell><hi rend="underline">Boston Dillion</hi>,</cell>
-	<cell> " " "</cell>
-</row>
-</table><figure type="hr"/></p>
+<lb/>	<persName ref="cwgk:N00005242">Francis B. Alexander</persName>,<figure type="hr"/></p>
 <p>By order of the Secretary of War.
 <lb/>(Signed.) L. Thomas,
 <lb/>Adjutant General.</p>
