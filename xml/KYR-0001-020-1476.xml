@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1476"> 
  <teiHeader>
   <fileDesc>
@@ -62,15 +62,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Beriah Magoffin govenor of the Commonwealth of Kentucky-</p>
-<p>your petitioners John Morgan and A Hall respectfully state that at the <date when="1861-07">July Term of the Mason Circuit Court 1861</date> -- they were fined the sum of sixty dollars each for keeping a 'Tippling House" -- your petitioner John Morgan represents that he resides about seventeen miles from the city of Maysville and that for many years past that Barbecues and political meetings have been held and had at his house and most generally immediately preceding the August Elections -- In <date when="1860-07">July 1860</date> a Barbecue and political Meeting was had and holden at his house at which time he committed the offense charged -- He having procured his Co-defendant Hall to assist him in all the <hi rend="underline">labors</hi> and <hi rend="underline">duties</hi> of host or Landlord connected with and incident to such an occassion: -- -- the state of the Thermometer physical, social and political, the distance from Maysville and the Ohio river<pb/>
+   <p>To <persName ref="cwgk:N00000258">his Excellency Beriah Magoffin</persName> govenor of the <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>-</p>
+<p>your petitioners John Morgan and A Hall respectfully state that at the July Term of the  -- they were fined the sum of sixty dollars each for keeping a 'Tippling House" -- your petitioner John Morgan represents that he resides about seventeen miles from the city of <placeName ref="cwgk:P00001219">Maysville</placeName> and that for many years past that Barbecues and political meetings have been held and had at his house and most generally immediately preceding the August Elections -- In <orgName ref="cwgk:O00000426">Mason Circuit Court</orgName> 1861<date when="1860-07">July 1860</date> a Barbecue and political Meeting was had and holden at his house at which time he committed the offense charged -- He having procured his Co-defendant Hall to assist him in all the <hi rend="underline">labors</hi> and <hi rend="underline">duties</hi> of host or Landlord connected with and incident to such an occassion: -- -- the state of the Thermometer physical, social and political, the distance from <placeName ref="cwgk:P00001219">Maysville</placeName> and the <geogName ref="cwgk:G001825">Ohio river</geogName><pb/>
 <lb/><hi rend="str">and</hi> the <hi rend="underline">Importunate</hi> ^and^ (as to him unfortunate) <hi rend="underline">thirst</hi> of both the political parties present, of his own friends and of the aspirants for office, all combined and all urgent and pressing and backed by necessity, enduced him to minister to and supply the <hi rend="underline">spiritual</hi> wants of several of those present: Candor compels him to declare that to some extent in the commission of this offence his "Poverty not his will consented" and yielding to the circumstances by which he was surrounded he violated the Law he asks its pardon, and that of your Excellency -- He is poor, he has a large family towit eleven children, and while poverty is no justification for the violation of the law, yet he hopes you will find in what he has stated, such extenuation as will (as to him,) induce your Excellency to remit this fine -- your petitioner A Hall states that he was employed by Morgan, as his assistant upon the occasion alluded to, he supposed that Morgan had authority to sell, and the fine upon him is most unjust as he earnestly wishes your Excellency to remit the same<pb/></p>
 <p>John Morgan
 <lb/>Abner Hall </p>
 <p>The undersigned citizens of Mason County concur in the prayer of the foregoing petition</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>H, S, Brooking C M C.
-<lb/>W W Baldwin S. M Co
-<lb/>H S Jefferson Dept
+<p><milestone unit="column" n="2"/><cb n="1"/>H, S, Brooking C<orgName ref="cwgk:O00000661"> M C.</orgName><lb/>W W Baldwin S.<orgName ref="cwgk:O00000661"> M C.</orgName><lb/>H S Jefferson Dept
 <lb/><hi rend="underline">Tho</hi><hi rend="underline"><hi rend="sup">s</hi></hi><hi rend="underline"> J. Throop
 <lb/>F. B. Trussell</hi>.
 <lb/><cb n="2"/>Emory Whitaker
@@ -88,7 +86,7 @@
 <p>Mason Cir. Ct</p>
 <p>Respite 12 mo
 <lb/>B. M. </p>
-<p>&#36;60 each &#125; Tipling
+<p>$60 each } Tipling
 <lb/>Jno. Morgan &amp; A Hall
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-10">Oct 10 1861</date></p>
   </body>
