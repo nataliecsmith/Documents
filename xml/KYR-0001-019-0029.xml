@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0029"> 
  <teiHeader>
   <fileDesc>
@@ -69,10 +69,9 @@
 <p><milestone unit="column" n="2"/><cb n="1"/>A. STAGER, Gen. Sup't, Cleveland, O.
 <lb/><cb n="2"/>I. R. ELWOOD, Sec'y, Rochester, N.Y.<milestone unit="column" n="1"/><figure type="hr"/></p>
 <p><gap/> <date when="1860">1860</date>.
-<lb/>To Gov B Magoffin
-<lb/>By Telegraph from New Orleans <date when="1861">1<hi rend="sup">st</hi> 186<hi rend="str">0</hi>1</date>.</p>
-<p>Luke Blackburn intoxicated since saturday. withdraw powers authorize another Agent private</p>
-<p>Robt A Johnson</p>
+<lb/>To Gov <persName ref="cwgk:N00000258">B Magoffin</persName><lb/>By Telegraph from <placeName ref="cwgk:P00002303">New Orleans</placeName> <date when="1861">1<hi rend="sup">st</hi> 186<hi rend="str">0</hi>1</date>.</p>
+<p><persName ref="cwgk:N00002591">Luke Blackburn</persName> intoxicated since saturday. withdraw powers authorize another Agent private</p>
+<p><persName ref="cwgk:N00002736">Robt A Johnson</persName></p>
   </body>
  </text>
 </TEI>
