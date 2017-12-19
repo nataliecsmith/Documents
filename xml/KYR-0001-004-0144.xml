@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0144"> 
  <teiHeader>
   <fileDesc>
@@ -63,75 +63,54 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bedford Trimble Co
-<lb/>Kentucky
+   <p><placeName ref="cwgk:P00001508">Bedford</placeName> <placeName ref="cwgk:P00001509">Trimble Co</placeName><lb/>Kentucky
 <lb/><date when="1863-10-06">Oct 6<hi rend="sup">th</hi> 1863 -- </date>
 <lb/>To His Excellency
-<lb/>Thos. E. Bramlette, Governor of the Commonwealth of Kentucky-</p>
-<p>your petitioner Tho<hi rend="sup">s</hi> M<hi rend="underline"><hi rend="sup">c</hi></hi>Intosh would respectfully represent that at the <date when="--10">October term</date> of the circuit court of this county now being held, he was fined the sum of Ten Dollars &amp; costs, for defending himself against one James M. Roberts, having ^been^ neceasserily ^been^ bound to strike him, but inflicting no Serious injury. Now therefore I pray you in consideration of the justifying circumstances of the case, and my deciptitude, and advanced age being about 70 years of age, to remit said fine; and as in duty bound will ever pray &amp;c &amp; c -- </p>
+<lb/><persName ref="cwgk:N001000">Thos. E. Bramlette</persName>, Governor of the Commonwealth of Kentucky-</p>
+<p>your petitioner Tho<hi rend="sup">s</hi> M<hi rend="underline"><hi rend="sup">c</hi></hi>Intosh would respectfully represent that at the <date when="--10">October term</date> of the circuit court of this county now being held, he was fined the sum of Ten Dollars &amp; costs, for defending himself against one <persName ref="cwgk:N00001535">James [Mann]</persName>. Roberts, having ^been^ neceasserily ^been^ bound to strike him, but inflicting no Serious injury. Now therefore I pray you in consideration of the justifying circumstances of the case, and my deciptitude, and advanced age being about 70 years of age, to remit said fine; and as in duty bound will ever pray &amp;c &amp; c -- </p>
 <p>Tho<hi rend="sup">s.</hi> M<hi rend="underline"><hi rend="sup">c</hi></hi>Intosh</p>
 <p>We the undersigned citizens of Trimble Co Kentucky join the above petitioner in his prayer &amp;c.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>J. H. Lane
-<lb/>J R Lane
-<lb/>J w Mul<unclear/>
-<lb/>J. H. Carracao
-<lb/>Jos Miller
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00001512">J. H. Lane</persName><lb/><persName ref="cwgk:N00001513">J R Lane</persName><lb/>J w Mul<unclear/>
+<lb/><persName ref="cwgk:N00001518">J. H. Carracao</persName><lb/>Jos Miller
 <lb/><cb n="2"/>C W Arnold
-<lb/>E Wilhart
-<lb/>S E<unclear/>
-<lb/>M A Roberts
-<lb/>A M King<pb/>
-<lb/><cb n="1"/>John J Morgan
-<lb/>R S Anderson
-<lb/>L, F. Hopwood one of the Jury. thru sympate
-<lb/>M. T. Abbott
-<lb/>James Duggis
-<lb/>M McColliste
-<lb/>John Roberts Sr
-<lb/>Clarkson Utley
-<lb/>R W Marteson
-<lb/>C H Wheeler
-<lb/>W H Settles
-<lb/>Z. M Hitt
-<lb/>J. Y. Newkirk
-<lb/>M. Whitaker
-<lb/>Willis Oliver
-<lb/>Tho<hi rend="sup">s</hi> Oliver
+<lb/><persName ref="cwgk:N00001517">E Wilhart
+</persName><lb/>S E<unclear/>
+<lb/><persName ref="cwgk:N00001521">M A Roberts
+</persName><lb/><persName ref="cwgk:N00001522">A M King</persName><pb/>
+<lb/><cb n="1"/><persName ref="cwgk:N00001523">John J Morgan
+</persName><lb/>R S Anderson
+<lb/><persName ref="cwgk:N00001527">L. F. Hopwood</persName> one of the Jury. thru sympate<lb/><persName ref="cwgk:N00001528">M. T. Abbott</persName><lb/><persName ref="cwgk:N00001531">James Duggis</persName><lb/>M McColliste
+<lb/><persName ref="cwgk:N00000796">John Roberts Sr
+</persName><lb/><persName ref="cwgk:N00001536">Clarkson Utley
+</persName><lb/>R W Marteson
+<lb/><persName ref="cwgk:N00001540">C H Wheeler</persName><lb/><persName ref="cwgk:N00001542">W H Settles
+</persName><lb/>Z. M Hitt
+<lb/><persName ref="cwgk:N00001546">J. Y. Newkirk</persName><lb/>M. Whitaker
+<lb/><persName ref="cwgk:N00001002">Willis Oliver</persName><lb/>Tho<hi rend="sup">s</hi> Oliver
 <lb/>D. S. Lane
 <lb/>H, P, Fix
-<lb/>Jno. Roberts
-<lb/>J. P. Strother
-<lb/>W P <unclear>Morton</unclear>
+<lb/><persName ref="cwgk:N00000796">Jno. Roberts
+</persName><lb/><persName ref="cwgk:N00001557">J. P. Strother
+</persName><lb/>W P <unclear>Morton</unclear>
 <lb/>W S <unclear>Vines</unclear>
-<lb/>John Staples
-<lb/>P. R. Smith
-<lb/>E M Garnatt
-<lb/>H C Baker
-<lb/>W, J, Wright
-<lb/><cb n="2"/>A. Bain
-<lb/>J B Pierce
-<lb/>J T Shepherd
+<lb/><persName ref="cwgk:N00001563">John Staples</persName><lb/><persName ref="cwgk:N00001565">P. R. Smith</persName><lb/><persName ref="cwgk:N001756">E M Garnatt</persName><lb/><persName ref="cwgk:N00001566">H C Baker
+</persName><lb/><persName ref="cwgk:N00001567">W. J. Wright
+</persName><lb/><cb n="2"/><persName ref="cwgk:N00001524">A. Bain</persName><lb/><persName ref="cwgk:N00001526">J B Pierce
+</persName><lb/>J T Shepherd
 <lb/>W, Stratton
 <lb/>I S Greenwood
-<lb/>E G Wright
-<lb/>J. M. Staten
+<lb/><persName ref="cwgk:N00001532">E G Wright</persName><lb/>J. M. Staten
 <lb/>James <unclear/>
-<lb/>Thomas OBrian
-<lb/>A Whitaker
-<lb/>A Bell
-<lb/>H M Gossom
-<lb/>Jacob Trout
-<lb/>F. E, Skidmore
-<lb/>C Tingle
+<lb/><persName ref="cwgk:N00001537">Thomas OBrian
+</persName><lb/><persName ref="cwgk:N00001539">A Whitaker
+</persName><lb/><persName ref="cwgk:N00001541">A Bell</persName><lb/>H M Gossom
+<lb/><persName ref="cwgk:N00001545">Jacob Trout</persName><lb/><persName ref="cwgk:N00001547">F. E. Skidmore
+</persName><lb/>C Tingle
 <lb/><unclear>J. L.</unclear> Wheeler
 <lb/>George Orr
-<lb/>Jas B Cook
-<lb/>R. O, Whitaker
-<lb/>George. Wright
-<lb/>Thomas Morgan
-<lb/>Thomas Jesse
-<lb/>Andrew Scott
-<lb/>T. B. Hunt<milestone unit="column" n="1"/><pb/>
+<lb/><persName ref="cwgk:N00001554">Jas B Cook</persName><lb/><persName ref="cwgk:N00001000">R. O. Whitaker</persName><lb/>George. Wright
+<lb/><persName ref="cwgk:N00001558">Thomas Morgan</persName><lb/>Thomas Jesse
+<lb/><persName ref="cwgk:N00001562">Andrew Scott</persName><lb/><persName ref="cwgk:N00001564">T. B. Hunt</persName><milestone unit="column" n="1"/><pb/>
 <lb/>James F. Young
 <lb/>William L Coleman</p>
 <p>Trimble Cir Ct
