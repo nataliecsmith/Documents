@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0071"> 
  <teiHeader>
   <fileDesc>
@@ -63,16 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Mt Sterling Ky <date when="1865-07-26">July 26<hi rend="sup">th</hi> 1865</date>
+   <p><placeName ref="cwgk:P00001936">Mt Sterling</placeName> Ky <date when="1865-07-26">July 26<hi rend="sup">th</hi> 1865</date>
 <lb/>His Excellency
-<lb/>Thos E Bramlette
-<lb/>Governor of Kentucky
+<lb/><persName ref="cwgk:N001000">Thos E Bramlette
+</persName><lb/>Governor of Kentucky
 <lb/>Governor,</p>
-<p>Enclosed you will find a Petition signed by our Judge, asking that a Reward be offered for the arrest of Garrett Ballard</p>
-<p>You will remember I mentioned the matter to you when here, and you said you would offer the Reward, but the Statutes must be complied with first: which I think has now been done: and I think the Petition states all that is needful. Excuse me for troubling you with my letters so often. Hoping you will offer the reward as asked by Mr Poynter,</p>
+<p>Enclosed you will find a Petition signed by our Judge, asking that a Reward be offered for the arrest of <persName ref="cwgk:N00005330">Garrett Ballard</persName></p>
+<p>You will remember I mentioned the matter to you when here, and you said you would offer the Reward, but the Statutes must be complied with first: which I think has now been done: and I think the Petition states all that is needful. Excuse me for troubling you with my letters so often. Hoping you will offer the reward as asked by <persName ref="cwgk:N00005332">Mr Poynter</persName>,</p>
 <p>I am
 <lb/>Your Obdt Servt
-<lb/>William H. Holt</p>
+<lb/><persName ref="cwgk:N00001939">William H. Holt</persName></p>
   </body>
  </text>
 </TEI>
