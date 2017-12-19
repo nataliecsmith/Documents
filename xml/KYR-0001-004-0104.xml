@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0104"> 
  <teiHeader>
   <fileDesc>
@@ -63,13 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Frankfort Ky <date when="1863-11-05">Nov 5, 1863</date>
-<lb/>Governor Bramlette
-<lb/>Dear Sir</p>
-<p>C M Mathews Esq of Henry County, a gentleman of high character and a lawyer of many years practice was here yesterday, with the view of asking a remission of a judgment on forfeited recognizance which had been rendered against him at the last term of the Henry Circuit Court for &#36;750. His papers were not complete, and has returned home with instructions to establish by affidavits some facts which will, I am satisfied, present a good case for relief. Execution is out and is returnable the 7<hi rend="sup">th</hi> inst.</p>
+   <p><placeName ref="cwgk:P00000308">Frankfort Ky</placeName> <date when="1863-11-05">Nov 5, 1863</date>
+<lb/><persName ref="cwgk:N001000">Governor Bramlette
+</persName><lb/>Dear Sir</p>
+<p><persName ref="cwgk:N00000289">C M Mathews </persName>Esq of Henry County, a gentleman of high character and a lawyer of many years practice was here yesterday, with the view of asking a remission of a judgment on forfeited recognizance which had been rendered against him at the last term of the <orgName ref="cwgk:O00000400">Henry Circuit Court</orgName> for $750. His papers were not complete, and has returned home with instructions to establish by affidavits some facts which will, I am satisfied, present a good case for relief. Execution is out and is returnable the 7<hi rend="sup">th</hi> inst.</p>
 <p>The object of this note is to submit the enclosed paper showing some, but not all, the facts of his case, with the view of obtaining a respite of the judgment for three or six months.</p>
 <p>He will be able to show, by the statements of others the truth of the matters in his statement herewith sent, and in addition 1<hi rend="sup">st</hi> that he, during a long practice, has never become the surety of any one under criminal charge in indictment, 2<hi rend="sup">d</hi> That<pb/>
-<lb/>went twice himself and sent his son a third time, to the former residence of Myers to get him to appear for trial. 3<hi rend="sup">d</hi> that Myers did appear at the first term he was indicted, pressed for a trial, but could not get it, because of the adjournment of the Court 4<hi rend="sup">th</hi> That he for a time hesitated in going bail, and reluctantly yielded to the importunities of Myers wife &amp; children, and the suggestion and pursuasion of the Comth's Attorney,. 5<hi rend="underline"><hi rend="sup">th</hi></hi> He has heard since the bail was forfeited that Myers has been dead for some time, and the Clerk of the County of Myers ^former^ residence informs him that he was dead a short while after bail was given and before the appearance term.</p>
+<lb/>went twice himself and sent his son a third time, to the former residence of <persName ref="cwgk:N00000286">Myers</persName> to get him to appear for trial. 3<hi rend="sup">d</hi> that <persName ref="cwgk:N00000286">Myers</persName> did appear at the first term he was indicted, pressed for a trial, but could not get it, because of the adjournment of the Court 4<hi rend="sup">th</hi> That he for a time hesitated in going bail, and reluctantly yielded to the importunities of <persName ref="cwgk:N00000286">Myers</persName> wife &amp; children, and the suggestion and pursuasion of the Comth's Attorney,. 5<hi rend="underline"><hi rend="sup">th</hi></hi> He has heard since the bail was forfeited that Myers has been dead for some time, and the Clerk of the County of <persName ref="cwgk:N00000286">Myers</persName> ^former^ residence informs him that he was dead a short while after bail was given and before the appearance term.</p>
 <p>He will make every effort to find out Myers residence if alive, and in good faith endeavor to secure his presence to answer the <hi rend="str">charge</hi> the indictment.</p>
 <p>Having known Mathews I am satisfied of his entire innocence of any complicity in any attempt to <unclear>t^h^wart<hi rend="sup">t</hi></unclear> the court, and I believe he will be able,<pb/>
 <lb/>as he assures me, to make good all the statements here and in his petition made.</p>
@@ -77,12 +77,12 @@
 <p>For him I respectfully ask for a respite of the judgment, in order to afford an opportunity for a full &amp; fair presentation of his case.</p>
 <p>Very respectfully
 <lb/>Yr obdt Sert
-<lb/><hi rend="underline">James Harlan Jr</hi><pb/></p>
+<lb/><persName ref="cwgk:N00000761">James Harlan Jr</persName><pb/></p>
 <p>Henry Cir Ct
 <lb/>vs
 <lb/>C. M. Mathews
 <lb/>Forfeiture
-<lb/>&#36;750 -- 
+<lb/>$750 -- 
 <lb/>Respited 6 mo<hi rend="sup">s</hi>
 <lb/><date when="1863-11-05">5<hi rend="sup">th</hi> Nov/63</date></p>
   </body>
