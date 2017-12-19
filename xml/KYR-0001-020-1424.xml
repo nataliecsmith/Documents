@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1424"> 
  <teiHeader>
   <fileDesc>
@@ -63,12 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Campbellsville Taylor Co Ky
-<lb/><date when="1861-09-18">Seprt 18<hi rend="sup">th</hi> 1861</date>
+   <p><placeName ref="cwgk:P00000507">Campbellsville</placeName> <placeName ref="cwgk:P00000681">Taylor Co</placeName> <placeName ref="cwgk:P001800">Ky</placeName><lb/><date when="1861-09-18">Seprt 18<hi rend="sup">th</hi> 1861</date>
 <lb/>To His Excellency
-<lb/>B. Magoffin Esq<hi rend="underline"><hi rend="sup">r</hi></hi>
+<lb/><persName ref="cwgk:N00000258">B. Magoffin </persName>Esq<hi rend="underline"><hi rend="sup">r</hi></hi>
 <lb/>Governor of Kenty</p>
-<p>At the present September Term of the Taylor Circuit Court, M<hi rend="underline"><hi rend="sup">r</hi></hi> James C Wood was convicted for assaulting &amp; Cuting One Thomas Cox with intention to Kill and was Sentenced to Confinement in the Penitentiary One Year.</p>
+<p>At the present September Term of the <orgName ref="cwgk:O00000579">Taylor Circuit Cour</orgName>t, M<hi rend="underline"><hi rend="sup">r</hi></hi> <persName ref="cwgk:N00007673">James C Wood</persName> was convicted for assaulting &amp; Cuting One <persName ref="cwgk:N00007675">Thomas Cox</persName> with intention to Kill and was Sentenced to Confinement in the Penitentiary One Year.</p>
 <p>I have learned from good authority, The best citizens of our County that if the Convict <hi rend="str">T</hi>had had a fair trail and all the evidence in the Case been laid before the Jury there would have been an acquital. There was one witness who would have<pb/>
 <lb/>proven that Cox assaulted the prisoner first but he could not be gotten before the Court The prisoners Counsel made a mistake in the witness who was to prove the assault by Cox on prisoner until after the trail Commenced.</p>
 <p>There was much prejudice against the prisoner by Some of the witnesses Sworn on the Trial, and one his own Cousin whose evidence Convicted him when the absent witness would have sworn differently to his Cousin which prisoner Says would have been the truth.</p>
@@ -76,7 +75,7 @@
 <lb/>be in your legitimate power to do so, Provided you are satisfied of the facts presented before you.</p>
 <p>In this Case I have no personal interest no way, and I have but little acquaintance with the prisoner, his relatives are people of good Character &amp; stand high as Citizens of our County</p>
 <p>Yours &amp;c
-<lb/><hi rend="underline">A. F. Gowdy</hi></p>
+<lb/><persName ref="cwgk:N00003572">A. F. Gowdy</persName></p>
   </body>
  </text>
 </TEI>
