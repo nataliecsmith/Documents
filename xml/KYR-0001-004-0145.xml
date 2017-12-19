@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0145"> 
  <teiHeader>
   <fileDesc>
@@ -63,16 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bedford Trimble co Ky
-<lb/><date when="1863-10-19">Oct 19<hi rend="sup">th</hi> 1863</date> -- 
+   <p><placeName ref="cwgk:P00001508">Bedford</placeName> Trimble co Ky<lb/><date when="1863-10-19">Oct 19<hi rend="sup">th</hi> 1863</date> -- 
 <lb/>Dear Sir</p>
 <p>I take the liberty to enclose to you for my friends two Petitions, The one of Tho<hi rend="sup">s</hi> M<hi rend="underline"><hi rend="sup">c</hi></hi>Intosh is for an old man 70 years of age do pardon him!!!</p>
 <p>The other is a poor young man as represented,</p>
-<p>I was one of your supporters throughout the election, have stood up to the Union, in Rebellious Trimble and never have nor never will swerve from that good cause, I beg leave to refer you to judge Drane J. L. Scott prosecuting attorney and Saml E. De haven representative from Oldham, &amp; Col Buckley,</p>
+<p>I was one of your supporters throughout the election, have stood up to the Union, in Rebellious Trimble and never have nor never will swerve from that good cause, I beg leave to refer you to judge <persName ref="cwgk:N00001568">Drane J. L. Scott </persName>prosecuting attorney and Saml E. De haven representative from Oldham, &amp; Col Buckley,</p>
 <p>The fine in both cases are small, and the bearer Mr W. F. Peek is well acquainted with them and is or will be our clerk any representations he makes I will vouch for</p>
 <p>You Very
 <lb/>Respectfully
-<lb/><hi rend="underline">S. Gatewood</hi><pb/></p>
+<lb/><persName ref="cwgk:N00000998">S. Gatewood</persName><pb/></p>
 <p>Trimble County</p>
 <p>Respite each case 6 months</p>
 <p>Tho E Bramlette</p>
