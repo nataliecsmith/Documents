@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0080"> 
  <teiHeader>
   <fileDesc>
@@ -63,23 +63,22 @@
  </teiHeader>
  <text>
   <body>
-   <p>Nelson County Ky <date when="1861-02-11">Feb,, 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
-<lb/>To his Excellency B. Magoffin Gov. of Ky.</p>
+   <p><placeName ref="cwgk:P001012">Nelson County</placeName> Ky <date when="1861-02-11">Feb,, 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+<lb/>To his Excellency <persName ref="cwgk:N00000258">B. Magoffin Gov. of K</persName>y.</p>
 <p>Whereas the office of Justice of the peace in District No, 1, county and State aforesaid has become vacant by the Resignation of Ja<hi rend="underline"><hi rend="sup">s</hi></hi> M. Nicholls late Justice of said district,</p>
-<p>We the undersigned Residents of said Dist. do Reccommend to your honor John C Scifres as eligible to said office according to the law of Ky, and request that your Excellency appoint the said John C Scifres to fill out the unexpired term of said office, Should our petition be granted you will confer a favor on us by so doing,</p>
+<p>We the undersigned Residents of said Dist. do Reccommend to your honor John C Scifres as eligible to said office according to the law of Ky, and request that your Excellency appoint the said <persName ref="cwgk:N00002491">John C Scifres</persName> to fill out the unexpired term of said office, Should our petition be granted you will confer a favor on us by so doing,</p>
 <p><hi rend="underline">N.. H. Marks J P N C</hi>
-<lb/>J. W. Courtney
-<lb/>Benj Lee Duncan
-<lb/>W<hi rend="sup">m</hi> Bean
+<lb/><persName ref="cwgk:N00002493">J. W. Courtney
+</persName><lb/><persName ref="cwgk:N00002494">Benj Lee Duncan</persName><lb/>W<hi rend="sup">m</hi> Bean
 <lb/>j T E<unclear/> <unclear>d s n</unclear>
-<lb/>Allen Courtney
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Rodes
-<lb/>A. G. Hall
-<lb/>S. T. Hall
-<lb/>Wm Walker
-<lb/>Leo Webb
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>, M. Wilson
-<lb/>A Birkshead<pb/></p>
+<lb/><placeName ref="cwgk:P001025">Allen Courtney
+</placeName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Rodes
+<lb/><persName ref="cwgk:N00002497">A. G. Hall
+</persName><lb/><persName ref="cwgk:N00002488">S. T. Hall
+</persName><lb/><persName ref="cwgk:N00002489">Wm Walker
+</persName><lb/><persName ref="cwgk:N00002485">Leo Webb
+</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>, M. Wilson
+<lb/><persName ref="cwgk:N00002487">A Birkshead</persName><pb/></p>
 <p>Nelson Co<figure type="hr"/>
 <lb/>J. P.
 <lb/>Dist N<hi rend="sup">o</hi> 1
