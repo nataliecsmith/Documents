@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0041"> 
  <teiHeader>
   <fileDesc>
@@ -63,17 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky.
-<lb/><date when="1864-11-20">Nov. 20<hi rend="sup">th</hi> 1864</date>
-<lb/>Hon. T. E. Bramlette
-<lb/>Gov. of Kentucky
+   <p><placeName ref="cwgk:P00000337">Louisville Ky.</placeName><lb/><date when="1864-11-20">Nov. 20<hi rend="sup">th</hi> 1864</date>
+<lb/>Hon. <persName ref="cwgk:N001000">T. E. Bramlette
+</persName><lb/>Gov. of Kentucky
 <lb/>Sir.</p>
 <p>I have the honor to acknowlege the receipt of a Commission appointing me 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut in the 2<hi rend="sup">d.</hi> Reg<hi rend="sup">t</hi> Ky Vol. Cavalry. Deeply grateful to your Excellency for this mark of distinguished consideration, I must respectfully decline the honor intended to be conferred upon me, in consequence of the precarious condition of my health; which has for twelve months kept me from the field and will my Surgeon assures me, continue to do so for an indeffinite period, I could not accept the honor designed to be conferred without its attendant labors and risks, Were it otherwise. it would be my pride and pleasure to prove myself not entirely unworthy your favor.<pb/></p>
 <p>Hoping the position may be better filled by some one more worthy.</p>
 <p>I have the honor to be 
 <lb/>Your Excellency's
 <lb/>Most Obdt Serv<hi rend="sup">t</hi>
-<lb/><hi rend="underline">H. N. Oliver</hi> </p>
+<lb/> <persName ref="cwgk:N00006173">H. N. Oliver</persName></p>
 <p>P.S.- Absence from the City prevented me from communicating sooner</p>
 <p>Respectfully &amp;c.
 <lb/>H. N. O.<pb/></p>
@@ -85,8 +84,8 @@
 <p>Acknowledges receipt of a commission appointing him 2" Lt in 2" Ky Cav -- On account of his health is compelled to decline the same -- <figure type="hr"/></p>
 <p>L B N<hi rend="sup">o</hi> 8 -- <date when="1864">1864</date> P. 135</p>
 <p>Cancel 
-<lb/>D W Lindsey
-<lb/>Insp &amp; adj Gen<hi rend="underline"><hi rend="sup">l</hi></hi><figure type="hr"/>
+<lb/><persName ref="cwgk:N00000873">D W Lindsey
+</persName><lb/>Insp &amp; adj Gen<hi rend="underline"><hi rend="sup">l</hi></hi><figure type="hr"/>
 <lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-11-21">Nov 21" 1864-</date></p>
   </body>
  </text>
