@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0129"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,9 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p><gap/> President. JOHN G. BARRET, Cashier.
-<lb/>Office Southern Bank of Kentucky.<figure type="hr"/>
-<lb/>Louisville, <date when="1863-09-02">Sept 2 1863</date>.
+   <p><gap/> President. <persName ref="cwgk:N002010">JOHN G. BARRET</persName>, Cashier.<lb/><orgName ref="cwgk:O001005">Office Southern Bank of Kentucky.</orgName><figure type="hr"/>
+<lb/><placeName ref="cwgk:P00000337">Louisville</placeName>, <date when="1863-09-02">Sept 2 1863</date>.
 <lb/>Gov<hi rend="sup">r</hi> Bramlett, Esq.,
 <lb/>Dear Sir:</p>
 <p>There was a negro woman by name of "Caroline", convicted at the last term of our Circuit Court, for the Murder of the child of Willis Levy and is Sentenced to be executed on the <date when="1863-09-11">11 inst</date>- This woman is a "contraband" negro, having came to this place some 7 or 8 Months ago, she is ignorant- and unable to procure the means of proper defence, And without entering into the evidence as you will doubtlessly have it before you, I will simply say that She was convicted on the <hi rend="underline">flimseyest</hi> of circumstantial evidence- And I believe is perfectly innocent- And if she could have a new trial in any way I believe She could from all I have procure such rebutting testimony, that would establish her innocence beyond doubt, It is a case that, demans your executive clemency- I dont know the woman, have never Seen her, But can say that from all I know of the case, If she is executed, she is innocent of the crime- and her execution would be wrong-</p>
