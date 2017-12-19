@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0007"> 
  <teiHeader>
   <fileDesc>
@@ -64,22 +64,20 @@
  <text>
   <body>
    <p>IN THE NAME AND BY THE AUTHORITY OF
-<lb/>The Commonwealth of Kentucky,
-<lb/><figure type="seal"><ab>KENTUCKY
+<lb/><orgName ref="cwgk:O001025">The Commonwealth of Kentucky</orgName>,<lb/><figure type="seal"><ab>KENTUCKY
 <lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure>
-<lb/>JAMES F. ROBINSON,
-<lb/>GOVERNOR OF SAID COMMONWEALTH,</p>
+<lb/><persName ref="cwgk:N001004">JAMES F. ROBINSON</persName>,<lb/>GOVERNOR OF SAID COMMONWEALTH,</p>
 <p>To all whom these Presents shall come, Greeting:</p>
-<p>Know Ye, That Asa Beldon having been duly appointed to the office of Commissary, with rank of 1st: Lieutenant In the 1 Cavalry Regiment of Kentucky Volunteer Militia, organized under the Acts of the General Assembly of the Commonwealth, and to be mustered into the service of the United States:</p>
+<p>Know Ye, That <persName ref="cwgk:N00005250">Asa Beldon</persName> having been duly appointed to the office of Commissary, with rank of 1st: Lieutenant In the <orgName ref="cwgk:O00005136">1 Cavalry Regiment of Kentucky Volunteer Militia</orgName>, organized under the Acts of the General Assembly of the Commonwealth, and to be mustered into the service of the United States:</p>
 <p>NOW KNOW YOU, That, by the powers vested in me by the Constitiution and Laws of said State, and reposing special trust and confidence in your patriotism, valor, fidelity, and ability, I do, by these presents Commission you as 1st Lieutenant as aforesaid, for the term of three years unless sooner discharged, upon condition that you take the oath indorsed hereon, within ten days from receipt hereof, sending a certificate thereof to General Headquarters; and I do hereby authorize and require you to discharge, all and signular, the duties and services appertaining to your said office, agreeably to law and general regulations, and to obey such orders and instructions as you shall, from time to time, receive from your superior officers.
 <lb/><note place="body">cancelled</note></p>
 <p><figure type="seal"><ab>SEAL OF KENTUCKY
 <lb/>UNITED WE STAND DIVIDED WE FALL</ab></figure></p>
-<p>In Testimony Whereof, I have hereunto set my name, and caused the seal of the State of Kentucky to be affixed, at Frankfort, the <date when="1863-05-10">Tenth day of May, in the year of our Lord one thousand eight hundred and sixty=three</date> and in the eighty=Seventh year of the Indpendence of the United States of America.</p>
+<p>In Testimony Whereof, I have hereunto set my name, and caused the seal of the <placeName ref="cwgk:P001800">State of Kentucky</placeName> to be affixed, at <placeName ref="cwgk:P00000308">Frankfort</placeName>, the <date when="1863-05-10">Tenth day of May, in the year of our Lord one thousand eight hundred and sixty=three</date> and in the eighty=Seventh year of the Indpendence of the United States of America.</p>
 <p><hi rend="underline">J. F. Robinson</hi> </p>
 <p>BY THE GOVERNOR:
-<lb/>D. C. Wickliffe, Secretary of State.</p>
-<p>Commonwealth Office -- WM. E. HUGHES, State Printer.<pb/></p>
+<lb/><persName ref="cwgk:N00000233">D. C. Wickliffe</persName>, Secretary of State.</p>
+<p>Commonwealth Office -- <persName ref="cwgk:N00002718">WM. E. HUGHES,</persName> State Printer.<pb/></p>
 <p>OATH.<figure type="hr"/></p>
 <p>I <gap/> do solemnly swear, that I will faithfully support the Constitution of the United States and the Constitution of the State of Kentucky, and will discharge, all and singular, the duties and services appertaining to the office of <gap/> in the Kentucky Volunteer Militia, agreeably to law and general regulations, and will obey such orders and instructions as I shall from time to time receive from the proper officers,</p>
 <p><gap/></p>
@@ -98,7 +96,7 @@
 <p>1 Cavy<figure type="hr"/>
 <lb/>Lt. Beldon<figure type="hr"/>
 <lb/>Com cancelled <date when="1863-06-06">June 6. 1863</date><figure type="hr"/></p>
-<p>Cancel and Send to Elijah Cox -- </p>
+<p>Cancel and Send to <persName ref="cwgk:N00005144">Elijah Cox </persName>-- </p>
 <p>J W F</p>
   </body>
  </text>
