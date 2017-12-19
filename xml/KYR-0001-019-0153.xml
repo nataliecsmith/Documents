@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0153"> 
  <teiHeader>
   <fileDesc>
@@ -63,14 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Head-Quarters Department of the Ohio.
-<lb/>Louisville, Ky., <date when="1862-01-10">January 10th, 1862</date>.
+   <p><orgName ref="cwgk:O001001">Head-Quarters Department of the Ohio.
+</orgName><lb/><placeName ref="cwgk:P00000337">Louisville</placeName>, Ky., <date when="1862-01-10">January 10th, 1862</date>.
 <lb/>GENERAL ORDERS,
 <lb/>No. 1.</p>
-<p>I. -- First Lieutenant W. C. PAINE, Corps of Engineers, is announced as Chief of his Corps on the Staff of the General Commanding, from <date when="1861-12-29">December 29th, 1861</date> -- the date on which he reported for duty.</p>
-<p>II. -- Captain E. GAY, U. S. Army, is announced as Inspector of Cavalry on the Staff of the General Commanding.</p>
+<p>I. -- First Lieutenant <persName ref="cwgk:N00007362">W. C. PAINE</persName>, Corps of Engineers, is announced as Chief of his Corps on the Staff of the General Commanding, from <date when="1861-12-29">December 29th, 1861</date> -- the date on which he reported for duty.</p>
+<p>II. -- Captain <persName ref="cwgk:N00007363">E. GAY</persName>, U. S. Army, is announced as Inspector of Cavalry on the Staff of the General Commanding.</p>
 <p>III. -- Regimental medical officers being part of the "Field and Staff," their baggage will be transported in the two wagons authorized for the Field and Staff in General Order No. 8, of <date when="1861-12-03">Dec. 3d</date>, from these Head-Quarters. </p>
-<p>By Command of BRIG. GENERAL BUELL.</p>
+<p>By Command of <persName ref="cwgk:N002042">BRIG. GENERAL BUELL</persName>.</p>
 <p>JAMES B. FRY,
 <lb/>A. A. G. Chief of Staff.</p>
 <p>OFFICIAL:
