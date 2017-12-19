@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1427"> 
  <teiHeader>
   <fileDesc>
@@ -63,16 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Jackson Breathitt County Ky
-<lb/><date when="1861-09-03">Septr 3<hi rend="sup">rd,</hi> 1861</date>
-<lb/>John M Elliott
-<lb/>&amp;
-<lb/>Joseph Gardner
-<lb/>Dear Sirs</p>
-<p>Enclosed I send you a petition to the Governor to get Daniel Akeman pardoned for stealing money from one John Gambill who has become s<hi rend="str"><unclear/></hi>atisfied that Akeman is clear of the charge and so far as I am concerned I am satisfied that Gambill never had the money for Akerman to steal -- I also send my affidavit as to what Gambill stated about the matter to me -- I hope you will present the petition to his Excellency &amp; say whatever you may choose to say to him about the matter -- </p>
-<p>I also want you to have an act passed giving me the further time of two years to collect my fee bills as Cl<hi rend="str"><unclear/></hi>erk of the cir &amp; co ct let me hear from you soon the people are generally well Tell Jerry South that Thomas P Cardwell has had the fe<hi rend="str"><unclear/></hi>ver badly though is on the me<hi rend="str"><unclear/></hi>nd</p>
+   <p><placeName ref="cwgk:P00001048">Jackson Breathitt County</placeName> <placeName ref="cwgk:P001800">Ky</placeName><lb/><date when="1861-09-03">Septr 3<hi rend="sup">rd,</hi> 1861</date>
+<lb/><persName ref="cwgk:N00000851">John M Elliott</persName><lb/>&amp;
+<lb/><persName ref="cwgk:N00007745">Joseph Gardner</persName><lb/>Dear Sirs</p>
+<p>Enclosed I send you a petition to the <persName ref="cwgk:N00000258">Governor </persName>to get Daniel Akeman pardoned for stealing money from one <persName ref="cwgk:N00007747">John Gambill </persName>who has become s<hi rend="str"><unclear/></hi>atisfied that Akeman is clear of the charge and so far as I am concerned I am satisfied that Gambill never had the money for Akerman to steal -- I also send my affidavit as to what Gambill stated about the matter to me -- I hope you will present the petition to his Excellency &amp; say whatever you may choose to say to him about the matter -- </p>
+<p>I also want you to have an act passed giving me the further time of two years to collect my fee bills as Cl<hi rend="str"><unclear/></hi>erk of the cir &amp; co ct let me hear from you soon the people are generally well Tell Jerry South that <persName ref="cwgk:N00007749">Thomas P Cardwell</persName> has had the fe<hi rend="str"><unclear/></hi>ver badly though is on the me<hi rend="str"><unclear/></hi>nd</p>
 <p>Yours 
-<lb/>A, B, Patrick</p>
+<lb/><persName ref="cwgk:N00002008">A. B. Patrick</persName></p>
   </body>
  </text>
 </TEI>
