@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Daniel Hinton</title>
+        <title level="a" type="main">Daniel B. Hinton</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name></name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name></name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,9 +43,11 @@
         <particDesc>
                 <person xml:id="N00008343">
                     <persName>
-                      Daniel Hinton
-                        ()
+                      Daniel B. Hinton
+                        (Fleming county, farm laborer)
                     </persName>
+                        <event type="birth"  when="1841"  cert="medium" ><ab>c1841</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,10 +55,13 @@
     </teiHeader>
     <text>
     <body>
-        
+        <p>Fleming County, Kentucky, farmer. Kentucky native. Married to Betsy A. Boys Hinton. Father of Maretta Hinton and Rosanna Hinton.</p>
+
     </body>
     <back>
-        <ab><bibl></bibl></ab>
+        <ab><bibl><hi rend="italic">Ninth Manuscript Census of the United States</hi> (1870), Population Schedules, Kentucky, Fleming, Tilton, p. 16.<br>
+<hi rend="italic">Kentucky Birth, Marriage and Death Records</hi> Microfilm (1852-1910). Microfilm rolls #994027-994058. Kentucky Department for Libraries and Archives, Frankfort, Kentucky.
+</bibl></ab>
     </back>
 </text>
 </TEI>
