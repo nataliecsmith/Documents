@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1386"> 
  <teiHeader>
   <fileDesc>
@@ -62,11 +62,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Jefferson Cir Ct
-<lb/>vs
-<lb/>Anthony Welch
-<lb/>Kenton Cir Ct
-<lb/>vs
+   <p><orgName ref="cwgk:O001000">Jefferson Cir Ct
+</orgName><lb/>vs
+<lb/><persName ref="cwgk:N00006459">Anthony Welch</persName><lb/><orgName ref="cwgk:O00000410">Kenton Cir Ct
+</orgName><lb/>vs
 <lb/>Michael Doughman
 <lb/>Pardoned
 <lb/><date when="1864-12-27">27<hi rend="sup">th</hi> Dec/64</date></p>
