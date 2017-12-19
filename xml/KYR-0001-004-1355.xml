@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1355"> 
  <teiHeader>
   <fileDesc>
@@ -62,42 +62,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Thomas E. Bramlette Govener of the state of Kentucky</p>
-<p> -- The undersigned citizens of Mercer County, very respectfully petition your Excellency to pardon John Patterson convicted in the Mercer Circuit Court to the penitentiary of the state for one year, He has a wife &amp; child wholly dependant on him for support, and they are poor and dependant,- The case presents strong considerations for clemency, They pray that you pardon him.
-<lb/><date when="1864-11-14">Nov 14, 1864</date></p>
+   <p>To His Excellency <persName ref="cwgk:N001000">Thomas E. Bramlette</persName> Govener of the state of Kentucky</p>
+<p> -- The undersigned citizens of <placeName ref="cwgk:P00000556">Mercer County</placeName>, very respectfully petition your Excellency to pardon John Patterson convicted in the Mercer Circuit Court to the <orgName ref="cwgk:O00000266">penitentiary of the state</orgName> for one year, He has a wife &amp; child wholly dependant on him for support, and they are poor and dependant,- The case presents strong considerations for clemency, They pray that you pardon him.<lb/><date when="1864-11-14">Nov 14, 1864</date></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>J. M Sillard
-<lb/>W S Alexander
-<lb/>Wm <unclear>Crouch</unclear>
-<lb/>F. Hall
-<lb/>S. H. Porter.
+<lb/><persName ref="cwgk:N00002241">W S Alexander</persName><lb/>Wm <unclear>Crouch</unclear>
+<lb/><persName ref="cwgk:N00001202">F. Hall
+</persName><lb/>S. H. Porter.
 <lb/>H C<unclear/>
-<lb/>R H Armstrong
-<lb/>S. E Brattin
-<lb/>G W Morgan
-<lb/>R. H. Paxton
+<lb/><persName ref="cwgk:N00001203">R H Armstrong</persName><lb/><persName ref="cwgk:N00002231">S. E Brattin</persName><lb/><persName ref="cwgk:N00002253">G W Morgan</persName><lb/>R. H. Paxton
 <lb/>John F <unclear>Coessfield</unclear>
-<lb/>John Slavens Jr.
-<lb/>Robert Whittinghill
-<lb/>Silas Bishop
-<lb/>James A Hatchel
-<lb/>Jos Simmons
-<lb/>Walter Handy
-<lb/>T. M. Nooe
-<lb/><cb n="2"/><hi rend="underline">Ben. C. Allin</hi> Jr
-<lb/><hi rend="str">G</hi> G C T Dean
-<lb/>William Rothchild
-<lb/>G, A, M<hi rend="sup">c</hi>Crosky
+<lb/><persName ref="cwgk:N00002250">John Slavens Jr.</persName><lb/><persName ref="cwgk:N00002229">Robert Whittinghill</persName><lb/><persName ref="cwgk:N00001209">Silas Bishop</persName><lb/><persName ref="cwgk:N00002234">James A Hatchel</persName><lb/><persName ref="cwgk:N00002242">Jos Simmons</persName><lb/><persName ref="cwgk:N00002213">Walter Handy</persName><lb/><persName ref="cwgk:N00002256">T. M. Nooe</persName><lb/><cb n="2"/><hi rend="underline">Ben. C. Allin</hi> Jr
+<lb/><hi rend="str">G</hi> <persName ref="cwgk:N00002235">G C T Dean</persName><lb/><persName ref="cwgk:N00001200">William Rothchild</persName><lb/>G, A, M<hi rend="sup">c</hi>Crosky
 <lb/>T. <unclear>Cravens</unclear>
 <lb/>Edward Ludwick
 <lb/>W. H. Vanarsdall
 <lb/>J W Moore
 <lb/><unclear/> <unclear/> Bradshaw
-<lb/>Benjamin A Low
-<lb/>Thos. H. Prather
+<lb/><persName ref="cwgk:N00002226">Benjamin A Low</persName><lb/>Thos. H. Prather
 <lb/>G F <unclear>Smith</unclear>
-<lb/>J K Wilson
-<lb/>A Nooe
-<lb/>Henry <unclear>Caned</unclear>
+<lb/><persName ref="cwgk:N00001199">J K Wilson</persName><lb/><persName ref="cwgk:N00002254">A Nooe</persName><lb/>Henry <unclear>Caned</unclear>
 <lb/>J. M Norton
 <lb/>A J. Norton
 <lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> H Burford<milestone unit="column" n="1"/><pb/>
