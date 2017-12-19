@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1469"> 
  <teiHeader>
   <fileDesc>
@@ -63,7 +63,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his excellency the governor ^of Ky^ B Magoffin, Your Petitioner James York was fined at the <date when="1861-10">Oct term of the Anderson Circuit Court in 1861</date> forty five dollars for obstructing a public passway. The evidence was that the road said to be obstructed had not been traveled for many years, though originally the road, That your peitioner ignorant of the fact, as a resent ocupant and ower of premices placed his fen<hi rend="str">s</hi>ce out close to the margin of the beaten road, covering about half of the old road, for a few paces, but the law is such that he had to be fined. He therefore together with the undersigned Jury who tried the case, pray that Said fine be remited, by the interposition of your executive clemency</p>
+   <p>To his excellency the governor ^of <orgName ref="cwgk:O001025">Ky</orgName>^ <persName ref="cwgk:N00000258">B Magoffin</persName>, Your Petitioner James York was fined at the Oct term of the  forty five dollars for obstructing a public passway. The evidence was that the road said to be obstructed had not been traveled for many years, though originally the road, That your peitioner ignorant of the fact, as a resent ocupant and ower of premices placed his fen<orgName ref="cwgk:O00000341">Anderson Circuit Court</orgName> in 1861<hi rend="str">s</hi>ce out close to the margin of the beaten road, covering about half of the old road, for a few paces, but the law is such that he had to be fined. He therefore together with the undersigned Jury who tried the case, pray that Said fine be remited, by the interposition of your executive clemency</p>
 <p><hi rend="str">n</hi> <hi rend="str">names</hi><figure type="hr"/></p>
 <p>Your petitioner Says the above statements are true.</p>
 <p>James R York</p>
@@ -90,7 +90,7 @@
 <p>Anderson Cir. Ct
 <lb/>Petition To the Governor in case of Com 
 <lb/>vs
-<lb/>&#36;45 &#125; obstructing highway
+<lb/>$45 } obstructing highway
 <lb/>James York</p>
 <p>Remitted 
 <lb/>B, M</p>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0047"> 
  <teiHeader>
   <fileDesc>
@@ -63,16 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Nashville, Tenn,
-<lb/><date when="1864-09-20">Sep<hi rend="sup">t</hi>, 20<hi rend="underline"><hi rend="sup">th</hi></hi>, 1864.</date>
+   <p><placeName ref="cwgk:P001004">Nashville, Tenn</placeName>,<lb/><date when="1864-09-20">Sep<hi rend="sup">t</hi>, 20<hi rend="underline"><hi rend="sup">th</hi></hi>, 1864.</date>
 <lb/>To his Excellency
-<lb/>Governor Bramlett,
-<lb/>Sir,</p>
-<p>I am informed that Col, Watts, and Surgeon Finley of the 2<hi rend="underline"><hi rend="sup">d</hi></hi> K,Y, Cav'l, recommended myself to you for the position Ass't, Surgeon in there Regiment. I would therefore respectfully ask if a commission for Said position has been forwarded from your office, and if So to whom was it Sent,</p>
+<lb/><persName ref="cwgk:N001000">Governor Bramlett,</persName><lb/>Sir,</p>
+<p>I am informed that <persName ref="cwgk:N00006185">Col, Watts</persName>, and Surgeon <persName ref="cwgk:N00006175">Finley</persName> of the 2<hi rend="underline"><hi rend="sup">d</hi></hi> K,Y, Cav'l, recommended myself to you for the position Ass't, Surgeon in there Regiment. I would therefore respectfully ask if a commission for Said position has been forwarded from your office, and if So to whom was it Sent,</p>
 <p>I have the honor to be very Respectfully 
 <lb/>your obediant Servant.
-<lb/>S, J, Layman,
-<lb/>Act'g, Ass't, Surg. U. S. A.
+<lb/><persName ref="cwgk:N00006187">S. J. Layman</persName>,<lb/>Act'g, Ass't, Surg. U. S. A.
 <lb/>Nashville,
 <lb/>Tenn,</p>
 <p>address

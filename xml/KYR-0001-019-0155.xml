@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0155"> 
  <teiHeader>
   <fileDesc>
@@ -64,12 +64,12 @@
  <text>
   <body>
    <p>EXECUTIVE DEPARTMENT,
-<lb/>Frankfort, Ky., <date when="1862-06-27">June 27<hi rend="sup">th</hi>, 1862</date>.
+<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, Ky., <date when="1862-06-27">June 27<hi rend="sup">th</hi>, 1862</date>.
 <lb/><hi rend="str"><unclear/></hi>Co<hi rend="underline"><hi rend="sup">l</hi></hi> J, S. Jackson
 <lb/>Dear Sir:</p>
-<p>Your letter of yesterday <hi rend="str">accompanying</hi> presenting the rebel flag captured at Corinth by Capt Wolfling of your gallant regiment has ^with the trophy^ been received. and I have directed <hi rend="str">the trophy</hi> <hi rend="str">according</hi> <hi rend="str">to</hi> <hi rend="str">your</hi> <hi rend="str">request</hi> ^it as requested by you^, to be deposited "amongst the memorials of the Commonwealth".</p>
+<p>Your letter of yesterday <hi rend="str">accompanying</hi> presenting the rebel flag captured at <placeName ref="cwgk:P00007364">Corinth</placeName> by Capt <persName ref="cwgk:N00007365">Wolfling</persName> of your gallant regiment has ^with the trophy^ been received. and I have directed <hi rend="str">the trophy</hi> <hi rend="str">according</hi> <hi rend="str">to</hi> <hi rend="str">your</hi> <hi rend="str">request</hi> ^it as requested by you^, to be deposited "amongst the memorials of the Commonwealth".</p>
 <p>Respectfully your Obt Svt
-<lb/>B. Magoffin<pb/></p>
+<lb/><persName ref="cwgk:N00000258">B. Magoffin</persName><pb/></p>
 <p>copy letter to Co<hi rend="underline"><hi rend="sup">l</hi></hi> J S. Jackson</p>
   </body>
  </text>

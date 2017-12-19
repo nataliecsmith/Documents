@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1445"> 
  <teiHeader>
   <fileDesc>
@@ -63,14 +63,14 @@
  <text>
   <body>
    <p>Marion Cir. Ct
-<lb/>&#36;2<hi rend="str">00</hi>50. &#125; Gaming
-<lb/>F. C. Jenkins
-<lb/>Resp<hi rend="underline"><hi rend="sup">d</hi></hi> 12. Mos
+<lb/>$2<hi rend="str">00</hi>50. } Gaming
+<lb/><persName ref="cwgk:N00007650">F. C. Jenkins
+</persName><lb/>Resp<hi rend="underline"><hi rend="sup">d</hi></hi> 12. Mos
 <lb/><hi rend="str">Remission</hi> Iss<hi rend="sup">d</hi> <date when="1861-11-01">Nov. 1. 1861</date><figure type="hr"/></p>
 <p>The fine in this case is remitted except Fifty dollars &amp; costs</p>
 <p>J F Robinson</p>
-<p>Enclosed to B. Spaulding
-<lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-05-18">May 18. 1863</date></p>
+<p>Enclosed to <persName ref="cwgk:N00007652">B. Spaulding
+</persName><lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1863-05-18">May 18. 1863</date></p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0003"> 
  <teiHeader>
   <fileDesc>
@@ -64,16 +64,15 @@
  <text>
   <body>
    <p>H<hi rend="underline"><hi rend="sup">d</hi></hi> Q<hi rend="underline"><hi rend="sup">rs</hi></hi> 1<hi rend="sup">st</hi> Ky Cav
-<lb/>Near Powder Springs Ga
-<lb/><date when="1864-06-27">June 27" 1864</date>,
-<lb/>Gov Bramlette
-<lb/>Sir</p>
-<p>I have the honor to recommend to you for Promotion Major F. M Helveti to the rank of Lt Colonel vice Adams promoted also Capt A. T. Keen to the rank of Major vice Helveti promoted.</p>
+<lb/>Near <placeName ref="cwgk:P00005238">Powder Springs Ga
+</placeName><lb/><date when="1864-06-27">June 27" 1864</date>,
+<lb/><persName ref="cwgk:N001000">Gov Bramlette</persName><lb/>Sir</p>
+<p>I have the honor to recommend to you for Promotion Major <persName ref="cwgk:N00005142">F. M Helveti </persName>to the rank of Lt Colonel vice <persName ref="cwgk:N00005138">Adams</persName> promoted also Capt <persName ref="cwgk:N00005151">A. T. Keen</persName> to the rank of Major vice Helveti promoted.</p>
 <p>I am very Resptly
 <lb/>your ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
 <lb/>S Adams Col 1<hi rend="sup">st</hi> Ky Cav</p>
 <p><figure type="hr"/><note place="left margin">1.2.3.4.5</note>Maj F^rancis^ M Helviti com Lieut Col. 1 Cavy <date when="1864-06-27">June 27/64</date> vice S. Adams promoted,<figure type="hr"/>
-<lb/><note place ="left margin">1.2.3.4.5.</note>Capt. Anderson S. Keene com Maj 1 Cavy <date when="1864-06-27">June 27/64</date> vice F. M. Helviti promd.<pb/></p>
+<lb/><note place="left margin">1.2.3.4.5.</note>Capt. Anderson S. Keene com Maj 1 Cavy <date when="1864-06-27">June 27/64</date> vice F. M. Helviti promd.<pb/></p>
 <p><hi rend="underline">1 Cavy</hi>
 <lb/>Head Qrs. 1<hi rend="sup">st</hi> Ky Cavy 
 <lb/>nr. Powder Springs

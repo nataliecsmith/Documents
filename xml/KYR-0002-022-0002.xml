@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0002"> 
  <teiHeader>
   <fileDesc>
@@ -64,19 +64,16 @@
  <text>
   <body>
    <p><note place="header"><hi rend="underline">Floyd</hi></note>
-<lb/>Prestonsburg Ky
-<lb/><date when="1861-05-29">May 29 1861</date>
-<lb/>Hon: Beriah Magoffin-
-<lb/>Dear Sir:</p>
+<lb/><placeName ref="cwgk:P00000293">Prestonsburg Ky</placeName><lb/><date when="1861-05-29">May 29 1861</date>
+<lb/>Hon: <persName ref="cwgk:N00000258">Beriah Magoffin</persName>-<lb/>Dear Sir:</p>
 <p>A company of "State Guard" has been formed in this County, and the following Gentlemen were elected offircers of said Company:</p>
 <p>Alexander L. Martin Captain
-<lb/>Edwin Trimble 1<hi rend="sup">st</hi> L<hi rend="underline"><hi rend="sup">t</hi></hi>
-<lb/>Robert S Friend 2<hi rend="sup">nd</hi> Lt
+<lb/><persName ref="cwgk:N00000295">Edwin Trimble</persName> 1<hi rend="sup">st</hi> L<hi rend="underline"><hi rend="sup">t</hi></hi>
+<lb/><persName ref="cwgk:N00000296">Robert S Friend</persName> 2<hi rend="sup">nd</hi> Lt
 <lb/>Alexander G Hamilton 3<hi rend="sup">d</hi> Lt</p>
 <p>Your early attention in forwarding the Comissions is desirer -- </p>
 <p>Yours &amp;<hi rend="sup">c</hi>
-<lb/>G M Witten
-<lb/>Col Enrolled Militia. Floyd Co<pb/></p>
+<lb/><persName ref="cwgk:N00000299">G M Witten</persName><lb/>Col <orgName ref="cwgk:O00000300">Enrolled Militia. Floyd Co</orgName><pb/></p>
 <p><hi rend="underline">6</hi></p>
 <p>Floyd Coy -- 
 <lb/>State-guards -- 

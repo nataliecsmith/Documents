@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0015"> 
  <teiHeader>
   <fileDesc>
@@ -64,10 +64,9 @@
  <text>
   <body>
    <p>Head Qts 13<hi rend="underline"><hi rend="sup">th</hi></hi> Ky Cav
-<lb/>Columbia <date when="1863-12-26">Dec 26<hi rend="sup">th</hi></date>
-<lb/>John Boyle
-<lb/>Agt Genl Ky,</p>
-<p>I have arrested Moses Hudleston 2 Lt Co. C. 13<hi rend="sup">th</hi> Ky Cav as a deserter from 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cavalry. and forwarded him to his regiment I recomend Henry Turner as, 2<hi rend="sup">d</hi> Lt instead he ^Hudleston^ had never been musterd into service in this Regiment</p>
+<lb/><placeName ref="cwgk:P001014">Columbia</placeName> <date when="1863-12-26">Dec 26<hi rend="sup">th</hi></date>
+<lb/><persName ref="cwgk:N00000879">John Boyle</persName><lb/>Agt Genl Ky,</p>
+<p>I have arrested Moses Hudleston 2 Lt Co. C. 13<hi rend="sup">th</hi> Ky Cav as a deserter from 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cavalry. and forwarded him to his regiment I recomend <persName ref="cwgk:N00005763">Henry Turner </persName>as, 2<hi rend="sup">d</hi> Lt instead he ^Hudleston^ had never been musterd into service in this Regiment</p>
 <p>Very Resply
 <lb/>J W Weatherford
 <lb/>Col 13 Ky Cav<figure type="hr"/></p>
@@ -75,7 +74,7 @@
 <lb/><date when="1863-12-26">Dec<hi rend="sup">r</hi> 26. 1863</date><figure type="hr"/>
 <lb/>1.2.3.4.5.<pb/></p>
 <p>Issue.
-<lb/>Tho E Bramlette</p>
+<lb/><persName ref="cwgk:N001000">Tho E Bramlette</persName></p>
 <p>13 Cav<hi rend="sup">y</hi><figure type="hr"/>
 <lb/>Lt. Turner<figure type="hr"/>
 <lb/>Coms iss<hi rend="sup">d</hi> &amp; forw<hi rend="sup">d</hi> <date when="1863-12-30">Dec<hi rend="sup">r</hi> 30. 1863</date></p>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1444"> 
  <teiHeader>
   <fileDesc>
@@ -63,10 +63,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lebanon Ky <date when="1861-10-29">Oct 29/61</date>
+   <p><placeName ref="cwgk:P00007649">Lebanon</placeName> <placeName ref="cwgk:P001800">Ky </placeName><date when="1861-10-29">Oct 29/61</date>
 <lb/>Hon B Magoffin Governor of Kentucky
 <lb/>Dear Sir</p>
-<p>Enclosed find the petition of F. C. Jenkins he is a truthful &amp; honest man and can only say that it is a case that merits Executive clemency and I hope you will exercise it in his case if the judgement is enforced the consequence will be that Jenkins will be broken up.. Believe me</p>
+<p>Enclosed find the petition of <persName ref="cwgk:N00007650">F. C. Jenkins</persName> he is a truthful &amp; honest man and can only say that it is a case that merits Executive clemency and I hope you will exercise it in his case if the judgement is enforced the consequence will be that Jenkins will be broken up.. Believe me</p>
 <p>Your humble &amp; obedient Servant &amp; friend
 <lb/>James M. Fogle</p>
   </body>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1407"> 
  <teiHeader>
   <fileDesc>
@@ -62,10 +62,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Beriah Magoffin,
-<lb/>Governor of the State of Kentucky,</p>
-<p>We the undersigned citizens of Henderson County petition your Excellency to grant a respite to William Allison Sandefur, for the period of twelve months, upon Judgments rendered against him at the last June Term of the Henderson Circuit Court in the sum of Twenty Dollars (&#36;20) each in the following named cases to-wit:
-<lb/><table rend="rules">
+   <p>To his Excellency <persName ref="cwgk:N00000258">Beriah Magoffin</persName>,<lb/>Governor of the <orgName ref="cwgk:O001025">State of Kentucky</orgName>,</p>
+<p>We the undersigned citizens of <placeName ref="cwgk:P00002891">Henderson County</placeName> petition your Excellency to grant a respite to <persName ref="cwgk:N00005589">William Allison Sandefur</persName>, for the period of twelve months, upon Judgments rendered against him at the last June Term of the <orgName ref="cwgk:O00000397">Henderson Circuit Court</orgName> in the sum of Twenty Dollars ($20) each in the following named cases to-wit:<lb/><table rend="rules">
 <row>
 	<cell>Commonwealth</cell>
 	<cell>vs</cell>
@@ -148,7 +146,7 @@
 <p>Henderson Cir. Ct</p>
 <p>Respite 12 mo
 <lb/>B. M</p>
-<p>7. Judg'ts each &#36;20.
+<p>7. Judg'ts each $20.
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> A. Sandifur
 <lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-09-10">Sept 10. 1861</date></p>
   </body>

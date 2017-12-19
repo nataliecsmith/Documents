@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1419"> 
  <teiHeader>
   <fileDesc>
@@ -64,9 +64,8 @@
  <text>
   <body>
    <p>Brooksville <date when="1861-09-10">Sept 10<hi rend="sup">th</hi> 1861</date>
-<lb/>Hon T F Marshall &amp; F L Cleveland
-<lb/>Dear Sirs</p>
-<p>Accompanying this you will find the Petition of L O Murray, with numerous signers, also affidavit &amp;c -- please present it to the Governor, and if consistant with your feelings, use your influence in getting the fine remitted, you will call his attention to the statement of J N Furber in the petition, I think it is a case in which his clemency ought to be exercised. </p>
+<lb/>Hon <persName ref="cwgk:N00006578">T F Marshall</persName> &amp; F L Cleveland<lb/>Dear Sirs</p>
+<p>Accompanying this you will find the Petition of <persName ref="cwgk:N00007522">L O Murray</persName>, with numerous signers, also affidavit &amp;c -- please present it to the Governor, and if consistant with your feelings, use your influence in getting the fine remitted, you will call his attention to the statement of<persName ref="cwgk:N00006587"> J N Furber</persName> in the petition, I think it is a case in which his clemency ought to be exercised. </p>
 <p>Please attend to this and oblige your 
 <lb/>humble servent
 <lb/>C, H, Lee</p>

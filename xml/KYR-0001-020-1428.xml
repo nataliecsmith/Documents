@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1428"> 
  <teiHeader>
   <fileDesc>
@@ -63,16 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky Breathitt County Sct</p>
-<p>The affiant A. B, Patrick maketh oath and saith that not long since in a conversation with John Gambill the prosocutor in the Case of The Commonwealth against Daniel Akeman who was convicted in the Perry Circuit court to the penetentiary for stealing money from said Gambill</p>
+   <p><placeName ref="cwgk:P001800">State of Kentucky </placeName><placeName ref="cwgk:P00001048">Breathitt County</placeName> Sct</p>
+<p>The affiant <persName ref="cwgk:N00002008">A. B. Patrick</persName> maketh oath and saith that not long since in a conversation with <persName ref="cwgk:N00007747">John Gambill</persName> the prosocutor in the Case of The Commonwealth against Daniel Akeman who was convicted in the Perry Circuit court to the penetentiary for stealing money from said Gambill</p>
 <p>Said Gambill acknowledged to affiiant A B Patrick that he <hi rend="str">did not believe that Akeman</hi> Gambill had<hi rend="str">d</hi> become satisfied that Akeman never got one cent of the money that he had<hi rend="str">e</hi> lost and that woul be glad if Akeman was pardoned and that he was willing to do any thing that was honorable to get Akeman pardoned
 <lb/><date when="1861-09-03">Sept 3<hi rend="underline"><hi rend="sup">rd</hi></hi> 1861</date></p>
 <p>A, B, Patrick</p>
 <p>State of Kentucky
-<lb/>Breathitt County &#125; Sct</p>
+<lb/>Breathitt County } Sct</p>
 <p>Sworn to before me by A B Patrick this <date when="1861-09-03">3<hi rend="underline"><hi rend="sup">rd</hi></hi> day of Sept 1861</date>
 <lb/>J, P, B, C</p>
-<p>John Cardwell J P B C<pb/></p>
+<p><persName ref="cwgk:N00001034">John Cardwell</persName> J P B C<pb/></p>
 <p>Petition to the Governor &amp; accompying papers asking that Danl Akeman convict in the state prison shall be pardoned<figure type="hr"/></p>
 <p>File in A<hi rend="str"><unclear/></hi>keman case -- B. M</p>
   </body>

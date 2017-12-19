@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0157"> 
  <teiHeader>
   <fileDesc>
@@ -63,25 +63,24 @@
  </teiHeader>
  <text>
   <body>
-   <p>"Warsaw Ky <date when="1862-03-17">March 17. 1862</date>
-<lb/>To His Excellency the Governor of Ky</p>
-<p>At the request of his Honor E. F. Nuttall and the members of the bar we address you this Communication.</p>
+   <p>"<placeName ref="cwgk:P00005387">Warsaw</placeName> Ky <date when="1862-03-17">March 17. 1862</date>
+<lb/>To His Excellency the <persName ref="cwgk:N00000258">Governor of Ky</persName></p>
+<p>At the request of his Honor<persName ref="cwgk:N00003209"> E. F. Nuttall</persName> and the members of the bar we address you this Communication.</p>
 <p>It being rumored in town this morning that the troops stationed here and in possession of the Court House did not intend to permit Court to be held the Judge requested us to see the officers in Command and ascertain whether such was the fact- We called personally upon the officers for that purpose he stated that Court could not be held that he had orders to that effect we urged upon him the impolicy and impropriety of such a course, but he persisted in saying that court could not be held, wishing to have the matter in writing we addressed a Communication to him of which we enclose a copy, he declined a written answer. In this State of the case it was determined by the Judge and bar, not to attempt to hold court, but submit the matter to your Excellency to take such steps as may be thought necessary<pb/></p>
 <p>Respectfully
 <lb/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> A. Berryman
-<lb/>W. B. Winslow
-<lb/>P. U. Major
+<lb/><persName ref="cwgk:N00007366">W. B. Winslow</persName><lb/>P. U. Major
 <lb/>R. W Masterson"</p>
 <p>"Warsaw Ky <date when="1862-03-17">March 17<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
-<p>"To the officer Commanding the Military force now occupying the the Court House in this place. The undersigned Attornies practicing in the Circuit Court appointed &amp; to be held at the Court House in this place on this day under the authority of the laws of the State of Kentucky at the instance of the Circuit Judge who finding the Court House occupied by the Military authorities and hearing that the attempt to hold a court would probably produce some conflict between the Civil and military authorities. Address you for the purpose of ascertaining whether or not the attempt to hold the court would likely produce any such result -- An answer in writing at your earliest convenience would<pb/>
+<p>"To the officer Commanding the Military force now occupying the the Court House in this place. The undersigned Attornies practicing in the Circuit Court appointed &amp; to be held at the Court House in this place on this day under the authority of the laws of the <placeName ref="cwgk:P001800">State of Kentucky </placeName>at the instance of the Circuit Judge who finding the Court House occupied by the Military authorities and hearing that the attempt to hold a court would probably produce some conflict between the Civil and military authorities. Address you for the purpose of ascertaining whether or not the attempt to hold the court would likely produce any such result -- An answer in writing at your earliest convenience would<pb/>
 <lb/>greatly oblige us.</p>
 <p>It may be proper to add as we have already had a personal interview with you that our object in addressing You now in writing is that the matter may be presened in such form as may not be liable to misunderstanding or misrepresentation from any source</p>
 <p>Tho. A. Berryman
 <lb/>W. B. Winslow
 <lb/>R. W. Masterson
 <lb/>P. U. Major<pb/></p>
-<p>Gallatin Co
-<lb/>Copy of letters to the Govenor</p>
+<p><placeName ref="cwgk:P00007132">Gallatin Co
+</placeName><lb/>Copy of letters to the Govenor</p>
   </body>
  </text>
 </TEI>

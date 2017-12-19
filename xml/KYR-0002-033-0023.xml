@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0023"> 
  <teiHeader>
   <fileDesc>
@@ -63,9 +63,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>WAR DEPARTMENT,
-<lb/>ADJUTANT GENERAL'S OFFICE,
-<lb/><hi rend="italic">Washington, </hi><date when="1863-10-30"><hi rend="italic">October</hi> 30<hi rend="italic">th</hi>, 1863</date>.
+   <p><orgName ref="cwgk:O00005118">WAR DEPARTMENT,</orgName><lb/>ADJUTANT GENERAL'S OFFICE,
+<lb/><placeName ref="cwgk:P00001134">Washington</placeName>, <date when="1863-10-30"><hi rend="italic">October</hi> 30<hi rend="italic">th</hi>, 1863</date>.
 <lb/>SPECIAL ORDERS,
 <lb/>No. 484.</p>
 <p>(<hi rend="italic">Extract</hi>.)<figure type="hr"/></p>

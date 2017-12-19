@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1495"> 
  <teiHeader>
   <fileDesc>
@@ -63,7 +63,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency B, Magoffin</p>
+   <p>To <persName ref="cwgk:N00000258">his Excellency B. Magoffin</persName></p>
 <p>We the Undersigned Citizens of Newport would most respectfully represent, that on the <gap/> day of <date when="1861-10">October 1861,</date> William Girty a Citizen of this place was fined by the Mayor of the City of Newport, the sum of Thirty dollars and sentenced to 15 days imprisonment in the County Jail, for the offense of committing a breach of the peace, The facts in the case are these,- Said Girty and another young man had some words when they struck each other with nothing but their fists, an officer seeing the affair arrested Girty <hi rend="str">w</hi>h<hi rend="str">o</hi>e quietly submitted to the arrest, we think the punishment not commensurate with the offense, but that it was extrodinary &amp; unusually severe and arbitrary, The case differed nothing from ordinary little difficulties in our town, We think M<hi rend="sup">r</hi> Girty's case calls for your Excellency's interposition and we ask that the Executive clemency be exercised in his behalf and your petitioners will ever pray. 
 <lb/>Newport, Ky <date when="1861-10-18">Oct<hi rend="underline"><hi rend="sup">r</hi></hi> 18<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date></p>
 <p><hi rend="underline">H, A, Boyd
@@ -72,7 +72,7 @@
 <lb/></hi>F. M. Webster
 <lb/>W, P, Graiy<pb/></p>
 <p>Newport Mayors Ct.
-<lb/>&#36;30. &#125; Mis -- 
+<lb/>$30. } Mis -- 
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> Girty
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-26">Oct 26, 1861</date><figure type="hr"/></p>
 <p>Remitted

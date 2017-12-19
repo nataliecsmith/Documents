@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0029"> 
  <teiHeader>
   <fileDesc>
@@ -63,20 +63,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Camp Fry near Danville Ky
-<lb/><date when="1862-12-19">De<hi rend="underline">c</hi> 19<hi rend="sup">th</hi> 1862</date>
+   <p>Camp Fry near <placeName ref="cwgk:P00005549">Danville Ky</placeName><lb/><date when="1862-12-19">De<hi rend="underline">c</hi> 19<hi rend="sup">th</hi> 1862</date>
 <lb/>His Excellency
-<lb/>Go<hi rend="underline">v</hi>. J. F. Robinson
-<lb/>Sir</p>
+<lb/>Go<hi rend="underline">v</hi>. <persName ref="cwgk:N001004">J. F. Robinson
+</persName><lb/>Sir</p>
 <p>Your petitioners the undersigned members of Co. B, 1<hi rend="sup">st</hi> Batt Ky Cavalry. are desirous of being transferd to the 10<hi rend="underline"><hi rend="sup">th</hi></hi> Redg: -- Ky. Ca<hi rend="underline">v</hi>. as we have many friends and Relatives in S<hi rend="underline"><hi rend="sup">d</hi></hi> Redg we therefore Respectfully Solicit your Excellence to grant us Such transfer We haveing the consent of Our Respective Commanders there to you will lay us under many Obligations by an answer at your Earliest convenience</p>
 <p>Vary Respectfully yours
 <lb/>Ob<hi rend="sup">t</hi> Serv<hi rend="underline"><hi rend="sup">ts</hi></hi>
-<lb/>F. W. Asbury, Sergt
-<lb/>Peter, Mann, private
-<lb/>Alexander, Curtis, pr<pb/></p>
+<lb/><persName ref="cwgk:N00005800">F. W. Asbury</persName>, Sergt<lb/><persName ref="cwgk:N00005801">Peter, Mann,</persName> private<lb/><persName ref="cwgk:N00005802">Alexander, Curtis</persName>, pr<pb/></p>
 <p>I give my full and free Consent to their Transfer</p>
-<p>Capt J H Coffman
-<lb/>J B Buchanan Capt of compy D,</p>
+<p>Capt <persName ref="cwgk:N00005773">J H Coffman
+</persName><lb/><persName ref="cwgk:N00005789">J B Buchanan</persName> Capt of compy D,</p>
 <p>your Exellency will see that We have the Consent of our Cap<hi rend="underline"><hi rend="sup">t</hi></hi> J, H, Coffman and J. B. Buchanan Commanding Ba<hi rend="underline">tt</hi>,<pb/></p>
 <p>J. H Coffman
 <lb/>Danville Ky

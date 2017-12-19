@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1478"> 
  <teiHeader>
   <fileDesc>
@@ -62,7 +62,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency Beriah Magoffin Governor of the state of Kentucky</p>
+   <p>To <persName ref="cwgk:N00000258">his Excellency Beriah Magoffin</persName> Governor of the state of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
 <p>your petitioner Charles Mytinger s<hi rend="underline"><hi rend="sup">r</hi></hi> respectfully states that at the <date when="1861-10">October Term of the Mason Circuit Court 1861</date> -- he was fined sixty dollars for keeping a Tippling-House in the city of Maysville: He has been for many years prior to his removal to Kentucky, a citizen of the state of Ohio, he is poor and in feeble, health and by the kindness and assistance of friends set up in a small grocery the profits of which he fears will be inadequate to his support; to two or more of his friends upon several occasions he sold liquor and which acts he now learns were forbidden by the law = your Excellency has been pleased to remit or stay the collection of a fine imposed upon him by the Mayor of the City of Maysville for a similar offence; but the offence for which he was indicted and fined by the Circuit Court was committed before that tried by the Mayor; both were done by him in ignorance of the law -- <pb/>
 <lb/> -- so soon as he learned by the admonition (of the trial) and judgment of the Mayor he desisted and so now remains = "Ignorance of the law excuseth no man", so say those who administer it, but it is he hopes a good reason for the exercise of Mercy; his poverty and his ill health both unite in asking your Excellency to remit the said fine and prevent his becoming the feeble and helpless te<hi rend="str">i</hi>nant of a Jail, with the assurance that he will indeed in this matter at least "sin no more"</p>
 <p>Charles Mytinger </p>
@@ -84,7 +84,7 @@
 <p>Respite 12 mo 
 <lb/>B. M</p>
 <p>Mason Cir Ct
-<lb/>&#36;60. &#125; Tipling
+<lb/>$60. } Tipling
 <lb/>Cha<hi rend="underline"><hi rend="sup">s</hi></hi> Mytinger
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-26">Octo 26. 1861</date></p>
   </body>

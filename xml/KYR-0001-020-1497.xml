@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1497"> 
  <teiHeader>
   <fileDesc>
@@ -63,14 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Covington Ky <date when="1861-10-11">Oct 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
-<lb/>Hon. Beriah Magoffin
-<lb/>Governor &amp;c.</p>
+   <p><placeName ref="cwgk:P00000936">Covington Ky</placeName> <date when="1861-10-11">Oct 11<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
+<lb/><persName ref="cwgk:N00000258">Hon. Beriah Magoffin</persName><lb/>Governor &amp;c.</p>
 <p>Your petitioners respectfully represent to your Excellency -- that some months since one Geo. Hillman was arrested and bound over for his appearance at the next ensuing term of the circuit Court for the County of Kenton on a charge of Felony- and that one Samuel Gardner became said Hillmans surety in a Bond for the Sum of Fifty Dollars to be void upon Said Hillmans appearance- Hillman subsequently failed to appear- the bond was forfeited and judgement went against said Gardner for the Fifty dollars -- and execution is now in the Sheriffs hands- Gardner believed in good faith that Hillman would appear to answer the charge against him, and became his surety only from motives of humanity &amp; Kindness. Hillman <hi rend="str">he</hi> we are informed and believe has joined the army and gone to parts unknown -- Gardner is a very poor man, has a large family of children, is a worthy and meritorious citizen and is unable to pay the bond- we therefore ask<pb/>
 <lb/>your Excellency to remit the penalty of the bond, in so far as you can, as an act of deserved clemency to an unoffending and needy man</p>
 <p>S, F, Roberts S, K, C
-<lb/>W, E, Arthur, Atty Com'th
-<lb/>James Robinson
+<lb/><persName ref="cwgk:N00004274">W, E, Arthur</persName>, Atty Com'th<lb/>James Robinson
 <lb/><hi rend="underline">D. Mooar</hi>
 <lb/><hi rend="underline">C, W, Mooar</hi>
 <lb/><hi rend="underline">H, C, Harris</hi>
@@ -83,7 +81,7 @@
 <p>Remitted
 <lb/>B, M</p>
 <p>Kenton Cir. Court
-<lb/>&#36;50 &#125; Bail Bond
+<lb/>$50 } Bail Bond
 <lb/>Sam<hi rend="underline"><hi rend="sup">l</hi></hi> Gardner
 <lb/>Iss<hi rend="sup">d</hi> <date when="1862-01-22">Jany 22<hi rend="underline"><hi rend="sup">d</hi></hi><hi rend="sup"> </hi>1862</date></p>
   </body>

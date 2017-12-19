@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1467"> 
  <teiHeader>
   <fileDesc>
@@ -62,7 +62,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency B MaGoffin Governor of Kentucky Your Petitioners would respectfully represent that at the <hi rend="str">October</hi> <date when="1861-05">May Term of the Grant Circuit sourt 1861</date>. one Patrick Bannon was fined fifty Dollars for carrying concealed weapons: we think the assessment of s<hi rend="sup">d</hi> fine a great hardship upon Mr. Bannon He is a very quiet and Gentlemanly citizens, Sober &amp; discreet it is the first <hi rend="str">i</hi>offence of which he has even been charged in our county It will meet the universal approbation of the citizen of Grant should your Excellency remit so much of said fine as lies in your power to do.
+   <p>To <persName ref="cwgk:N00000258">His Excellency B MaGoffin</persName> Governor of <orgName ref="cwgk:O001025">Kentucky</orgName> Your Petitioners would respectfully represent that at the <hi rend="str">October</hi> <date when="1861-05">May Term of the Grant Circuit sourt 1861</date>. one Patrick Bannon was fined fifty Dollars for carrying concealed weapons: we think the assessment of s<hi rend="sup">d</hi> fine a great hardship upon Mr. Bannon He is a very quiet and Gentlemanly citizens, Sober &amp; discreet it is the first <hi rend="str">i</hi>offence of which he has even been charged in our county It will meet the universal approbation of the citizen of Grant should your Excellency remit so much of said fine as lies in your power to do.
 <lb/><date when="1861-10-29">Oct 29<hi rend="underline"><hi rend="sup">th</hi></hi> 18,61</date>.</p>
 <p>E F Nuttall
 <lb/>J, H, Webb
@@ -84,7 +84,7 @@
 <p>Grant Cir. ct</p>
 <p>Remitted
 <lb/>B. M</p>
-<p>&#36;50. &#125; Weapons
+<p>$50. } Weapons
 <lb/>P. Bannen</p>
 <p>Iss<hi rend="sup">d</hi> <date when="1861-11-02">Nov. 2 1861</date></p>
   </body>

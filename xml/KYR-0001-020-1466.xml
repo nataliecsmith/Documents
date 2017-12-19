@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1466"> 
  <teiHeader>
   <fileDesc>
@@ -63,8 +63,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>Florence Ky. <date when="1861-10-29">Octr 29<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>.
-<lb/>To Hon. B. Magoffin, Gov<hi rend="sup">r</hi> of Ky. </p>
+   <p>Florence <orgName ref="cwgk:O001025">Ky</orgName>. <date when="1861-10-29">Octr 29<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>.
+<lb/>To <persName ref="cwgk:N00000258">Hon. B. Magoffin</persName>, Gov<hi rend="sup">r</hi> of <orgName ref="cwgk:O001025">Ky</orgName>. </p>
 <p>Dr Sir. In August last The police court of this town imposed a fine of twenty dollars and costs upon Cornelius O'Hern, for giving whiskey to a negro man belonging to my father, Benj<hi rend="sup">n</hi> Dulaney. upon petition from the jury, judge &amp; citizens of this place, you were disposed to interpose your executive pardon so far as to respite all, save costs, for the term of twelve months. This gives him but temporary relief; and in a few months, that promise but faint hope of accumulating the Sum of twenty dollars by daily labor after providing for the Support of a large family, he will be subject to the collection of the fine. I will rehearse to you the circumstances of the case, and if compatible with your convictions of right and justice, would respectfully urge a total remission of the fine. O'Hern is a poor man-- depends entirely upon his manual labor for a Support for himself, wife and five children-- he is remarkably industrious-- he has worked more or less every year for years past for my father on the farm, and thus become well aquanted with the negroes. This Summer he engaged the boy to whom he gave the whiskey to cut him a piece of grass which my father had given him, and considered it no wrong to give him some spirits <hi rend="str">used</hi>to be used during the performance of the labor, as he knew that all the hands on the farm were ac-<pb/>
 <lb/>customed to their regular drams during the progress of harvest. Please give to this matter your immediate attention, for notwithstanding the object of this petition is an irishman and a Catholic, and I am one who was once and during the existance of the party a K. N. I will vouch for him being all right -- </p>
 <p>Very Respectfully Yours.
@@ -74,7 +74,7 @@
 <p>Florence Po. Ct</p>
 <p>Remitted 
 <lb/>B. M. </p>
-<p>&#36;20 &#125; giving liquor to slave
+<p>$20 } giving liquor to slave
 <lb/>C. O'Hern
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-11-01">Nov, 1. 1861</date></p>
   </body>

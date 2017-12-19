@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0014"> 
  <teiHeader>
   <fileDesc>
@@ -63,19 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>War Department,
-<lb/>ADJUTANT GENERAL'S OFFICE,
+   <p><orgName ref="cwgk:O00005118">War Department</orgName>,<lb/>ADJUTANT GENERAL'S OFFICE,
 <lb/>Washington, D.C., <date when="1864-01-15">Jan'y 15. 1864.</date>
 <lb/>His Excellency,
-<lb/>The Governor of Kentucky,
-<lb/>Frankfort Ky,
-<lb/>Sir,</p>
-<p>I am directed to notify you that the disability resting upon Mr, George W, Sweeney, on account of his discharge from the service, as Captain of the 1<hi rend="underline"><hi rend="sup">st</hi></hi> Kentucky Cavalry, is removed and he is hereby authorized to re-enter the service if a new Commission be given him.</p>
+<lb/>The <persName ref="cwgk:N001000">Governor of Kentucky,</persName><lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName>,<lb/>Sir,</p>
+<p>I am directed to notify you that the disability resting upon Mr, <persName ref="cwgk:N00005760">George W. Sweeney</persName>, on account of his discharge from the service, as Captain of the 1<hi rend="underline"><hi rend="sup">st</hi></hi> Kentucky Cavalry, is removed and he is hereby authorized to re-enter the service if a new Commission be given him.</p>
 <p>I have the honor to be, Sir,
 <lb/>Very respectfully,
 <lb/>your obed<hi rend="underline"><hi rend="sup">t</hi></hi> servant
-<lb/>Thomas M Vincent
-<lb/>Asst. Adj<hi rend="underline"><hi rend="sup">t</hi></hi> General<pb/></p>
+<lb/><persName ref="cwgk:N00005761">Thomas M Vincent
+</persName><lb/>Asst. Adj<hi rend="underline"><hi rend="sup">t</hi></hi> General<pb/></p>
 <p><hi rend="underline">13</hi><hi rend="underline"><hi rend="sup">th</hi></hi><hi rend="underline"> C.</hi>
 <lb/>War Department
 <lb/>Adjutant General<hi rend="sup">s</hi> Office

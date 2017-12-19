@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0003"> 
  <teiHeader>
   <fileDesc>
@@ -63,16 +63,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Flemingsburg Ky
-<lb/><date when="1863-11-01">Novr 1<hi rend="sup">st</hi> 1863</date>
-<lb/>Governor Bramlette
-<lb/>Dear Sir</p>
-<p>Capt Wm E Rice who served as a Captain in the 10<hi rend="sup">th</hi> Ky Cavalry desires a Commission as Col of the Troops proposed to be raised for state defence under your late Proclamation.</p>
-<p>Captain Rice is a citizen of this County and acquired distinction for his galantry he was popular as an officer with his men and has been represented to me as a fine Disciplinarian</p>
+   <p><placeName ref="cwgk:P00000538">Flemingsburg Ky
+</placeName><lb/><date when="1863-11-01">Novr 1<hi rend="sup">st</hi> 1863</date>
+<lb/><persName ref="cwgk:N001000">Governor Bramlette
+</persName><lb/>Dear Sir</p>
+<p><persName ref="cwgk:N00000864">Capt Wm E Rice</persName> who served as a Captain in the 10<hi rend="sup">th</hi> Ky Cavalry desires a Commission as Col of the Troops proposed to be raised for state defence under your late Proclamation.</p>
+<p>Captain Rice is a citizen of this <placeName ref="cwgk:P00000542">County</placeName> and acquired distinction for his galantry he was popular as an officer with his men and has been represented to me as a fine Disciplinarian</p>
 <p>When the appointment is to be made it would be gratifying to many of<pb/>
 <lb/>your friends in this county if you would confer the appointment on <hi rend="str"><unclear/></hi>him. I am informed that such is the desire of citizens of Bath county as for as expressed among whom Capt Rice is well known and where as an officer much of his Service was renderd</p>
 <p>Verry Respectfully yours &amp;C
-<lb/>Wm S Botts.<pb/></p>
+<lb/><persName ref="cwgk:N00000867">Wm S Botts</persName>.<pb/></p>
 <p>General Bramlette
 <lb/>Dear Sir</p>
 <p>I am well acquainted with Capt W<hi rend="underline"><hi rend="sup">m</hi></hi> E. Rice He is a neighbour of mine -- I most cheerfully concur with Judge Botts and recomend him as worthy of a commission</p>
@@ -80,7 +80,7 @@
 <lb/>yours W<hi rend="underline"><hi rend="sup">m</hi></hi> Bell<pb/></p>
 <p>Govenor Bramblett
 <lb/>Dr Sir.</p>
-<p>Several of the lading Union men of Bath &amp; Mtgomery, wish me to be in command of the the forces raised for State defence which I will acept with commission<hi rend="str">ed</hi> to raise a full reg-: I belonged to the 10<hi rend="underline"><hi rend="sup">th</hi></hi> Ky ^Cavaly^ about fourteen months and souted all the eastern portion of the state and am very well acquainted ^with^ all portions of the state</p>
+<p>Several of the lading Union men of Bath &amp; <placeName ref="cwgk:P00000869">Mtgomery</placeName>, wish me to be in command of the the forces raised for State defence which I will acept with commission<hi rend="str">ed</hi> to raise a full reg-: I belonged to the 10<hi rend="underline"><hi rend="sup">th</hi></hi> Ky ^Cavaly^ about fourteen months and souted all the eastern portion of the state and am very well acquainted ^with^ all portions of the state</p>
 <p>Resp<hi rend="sup">ly</hi> &amp;C
 <lb/>W<hi rend="sup">m</hi> E Rice</p>
   </body>

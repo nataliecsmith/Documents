@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-102-0001"> 
  <teiHeader>
   <fileDesc>
@@ -44,7 +44,7 @@
       <settlement>Frankfort</settlement>
       <repository>Kentucky Historical Society</repository>
       <collection>Marc Mundy Promotion</collection>
-      <idno></idno>
+      <idno/>
      </msIdentifier>
     </msDesc>
    </sourceDesc>
@@ -65,8 +65,7 @@
    <p><note place="header">2)</note>
 <lb/>We the undersigned Citizens of Kentucky appreciating the services and sacrifices of Colonel Marc Mundy to the cause of the Federal Union, which has been second to no man in this broad Republic, respectfully solicit his promotion at the hands of the President of the United States to a rank befitting his ability and commensurate with his services and worth,</p>
 <p>Tho E Bramlette
-<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Kentucky
-<lb/>Richard T. Jacob
+<lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> <orgName ref="cwgk:O001025">Kentucky</orgName><lb/>Richard T. Jacob
 <lb/>Lt. Governor of Ky.
 <lb/>W R Kinney
 <lb/>Ky Legislature
@@ -88,8 +87,7 @@
 <lb/><hi rend="underline">John Boyle </hi>
 <lb/>Adjt. Genl. Ky. Vols -- 
 <lb/>S. G, Suddarth
-<lb/>Quarter Master Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of Kentucky
-<lb/>Jno C. Brent Major 9 Ky Cavalry
+<lb/>Quarter Master Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of <orgName ref="cwgk:O001025">Kentucky</orgName><lb/>Jno C. Brent Major 9 Ky Cavalry
 <lb/>W T Scott,
 <lb/>Pay Master General.
 <lb/>J T Faris Maj 9 Ky Cavalry

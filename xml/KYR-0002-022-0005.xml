@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0005"> 
  <teiHeader>
   <fileDesc>
@@ -63,18 +63,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Hickman Ky <date when="1863-10-19">Oct<hi rend="underline"><hi rend="sup">r</hi></hi> 19. 1863</date>.
-<lb/>His Excellency Thos E Bramlette
-<lb/>Governor of Kentucky
+   <p><placeName ref="cwgk:P00000878">Hickman Ky</placeName> <date when="1863-10-19">Oct<hi rend="underline"><hi rend="sup">r</hi></hi> 19. 1863</date>.
+<lb/>His Excellency <persName ref="cwgk:N001000">Thos E Bramlette
+</persName><lb/>Governor of Kentucky
 <lb/>Sir.</p>
-<p>I have only a few minutes since seen the Adjt Genl's Orders. in relation to the draft &amp;c: This measure is one of necessity and meets my most hearty approval. It is the only one calculated to preserve the integrity and <hi rend="underline">status of</hi> Kentucky, and should have been long since adopted. In no part of the State, is the plan of defense contemplated more needed than here.</p>
-<p>If I am not regarded as presumptuous, I will only say that if the appointment of Colonel is offered me, I will accept; but the time for raising a State Guard ought to be extended to some twenty days after the receipt of the Commission. My references are General Combs. Col Bolling, R K Williams Esq, Judge of the Court of Appeals. J. J. Miller Esq, the Messers Harlans, and almost any citizen of Frankfort.</p>
-<p>For Lieut Col. I would recommend Geo M Wilburn or W Frs Bucknor Esq. The later named gentleman is a civil engineer and a man of good capacity.</p>
+<p>I have only a few minutes since seen the <persName ref="cwgk:N00000879">Adjt Genl's</persName> Orders. in relation to the draft &amp;c: This measure is one of necessity and meets my most hearty approval. It is the only one calculated to preserve the integrity and <hi rend="underline">status of</hi> Kentucky, and should have been long since adopted. In no part of the State, is the plan of defense contemplated more needed than here.</p>
+<p>If I am not regarded as presumptuous, I will only say that if the appointment of Colonel is offered me, I will accept; but the time for raising a <orgName ref="cwgk:O00000303">State Guard</orgName> ought to be extended to some twenty days after the receipt of the Commission. My references are <persName ref="cwgk:N00000881">General Combs</persName>. <persName ref="cwgk:N00000882">Col Bolling</persName>, <persName ref="cwgk:N00000883">R K Williams</persName> Esq, Judge of the Court of Appeals. <persName ref="cwgk:N00000884">J. J. Miller</persName> Esq, <orgName ref="cwgk:O00000885">the Messers Harlans</orgName>, and almost any citizen of Frankfort.</p>
+<p>For Lieut Col. I would recommend <persName ref="cwgk:N00000886">Geo M Wilburn</persName> or W Frs Bucknor Esq. The later named gentleman is a civil engineer and a man of good capacity.</p>
 <p>With great respect
 <lb/>Your Obt Sevt
-<lb/>Geo C Hallet<pb/></p>
-<p>Fulton Ky -- 
-<lb/><date when="1863-10-20">Oct 26/63</date>
+<lb/><persName ref="cwgk:N00000888">Geo C Hallet</persName><pb/></p>
+<p><placeName ref="cwgk:P00000880">Fulton Ky</placeName> -- <lb/><date when="1863-10-20">Oct 26/63</date>
 <lb/>Recm"dg"</p>
   </body>
  </text>

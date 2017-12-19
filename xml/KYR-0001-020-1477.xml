@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1477"> 
  <teiHeader>
   <fileDesc>
@@ -62,7 +62,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>We the undercined Jurors, Petition His Honor B Maggofein Gov -- of Kentuck in caus of James W Dugan Defendent (vis) commonwealth of Kentucky. And say <hi rend="str">that</hi> to His Honor that we the undercined say that the fine of Eightteen Dollars aught to be Remited This <date when="1861-10-08">8<hi rend="sup">th</hi> day Oct 1861</date></p>
+   <p>We the undercined Jurors, Petition <persName ref="cwgk:N00000258">His Honor B Maggofein</persName> Gov -- of Kentuck in caus of James W Dugan Defendent (vis) commonwealth of <orgName ref="cwgk:O001025">Kentuck</orgName>y. And say <hi rend="str">that</hi> to His Honor that we the undercined say that the fine of Eightteen Dollars aught to be Remited This <date when="1861-10-08">8<hi rend="sup">th</hi> day Oct 1861</date></p>
 <p><milestone unit="column" n="2"/><cb n="1"/>T. Roberts
 <lb/>E. Jeffaries
 <lb/>R Kendall
@@ -75,8 +75,7 @@
 <lb/>J. W. Davis S J C
 <lb/>J. G Balu
 <lb/>G C Smoot<milestone unit="column" n="1"/><pb/></p>
-<p>Jefferson Co J. P. 
-<lb/>&#36;18
+<p><orgName ref="cwgk:O001839">Jefferson Co</orgName> J. P. <lb/>$18
 <lb/>J W. Dugan
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-26">Oct. 26 1861</date></p>
 <p>Respite 12 mo B. M</p>

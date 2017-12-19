@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1425"> 
  <teiHeader>
   <fileDesc>
@@ -63,14 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky
-<lb/>Taylor county</p>
-<p>E L Barbee states that he was attorney for James C Wood in a prosecution in the Taylor circuit court charged with maliciously stabbing Thos Cox, that he appeared for Wood before the court of inquiry and attended to having witnesses Summoned for him for the circuit court, that he remembered that one of the witnesses for the Comlth. on the inquiry stated that Cox had a knife drawn at the time he was stabed and affiant was under the impression that it was Joel Noel and had him Summoned for Deft, but after going into the trial he learned that he was mistaken, that Ed Yates was the witness who made the said statement, who was not in attendance, at the final trail that yates was not in consequence of said mistake summoned for Deft, that he had been summond for comlth and was recognised, but did not attend, he further<pb/>
+   <p><placeName ref="cwgk:P001800">State of Kentucky
+</placeName><lb/>Taylor county</p>
+<p>E L Barbee states that he was attorney for <persName ref="cwgk:N00007673">James C Wood</persName> in a prosecution in the <orgName ref="cwgk:O00000579">Taylor circuit court</orgName> charged with maliciously stabbing <persName ref="cwgk:N00007675">Thos Cox</persName>, that he appeared for Wood before the court of inquiry and attended to having witnesses Summoned for him for the circuit court, that he remembered that one of the witnesses for the Comlth. on the inquiry stated that Cox had a knife drawn at the time he was stabed and affiant was under the impression that it was <persName ref="cwgk:N00007680">Joel Noel</persName> and had him Summoned for Deft, but after going into the trial he learned that he was mistaken, that <persName ref="cwgk:N00007681">Ed Yates</persName> was the witness who made the said statement, who was not in attendance, at the final trail that yates was not in consequence of said mistake summoned for Deft, that he had been summond for comlth and was recognised, but did not attend, he further<pb/>
 <lb/>States that he was the only attorney Deft wood had employed and that he wood had no friend or relations who paid any attention to the preparation of his case and believes that he did not have a fair chance on account of having friends to procure the attendance of his witnesses Deft being in jail and having no chance himself to get them</p>
 <p>E L Barbee </p>
 <p>Sworn to by E L Barbee before me this <date when="1861-09-16">16th of Sept 1861</date></p>
-<p>Geo. W. Montague Clk
-<lb/>Taylor Circuit Court</p>
+<p><persName ref="cwgk:N00003561">Geo. W. Montague</persName> Clk<lb/>Taylor Circuit Court</p>
 <p>Jas C Wood
 <lb/>Petition
 <lb/>affidavit of E L Barbee</p>

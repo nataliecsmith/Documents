@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0037"> 
  <teiHeader>
   <fileDesc>
@@ -63,19 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p><figure type="seal"><ab>UNITED WE STAND, DIVIDED WE FALL.
-<lb/>KENTUCKY.</ab></figure>
-<lb/>Head-Quarters Kentucky Volunteers,
-<lb/>ADJUTANT GENERAL'S OFFICE,
-<lb/>Frankfort, <date when="1864-04-09">April 9 1864.</date></p>
+   <p>
+<placeName ref="cwgk:P001800">KENTUCKY</placeName>.<lb/>Head-Quarters <orgName ref="cwgk:O00000870">Kentucky Volunteers</orgName>,<lb/><orgName ref="cwgk:O00000388">ADJUTANT GENERAL'S OFFICE</orgName>,<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <date when="1864-04-09">April 9 1864.</date></p>
 <p>SPECIAL ORDERS,
 <lb/>NO. 26. </p>
 <p>The resignation of the following named Officer is hereby accepted to take effect from this date-</p>
-<p><hi rend="underline">James H. Holloway</hi>
-<lb/><hi rend="underline">Colonel 48' Reg</hi><hi rend="underline"><hi rend="sup">t</hi></hi><hi rend="underline"> E M</hi>,</p>
-<p>By command of the Governor:
-<lb/><hi rend="underline">John Boyle</hi>
-<lb/>Adjutant General of Kentucky.</p>
+<p>
+<persName ref="cwgk:N00002858">James H. Holloway</persName><lb/><hi rend="underline">Colonel 48' Reg</hi><hi rend="underline"><hi rend="sup">t</hi></hi><hi rend="underline"> E M</hi>,</p>
+<p>By command of the <persName ref="cwgk:N001000">Governor</persName>:<lb/>
+<persName ref="cwgk:N00000879">John Boyle</persName><lb/>Adjutant General of Kentucky.</p>
 <p>Gen<hi rend="sup">l.</hi> D. W. Lindsey
 <lb/>Insp<hi rend="sup">r.</hi> Gen<hi rend="sup">l.</hi><pb/></p>
 <p>48 EM</p>

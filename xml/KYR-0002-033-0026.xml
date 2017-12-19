@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0026"> 
  <teiHeader>
   <fileDesc>
@@ -63,15 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Irvine Ky
-<lb/><date when="1864-04-07">April 7" 1864</date>.
-<lb/><unclear>G</unclear>ov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramlette</p>
-<p>Sir -- several weeks ago -- I started recommendations for officers of my Regiment -- But suppose they never reached you. I have the honor to again recommend 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt Samuel Belden of Company "B" to <hi rend="str">the</hi> be promoted to Captain of same Co 1<hi rend="sup">st</hi> Ky Cav <hi rend="underline">vice</hi> "Drye" promoted, also 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt Vincent Peyton to the rank of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt same company and orderly Serg<hi rend="underline"><hi rend="sup">t</hi></hi> Stephen G Averitt to be made 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt. same company. The aggregate strength of said Company is Eighty-nine (89) enlisted men.</p>
-<p>I have the honor also to recommend to you for promotion 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt James. S. Pankey of Company "I" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be promoted to the rank of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt same Company vice Scott resigned. And orderly serg<hi rend="underline"><hi rend="sup">t</hi></hi> Thomas Graves to be made 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt same Company. The aggregate strength of Co "I" is forty four "44".</p>
+   <p><placeName ref="cwgk:P00005642">Irvine Ky
+</placeName><lb/><date when="1864-04-07">April 7" 1864</date>.
+<lb/><unclear>G</unclear>ov<hi rend="underline"><hi rend="sup">r</hi></hi> <persName ref="cwgk:N001000">Bramlette</persName></p>
+<p>Sir -- several weeks ago -- I started recommendations for officers of my Regiment -- But suppose they never reached you. I have the honor to again recommend 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt <persName ref="cwgk:N00005147">Samuel Belden</persName> of Company "B" to <hi rend="str">the</hi> be promoted to Captain of same Co 1<hi rend="sup">st</hi> Ky Cav <hi rend="underline">vice</hi> "<persName ref="cwgk:N00005237">Drye</persName>" promoted, also 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt <persName ref="cwgk:N00005153">Vincent Peyton</persName> to the rank of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt same company and orderly Serg<hi rend="underline"><hi rend="sup">t</hi></hi> <persName ref="cwgk:N00005798">Stephen G Averitt </persName>to be made 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt. same company. The aggregate strength of said Company is Eighty-nine (89) enlisted men.</p>
+<p>I have the honor also to recommend to you for promotion 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt <persName ref="cwgk:N00005163">James. S. Pankey </persName>of Company "I" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav to be promoted to the rank of 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt same Company vice Scott resigned. And orderly serg<hi rend="underline"><hi rend="sup">t</hi></hi> <persName ref="cwgk:N00005771">Thomas Graves</persName> to be made 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lt same Company. The aggregate strength of Co "I" is forty four "44".</p>
 <p>I am very Resptly
 <lb/>your ob<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
-<lb/>S. Adams Lt Col
-<lb/>1<hi rend="sup">st</hi> Ky Cavl<pb/></p>
+<lb/><persName ref="cwgk:N00005138">S. Adam</persName>s Lt Col<lb/>1<hi rend="sup">st</hi> Ky Cavl<pb/></p>
 <p>Irvine Ky
 <lb/><date when="1864-04-07">April 7<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
 <lb/>1 <hi rend="underline">Cav</hi><hi rend="underline"><hi rend="sup">y</hi></hi><figure type="hr"/>

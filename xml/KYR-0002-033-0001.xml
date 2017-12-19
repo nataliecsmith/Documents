@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0001"> 
  <teiHeader>
   <fileDesc>
@@ -63,13 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Allatoona Geo
-<lb/><date when="1864-06-05">June 5" 1864</date>.
-<lb/>E. F. Vanwinkle
-<lb/>Dear sir,</p>
-<p>I have just sent on a petition signed by all the officers of the 1<hi rend="underline"><hi rend="sup">st</hi></hi>, to Gov Bramlette, to have Lt Col Adams <hi rend="str">Adams</hi> Commissioned Col of the Regiment. please let me know by letter immediately if the Gov-- will Commission any one as Colonel, as we want to make Capt Keene Major of the Regiment as soon as a vacancy occurs. if Adams is promoted there will then be two vacancies and Keene and Capt. Rowland can both be made Majors. How is the enlistment of six months men getting along, what is Wolford doing. is there a chance for me to raise a Regiment in Ky. what have you and Fox done towards getting Law License for me, all the 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky send their regards to you,</p>
+   <p><placeName ref="cwgk:P00005135">Allatoona Geo
+</placeName><lb/><date when="1864-06-05">June 5" 1864</date>.
+<lb/><persName ref="cwgk:N001777">E. F. Vanwinkle
+</persName><lb/>Dear sir,</p>
+<p>I have just sent on a petition signed by all the officers of the 1<hi rend="underline"><hi rend="sup">st</hi></hi>, to <persName ref="cwgk:N001000">Gov Bramlette</persName>, to have <persName ref="cwgk:N00005138">Lt Col Adams</persName> <hi rend="str">Adams</hi> Commissioned Col of the Regiment. please let me know by letter immediately if the Gov-- will Commission any one as Colonel, as we want to make <persName ref="cwgk:N00005139">Capt Keene Major</persName> of the Regiment as soon as a vacancy occurs. if Adams is promoted there will then be two vacancies and Keene and Capt. Rowland can both be made Majors. How is the enlistment of six months men getting along, what is <persName ref="cwgk:N00005137">Wolford</persName> doing. is there a chance for me to raise a Regiment in <placeName ref="cwgk:P001800">Ky.</placeName> what have you and <persName ref="cwgk:N00002352">Fox </persName>done towards getting Law License for me, all the 1<hi rend="underline"><hi rend="sup">st</hi></hi> <placeName ref="cwgk:P001800">Ky.</placeName>send their regards to you,</p>
 <p>Ever your friend
-<lb/>W. D. Carpenter,</p>
+<lb/><persName ref="cwgk:N00005141">W. D. Carpenter</persName>,</p>
 <p><note place="left margin">The 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky numbers over one Thousand men now and I think we should have the full no of officers allowed us,</note></p>
   </body>
  </text>

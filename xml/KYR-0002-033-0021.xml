@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0021"> 
  <teiHeader>
   <fileDesc>
@@ -63,13 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>HEAD QUARTERS, DEPARTMENT OF THE OHIO.
-<lb/><hi rend="italic">Cincinnati, Ohio</hi>, <date when="1863-07-15">July 15<hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="italic">1863</hi></date>.
+   <p><orgName ref="cwgk:O001001">HEAD QUARTERS, DEPARTMENT OF THE OHIO</orgName>.<lb/>, <placeName ref="cwgk:P00001208">Cincinnati, Ohio</placeName><date when="1863-07-15">July 15<hi rend="underline"><hi rend="sup">th</hi></hi> <hi rend="italic">1863</hi></date>.
 <lb/>SPECIAL ORDERS,
 <lb/>No. 266,</p>
 <p>4 ,, ,, ,, The resignation of 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Lieutenant <hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> B. Kelly</hi>, 1<hi rend="sup">st</hi> Regiment, Cavalry. Kentucky volunteers, is, for the good of the service, hereby accepted to take effect on the seventeenth <date when="1863-07-17">(17) day of July 1863</date>.</p>
-<p>BY ORDER OF MAJOR GENERAL BURNSIDE.
-<lb/>R. H J Goddard
+<p>BY ORDER OF MAJOR GENERAL <persName ref="cwgk:N00005702">BURNSIDE.</persName><lb/>R. H J Goddard
 <lb/>Acting Assistant Adjutant General. </p>
 <p>1. 2. 3. 4. 5. 6.</p>
 <p>date of Com.

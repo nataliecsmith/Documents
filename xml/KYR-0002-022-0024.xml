@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0024"> 
  <teiHeader>
   <fileDesc>
@@ -63,19 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Headquarters Kentucky Volunteers,
-<lb/>Adjutant=General's Office,
-<lb/>Frankfort, <date when="1864-10-19">Oct 19<hi rend="sup">th</hi>, 1864</date>.
+   <p>Headquarters <orgName ref="cwgk:O00000870">Kentucky Volunteers</orgName>,<lb/><orgName ref="cwgk:O00000388">Adjutant=General's Office</orgName>,<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <date when="1864-10-19">Oct 19<hi rend="sup">th</hi>, 1864</date>.
 <lb/>Maj. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> S. G. Burbridge
-<lb/>Comd'g Dist of Ky
-<lb/>Lexington Ky
-<lb/>General,</p>
-<p>On the <date when="1864-10-04">4<hi rend="sup">th</hi> inst</date> I received letters written by V. P. Allen of Ohio county, and capt Jno. R. Byers of Grayson County addressed to you and by you referred to his Excellency Governor Bramlette complaining of the actions of one Capt. Johnson in taking the lions share of property captured. Immediately upon the receipt of said letters, I made an investigation of the matter, and could find no authority emanating from this Department constituting him an officer of the Militia of Grayson county. I therefore issued Special Order No 67 (copy inclosed) to Col P. G. Reese of the Grayson Militia to take possession of all property captured by Capt Johnson or any other Home or State Guard organization of Grayson Co.<pb/>
+<lb/>Comd'g <orgName ref="cwgk:O00000273">Dist of Ky</orgName><lb/><placeName ref="cwgk:P001002">Lexington Ky</placeName><lb/>General,</p>
+<p>On the <date when="1864-10-04">4<hi rend="sup">th</hi> inst</date> I received letters written by <persName ref="cwgk:N00001145">V. P. Allen</persName> of <placeName ref="cwgk:P00001144">Ohio county</placeName>, and <persName ref="cwgk:N00001146">capt Jno. R. Byers</persName> of <placeName ref="cwgk:P00000940">Grayson County</placeName> addressed to you and by you referred to his Excellency <persName ref="cwgk:N001000">Governor Bramlette</persName> complaining of the actions of one <persName ref="cwgk:N00000943">Capt. Johnson</persName> in taking the lions share of property captured. Immediately upon the receipt of said letters, I made an investigation of the matter, and could find no authority emanating from this Department constituting him an officer of the <orgName ref="cwgk:O00001142">Militia of Grayson county</orgName>. I therefore issued Special Order No 67 (copy inclosed) to <persName ref="cwgk:N00000941">Col P. G. Reese</persName> of the Grayson Militia to take possession of all property captured by Capt Johnson or any other <orgName ref="cwgk:O00000902">Home</orgName> or <orgName ref="cwgk:O00000303">State Guard</orgName> organization of Grayson Co.<pb/>
 <lb/>and send an inventory to Brig. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> S. G. Suddarth, Quarter Master Gen<hi rend="underline"><hi rend="sup">l</hi></hi> of Ky, who would in return give him full instructions as to its disposition. The same order required Capt Johnson to show his authority for forming an Independent company. Col Reese has forwarded to me copies of said authority, a copy of which I inclose herein, as well as an order directing disposition to be made of captured property. I have endeavered, and I think have quite successfully restrained acts of lawlessness on the part of our state Guards, I therefore respectfully remonstrate against the appointing of captains of Indep<hi rend="sup">t</hi> companies by Gen<hi rend="sup">l</hi> Ewing, and <hi rend="underline">especially</hi> vesting them with such plenary power as given to Johnson. It will be impossible to restrain men from acts of violence and disregard of all law, whose services are to be rewarded by the plunder captured. I therefore ernestly request that you will render us your assistance in restraining these irregular issues of authority.<pb/></p>
 <p>Very Respectfully
 <lb/>Your Obd<hi rend="underline"><hi rend="sup">t</hi></hi> Serv<hi rend="underline"><hi rend="sup">t</hi></hi>
-<lb/>(Signed) D. W. Lindsey
-<lb/>Insp. &amp; Adj. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky-</p>
+<lb/>(Signed) <persName ref="cwgk:N00000873">D. W. Lindsey</persName><lb/>Insp. &amp; Adj. Gen<hi rend="underline"><hi rend="sup">l</hi></hi> Ky-</p>
 <p>A true copy
 <lb/>Jn<hi rend="sup">o</hi> B. Tilford Jr
 <lb/>Asst Adjt Gen<hi rend="underline"><hi rend="sup">l</hi></hi></p>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0035"> 
  <teiHeader>
   <fileDesc>
@@ -63,11 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Madisonville Hopkins County Ky <date when="1863-10-15">15<hi rend="sup">th</hi> Octr 1863</date>
+   <p><placeName ref="cwgk:P00002614">Madisonville Hopkins County Ky</placeName> <date when="1863-10-15">15<hi rend="sup">th</hi> Octr 1863</date>
 <lb/>His Excellency Tho<hi rend="sup">s</hi> E. Bramlett Governer of Ky
 <lb/>Dear Sir</p>
 <p>In your proclamation of the <date when="---09">9<hi rend="sup">th</hi> Int</date> you request some friend of his country to recommend some suitable persons for colonel and Lieutenant Col for there county</p>
-<p>We the undersigned would respectfully recommend Thomas W. Campbell for Colonel of this Hopkins County Ky and Richard L. Peyton for Lieutenant Colonel we are respectfully</p>
+<p>We the undersigned would respectfully recommend <persName ref="cwgk:N00002619">Thomas W. Campbell</persName> for Colonel of this <placeName ref="cwgk:P00002615">Hopkins County Ky</placeName> and <persName ref="cwgk:N00002622">Richard L. Peyton</persName> for Lieutenant Colonel we are respectfully</p>
 <p>yours
 <lb/>James W. Wilkins
 <lb/>Otway Waddell
@@ -78,8 +78,8 @@
 <lb/>Richard L Peyton Lt Col
 <lb/>Citizens<figure type="hr"/></p>
 <p>Issue,
-<lb/><hi rend="underline">Boyle</hi>
-<lb/>Issued 47, 284</p>
+<lb/>
+<persName ref="cwgk:N00000879">Boyle</persName><lb/>Issued 47, 284</p>
   </body>
  </text>
 </TEI>

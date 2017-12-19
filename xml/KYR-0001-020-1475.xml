@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1475"> 
  <teiHeader>
   <fileDesc>
@@ -63,9 +63,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Scott County Ky -- <date when="1861-10-09">Oct 9<hi rend="sup">th</hi> 1861</date>
-<lb/>To his Excellency Beriah Magoffin-</p>
-<p>The undersigned citizens of Scott county- recommend to your clemency Sanferd Chowning -- who at the November term of the Scott Circuit court was found guilty of keeping a tipling house and fined Sixty Dollars -- </p>
+   <p><placeName ref="cwgk:P001030">Scott County Ky</placeName> -- <date when="1861-10-09">Oct 9<hi rend="sup">th</hi> 1861</date>
+<lb/>To <persName ref="cwgk:N00000258">his Excellency Beriah Magoffin</persName>-</p>
+<p>The undersigned citizens of Scott county- recommend to your clemency Sanferd Chowning -- who at the November term of the <orgName ref="cwgk:O00000576">Scott Circuit court</orgName> was found guilty of keeping a tipling house and fined Sixty Dollars -- </p>
 <p><hi rend="str">The circumstances of the f<unclear/> case was not agravtating -- and grew out of an ignorance of the hability of Chowning</hi> -- ^Chowning^ <hi rend="str">who</hi> is a poor man -- and will be greatly distressed at this time by the enforcing of the Judgement -- </p>
 <p>James Y Kelly
 <lb/>Bat T Thompson

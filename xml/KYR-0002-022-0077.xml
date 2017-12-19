@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-022-0077"> 
  <teiHeader>
   <fileDesc>
@@ -63,11 +63,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>In camp Louisa Ky <date when="1864-06-27">June 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
+   <p>In camp <placeName ref="cwgk:P00000553">Louisa Ky</placeName> <date when="1864-06-27">June 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
 <lb/>His Excelency
-<lb/>Thos C. Bramlett
-<lb/>Govenor of Ky</p>
-<p>Dear Sir we the undersigned citizens of Johnson County State of Ky Betwen the ages of eighteen and forty five and now in the Military service of Ky camped at Louisa Ky Respectfuly represents and showeth that we are not satisfied with our present Colonel Burgess Preston who was appointed to said position we therefore ask that we have the privilege of exercising our Election Franchise and choosing from among our ranks at our <date when="1864-08">next august</date> Election a Colonel and Lieutenat Colonel If not incompatible with the public interest this we claim as our privilege If it does not work detrimental to the great cause in which our national arms are now <hi rend="str">stringling</hi> strugling we do not petition thus on account of any charge against our present colonel or any that could be made for we look upon him as Being above reproache but only<pb/>
+<lb/><persName ref="cwgk:N001000">Thos C. Bramlett</persName><lb/>Govenor of Ky</p>
+<p>Dear Sir we the undersigned citizens of <placeName ref="cwgk:P00002566">Johnson County</placeName> State of Ky Betwen the ages of eighteen and forty five and now in the Military service of Ky camped at Louisa <placeName ref="cwgk:P001800">Ky</placeName> Respectfuly represents and showeth that we are not satisfied with our present Colonel <persName ref="cwgk:N00007997">Burgess Preston</persName> who was appointed to said position we therefore ask that we have the privilege of exercising our Election Franchise and choosing from among our ranks at our <date when="1864-08">next august</date> Election a Colonel and Lieutenat Colonel If not incompatible with the public interest this we claim as our privilege If it does not work detrimental to the great cause in which our national arms are now <hi rend="str">stringling</hi> strugling we do not petition thus on account of any charge against our present colonel or any that could be made for we look upon him as Being above reproache but only<pb/>
 <lb/>that we may have a choice at the Ballot Box who it is that shall be our Military commander</p>
 <p><hi rend="str">Respectfully</hi> If these are our rights we Respectfully ask them If not we humbly acquiesse as loyal citizens to the laws of our country</p>
 <p>Respectfully Yours
@@ -78,9 +77,7 @@
 <lb/>John H Dixon
 <lb/>W J Conley
 <lb/>Wiley Davis
-<lb/>C G Rule
-<lb/>John Turner
-<lb/>Wiley Hammons
+<lb/><persName ref="cwgk:N00006289">C G Rule</persName><lb/><persName ref="cwgk:N00006914">John Turner</persName><lb/>Wiley Hammons
 <lb/>Charles Fitchpatrick
 <lb/>George. N. Blair
 <lb/>B L Davis
@@ -111,8 +108,7 @@
 <lb/>Peter G Cunningham 
 <lb/>Silas J Short
 <lb/>Isam Pritchet<pb/>
-<lb/><cb n="1"/>G. W. Brown
-<lb/>Wm Butcher
+<lb/><cb n="1"/><persName ref="cwgk:N00006287">G. W. Brown</persName><lb/>Wm Butcher
 <lb/>James Wells
 <lb/>Wm A Wells
 <lb/>James H Mollett
@@ -120,12 +116,9 @@
 <lb/>Wm Sparks
 <lb/>Andrew R Musick
 <lb/>Thompson Ward
-<lb/>Calven Aursburn
-<lb/>R, M, Wells
-<lb/>J B Vanhoose
-<lb/>Elisha <unclear/>
-<lb/>Moses D Vanhoose
-<lb/>george W danels
+<lb/><persName ref="cwgk:N00007998">Calven Aursburn</persName><lb/>R, M, Wells
+<lb/><persName ref="cwgk:N00008000">J B Vanhoose</persName><lb/>Elisha <unclear/>
+<lb/><persName ref="cwgk:N00008001">Moses D Vanhoose</persName><lb/>george W danels
 <lb/>James Cassel
 <lb/>James Vanhoose
 <lb/>Levi Vanhoose
@@ -171,8 +164,7 @@
 <lb/>frankling Price
 <lb/>H,, J,, <unclear>Howes</unclear>
 <lb/>Martin Wheeler
-<lb/>C. C, Price
-<lb/>Daniel A, Ward
+<lb/><persName ref="cwgk:N00007996">C. C. Price</persName><lb/>Daniel A, Ward
 <lb/>William Bordrs
 <lb/>William Woodes
 <lb/>H M Melvin
@@ -201,8 +193,7 @@
 <lb/>William C Lemaster
 <lb/>James, V, obrine
 <lb/>Peter Collins
-<lb/>Nathaniel PSimer
-<lb/>Isaac Whiten
+<lb/><persName ref="cwgk:N00006991">Nathaniel PSimer</persName><lb/>Isaac Whiten
 <lb/>John,, L. Blair
 <lb/>Daniel Wheeler
 <lb/>Wallis, B, Arms
