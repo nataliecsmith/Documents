@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0086"> 
  <teiHeader>
   <fileDesc>
@@ -63,11 +63,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>24 Pine street New York
-<lb/><date when="1861-02-26">26 Feb'y 1861</date>
-<lb/>Messrs Kinkead &amp; Barr.
-<lb/>Gentlemen.</p>
-<p>Your favors of the <date when="1861-02-01">1st</date> and <date when="1861-02-23">23<hi rend="underline"><hi rend="sup">d</hi></hi></date> of Feb'y are received and I am much obliged to you for the trouble you have taken. I enclose you an aff't and the &#36;5. fee which are to be forwarded to the Sec'y of State of Kentucky-</p>
+   <p>24 Pine street <placeName ref="cwgk:P001007">New York</placeName><lb/><date when="1861-02-26">26 Feb'y 1861</date>
+<lb/>Messrs <orgName ref="cwgk:O00002526">Kinkead &amp; Barr</orgName>.<lb/>Gentlemen.</p>
+<p>Your favors of the <date when="1861-02-01">1st</date> and <date when="1861-02-23">23<hi rend="underline"><hi rend="sup">d</hi></hi></date> of Feb'y are received and I am much obliged to you for the trouble you have taken. I enclose you an aff't and the $5. fee which are to be forwarded to the Sec'y of State of Kentucky-</p>
 <p>Mr Hoffman will send you in a few days the draft for the collection concerning which he wrote you a short time ago.</p>
 <p>Very truly yours
 <lb/>Thomas Darlington</p>
