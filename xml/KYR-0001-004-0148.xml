@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0148"> 
  <teiHeader>
   <fileDesc>
@@ -63,10 +63,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency Thos. E. Bramlette Governor of The Commonwealth of Kentucky.</p>
-<p>your petitioner John Moore respectfully represents to your Excellency that at the <date when="1863-02">February term 1863</date> of the Franklin Circuit Court, one Henry Woodward was fined the sum of &#36;100. for an assault &amp; battery on one Moses Glore &amp; family-</p>
-<p>The said Woodward being a youth under twenty one years of age, and a nephew of your petitioner's wife, your petitioner, together with Lucy Moore &amp; Frank Patterson replevied said fine as the securities of said Woodward-</p>
-<p>An execution has issued on said replevin bond and is now in the hands of the sheriff of Franklin County for collection, and he will be compeled to pay the same unless relieved by your Excellency-</p>
+   <p>To His Excellency <persName ref="cwgk:N001000">Thos. E. Bramlette</persName> Governor of The Commonwealth of Kentucky.</p>
+<p>your petitioner <persName ref="cwgk:N00001587">John Moore</persName> respectfully represents to your Excellency that at the <date when="1863-02">February term 1863</date> of the <orgName ref="cwgk:O00000376">Franklin Circuit Court</orgName>, one <persName ref="cwgk:N00001588">Henry Woodward</persName> was fined the sum of $100. for an assault &amp; battery on one Moses Glore &amp; family-</p>
+<p>The said Woodward being a youth under twenty one years of age, and a nephew of your petitioner's wife, your petitioner, together with <persName ref="cwgk:N00001591">Lucy Moore</persName> &amp; <persName ref="cwgk:N00001592">Frank Patterson</persName> replevied said fine as the securities of said Woodward-</p>
+<p>An execution has issued on said replevin bond and is now in the hands of <persName ref="cwgk:N00001593">the sheriff of Franklin County</persName> for collection, and he will be compeled to pay the same unless relieved by your Excellency-</p>
 <p>He states that he is a very poor man, dependent alone upon his daily labor for his support, and could not pay said fine and costs without a ruinous sacrifice of what little property he <hi rend="str">has</hi>possesses- He states that he has a wife and seven small children dependent entirely upon him for a support-</p>
 <p>That neither said Woodward nor the other two securities have any means or estate out of which any part of said fine can be made- and the whole will fall upon him-</p>
 <p>He states that he has always been an industrious peaceable &amp; good citizen, and had no connection whatever with the offense for<pb/>
@@ -79,103 +79,70 @@
 <lb/>1863</note></p>
 <p>Subscribed &amp; sworn to before me by John Moore this <date when="1863-10-27">27th of October 1863</date>.</p>
 <p>L. Hord Examiner
-<lb/>Franklin County<pb/></p>
+<lb/><placeName ref="cwgk:P001019">Franklin County</placeName><pb/></p>
 <p>The undersigned citizens of Franklin county state that they are acquainted with the petitioner John Moore, Know him to be an industrious peaceable and good citizen, believe the statements contained in his petition to be true, and respectfully ask his Excellency Governor Bramlette to remit the fine as asked in said petition -- </p>
-<p><milestone unit="column" n="2"/><cb n="1"/>R E Collins
-<lb/>G. W. Craddock
-<lb/>E. H. Watson
-<lb/>M. Brown
-<lb/><hi rend="underline">Rich. H. Taylor</hi>
-<lb/>J C Coleman
-<lb/>J T Gray
-<lb/>J. H Bayer
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00001595">R E Collins</persName><lb/><persName ref="cwgk:N00001597">G. W. Craddock</persName><lb/><persName ref="cwgk:N00001599">E. H. Watson
+</persName><lb/><persName ref="cwgk:N00001601">M. Brown</persName><lb/>
+<persName ref="cwgk:N00001603">Rich. H. Taylor</persName><lb/><persName ref="cwgk:N00001606">J C Coleman</persName><lb/><persName ref="cwgk:N00001608">J T Gray</persName><lb/>J. H Bayer
 <lb/>H. R. <unclear/>
 <lb/><hi rend="underline">J, A, Crittendene</hi>
-<lb/>S, M, Noel
-<lb/>W H Gay
+<lb/><persName ref="cwgk:N00001616">S. M. Noel
+</persName><lb/>W H Gay
 <lb/>H B Innis
-<lb/>Nelson Alley
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H Greenup
-<lb/>William. T. Bacon
-<lb/>John Whitehead
+<lb/><persName ref="cwgk:N00001622">Nelson Alley</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> H Greenup
+<lb/><persName ref="cwgk:N00001625">William. T. Bacon</persName><lb/>John Whitehead
 <lb/>Ja<hi rend="sup">s</hi>, P, O'Hara
-<lb/>Thomas Heffner
-<lb/>W<hi rend="sup">m</hi> B Tremere
-<lb/>A. G. Hodges
-<lb/><cb n="2"/>A W Vallandingham
-<lb/>E, H, Tell
-<lb/>E W M<hi rend="sup">c</hi>Daniel
+<lb/><persName ref="cwgk:N00001630">Thomas Heffner
+</persName><lb/>W<hi rend="sup">m</hi> B Tremere
+<lb/><persName ref="cwgk:N00001634">A. G. Hodges</persName><lb/><cb n="2"/>A W Vallandingham
+<lb/><persName ref="cwgk:N00001598">E. H. Tell</persName><lb/>E W M<hi rend="sup">c</hi>Daniel
 <lb/>M O paton
-<lb/>John OConnell
-<lb/><hi rend="underline">J. W. Pruett</hi>
+<lb/><persName ref="cwgk:N00001604">John OConnell</persName><lb/><hi rend="underline">J. W. Pruett</hi>
 <lb/>G H Chinn
-<lb/>Thos. Pogue
-<lb/>A, W, Brown
-<lb/>A Kahr
-<lb/>Zac Slone
-<lb/>Henry Brown
-<lb/>Mich<hi rend="underline"><hi rend="sup">l</hi></hi> Fox
-<lb/>B. F. Johnson
-<lb/>Jas S Sneed
-<lb/>G W Gwin
-<lb/>S. Black
-<lb/>Martin, Fahy
+<lb/><persName ref="cwgk:N00001609">Thos. Pogue</persName><lb/><persName ref="cwgk:N00001611">A. W. Brown</persName><lb/><persName ref="cwgk:N00001613">A Kahr
+</persName><lb/>Zac Slone
+<lb/><persName ref="cwgk:N00001617">Henry Brown
+</persName><lb/>Mich<hi rend="underline"><hi rend="sup">l</hi></hi> Fox
+<lb/><persName ref="cwgk:N00001621">B. F. Johnson</persName><lb/><persName ref="cwgk:N00000463">Jas S Sneed</persName><lb/>G W Gwin
+<lb/><persName ref="cwgk:N00001626">S. Black</persName><lb/>Martin, Fahy
 <lb/>J Harlan Jr
-<lb/>Henry J. Sheets
-<lb/>A H Rennick
-<lb/>R, Gillispie
-<lb/>O. Heffner
-<lb/>Thomas. I. Hutchison
-<lb/>W<hi rend="sup">m</hi> H Averill
+<lb/><persName ref="cwgk:N00001631">Henry J. Sheets
+</persName><lb/><persName ref="cwgk:N00001633">A H Rennick</persName><lb/><persName ref="cwgk:N00001635">R. Gillispie
+</persName><lb/><persName ref="cwgk:N00001636">O. Heffner</persName><lb/><persName ref="cwgk:N00001637">Thomas. I. Hutchison
+</persName><lb/>W<hi rend="sup">m</hi> H Averill
 <lb/>Thomas Poynter<pb/>
 <lb/><cb n="1"/>A. G. Carmack
 <lb/>J L Price
 <lb/><hi rend="underline">P, U,</hi> <hi rend="underline">Major</hi>
 <lb/>John H Crutcher
-<lb/>John R Graham
-<lb/>Edmond Burns
-<lb/><hi rend="underline">J. Swigert</hi>
-<lb/>John M. Hewitt
-<lb/>Benjamin Brown
-<lb/>A, B, Dooley
-<lb/>T, M, Taylor
+<lb/><persName ref="cwgk:N00001647">John R Graham</persName><lb/>Edmond Burns
+<lb/>
+<persName ref="cwgk:N00001651">J. Swigert</persName><lb/><persName ref="cwgk:N00001653">John M. Hewitt
+</persName><lb/><persName ref="cwgk:N00001655">Benjamin Brown</persName><lb/><persName ref="cwgk:N00001657">A. B. Dooley</persName><lb/>T, M, Taylor
 <lb/>S B Voris
-<lb/>Jas, O, Lynn
-<lb/>Oliver <unclear/>
-<lb/>J, T, Milam
-<lb/>W Taylor
-<lb/>John Sheets
-<lb/>James Rupe
-<lb/>Joseph Hamilton
-<lb/>H K Hamilton
-<lb/>John Polsgrove
-<lb/>Peter Smith
-<lb/>John J Sheets
-<lb/>A T Daugherty
-<lb/>John, P, Voris
-<lb/>Samul anderson
-<lb/>G W Rogers
-<lb/>LeRoy Wooldridge
+<lb/><persName ref="cwgk:N00001663">Jas. O. Lynn</persName><lb/>Oliver <unclear/>
+<lb/>J<persName ref="cwgk:N00001668">. T. Milam</persName><lb/><persName ref="cwgk:N00001669">W Taylor
+</persName><lb/><persName ref="cwgk:N00001671">John Sheets
+</persName><lb/><persName ref="cwgk:N00001673">James Rupe</persName><lb/><persName ref="cwgk:N00001674">Joseph Hamilton</persName><lb/><persName ref="cwgk:N00001675">H K Hamilton
+</persName><lb/><persName ref="cwgk:N00001676">John Polsgrove
+</persName><lb/><persName ref="cwgk:N00001677">Peter Smith</persName><lb/><persName ref="cwgk:N00001671">John J Sheets
+</persName><lb/><persName ref="cwgk:N00001678">A T Daugherty</persName><lb/><persName ref="cwgk:N00001679">John. P. Voris</persName><lb/>Samul anderson
+<lb/><persName ref="cwgk:N00001681">G W Rogers</persName><lb/>LeRoy Wooldridge
 <lb/>P, B, Pattie
 <lb/>James, A, Rankin,
-<lb/>Saml J Julian
-<lb/><cb n="2"/>Nelson Rosell
-<lb/>Oscar Sullenger
-<lb/>C Wright
-<lb/>Mikl Rine
-<lb/>Richard Armstrong
-<lb/>Ch<hi rend="sup"><unclear/></hi> G <unclear/>
+<lb/><persName ref="cwgk:N00001685">Saml J Julian</persName><lb/><cb n="2"/><persName ref="cwgk:N00001641">Nelson Rosell</persName><lb/>Oscar Sullenger
+<lb/><persName ref="cwgk:N00001644">C Wright
+</persName><lb/>Mikl Rine
+<lb/><persName ref="cwgk:N00001648">Richard Armstrong</persName><lb/>Ch<hi rend="sup"><unclear/></hi> G <unclear/>
 <lb/>H G Crutcher
 <lb/>James. Hulett
-<lb/>R E Crockett
-<lb/>H W Hulett
-<lb/>J, H, Reddick
-<lb/>J D Robinson
-<lb/>J H Miles
-<lb/>W B Moor
+<lb/><persName ref="cwgk:N00001656">R E Crockett</persName><lb/><persName ref="cwgk:N00001658">H W Hulett
+</persName><lb/><persName ref="cwgk:N00001660">J. H. Reddick</persName><lb/><persName ref="cwgk:N00001662">J D Robinson
+</persName><lb/><persName ref="cwgk:N00001664">J H Miles
+</persName><lb/>W B Moor
 <lb/>Charles, Pierce
-<lb/>William Warfield
-<lb/>Cha<hi rend="sup">s</hi>, W, Bradley<milestone unit="column" n="1"/></p>
+<lb/><persName ref="cwgk:N00001670">William Warfield
+</persName><lb/>Cha<hi rend="sup">s</hi>, W, Bradley<milestone unit="column" n="1"/></p>
 <p>Franklin Cir Ct
 <lb/>vs
 <lb/>John Moore's
