@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1429"> 
  <teiHeader>
   <fileDesc>
@@ -63,16 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky Madison Circuit Court
-<lb/><date when="1861-09">September Terme 1861</date> <date when="1861-09-17">September 17" 1861</date>
+   <p><placeName ref="cwgk:P001800">State of Kentucky</placeName> Madison Circuit Court<lb/><date when="1861-09">September Terme 1861</date> <date when="1861-09-17">September 17" 1861</date>
 <lb/>The Commonwealth of Kentucky Plantiff
-<lb/>against &#125; On Indictment (Murder)
-<lb/>Francis M Searcy Defendant</p>
-<p>The Judge of this Court having declined to sit in this case in consequence of his relationship to the deceased -- and all the Members of the Bar not of Counsel having declined to sit -- Ordered that these facts be certified to the Governor as the Statute requires -- </p>
+<lb/>against } On Indictment (Murder)
+<lb/><persName ref="cwgk:N00007837">Francis M Searcy</persName> Defendant</p>
+<p>The Judge of this Court having declined to sit in this case in consequence of his relationship to the deceased -- and all the Members of the Bar not of Counsel having declined to sit -- Ordered that these facts be certified to the <persName ref="cwgk:N00000258">Governor </persName>as the Statute requires -- </p>
 <p>A Copy
 <lb/>Att <hi rend="underline">J M Shackelford</hi> C M C C<pb/></p>
 <p>Commth of Ky
-<lb/>Vs &#125; Copy Order
+<lb/>Vs } Copy Order
 <lb/>Searcy F M<figure type="hr"/></p>
 <p>Issue Commission for Judge <hi rend="str">J. M.</hi>W. H. Burns to try the the case -- </p>
 <p>B. M</p>
