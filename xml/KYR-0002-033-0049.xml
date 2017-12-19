@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0049"> 
  <teiHeader>
   <fileDesc>
@@ -63,28 +63,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Bridgeport Alabama
-<lb/><date when="1864-03-12">March 12<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
-<lb/>Hon,, Thomas E. Bramlette,</p>
-<p>We the undersigned officers of the Second Regiment of Kentucky Cavalry Volunteers, cheerfully recommend Louis W, Little of Company "L" for promotion: he is well qualifed for advancement, by education and experience, and has faithfully discharged his duty as a soldier, for the last two and a half years, and has reenlisted as a Veteran Volunteer.</p>
+   <p><placeName ref="cwgk:P00006359">Bridgeport Alabama
+</placeName><lb/><date when="1864-03-12">March 12<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date>
+<lb/>Hon,, <persName ref="cwgk:N001000">Thomas E. Bramlette</persName>,</p>
+<p>We the undersigned officers of the S<orgName ref="cwgk:O00006165">econd Regiment of Kentucky Cavalry Volunteers</orgName>, cheerfully recommend <persName ref="cwgk:N00006360">Louis W. Little</persName> of Company "L" for promotion: he is well qualifed for advancement, by education and experience, and has faithfully discharged his duty as a soldier, for the last two and a half years, and has reenlisted as a Veteran Volunteer.</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>E. Watts, lt. Col Comdg Rgt.
-<lb/>Henry E Collins Major
-<lb/>W, H, Eifort Major
-<lb/>James A Warden Lt co "L"
-<lb/>Edward. B. Curran Lt Comdg Co "A" 2<hi rend="sup">nd</hi> Ky Cav
-<lb/>Granville J. Hasting Lt Comdg Co "G,"
-<lb/>L, H, <unclear>Pinckston</unclear> Captain 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Ky Cav -- 
-<lb/>William Arthur Capt
-<lb/>Co B 2<hi rend="underline"><hi rend="sup">d</hi></hi> Ky Cavalry
+<lb/><persName ref="cwgk:N00006361">Henry E Collins </persName>Major<lb/><persName ref="cwgk:N00006178">W. H. Eifort</persName> Major<lb/><persName ref="cwgk:N00006512">James A Warden </persName>Lt co "L"<lb/>Edward. B. Curran Lt Comdg Co "A" 2<hi rend="sup">nd</hi> Ky Cav
+<lb/><persName ref="cwgk:N00006514">Granville J. Hasting</persName> Lt Comdg Co "G,"<lb/>L, H, <unclear>Pinckston</unclear> Captain 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Ky Cav -- 
+<lb/><persName ref="cwgk:N00006516">William Arthur</persName> Capt<lb/>Co B 2<hi rend="underline"><hi rend="sup">d</hi></hi> Ky Cavalry
 <lb/>John E Stillwell
 <lb/>1<hi rend="underline"><hi rend="sup">st</hi></hi> Lieut Co D. 2<hi rend="underline"><hi rend="sup">nd</hi></hi> Ky Cav.
-<lb/><cb n="2"/>Geo. W. Griffiths Adjt.
-<lb/>A, S, Park Capt, Co, G, 2<hi rend="sup">d</hi> Ky Cavl
-<lb/>Owen Star Capt 2<hi rend="underline"><hi rend="sup">d</hi></hi> Ky Cav
-<lb/>Lieut T,, C,, Nall Comdg Co 'F'
-<lb/>Samuel Lyon Lieut Comdg Co "H"
-<lb/>William C Adams Lieut Comdg Co E
-<lb/>W, G, Rogers. 1<hi rend="sup">st</hi> Lieut &amp; Q. M,
+<lb/><cb n="2"/><persName ref="cwgk:N00006567">Geo. W. Griffiths </persName>Adjt.<lb/><persName ref="cwgk:N00006568">A. S. Park</persName> Capt, Co, G, 2<hi rend="sup">d</hi> Ky Cavl
+<lb/><persName ref="cwgk:N00006666">Owen Star </persName>Capt 2<hi rend="underline"><hi rend="sup">d</hi></hi> Ky Cav
+<lb/>Lieut <persName ref="cwgk:N00006667">T.. C.. Nall</persName> Comdg Co 'F'<lb/><persName ref="cwgk:N00006668">Samuel Lyon</persName> Lieut Comdg Co "H"<lb/><persName ref="cwgk:N00006669">William C Adams </persName>Lieut Comdg Co E<lb/><persName ref="cwgk:N00006180">W, G, Rogers</persName>. 1<hi rend="sup">st</hi> Lieut &amp; Q. M,
 <lb/>C. B. Ayars 1<hi rend="sup">st</hi> Lieut &amp; A, C, S,<milestone unit="column" n="1"/><pb/></p>
 <p>Bridgeport Ala
 <lb/><date when="1864-03-12">March 12<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date><figure type="hr"/>
