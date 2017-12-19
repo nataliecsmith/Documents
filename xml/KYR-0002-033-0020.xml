@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0020"> 
  <teiHeader>
   <fileDesc>
@@ -63,40 +63,33 @@
  </teiHeader>
  <text>
   <body>
-   <p>Cynthiana Ky <date when="1862-12-17">Dec 17<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
-<p>We the the true Union men of Harrison county would respectfully request that Capt James H. Coffman of Col Mundy's battalion of <hi rend="str">infantry</hi> Cavalry be promoted to colonel of a Ky cavalry regiment,</p>
-<p>His good conduct, his bravery and efficeincy as an officer while at Cumberland cap entitle him to promotion.</p>
+   <p><placeName ref="cwgk:P00005772">Cynthiana Ky</placeName> <date when="1862-12-17">Dec 17<hi rend="underline"><hi rend="sup">th</hi></hi> 1862</date></p>
+<p>We the the true Union men of <placeName ref="cwgk:P00002873">Harrison county</placeName> would respectfully request that Capt <persName ref="cwgk:N00005773">James H. Coffman </persName>of <persName ref="cwgk:N00005774">Col Mundy</persName>'s battalion of <hi rend="str">infantry</hi> Cavalry be promoted to colonel of a Ky cavalry regiment,</p>
+<p>His good conduct, his bravery and efficeincy as an officer while at <placeName ref="cwgk:P001829">Cumberland</placeName> cap entitle him to promotion.</p>
 <p>Capt, Coffman was raised in this county, we know him well, and would be gratified to hear of his promotion, knowing him to be worthy.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>Isaac Taylor 1<hi rend="underline"><hi rend="sup">rst</hi></hi> Lt Co.. D 1<hi rend="sup">rst</hi> Batt Ky Cav,
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00005775">Isaac Taylor</persName> 1<hi rend="underline"><hi rend="sup">rst</hi></hi> Lt Co.. D 1<hi rend="sup">rst</hi> Batt Ky Cav,
 <lb/>Walter F. Stafford
 <lb/>Capt, Co, A. 1<hi rend="sup">st</hi> Batt<hi rend="sup">y.</hi> Ky, Cav,
-<lb/>David, L, Cook
-<lb/>1<hi rend="sup">st</hi> Lt co A 1<hi rend="sup">st</hi> Batt Ky cav
-<lb/>H. Brent Kelly, Adjutant
-<lb/>1<hi rend="sup">st</hi> Battalion Ky. Cavalry,
-<lb/>Lieut O. W. Ballew
-<lb/>1<hi rend="sup">st</hi> Battalion, Ky, cavalry
+<lb/><persName ref="cwgk:N00005777">David, L, Cook</persName><lb/>1<hi rend="sup">st</hi> Lt co A 1<hi rend="sup">st</hi> Batt Ky cav
+<lb/><persName ref="cwgk:N00005778">H. Brent Kelly</persName>, Adjutant<lb/>1<hi rend="sup">st</hi> Battalion Ky. Cavalry,
+<lb/>Lieut <persName ref="cwgk:N00005779">O. W. Ballew</persName><lb/>1<hi rend="sup">st</hi> Battalion, Ky, cavalry
 <lb/><cb n="2"/><hi rend="underline">C. Walton</hi>
-<lb/>H Nichols
-<lb/><hi rend="underline">John</hi>. <hi rend="underline">Spohn</hi>
+<lb/><persName ref="cwgk:N00005781">H Nichols</persName><lb/><hi rend="underline">John</hi>. <hi rend="underline">Spohn</hi>
 <lb/>J. F. L S<hi rend="sup">t</hi> Thomas
-<lb/><hi rend="underline">J. S. Frizell</hi>
-<lb/>M. L. Broadwell
-<lb/>John Bruce
-<lb/>I L Griffith
-<lb/>James Van Deren
-<lb/>H, H, Harding
-<lb/>J B Buchanan
-<lb/>Capt. compy (D)
+<lb/>
+<persName ref="cwgk:N00005784">J. S. Frizell</persName><lb/><persName ref="cwgk:N00005522">M. L. Broadwell</persName><lb/><persName ref="cwgk:N00005785">John Bruce</persName><lb/>I L Griffith
+<lb/><persName ref="cwgk:N00005787">James Van Deren
+</persName><lb/><persName ref="cwgk:N00005788">H, H, Harding
+</persName><lb/><persName ref="cwgk:N00005789">J B Buchanan</persName><lb/>Capt. compy (D)
 <lb/>1<hi rend="underline"><hi rend="sup">st</hi></hi> Batt Ky cavally<milestone unit="column" n="1"/><pb/></p>
 <p>Cynthiana <date when="1862-12-17">Dec 17 -- 1862</date></p>
 <p>Friend Jim: Inclosed pleas finde a petition for your promotion to Col in some of our Ky regaments; I could get all or most of the union men in our County to sign it; but as a general thing, a few names are as good as a great many: hoping you may soon be promoted, as I feal that you are in every way capable to fill the office of Col I remain</p>
 <p>Your Friend &amp;<hi rend="sup">c</hi>
 <lb/>M. L. Broadwell</p>
-<p>Camp Speed Fry near Danville
-<lb/><date when="1862-12-23">Dec 23 1862</date>
-<lb/>To His Exelency <unclear/> Robinson
-<lb/>Govenor of Kentucky</p>
+<p>Camp Speed Fry near <placeName ref="cwgk:P00005549">Danville
+</placeName><lb/><date when="1862-12-23">Dec 23 1862</date>
+<lb/>To His Exelency <unclear/> <persName ref="cwgk:N001004">Robinson
+</persName><lb/>Govenor of Kentucky</p>
 <p>Sir this has been unsolicited on my part and I forward it for your Consideration and remain</p>
 <p>your respectl
 <lb/>J H Coffman<pb/></p>
