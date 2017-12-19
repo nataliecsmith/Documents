@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1486"> 
  <teiHeader>
   <fileDesc>
@@ -63,13 +63,12 @@
  <text>
   <body>
    <p>To his Excellency B. M<hi rend="sup">c</hi>Goffin
-<lb/>Governor of Kentucky,</p>
-<p>The undersigned would respectfully represent to your Excellency, that at the <date when="--09">Sept</date> Term of the Kenton Circuit Court one Henry Helman a citizen of Covington Ky. was fined in the Sum of &#36;50<hi rend="underline"><hi rend="sup">00</hi></hi> for the offense of "<hi rend="underline">Selling</hi> <hi rend="underline">liquor</hi> <hi rend="underline">to</hi> <hi rend="underline">a</hi> <hi rend="underline">Minor</hi>" </p>
+<lb/>Governor of <orgName ref="cwgk:O001025">Kentucky</orgName>,</p>
+<p>The undersigned would respectfully represent to your Excellency, that at the <date when="--09">Sept</date> Term of the <orgName ref="cwgk:O00000410">Kenton Circuit Court</orgName> one <persName ref="cwgk:N00006314">Henry Helman</persName> a citizen of <placeName ref="cwgk:P00000936">Covington Ky</placeName>. was fined in the Sum of $50<hi rend="underline"><hi rend="sup">00</hi></hi> for the offense of "<hi rend="underline">Selling</hi> <hi rend="underline">liquor</hi> <hi rend="underline">to</hi> <hi rend="underline">a</hi> <hi rend="underline">Minor</hi>" </p>
 <p>The prosecuting witness in the case (there being but one) was a young man eighteen or twenty years of age though to all appearances of full age, making it extremely liable for any one to be mistaken as to his age, The proof showed on the trial that Mr. Helman, <hi rend="underline">himself</hi> did not Sell the liquor but the Same was Sold by a young man in his employ, a German who had only been in this country about Six weeks, and who speaks english very imperfectly and totally unacquainted with the laws of Ky.- The undersigned cheerfully unite in saying that Mr. Helman is a worthy law-abiding Citizen and has never ^before^<pb/>
 <lb/>to our knowledge been charged with a Misdemeanor..</p>
 <p>In view of the financial affairs of the Country and the character of Mr. Helman your petitioners would earnestly Solicit your Excellency to remit the Judgment except fees &amp; costs. and your petitioners will ever pray &amp;c.</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>A. C. Ellis Depty Clk.
-<lb/>S H <unclear>Cambron</unclear>
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00000757">A. C. Ellis</persName> Depty Clk.<lb/>S H <unclear>Cambron</unclear>
 <lb/>A. H, Harod, M<hi rend="underline"><hi rend="sup">r</hi></hi> Hellman is one of our best citizens
 <lb/>B. L. Meglasson (Juror)
 <lb/>Theodor Vanhorne
@@ -106,7 +105,7 @@
 <p>Kenton Cir. Ct</p>
 <p>Remitted
 <lb/>B. M</p>
-<p>&#36;50 &#125; liquor to a minor
+<p>$50 } liquor to a minor
 <lb/>Henry Helman
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-09">Octo 9. 1861</date></p>
   </body>
