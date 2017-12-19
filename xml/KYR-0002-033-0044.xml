@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0044"> 
  <teiHeader>
   <fileDesc>
@@ -64,8 +64,7 @@
  <text>
   <body>
    <p>WAR DEPARTMENT,
-<lb/>ADJUTANT GENERAL'S OFFICE,
-<lb/><hi rend="italic">Washington, </hi><date when="1863-11-07"><hi rend="italic">November</hi> <hi rend="italic">7th</hi>, 1863.</date>
+<lb/><orgName ref="cwgk:O00005246">ADJUTANT GENERAL'S OFFICE</orgName>,<lb/><placeName ref="cwgk:P00001134">Washington,</placeName> <date when="1863-11-07"><hi rend="italic">November</hi> <hi rend="italic">7th</hi>, 1863.</date>
 <lb/>SPECIAL ORDERS,
 <lb/>No. 496.
 <lb/>(<hi rend="italic">Extract</hi>.)<figure type="hr"/></p>
@@ -74,9 +73,9 @@
 <lb/>E. D. TOWNSEND,
 <lb/><hi rend="italic">Assistant Adjutant General.</hi> </p>
 <p>OFFICIAL:
-<lb/>Saml. Breck
-<lb/><hi rend="italic">Assistant Adjutant General.</hi> </p>
-<p>Governor of Kentucky<pb/></p>
+<lb/><persName ref="cwgk:N00005756">Saml. Breck
+</persName><lb/><hi rend="italic">Assistant Adjutant General.</hi> </p>
+<p><persName ref="cwgk:N001000">Governor of Kentucky</persName><pb/></p>
 <p>2<hi rend="sup">d</hi></p>
   </body>
  </text>
