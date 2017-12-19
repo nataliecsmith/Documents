@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1395"> 
  <teiHeader>
   <fileDesc>
@@ -63,27 +63,25 @@
  </teiHeader>
  <text>
   <body>
-   <p>Covington Ky
-<lb/><date when="1864-12-31">Dec 31. 1864</date>.
-<lb/>Gov Bramlette
-<lb/>Dear Sir</p>
-<p>I <hi rend="str">was</hi> am acting as Commonwealth's Attorney pro tem. at the <date when="1864-12">present Dec.</date> Term of the Kenton Circuit Court, &amp; prosecuted two indictments against Geo. E. Whittaker for selling playing cards without license. He was convicted &amp; fined &#36;50<hi rend="underline"><hi rend="sup">25</hi></hi> in each case</p>
+   <p><placeName ref="cwgk:P00000936">Covington Ky</placeName><lb/><date when="1864-12-31">Dec 31. 1864</date>.
+<lb/><persName ref="cwgk:N001000">Gov Bramlette
+</persName><lb/>Dear Sir</p>
+<p>I <hi rend="str">was</hi> am acting as Commonwealth's Attorney pro tem. at the <date when="1864-12">present Dec.</date> Term of the<orgName ref="cwgk:O00000410"> Kenton Circuit Court</orgName>, &amp; prosecuted two indictments against Geo. E. Whittaker for selling playing cards without license. He was convicted &amp; fined $50<hi rend="underline"><hi rend="sup">25</hi></hi> in each case</p>
 <p>As these ware the first cases of the kind that I have ever known &amp; Mr Whittaker is represented to me to be<pb/>
 <lb/>a worthy industrious poor, &amp; rather ignorant man, I recommend him as a proper person for Executive Clemency,</p>
 <p>Very Resply.
-<lb/>J. R. Hallam</p>
+<lb/><persName ref="cwgk:N00006448">J. R. Hallam</persName></p>
 <p>We endorse the above &amp; ask that the Governor may remit the fines vs M<hi rend="sup">r</hi> Whittaker</p>
 <p>Carlisle &amp; Hamilton</p>
-<p><milestone unit="column" n="2"/><cb n="1"/>W E Arthur
-<lb/><cb n="2"/>John F Fisk
-<lb/><hi rend="underline">J, O'Hara Jr
+<p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00004274">W E Arthur
+</persName><lb/><cb n="2"/><persName ref="cwgk:N00000460">John F Fisk
+</persName><lb/><hi rend="underline">J, O'Hara Jr
 <lb/>H Myers.</hi>
-<lb/>B W Foley Clk
-<lb/>J S Scott. D. Sheff<milestone unit="column" n="1"/><pb/></p>
+<lb/><persName ref="cwgk:N00000304">B W Foley </persName>Clk<lb/><persName ref="cwgk:N00006319">J S Scott</persName>. D. Sheff<milestone unit="column" n="1"/><pb/></p>
 <p>Kenton Cir Ct
 <lb/>vs
 <lb/>Geo W Whittaker
-<lb/>&#36;50.<hi rend="underline"><hi rend="sup">25</hi></hi> each
+<lb/>$50.<hi rend="underline"><hi rend="sup">25</hi></hi> each
 <lb/>Remitted
 <lb/><date when="1865-01-10">10<hi rend="sup">th</hi> Jany/65</date></p>
 <p>Remit</p>
