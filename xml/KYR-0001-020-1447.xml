@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1447"> 
  <teiHeader>
   <fileDesc>
@@ -63,12 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>State of Kentucky Jefferson Co <unclear>sct</unclear></p>
-<p>The affiant Mary Yaner states on Oath that She is the wife of Frederick Yaner who is at this time confined in the Penatenitiary of this state and that the statements contained in the petition heare unto attached are true</p>
+   <p><orgName ref="cwgk:O001025">State of Kentucky</orgName> <placeName ref="cwgk:P001005">Jefferson Co.</placeName><unclear>sct</unclear></p>
+<p>The affiant <persName ref="cwgk:N00003073">Mary Yaner</persName> states on Oath that She is the wife of <persName ref="cwgk:N00003072">Frederick Yaner</persName> who is at this time confined in the Penatenitiary of this state and that the statements contained in the petition heare unto attached are true</p>
 <p><unclear>Maria janna<hi rend="str">h</hi>r</unclear></p>
 <p>Subscribed and sworn to before me this <date when="1861-12-12">12th day of Dec 1861</date></p>
 <p>Jos,, Clement. J. P. J. C</p>
-<p>Anna Smith States on Oath that She is the same person mentioned in the petition heare unto attached and that she has arrived to the age of seventeen years That at the time of the trail of her Step Father F Yanner in the Circuit of Jefferson County on the charge mentioned in the petition She was greatly embarased and fritened being very Young she dose not recallect all the Statements She then made before the Jury She futher States that she has reflected considerably on the case up to this time and is of opinion that Yaner being Beastly intoxicated at the time said act was commited for<pb/>
+<p><persName ref="cwgk:N00003074">Anna Smith</persName> States on Oath that She is the same person mentioned in the petition heare unto attached and that she has arrived to the age of seventeen years That at the time of the trail of her Step Father F Yanner in the Circuit of Jefferson County on the charge mentioned in the petition She was greatly embarased and fritened being very Young she dose not recallect all the Statements She then made before the Jury She futher States that she has reflected considerably on the case up to this time and is of opinion that Yaner being Beastly intoxicated at the time said act was commited for<pb/>
 <lb/>which he was convicted could not have been conscius of what he did ^if gilty^ further that Yanner up to that time on all occasions treated her with kindness and offection She would therefore request his pardon</p>
 <p>Anna ^her X mark^ Smith</p>
 <p>Subscribed and sworn before me this <date when="1861-12-12">12th day of Dec 1861</date></p>
