@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0048"> 
  <teiHeader>
   <fileDesc>
@@ -69,13 +69,12 @@
 <p><milestone unit="column" n="2"/><cb n="1"/>N. GREEN, Pres. S. W. Telegraph Co.
 <lb/><cb n="2"/>A. STAGER, General Supt. W. U. Telegraph.<milestone unit="column" n="1"/><figure type="hr"/>
 <lb/>SEND THE FOLLOWING MESSAGE, SUBJECT TO THE ABOVE CONDITIONS.</p>
-<p>Louisville <date when="1861-05-04">May 4th 1861</date>
-<lb/>To T J Hall
-<lb/>New Orleans</p>
-<p>Gov. Magoffin requests me to say M. O. H. Norton as state agent will inspect receive and pay for arms purchased in accordance with instructions</p>
+<p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-05-04">May 4th 1861</date>
+<lb/>To<persName ref="cwgk:N00002787"> T J Hall</persName><lb/><placeName ref="cwgk:P00002303">New Orleans</placeName></p>
+<p>Gov. <persName ref="cwgk:N00000258">Magoffin</persName> requests me to say M. O. H. Norton as state agent will inspect receive and pay for arms purchased in accordance with instructions</p>
 <p>Ben J. Adams</p>
 <p>Copy B</p>
-<p>&#36;2<hi rend="underline">60</hi></p>
+<p>$2<hi rend="underline">60</hi></p>
   </body>
  </text>
 </TEI>
