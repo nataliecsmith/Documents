@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1405"> 
  <teiHeader>
   <fileDesc>
@@ -62,26 +62,21 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His Excellency, Gov. Magoffin:</p>
-<p>The undersigned, citizens of Kenton county, would respectfully represent that James G. Everett, has been indicted tried and fined &#36;200<hi rend="underline"><hi rend="sup">00</hi></hi> and costs for permitting gaming on his premises- It appeared from the testimony that in the month of <date when="1858-02">February, 1858,</date> Mr Everett permitted certain persons to engage in a game of cards for money in his crib; and that about the same time <hi rend="str">these</hi> he also allowed some parties to play in his grocery for whisky. Under the circumstances the jury felt bound to convict him, but in veiw of the severity of the penalty which the law has affixed to offenses of this charater, we respectfully request your Excellency to remit so much of the fine as can be legally done- And we will ever pray &amp;c</p>
+   <p>To His Excellency, <persName ref="cwgk:N00000258">Gov. Magoffin</persName>:</p>
+<p>The undersigned, citizens of <placeName ref="cwgk:P00000937">Kenton county</placeName>, would respectfully represent that <persName ref="cwgk:N00002768">James G. Everett</persName>, has been indicted tried and fined $200<hi rend="underline"><hi rend="sup">00</hi></hi> and costs for permitting gaming on his premises- It appeared from the testimony that in the month of <date when="1858-02">February, 1858,</date> Mr Everett permitted certain persons to engage in a game of cards for money in his crib; and that about the same time <hi rend="str">these</hi> he also allowed some parties to play in his grocery for whisky. Under the circumstances the jury felt bound to convict him, but in veiw of the severity of the penalty which the law has affixed to offenses of this charater, we respectfully request your Excellency to remit so much of the fine as can be legally done- And we will ever pray &amp;c</p>
 <p>A. J. Morris Foreman
-<lb/>Jordin Harris Juror
-<lb/>S. F, Jones Juror
-<lb/>J H, Stephens Juror
+<lb/><persName ref="cwgk:N00002770">Jordin Harris</persName> Juror<lb/><persName ref="cwgk:N00002771">S. F. Jones</persName> Juror<lb/>J H, Stephens Juror
 <lb/>G W Miller Juror
 <lb/>R Lipscomb Juror<pb/>
 <lb/>James, L, Vanlandingham Juror
-<lb/>R, Mann Juror
-<lb/>E A Lamb Juror
-<lb/>B Wilshire Juror
-<lb/>John B Stephens Juror
-<lb/>Samuel H Bannister Juror</p>
-<p>R. M. Carlisle
-<lb/>John Ellis &#125; By J G Carlisle at their request<pb/></p>
+<lb/><persName ref="cwgk:N00002776">R. Mann</persName> Juror<lb/><persName ref="cwgk:N00002778">E A Lamb</persName> Juror<lb/>B Wilshire Juror
+<lb/><persName ref="cwgk:N00002780">John B Stephens</persName> Juror<lb/><persName ref="cwgk:N00002781">Samuel H Bannister</persName> Juror</p>
+<p><persName ref="cwgk:N00002857">R. M. Carlisle
+</persName><lb/><persName ref="cwgk:N00002860">John Ellis </persName>} By J G Carlisle at their request<pb/></p>
 <p>Kenton cir ct</p>
 <p>Respite 12 mo
 <lb/>B. M. </p>
-<p>&#36;200. &#125; Gaming
+<p>$200. } Gaming
 <lb/>J. G. Everett
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-09-10">Sept 10. 1861</date></p>
   </body>
