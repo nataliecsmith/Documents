@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1411"> 
  <teiHeader>
   <fileDesc>
@@ -63,18 +63,17 @@
  <text>
   <body>
    <p><date when="1861-09-16">Sep 16. 1861</date>
-<lb/>To his Excellency B Magoffin Govr of Kentucky</p>
-<p>The undersigned respectfully adamently request your Excellency to release from his penalty, inflicted by a Jury of Woodford County upon a warrant for a breach of the peace committed in Said County and which is more particularly referred to &amp; set out in the paper accompanying this petition, Frank Armstrong. It is true that he did commit a breach of the peace as charged, but he respectfully represent that his offense was committed under Circumstances of great aggravation to him and we believe he is truly penetent therefor. If you will pardon him, we can assure you that the offense will not be repeated and that he will take himself out of the way.</p>
+<lb/>To his Excellency <persName ref="cwgk:N00000258">B Magoffin </persName>Govr of <placeName ref="cwgk:P001800">Kentucky</placeName></p>
+<p>The undersigned respectfully adamently request your Excellency to release from his penalty, inflicted by a Jury of <placeName ref="cwgk:P00002992">Woodford County </placeName>upon a warrant for a breach of the peace committed in Said County and which is more particularly referred to &amp; set out in the paper accompanying this petition, <persName ref="cwgk:N00007406">Frank Armstrong</persName>. It is true that he did commit a breach of the peace as charged, but he respectfully represent that his offense was committed under Circumstances of great aggravation to him and we believe he is truly penetent therefor. If you will pardon him, we can assure you that the offense will not be repeated and that he will take himself out of the way.</p>
 <p>Respectfully
-<lb/>W T Martin
-<lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L, Graddy
-<lb/>D P Robb Police Judge
-<lb/>Town of Versailles
-<lb/>S,, Stone T M V <hi rend="str">of</hi> 
-<lb/>Mason R Henry
-<lb/><hi rend="underline">W, J, Carlyle</hi>
-<lb/>Saml S. Darneal
-<lb/>Lavenia Armstron. wife of F Armstrong<pb/></p>
+<lb/><persName ref="cwgk:N00003570">W T Martin</persName><lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi> L, Graddy
+<lb/><persName ref="cwgk:N00007408">D P Robb Police Judge
+</persName><lb/><placeName ref="cwgk:P00002991">Town of Versailles
+</placeName><lb/>S,, Stone T M V <hi rend="str">of</hi> 
+<lb/><persName ref="cwgk:N00007410">Mason R Henry
+</persName><lb/><hi rend="underline">W, J, Carlyle</hi>
+<lb/><persName ref="cwgk:N00007411">Saml S. Darneal
+</persName><lb/>Lavenia Armstron. wife of F Armstrong<pb/></p>
 <p>Versailles Cir. Ct</p>
 <p>Respite 3 Mo
 <lb/>B. M.</p>
