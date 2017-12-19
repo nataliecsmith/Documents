@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0069"> 
  <teiHeader>
   <fileDesc>
@@ -63,20 +63,19 @@
  </teiHeader>
  <text>
   <body>
-   <p>Simpsonville <date when="1861-02-09">Feb the 9<hi rend="sup">th</hi> 1861</date>
+   <p><placeName ref="cwgk:P00002450">Simpsonville</placeName> <date when="1861-02-09">Feb the 9<hi rend="sup">th</hi> 1861</date>
 <lb/>To His Excellency </p>
-<p>The Governor of the State of Kentucky, Whereas there has been a vacancy occasioned by the decease of our friend H, B, Oliver Justice of the peace in the 5<hi rend="sup">th</hi> District in Shelby County Kentucky,</p>
-<p>Therefore we the citizens of the 5 District cordially recommend the names of R. H. George or W, A, M<hi rend="underline"><hi rend="sup">c</hi></hi>Dowell as Gentlemen well qualified to fill the office</p>
+<p>The <persName ref="cwgk:N00000258">Governor of the State of Kentucky</persName>, Whereas there has been a vacancy occasioned by the decease of our friend <persName ref="cwgk:N00002451">H. B. Oliver</persName> Justice of the peace in the 5<hi rend="sup">th</hi> District in <placeName ref="cwgk:P001013">Shelby County Kentucky</placeName>,</p>
+<p>Therefore we the citizens of the 5 District cordially recommend the names of <persName ref="cwgk:N00002452">R. H. George</persName> or W, A, M<hi rend="underline"><hi rend="sup">c</hi></hi>Dowell as Gentlemen well qualified to fill the office</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Tho<hi rend="sup">s</hi> L. Edwards
-<lb/>J G Jones
-<lb/>Henry Williams
-<lb/><cb n="2"/>C. G. Mershan C, S, C,
-<lb/>J, Tho<hi rend="sup">s</hi> Collier
+<lb/><persName ref="cwgk:N00002455">J G Jones
+</persName><lb/>Henry Williams
+<lb/><cb n="2"/><persName ref="cwgk:N00002443">C. G. Mershan</persName> C, S, C,<lb/>J, Tho<hi rend="sup">s</hi> Collier
 <lb/>John, T Howell
 <lb/>W<hi rend="underline"><hi rend="sup">m</hi></hi>, J, Long
-<lb/>F C French
-<lb/>J S Willis
-<lb/>Jno M Montgomery</p>
+<lb/><persName ref="cwgk:N00002447">F C French
+</persName><lb/><persName ref="cwgk:N00002448">J S Willis
+</persName><lb/>Jno M Montgomery</p>
   </body>
  </text>
 </TEI>
