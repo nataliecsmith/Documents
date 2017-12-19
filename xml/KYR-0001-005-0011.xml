@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0011"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,31 +71,29 @@
  </teiHeader>
  <text>
   <body>
-   <p>Russell Circuit Court
-<lb/>The commonwealth of Kentucky
+   <p><orgName ref="cwgk:O00000573">Russell Circuit Court
+</orgName><lb/>The commonwealth of Kentucky
 <lb/>Against
-<lb/>Wilson Jones &amp; Budd Jones</p>
-<p>The Grand Jury of Russell County, Empaneled, charged and sworn in the name and by the authority of The commonwealth of Kentucky accuse Wilson Jones &amp; Budd Jones of the crime of murder</p>
-<p>Committed as follows Viz. The said Wilson Jones &amp; Budd Jones did on the <date when="1863-02-10">10<hi rend="sup">th</hi> day of February 1863</date> in the County aforesaid unlawfully, wilfully wickedly feloniously and with Malice aforethought Kill and Murder one Lewis Higgenbottom with a pistol Loaded with a Leaden ball, against the peace and dignity of the Commonwealth of Kentucky</p>
-<p>M H Owsley
-<lb/>Attorney for The Commonwealth</p>
-<p>A copy attest. A P. Simpson Clerk R C C
-<lb/>By Achilles Nelson D C.<pb/></p>
+<lb/><persName ref="cwgk:N00005201">Wilson Jones</persName> &amp; <persName ref="cwgk:N00005196">Budd Jones</persName></p>
+<p>The Grand Jury of <placeName ref="cwgk:P00004351">Russell County</placeName>, Empaneled, charged and sworn in the name and by the authority of The commonwealth of Kentucky accuse Wilson Jones &amp; Budd Jones of the crime of murder</p>
+<p>Committed as follows Viz. The said Wilson Jones &amp; Budd Jones did on the <date when="1863-02-10">10<hi rend="sup">th</hi> day of February 1863</date> in the County aforesaid unlawfully, wilfully wickedly feloniously and with Malice aforethought Kill and Murder one <persName ref="cwgk:N00005197">Lewis Higgenbottom</persName> with a pistol Loaded with a Leaden ball, against the peace and dignity of the Commonwealth of Kentucky</p>
+<p><persName ref="cwgk:N00002811">M H Owsley
+</persName><lb/>Attorney for The Commonwealth</p>
+<p>A copy attest. <persName ref="cwgk:N00005198">A P. Simpson</persName> Clerk R C C<lb/>By <persName ref="cwgk:N00005203">Achilles Nelson</persName> D C.<pb/></p>
 <p><date when="1863-11-05">1863. Nov 5<hi rend="sup">th</hi></date> filed
 <lb/>Att Geo. Bryan CK
 <lb/>a copy attest
 <lb/>A P. Simpson Ck
 <lb/>By. Achilles Nelson D C</p>
 <p>Commonwealth
-<lb/>vs &#125; Indictment Murder
+<lb/>vs } Indictment Murder
 <lb/>Wilson Jones &amp; Budd Jones<figure type="hr"/>
 <lb/>A True Bill
 <lb/>Green B Selby.
 <lb/>Foreman
 <lb/>Witnesses Examined
-<lb/>Polly Ann Hays
-<lb/>Isaac G Shull
-<lb/>a copy attest A P Simpson clk
+<lb/><persName ref="cwgk:N00005204">Polly Ann Hays
+</persName><lb/><persName ref="cwgk:N00005205">Isaac G Shull</persName><lb/>a copy attest A P Simpson clk
 <lb/>By Achilles Nelson D C</p>
   </body>
  </text>
