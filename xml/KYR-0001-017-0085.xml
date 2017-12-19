@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0085"> 
  <teiHeader>
   <fileDesc>
@@ -63,37 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>THEODORE D. RAND,
-<lb/>ATTORNEY AT LAW,
+   <p><persName ref="cwgk:N00002508">THEODORE D. RAND,</persName><lb/>ATTORNEY AT LAW,
 <lb/>No. 32 SOUTH THIRD STREET.<figure type="hr"/>
 <lb/>COMMISSIONER OF DEEDS
 <lb/>FOR
-<lb/><milestone unit="column" n="3"/><cb n="1"/>ALABAMA,
-<lb/>ARKANSAS,
-<lb/>CONNECTICUT,
-<lb/>FLORIDA,
-<lb/>GEORGIA,
-<lb/>INDIANA,
-<lb/>IOWA,
-<lb/>KENTUCKY,
-<lb/>MASSACHUSETTS,
-<lb/><cb n="2"/>MAINE,
-<lb/>MARYLAND,
-<lb/>MICHIGAN,
-<lb/>MISSISSIPPI,
-<lb/>MISSOURI,
-<lb/>MINNESOTA,
-<lb/>NEW HAMPSHIRE,
-<lb/>NEW JERSEY,
-<lb/>NORTH CAROLINA,
-<lb/><cb n="3"/>OHIO,
-<lb/>RHODE ISLAND,
-<lb/>SOUTH CAROLINA,
-<lb/>TENNESSEE,
-<lb/>TEXAS,
-<lb/>VERMONT,
-<lb/>VIRGINIA,
-<lb/>WISCONSIN.<cb n="1"/></p>
+<lb/><milestone unit="column" n="3"/><cb n="1"/><placeName ref="cwgk:P00002509">ALABAMA</placeName>,<lb/><placeName ref="cwgk:P00002510">ARKANSAS</placeName>,<lb/><placeName ref="cwgk:P00002511">CONNECTICUT,</placeName><lb/><placeName ref="cwgk:P00002512">FLORIDA,</placeName><lb/><placeName ref="cwgk:P001008">GEORGIA,</placeName><lb/><placeName ref="cwgk:P001818">INDIANA,</placeName><lb/><placeName ref="cwgk:P001009">IOWA</placeName>,<lb/><placeName ref="cwgk:P001800">KENTUCKY,</placeName><lb/><placeName ref="cwgk:P00001140">MASSACHUSETTS,</placeName><lb/><cb n="2"/><placeName ref="cwgk:P00002513">MAINE</placeName>,<lb/><placeName ref="cwgk:P00001160">MARYLAND</placeName>,<lb/><placeName ref="cwgk:P00002514">MICHIGAN,</placeName><lb/><placeName ref="cwgk:P00000918">MISSISSIPPI</placeName>,<lb/><placeName ref="cwgk:P00001883">MISSOURI</placeName>,<lb/><placeName ref="cwgk:P00002515">MINNESOTA</placeName>,<lb/><placeName ref="cwgk:P00002516">NEW HAMPSHIRE</placeName>,<lb/><placeName ref="cwgk:P00002517">NEW JERSEY,</placeName><lb/><placeName ref="cwgk:P00002518">NORTH CAROLINA</placeName>,<lb/><cb n="3"/><placeName ref="cwgk:P001036">OHIO</placeName>,<lb/><placeName ref="cwgk:P00002519">RHODE ISLAND</placeName>,<lb/><placeName ref="cwgk:P00001184">SOUTH CAROLINA</placeName>,<lb/><placeName ref="cwgk:P001001">TENNESSEE</placeName>,<lb/><placeName ref="cwgk:P00002520">TEXAS</placeName>,<lb/><placeName ref="cwgk:P001026">VERMONT,</placeName><lb/><placeName ref="cwgk:P001037">VIRGINIA,</placeName><lb/><placeName ref="cwgk:P00002521">WISCONSIN</placeName>.<cb n="1"/></p>
 <p>JOHN C. BULLITT.
 <lb/>FRED. FAIRTHORNE
 <lb/>BULLITT &amp; FAIRTHORNE,
