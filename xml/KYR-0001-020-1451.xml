@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1451"> 
  <teiHeader>
   <fileDesc>
@@ -63,17 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p><milestone unit="column" n="2"/><cb n="1"/>M. M. BENTON.
-<lb/><cb n="2"/>J. S. NIXON<milestone unit="column" n="1"/>
+   <p><milestone unit="column" n="2"/><cb n="1"/><persName ref="cwgk:N00007664">M. M. BENTON</persName>.<lb/><cb n="2"/><persName ref="cwgk:N00000755">J. S. NIXON</persName><milestone unit="column" n="1"/>
 <lb/>BENTON &amp; NIXON,
 <lb/>ATTORNEYS AT LAW,
 <lb/>Cor. Scott St. &amp; Lower Market.</p>
-<p>Covington, Ky.,
-<lb/><date when="1861-10-10">Oct. 10. 1861</date>
+<p><placeName ref="cwgk:P00000936">Covington</placeName>, <placeName ref="cwgk:P001800">Ky</placeName>.,<lb/><date when="1861-10-10">Oct. 10. 1861</date>
 <lb/>To His Excellency
-<lb/>B. Magoffin
-<lb/>Governor of Ky</p>
-<p>I have read the petition for the pardon of William Nichols and have no hesitation <hi rend="str">of</hi> in saying that I am well satisfied that it contains a true statement of the facts in his case, from my intimate knowledge of the gentlemen who have signed it- they are members of the bar, Clerk jailer &amp; sheriff, all of the highest respectability, and from this and what I have heard about the case, and some little of the testimony, I confess my sympathies are enlisted for Nichols, and I think much more good to the community will be effected by his pardon than by his further punishment. His neighbors say of him that his character is good-</p>
+<lb/><persName ref="cwgk:N00000258">B. Magoffin
+</persName><lb/>Governor of <placeName ref="cwgk:P001800">Ky</placeName></p>
+<p>I have read the petition for the pardon of <persName ref="cwgk:N00007671">William Nichols </persName>and have no hesitation <hi rend="str">of</hi> in saying that I am well satisfied that it contains a true statement of the facts in his case, from my intimate knowledge of the gentlemen who have signed it- they are members of the bar, Clerk jailer &amp; sheriff, all of the highest respectability, and from this and what I have heard about the case, and some little of the testimony, I confess my sympathies are enlisted for Nichols, and I think much more good to the community will be effected by his pardon than by his further punishment. His neighbors say of him that his character is good-</p>
 <p>very truly
 <lb/>Yours
 <lb/>M M Benton</p>
