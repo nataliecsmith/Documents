@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1413"> 
  <teiHeader>
   <fileDesc>
@@ -62,13 +62,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Gov B Magoffin
-<lb/>Dear Sir</p>
-<p>At your request I give you the facts (as I recollect them) in regard to the Petition of Doolin and Garner praying a remission of a fine against them, Doolin and Garner are Merchants at a little place called Salem in the County of Pulaski. At the <date when="1860-09">September Term 1860</date> of the Pulaski Circuit Court they were fined for selling spiritous liquors without a license which drank on the premises. The evidence showed that they were allowed by law to sell the quantity they did sell but that it was drank on the adjacent premises. The witnesses introduced on behalf of the Commonwealth stated that he had bought the liquor; and drank it in the road in front of the store against ^the^ will and protestations of the Defendants, The road running in front of the store is the main public road from Somerset to Crab Orchard, This is their first and only offense, they are both poor but honest and worthy young men, I think that it is a case meriting executive Clemency. </p>
+   <p>Gov<persName ref="cwgk:N00000258"> B Magoffin</persName><lb/>Dear Sir</p>
+<p>At your request I give you the facts (as I recollect them) in regard to the Petition of Doolin and <persName ref="cwgk:N00000271">Garner </persName>praying a remission of a fine against them, <persName ref="cwgk:N00000270">Doolin </persName>and <persName ref="cwgk:N00000271">Garner </persName>are Merchants at a little place called<placeName ref="cwgk:P00002062"> Salem </placeName>in the County of <placeName ref="cwgk:P00000268">Pulaski</placeName>. At the <date when="1860-09">September Term 1860</date> of the <placeName ref="cwgk:P00000268">Pulaski</placeName> Circuit Court they were fined for selling spiritous liquors without a license which drank on the premises. The evidence showed that they were allowed by law to sell the quantity they did sell but that it was drank on the adjacent premises. The witnesses introduced on behalf of the Commonwealth stated that he had bought the liquor; and drank it in the road in front of the store against ^the^ will and protestations of the Defendants, The road running in front of the store is the main public road from <placeName ref="cwgk:P00001061">Somerset </placeName>to<placeName ref="cwgk:P00005569"> Crab Orchard</placeName>, This is their first and only offense, they are both poor but honest and worthy young men, I think that it is a case meriting executive Clemency. </p>
 <p>Yours Respectfully
 <lb/>Thomas, Z, Morrow<pb/></p>
 <p>Pulaski Cir. Ct
-<lb/>&#36;60 &#125; Tipling
+<lb/>$60 } Tipling
 <lb/>Doolin &amp; Garner
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-09-17">Sept 17. 1861</date></p>
 <p>Respite 12 mo
