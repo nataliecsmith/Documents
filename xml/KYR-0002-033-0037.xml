@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0037"> 
  <teiHeader>
   <fileDesc>
@@ -63,11 +63,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington Ky 
-<lb/><date when="1864-09-03">Sept the 3<hi rend="sup">d</hi> 1864</date></p>
-<p>Gov Bramlett Hon sir after my respects to you I take the opertunity to inform you that I have lost boath of my commissions as second &amp; first Lt of co J 1 Ky cav they were captured by the enemy on the Stoneman raid I was commissioned as Second Lt <date when="1863-07-04">July the 4<hi rend="sup">th</hi> 186<hi rend="str">4</hi>3</date> and as first Lt <date when="1864-06-30">June the 30<hi rend="sup">th</hi> 1864</date> please Send me a <hi rend="str">copp</hi> copy of the two commissions &amp; confer a favor on your friend &amp; humble servt</p>
-<p>Lt Alexander. C. Smith
-<lb/>Co J 1 Ky cav</p>
+   <p><placeName ref="cwgk:P001002">Lexington Ky </placeName><lb/><date when="1864-09-03">Sept the 3<hi rend="sup">d</hi> 1864</date></p>
+<p>Gov <persName ref="cwgk:N001000">Bramlett</persName> Hon sir after my respects to you I take the opertunity to inform you that I have lost boath of my commissions as second &amp; first Lt of co J <orgName ref="cwgk:O00005136">1 Ky cav</orgName> they were captured by the enemy on the Stoneman raid I was commissioned as Second Lt <date when="1863-07-04">July the 4<hi rend="sup">th</hi> 186<hi rend="str">4</hi>3</date> and as first Lt <date when="1864-06-30">June the 30<hi rend="sup">th</hi> 1864</date> please Send me a <hi rend="str">copp</hi> copy of the two commissions &amp; confer a favor on your friend &amp; humble servt</p>
+<p>Lt <persName ref="cwgk:N00005944">Alexander. C. Smith
+</persName><lb/>Co J 1 Ky cav</p>
 <p>Silas, Adams
 <lb/>Col Com 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav
 <lb/>Lieut <unclear>O M Dod<hi rend="str"><unclear/></hi>son</unclear>, a a<pb/></p>
@@ -78,8 +77,8 @@
 <lb/>Lt. Co. "J" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky. Cav.<figure type="hr"/></p>
 <p>Desires duplicates of his Com<hi rend="underline"><hi rend="sup">n</hi></hi> as 2<hi rend="sup">nd</hi> and 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt. of Co. "J." 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky. C. the originals were lost.<figure type="hr"/></p>
 <p>Issue duplicates
-<lb/>D W Lindsey
-<lb/>Insp<hi rend="sup">t</hi> &amp; adjt Gen<hi rend="sup">l</hi></p>
+<lb/><persName ref="cwgk:N00000873">D W Lindsey
+</persName><lb/>Insp<hi rend="sup">t</hi> &amp; adjt Gen<hi rend="sup">l</hi></p>
 <p><note place="body">duplicates issued &amp; forw<hi rend="underline"><hi rend="sup">d</hi></hi>, Septr 6<hi rend="underline">'</hi> 1864</note><figure type="hr"/>
 <lb/>Rec<hi rend="underline"><hi rend="sup">d</hi></hi> A. G. O. <date when="1864-09-06">6<hi rend="underline"><hi rend="sup">th</hi></hi> Sept. 1864.</date></p>
   </body>
