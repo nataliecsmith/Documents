@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0064"> 
  <teiHeader>
   <fileDesc>
@@ -67,14 +67,13 @@
 <lb/><date when="1861-01-15">January 15<hi rend="sup">th</hi> 1861</date>
 <lb/>To his Excellency
 <lb/>Gov<hi rend="sup">r</hi> Macgoffin
-<lb/>Frankfort, Ky -- 
-<lb/>Dear Sir</p>
+<lb/><placeName ref="cwgk:P00000308">Frankfort. Ky </placeName>-- <lb/>Dear Sir</p>
 <p>I am desirous of being appointed a Commissioner for Your state for this City &amp; Territory -- </p>
 <p>Should it be necessary to furnish security &amp; Recommendations I shall be pleased to do so -- </p>
 <p>Awaiting Yr Answer
 <lb/>I am Respectfully
 <lb/>Your Obt Servt
-<lb/><hi rend="underline">A. H. Mayer</hi><pb/></p>
+<lb/><persName ref="cwgk:N00002429">A. H. Mayer</persName><pb/></p>
 <p>Kansas<figure type="hr"/>
 <lb/>Com<hi rend="underline"><hi rend="sup">r</hi></hi> of Deeds
 <lb/>A H Mayer
