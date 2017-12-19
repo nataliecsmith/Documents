@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0019"> 
  <teiHeader>
   <fileDesc>
@@ -63,10 +63,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lexington Ky
-<lb/><date when="1864-08-29">Aug 29<hi rend="underline"><hi rend="sup">th</hi></hi> /64</date>
+   <p><placeName ref="cwgk:P001002">Lexington Ky
+</placeName><lb/><date when="1864-08-29">Aug 29<hi rend="underline"><hi rend="sup">th</hi></hi> /64</date>
 <lb/>Gov of Kentucky
-<lb/>Gov Bramlette</p>
+<lb/>Gov <persName ref="cwgk:N001000">Bramlette</persName></p>
 <p>I wish to ask a fiew questions of you as it has been the great point of argument for the Officers, whether we will be held in the service three years from the date of last muster or not. I enlisted in this Company the <date when="1861-09-20">20<hi rend="underline"><hi rend="sup">th</hi></hi> of Sept 1861</date> and have served as an enlisted man eversince up to the <date when="1863-06-14">14<hi rend="underline"><hi rend="sup">th</hi></hi> of last June</date> when I was commishioned by you as 1<hi rend="underline"><hi rend="sup">st</hi></hi> Lt C<hi rend="underline"><hi rend="sup">o</hi></hi> (I") 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky. cav, I have never been mustered yet as Lt, and if that be the Order I had rather abandon my pos as Lt than to be mustered, if there is any such Order I wish to know the date of it, I onely enlisted for three years<pb/>
 <lb/>and when the Reg<hi rend="sup">t</hi> is mustered out I wish to be too as I <hi rend="str"><unclear/></hi>have not been mustered (if that be the order) I will not be I had rather doe without my Lt wages and be mustered out with the Regt as an enlisted man.</p>
 <p>You Most Obedient serv<hi rend="sup">t</hi>
