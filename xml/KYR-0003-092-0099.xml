@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0099"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>FRANK WATERS
-<lb/>ATTORNEY AT LAW
-<lb/>LEXINGTON, KY.</p>
+   <p><persName ref="cwgk:N00008152">FRANK WATERS
+</persName><lb/>ATTORNEY AT LAW
+<lb/><placeName ref="cwgk:P001002">LEXINGTON, KY.</placeName></p>
 <p>Lexington <date when="1861-05-24">May 24. 1861</date>.
 <lb/>Col Geo. W. Johnson
-<lb/>Scott. County. Ky.
-<lb/>Dear Sir</p>
-<p>Received this morning your favor of the <date when="1861-05-22">22<hi rend="underline"><hi rend="sup">nd</hi></hi> </date> -- Without consultation with Mr Higgins can give you no positive answers although from conversations had with him I may safely say he would prefer almost any other security to Bank stock as he is now over stocked with it. However I will be in Georgetown on Monday next and will then settle the whole affair with you.</p>
+<lb/><placeName ref="cwgk:P001030">Scott. County. Ky.
+</placeName><lb/>Dear Sir</p>
+<p>Received this morning your favor of the <date when="1861-05-22">22<hi rend="underline"><hi rend="sup">nd</hi></hi> </date> -- Without consultation with <persName ref="cwgk:N00008151">Mr Higgins</persName> can give you no positive answers although from conversations had with him I may safely say he would prefer almost any other security to Bank stock as he is now over stocked with it. However I will be in <placeName ref="cwgk:P001838">Georgetown</placeName> on Monday next and will then settle the whole affair with you.</p>
 <p>I have had an interview with John Allen Higgins in relation to the offset upon<pb/>
 <lb/>the note. He denies the existence of any off-set and says he will make no arrangement allowing it. You and I can however settle the remainder and I shall file a reply requiring J. A. H. to interplead between yourself and my client-- You two can then settle it between you, as to which it liable for the amount of the off-set.</p>
 <p>I have no doubt on a personal interview I can arrange the remainder above the offset to your satisfaction.</p>
