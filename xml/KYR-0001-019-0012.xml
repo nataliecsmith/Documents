@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0012"> 
  <teiHeader>
   <fileDesc>
@@ -63,7 +63,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>Knottsville Ky <date when="1861-04-30">April 30<hi rend="sup">th</hi> 1861</date>.
+   <p><placeName ref="cwgk:P00001224">Knottsville Ky</placeName> <date when="1861-04-30">April 30<hi rend="sup">th</hi> 1861</date>.
 <lb/>Sir</p>
 <p>I am well aware of the Amount of Important Business you have now on hand yet I hope you will find time Sufficient to notice this letter. Though an humble Citizen I am Our Cause is mutual.</p>
 <p>We want a few of the Best Rifles in North America Our Boys are Marksmen and will ^tell^ where ever they go.</p>
