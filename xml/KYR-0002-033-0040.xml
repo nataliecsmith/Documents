@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0040"> 
  <teiHeader>
   <fileDesc>
@@ -63,16 +63,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>HEAD QUARTERS, DEPARTMENT OF THE MISSISSIPPI,
-<lb/>Camp on Corinth Road, Miss, <hi rend="str">186</hi>
+   <p>HEAD QUARTERS, <orgName ref="cwgk:O00000737">DEPARTMENT OF THE MISSISSIPPI</orgName>,<lb/>Camp on Corinth Road, <placeName ref="cwgk:P00000918">Miss.</placeName> <hi rend="str">186</hi>
 <lb/><date when="1862-05-31">May 31<hi rend="underline"><hi rend="sup">st</hi></hi> 1862,</date>
 <lb/>SPECIAL FIELD ORDERS, 
 <lb/>No. 81,</p>
 <p>4,, ,, The resignation of 2<hi rend="underline"><hi rend="sup">d</hi></hi> Lieut. <hi rend="underline">Henry C, Carr</hi> 2<hi rend="underline"><hi rend="sup">d</hi></hi> Ky Cav, Volunteers, is hereby accepted to take effect this day. </p>
-<p>BY ORDER OF MAJOR GENERAL HALLECK,
-<lb/>J. C. Kelton 
+<p>BY ORDER OF MAJOR <persName ref="cwgk:N00006172">GENERAL HALLECK,</persName><lb/>J. C. Kelton 
 <lb/>Assistant Adjutant General. </p>
-<p>Gov. of Ky.<pb/></p>
+<p><persName ref="cwgk:N001000">Gov. of Ky.</persName><pb/></p>
 <p>2 Cav<figure type="hr"/>
 <lb/>Board<figure type="hr"/>
 <lb/>Lieut: Carr resig;</p>
