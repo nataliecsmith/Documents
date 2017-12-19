@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0005"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Whitney R. Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Whitney R. Smith</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,9 +71,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Falmouth. Pendleton County Ky- <date when="1863-10-17">Oct 17<hi rend="sup">th</hi> 1863</date>
+   <p><placeName ref="cwgk:P00000550">Falmouth</placeName>. <placeName ref="cwgk:P00000544">Pendleton County Ky</placeName>- <date when="1863-10-17">Oct 17<hi rend="sup">th</hi> 1863</date>
 <lb/>His Exc<hi rend="sup">ly</hi> Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlett Gov<hi rend="sup">r</hi> of Ky</p>
-<p>Sir. The murder of Maj: A. G. Wileman, of the 18<hi rend="sup">th</hi> Reg<hi rend="sup">t</hi> Ky. Vol:, on the night of <date when="1863-10-05">5<hi rend="sup">th</hi> inst</date>, in this County, -- in atrocity, cruelty and aggrivation was such, that, it seems to me, the safety of Union and law abiding citizens; and, perhaps, specially, the security of our warworn officers and soldiers, upon their returns home, from our armies,- on forlough, -- sick, wounded or otherwise, to the bosom of their families, urgently and loudly call, upon every department of the Government (to the limits of the law) for the apprehention and conviction of the heartless and marouding murderers and robbers:- I therefore, take the privilege, under the provisions of the statute, as County Judge, to petition your excellency, to issue, as soon as convenience will permit, a pro<hi rend="str">l</hi>clamation with a reward, for their arrest and apprehention. -- The murderers,- no doubt, <hi rend="underline">every one of them</hi>, are <hi rend="underline">now fleeing from justice</hi>: -- but, the events of the past, unmistakingly, proclaim, it is only, again to return, -- if unwhipped of justice, or undetered by retributive example, for fell purpose of perpetrating upon others,<pb/>
+<p>Sir. The murder of Maj: A. G. Wileman, of the 18<hi rend="sup">th</hi> Reg<hi rend="sup">t</hi> <orgName ref="cwgk:O001025">Ky</orgName>. Vol:, on the night of <date when="1863-10-05">5<hi rend="sup">th</hi> inst</date>, in this County, -- in atrocity, cruelty and aggrivation was such, that, it seems to me, the safety of Union and law abiding citizens; and, perhaps, specially, the security of our warworn officers and soldiers, upon their returns home, from our armies,- on forlough, -- sick, wounded or otherwise, to the bosom of their families, urgently and loudly call, upon every department of the Government (to the limits of the law) for the apprehention and conviction of the heartless and marouding murderers and robbers:- I therefore, take the privilege, under the provisions of the statute, as County Judge, to petition your excellency, to issue, as soon as convenience will permit, a pro<hi rend="str">l</hi>clamation with a reward, for their arrest and apprehention. -- The murderers,- no doubt, <hi rend="underline">every one of them</hi>, are <hi rend="underline">now fleeing from justice</hi>: -- but, the events of the past, unmistakingly, proclaim, it is only, again to return, -- if unwhipped of justice, or undetered by retributive example, for fell purpose of perpetrating upon others,<pb/>
 <lb/>like heinous crimes, -- so soon as this community relapses, into a supposed-security and heedless repose, as it unfortunately was, at the time Maj Wileman returned home, -- wounded from the field of battle, unarmed, -- confidingly relying for protection, upon the laws of his State, which he had just so nobly defended, and upon that sense of security and personal safety, inspired by his wounds, -- and by these promised him, in the midst of his stricken family and a loyal and grateful <hi rend="str"><unclear/></hi> people</p>
 <p>Respectfully Your<hi rend="sup">s</hi> &amp;c
 <lb/><hi rend="underline">S. Tho. Hauser</hi></p>
@@ -74,7 +82,7 @@
 <p><hi rend="underline">S. T. H</hi><pb/></p>
 <p>Pendleton Co
 <lb/>Reward
-<lb/>&#36;500,
+<lb/>$500,
 <lb/>Murderers of A G. Wileman
 <lb/><date when="1863-10-20">20<hi rend="sup">th</hi> Oct/63</date></p>
   </body>
