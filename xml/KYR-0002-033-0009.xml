@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0009"> 
  <teiHeader>
   <fileDesc>
@@ -63,14 +63,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Headquarters Department of the Ohio,
-<lb/>Knoxville, Tenn., <date when="1864-02-04">Feby 4<hi rend="underline"><hi rend="sup">th</hi></hi> 1864.</date>
+   <p>Headquarters <orgName ref="cwgk:O001001">Department of the Ohio</orgName>,<lb/><placeName ref="cwgk:P00005704">Knoxville, Tenn.</placeName>, <date when="1864-02-04">Feby 4<hi rend="underline"><hi rend="sup">th</hi></hi> 1864.</date>
 <lb/>SPECIAL ORDERS, No. 35.</p>
 <p><hi rend="underline">12</hi> " The resignation of Lieut <hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> M. Haley</hi> 1<hi rend="sup">st</hi> Ky Cav<hi rend="sup">y</hi>, Volunteers, tendered <hi rend="str">on account of</hi> ^for the^ "Good of the Service" is hereby accepted to take effect <date when="1864-02-05">February 5<hi rend="underline"><hi rend="sup">th</hi></hi> 1864</date></p>
 <p>Any balance of pay due him at that time, will be suspended until satisfactory evidence is furnished to the Paymaster, that he is not indebted to the United States Government.</p>
-<p>BY COMMAND OF MAJOR GENERAL FOSTER:
-<lb/>Henry Curtis Jr.
-<lb/>Assistant Adjutant General.</p>
+<p>BY COMMAND OF <persName ref="cwgk:N00005705">MAJOR GENERAL FOSTER</persName>:<lb/><persName ref="cwgk:N00005707">Henry Curtis Jr.</persName><lb/>Assistant Adjutant General.</p>
 <p>1.2.3.4 5
 <lb/><date when="1862-08-02"><hi rend="underline">Aug' 2 1862</hi></date><figure type="hr"/></p>
 <p>His Excellency
