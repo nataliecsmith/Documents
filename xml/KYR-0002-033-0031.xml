@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0031"> 
  <teiHeader>
   <fileDesc>
@@ -63,8 +63,7 @@
  </teiHeader>
  <text>
   <body>
-   <p>Head-Quarters <hi rend="str">Army</hi> Dept. of the Ohio,
-<lb/>Knoxville, East Tennessee, <date when="1863-12-22">Dec<hi rend="sup">r.</hi> 22<hi rend="sup">d</hi> 1863</date>
+   <p>Head-Quarters <hi rend="str">Army</hi> <orgName ref="cwgk:O001001">Dept. of the Ohio</orgName>,<lb/>Knoxville, East Tennessee, <date when="1863-12-22">Dec<hi rend="sup">r.</hi> 22<hi rend="sup">d</hi> 1863</date>
 <lb/>SPECIAL FIELD ORDERS,
 <lb/>No. 114</p>
 <p><hi rend="underline">5</hi> ,, ,, ,, ,, The resignation of Capt. <hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> Perkins</hi> Co "C" 1<hi rend="underline"><hi rend="sup">st</hi></hi> Ky Cav<hi rend="sup">y</hi>, tendered on account of physical disability, is hereby accepted to take effect <date when="1863-12-25">Dec<hi rend="sup">r.</hi> 25<hi rend="sup">th</hi> 1863</date>, any balance of pay due him at that time, will be suspended, until satisfactory evidence is furnished to the <hi rend="underline">Paymaster</hi>, that he is not indebted to the U. S. Gov<hi rend="sup">t</hi>.</p>
