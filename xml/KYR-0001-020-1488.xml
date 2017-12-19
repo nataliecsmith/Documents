@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1488"> 
  <teiHeader>
   <fileDesc>
@@ -62,8 +62,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>To the Governor of Kentucky</p>
-<p>We the undersigned citizens of Scott county respectfully request <hi rend="str">that</hi> your excellency to remit a fine of Fifty Dollars inflicted on Alexander Straus in Powell county for- peddling in said county without license
+   <p>To <persName ref="cwgk:N00000258">the Governor</persName> of <orgName ref="cwgk:O001025">Kentucky</orgName></p>
+<p>We the undersigned citizens of <placeName ref="cwgk:P001030">Scott county</placeName> respectfully request <hi rend="str">that</hi> your excellency to remit a fine of Fifty Dollars inflicted on Alexander Straus in Powell county for- peddling in said county without license
 <lb/> 
 <lb/>W, S. Darnaby
 <lb/>J. T. Pratt
@@ -82,7 +82,7 @@
 <lb/>T J <hi rend="underline">Adams
 <lb/></hi>J. F. Gasner<pb/></p>
 <p>Powell C<hi rend="str">ir</hi>O. Ct
-<lb/>&#36;50 &#125; Peddling
+<lb/>$50 } Peddling
 <lb/>Alex Straus
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-10-07">Octo. 7. 1861</date><figure type="hr"/></p>
 <p>Remitted 
