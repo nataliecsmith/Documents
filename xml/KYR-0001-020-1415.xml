@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1415"> 
  <teiHeader>
   <fileDesc>
@@ -62,29 +62,29 @@
  </teiHeader>
  <text>
   <body>
-   <p>To His excellency Hon Beriah M<hi rend="sup">c</hi>ag<hi rend="str">g</hi>offin Govenor of Kentucky</p>
-<p>Your petitioners would respectfully state to your excellency that at the last <date when="--03">March</date> Term of the Madison Circuit Court Thomas Rhodus was fined &#36;10,50<hi rend="sup">cts</hi> for an affray &amp; Breach of the Peace, Since that time the said Rhodus has died and Coleman Covington &amp; Jesse Edwards <hi rend="str">his</hi> replevied the judgement aforesaid</p>
+   <p>To His excellency Hon Beriah M<hi rend="sup">c</hi>ag<hi rend="str">g</hi>offin Govenor of <placeName ref="cwgk:P001800">Kentucky</placeName></p>
+<p>Your petitioners would respectfully state to your excellency that at the last <date when="--03">March</date> Term of the <orgName ref="cwgk:O00000657">Madison</orgName> Circuit Court <persName ref="cwgk:N00007495">Thomas Rhodus</persName> was fined $10,50<hi rend="sup">cts</hi> for an affray &amp; Breach of the Peace, Since that time the said Rhodus has died and <persName ref="cwgk:N00007496">Coleman Covington</persName> &amp;<persName ref="cwgk:N00007497"> Jesse Edwards</persName> <hi rend="str">his</hi> replevied the judgement aforesaid</p>
 <p>We would respectfully say to Your Excellency that said Covington and Edwards, are quiet and orderly citizens of this county, And it would be a great hardship upon them to pay the same, And respectfully suggest ^&amp; ask^ that you remit the same</p>
 <p><milestone unit="column" n="2"/><cb n="1"/>Tho<hi rend="underline"><hi rend="sup">s</hi></hi> S Bronston Jr
-<lb/>L E Francis
-<lb/>C A Hawkins
-<lb/><hi rend="underline">Ed. W, Turner</hi>
-<lb/>Geo Dejarnatt
-<lb/>W<hi rend="sup">m</hi> L Biggerstaff
+<lb/><persName ref="cwgk:N00007500">L E Francis
+</persName><lb/><persName ref="cwgk:N00007501">C A Hawkins
+</persName><lb/>
+<persName ref="cwgk:N00007503">Ed. W. Turner</persName><lb/><persName ref="cwgk:N00007505">Geo Dejarnatt
+</persName><lb/>W<hi rend="sup">m</hi> L Biggerstaff
 <lb/>Ja<hi rend="sup">s</hi> B. M<hi rend="sup">c</hi>Creary
-<lb/>A J Dudley
-<lb/><cb n="2"/>R, R, Harris
-<lb/>G <unclear>J</unclear> Roberts 
+<lb/><persName ref="cwgk:N00007510">A J Dudley
+</persName><lb/><cb n="2"/><persName ref="cwgk:N00007511">R. R. Harris
+</persName><lb/>G <unclear>J</unclear> Roberts 
 <lb/>John Bennett
-<lb/>J, H, Freeman
-<lb/>C, H, Donaldson
+<lb/><persName ref="cwgk:N00007515">J. H. Freeman
+</persName><lb/>C, H, Donaldson
 <lb/>A,, D,, Kavanaugh
-<lb/>R Runyon<milestone unit="column" n="1"/><pb/></p>
+<lb/><persName ref="cwgk:N00007517">R Runyon</persName><milestone unit="column" n="1"/><pb/></p>
 <p>Madison Cir. Ct</p>
 <p>Remitted 
 <lb/>B. M</p>
 <p>Tho. Rhodus
-<lb/>&#36;10<hi rend="underline"><hi rend="sup">50</hi></hi> &#125; affray
+<lb/>$10<hi rend="underline"><hi rend="sup">50</hi></hi> } affray
 <lb/>Iss<hi rend="sup">d</hi> <date when="1861-09-23">Sept <hi rend="str">1</hi>23<hi rend="sup">d</hi> 1861</date></p>
   </body>
  </text>
