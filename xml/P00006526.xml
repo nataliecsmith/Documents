@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">San Francisco, San Francisco County, California</title>
+        <title level="a" type="main">San Francisco, California</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Samuel T. Whittaker</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
@@ -45,7 +49,7 @@
                     <placeName>
                         <location>
                               <geo>37.7749 -122.4194</geo>
-                            <settlement>San Francisco, San Francisco County, California</settlement>
+                            <settlement>San Francisco, California</settlement>
                         </location>
                     </placeName>
                 </place> 
