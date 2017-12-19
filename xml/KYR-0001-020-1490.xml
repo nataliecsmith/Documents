@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-020-1490"> 
  <teiHeader>
   <fileDesc>
@@ -62,9 +62,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>To his Excellency the Governor of Kentucky. </p>
+   <p>To <persName ref="cwgk:N00000258">his Excellency</persName> the Governor of <orgName ref="cwgk:O001025">Kentucky</orgName>. </p>
 <p>Your Petitioner Michael Scott would respectfully represent that he was fined in the court of the Police Judge of the city of Frankfort, on the <date when="1861-07-10">10<hi rend="underline"><hi rend="sup">th</hi></hi> of July 1861,</date> the sum of ten dollars with costs upon a charge of breach of the peace -- </p>
-<p>This fine is still unpaid He is a very poor man, has a wife and <hi rend="str">five or six</hi> Two children small and helpless all dependant upon his labor for a support. He has resided in Franfort 20 or 30 years and this is the only time he was ever fined. </p>
+<p>This fine is still unpaid He is a very poor man, has a wife and <hi rend="str">five or six</hi> Two children small and helpless all dependant upon his labor for a support. He has resided in <placeName ref="cwgk:P00000308">Franfort</placeName> 20 or 30 years and this is the only time he was ever fined. </p>
 <p>He is a hard working man and the money which will necessarily be taken to pay the fine is absolutely necessary for the sustenance of his family. </p>
 <p>He promises he will not get into any such predicament again<pb/></p>
 <p>He respectfully prays your Excellency to pardon and remit the fine. The costs will be quite a punisment for his offence.</p>
@@ -103,7 +103,7 @@
 <p>Frankfort Po. Ct</p>
 <p>Remitted
 <lb/>B. M</p>
-<p>&#36;10 &#125; misdemeanor
+<p>$10 } misdemeanor
 <lb/>Mike Scott
 <lb/>Iss<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1861-10-05">Octo. 5. 1861</date></p>
   </body>
