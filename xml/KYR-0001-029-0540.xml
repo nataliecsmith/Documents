@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0540"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,21 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Henderson Kentucky
-<lb/><date when="1863-08-10">Aug 10<hi rend="sup">th</hi> 1863</date>
-<lb/>Hon James F Robinson
-<lb/>Gov of Kentucky
-<lb/>Frankfort Ky
-<lb/>Dr. sir</p>
-<p>Jackson McClain Wm S Sloan &amp; W S Stanley securities of Dacius Prost Lat sheriff of Henderson Co. have Petitioned your Excellency to remit the damages assessed against them as securities of said shriff, Judgement was rendered against ^them^ for <hi rend="str">this</hi> &#36;2,650 &amp; some cents for damages -- they will pay the principle &amp; interest &amp; desire the damages remitted -- the facts set forth in the petition are true, the Petitioners are most worthy &amp; respectable gentlemen -- We believe the case is one in which the Executive should intepose -- we therefore respectfully request your Excellency to remit the damages aforesaid</p>
+   <p>Henderson <orgName ref="cwgk:O001025">Kentucky</orgName><lb/><date when="1863-08-10">Aug 10<hi rend="sup">th</hi> 1863</date>
+<lb/>Hon <persName ref="cwgk:N001004">James F Robinson</persName><lb/>Gov of <orgName ref="cwgk:O001025">Kentucky</orgName><lb/><placeName ref="cwgk:P00000308">Frankfort Ky</placeName><lb/>Dr. sir</p>
+<p><persName ref="cwgk:N00000839">Jackson McClain</persName> <persName ref="cwgk:N00000842">Wm S Sloan</persName> &amp; W S Stanley securities of <persName ref="cwgk:N00000840">Dacius Prost</persName> Lat sheriff of Henderson Co. have Petitioned your Excellency to remit the damages assessed against them as securities of said shriff, Judgement was rendered against ^them^ for <hi rend="str">this</hi> $2,650 &amp; some cents for damages -- they will pay the principle &amp; interest &amp; desire the damages remitted -- the facts set forth in the petition are true, the Petitioners are most worthy &amp; respectable gentlemen -- We believe the case is one in which the Executive should intepose -- we therefore respectfully request your Excellency to remit the damages aforesaid</p>
 <p>We have the honor to be
 <lb/>your obt sert
-<lb/>L W Powell
-<lb/>Arch<hi rend="underline"><hi rend="sup">d</hi></hi> Dixon</p>
+<lb/><persName ref="cwgk:N00000830">L W Powell</persName><lb/>Arch<hi rend="underline"><hi rend="sup">d</hi></hi> Dixon</p>
 <p><table rend="rules">
 <row>
 	<cell>Amt Judgment</cell>
-	<cell>&#36;13.253.83.</cell>
+	<cell>$13.253.83.</cell>
 </row>
 <row>
 	<cell>Damages</cell>
@@ -89,8 +92,7 @@
 </row>
 </table></p>
 <p>Principal Int. &amp; costs paid <date when="1863-08-25">Aug 25<hi rend="sup">th </hi>1863</date>.
-<lb/>Att Grant Green
-<lb/><hi rend="underline">Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi></p>
+<lb/>Att <persName ref="cwgk:N00000466">Grant Green</persName><lb/><hi rend="underline">Aud</hi><hi rend="underline"><hi rend="sup">r</hi></hi></p>
   </body>
  </text>
 </TEI>
