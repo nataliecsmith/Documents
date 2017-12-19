@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1360"> 
  <teiHeader>
   <fileDesc>
@@ -63,16 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville, <date when="1864-12-05">Decr. 5<hi rend="underline"><hi rend="sup">th</hi></hi>, 1864</date>.
-<lb/>His Excellency Governor Bramlette:
-<lb/>Dear Sir:</p>
-<p>I enclose you a copy of a verdict in the case of the Commonwealth against Joseph Gaston, recommending him to the clemency of your Excellency. The prisoner is a boy about 14 years old and one of the handsomest best-looking boys you ever saw-- The articles he was found guilty of having stolen were an old copper boiler and brass kettle of very little value. I was appointed by the Court to defend him, he having no friends and no money, and being a stranger, a resident of Salem, Indiana. If it should please you to pardon him I shall endeavor to send him back<pb/>
-<lb/>to his widowed mother in Indiana </p>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName>, <date when="1864-12-05">Decr. 5<hi rend="underline"><hi rend="sup">th</hi></hi>, 1864</date>.
+<lb/>His Excellency <persName ref="cwgk:N001000">Governor Bramlette</persName>:<lb/>Dear Sir:</p>
+<p>I enclose you a copy of a verdict in the case of <orgName ref="cwgk:O001025">the Commonwealth</orgName> against <persName ref="cwgk:N00002363">Joseph Gaston</persName>, recommending him to the clemency of your Excellency. The prisoner is a boy about 14 years old and one of the handsomest best-looking boys you ever saw-- The articles he was found guilty of having stolen were an old copper boiler and brass kettle of very little value. I was appointed by the Court to defend him, he having no friends and no money, and being a stranger, a resident of Salem, <placeName ref="cwgk:P001818">Indiana</placeName>. If it should please you to pardon him I shall endeavor to send him back<pb/>
+<lb/>to his widowed mother in <placeName ref="cwgk:P001818">Indiana</placeName> </p>
 <p>If your Excellency should decide to pardon my young client, will you please send the requisite papers before Saturday, which is the last day of Court -- </p>
 <p>I am, Sir,
 <lb/>Very respectfully yours,
-<lb/><hi rend="underline">James S. Pirtle</hi></p>
-<p>I find that a copy of the verdict has been sent you by Col. Harney with a petition for the pardon of Seymour Edwards, a little black boy who was jointly indicted with Gaston. I defended both parties, but Col Harney had been employed for the negro boy but was unable to be present at the trial -- </p>
+<lb/><persName ref="cwgk:N00000798">James S. Pirtle</persName></p>
+<p>I find that a copy of the verdict has been sent you by <persName ref="cwgk:N00002359">Col. Harney</persName> with a petition for the pardon of <persName ref="cwgk:N00002358">Seymour Edwards</persName>, a little black boy who was jointly indicted with Gaston. I defended both parties, but Col Harney had been employed for the negro boy but was unable to be present at the trial -- </p>
 <p>very truly
 <lb/>James S. Pirtle.</p>
   </body>
