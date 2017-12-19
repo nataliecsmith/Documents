@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-017-0051"> 
  <teiHeader>
   <fileDesc>
@@ -63,10 +63,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Shelby County Kentucky
-<lb/><date when="1861-01-14">Jany 14<hi rend="sup">th</hi> 1861</date> -- 
-<lb/>To His Excellency B Magoffin
-<lb/>Governor of Kentucky</p>
+   <p><placeName ref="cwgk:P001013">Shelby County</placeName> Kentucky<lb/><date when="1861-01-14">Jany 14<hi rend="sup">th</hi> 1861</date> -- 
+<lb/>To His Excellency <persName ref="cwgk:N00000258">B Magoffin
+</persName><lb/>Governor of Kentucky</p>
 <p>I hereby tender my resignation of the office of Justice of the Peace for the 4<hi rend="sup">th</hi> District of Shelby County Kentucky -- </p>
 <p>Ja<hi rend="sup">s</hi> W Crawford<pb/></p>
 <p>Shelby Co
