@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-1354"> 
  <teiHeader>
   <fileDesc>
@@ -63,14 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Sharpsburg Ky
-<lb/><date when="1864-11-10">Novr. 10<hi rend="sup">th</hi> 1864</date>
-<lb/>Gov. Bramlette
-<lb/>Dear Sir</p>
-<p>There is a very poor woman in this neighborhood who appeals to your clemency</p>
-<p>some time ago her so<hi rend="str">m</hi>n got into a difficulty in Carlisle and to keep him from going to jail Noah Goodpasture (his father) went his security and swore he was worth the required amount, now the only property they have is some land <hi rend="underline">bought</hi> and <hi rend="underline">owned</hi> by the wife and Mother and earned by her hard labor now she fears if this money is not paid her husband will be prosecuted and taken from his family.<pb/>
-<lb/>The <hi rend="underline">young</hi> man has left the state and thereby accomplished what the citizens of Carlisle desired.</p>
-<p>In view of these facts I hope you will feel that it is not inconsistent with your duty to remit the penalty as far as Noah Goodpasture is concerned I think it is &#36;500 -- </p>
+   <p><placeName ref="cwgk:P00001178">Sharpsburg Ky</placeName><lb/><date when="1864-11-10">Novr. 10<hi rend="sup">th</hi> 1864</date>
+<lb/><persName ref="cwgk:N001000">Gov. Bramlette</persName><lb/>Dear Sir</p>
+<p>There is a very <persName ref="cwgk:N00001180">poor woman in this neighborhood</persName> who appeals to your clemency</p>
+<p>some time ago her so<hi rend="str">m</hi>n got into a difficulty in <placeName ref="cwgk:P00000537">Carlisle</placeName> and to keep him from going to jail <persName ref="cwgk:N00001179">Noah Goodpasture</persName> (his father) went his security and swore he was worth the required amount, now the only property they have is some land <hi rend="underline">bought</hi> and <hi rend="underline">owned</hi> by the wife and Mother and earned by her hard labor now she fears if this money is not paid her husband will be prosecuted and taken from his family.<pb/>
+<lb/>The <hi rend="underline">young</hi> man has left the state and thereby accomplished what the citizens of <placeName ref="cwgk:P00000537">Carlisle</placeName> desired.</p>
+<p>In view of these facts I hope you will feel that it is not inconsistent with your duty to remit the penalty as far as Noah Goodpasture is concerned I think it is $500 -- </p>
 <p>With my best wishes for you</p>
 <p>I am very Respy
 <lb/>Yr friend
@@ -78,10 +76,9 @@
 <p>Dear Gov</p>
 <p>I fully concur with. Mr Sudduth the fine was imposed in my court. and I hope you will remit it <hi rend="underline">yor frd</hi></p>
 <p>L W Andrews<pb/></p>
-<p>Nicholas Cir Ct
-<lb/>vs
+<p><orgName ref="cwgk:O00000477">Nicholas Cir Ct</orgName><lb/>vs
 <lb/>Noah Goodpasture
-<lb/>&#36;500,</p>
+<lb/>$500,</p>
 <p>Remitted
 <lb/><date when="1864-11-15">15<hi rend="sup">th</hi> Nov/64</date></p>
   </body>
