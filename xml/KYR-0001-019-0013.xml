@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-019-0013"> 
  <teiHeader>
   <fileDesc>
@@ -62,9 +62,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>G. W. Norton
-<lb/>Cash<hi rend="underline"><hi rend="sup">r</hi></hi></p>
-<p>Notifying the Governor of &#36;60.000 contributed from So. Bank for Arm<hi rend="underline"><hi rend="sup">s</hi></hi></p>
+   <p><persName ref="cwgk:N00001226">G. W. Norton</persName><lb/>Cash<hi rend="underline"><hi rend="sup">r</hi></hi></p>
+<p>Notifying the Governor of $60.000 contributed from So. Bank for Arm<hi rend="underline"><hi rend="sup">s</hi></hi></p>
 <p><date when="1861-04-30">Apr 30. 1861</date></p>
   </body>
  </text>
