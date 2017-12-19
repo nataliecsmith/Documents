@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0002-033-0008"> 
  <teiHeader>
   <fileDesc>
@@ -63,12 +63,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>HEAD QUARTERS, DEPARTMENT OF THE OHIO.
-<lb/>Cincinnati, Ohio, <date when="1863-07-19">July 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1863.</date>
+   <p><orgName ref="cwgk:O001001">HEAD QUARTERS, DEPARTMENT OF THE OHIO</orgName>.<lb/><placeName ref="cwgk:P00001208">Cincinnati, Ohio</placeName>, <date when="1863-07-19">July 19<hi rend="underline"><hi rend="sup">th</hi></hi> 1863.</date>
 <lb/>Special Orders, No. 271,</p>
-<p>4 ,, ,, ,, The resignation of Captain <hi rend="underline">Samuel A. Boone,</hi> 1<hi rend="underline"><hi rend="sup">st</hi></hi> Kentucky Volunteer Cavalry, is for the good of the service, hereby accepted to take effect on the <date when="1863-07-21">twenty first (21<hi rend="underline"><hi rend="sup">st</hi></hi>), day of July 1863.</date></p>
-<p>BY ORDER OF MAJOR GENERAL BURNSIDE.
-<lb/>R. H. J. Goddard
+<p>4 ,, ,, ,, The resignation of Captain  1<persName ref="cwgk:N00005701">Samuel A. Boone</persName>,<hi rend="underline"><hi rend="sup">st</hi></hi> Kentucky Volunteer Cavalry, is for the good of the service, hereby accepted to take effect on the <date when="1863-07-21">twenty first (21<hi rend="underline"><hi rend="sup">st</hi></hi>), day of July 1863.</date></p>
+<p>BY ORDER OF MAJOR <persName ref="cwgk:N00005702">GENERAL BURNSIDE</persName>.<lb/>R. H. J. Goddard
 <lb/>Acting Assistant Adjutant General.</p>
 <p>1.2.3.4.5.6.<figure type="hr"/>
 <lb/>date of Com. Dec<hi rend="sup">r.</hi> 2. 1862,<figure type="hr"/></p>
