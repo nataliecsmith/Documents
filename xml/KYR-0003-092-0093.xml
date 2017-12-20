@@ -72,10 +72,10 @@
  <text>
   <body>
    <p>M<hi rend="underline"><hi rend="sup">r</hi></hi> <persName ref="cwgk:N001002">George W. Johnson
-</persName><lb/>Grand Lake
-<lb/>Arkansas</p>
+   </persName><lb/><placeName ref="cwgk:P00008143">Grand Lake
+<lb/>Arkansas</placeName></p>
 <p><stamp>5</stamp></p>
-<p><placeName ref="cwgk:P00002993">MIDWAY</placeName> </p>
+   <p><placeName ref="cwgk:P00002993">MIDWAY</placeName><date when="--01-28">JAN 28</date> KY.</p>
   </body>
  </text>
 </TEI>
