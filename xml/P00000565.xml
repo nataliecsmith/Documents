@@ -3,7 +3,11 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Independence, Kenton County, Kentucky</title>
+        <title level="a" type="main">Independence, Kentucky</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
@@ -41,7 +45,7 @@
                     <placeName>
                         <location>
                               <geo>38.9431 -84.5441</geo>
-                            <settlement>Independence, Kenton County, Kentucky</settlement>
+                            <settlement>Independence, Kentucky</settlement>
                         </location>
                     </placeName>
                 </place> 
@@ -50,7 +54,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Seat of Kenton County.</p>
+        <p>Seat of Kenton County, Kentucky.</p>
 
     </body>
     <back>
