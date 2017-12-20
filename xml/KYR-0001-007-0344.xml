@@ -71,12 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>Owensboro <orgName ref="cwgk:O001025">Ky</orgName><lb/><date when="1865-01-04">Jany 4<hi rend="sup">th</hi> 1865</date>
-<lb/>Tho<hi rend="sup">s</hi> E Bramlette
+   <p><placeName ref="cwgk:P00004898">Owensboro Ky</placeName><lb/><date when="1865-01-04">Jany 4<hi rend="sup">th</hi> 1865</date>
+    <lb/><persName ref="cwgk:N001000">Tho<hi rend="sup">s</hi> E Bramlette</persName>
 <lb/>Governor of <orgName ref="cwgk:O001025">Ky</orgName></p>
-<p>Dr Sir-: Enclosed I send you a petition signed by some of the most responsible &amp; best Citizens of our County the object of which is Set forth in the petition -- I can say to you that M<hi rend="sup">r</hi> <persName ref="cwgk:N00004904">I P Washburn</persName> will answer the purpose he is an aged man and has filed more important positions than the one he applies for now -- Among the Signatures to his peitition you will find that of Jessee Moore Post Master of our town -- W. S. M<hi rend="sup">c</hi>Farland County atty. and Ray &amp; Hardin attys of some reputation I mention this for the reason that since M<hi rend="sup">r</hi> Washburn has applied one <persName ref="cwgk:N00004899">A. G. Botts</persName> has written you on the subject and annother appointment</p>
+   <p>Dr Sir-: Enclosed I send you a petition signed by some of the most responsible &amp; best Citizens of our <placeName ref="cwgk:P001811">County</placeName> the object of which is Set forth in the petition -- I can say to you that M<hi rend="sup">r</hi> <persName ref="cwgk:N00004904">I P Washburn</persName> will answer the purpose he is an aged man and has filed more important positions than the one he applies for now -- Among the Signatures to his peitition you will find that of <persName ref="cwgk:N00004900">Jessee Moore</persName> Post Master of our town -- <persName ref="cwgk:N00004905">W. S. M<hi rend="sup">c</hi>Farland</persName> County atty. and <orgName ref="cwgk:O00007050">Ray &amp; Hardin</orgName> attys of some reputation I mention this for the reason that since M<hi rend="sup">r</hi> Washburn has applied one <persName ref="cwgk:N00004899">A. G. Botts</persName> has written you on the subject and annother appointment</p>
 <p>Very Respectifully
-<lb/><hi rend="underline">Geo. W. Swoope</hi></p>
+ <lb/><hi rend="underline"><persName ref="cwgk:N00004901">Geo. W. Swoope</persName></hi></p>
   </body>
  </text>
 </TEI>

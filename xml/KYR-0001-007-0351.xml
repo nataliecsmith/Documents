@@ -71,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Philad<hi rend="sup">a</hi> <date when="1865-01-14">Jan 14<hi rend="sup">th</hi> 1865</date>
+   <p><placeName ref="cwgk:P00001701">Philad<hi rend="sup">a</hi></placeName> <date when="1865-01-14">Jan 14<hi rend="sup">th</hi> 1865</date>
 <lb/>My Dear Sir</p>
-<p>I desire the appointment of Commissioner of the<orgName ref="cwgk:O001025"> State of Kentucky</orgName> Resident in the City of Philadelphia <placeName ref="cwgk:P001006">State of Pennsylvania</placeName> to take the acknowledgements of Deeds &amp;c I am a commissioner for several of the states &amp; should be obliged to you for your Commission as such</p>
+<p>I desire the appointment of Commissioner of the <orgName ref="cwgk:O001025">State of Kentucky</orgName> Resident in the City of Philadelphia <placeName ref="cwgk:P001006">State of Pennsylvania</placeName> to take the acknowledgements of Deeds &amp;c I am a commissioner for several of the states &amp; should be obliged to you for your Commission as such</p>
 <p>Your Obt Servant
-<lb/><hi rend="underline">A N Hoskins</hi>
+ <lb/><hi rend="underline"><persName ref="cwgk:N00004914">A N Hoskins</persName></hi>
 <lb/>N<hi rend="sup">o</hi> 1130 Girard st</p>
 <p>To/
 <lb/>His Excellency
 <lb/><persName ref="cwgk:N001000">Governor Bramlette</persName><lb/>Governor of Kentucky
-<lb/>Frankfort
-<lb/>Ky</p>
+ <lb/><placeName ref="cwgk:P00000308">Frankfort
+<lb/>Ky</placeName></p>
 <p><hi rend="underline">Anson N Hoskins</hi></p>
 <p><figure type="seal"><ab>A N HOSKINS
 <lb/>OF
