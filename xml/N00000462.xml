@@ -3,11 +3,15 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">R. W. Lawbe</title>
+        <title level="a" type="main">R. W. Lawler</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Hannah M. O&#39;Daniel</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
@@ -43,7 +47,7 @@
         <particDesc>
                 <person xml:id="N00000462">
                     <persName>
-                      R. W. Lawbe
+                      R. W. Lawler
                         (Employee of the Kentucky State Penitentiary in Frankfort, Kentucky)
                     </persName>
                         <trait type="race" subtype="White"/>
