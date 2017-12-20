@@ -71,8 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00001847">Springfield Ky
-</placeName><lb/><date when="1860-11-28">28' Nov 1860</date>
+   <p><placeName ref="cwgk:P00001847">Springfield Ky</placeName>
+    <lb/><date when="1860-11-28">28' Nov 1860</date>
 <lb/><persName ref="cwgk:N00000258">Gov. B Magoffin</persName><lb/>Dear Sir</p>
 <p>Mr Anthony C. M<hi rend="sup">c</hi>Elroy of this place desires to be appointed a Notary Public for this county- He is well qualified. <hi rend="str">cu</hi>for the offices is of good character and habits -- </p>
 <p>I send in this one dollar to pay the <persName ref="cwgk:N00002581">secetary of States</persName> fee in the case ^you^ should, <hi rend="str"><unclear/></hi> see proper to commission her</p>
@@ -81,7 +81,7 @@
 <lb/><persName ref="cwgk:N00000220">R. J. Browne</persName><pb/></p>
 <p><placeName ref="cwgk:P00005027">Washington</placeName><figure type="hr"/>
 <lb/>Notary
-<lb/>A. C. M<hi rend="underline"><hi rend="sup">c</hi></hi>Elroy
+<lb/><persName ref="cwgk:N00001848">A. C. M<hi rend="underline"><hi rend="sup">c</hi></hi>Elroy</persName>
 <lb/>Iss<hi rend="sup">d</hi> <date when="1860-12-01">Decr. 1 1860</date></p>
 <p>Issue Commission
 <lb/>B M</p>

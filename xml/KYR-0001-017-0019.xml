@@ -71,8 +71,8 @@
  </teiHeader>
  <text>
   <body>
-   <p><orgName ref="cwgk:O00001780">Banking Office of Shreve &amp; Tucker
-</orgName><lb/><placeName ref="cwgk:P00000337">Louisville </placeName><date when="1860-11-27">Nov 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1860</date>
+   <p><orgName ref="cwgk:O00001780">Banking Office of Shreve &amp; Tucker</orgName>
+    <lb/><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1860-11-27">Nov 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1860</date>
 <lb/>To his Exelncy
 <lb/><persName ref="cwgk:N00000258">Beriah Magoffin</persName> Eq<lb/>Gov of <orgName ref="cwgk:O001025">Kentucky
 </orgName><lb/>Dear Sir</p>
@@ -83,7 +83,7 @@
 <lb/>Shreve &amp; Tucker<pb/></p>
 <p>Jefferson Co<figure type="hr"/>
 <lb/>Notary
-<lb/>R. H. Higgins<figure type="hr"/>
+<lb/><persName ref="cwgk:N00001781">R. H. Higgins</persName><figure type="hr"/>
 <lb/>Com Iss<hi rend="sup">d</hi> <date when="1860-11-28">Nov 28 1860</date></p>
   </body>
  </text>

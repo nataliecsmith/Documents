@@ -70,9 +70,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>Kenton Co<figure type="hr"/>
+   <p><placeName ref="cwgk:P00000937">Kenton Co</placeName><figure type="hr"/>
 <lb/>Notary
-<lb/>Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Ayres Jr
+<lb/><persName ref="cwgk:N00001756">Ja<hi rend="underline"><hi rend="sup">s</hi></hi> Ayres Jr</persName>
 <lb/>Com<hi rend="underline"><hi rend="sup">d</hi></hi> <date when="1860-11-27">Nov 27. 1860</date></p>
   </body>
  </text>
