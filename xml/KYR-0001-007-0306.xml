@@ -62,36 +62,36 @@
  </teiHeader>
  <text>
   <body>
-   <p>JOHN S. HOLLINGSHEAD,
+   <p><persName ref="cwgk:N00000531">JOHN S. HOLLINGSHEAD</persName>,
 <lb/>Justice of the Peace
 <lb/>NOTARY PUBLIC
 <lb/>AND
 <lb/>COMMISSIONER OF DEEDS FOR
-<lb/><milestone unit="column" n="2"/><cb n="1"/>NEW YORK,
-<lb/>MAINE,
-<lb/>VERMONT,
-<lb/>CONNECTICUT,
-<lb/>MARYLAND,
-<lb/>INDIANA,
-<lb/>MISSOURI,
-<lb/>WISCONSIN,
-<lb/>MICHIGAN,
-<lb/>KANSAS,
-<lb/>NEW MEXICO,
-<lb/>UTAH,
-<lb/><cb n="2"/>PENNSYLVANIA,
-<lb/>NEW HAMPSHIRE,
-<lb/>RHODE ISLAND,
-<lb/>MASSACHUSETTS,
-<lb/>OHIO,
-<lb/>ILLINOIS,
-<lb/>IOWA,
-<lb/>MINNESOTA,
-<lb/>NEW JERSEY,
-<lb/>NEBRASKA,
-<lb/>OREGON.<milestone unit="column" n="1"/></p>
+    <lb/><milestone unit="column" n="2"/><cb n="1"/><placeName ref="cwgk:P001007">NEW YORK</placeName>,
+    <lb/><placeName ref="cwgk:P00002513">MAINE</placeName>,
+    <lb/><placeName ref="cwgk:P001026">VERMONT</placeName>,
+    <lb/><placeName ref="cwgk:P00002511">CONNECTICUT</placeName>,
+    <lb/><placeName ref="cwgk:P00001160">MARYLAND</placeName>,
+    <lb/><placeName ref="cwgk:P001818">INDIANA</placeName>,
+    <lb/><placeName ref="cwgk:P00001883">MISSOURI</placeName>,
+    <lb/><placeName ref="cwgk:P00002521">WISCONSIN</placeName>,
+    <lb/><placeName ref="cwgk:P00002514">MICHIGAN</placeName>,
+    <lb/><placeName ref="cwgk:P00005654">KANSAS</placeName>,
+    <lb/><placeName ref="cwgk:P00005649">NEW MEXICO</placeName>,
+    <lb/><placeName ref="cwgk:P00005657">UTAH</placeName>,
+    <lb/><cb n="2"/><placeName ref="cwgk:P001006">PENNSYLVANIA</placeName>,
+    <lb/><placeName ref="cwgk:P00002516">NEW HAMPSHIRE</placeName>,
+    <lb/><placeName ref="cwgk:P00002519">RHODE ISLAND</placeName>,
+    <lb/><placeName ref="cwgk:P00001140">MASSACHUSETTS</placeName>,
+    <lb/><placeName ref="cwgk:P001036">OHIO</placeName>,
+    <lb/><placeName ref="cwgk:P00004765">ILLINOIS</placeName>,
+    <lb/><placeName ref="cwgk:P001009">IOWA</placeName>,
+    <lb/><placeName ref="cwgk:P00002515">MINNESOTA</placeName>,
+    <lb/><placeName ref="cwgk:P00002517">NEW JERSEY</placeName>,
+    <lb/><placeName ref="cwgk:P00005655">NEBRASKA</placeName>,
+    <lb/><placeName ref="cwgk:P00005656">OREGON</placeName>.<milestone unit="column" n="1"/></p>
 <p>CORNER OF 8TH AND E STREETS,
-<lb/>WASHINGTON CITY, D. C.
+ <lb/><placeName ref="cwgk:P00001134">WASHINGTON CITY, D. C.</placeName>
 <lb/>Near the general Post Office.</p>
   </body>
  </text>
