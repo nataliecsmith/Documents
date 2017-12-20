@@ -72,11 +72,11 @@
  <text>
   <body>
    <p><placeName ref="cwgk:P001006">State of Pennsylvania</placeName><lb/><placeName ref="cwgk:P00002584">City &amp; County of Philadelphia</placeName> } Ss</p>
-<p>I, <persName ref="cwgk:N00002508">Theodore D. Rand</persName> a Commissioner of Deeds for the State of Kentucky, duly appointed and commissioned by the Governor thereof for the State of Pennsylvania, resident in the said City and County, do solemnly swear that I will well and faithfully and truly execute and perform all the duties of my station as such Commissioner under and by virtue of the Laws of the <orgName ref="cwgk:O001025">State of Kentucky</orgName></p>
+   <p>I, <persName ref="cwgk:N00002508">Theodore D. Rand</persName> a Commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName>, duly appointed and commissioned by the Governor thereof for the State of Pennsylvania, resident in the said City and County, do solemnly swear that I will well and faithfully and truly execute and perform all the duties of my station as such Commissioner under and by virtue of the Laws of the <orgName ref="cwgk:O001025">State of Kentucky</orgName></p>
 <p>Theo D Rand</p>
 <p>Sworn and subscribed before me this <date when="1865-03-15">15<hi rend="sup">th</hi> day of March A. D 1865</date></p>
 <p>Witness my hand &amp; Official Seal
-<lb/><hi rend="underline">Hugh</hi> <hi rend="underline">W.</hi> <hi rend="underline">Tener</hi>
+ <lb/><persName ref="cwgk:N00002585"><hi rend="underline">Hugh</hi> <hi rend="underline">W.</hi> <hi rend="underline">Tener</hi></persName>
 <lb/>Commissioner of Kentucky
 <lb/>for Pennsylvania -- </p>
 <p><figure type="seal"><ab>HUGH W. TENER

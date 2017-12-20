@@ -71,11 +71,12 @@
  </teiHeader>
  <text>
   <body>
-   <p><placeName ref="cwgk:P00003303">Baltimore
-</placeName><lb/><date when="1865-02-13">February 13th 1865</date>
+   <p><placeName ref="cwgk:P00003303">Baltimore</placeName>
+    <lb/><date when="1865-02-13">February 13th 1865</date>
 <lb/>To His Excellency
-<lb/><persName ref="cwgk:N001000">The Governor of Kentucky</persName><lb/>Sir</p>
-<p>I have the ^honor^ to make application to your Excellency for the appointment, as Commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName>, resident at Baltimore City, and have the honor to submit the endorsement of the Honorable<persName ref="cwgk:N00005351"> Reverdy Johnson</persName> in my behalf -- </p>
+<lb/><persName ref="cwgk:N001000">The Governor of Kentucky</persName>
+<lb/>Sir</p>
+<p>I have the ^honor^ to make application to your Excellency for the appointment, as Commissioner of Deeds for the <orgName ref="cwgk:O001025">State of Kentucky</orgName>, resident at Baltimore City, and have the honor to submit the endorsement of the Honorable <persName ref="cwgk:N00005351">Reverdy Johnson</persName> in my behalf -- </p>
 <p>Very Respectively
 <lb/>Your Obt Servant
 <lb/><persName ref="cwgk:N00005646">William P. Eaton</persName></p>
@@ -83,7 +84,7 @@
 <p>Revdy Johnson
 <lb/><date when="1865-02-18">18 Fby '65</date><pb/></p>
 <p>Com<hi rend="sup">r</hi> Deeds
-<lb/>Maryland
+ <lb/><placeName ref="cwgk:P00001160">Maryland</placeName>
 <lb/>W<hi rend="sup">m</hi> P, Eaton
 <lb/>appt<hi rend="sup">d</hi> <date when="1865-02-27">27<hi rend="sup">th</hi> Feby/65</date></p>
   </body>

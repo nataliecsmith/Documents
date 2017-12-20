@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP00002504">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DP001822">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Hickman, Kentucky </title>
-          <respStmt>
-            <resp n="created">Created by:</resp>
-            <name>Courtney Buchkoski</name>
-          </respStmt>        
+        <title level="a" type="main">Meade County, Kentucky</title>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -45,11 +37,11 @@
                 </keywords>
             </textClass>
             <settingDesc>
-                <place xml:id="P00002504">
+                <place xml:id="P001822">
                     <placeName>
                         <location>
-                              <geo>36.5712 -89.1862</geo>
-                            <settlement>Hickman, Kentucky </settlement>
+                              <geo>37.999 -86.1694</geo>
+                            <settlement>Meade County, Kentucky</settlement>
                         </location>
                     </placeName>
                 </place> 
@@ -58,11 +50,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Seat of Fulton County, Kentucky. Located on the Mississippi River.</p>
+        <p>Seat at Brandenburg, Kentucky. Located on the Ohio River.</p>
 
     </body>
     <back>
-        <ab><bibl>Robert M. Rennick, <hi rend="italic">Kentucky Place Names</hi> (Lexington: University of Kentucky Press, 1987), p. 138. 
+        <ab><bibl>Ron D. Bryant, &quot;Meade County&quot; in <hi rend="italic">The Kentucky Encyclopedia</hi>, John E. Kleber, ed. (Lexington: University Press of Kentucky, 1992), 622-23.
 </bibl></ab>
     </back>
 </text>
