@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0111"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Whitney R. Smith</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,14 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1863-10-28">28<hi rend="underline"><hi rend="sup">th</hi></hi> Octr 1863</date>
-<lb/>Gov Bramlett
-<lb/>Dear Sir:</p>
-<p>A petition I learn will be presented to you for the pardon of F. Gorin Esq for the offence of shooting and wounding W C Wood. I have known Mr Gorin long and intimately, and feel well satisfied from the facts I have learned in regard to the case, that there was no malicious purpose on the part of M<hi rend="sup">r</hi> Gorin but that the unfortunate act was the result of momentary excitement, and now deeply regretted by him -- Mr Gorin is a worthy and valuable citizen, and I think it would not only be an act of clemency, but of justice to grant him a pardon -- and I most earnestly but respectfully ask that it be done -- </p>
+   <p><placeName ref="cwgk:P00000337">Louisville </placeName><date when="1863-10-28">28<hi rend="underline"><hi rend="sup">th</hi></hi> Octr 1863</date>
+<lb/><persName ref="cwgk:N001000">Gov Bramlett
+</persName><lb/>Dear Sir:</p>
+<p>A petition I learn will be presented to you for the pardon of <persName ref="cwgk:N00000330">F. Gorin</persName> Esq for the offence of shooting and wounding W C Wood. I have known Mr Gorin long and intimately, and feel well satisfied from the facts I have learned in regard to the case, that there was no malicious purpose on the part of M<hi rend="sup">r</hi> Gorin but that the unfortunate act was the result of momentary excitement, and now deeply regretted by him -- Mr Gorin is a worthy and valuable citizen, and I think it would not only be an act of clemency, but of justice to grant him a pardon -- and I most earnestly but respectfully ask that it be done -- </p>
 <p>very respectfully
 <lb/>Your friend &amp;
 <lb/>obt sert
-<lb/>A. Harding</p>
+<lb/><persName ref="cwgk:N00000340">A. Harding</persName></p>
   </body>
  </text>
 </TEI>

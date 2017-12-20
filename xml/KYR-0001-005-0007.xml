@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0007"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,11 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Stephen Powell</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,13 +68,13 @@
  <text>
   <body>
    <p>State of I<unclear/>
-<lb/><hi rend="str"><unclear/></hi> Marion County &#125; SS</p>
-<p>I Dexter B Hodges being duly sworn saith that on or about the <date when="1863-04-17">17 day of April A D 1863</date>, at Clarke Station in the said Conty and state aforesaid One Esther Ritche alias Maty Clarke alias Fany Barton did there and then unlawfully, and Feloneousley take steal and cary away 3 three united states tresury notes to the value of ten dollars each and <unclear/> to the value of 5 Dolers, als 1 lot of <unclear>writen</unclear> <unclear>appeals</unclear> ^to the value of 50 Dollrs^ all the Goods and Chatles of this affavidt contra to the statue in such cases made and provided and that this affadiant further belives that the said Ester Ritche alias Maty Clarke alias Fany Barton is now in Louisville Kentucy and escaped from Justice and further prays that Your Exly Gov O. P. Morton will isue his rqustion upon the Gov of Knetacy to deliver to the agent you may apoint the said Esthr Richr alias Maty Clarke alias Fany Barton to be return to Justice in the County and state aforsaid all of which is true as affidavit <unclear>verey</unclear> beleve.</p>
+<lb/><hi rend="str"><unclear/></hi> <placeName ref="cwgk:P00005186">Marion County</placeName> } SS</p>
+<p>I <persName ref="cwgk:N00005187">Dexter B Hodges</persName> being duly sworn saith that on or about the <date when="1863-04-17">17 day of April A D 1863</date>, at <placeName ref="cwgk:P00007335">Clarke Station</placeName> in the said Conty and state aforesaid One <persName ref="cwgk:N00005189">Esther Ritche</persName> alias Maty Clarke alias Fany Barton did there and then unlawfully, and Feloneousley take steal and cary away 3 three united states tresury notes to the value of ten dollars each and <unclear/> to the value of 5 Dolers, als 1 lot of <unclear>writen</unclear> <unclear>appeals</unclear> ^to the value of 50 Dollrs^ all the Goods and Chatles of this affavidt contra to the statue in such cases made and provided and that this affadiant further belives that the said Ester Ritche alias Maty Clarke alias Fany Barton is now in<placeName ref="cwgk:P00000337"> Louisville Kentucy</placeName> and escaped from Justice and further prays that Your <persName ref="cwgk:N00005190">Exly Gov O. P. Morton</persName> will isue his rqustion upon the Gov of Knetacy to deliver to the agent you may apoint the said Esthr Richr alias Maty Clarke alias Fany Barton to be return to Justice in the County and state aforsaid all of which is true as affidavit <unclear>verey</unclear> beleve.</p>
 <p>Dexter B Hodgett</p>
 <p>Sworn and subcribed before me this <date when="1863-11-12">12 day of November, A D 1863</date>.</p>
-<p>Charles Fisher J P <figure type="seal"/><pb/></p>
+<p><persName ref="cwgk:N00005191">Charles Fisher J P</persName> <figure type="seal"/><pb/></p>
 <p>State of Indiana, Marion County, Sct.</p>
-<p>I, William Wallance clerk of the Marion Circuit Court do hereby Certify that Charles Fisher Esq<hi rend="underline"><hi rend="sup">r</hi></hi> is an acting Justice of the peace of Marion County state of Indiana duly elected, Commissioned and qualified; that full faith and credit are due all his official acts; and that that the within signature purporting to be his is genuine.</p>
+<p>I, <persName ref="cwgk:N00005192">William Wallance</persName> clerk of the <orgName ref="cwgk:O00005193">Marion Circuit Court</orgName> do hereby Certify that Charles Fisher Esq<hi rend="underline"><hi rend="sup">r</hi></hi> is an acting Justice of the peace of Marion County state of Indiana duly elected, Commissioned and qualified; that full faith and credit are due all his official acts; and that that the within signature purporting to be his is genuine.</p>
 <p>In witness where of I hereunto set my hand and affix the seal of said Court this <date when="1863-11-12">12<hi rend="sup">th</hi> day of November AD. 1863</date></p>
 <p>William Wallace clk</p>
   </body>

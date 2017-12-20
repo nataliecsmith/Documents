@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-029-0596"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Hannah M. O'Daniel</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>James F. Robinson,
-<lb/>GOVERNOR OF THE COMMONWEALTH OF KENTUCKY,
-<lb/>TO ALL WHO SHALL SEE THESE PRESENTS, GREETING:</p>
-<p>WHEREAS, judgment has been rendered by the Franklin Cir ct for &#36;2603 <hi rend="sup">65</hi>/<hi rend="sub">100</hi> Principal and &#36;520 <hi rend="sup">73</hi>/<hi rend="sub">100</hi> in Damages -- against A. J Banta Sheriff of Nicholas Co as damages for failure to pay in the revenue of s<hi rend="underline"><hi rend="sup">d</hi></hi> Co, for the year <date when="1861">1861</date> as required by law AND WHEREAS, It appears from satisfactory evidence that the case of the said <gap/> presents strong considerations for the interposition and indulgence of the Executive:</p>
-<p>Now, Know Ye, That in consideration of the premises, and by virtue of the power vested in me by the Constitution, I have thought proper to REMIT, and do, by these presents, remit said <hi rend="str">judgment</hi> Damages of &#36;520 <hi rend="sup">73</hi>/<hi rend="sub">100</hi> aforesaid -- and do hereby forever acquit, release, and discharge the said <gap/> from the same, enjoining all officers to respect this REMISSION, and govern themselves accordingly.</p>
-<p>In Testimony Whereof, I have caused these letters to be made patent, and the Seal of the Commonwealth to be hereunto affixed. Done at FRANKFORT, the <gap/> day of <gap/>, in the year of our Lord one thousand eight hundred and <gap/>, and in the <gap/> year of the Commonwealth.</p>
+   <p><persName ref="cwgk:N001004">James F. Robinson</persName>,<lb/>GOVERNOR OF <orgName ref="cwgk:O001025">THE COMMONWEALTH OF KENTUCKY</orgName>,<lb/>TO ALL WHO SHALL SEE THESE PRESENTS, GREETING:</p>
+<p>WHEREAS, judgment has been rendered by the Franklin Cir ct for $2603 <hi rend="sup">65</hi>/<hi rend="sub">100</hi> Principal and $520 <hi rend="sup">73</hi>/<hi rend="sub">100</hi> in Damages -- against <persName ref="cwgk:N00002717">A. J Banta</persName> Sheriff of <orgName ref="cwgk:O00000670">Nicholas Co</orgName> as damages for failure to pay in the revenue of s<hi rend="underline"><hi rend="sup">d</hi></hi> Co, for the year <date when="1861">1861</date> as required by law AND WHEREAS, It appears from satisfactory evidence that the case of the said <gap/> presents strong considerations for the interposition and indulgence of the Executive:</p>
+<p>Now, Know Ye, That in consideration of the premises, and by virtue of the power vested in me by the Constitution, I have thought proper to REMIT, and do, by these presents, remit said <hi rend="str">judgment</hi> Damages of $520 <hi rend="sup">73</hi>/<hi rend="sub">100</hi> aforesaid -- and do hereby forever acquit, release, and discharge the said <gap/> from the same, enjoining all officers to respect this REMISSION, and govern themselves accordingly.</p>
+<p>In Testimony Whereof, I have caused these letters to be made patent, and the Seal of the Commonwealth to be hereunto affixed. Done at <placeName ref="cwgk:P00000308">FRANKFORT</placeName>, the <gap/> day of <gap/>, in the year of our Lord one thousand eight hundred and <gap/>, and in the <gap/> year of the Commonwealth.</p>
 <p>BY THE GOVERNOR:
-<lb/><gap/>, SECRETARY OF STATE.<figure type="hr"/></p>
-<p>Commmonwealth Office -- WM. E. HUGHES, State Printer.</p>
+<lb/><gap/>, <persName ref="cwgk:N00000233">SECRETARY OF STATE</persName>.<figure type="hr"/></p>
+<p>Commmonwealth Office -- <persName ref="cwgk:N00002718">WM. E. HUGHES</persName>, State Printer.</p>
   </body>
  </text>
 </TEI>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-005-0016"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,9 @@
  </teiHeader>
  <text>
   <body>
-   <p>The Commonwealth of Kentucky,
-<lb/>AGAINST
-<lb/>William Banks &amp; John M<hi rend="sup">c</hi>Clure<figure type="hr"/>
-<lb/>Jefferson Circuit Court,
-<lb/><date when="1864-01">January Term, A. D. 1864</date>.</p>
+   <p>The <orgName ref="cwgk:O001025">Commonwealth of Kentucky</orgName>,<lb/>AGAINST
+<lb/><persName ref="cwgk:N00005830">William Banks</persName> &amp; John M<hi rend="sup">c</hi>Clure<figure type="hr"/>
+<lb/><orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName>,<lb/><date when="1864-01">January Term, A. D. 1864</date>.</p>
 <p>The Grand Jurors of the County of Jefferson in the name and by the authority of the Commonwealth of Kentucky, accuse William Banks &amp; John M<hi rend="sup">c</hi>Clure of the Crime of of Grand Larceny committed in manner and form as follows, to=wit: The said W<hi rend="sup">m</hi> Banks &amp; John M<hi rend="sup">c</hi>Clure in the said County of Jefferson on the <date when="1863-12-10">10 day of December A. D. 1863</date>. feloniously took &amp; carried away two Boxes of Tobacco ^containing thirty seven pounds of Tobacco^ worth eighty five cents per pound the property of Charles H. Fink against the peace &amp; dignity of the comth of Kentucky, &amp; the said Jurors further present that in said county on said date said William Banks &amp; John M<hi rend="sup">c</hi>Clure did feloniously, knowingly take receive &amp; appropriate to them selves two boxes of tobacco containing thirty seven pound of tobacco worth eighty five cents per pound the property of Charles H Fink knowing the same to be stolen contrary to the form of the statute in such cases, made and provided against the peace and dignity of the Commonwealth of Kentucky.</p>
 <p>J. R. Dupuy
 <lb/>Commonwealth's Attorney.</p>
@@ -87,7 +93,7 @@
 <lb/>att J P Chambers clk</p>
 <p>The Commonwealth of Kentucky.
 <lb/>Indictment.
-<lb/>vs &#125; Grand Larceny
+<lb/>vs } Grand Larceny
 <lb/>William Banks &amp; John M<hi rend="sup">c</hi>Clure
 <lb/>A True Bill.
 <lb/>J B Wilder

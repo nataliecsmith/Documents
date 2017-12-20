@@ -3,7 +3,11 @@
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Pittsburgh, Allegheny County, Pennsylvania</title>
+        <title level="a" type="main">Pittsburgh, Pennsylvania</title>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
@@ -45,7 +49,7 @@
                     <placeName>
                         <location>
                               <geo>40.4406 -79.9959</geo>
-                            <settlement>Pittsburgh, Allegheny County, Pennsylvania</settlement>
+                            <settlement>Pittsburgh, Pennsylvania</settlement>
                         </location>
                     </placeName>
                 </place> 

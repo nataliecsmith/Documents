@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0116"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Whitney R. Smith</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Whitney R. Smith</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,17 +71,17 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville, Ky, <date when="1863-10-30">Octo 30<hi rend="underline"><hi rend="sup">th</hi></hi> '53</date>
+   <p><placeName ref="cwgk:P00000337">Louisville, Ky</placeName>, <date when="1863-10-30">Octo 30<hi rend="underline"><hi rend="sup">th</hi></hi> '53</date>
 <lb/>Gov<hi rend="underline"><hi rend="sup">r</hi></hi> Bramlette
 <lb/>Dear Sir.</p>
-<p>I am sure the public good will be promoted by the prompt exercise of executive clemency in the case of Frank Gorin Esq<hi rend="underline"><hi rend="sup">r</hi></hi> indicted in the Jefferson Circuit Court -- </p>
+<p>I am sure the public good will be promoted by the prompt exercise of executive clemency in the case of <persName ref="cwgk:N00000330">Frank Gorin</persName> Esq<hi rend="underline"><hi rend="sup">r</hi></hi> indicted in the <orgName ref="cwgk:O001000">Jefferson Circuit Court</orgName> -- </p>
 <p>It is unnecessary to comment on the character and history of Gorin -- He is proud of his state, and has been ever ready to strike for his country -- </p>
 <p>You know him well, and as the party aggreived M<hi rend="underline"><hi rend="sup">r</hi></hi> Wood is satisfied, a great state has no reason to prosecute such citizens</p>
 <p>I hope you will find it consistent with you duty to interfere -- </p>
 <p>I am
 <lb/>with great respect
 <lb/>Your ob<hi rend="underline"><hi rend="sup">t</hi></hi> serv<hi rend="sup">t</hi>
-<lb/><hi rend="underline">Joshua Tevis</hi></p>
+<lb/><persName ref="cwgk:N00000232">Joshua Tevis</persName></p>
   </body>
  </text>
 </TEI>
