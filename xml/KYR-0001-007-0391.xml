@@ -72,7 +72,7 @@
  <text>
   <body>
    <p><placeName ref="cwgk:P001802">United States of America</placeName><lb/><placeName ref="cwgk:P00002521">State of Wisconsin</placeName><lb/><placeName ref="cwgk:P00005576">County of Milwaukee</placeName> ss.</p>
-<p>I <persName ref="cwgk:N00005578">Francis Bloodgood</persName> a commissioner of Deeds for the state of Kentucky duly appointed do solemnly swear, that I will well and truly execute and perform all the duties of that office and station</p>
+   <p>I <persName ref="cwgk:N00005578">Francis Bloodgood</persName> a commissioner of Deeds for the <orgName ref="cwgk:O001025">state of Kentucky</orgName> duly appointed do solemnly swear, that I will well and truly execute and perform all the duties of that office and station</p>
 <p>Francis Bloodgood</p>
 <p>Sworn to and subscribed before me this <date when="1865-03-11">11th day of March A. D. 1865</date></p>
 <p><persName ref="cwgk:N00005579">James Hickcox</persName><lb/>Clerk <orgName ref="cwgk:O00005577">Circt Ct Mi</orgName>l Co Wis</p>
@@ -81,7 +81,7 @@
 <p>Below is my signature and the impression of my official seal as Commissioner of Deeds of the State of Kentucky in Wisconsin.</p>
 <p>Francis Bloodgood
 <lb/>Com<hi rend="sup">r</hi> of Deeds for Kentucky
-<lb/>Milwaukee Wisc</p>
+ <lb/><placeName ref="cwgk:P00005575">Milwaukee Wisc</placeName></p>
 <p><figure type="seal"><ab>FRANCIS BLOODGOOD
 <lb/>COMMISSIONER WISCONSIN</ab></figure><pb/></p>
 <p>State of Wisconsin,

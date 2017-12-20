@@ -72,15 +72,15 @@
  <text>
   <body>
    <p><placeName ref="cwgk:P00001208">Cincinnati Ohio</placeName><lb/><date when="1865-02-11">Feby. 11<hi rend="sup">th</hi>. 1865</date>
-<lb/>Hon Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette -- 
+    <lb/>Hon <persName ref="cwgk:N001000">Tho<hi rend="underline"><hi rend="sup">s</hi></hi> E. Bramlette</persName> -- 
 <lb/>Dear Sir:</p>
 <p><persName ref="cwgk:N00005352">Howard Douglass</persName> of this city desires the appointment of Commissioner of Deeds for Ohio in <placeName ref="cwgk:P001800">Kentucky</placeName>. He is the son of <persName ref="cwgk:N00005358">John G. Douglass</persName> Esq, a lawyer of this city, and is a young gentleman of good habits attentive to business, and would make a good commissioner. I deem it proper to state that he is about nineteen years of age; but I suppose the statute does not fix the age at which a person is competent.</p>
 <p>I am satisfied that M<hi rend="underline"><hi rend="sup">r</hi></hi> Douglass would make a capabale commissioner, and would be gratified at his appointment.</p>
 <p>Yours truly
 <lb/><persName ref="cwgk:N00005362">J. P. Metcalfe</persName></p>
 <p>Gov. Bramlette
-<lb/>Frankfort
-<lb/>Kentucky</p>
+ <lb/><placeName ref="cwgk:P00000308">Frankfort
+<lb/>Kentucky</placeName></p>
   </body>
  </text>
 </TEI>
