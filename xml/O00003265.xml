@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Krista Kinslow</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -39,10 +43,19 @@
             <particDesc>
                 <org xml:id="O00003265">
                     <orgName>Police Court of Harrodsburg</orgName>
+                        <event type="begun"  when="1860-01-12"  ><ab>1860-01-12</ab></event>
                 </org>
             </particDesc>
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Misdemeanor court presided over by the Police Judge of Harrodsburg, Kentucky.</p>
+
+    </body>
+    <back>
+        <ab><bibl>&quot;An Act to amend an act, entitled &quot;An act to reduce into one the several acts in relation to the town of Harrodsburg,&quot; <hi rend="italic">Acts of the General Assembly of the Commonwealth of Kentucky</hi>, vol. 2 (Frankfort, Ky.: Yeoman Office, J. B. Major, State Printer, 1860), 241-246.
+</bibl></ab>
+    </back>
 </text>
 </TEI>
