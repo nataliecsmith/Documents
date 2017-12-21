@@ -74,9 +74,9 @@
    <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1863-09-23">Septr 23 1863</date>
 <lb/>To his Excelency
 <lb/><persName ref="cwgk:N001000">Gov Bramblette</persName><lb/><placeName ref="cwgk:P00000308">Frankfort</placeName></p>
-<p>This will be handed you by my friend J Hop Price Esqr. an attorney of this city I commend him to you</p>
+   <p>This will be handed you by my friend <persName ref="cwgk:N002014">J Hop Price</persName> Esqr. an attorney of this city I commend him to you</p>
 <p>Very Respectfuly
-<lb/><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> F, Barret</hi></p>
+ <lb/><persName ref="cwgk:N00001058"><hi rend="underline">W</hi><hi rend="underline"><hi rend="sup">m</hi></hi><hi rend="underline"> F, Barret</hi></persName></p>
   </body>
  </text>
 </TEI>
