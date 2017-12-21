@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Stephen Powell</name>
           </respStmt>
           <respStmt>
@@ -51,7 +55,8 @@
                         (Greenup County farmer)
                     </persName>
                         <event type="birth"  when="1828-21-12"  ><ab>1828-21-12</ab></event>
-                        <event type="death"  when="1819-08-08"  ><ab>1819-08-08</ab></event>
+                        <event type="death"  when="1918-07-08"  ><ab>1918-07-08</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -59,11 +64,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Greenup County, Kentucky, farmer. Kentucky native. Son of Issac Newton Dysard, Sr. and Oliva Camp Dysard; <hi rend="italic">Find A Grave</hi>, “Isaac N Dysard (1828-unknown),” Memorial No. 81736361, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=81736361&amp;ref=acom (accessed June 2, 2017).</p>
+        <p>Greenup County, Kentucky, farmer. Kentucky native. Son of Issac Newton Dysard, Sr. and Oliva Camp Dysard.</p>
 
     </body>
     <back>
-        <ab><bibl>Kentucky Birth, Marriage, and Death Records, 1852-1910, Ancestry, Deaths, Greenup County, 1918.
+        <ab><bibl>Kentucky Birth, Marriage, and Death Records, 1852-1910, Ancestry, Deaths, Greenup County, 1918.  <hi rend="italic">Find A Grave</hi>, “Isaac N Dysard (1828-unknown),” Memorial No. 81736361, https://www.findagrave.com/81736361/isaac-n-dysard (accessed December 21, 2017).
 </bibl></ab>
     </back>
 </text>
