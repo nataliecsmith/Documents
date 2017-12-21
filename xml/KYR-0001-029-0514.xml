@@ -70,12 +70,12 @@
  </teiHeader>
  <text>
   <body>
-   <p><orgName ref="cwgk:O00004702">Auditor's Office</orgName>, Kentucky,<lb/>Frankfort, <gap/>, 186<gap/>.
+   <p><orgName ref="cwgk:O00004702">Auditor's Office</orgName>, Kentucky,<lb/><placeName ref="cwgk:P00000308">Frankfort</placeName>, <gap/>, 186<gap/>.
 <lb/><gap/>, Esq.:
 <lb/>Dear Sir:</p>
-<p>Comwth <hi rend="str">J</hi>of Ky,
+   <p><orgName ref="cwgk:O001025">Comwth <hi rend="str">J</hi>of Ky</orgName>,
 <lb/>vs.
-<lb/>J H M<hi rend="sup">c</hi>Brayer Shff <orgName ref="cwgk:O00000592">Anderson Co</orgName></p>
+    <lb/><persName ref="cwgk:N00000467">J H M<hi rend="sup">c</hi>Brayer</persName> Shff <orgName ref="cwgk:O00000592">Anderson Co</orgName></p>
 <p>Judgment for bal revenue <date when="1862">1862</date>.
 <lb/>Principal $1038.36.
 <lb/>Damages $207 <hi rend="sup">67</hi>/<hi rend="sub">100</hi>
