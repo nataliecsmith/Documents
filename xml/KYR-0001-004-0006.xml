@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0001-004-0006"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Patrick A. Lewis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -67,10 +75,10 @@
     <lb/>Gov <persName ref="cwgk:N001000">T. E. Bramlett</persName>
 <lb/>Dear Sir</p>
    <p><persName ref="cwgk:N00002068">James Maloy</persName> arrested some months since for stealing 3 horses from this County, was indicted by the Grand Jury &amp; confined in Jail. In July he formed a conspiracy with several others to Break jail. He &amp; another prisoner named <persName ref="cwgk:N00002069">Barnes</persName>, since captured, &amp; convicted on a similar charge succeeded in making their escape under very agravating circumstances, for in my resisting their attemptd escape I was very badly injured myself<pb/>
-<lb/>not however until I had succeeded in Killing one &amp; dangerously wounding another of the party. I offered a reward of &#36;50 for his arrest, which is as much as I can afford being a poor man.</p>
-   <p>I now have information from the Marshal of <placeName ref="cwgk:P00000936">Covington</placeName> that if an additional reward of &#36;50 is offered he can be captured &amp; brought to justice.</p>
+<lb/>not however until I had succeeded in Killing one &amp; dangerously wounding another of the party. I offered a reward of $50 for his arrest, which is as much as I can afford being a poor man.</p>
+   <p>I now have information from the Marshal of <placeName ref="cwgk:P00000936">Covington</placeName> that if an additional reward of $50 is offered he can be captured &amp; brought to justice.</p>
 <p>Maloy is a notorious thief and is one of a gang who have been extensively engaged in Horse stealing in this region for months He should be made an example of &amp; I write to request you<pb/>
-<lb/>to offer a reward of &#36;50 on the part of the state</p>
+<lb/>to offer a reward of $50 on the part of the state</p>
 <p>Please answer by <hi rend="str">Telle</hi> Telligraph -- </p>
 <p>Most Respectfully
  <lb/><persName ref="cwgk:N00002067">W. H. Lusby</persName>
