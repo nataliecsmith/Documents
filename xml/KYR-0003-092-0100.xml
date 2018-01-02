@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0100"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville <date when="1861-05-31">May 31/61</date>
-<lb/>Geo. W. Johnson. Esq;
-<lb/><hi rend="underline">Georgetown</hi>,
-<lb/>Sir:</p>
-<p>At the request of Mrs Rice C Ballard, I have to acknowledge the receipt of yours of the <date when="1861-05-28">28<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> to her.</p>
-<p>Mrs Ballard feels unauthorized to interfere in the matter to which you allude and, believing Judge Boyd will do all that is proper in the case, she begs to refer you to him.</p>
+   <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-05-31">May 31/61</date>
+<lb/><persName ref="cwgk:N001002">Geo. W. Johnson</persName>. Esq;<lb/>,
+<placeName ref="cwgk:P001838">Georgetown</placeName><lb/>Sir:</p>
+<p>At the request of <persName ref="cwgk:N00008160">Mrs Rice C Ballard</persName>, I have to acknowledge the receipt of yours of the <date when="1861-05-28">28<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> to her.</p>
+<p>Mrs Ballard feels unauthorized to interfere in the matter to which you allude and, believing <persName ref="cwgk:N00008159">Judge Boyd</persName> will do all that is proper in the case, she begs to refer you to him.</p>
 <p>Resf'y
 <lb/><hi rend="underline">W. F. Bullock, Jr</hi><pb/></p>
 <p>W. F. Bullock Jr
