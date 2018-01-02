@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008345">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Willa Viley Johnson</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>        
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008345">
+                    <persName>
+                      Willa Viley Johnson
+                        (Son of George W. Johnson)
+                    </persName>
+                        <event type="birth"  when="1837-03-04"  ><ab>1837-03-04</ab></event>
+                        <event type="death"  when="1913-05-05"  ><ab>1913-05-05</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Scott County, Kentucky, farmer. Scott County native. Son of George Washington Johnson and Ann Eliza Viley Johnson. Married to Lilly TIlford Johnson in 1860. Resident of Scott County in 1850.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Find A Grave</hi>, &quot;Maj. Willa Viley Johnson (1837-1913),&quot; Memorial #84679458, http://www.findagrave.com/memorial/84679458/willa-viley-johnson (accessed January 2 2018). <hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Scott County, District No. 2, p. 452A.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
