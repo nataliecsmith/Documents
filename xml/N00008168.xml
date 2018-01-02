@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008168">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Andrew J. Viley</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008168">
+                    <persName>
+                      Andrew J. Viley
+                        (Scott County, Kentucky, farmer and shorthorn cattle breeder)
+                    </persName>
+                        <event type="birth"  when="1828-05-03"  ><ab>1828-05-03</ab></event>
+                        <event type="death"  when="1860-11-15"  ><ab>1860-11-15</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Scott County, Kentucky, farmer and shorthorn cattle breeder. Paynes Depot, Kentucky, native. Son of Willa Viley and Lydia Smith Viley. Married to Mary Louisa Peak Nuckols Viley. Father of Annie Viley, Lydia Viley, Sallie Viley, Leland Viley, and Willa Viley. Cadet at the Western Military Institute in Georgetown, Kentucky, in 1849. Farmer in Scott County in 1860. Owned seventeen enslaved persons in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Scott County, District 1, p. 58. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Scott County, District 1, p. 20. <hi rend="italic">Register of the Cadets, and Regulations of the Western Military Institute, at Georgetown, Kentucky, 1848—9</hi> (Cincinnati.: C. Clark &amp; Co.,1849), 6. <hi rend="italic">Find A Grave</hi>, &quot;Andrew J. Viley (1828-1860),&quot; Memorial #98984941, http://www.findagrave.com/memorial/98984941/andrew-j.-viley (accessed January 2, 2018). Peter, Robert, M.D., <hi rend="italic">History of Bourbon, Scott, Harrison and Nicholas Counties, Kentucky</hi> (Chicago: O.L. Baskin &amp; Co., Historical Publishers, 1882), 168.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
