@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0105"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,16 +71,16 @@
  </teiHeader>
  <text>
   <body>
-   <p>Spring Station
-<lb/><date when="1861-06-12">12 June 1861</date> Ky
-<lb/>G. W. Johnson Esq<hi rend="underline"><hi rend="sup">re</hi></hi>
+   <p><placeName ref="cwgk:P00008165">Spring Station
+</placeName><lb/><date when="1861-06-12">12 June 1861</date> Ky
+<lb/><persName ref="cwgk:N001002">G. W. Johnson</persName> Esq<hi rend="underline"><hi rend="sup">re</hi></hi>
 <lb/>Georgetown
 <lb/>Scott C<hi rend="underline"><hi rend="sup">o</hi></hi>
 <lb/>Dear Sir</p>
-<p>Your note of <date when="1861-06-10">10<hi rend="sup">th</hi> inst</date> is rec<hi rend="underline"><hi rend="sup">d</hi></hi> also one of previous date on subject of Commercial Bank stock- I found on inquiry that the Bank Stock would not be sold at any price &amp; as money ^with which^ to pay what I owe is what I want it will not suit the purpose required I do not know that the Banks or <hi rend="underline">any one</hi> of them are taking any paper Just now &amp; if this is the case I had as soon hold your note as Mr. Thomas' note- If you find that you can dispose of his note or Bill to any Bank it should be done by all means; I would be willing to lose a small per cent to get the cash, myself<pb/>
+<p>Your note of <date when="1861-06-10">10<hi rend="sup">th</hi> inst</date> is rec<hi rend="underline"><hi rend="sup">d</hi></hi> also one of previous date on subject of <orgName ref="cwgk:O00008166">Commercial Bank</orgName> stock- I found on inquiry that the Bank Stock would not be sold at any price &amp; as money ^with which^ to pay what I owe is what I want it will not suit the purpose required I do not know that the Banks or <hi rend="underline">any one</hi> of them are taking any paper Just now &amp; if this is the case I had as soon hold your note as <persName ref="cwgk:N00008164">Mr. Thomas</persName>' note- If you find that you can dispose of his note or Bill to any Bank it should be done by all means; I would be willing to lose a small per cent to get the cash, myself<pb/>
 <lb/>If you could arrange to pay me a portion of the Amt due it would aid me just now, as I am really requiring money to meet my engagements -- </p>
 <p>I am Yours very Truly
-<lb/>R. Aitcheson Alexander</p>
+<lb/><persName ref="cwgk:N00008148">R. Aitcheson Alexander</persName></p>
 <p>P. S.
 <lb/>I send you M<hi rend="sup">r.</hi> Thomas' letters (or rather two of them.) You sent me to see I think I have a third w<hi rend="underline"><hi rend="sup">h</hi></hi> I will look up &amp; hand you if it is needed- I should have written to you before but thought that I should meet you &amp; so put off writing=</p>
 <p>Yours &amp;<hi rend="sup">c</hi>
