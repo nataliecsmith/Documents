@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008200">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Josiah Stoddard Johnston</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008200">
+                    <persName>
+                      Josiah Stoddard Johnston
+                        (Nephew of Confederal General Albert Sidney Johnston and son-in-law of KY Provisional Governor George Washington Johnson)
+                    </persName>
+                        <event type="birth"  when="1833-02-10"  ><ab>1833-02-10</ab></event>
+                        <event type="death"  when="1913-10-04"  ><ab>1913-10-04</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Scott County, Kentucky, farmer, soldier, and attorney. New Orleans, Louisiana, native. Son of John Harris Johnston and Eliza Ellen Davidson Johnston. Married to Eliza Johnson Johnston on June 13, 1854. Educated at the Latin school of S.V. Womack, in Shelbyville, Kentucky. Educated at the Western Military Institute. Graduated from Yale University in New Haven, Connecticut, in 1853. Graduated from the Law School of the University of Louisville in Louisville, Kentucky, in 1854. Cotton planter in Arkansas from 1855 to 1859. Relocated to Scott County, Kentucky. Farmer in Scott County, from 1859 to 1862. Major and assistant adjutant-general on the personal staff of General Braxton Bragg from 1862 to June 1863. Served on the staff of General Simon B. Buckner. Major and lieutenant colonel as chief of staff to General John C. Breckinridge from December 1863 to May 1865. Relocated to Helena, Arkansas. Practiced law in Helena from 1865 to 1867.</p>
+
+    </body>
+    <back>
+        <ab><bibl>&quot;Death Claims Kentuckian: J. Stoddard Johnston Dies Near St. Louis,&quot; <hi rend="italic">Courier-Journal</hi> (Louisville, Ky.), October 5, 1913, 1. <hi rend="italic">The Biographical Encyclopædia of Kentucky of the Dead and Living Men of the Nineteenth Century</hi>, vol. 1 (Cincinnati: J. M. Armstrong &amp; Company, 1878), 754-756.
+</bibl></ab>
+    </back>
+</text>
+</TEI>
