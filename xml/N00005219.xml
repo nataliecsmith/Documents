@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00005219">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Fabricius C. McCalla</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Stephen Powell</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Stephen Powell</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00005219">
+                    <persName>
+                      Fabricius C. McCalla
+                        (Georgetown, Kentucky, cashier.)
+                    </persName>
+                        <event type="birth"  when="1807-07-22"  ><ab>1807-07-22</ab></event>
+                        <event type="death"  when="1873-04-16"  ><ab>1873-04-16</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Georgetown, Kentucky, cashier. Kentucky native. Postmaster of Stamping Ground, Kentucky, from 1834 to 1840. Member of the House of Representatives from Scott County, Kentucky, in 1839. Cashier at the Farmers Bank of Georgetown from 1860 to 1863. Trustee at Georgetown College.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Scott County, Georgetown, p. 13. Lewis Collins and Richard H. Collins, <hi rend="italic">Collins&#39; Historical Sketches of Kentucky</hi>, vol. 2 (Covington, KY: Collins &amp; Co., 1874), 697. J. Smith Homans, ed., <hi rend="italic">The Bankers Magazine and Statistical Register</hi>, vol. 10 (New York: J. Smith Homans, 1860), 995. J. Smith Homans, ed., <hi rend="italic">The Bankers Magazine and Statistical Register</hi>, vol. 13 (July 1863), 29. J. Smith Homans, ed., <hi rend="italic">The Bankers Magazine and Statistical Register</hi>, vol. 13 (July 1863), 29. <hi rend="italic">Find A Grave</hi>, “Fabricius C. McCalla (July 7, 1807-April 16, 1873),” Memorial #75724530, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=75724530 (accessed June 3, 2017).
+</bibl></ab>
+    </back>
+</text>
+</TEI>
