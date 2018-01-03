@@ -8,6 +8,10 @@
             <resp n="created">Created by:</resp>
             <name>Anthony P. Curtis</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -50,7 +54,7 @@
     </teiHeader>
     <text>
     <body>
-        <p>Located in Phillips County, Arkansas.</p>
+        <p>City in Phillips County, Arkansas. Located on the Mississippi River.</p>
 
     </body>
     <back>
