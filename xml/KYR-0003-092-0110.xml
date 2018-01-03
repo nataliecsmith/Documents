@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0110"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,11 +70,10 @@
  </teiHeader>
  <text>
   <body>
-   <p>Geo W Johnson</p>
-<p>Take notice that on <date when="1861-07-10">July 10. 1861</date> I will at the County Clerks office in the town of Helena. Ark, take the depositions of various persons to be read as evidence by me in the suit in the Scott Circuit Court wherein I am Plt'ff, &amp; you are Deft- between the hours of 6 A. M. &amp; 6 P M and continue from day to day if necessary to complete the same-</p>
-<p>R. Higgins</p>
-<p>Water's Atto
-<lb/><unclear/><pb/></p>
+   <p><persName ref="cwgk:N001002">Geo W Johnson</persName></p>
+<p>Take notice that on <date when="1861-07-10">July 10. 1861</date> I will at the County Clerks office in the town of <placeName ref="cwgk:P00008347">Helena. Ark,</placeName> take the depositions of various persons to be read as evidence by me in the suit in the <orgName ref="cwgk:O00000576">Scott Circuit Court</orgName> wherein I am Plt'ff, &amp; you are Deft- between the hours of 6 A. M. &amp; 6 P M and continue from day to day if necessary to complete the same-</p>
+<p><persName ref="cwgk:N00001781">R. Higgins</persName></p>
+<p><persName ref="cwgk:N00008152">Water's</persName> Atto<lb/><unclear/><pb/></p>
 <p><hi rend="underline">Recused </hi><date when="1861-06-27"><hi rend="underline"><hi rend="str">July </hi></hi><hi rend="underline">June 27</hi>, 1861</date>.</p>
 <p>R Higgins 
 <lb/>notice to take depositions
