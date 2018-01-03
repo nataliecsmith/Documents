@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0111"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,15 +71,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Spring Station Ky
-<lb/><date when="1861-07-16">16 July/61</date>
-<lb/>G. W. Johnson Esq<hi rend="underline"><hi rend="sup">r</hi></hi>
-<lb/>Georgetown
-<lb/>Scott C<hi rend="underline"><hi rend="sup">o</hi></hi>
+   <p><placeName ref="cwgk:P00008165">Spring Station Ky
+</placeName><lb/><date when="1861-07-16">16 July/61</date>
+<lb/><persName ref="cwgk:N001002">G. W. Johnson</persName> Esq<hi rend="underline"><hi rend="sup">r</hi></hi>
+<lb/><placeName ref="cwgk:P001838">Georgetown
+</placeName><lb/>Scott C<hi rend="underline"><hi rend="sup">o</hi></hi>
 <lb/>Dear Sir</p>
 <p>I have had no opportunity of seeing you lately on the subject of the money due me or of learning what chance there may be of your being able to raise the amt; I am sorry to be obliged thus to urge the thing but <hi rend="underline">necessity is a hard master</hi> as they say &amp; I am myself pressed to meet my own engagements -- Can M<hi rend="sup">r</hi>. Thomas not get the money out of Bank where he is doing his business? I hear that money is not hard to raise out of Bank if one is not a borrower as I have been obliged to be-</p>
 <p>Yours in haste
-<lb/>R Aitcheson Alexander<pb/></p>
+<lb/><persName ref="cwgk:N00008148">R Aitcheson Alexander</persName><pb/></p>
 <p>R. A, Alexander
 <lb/><date when="1861-07-16">July 16, 1861</date></p>
   </body>
