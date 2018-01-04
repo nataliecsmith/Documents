@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0113"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Middletown Ky <date when="1861-07-27">July 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>,
-<lb/>M<hi rend="underline"><hi rend="sup">r</hi></hi> George W. Johnson
-<lb/>D<hi rend="underline"><hi rend="sup">r</hi></hi> Sir,</p>
-<p>I see in the Lexington Observer of the <date when="1861-07-24">24<hi rend="underline"><hi rend="sup">th</hi></hi></date> you propose to sell your farm, on which you now resid, in Scott County near Paynes depot. on the road to Georgetown, containing 375 acres of land -- May I ask if you would exchange you farm, for one of less value containing 28<hi rend="str">6</hi>0 <hi rend="str">ac</hi> acres, in Jefferson County Ky, on the Shelbyville pike and one mile from Hobbs depot. L. &amp; F. R. R and twelve miles from Louisville on the pike my farm has 180 acres cleared, 100 native woos, abunantly watered, comfortable Brick House &amp;c. variety of good fruit &amp;c.</p>
+   <p><placeName ref="cwgk:P00008181">Middletown Ky</placeName> <date when="1861-07-27">July 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>,
+<lb/>M<hi rend="underline"><hi rend="sup">r</hi></hi> <persName ref="cwgk:N001002">George W. Johnson
+</persName><lb/>D<hi rend="underline"><hi rend="sup">r</hi></hi> Sir,</p>
+<p>I see in the <orgName ref="cwgk:O00008182">Lexington Observer</orgName> of the <date when="1861-07-24">24<hi rend="underline"><hi rend="sup">th</hi></hi></date> you propose to sell your farm, on which you now resid, in <placeName ref="cwgk:P001030">Scott County</placeName> near <placeName ref="cwgk:P00005406">Paynes depot.</placeName> on the road to <placeName ref="cwgk:P001838">Georgetown</placeName>, containing 375 acres of land -- May I ask if you would exchange you farm, for one of less value containing 28<hi rend="str">6</hi>0 <hi rend="str">ac</hi> acres, in <placeName ref="cwgk:P001005">Jefferson County Ky</placeName>, on the Shelbyville pike and one mile from Hobbs depot. L. &amp; F. R. R and twelve miles from <placeName ref="cwgk:P00000337">Louisville</placeName> on the pike my farm has 180 acres cleared, 100 native woos, abunantly watered, comfortable Brick House &amp;c. variety of good fruit &amp;c.</p>
 <p>If you feel disposed to exchange your farm for mine on equitable terms, I should be pleased to be advised of the fact at your earliyest convenience.</p>
 <p>Verry Respectfully
-<lb/>Joseph Early<pb/></p>
+<lb/><persName ref="cwgk:N00008180">Joseph Early</persName><pb/></p>
 <p>Joseph Early
 <lb/><date when="1861-07-27">July 27. 1861</date></p>
   </body>

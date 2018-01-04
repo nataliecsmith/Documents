@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0100"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -64,11 +72,18 @@
  <text>
   <body>
    <p><placeName ref="cwgk:P00000337">Louisville</placeName> <date when="1861-05-31">May 31/61</date>
+<<<<<<< HEAD
     <lb/><persName ref="cwgk:N001002">Geo. W. Johnson</persName>. Esq;
     <lb/><hi rend="underline"><placeName ref="cwgk:P001838">Georgetown</placeName></hi>,
 <lb/>Sir:</p>
    <p>At the request of <persName ref="cwgk:N00008160">Mrs Rice C Ballard</persName>, I have to acknowledge the receipt of yours of the <date when="1861-05-28">28<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> to her.</p>
    <p>Mrs Ballard feels unauthorized to interfere in the matter to which you allude and, believing <persName ref="cwgk:N00008159">Judge Boyd</persName> will do all that is proper in the case, she begs to refer you to him.</p>
+=======
+<lb/><persName ref="cwgk:N001002">Geo. W. Johnson</persName>. Esq;<lb/>,
+<placeName ref="cwgk:P001838">Georgetown</placeName><lb/>Sir:</p>
+<p>At the request of <persName ref="cwgk:N00008160">Mrs Rice C Ballard</persName>, I have to acknowledge the receipt of yours of the <date when="1861-05-28">28<hi rend="underline"><hi rend="sup">th</hi></hi> inst</date> to her.</p>
+<p>Mrs Ballard feels unauthorized to interfere in the matter to which you allude and, believing <persName ref="cwgk:N00008159">Judge Boyd</persName> will do all that is proper in the case, she begs to refer you to him.</p>
+>>>>>>> c5308eddaa1ba1ff210ac9cef49899b8fe4703c8
 <p>Resf'y
  <lb/><hi rend="underline"><persName ref="cwgk:N00000977">W. F. Bullock, Jr</persName></hi><pb/></p>
 <p>W. F. Bullock Jr

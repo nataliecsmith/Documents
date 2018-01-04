@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0109"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,14 +71,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>Lex. Ky. <date when="1861-07-08">July 8. 1861</date>
-<lb/>Geo W Johnson Esq<hi rend="underline"><hi rend="sup">r</hi></hi>
-<lb/>Scott Co. Ky.
-<lb/>Dear Sir.</p>
-<p>Yours of a day or two since was received. Mr R Higgins cannot of course agree to any arbitrament without the consent of J. A. Higgins who is now South taking the depositions according to notice served upon you. As the lawyer of both J A &amp; R Higgins I will say to you that your proviso as to an agreement of facts is impossible and even if the case is arbitrated evidence will have to be taken as if ni court -- There is however plenty of time between this and Nov and without giving<pb/>
+   <p><placeName ref="cwgk:P001002">Lex. Ky.</placeName> <date when="1861-07-08">July 8. 1861</date>
+<lb/><persName ref="cwgk:N001002">Geo W Johnson</persName> Esq<hi rend="underline"><hi rend="sup">r</hi></hi>
+<lb/><placeName ref="cwgk:P001030">Scott Co. Ky.</placeName><lb/>Dear Sir.</p>
+<p>Yours of a day or two since was received. Mr <persName ref="cwgk:N00001781">R Higgins</persName> cannot of course agree to any arbitrament without the consent of <persName ref="cwgk:N00008151">J. A. Higgins</persName> who is now South taking the depositions according to notice served upon you. As the lawyer of both J A &amp; <persName ref="cwgk:N00001781">R Higgins</persName> I will say to you that your proviso as to an agreement of facts is impossible and even if the case is arbitrated evidence will have to be taken as if ni court -- There is however plenty of time between this and Nov and without giving<pb/>
 <lb/>any decided answer now both of us can go on taking <hi rend="str">s</hi>proof and if we then agree we can select arbitrators -- </p>
 <p>Very Truly &amp;c
-<lb/>Frank Waters,<pb/></p>
+<lb/><persName ref="cwgk:N00008152">Frank Waters</persName>,<pb/></p>
 <p><date when="1861-07-08">July 8. 1861.</date>
 <lb/>F. Waters -- Higgins suit</p>
   </body>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0112"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -65,16 +73,16 @@
   <body>
    <p>Richmond V<hi rend="underline"><hi rend="sup">a</hi></hi>
 <lb/><date when="1861-07-15">July 15. 1861</date>.
-<lb/>My Dear Ann</p>
-<p>Since I arrived here I have been engaged in some business, connected with our interests in Kentucky. There is a complete "circumlocution office" in this place and you may wait a whole day for an interview. Indeed it was not like today, that I had hopes of accomplishing what I came here for. I now believe I will succeed and <hi rend="str">if</hi> ^so^ it will be of very great value to our Party and I will wait a few days longer, although I regret very much not being able to return with Matty. Your anxiety<pb/>
+<lb/>My Dear <persName ref="cwgk:N00008172">Ann</persName></p>
+<p>Since I arrived here I have been engaged in some business, connected with our interests in <placeName ref="cwgk:P001800">Kentucky</placeName>. There is a complete "circumlocution office" in this place and you may wait a whole day for an interview. Indeed it was not like today, that I had hopes of accomplishing what I came here for. I now believe I will succeed and <hi rend="str">if</hi> ^so^ it will be of very great value to our Party and I will wait a few days longer, although I regret very much not being able to return with <persName ref="cwgk:N00008176">Matty</persName>. Your anxiety<pb/>
 <lb/>will be released when you see him, and on that account I will feel more satisfied, I hope I ^have^ done something also, to set on foot a project for peace.</p>
-<p>It may be that I may visit, the camps at Manassas and York River and Bethel with some friends. Hon J, W, Stevenson is here &amp; is very anxious for me to go with him tomorrow but I have declined, hoping that I may get through my business by remaining, &amp; watching it, If I go on to the camps, there will be no more danger than in riding to Georgetown &amp; I hope you will not be uneasy.</p>
-<p>The enthusiasm manifesting every where in Virginia<pb/>
+<p>It may be that I may visit, the camps at <placeName ref="cwgk:P00008177">Manassas</placeName> and <geogName ref="cwgk:G00008179">York River</geogName> and <placeName ref="cwgk:P00008178">Bethel</placeName> with some friends. Hon J, W, Stevenson is here &amp; is very anxious for me to go with him tomorrow but I have declined, hoping that I may get through my business by remaining, &amp; watching it, If I go on to the camps, there will be no more danger than in riding to <placeName ref="cwgk:P001838">Georgetown</placeName> &amp; I hope you will not be uneasy.</p>
+<p>The enthusiasm manifesting every where in <placeName ref="cwgk:P001037">Virginia</placeName><pb/>
 <lb/>is very cheering. &amp; I have not the slightest doubt of our ultimate success.</p>
 <p>No news here is accessible to the public which, is not found in all your papers. What is said today, being generally contradicted tomorrow. Every thing Exaggerated, distorted misrepresented &amp;c, &amp;c. according to the feelings and caprice of the writers.</p>
 <p>There has been no night, since I left home in which you &amp; the Children, have not been the last thing I thought of before sleep. May a Good God bless you.</p>
 <p>Yours, affectionately
-<lb/>George W. Johnson<pb/></p>
+<lb/><persName ref="cwgk:N001002">George W. Johnson</persName><pb/></p>
 <p>P. S.
 <lb/>I will probably start home, in 4 or 5 days after tomorrow -- </p>
 <p>G. W. J.<pb/></p>

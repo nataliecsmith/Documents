@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0107"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,13 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>J. G. JAMES, Pres't.
-<lb/>J. A. GRINSTEAD, Cash'r</p>
-<p>The Agricultural Deposit Bank
-<lb/>Lexington <date when="1861-06-14">June 14. 1861.</date>
-<lb/>G W Johnson Esq<hi rend="italic">. </hi><hi rend="str">Cashier</hi>,
+   <p><persName ref="cwgk:N00008170">J. G. JAMES</persName>, Pres't.<lb/><persName ref="cwgk:N00008171">J. A. GRINSTEAD</persName>, Cash'r</p>
+<p><orgName ref="cwgk:O00008149">The Agricultural Deposit Bank</orgName><lb/><placeName ref="cwgk:P001002">Lexington</placeName> <date when="1861-06-14">June 14. 1861.</date>
+<lb/><persName ref="cwgk:N001002">G W Johnson</persName> Esq<hi rend="italic">. </hi><hi rend="str">Cashier</hi>,
 <lb/>Dear Sir</p>
-<p>Your favor of <gap/> inst <hi rend="str">received with <gap/> enclosures</hi>. ^<unclear>W D</unclear> Johnson's acceptance for &#36;1497^ due &amp; probated <date when="1860-12">12 Decr last</date> of which you are drawer is still unadjusted</p>
+<p>Your favor of <gap/> inst <hi rend="str">received with <gap/> enclosures</hi>. ^<unclear>W D</unclear> Johnson's acceptance for $1497^ due &amp; probated <date when="1860-12">12 Decr last</date> of which you are drawer is still unadjusted</p>
 <p>Respectfully Yours,<hi rend="italic">
 <lb/></hi>James A Grinstead Cashier.</p>
 <p>I enclose for collection.<pb/></p>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008180">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Joseph Early</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+            <textClass>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00008180">
+                    <persName>
+                      Joseph Early
+                        (Middletown, Kentucky, physician and farmer)
+                    </persName>
+                        <event type="birth"  when="1800-02-04"  ><ab>1800-02-04</ab></event>
+                        <event type="death"  when="1871-05-29"  ><ab>1871-05-29</ab></event>
+                        <trait type="race" subtype="White"/>
+                      <trait type="gender" subtype="M"/>
+                </person> 
+        </particDesc>    
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Middletown, Kentucky, physician and farmer. Virginia native. Son of Whitfield Early and Mary Rucker Minor Early. Married to Adeline F. Rogers Early. Father of Ionia O. Early, Charles C. Early, Mary Vesta Early, Alva S. Early, Cora I. Early, Roger Randolph Early, and Virenda A. Early. Physician in Boone County, Kentucky, in 1850. Farmer in Jefferson County, Kentucky, in 1860. Owned four enslaved persons in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850),  Population Schedules, Kentucky, Boone County, District 2, p. 166B. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Jefferson County, District 2, p. 85. <hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Slave Schedules, Kentucky, Jefferson County, District 2, p. 18. <hi rend="italic">Find A Grave</hi>, &quot;Dr Joseph Early (1800-1871),&quot; Memorial #61630409, http://www.findagrave.com/memorial/61630409/joseph-early (accessed January 3, 2018).
+</bibl></ab>
+    </back>
+</text>
+</TEI>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0101"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,18 @@
  </teiHeader>
  <text>
   <body>
+<<<<<<< HEAD
    <p><persName ref="cwgk:N001004">J. F. Robinson</persName>, Pres't.
     <lb/><persName ref="cwgk:N00005219">F. C. McCalla</persName>, Cash'r.
     <lb/>Office <orgName ref="cwgk:O001021">Farmers Bank of Kentucky</orgName>.
     <lb/><placeName ref="cwgk:P001838">Georgetown</placeName>, <date when="1861-05-25">May 25 1861</date>
     <lb/>My <persName ref="cwgk:N001002">Dear Friend</persName>--</p>
    <p>Good news for once! Your friend <persName ref="cwgk:N00008159">Col Boyd</persName> has paid the Ballance debt-- and I feel most gloriously relieved, dont you?-- I feel so happy this morning that I have resolved to allow nothing not even War to ruffle my temper any more -- tis so much more pleasant and agreeable to be always in a good humor --  -- </p>
+=======
+   <p><persName ref="cwgk:N001004">J. F. Robinson</persName>, Pres't.<lb/><persName ref="cwgk:N00005219">F. C. McCalla</persName>, Cash'r.<lb/>Office<orgName ref="cwgk:O001021"> Farmers Bank of Kentucky</orgName>.<lb/><placeName ref="cwgk:P001838">Georgetown</placeName>, <date when="1861-05-25">May 25 1861</date>
+<lb/>My <persName ref="cwgk:N001002">Dear Friend</persName>--</p>
+<p>Good news for once! Your friend <persName ref="cwgk:N00008159">Col Boyd</persName> has paid the Ballance debt-- and I feel most gloriously relieved, dont you?-- I feel so happy this morning that I have resolved to allow nothing not even War to ruffle my temper any more -- tis so much more pleasant and agreeable to be always in a good humor --  -- </p>
+>>>>>>> c5308eddaa1ba1ff210ac9cef49899b8fe4703c8
 <p>But <hi rend="underline">they</hi> would not pay any interest because the law excused them from that. -- I am so glad to get the principal that I can overlook the other without complaining. Good news isnt it?</p>
 <p>Yours <unclear>Trul</unclear>
 <lb/><hi rend="underline">F. C. MCalla</hi><pb/></p>

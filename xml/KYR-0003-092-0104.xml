@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0104"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,12 +71,20 @@
  </teiHeader>
  <text>
   <body>
+<<<<<<< HEAD
    <p><placeName ref="cwgk:P00002906">E'Town</placeName> <date when="1861-06-13">June 13. 1861</date>
     <lb/><persName ref="cwgk:N001002">George W Johnson</persName> Esq
 <lb/>Dr Sir</p>
    <p>I rece'd your requesting me to send you 3 biles accepted by my self in your favour, to pay a part of a debt due you by <orgName ref="cwgk:O00008163">Thomas. &amp; Churchill</orgName> I know of no way that I could pay the biles when thay would fall due, evry dollar that I can get shall be applied to pay the debt of T. &amp; C. <unclear>due</unclear>you you,</p>
 <p>Your friend
  <lb/><persName ref="cwgk:N00008144">S, B, Thomas</persName><pb/></p>
+=======
+   <p>E'Town <date when="1861-06-13">June 13. 1861</date>
+<lb/><persName ref="cwgk:N001002">George W Johnson</persName> Esq<lb/>Dr Sir</p>
+<p>I rece'd your requesting me to send you 3 biles accepted by my self in your favour, to pay a part of a debt due you by Thomas. &amp; Churchill I know of no way that I could pay the biles when thay would fall due, evry dollar that I can get shall be applied to pay the debt of T. &amp; C. <unclear>due</unclear>you you,</p>
+<p>Your friend
+<lb/><persName ref="cwgk:N00008144">S. B. Thomas</persName><pb/></p>
+>>>>>>> c5308eddaa1ba1ff210ac9cef49899b8fe4703c8
 <p>S B. Thomas
 <lb/><date when="1861-06-13">June 13. 1861.</date>.</p>
   </body>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00008166">
+    <teiHeader>
+      <fileDesc>
+    <titleStmt>
+        <title level="a" type="main">Commercial Bank of Kentucky</title>
+          <respStmt>
+            <resp n="created">Created by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Jesse Nasta</name>
+          </respStmt>
+    </titleStmt>
+    <publicationStmt>
+        <publisher>Kentucky Historical Society</publisher>
+        <pubPlace>Frankfort, Kentucky</pubPlace>
+        <availability><p>All research and writing of Civil War Governors of Kentucky Digital Documentary Edition annotations was undertaken by project staff, volunteers, and interns. Each record contains citations to relevant primary and secondary source material. All annotations are copyright Kentucky Historical Society, and should be referenced as such in any published work.</p></availability>
+    </publicationStmt>
+    <seriesStmt>
+        <title level="s" type="main">Civil War Governors of Kentucky Digital Documentary Edition</title>
+        <respStmt>
+            <resp>Project Director</resp>
+            <name>Patrick A. Lewis</name>
+        </respStmt>
+    </seriesStmt>
+    <sourceDesc><ab>Born Digital</ab></sourceDesc>
+</fileDesc>
+
+        <encodingDesc>
+            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="type">Organization</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <org xml:id="O00008166">
+                    <orgName>Commercial Bank of Kentucky</orgName>
+                        <event type="begun"  when="1852-01-02"  ><ab>1852-01-02</ab></event>
+                </org>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <p>Located in Paducah, Kentucky. Incorporated by the Kentucky General Assembly in 1852. A branch bank opened in Louisville, Kentucky, in 1858.</p>
+
+    </body>
+    <back>
+        <ab><bibl><hi rend="italic">Acts of The General Assembly of the Commonwealth of Kentucky, Passed at November Session, 1851</hi> (Frankfort, KY: A.G. Hodes &amp; Co. State Printers, 1852), 14. &quot;Commercial Bank of Kentucky,&quot; <hi rend="italic">Daily Courier</hi> (Louisville, Ky.), August 18, 1858, p. 2.
+</bibl></ab>
+    </back>
+</text>
+</TEI>

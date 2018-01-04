@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0108"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -63,11 +71,11 @@
  </teiHeader>
  <text>
   <body>
-   <p>Louisville Ky
-<lb/><date when="1861-07-08"><hi rend="str">Jun</hi>July, 8, 1861</date>.
-<lb/>My Dear Ann</p>
-<p>I have been run nearly to death since I got here, and have time now only to write you a few lines -- I think for several reasons for my sons, myself and our cause that I had better go on with them to Richmond, from which I can return in a very short time. Rest assured I shall be in no danger what ever -- </p>
-<p>My Dear Anne, I hope you will improve the time of my absence, to renovate yourself, by cheerful excrcis -- and enjoyment with your Friends -- Stay a great deal with Eliza. <hi rend="str"><unclear/></hi><unclear>Now</unclear> ^must^ <hi rend="str">my</hi> remind my little boys of me daily, and may God <hi rend="str">a</hi>Almighty, bless and preserve you</p>
+   <p><placeName ref="cwgk:P00000337">Louisville Ky
+</placeName><lb/><date when="1861-07-08"><hi rend="str">Jun</hi>July, 8, 1861</date>.
+<lb/>My Dear <persName ref="cwgk:N00008172">Ann</persName></p>
+<p>I have been run nearly to death since I got here, and have time now only to write you a few lines -- I think for several reasons for my sons, myself and our cause that I had better go on with them to <placeName ref="cwgk:P00008174">Richmond</placeName>, from which I can return in a very short time. Rest assured I shall be in no danger what ever -- </p>
+<p>My Dear Anne, I hope you will improve the time of my absence, to renovate yourself, by cheerful excrcis -- and enjoyment with your Friends -- Stay a great deal with <persName ref="cwgk:N00008173">Eliza</persName>. <hi rend="str"><unclear/></hi><unclear>Now</unclear> ^must^ <hi rend="str">my</hi> remind my little boys of me daily, and may God <hi rend="str">a</hi>Almighty, bless and preserve you</p>
 <p>Yours affectionate
 <lb/>Husband.
 <lb/>George W Johnson</p>
