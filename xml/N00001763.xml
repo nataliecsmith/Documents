@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00004965">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001763">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Thomas A. Jones</title>
+        <title level="a" type="main">S. M. Hobbs</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Hannah M. O&#39;Daniel</name>
+            <name>Courtney Buchkoski</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -45,23 +41,23 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00004965">
+                <person xml:id="N00001763">
                     <persName>
-                      Thomas A. Jones
-                        (Likely Fleming County resident (Multiple Thomas Joneses in Fleming County))
+                      S. M. Hobbs
+                        (Jefferson County, Kentucky)
                     </persName>
-                      <trait type="gender" subtype="M"/>
+                      <trait type="gender" subtype="U"/>
                 </person> 
         </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
     <body>
-        <p>Signed an undated note in Fleming County, Kentucky.</p>
+        <p>Signed a Jefferson County, Kentucky, petition in support of Oliver C. Curry in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-029-0574.
+        <ab><bibl>KYR-0001-017-0018.
 </bibl></ab>
     </back>
 </text>

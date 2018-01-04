@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DO00000709">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001762">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main"></title>
+        <title level="a" type="main">J. H. Leatherman</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Jesse Nasta</name>
+            <name>Courtney Buchkoski</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Courtney Buchkoski</name>
+            <name>Patrick A. Lewis</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -28,25 +28,37 @@
     <sourceDesc><ab>Born Digital</ab></sourceDesc>
 </fileDesc>
 
-        <encodingDesc>
-            <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-                <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
-                </prefixDef>
-            </listPrefixDef>
-        </encodingDesc>
-        <profileDesc>
+      <encodingDesc>
+        <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
+          </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
             <textClass>
-                <keywords>
-                    <term type="type">Organization</term>
-                </keywords>
-            </textClass>
-            <particDesc>
-                <org xml:id="O00000709">
-                    <orgName></orgName>
-                </org>
-            </particDesc>
+            <keywords>
+                <term type="type">Person</term>
+            </keywords>
+        </textClass>
+        <particDesc>
+                <person xml:id="N00001762">
+                    <persName>
+                      J. H. Leatherman
+                        (Jefferson County, Kentucky)
+                    </persName>
+                      <trait type="gender" subtype="U"/>
+                </person> 
+        </particDesc>    
         </profileDesc>
     </teiHeader>
     <text>
+    <body>
+        <p>Signed a Jefferson County, Kentucky, petition in support of Oliver C. Curry in 1860.</p>
+
+    </body>
+    <back>
+        <ab><bibl>KYR-0001-017-0018.
+</bibl></ab>
+    </back>
 </text>
 </TEI>

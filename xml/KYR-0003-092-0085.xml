@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KYR-0003-092-0085"> 
  <teiHeader>
   <fileDesc>
@@ -20,7 +20,15 @@
     <respStmt>
      <resp n="proof_2">Double Proof by:</resp>
      <name>CWGK Staff</name>
-    </respStmt>
+    </respStmt><respStmt>
+<resp n="reviewed">Fact checked by</resp>
+<name>Anthony P. Curtis</name>
+</respStmt>
+<respStmt>
+<resp n="needs_review">Annotated by</resp>
+<name>Jesse Nasta</name>
+</respStmt>
+
    </titleStmt>
    <publicationStmt>
     <publisher>Kentucky Historical Society</publisher>
@@ -62,12 +70,12 @@
  </teiHeader>
  <text>
   <body>
-   <p><unclear>Arkan</unclear> <date when="1860-12-15">Decr 15th 1860</date>
-    <lb/><persName ref="cwgk:N001002">G. W. Johnson Esq<hi rend="underline"><hi rend="sup">r</hi></hi></persName>
+   <p><placeName ref="cwgk:P00002510"><unclear>Arkan</unclear></placeName> <date when="1860-12-15">Decr 15th 1860</date>
+    <lb/><persName ref="cwgk:N001002">G. W. Johnson</persName> Esq<hi rend="underline"><hi rend="sup">r</hi></hi>
 <lb/>Dear Sir</p>
-   <p>I wrote you some weeks since requesting you to remit me some mony to pay for your deadening. As I have received no response I take it for granted you did not receive it. I have send to <persName ref="cwgk:N00008272">Judge Breckenridge</persName> of <placeName ref="cwgk:P00003268">S<hi rend="sup">t</hi> Louis</placeName> a check on you for &#36;100 which you will please pay as I have already at great inconvenience advanced for you I have had deadened of your land about 280 acres &amp; stopped. So soon as I <unclear/> the land I will draw on your for the ballance. If you will remit me the Amt of your taxes I will take pleasur in payng them for you.</p>
+   <p>I wrote you some weeks since requesting you to remit me some mony to pay for your deadening. As I have received no response I take it for granted you did not receive it. I have send to <persName ref="cwgk:N00008272">Judge Breckenridge</persName> of <placeName ref="cwgk:P00003268">S<hi rend="sup">t</hi> Louis</placeName> a check on you for $100 which you will please pay as I have already at great inconvenience advanced for you I have had deadened of your land about 280 acres &amp; stopped. So soon as I <unclear/> the land I will draw on your for the ballance. If you will remit me the Amt of your taxes I will take pleasur in payng them for you.</p>
 <p>Your friend truly
- <lb/><hi rend="underline"><persName ref="cwgk:N00008271">Lewis Castleman</persName></hi><pb/></p>
+<lb/><persName ref="cwgk:N00008271">Lewis Castleman</persName><pb/></p>
 <p>Lewis C<hi rend="str"><unclear/></hi>astleman
 <lb/><date when="1860-12-15">Dec<hi rend="underline"><hi rend="sup">r </hi></hi>15 1860</date></p>
   </body>

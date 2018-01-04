@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00004965">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001760">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Thomas A. Jones</title>
+        <title level="a" type="main">John A. Hays</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Hannah M. O&#39;Daniel</name>
+            <name>Courtney Buchkoski</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
-          </respStmt>
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
-            <name>Anthony P. Curtis</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -45,11 +41,14 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00004965">
+                <person xml:id="N00001760">
                     <persName>
-                      Thomas A. Jones
-                        (Likely Fleming County resident (Multiple Thomas Joneses in Fleming County))
+                      John A. Hays
+                        (Jefferson Co, Kentucky)
                     </persName>
+                        <event type="birth"  when="1817"  ><ab>1817</ab></event>
+                        <event type="death"  when="1879"  ><ab>1879</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -57,11 +56,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Signed an undated note in Fleming County, Kentucky.</p>
+        <p>Jefferson County, Kentucky, resident. Justice of the Peace in Jefferson County in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl>KYR-0001-029-0574.
+        <ab><bibl><hi rend="italic">Find A Grave</hi>, &quot;John A. Hays (1817 - 1879),&quot; Memorial #67563586, https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=67563586 (accessed July 21, 2017). KYR-0001-017-0018.
 </bibl></ab>
     </back>
 </text>

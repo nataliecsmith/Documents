@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00003051">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00001758">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">H. Yeaman</title>
+        <title level="a" type="main">Isaac Mills</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Krista Kinslow</name>
+            <name>Courtney Buchkoski</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -26,7 +30,7 @@
 
       <encodingDesc>
         <listPrefixDef xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="inc_global_prefixDef">
-          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="../biography_xml/$1.xml">
+          <prefixDef ident="cwgk" matchPattern="(.+)" replacementPattern="$1.xml">
           </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -37,11 +41,14 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00003051">
+                <person xml:id="N00001758">
                     <persName>
-                      H. Yeaman
-                        (stub)
+                      Isaac Mills
+                        (Jefferson Co JP d. 1860)
                     </persName>
+                        <event type="birth"  when="1790"  cert="medium" ><ab>c1790</ab></event>
+                        <event type="death"  when="1860"  ><ab>1860</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,10 +56,12 @@
     </teiHeader>
     <text>
     <body>
-        
+        <p>Jefferson County, Kentucky, Farmer. North Carolina native. Married Sarah Mills. Father of Jonathan Mills and Isaac B. W. Mills. Farmer in Jefferson County in 1860. Justice of the Peace in Jefferson County until 1860.</p>
+
     </body>
     <back>
-        <ab><bibl></bibl></ab>
+        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedule, Kentucky, Jefferson County, 2nd District, p. 65. KYR-0001-017-0018.
+</bibl></ab>
     </back>
 </text>
 </TEI>
