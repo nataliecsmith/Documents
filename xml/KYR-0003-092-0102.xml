@@ -63,15 +63,15 @@
  </teiHeader>
  <text>
   <body>
-   <p>Oldtown Ridge
+   <p><placeName ref="cwgk:P00008146">Oldtown Ridge</placeName>
 <lb/><date when="1861-05-27">May 27<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>
-<lb/>George W. Johnson Esq
-<lb/>Georgetown Ky
+    <lb/><persName ref="cwgk:N001002">George W. Johnson</persName> Esq
+    <lb/><placeName ref="cwgk:P001838">Georgetown Ky</placeName>
 <lb/>Dr Sir</p>
-<p>I am just in receipt of a letter from the merchants of New Orleans John Watt &amp; Co, which they they say they are not willing to come under any obligations whatever, in the present unsettled condition of political &amp; commercial affairs, as I have no other means to fall back upon &amp; done my utmost to arrange it &amp; failed I am in hopes you will not think hard it.</p>
-<p>The river is getting very high against the Levee, It is with in 8 to 10 inches of the last rise &amp; rising at the ^rate^ of three or four inches in twenty four hours, but do not think it will rise much higher than the last rise, please give my respects to Wilha &amp; Stoddard.</p>
+   <p>I am just in receipt of a letter from the merchants of New Orleans <orgName ref="cwgk:O00008161">John Watt &amp; Co</orgName>, which they they say they are not willing to come under any obligations whatever, in the present unsettled condition of political &amp; commercial affairs, as I have no other means to fall back upon &amp; done my utmost to arrange it &amp; failed I am in hopes you will not think hard it.</p>
+   <p>The river is getting very high against the Levee, It is with in 8 to 10 inches of the last rise &amp; rising at the ^rate^ of three or four inches in twenty four hours, but do not think it will rise much higher than the last rise, please give my respects to <persName ref="cwgk:N00008345">Wilha</persName> &amp; <persName ref="cwgk:N00008200">Stoddard</persName>.</p>
 <p>Yours Respectfully
-<lb/>John. H. Yerby<pb/></p>
+ <lb/><persName ref="cwgk:N00008147">John. H. Yerby</persName><pb/></p>
 <p>John H Yerby 
 <lb/><date when="1861-05-27">May 27 -- 1861</date></p>
 <p>in reference to non-payment of note over due, from him to G. W. J.</p>

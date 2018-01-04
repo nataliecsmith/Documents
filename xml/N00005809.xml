@@ -10,6 +10,10 @@
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
+            <name>Patrick A. Lewis</name>
+          </respStmt>
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
             <name>Anthony P. Curtis</name>
           </respStmt>
           <respStmt>
@@ -54,7 +58,7 @@
                       Isaac Newton Dysard
                         (Greenup County farmer)
                     </persName>
-                        <event type="birth"  when="1828-21-12"  ><ab>1828-21-12</ab></event>
+                        <event type="birth"  when="1828-12-12"  ><ab>1828-12-12</ab></event>
                         <event type="death"  when="1918-07-08"  ><ab>1918-07-08</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>

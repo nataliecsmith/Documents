@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006610">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008344">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Reuben Runyan</title>
+        <title level="a" type="main">Jacob Wise</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Jesse Nasta</name>
-          </respStmt>        
-          <respStmt>
-            <resp n="edited">Edited by:</resp>
             <name>Patrick A. Lewis</name>
-          </respStmt>
+          </respStmt>        
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -41,14 +37,11 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006610">
+                <person xml:id="N00008344">
                     <persName>
-                      Reuben Runyan
-                        (Frankfort, KY merchant)
+                      Jacob Wise
+                        (Jefferson co. Ky)
                     </persName>
-                        <event type="birth"  when="1814-03-01"  ><ab>1814-03-01</ab></event>
-                        <event type="death"  when="1885-04-07"  ><ab>1885-04-07</ab></event>
-                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -56,11 +49,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Frankfort, Kentucky, merchant. Kentucky native. Married Mary L. Runyan. Father of Mattie G. Runyan, Elizabeth G. Runyan, and William L. Runyan. Merchant in Frankfort in 1860. Member of the Board of Councilmen in Frankfort in 1865. </p>
+        <p>Signed a Jefferson County, Kentucky, petition in support of Oliver C. Curry in 1860.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort District No. 1, p. 116-17. <hi rend="italic">Find A Grave</hi>, &quot;R Runyan (1814-1885),&quot; Memorial #57762351, https://www.findagrave.com/memorial/57762351 (accessed December 21, 2017). KYR-0001-007-0365.
+        <ab><bibl>KYR-0001-017-0018.
 </bibl></ab>
     </back>
 </text>

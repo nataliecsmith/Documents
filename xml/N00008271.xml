@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008341">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008271">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Rice C. Ballard</title>
+        <title level="a" type="main">Lewis Castleman</title>
           <respStmt>
             <resp n="created">Created by:</resp>
-            <name>Anthony P. Curtis</name>
+            <name>Jesse Nasta</name>
           </respStmt>        
+          <respStmt>
+            <resp n="edited">Edited by:</resp>
+            <name>Anthony P. Curtis</name>
+          </respStmt>
     </titleStmt>
     <publicationStmt>
         <publisher>Kentucky Historical Society</publisher>
@@ -37,11 +41,14 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00008341">
+                <person xml:id="N00008271">
                     <persName>
-                      Rice C. Ballard
-                        ((stub))
+                      Lewis Castleman
+                        (Jefferson County, Kentucky, farmer)
                     </persName>
+                        <event type="birth"  when="1829-10-04"  ><ab>1829-10-04</ab></event>
+                        <event type="death"  when="1905-04-29"  ><ab>1905-04-29</ab></event>
+                        <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
         </particDesc>    
@@ -49,10 +56,12 @@
     </teiHeader>
     <text>
     <body>
-        
+        <p>Jefferson County, Kentucky, farmer. Kentucky native. Son of David Castleman and Virginia H. Harrison Castleman. Farmer in Jefferson County in 1850. Owned six enslaved persons in 1850.</p>
+
     </body>
     <back>
-        <ab><bibl></bibl></ab>
+        <ab><bibl><hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Population Schedules, Kentucky, Jefferson County, District 1, p. 199B. <hi rend="italic">Seventh Manuscript Census of the United States</hi> (1850), Slave Schedules, Kentucky, Jefferson County, District 1. <hi rend="italic">Find A Grave</hi>, &quot;Lewis Castleman (1829-1905),&quot; Memorial #100080941, http://www.findagrave.com/memorial/100080941/lewis-castleman (accessed December 22, 2017).
+</bibl></ab>
     </back>
 </text>
 </TEI>

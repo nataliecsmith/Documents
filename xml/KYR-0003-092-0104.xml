@@ -63,12 +63,12 @@
  </teiHeader>
  <text>
   <body>
-   <p>E'Town <date when="1861-06-13">June 13. 1861</date>
-<lb/>George W Johnson Esq
+   <p><placeName ref="cwgk:P00002906">E'Town</placeName> <date when="1861-06-13">June 13. 1861</date>
+    <lb/><persName ref="cwgk:N001002">George W Johnson</persName> Esq
 <lb/>Dr Sir</p>
-<p>I rece'd your requesting me to send you 3 biles accepted by my self in your favour, to pay a part of a debt due you by Thomas. &amp; Churchill I know of no way that I could pay the biles when thay would fall due, evry dollar that I can get shall be applied to pay the debt of T. &amp; C. <unclear>due</unclear>you you,</p>
+   <p>I rece'd your requesting me to send you 3 biles accepted by my self in your favour, to pay a part of a debt due you by <orgName ref="cwgk:O00008163">Thomas. &amp; Churchill</orgName> I know of no way that I could pay the biles when thay would fall due, evry dollar that I can get shall be applied to pay the debt of T. &amp; C. <unclear>due</unclear>you you,</p>
 <p>Your friend
-<lb/>S, B, Thomas<pb/></p>
+ <lb/><persName ref="cwgk:N00008144">S, B, Thomas</persName><pb/></p>
 <p>S B. Thomas
 <lb/><date when="1861-06-13">June 13. 1861.</date>.</p>
   </body>

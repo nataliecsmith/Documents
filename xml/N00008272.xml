@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00006610">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="DN00008272">
     <teiHeader>
       <fileDesc>
     <titleStmt>
-        <title level="a" type="main">Reuben Runyan</title>
+        <title level="a" type="main">Samuel Miller Breckenridge</title>
           <respStmt>
             <resp n="created">Created by:</resp>
             <name>Jesse Nasta</name>
           </respStmt>        
           <respStmt>
             <resp n="edited">Edited by:</resp>
-            <name>Patrick A. Lewis</name>
+            <name>Anthony P. Curtis</name>
           </respStmt>
     </titleStmt>
     <publicationStmt>
@@ -41,13 +41,13 @@
             </keywords>
         </textClass>
         <particDesc>
-                <person xml:id="N00006610">
+                <person xml:id="N00008272">
                     <persName>
-                      Reuben Runyan
-                        (Frankfort, KY merchant)
+                      Samuel Miller Breckenridge
+                        (Saint Louis, Missouri, attorney, politician, and judge)
                     </persName>
-                        <event type="birth"  when="1814-03-01"  ><ab>1814-03-01</ab></event>
-                        <event type="death"  when="1885-04-07"  ><ab>1885-04-07</ab></event>
+                        <event type="birth"  when="1828-11-03"  ><ab>1828-11-03</ab></event>
+                        <event type="death"  when="1891-05-28"  ><ab>1891-05-28</ab></event>
                         <trait type="race" subtype="White"/>
                       <trait type="gender" subtype="M"/>
                 </person> 
@@ -56,11 +56,11 @@
     </teiHeader>
     <text>
     <body>
-        <p>Frankfort, Kentucky, merchant. Kentucky native. Married Mary L. Runyan. Father of Mattie G. Runyan, Elizabeth G. Runyan, and William L. Runyan. Merchant in Frankfort in 1860. Member of the Board of Councilmen in Frankfort in 1865. </p>
+        <p>Saint Louis, Missouri, attorney, politician, and judge. Baltimore, Maryland, native. Son of the Reverend John Breckenridge and Margaret Breckinridge. Educated at Centre College in Danville, Kentucky, and the College of New Jersey in Princeton, New Jersey. Studied law at Transylvania University in Lexington, Kentucky. Admitted to the bar in 1846. Practiced law in Lexington. Relocated to St. Louis, Missouri, in 1850. Member of the House of Representatives of the state of Missouri from 1854 to 1855. Judge of the St. Louis Circuit Court in 1859. Member of the State Convention of Missouri from 1861 to 1863.</p>
 
     </body>
     <back>
-        <ab><bibl><hi rend="italic">Eighth Manuscript Census of the United States</hi> (1860), Population Schedules, Kentucky, Franklin County, Frankfort District No. 1, p. 116-17. <hi rend="italic">Find A Grave</hi>, &quot;R Runyan (1814-1885),&quot; Memorial #57762351, https://www.findagrave.com/memorial/57762351 (accessed December 21, 2017). KYR-0001-007-0365.
+        <ab><bibl>Stewart, A.J.D., ed., <hi rend="italic">The History of the Bench and Bar of Missouri</hi> (St. Louis, MO: The Legal Publishing Commpany, 1898), 122, https://books.google.com/books?id=eXomAQAAMAAJ&amp;pg=PA122&amp;dq=judge+breckenridge+st.+louis,+missouri&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwju56znmNfVAhUHWCYKHTpLB3YQ6AEIJjAA#v=onepage&amp;q=judge%20breckenridge%20st.%20louis%2C%20missouri&amp;f=false (accessed 14 Aug 2017). &quot;Judge Breckinridge&#39;s Career: He was an Anti-Secessionist at the Time of the War,&quot; <hi rend="italic">New York Times</hi> (New York, N.Y.), May 29, 1891.
 </bibl></ab>
     </back>
 </text>

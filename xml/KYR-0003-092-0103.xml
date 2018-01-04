@@ -63,13 +63,13 @@
  </teiHeader>
  <text>
   <body>
-   <p>E.Town,
+   <p><placeName ref="cwgk:P00002906">E.Town</placeName>,
 <lb/><date when="1861-06-02">June 2<hi rend="underline"><hi rend="sup">th</hi></hi> 1861</date>.
-<lb/>George. W, Johnson Esq
+    <lb/><persName ref="cwgk:N001002">George. W, Johnson</persName> Esq
 <lb/>Dr Sir</p>
-<p>I can <unclear>in</unclear> no way to pay you the amt. T. &amp; C-, are owing you, rest ashured evry excircise on <hi rend="str">o</hi>my part will be used, Could I sell property would gladly to <hi rend="str">d</hi>So pay the amt due. you, but like evry body else can find none with mony to pay for any thing or can I collect. what is due me or any part of it</p>
+   <p>I can <unclear>in</unclear> no way to pay you the amt. <orgName ref="cwgk:O00008163">T. &amp; C-</orgName>, are owing you, rest ashured evry excircise on <hi rend="str">o</hi>my part will be used, Could I sell property would gladly to <hi rend="str">d</hi>So pay the amt due. you, but like evry body else can find none with mony to pay for any thing or can I collect. what is due me or any part of it</p>
 <p>Your friend
-<lb/>S. B. Thomas<pb/></p>
+ <lb/><persName ref="cwgk:N00008144">S. B. Thomas</persName><pb/></p>
 <p>S. B. Thomas </p>
 <p>S. B. Thomas
 <lb/><date when="1861-06-02">June 2<hi rend="sup">nd</hi> 1861</date></p>
